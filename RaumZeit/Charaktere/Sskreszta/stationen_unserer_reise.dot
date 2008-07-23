@@ -1,0 +1,63 @@
+digraph G {
+    name = "RaumZeit Friedenszwang"
+    label = "RaumZeit Friedenszwang"
+    // Personen
+    node [shape="diamond"] Sskreszta; Kalem; Fox; Jack; Jack_geht; Ghost; Ghost_geht; Antov; Antov_geht
+    
+    node [shape=""]
+    // dazugestoßen 
+    Sskreszta -> Ekar
+    Kalem -> Ekar
+    Fox -> Ekar
+    Jack -> Ranos
+    Ghost -> Zerginsel 
+    Antov -> Styro
+    
+    // verlassen
+    Zerginsel -> Ghost_geht
+    Styro -> Jack_geht
+    "Abbaustation in Gasriese" -> Antov_geht
+    
+    // Der Weg
+    edge [label="Flucht vor Systemarmee"] Ekar -> P9X 
+    edge [label="Transport von Lel (Berobter)"] P9X -> Unwetterplanet
+    edge [label=""]
+    Unwetterplanet -> "zerstoerte Station" -> Ranos -> Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
+
+    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese"
+    
+    edge [style="dashed"] "Abbaustation in Gasriese" -> "...s Paradies"
+    
+    edge [label="" style=""]
+    // Beschreibungen
+        
+        // Ereignisse auf dem Unwetterplaneten
+        subgraph cluster3 {
+            name = Unwetterplanet
+            label = Unwetterplanet
+            Unwetterplanet -> "Hoehle des Mutierten" -> Unwetterplanet
+        }
+        
+        // Ereignisse in Ranos
+        subgraph cluster0 {
+            name = Ranos
+            label = Ranos
+            edge [label="Suchen Stress"]Ranos -> "Goldenes Licht"
+            edge [label="Auftrag"] "Goldenes Licht" -> Zerginsel
+            edge [label=""] Zerginsel -> "Paras Versteck (Hoehle)" -> Ranos -> Versorgungsstation -> Ranos
+        }
+        
+        // Ereignisse in Styro
+        subgraph cluster1 {
+            name = Styro
+            label = Styro
+            Styro -> "T373-8: Mine auf Styro" ->  "Hoehle auf Styro" -> Styro -> "Unterirdische Werft auf Styro" -> "Hochsicherheitstrakt auf Styro" -> Styro 
+        }
+        
+        // Ereignisse auf Remi
+        subgraph cluster2 { 
+            name = Remi
+            label = Remi
+            Remi -> "Synachu auf Remi" -> Remi -> "Kloster auf Remi" -> Remi
+        }
+}
