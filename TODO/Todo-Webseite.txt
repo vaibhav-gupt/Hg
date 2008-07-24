@@ -8,6 +8,8 @@ Was für die Webseite noch zu tun ist.
 
 * Erzählsteine braucht ein Beispiel
 * Freie Magie braucht Regeln
-* Schadenstypen braucht Inhalt - erstmal Effekte in Realität. 
+* Schadenstypen braucht Prüfung. 
+
+* Ungeteste Module wollen getestet werden :) 
 
 - Drak
