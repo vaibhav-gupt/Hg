@@ -6,4 +6,8 @@ Was für die Webseite noch zu tun ist.
 * Charaktererschaffung muss auf die gedruckte Version aktualisiert werden. 
 * Die Kampagne Wächter der Zeit braucht etwas mehr Beschreibung. 
 
+* Erzählsteine braucht ein Beispiel
+* Freie Magie braucht Regeln
+* Schadenstypen braucht Inhalt - erstmal Effekte in Realität. 
+
 - Drak
