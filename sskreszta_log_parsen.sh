@@ -4,6 +4,9 @@
 
 cd RaumZeit/Charaktere/Sskreszta/
 mkdir -p static
+
+# First create the markdown content of the index page. 
+
 echo "Sskreszta-Log statisch" > static/index.mdwn
 echo "======================" >> static/index.mdwn
 for i in Sskreszta-log*txt
@@ -11,12 +14,19 @@ for i in Sskreszta-log*txt
   echo "" >> static/index.mdwn
 done
 
-markdown.py -e utf-8 static/index.mdwn > static/index.html
+# Then compile it to html. 
+
+echo "<html><head><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/></head><body text='#903r09' link='0b5e93'>" > static/index.html
+markdown.py -e utf-8 static/index.mdwn >> static/index.html
+echo "</bod<></html>" >> static/index.html
+
+# And compiile every entry to html. 
+
 for i in Sskreszta-log*
   do echo "<html>" > static/$i.html
-  echo "<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>" >> static/$i.html
-  echo "<body>" >> static/$i.html
+  echo "<head><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/></head>" >> static/$i.html
+  echo "<body text='#903r09' link='0b5e93'>" >> static/$i.html
   markdown.py $i >> static/$i.html
-  echo "</body></html>" >> static/$i.html
+  echo "<a href='index.html'>andere Logeinträge</></body></html>" >> static/$i.html
 done
 
