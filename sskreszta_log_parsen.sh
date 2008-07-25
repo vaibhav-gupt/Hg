@@ -19,3 +19,4 @@ for i in Sskreszta-log*
   markdown.py $i >> static/$i.html
   echo "</body></html>" >> static/$i.html
 done
+
