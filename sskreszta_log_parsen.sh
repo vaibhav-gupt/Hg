@@ -3,7 +3,7 @@
 # License of this script: GPL
 
 cd RaumZeit/Charaktere/Sskreszta/
-mkdir static
+mkdir -p static
 echo "Sskreszta-Log statisch" > static/index.mdwn
 echo "======================" >> static/index.mdwn
 for i in Sskreszta-log*txt
