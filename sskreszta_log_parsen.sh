@@ -18,7 +18,7 @@ done
 
 echo "<html><head><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/></head><body text='#903r09'>" > static/index.html
 markdown.py -e utf-8 static/index.mdwn >> static/index.html
-echo "</bod<></html>" >> static/index.html
+echo "<p><a href='http://1w6.org'>zur Hauptseite</a></p></body></html>" >> static/index.html
 
 # And compiile every entry to html. 
 
