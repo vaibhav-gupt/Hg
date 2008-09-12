@@ -201,3 +201,64 @@ Von Everworld Engine:
 Entscheidungen treffen: Sobald eine Entscheidung getroffen ist: Bonus. Wenn sie ins Wanken gerät: Das gleiche als Malus, bis neue Entscheidung. Dauer bis neue Entscheidung: Würfelwurf. 
 
 ------
+
+Ich lese gerade über Graphentheorie nach (lernen für meine Diplomprüfung), und 
+nachdem ich herausgefunden habe, dass es Wegplanungsalgorithmen gibt, die Pfade mit 
+<em>negativen Kosten</em> mit einberechnen können (<a 
+href="http://de.wikipedia.org/wiki/Bellman-Ford-Algorithmus">Bellman-Ford</a>), die 
+aber die Einschränkung haben, dass keine Kreise durchlaufen werden können (mehrfach 
+die gleichen Kosten sparen), beherrscht gerade ein Gedanke mein Hirn: 
+<strong>Zeitreisende sind unfair!</strong>
+
+Etwas Hintergrund: Wir wurden von einem verdammten Protektoren angegriffen, und 
+plötzlich erschienen hunderte (<a href="http://raumzeit.1w6.org">RaumZeit 
+Universum</a>). 
+
+Und Protektoren können vermutlich die Zeit manipulieren (unsere Inplay Infos sind da 
+noch unvollständig - wir müssen mal einen Protektor zur Hand haben, um sie nachprüfen 
+zu können - das heißt natürlich: wir müssen ihn vor den Lauf unserer Waffen bringen 
+und dafür sorgen, dass keine Duplikate von ihm aus der Zukunft kommen können - auch 
+wenn er daran wahrscheinlich merken würde, dass wir ihn eh umbringen, es sei denn, 
+wir können irgendwie eine Zeitblockade erschaffen - gah!). 
+
+Zurück zur Wegplanung: 
+Ich habe ein <a 
+href="http://links.math.rpi.edu/applets/appindex/graphtheory.html">Applet zur 
+Graphentheorie</a> ausprobiert, und plötzlich waren die Kosten für den Weg zum Ziel 
+negativ, das heißt, der Reisende kommt an, bevor er losgeht. 
+
+Ich bin mir noch nicht völlig klar, ob der Algorithmus leicht angepasst (oder einfach 
+genutzt) werden kann, um Wege mit mehrfachen Sprüngen in die Vergangenheit zu planen 
+(vll. indem kein Weg echt wiederholt werden kann, da der Sprung in die Vergangenheit 
+Energie kostet), aber ich kam nicht mehr davon weg, dass Zeitreisende einfach unfair 
+sind :) 
+
+Was auch schon der Hintergrund dieses Blog-Eintrags ist :) 
+Abgesehen von der echt tollen Runde, in der <a href="/uzanto/inside">Inside</a> uns 
+mit vermutlich nur einem oder zwei Protektoren konfrontiert hat - es waren nämlich 
+all die hunderte Protektoren weg, nachdem wir zwei erschossen hatten. 
+
+Selbst ohne Präkognition sind die schon übel, aber mit Präkognition muss man selbst 
+entweder tiefer in die Zukunft sehen oder tiefer in die Zukunft planen können als sie 
+- eine Schachpartie inmitten eines Feuergefechtes :)
+
+Wenn man tiefer in die Zukunft sieht, ist es natürlich einfach: Man schaut einfach, 
+wie man ihr trifft. 
+
+Wenn man nicht in die Zukunft sieht, muss man dagegen alle möglichen Züge des 
+Protektors vorrausplanen, um zu wissen, wie man ihn überhaupt treffen kann. 
+
+Wir haben uns für die erste Variante entschieden :) 
+
+Idee für das Ausspielen der virtuellen Schachpartie: Eine kleinere Runde Schach 
+(weniger Figuren für kürzeres Spiel). Mit einem erfolgreichen Wettstreit kann der 
+Verlierer gezwungen werden, einen Zug ohne Wissen um die Aktionen des Gewinners zu 
+spielen. Sobald der bisherige Gewinner einmal verliert, muss er alle bisher 
+versteckten Züge nachholen und einen weiteren ohne Vorwissen machen. Falls der 
+Verlierer (ohne Vorwissen) eine Figur schlagen will, wird der freie Wettstreit 
+abgebrochen, und der Gewinner muss seine Züge machen (begrenzt die Reichweite - 
+sobald es bleibende Folgen gibt, werden beide wieder zusammengezogen und die Züge 
+laufen wieder gleichzeitig). Das gleiche gilt, wenn der Gewinner in einem Zug eine 
+Figur des Verlierers beeinträchtigen will - der Vorteil kann also nur bessere 
+Stellungen bringen, z.B. sofortiges Schach Matt :) )
+
