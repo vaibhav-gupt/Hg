@@ -262,3 +262,8 @@ laufen wieder gleichzeitig). Das gleiche gilt, wenn der Gewinner in einem Zug ei
 Figur des Verlierers beeinträchtigen will - der Vorteil kann also nur bessere 
 Stellungen bringen, z.B. sofortiges Schach Matt :) )
 
+z.B. könnte eine Schachfigur pro Spieler gewählt werden. 
+
+------
+
+
