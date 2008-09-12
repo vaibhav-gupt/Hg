@@ -202,38 +202,6 @@ Entscheidungen treffen: Sobald eine Entscheidung getroffen ist: Bonus. Wenn sie 
 
 ------
 
-Ich lese gerade über Graphentheorie nach (lernen für meine Diplomprüfung), und 
-nachdem ich herausgefunden habe, dass es Wegplanungsalgorithmen gibt, die Pfade mit 
-<em>negativen Kosten</em> mit einberechnen können (<a 
-href="http://de.wikipedia.org/wiki/Bellman-Ford-Algorithmus">Bellman-Ford</a>), die 
-aber die Einschränkung haben, dass keine Kreise durchlaufen werden können (mehrfach 
-die gleichen Kosten sparen), beherrscht gerade ein Gedanke mein Hirn: 
-<strong>Zeitreisende sind unfair!</strong>
-
-Etwas Hintergrund: Wir wurden von einem verdammten Protektoren angegriffen, und 
-plötzlich erschienen hunderte (<a href="http://raumzeit.1w6.org">RaumZeit 
-Universum</a>). 
-
-Und Protektoren können vermutlich die Zeit manipulieren (unsere Inplay Infos sind da 
-noch unvollständig - wir müssen mal einen Protektor zur Hand haben, um sie nachprüfen 
-zu können - das heißt natürlich: wir müssen ihn vor den Lauf unserer Waffen bringen 
-und dafür sorgen, dass keine Duplikate von ihm aus der Zukunft kommen können - auch 
-wenn er daran wahrscheinlich merken würde, dass wir ihn eh umbringen, es sei denn, 
-wir können irgendwie eine Zeitblockade erschaffen - gah!). 
-
-Zurück zur Wegplanung: 
-Ich habe ein <a 
-href="http://links.math.rpi.edu/applets/appindex/graphtheory.html">Applet zur 
-Graphentheorie</a> ausprobiert, und plötzlich waren die Kosten für den Weg zum Ziel 
-negativ, das heißt, der Reisende kommt an, bevor er losgeht. 
-
-Ich bin mir noch nicht völlig klar, ob der Algorithmus leicht angepasst (oder einfach 
-genutzt) werden kann, um Wege mit mehrfachen Sprüngen in die Vergangenheit zu planen 
-(vll. indem kein Weg echt wiederholt werden kann, da der Sprung in die Vergangenheit 
-Energie kostet), aber ich kam nicht mehr davon weg, dass Zeitreisende einfach unfair 
-sind :) 
-
-Was auch schon der Hintergrund dieses Blog-Eintrags ist :) 
 Abgesehen von der echt tollen Runde, in der <a href="/uzanto/inside">Inside</a> uns 
 mit vermutlich nur einem oder zwei Protektoren konfrontiert hat - es waren nämlich 
 all die hunderte Protektoren weg, nachdem wir zwei erschossen hatten. 
