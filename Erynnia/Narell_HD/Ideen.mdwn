@@ -7,3 +7,52 @@ Ulien
 -----
 
 "Die Weisen aus unseren Legenden haben sich jedes Jahr im Licht des ersten vollen Mondes getroffen, um die Kraft ihrer Jugend zurückzugewinnen, und sie bewahrten das Wissen über hunderte von Jahren, bis er den nächsten Schritt un's ungewisse wagen wollte, um die Grenzen seines Körpers abzulegen, doch diese Zeiten sind seit Jahrtausenden vorbei, und heute verschwinden unsere Legenden. Wir sind die einzigen, die noch die alten Lieder singen und sich an den Ort der Zuflucht erinnern, und auch unser Wissen wurde im Fluss der Zeit abgeschliffen." 
+
+Grobplanung
+-----------
+
+Auf dem Weg zur Höhle kommen erst ihre Stärken raus. 
+
+Auf dem Rückweg durch die bewohnten Höhlensysteme (brechen in den Boden der Höhle ein) schlagen ihre Schwächen zu. 
+
+Weg bis zur Höhle: 4 große Szenen
+---------------------------------
+
+Für jeden Char eine große Szene - deswegen wird er gebraucht. 
+
+### Luja
+
+Insektengrube mit giftigen Insekten. Sie kann sich mehrere Stunden dort hinlegen, dann werden die Insekten tot sein. 
+
+Wird durch den masiven Fluss an Lebenskraft komplett ausgeschaltet - Extase. 
+
+### Kiran
+
+Eine riesige Höhle, deren hintere Wand senkrecht aufsteigt und von dem Wasser, das aus dem obersten Teil der Steilwand austritt und als Wasserfall herabstürzt, glatt und glitschig ist. 
+
+Winzige hell glühende Moospflänzchen hängen auf der Wand (und machen sie nochmal glitschiger). 
+
+Allerdings gibt es einige Absätze auf denen sich kein Moos halten kann und in denen seltsame schwarze Felsen vorragen (Obsidian). An den Felsen kann Kiran das Seil befestigen. 
+
+Außerdem: Spürt in der Chitinhand, wenn Ameisen kommen. 
+
+### Nieswurz
+
+Nach der Höhle ist der Gang des Wassers erst breit und Moos wächst um den Strom herum. 
+
+An einer Stelle wird der Gang allerdings schmaler, und das Moos füllt ihn vollständig aus. 
+
+Er kann ihm sagen, dass es zur Seite gehen soll (wird noch ein paar Mal nötig sein). 
+
+Luja kann das Moos nicht schnell genug töten, als es durch den *Kodon Chara* nachwächst. 
+
+### Gargamel
+
+Streit zwischen den anderen Charakteren? 
+
+Besser: Verhandlungen. Fremde Wesen reden mit ihnen. 
+
+### Limum Bai
+
+Während Luja ausgeschaltet ist, greifen Ameisen an. 
+
