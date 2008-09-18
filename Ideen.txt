@@ -329,3 +329,14 @@ Stimm- und Beschreibungstraining für Rollenspieler:
 "Trink' genug Wasser."
 
 "Nimm' dich auf Tonband auf. Dann entspann' dich. Es klingt für jeden so grausig, wenn er sich das erste Mal selbst hört. Jetzt such' nach Verbesserungsmöglichkeiten."
+
+------ 
+
+Gemeinsame Kampagnen - jeder trägt seine eigenen Verzweigungen ein, die Wege in die seine Kampagne gegangen ist und auch die, an die er gedacht hatte, die aber nicht passiert sind. 
+
+Damit könnten vollständig nichtlineare Abenteuer entstehen. 
+
+Aus diesen Aufschrieben können dann riesige Flussdiagramme entstehen. 
+
+------ 
+
