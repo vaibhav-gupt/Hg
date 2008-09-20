@@ -5,14 +5,17 @@
  
  2. Probe (gemäß des Systems) durchführen, aber dies von der Beschreibung beeinflussen (Regel: Gezielter Angriff! Beinflussung: Gute Beschreibung! Probe um 2 erleichtert.). 
  
- 3. Zeitlupenende. Die Beschreibung behält ihre Richtigkeit, aber der Ausgang wird von den Wrfeln bestimmt(z.B. Fehlschlag:"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochnellt und auf deinen Magen zurast").
+ 3. Zeitlupenende. Die Beschreibung behält ihre Richtigkeit, aber der Ausgang wird von den Würfeln bestimmt(z.B. Fehlschlag:"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochnellt und auf deinen Magen zurast").
 - ragnarok, 17. Feb 2004
+
+Für's EWS: 
+*"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochnellt und sich in deinen Magen gräbt"*
 
 ---
 
 Weltenideen: 
 
-Berhrte: Charaktere, die von einem Element oder Wesen berührt wurden. Sie können eins mit ihrem Element werden, fangen jedoch als "normale" Charaktere an. 
+Berührte: Charaktere, die von einem Element oder Wesen berührt wurden. Sie können eins mit ihrem Element werden, fangen jedoch als "normale" Charaktere an. 
 Mit der Zeit können sie immer mehr zu dem werden, was sie in ihrem Innersten sind. 
 Drachenmenschen, Feuermenschen, Erynnias Wächter, Engelkinder, Feenträumer, Schattentänzer, Schattenläufer, Phoenixe. 
 
@@ -39,6 +42,8 @@ EWS tödlicher machen: Trefferpunkte = Konstitution oder passend.
 Hintergrundidee: Die Guten und die Bösen
 
 Ihr seid die Guten, und ihr kämpft für das Gute.  
+
+(Ob das am Ende wirklich immer gut ist, bleibt herauszufinden... )
 
 -----
 
@@ -74,14 +79,12 @@ Auch die Reputation kann über das Schadenssystem geregelt werden. Wirklich schw
 
 Modul: Den Pfad wählen
 
-Charaktere können sich einem bestimmten Pfad verschreiben. Dabei legt der Spieler die Handlungen der Charaltere für die nächste Zeit in groben Umrissen fest. 
-Je nachdem wie stark dadu
-rch das Verhalten des Charakters eingeschränkt wird (wie krass die Einschränkung ist, wie hart der Pfad ist) und wie lange dieser Pfad wahrscheinlich brauchen wird, erhält der Charakter Bonuspunkte auf alle seine mit dem Pfad verbundenen Handlungen. 
+Charaktere können sich einem bestimmten Pfad verschreiben. Dabei legt der Spieler die Handlungen der Charaktere für die nächste Zeit in groben Umrissen fest. 
+Je nachdem wie stark dadurch das Verhalten des Charakters eingeschränkt wird (wie krass die Einschränkung ist, wie hart der Pfad ist) und wie lange dieser Pfad wahrscheinlich brauchen wird, erhält der Charakter Bonuspunkte auf alle seine mit dem Pfad verbundenen Handlungen. 
 
 Sollte der Glauben des Charakters an seinen Pfad erschüttert werden, erhält er die gleichen Punkte als Abzug auf alle Proben, bis er einen neuen Pfad für sich gefunden hat. 
 
-Soll widerspiegeln, dass Charaktere oft eher durch den Verlust an ihre eigenen Werte und ihre eigenen Handlungen verlieren als durch reine Kampfkraft
-Und dass Charaktere, die sich exakt einem Ziel verschrieben und dieses Ziel mit all ihrem Wesen leben, solange sie ihrem Ziel treu bleiben in der Literatur und Comics so gut wie unstoppbar sind.
+Soll widerspiegeln, dass Charaktere oft eher durch den Verlust an ihre eigenen Werte und ihre eigenen Handlungen verlieren als durch reine Kampfkraft, und dass Charaktere, die sich exakt einem Ziel verschrieben und dieses Ziel mit all ihrem Wesen leben, solange sie ihrem Ziel treu bleiben in der Literatur und Comics so gut wie unstoppbar sind.
 
 Höchstmöglicher Bonus: Willenstkraft / 3 oder ähnlich passendes. 
 
@@ -194,6 +197,8 @@ zu reden.
 
 Dadurch wird der Einstieg deutlich einfacher. 
 
+Oder nur in mit Strichen (=Punkte) Dreiecke bauen, die dann zu Plussen werden. 
+
 ------
 
 Von Everworld Engine: 
@@ -201,3 +206,148 @@ Von Everworld Engine:
 Entscheidungen treffen: Sobald eine Entscheidung getroffen ist: Bonus. Wenn sie ins Wanken gerät: Das gleiche als Malus, bis neue Entscheidung. Dauer bis neue Entscheidung: Würfelwurf. 
 
 ------
+
+Abgesehen von der echt tollen Runde, in der <a href="/uzanto/inside">Inside</a> uns 
+mit vermutlich nur einem oder zwei Protektoren konfrontiert hat - es waren nämlich 
+all die hunderte Protektoren weg, nachdem wir zwei erschossen hatten. 
+
+Selbst ohne Präkognition sind die schon übel, aber mit Präkognition muss man selbst 
+entweder tiefer in die Zukunft sehen oder tiefer in die Zukunft planen können als sie 
+- eine Schachpartie inmitten eines Feuergefechtes :)
+
+Wenn man tiefer in die Zukunft sieht, ist es natürlich einfach: Man schaut einfach, 
+wie man ihr trifft. 
+
+Wenn man nicht in die Zukunft sieht, muss man dagegen alle möglichen Züge des 
+Protektors vorrausplanen, um zu wissen, wie man ihn überhaupt treffen kann. 
+
+Wir haben uns für die erste Variante entschieden :) 
+
+Idee für das Ausspielen der virtuellen Schachpartie: Eine kleinere Runde Schach 
+(weniger Figuren für kürzeres Spiel). Mit einem erfolgreichen Wettstreit kann der 
+Verlierer gezwungen werden, einen Zug ohne Wissen um die Aktionen des Gewinners zu 
+spielen. Sobald der bisherige Gewinner einmal verliert, muss er alle bisher 
+versteckten Züge nachholen und einen weiteren ohne Vorwissen machen. Falls der 
+Verlierer (ohne Vorwissen) eine Figur schlagen will, wird der freie Wettstreit 
+abgebrochen, und der Gewinner muss seine Züge machen (begrenzt die Reichweite - 
+sobald es bleibende Folgen gibt, werden beide wieder zusammengezogen und die Züge 
+laufen wieder gleichzeitig). Das gleiche gilt, wenn der Gewinner in einem Zug eine 
+Figur des Verlierers beeinträchtigen will - der Vorteil kann also nur bessere 
+Stellungen bringen, z.B. sofortiges Schach Matt :) )
+
+z.B. könnte eine Schachfigur pro Spieler gewählt werden. 
+
+------
+
+Idee für eine Spezies: Geflügelte, die in den Wolken leben. 
+
+Ihre Haut absorbiert Wasser aus den Wolken, so dass sie zum trinken nicht auf den 
+Boden müssen. 
+
+Die Wolkenbewohner spüren schwache Änderungen des Luftdrucks und bemerken andere 
+ihrer Spezies dadurch auf große Entfernung.  
+
+Schreckliche unter ihnen leben in Gewitterwolken (die Ladung in der Wolke könnte sie 
+aggressiver machen, oder stärker, vor allem aber verbirgt sie sie). 
+
+Wenn ein Flugobjekt ankommt und sie darauf landen wollen, steigen sie weit auf, um im 
+Sturzflug die Geschwindigkeit des Flugobjektes zu erreichen. 
+
+*"Siehst du das Volkenvolk über uns? Wenn sie so hoch fliegen, kommen sie um mit uns 
+zu sprechen."*
+
+Ihre Körper sind leicht und fragil, aber Menschengroß. 
+
+Sie brauchen außerhalb der Wolken deutlich mehr Wasser als andere - können aber 
+weniger tragen. Kleidung könnte das abmildern, und feuchte Kleidung könnte ihnen ein 
+Leben außerhalb der Wolken ermöglichen. 
+
+Wenn sich Wolken rasch auflösen, könnten ganze Schwärme von ihnen in Gefahr sein. 
+
+Vielleicht findet man dann und wann erfrorene oder vertrocknete Wolkenleute. 
+
+Sie ernähren sich von Vögeln, in Zeiten des Hungers aber auch mal von kleinen 
+Bodenbewohnern. 
+
+Wie Zugvögel wandern sie von Ort zu Ort, aber viele betreten den festen Boden nur 
+zweimal im Jahr für längere Zeit. 
+
+Ihre Bewegungen richten sich nach den Wolken, so dass sie zwar schnell sind, aber 
+selten Nachrichten übermitteln. Manchmal könnte ein Bote von ihnen ausgesandt werden, 
+um wichtige Nachrichten zu transportieren - was für diesen ähnlich ist wie für einen 
+Menschen eine Reise durch die Wüste. 
+
+
+Weitere Ideen dazu: 
+
+* Ihr Aussehen kann Menschenähnlich sein, oder sehr fremdartig, mit blauer 
+Haut, transparenten Schwingen und großen irisierenden Augen. 
+
+* Genauso könnten sie auch gefederte Schwingen haben -> effizienter für schnelles 
+Fliegen (Auftrieb durch daran entlangstreichende Luft statt nur durch die 
+Muskelkraft). 
+
+* Vielleicht können sie die Wolken nur für begrenzte Zeit verlassen, oder 
+wollen es einfach nicht, weil es in den WOlken viel angenehmer ist. 
+
+* Vielleicht trocknet ihre Haut schnell, wenn sie nicht mehr in den Wolken sind, so 
+dass sie nicht nur viel trinken, sondern ihre Haut auch regelmäßig benetzen müssen. 
+
+* Ihre Körpertemperatur könnte niedriger sein. 
+
+* In den Wolken verdunstet so viel Wasser auf ihrer Haut wie kondensiert, so dass ein 
+Temperaturgleichgewicht gewahrt bleibt. Sie könnten außerhalb der Wolken also trotz
+höheren Temperaturen erfrieren. 
+
+------ 
+
+Stimm- und Beschreibungstraining für Rollenspieler: 
+
+* Sammlung schöner Ausdrücke: 
+    - Kampf
+    - Personenbeschreibung
+    - Landschaften
+    - Ausrüstung
+
+* Situationen üben (spezifische Situationen zum üben aufschreiben)
+
+* Stimmung halten (z.B. *Beschreibung* ... was tust du?)
+
+* Körperhaltungen, Mimik und Gestik für NSCs (mit Skizzen, Inspiration z.B. von Zeichnerpuppen. Stehend (die Person) und sitzend (wie du den NSC spielst).)
+
+
+"Lies viele GEschichten und hör' dir Hörbücher an. Schreib' dir schöne Ausdrücke raus." 
+
+"Üb' wichtige Teile vorher, das hilft auch den weniger wichtigen." 
+
+"Sprich dir Teile in Gedanken vor, und dann sprich sie auch mit deinem Mund (und deinem Körper)."
+
+"Wenn in einem Film jemand interessant spricht, notier es dir und sprich ihn nach, imitiere ihn, auch wenn es anfangs doof klingt, und schau dir auch seine Körpersprache an, die macht sowohl für deine Stimme, als auch für deine Wirkung auf deine Spieler einen deutlichen Unterschied."
+
+"Hör' dir an, wie Leute auf der Straße sprechen. Rede mit Leuten in Bus und Straßenbahn."
+
+"Trink' genug Wasser."
+
+"Nimm' dich auf Tonband auf. Dann entspann' dich. Es klingt für jeden so grausig, wenn er sich das erste Mal selbst hört. Jetzt such' nach Verbesserungsmöglichkeiten."
+
+------ 
+
+Gemeinsame Kampagnen - jeder trägt seine eigenen Verzweigungen ein, die Wege in die seine Kampagne gegangen ist und auch die, an die er gedacht hatte, die aber nicht passiert sind. 
+
+Damit könnten vollständig nichtlineare Abenteuer entstehen. 
+
+Aus diesen Aufschrieben können dann riesige Flussdiagramme entstehen. 
+
+------ 
+
+Erschaffen in Geschichten: 
+
+- Jedes Lebensjahr des Chars erzählen. 
+- Jedes Jahr ein Strich. -> mit 21 Jahren 21 Striche = 7 Dreiecke = angehende Helden. 
+- Ab 21 jedes Jahr einen Strich aber jedes dritte Jahr auch einen Strich (woanders) entfernen - mit 30 hat er 9 Dreiecke. 
+- Ab 30 jedes Jahr einen Strich umlegen, jedes dritte Jahr einen Strich dazu -> mit 60 hat er 12 Dreiecke und 1 Strich. 
+- Ab 60 nur noch Striche umlegen + langsamer Verfall. 
+
+=> Startalter für Charaktere -> Jedes Jarh erzählen, pro Jahr steigern. 
+
+------ 
