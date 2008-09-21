@@ -1,0 +1,152 @@
+graph G {
+    ranksep=1;
+	// Leute
+        //Spieler und/oder Spielleiter
+	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; 
+        // Sonstige
+    "Gertrud Wenzel"   
+
+    // Kampagnen
+	node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"; 
+    
+    // kurze Runden
+    node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Greise Helden";
+    
+    // Mitarbeit
+    node [shape=box]; Schlachtfeld; "1w6.org"; "RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Martial Arts Modul"; "RaumZeit Psi"; "Nexus Welt"; "Grundregeln"; "Cover"; 
+
+
+
+
+
+	// Definition der Kategorien
+
+
+	node [shape=diamond,style=dashed,color="1.0 0.5 0.7"]; Welten; Mitarbeit; 	
+
+	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; 
+	node [shape=box,style=filled,color=".7 .5 1.0"]; Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen"
+
+	node [shape=octagon,style=dashed,color="0.3 0.5 0.7"]; Orte; Cons
+	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Köln"; Brok; "Dresden"; 
+
+
+	// Beziehungen
+
+	edge [arrowhead=none];
+	node [shape=box,style=dashed filled,color="0.3 0.5 0.7"]; 
+
+
+	// Kategorisierung der Runden
+        
+	{"Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; Crossover; "Eine stabile Gesellschaft"; "Nexus-Welt"; "Die Stadt zwischen den Welten"} -- Welten
+
+	// Kategorisierung der Mitarbeit
+
+	{Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen";    } -- Mitarbeit
+
+	
+	// Nach Welt
+        
+	{"Seminar"; "Ruger u. Fluck"; "Die geflügelten Krieger";"Narell Ebene"; "Greise Helden"; } -- Ern
+	{"Rettet die Weltenkristalle";"Seminar";} -- Crossover
+    "Wächter der Zeit" -- "RaumZeit Maschinenkrieg"
+    {"Auf der Flucht";"Erstkontakt";"Schattenspiele";} -- "Totenwache"
+    {"Totenwache";"Schattenspiele";"Piraten und Zerg";} -- "RaumZeit Friedenszwang"
+    {"Motivation"} -- "Eine stabile Gesellschaft"
+    {"Nexus"} -- "Nexus-Welt"
+    {"Gefangen zwischen den Welten"} -- "Die Stadt zwischen den Welten"
+
+	// Nach Mitarbeit
+	"Schlachtfeld" -- Programmierung
+	"1w6.org" -- Internet
+	{"RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Nexus Welt";  } -- Weltenbau
+	{"Grundregeln"; "Martial Arts Modul"; "RaumZeit Psi"} -- Regelentwurf
+    "Cover" -- "Bilder und Zeichnungen"   
+
+	// Orte
+
+	Orte -- {Karlsruhe; Heidelberg; "Köln"; Dresden; }
+    Cons -- { Brok; ESW }
+
+	// Wege von Runde zu Runde
+	
+	edge [arrowhead=normal]
+
+
+	edge [arrowhead=none]
+
+
+
+
+	// Leute
+	// Spieler
+
+	// Nach Ort
+    edge [color="0.3 0.5 0.7"]
+
+	Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein"}
+	Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";}
+    ESW -- {"Arne Babenhauserheide"; "Björn Bäuerlein"; "Alexander Fuß";"Moritz Herrmann";"Marc";"Brujah";} 
+    "Köln" -- {"Achim Zien"; }
+    
+    "Brok" -- {"Arne Babenhauserheide"; "Brujah"; "Barbara Bollenbach"; "Moritz Herrmann"; "Björn Bäuerlein"}
+
+    "Dresden" -- {"Gertrud Wenzel"; }
+
+    // Nach Mitarbeit
+    edge [label=""]
+    
+    edge [color="0.32 0.5 0.7"];    "Arne Babenhauserheide" -- {"Martial Arts Modul"; "Grundregeln"; "1w6.org"; "Erynnia Fantasywelt"; "Freihändler Universum"; "Schlachtfeld"; "RaumZeit Universum"; "RaumZeit Psi"; }
+    edge [color="0.14 0.5 0.7"];    "Julian Groß" -- {"RaumZeit Universum"; "RaumZeit Psi"; "1w6.org"; "Grundregeln"; }
+    edge [color="0.38 0.5 0.7"];    "Oliver Jahnel" -- { "Martial Arts Modul";"1w6.org"; "Grundregeln"; }
+    edge [color="1.0 0.5 0.7"];    "Achim Zien" -- {"Schlachtfeld"; "1w6.org"; }
+    edge [color="0.44 0.5 0.7"];    "Andreas Jehle" -- {"1w6.org"; "Grundregeln"; }
+    edge [color="0.50 0.5 0.7"];    "Jens Stengel" -- {"1w6.org"; "Grundregeln"; }
+    edge [color="0.56 0.5 0.7"];    "Gertrud Wenzel" -- {"Cover"; }
+
+    
+    // Nach Runde - TODO: Statt "SpielerIn" den Charakternamen
+    edge [label="SpielerIn",fontsize=8,color="0.3 0.5 0.7"]
+
+
+    
+    edge [color="0.14 0.5 0.7"];	"Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene"; }
+    edge [color="0.2 0.5 0.7"]; "Benjamin Gepart" -- {"Wächter der Zeit";}
+    edge [color="0.26 0.5 0.7"];	"Verónica" -- {"Seminar";"Erstkontakt";"Schattenspiele";"Gefangen zwischen den Welten"}
+    edge [color="0.32 0.5 0.7"];	"Arne Babenhauserheide" -- {"Auf der Flucht";"Erstkontakt";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";"Nexus";"Gefangen zwischen den Welten"; "Greise Helden"}
+    edge [color="0.38 0.5 0.7"];    "Oliver Jahnel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; }
+    edge [color="0.38 0.5 0.7"]; "Luca Kracke" -- "Erstkontakt"
+    edge [color="0.44 0.5 0.7"];    "Andreas Jehle" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Gefangen zwischen den Welten";}
+    edge [color="0.50 0.5 0.7"];    "Jens Stengel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";}
+    edge [color="0.56 0.5 0.7"];    "Alexander Fuß" -- {"Die geflügelten Krieger"; "Nexus";"Gefangen zwischen den Welten";}
+    edge [color="0.62 0.5 0.7"];    "Björn Bäuerlein" -- {"Die geflügelten Krieger";"Ruger u. Fluck"; "Nexus"; "Greise Helden"}
+    edge [color="0.68 0.5 0.7"];    "Marc" -- {"Die geflügelten Krieger"; }
+    edge [color="0.74 0.5 0.7"];    "Moritz Herrmann" -- {"Die geflügelten Krieger"; "Nexus Welt"; "Greise Helden";}
+    edge [color="0.80 0.5 0.7"];    "Brujah" -- {"Die geflügelten Krieger"; "Nexus";"Gefangen zwischen den Welten";"Greise Helden";}
+    edge [color="0.86 0.5 0.7"];    "Vinzent Eppelt" -- {"Motivation"; "Ruger u. Fluck"; "Gefangen zwischen den Welten" }
+    edge [color="0.92 0.5 0.7"];    "Sarina Kraneis" -- {"Motivation"; "Gefangen zwischen den Welten"; }
+    edge [color="0.98 0.5 0.7"];    "Julian Willuhn" -- {"Motivation"; }
+    "Barbara Bollenbach" -- {"Greise Helden"; }
+
+
+	// Spielleiter
+    
+	// Nach Ort
+	edge [label="SL",color="1.0 0.5 0.7"]
+    
+	Karlsruhe -- {"Julian Groß";"Arne Babenhauserheide";}
+	Heidelberg -- {"Arne Babenhauserheide";}
+	ESW -- {"Arne Babenhauserheide";"Moritz Herrmann"}
+    Brok -- {"Arne Babenhauserheide"}
+
+	// Nach Runde
+	edge [label="SL",color="1.0 0.5 0.7"]
+
+	"Julian Groß" -- {"Auf der Flucht";"Erstkontakt";"Rettet die Weltenkristalle";"Wächter der Zeit";"Piraten und Zerg";}
+	"Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation"; "Greise Helden"; }	
+    "Moritz Herrmann" -- "Nexus"; 
+    
+
+    
+}
