@@ -17,6 +17,10 @@ digraph G {
     Zerginsel -> Ghost_geht
     Styro -> Jack_geht
     "Abbaustation in Gasriese" -> Antov_geht
+
+    // wiedergekommen
+    [edge label="Kommt mit Kira von Synarchu zurueck"]
+    Antov_wieder -> Remi
     
     // Der Weg
     edge [label="Flucht vor Systemarmee"] Ekar -> P9X 
@@ -24,9 +28,12 @@ digraph G {
     edge [label=""]
     Unwetterplanet -> "zerstoerte Station" -> Ranos -> Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
 
-    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese"
-    
-    edge [style="dashed"] "Abbaustation in Gasriese" -> "...s Paradies"
+    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" 
+    "Abbaustation in Gasriese" -> "Hakus Paradies, Vorstation" -> "Randstation im Ashar System"
+    "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar"
+
+    // Wie es weitergehen koennte. 
+    edge [style="dashed"]
     
     edge [label="" style=""]
     // Beschreibungen
@@ -60,4 +67,12 @@ digraph G {
             label = Remi
             Remi -> "Synachu auf Remi" -> Remi -> "Kloster auf Remi" -> Remi
         }
+
+        // Ereignisse bei Ashar
+        subgraph cluster3 { 
+            name = Ashar
+            label = Ashar
+            "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar"
+        }
 }
+// pisste im stehn kannste gleich wieder gehn. 
