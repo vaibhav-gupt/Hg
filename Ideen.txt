@@ -351,3 +351,18 @@ Erschaffen in Geschichten:
 => Startalter für Charaktere -> Jedes Jarh erzählen, pro Jahr steigern. 
 
 ------ 
+
+Merkmale, die von der Staerke des Chars abhaengen -> reduzieren 
+Erfahrungspunkte. Gilt fuer Merkmale, die eine spezielle Faehigkeit freischalten, 
+die es sonst gar nicht gibt (z.B. Unsterblichkeit u.ae.), weil durch die 
+Faehigkeit Chars in hoeheren Bereichen groessere Vorteile haben, d.h. der 
+Unterschied zwischen Chars haengt z.B. nur von der Differenz ihrer Werte ab, nicht 
+von dem absoluten Wert, das Merkmal gibt aber einen absoluten Vorteil
+
+------
+
+Eckenkosten fuer besondere Gegenstaende ausarbeiten, z.B. fuer Psi-Verstaerker; 
+Merkmal: "Behaelt den Ueberblick"
+
+------
+
