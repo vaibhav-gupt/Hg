@@ -403,4 +403,11 @@ voran gekommen ist. Verbal.
 7. Obi Wan hat in Punkten fast sicher gewonnen. Annikan eskaliert, Obi Wan muss den Konflikt beenden oder aufgeben. 
 8. Beide zahlen den emotionalen Preis ihres Kampfes und ihrer Eskalationen. Annikan zahlt den körperlichen und den storytechnischen Preis des verlorenen Konfliktes: Sein Körper wird fast zerstört, Padme stirbt
 
+-> Fundamentale Schwächen des bisherigen Konfliktsystems: Es funktioniert nur mit 
+"Charaktere gegen die Welt" aber nicht mit "Charaktere gegen Charaktere". Dafür 
+braucht es eine leichte Abwandlung: Beide würfel gegeneinander und es muss eine 
+Mindestdifferenz erzielt werden. Wer verliert kann eskalieren und erhöht damit sein 
+Risiko (vielleicht: "setzt aber die Punkte zurück"). Für jede Eskalation ist ein 
+Preis zu zahlen. 
+
 ------ 
