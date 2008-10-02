@@ -405,8 +405,13 @@ Szenen:
 
 Preise zu zahlen: 
 
-- Obi Wan: Eskalation auf der Landeplattform, da er Annikan nicht zurück holen kann. emotional, Eskalation im Raum der Seperatisten. storytechnisch. 
-- Annikan: Eskalation bei der Ohnmacht von Padme, emotional, Eskalation im Raum der Seperatisten, storytechnisch, Eskalation auf den Plattformen, körperlich. 
+- Obi Wan: 
+	* Eskalation auf der Landeplattform, da er Annikan nicht zurück holen kann, emotional: "Mein Schüler ist verloren -> Ich bin kein guter Lehrer -> Luke wird von Joda ausgebildet."
+	* Eskalation im Raum der Seperatisten, storytechnisch: Verliert seinen Schüler. Er könnte noch zurück. "Annikan, warte! Ich werde dich unterstützen" würde den Konflikt hier beenden. 
+- Annikan: 
+	* Eskalation bei der Ohnmacht von Padme, emotional: "Alle stehen gegen mich!"
+	* Eskalation im Raum der Seperatisten, storytechnisch: Verliert seinen Lehrer für immer. Hier könnte er noch aufgeben, aber er hätte seinen Lehrer verloren. Er könnte kein Jedi Meister mehr werden, aber er könnte den dunklen Wegen abschwören, oder zumindest Gefangener werden. 
+	* Eskalation auf den Plattformen, körperlich: Wird der Darth Vader, den wir kennen und lieben :) 
 
 -> Fundamentale Schwächen des bisherigen Konfliktsystems: Es funktioniert nur mit 
 "Charaktere gegen die Welt" aber nicht mit "Charaktere gegen Charaktere". Dafür 
