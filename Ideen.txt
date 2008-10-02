@@ -437,4 +437,19 @@ ersten verlorenen Konflikt und bei Helden erst sehr spät.
 aber er hat alles verloren, das ihm wichtig war, d.h. er hatte nur noch eine 
 Eskalation übrig. 
 
+Das ganze lässt sich auf Gruppen erweitern, wobei da alle Mitglieder der Gruppe 
+gleichzeitig eskalieren müssen - wer nicht mehr eskalieren kann (z.B. Statisten) oder 
+nicht mehr will (weil es zu riskant wird) fällt raus und nimmt nicht am Rest des 
+Konfliktes teil. 
+
+Da in Gruppen 9 Punkte sehr schnell erreicht wären, kann die Gruppe sich entscheiden 
+zu eskalieren, sobald einer 9 Puntke erreicht hat, oder sie warten, bis alle 9 
+erreicht haben (und die die bereits 9 haben setzen solange aus). Wer 9 hat kann sich 
+an jedem Punkt entscheiden zu eskalieren, aber wenn die Gruppe nicht mitgeht steht er 
+alleine da, und wenn die Gruppe mitgeht, bringt er die anderen vielleicht unnötig in 
+Gefahr (durch die Eskalation erhöht sich der zu zahlende Preis). 
+
+MW ohne Gegner: 12 - Konflikte sind _immer_ fordernd, sonst wären sie irrelevant. 
+Ansonsten Wurf gegeneinander. 
+
 ------ 
