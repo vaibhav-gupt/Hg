@@ -393,15 +393,20 @@ Beispiel: Jedi Kampf Obi Wan Kenobi vs. Annikan/Darth Vader auf der Lavastation.
 
 Szenen: 
 
-1. Verbal: Padme und Obi Wan gg Annikan -> Der einfache Weg steht nicht offen, Annikan bleibt bei der dunklen Seite -> Konflikt eskaliert. 
-2. Auf der Landeplattform. 
+1. Verbal: Padme und Obi Wan gg Annikan -> Der einfache Weg steht nicht offen, Annikan bleibt bei der dunklen Seite -> Annikan eskaliert den Konflikt: Er erkennt den Verlust durch die Ohnmacht Padmes nicht an. 
+2. Auf der Landeplattform. Verbal: Obi Wan verliert den Konflikt um Annikans Weg. Auch er eskaliert. 
+3. In dem Raum der Seperatisten. Eigentliche Dauer des Konfliktes beendet. Beide entscheiden sich zu eskalieren. 
 3. Auf der Brücke über dem Lavastrom. 
 4. Auf dem versinkenden Steg, dann an Seilen hängend. 
-5. Auf den schwebenden Plattformen, Obi Wan hat die größere, da er im Konflikt weit 
-voran gekommen ist. Verbal. 
-6. Auf dem schwebenden Plattformen, Annikan eskaliert weiter, springt auf Obi Wans Plattform. 
-7. Obi Wan hat in Punkten fast sicher gewonnen. Annikan eskaliert, Obi Wan muss den Konflikt beenden oder aufgeben. 
-8. Beide zahlen den emotionalen Preis ihres Kampfes und ihrer Eskalationen. Annikan zahlt den körperlichen und den storytechnischen Preis des verlorenen Konfliktes: Sein Körper wird fast zerstört, Padme stirbt
+5. Auf den schwebenden Plattformen, Obi Wan hat die größere, da er im Konflikt weit voran gekommen ist. Verbal, Obi Wan gibt Annikan eine Chance den Konflitk zu beenden ohne den ultimativen Preis zu bezahlen ("Palpatine is evil!" - ja, ich habe es auf englisch geguckt :) ). 
+6. Auf dem schwebenden Plattformen, Annikan eskaliert weiter, nachdem Obi Wan verbal gewinnt, geht tiefer in die Dunkelheit und springt auf Obi Wans Plattform. 
+7. Obi Wan hat in Punkten gewonnen. Annikan eskaliert nicht weiter, Obi Wan muss den Konflikt beenden oder aufgeben. 
+8. Beide zahlen den emotionalen Preis ihres Kampfes und ihrer Eskalationen. Annikan zahlt den körperlichen und den storytechnischen Preis des verlorenen Konfliktes: Sein Körper wird fast zerstört, Padme stirbt. 
+
+Preise zu zahlen: 
+
+- Obi Wan: Eskalation auf der Landeplattform, da er Annikan nicht zurück holen kann. emotional, Eskalation im Raum der Seperatisten. storytechnisch. 
+- Annikan: Eskalation bei der Ohnmacht von Padme, emotional, Eskalation im Raum der Seperatisten, storytechnisch, Eskalation auf den Plattformen, körperlich. 
 
 -> Fundamentale Schwächen des bisherigen Konfliktsystems: Es funktioniert nur mit 
 "Charaktere gegen die Welt" aber nicht mit "Charaktere gegen Charaktere". Dafür 
@@ -409,5 +414,22 @@ braucht es eine leichte Abwandlung: Beide würfel gegeneinander und es muss eine
 Mindestdifferenz erzielt werden. Wer verliert kann eskalieren und erhöht damit sein 
 Risiko (vielleicht: "setzt aber die Punkte zurück"). Für jede Eskalation ist ein 
 Preis zu zahlen. 
+
+Wenn die Punkte zurück gesetzt werden wenn eskaliert wird, kann der vorherige 
+Gewinner noch einmal häufiger eskalieren -> beim Eskalieren sollten die Punkte zurück 
+gesetzt werden. 
+
+Für EWS: 9 Punkte ansammeln beendet den Konflikt, es sei denn, der Verlierer 
+eskaliert. 
+
+Spezifische Kapazität von Charakteren zum eskalieren aufbauend auf ihrer 
+Storytechnischen Wichtigkeit; unterscheidet so automatisch zwischen Statisten, 
+Nebencharakteren und Helden/Schurken. Wer seine Fähigkeit zum Eskalieren ausreizt, 
+zahlt den höchten Preis: Seine Geschichte endet. Passiert bei Statisten schon beim 
+ersten verlorenen Konflikt und bei Helden erst sehr spät. 
+
+-> Annikan hat nicht bis zum bitteren Ende eskaliert. Seine Geschichte ging weiter, 
+aber er hat alles verloren, das ihm wichtig war, d.h. er hatte nur noch eine 
+Eskalation übrig. 
 
 ------ 
