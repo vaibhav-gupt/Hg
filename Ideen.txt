@@ -77,7 +77,7 @@ Auch die Reputation kann über das Schadenssystem geregelt werden. Wirklich schw
 
 -----
 
-Modul: Den Pfad wählen
+Modul: Den Pfad wählen (Pfad)
 
 Charaktere können sich einem bestimmten Pfad verschreiben. Dabei legt der Spieler die Handlungen der Charaktere für die nächste Zeit in groben Umrissen fest. 
 Je nachdem wie stark dadurch das Verhalten des Charakters eingeschränkt wird (wie krass die Einschränkung ist, wie hart der Pfad ist) und wie lange dieser Pfad wahrscheinlich brauchen wird, erhält der Charakter Bonuspunkte auf alle seine mit dem Pfad verbundenen Handlungen. 
