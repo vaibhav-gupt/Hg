@@ -144,6 +144,7 @@ Naruto Ninja-Kämpfe (Naru)
 -----
 
 Planung für Taktiker und Aktionliebhaber: Mit Simulationen planen. 
+
 - "Was könnte passieren?"
 - Simulator springt an. SL übernimmt die Rolle des Simulators. 
 - Ergebnis des Simulation. 
@@ -189,6 +190,17 @@ alle Fertigkeiten, sollte der Char ihn spezialisieren."
 Oder Fertgkeiten, die den Beruf als Grundwert nutzen, um das Problem ganz zu 
 umgehen. => Spezialisierungen von Berufen sind Fertigkeiten. Gibt es keinen 
 passenden Beruf, greift ine Sonderrregelung. 
+
+Einfachere Lösung: 
+
+* Berufe kosten wie bisher
+* Boni kommen nur von einer Eigenschaft, und zwar immer einer zur Situation passenden. 
+
+Dadurch erhalten Berufe in höheren Stufen (wo ihre Kosten im Vergleich zu Fertigkeiten zu niedrig werden) weniger Boni und auch weniger berechenbare Boni, da in höheren Stufen Eigenschaftsboni meist höher sind. 
+
+Das schützt nicht perfekt gegen Minmaxing, aber da ab einer bestimmten Differenz zwischen Eig und Fert die Steigerung der Eigenschaften günstiger wird als die Steigerung der von ihnen gestärkten Fertigkeiten können die Kosten für einen Minmaxer wieder höher ausfallen. 
+
+Fertigkeit von 18 auf 19 kostet soviel wie Eigenschaft von 12 auf 15 (gleicher Effekt). 
 
 ------
 
