@@ -458,3 +458,8 @@ MW ohne Gegner: 12 - Konflikte sind _immer_ fordernd, sonst wären sie irrelevan
 Ansonsten Wurf gegeneinander. 
 
 ------ 
+
+Modulnamen: 
+- Allgemeine Module: 4 Zeichen
+- Weltenspezifische Module: 2 Zeichen Präfix (=> 576 Welten) + "_" + 4 Zeichen. 
+
