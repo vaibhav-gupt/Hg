@@ -101,7 +101,8 @@ Beispiel: Naruto: Der Hokage erhält einen Teil seiner Macht von der Unterstütz
 
 -----
 
-Naruto Ninja-Kämpfe: 
+Naruto Ninja-Kämpfe (Naru)
+ 
 - Charaktere würfeln, ob es ihnen gelingt, anderen Charaktere in die Irre zu führen. Vielleicht auch eine Karte (od. 2 Karten): "Ich will ihn in die Irre führen". Wird erst aufgedeckt, wenn der andere seine Aktion ausführt -> Überraschung für Spieler und Char. 
 
 - Viele Techniken. 
@@ -118,7 +119,7 @@ Naruto Ninja-Kämpfe:
 
 - Mischung aus der Macht des Charakters und seiner Findigkeit. Größere Macht ermöglicht es, andere leichter in die Irre zu leiten und Techniken auszuführen, die andere nicht können, Findigkeit deckt die Intelligente Nutzung der Techniken ab. 
 
-- Eine Kraftbasis, mit der deie grundlegenden Techniken ausgeführt werden (Stil). Bsp.: Replika mit Käfern, Sand, o.ä. erstellen. 
+- Eine Kraftbasis, mit der deine grundlegenden Techniken ausgeführt werden (Stil). Bsp.: Replika mit Käfern, Sand, o.ä. erstellen. 
 
 - Die Fähigkeiten des Charakters entscheiden, mit wievielen ineinander geschachtelten oder nebeneinander liegenden "Ebenen" der Spieler arbeiten kann. Effektiv, "wie viele Asse er im Ärmel haben kann". Er muss sie dann auch noch so sinnvoll einsetzen, dass sie wirklich zum tragen kommen. Dafür hat jedes einen Auslöser und einen Effekt. Wer gut vorhersehen kann, was der andere machen wird, kann dadurch mit recht wenigen Ebenen weit vorausplanen, mit viel Kraft kann er viele unterschiedliche Aktionen des Gegners abdecken. 
 
@@ -128,15 +129,17 @@ Naruto Ninja-Kämpfe:
 
 - Techniken als Spezialisierungen der Kampf-Feritgkeit mit einem Malus. Sobald die Spezialisierung hoch genug ist, um den Malus auszugleichen, gilt die Technik als gemeistert. 
 
-- Eigenschaften, die jeder haben sollte: Chakra und "Antrieb" (oder "Traum"): Die Grundlage seiner Kräfte (was ihn von den Fähigkeiten her von anderen MEnschen unterscheidet), und das was ihn am kämpfen hält (was ihn von der Psyche her von anderen Menschen utnerscheidet). 
+- Eigenschaften, die jeder haben sollte: Chakra und "Antrieb" (oder "Traum"): Die Grundlage seiner Kräfte (was ihn von den Fähigkeiten her von anderen Menschen unterscheidet), und das was ihn am kämpfen hält (was ihn von der Psyche her von anderen Menschen utnerscheidet). 
 
-- TP bauen auf Chakra auf. Daher können Ninja soviel mehr einstecken als andere. Es gibt auch Techniken, die direkt Wunnde verursachen. 
+- TP bauen auf Chakra auf. Daher können Ninja soviel mehr einstecken als andere. Es gibt auch Techniken, die direkt Wunde verursachen. 
 
 - Chakra-Unterschiede bewegen sich wie die Fertigkeiten in einem riesigen Bereich, der mehrere Kategorien überspannen kann. 
 
 - Wenn die TP eines Chars auf oder unter 0 gehen, würfelt er wie üblich, aber mit Abzügen: -3 je bisherigem Wurf (effektiv: -3, wenn seine TP auf -Eig sind, -6 bei -2xEig, -9 bei -3xEig). Damit können nur die stärksten Chars ihr Potential voll ausnutzen. Statt auf Chakra kann hier auch auf den Traum/Antrieb gewürfelt werden. Vielleicht sollte nur auf den nAtrieb gewürfelt werden, denn er ist für die Chars der Grund, warum sie weitermachen. 
 
 - Vielleicht können mit einem Wurf auf den Traum/Antrieb bisherige Mali teilweise ignoriert werden (und er steht doch wieder auf...). 
+
+- Vielleicht hängt die Anzahl der Karten, die man gleichzeitig auf der Hand haben und in einer Runde einsetzen kann von der Stärke des Chars ab (wenn es bei Karten auf der Hand und Karaten pro Runde eine einschränkung gibt). 
 
 -----
 
