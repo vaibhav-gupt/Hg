@@ -1,335 +1,382 @@
-= RaumZeit - PSI =
+RaumZeit - PSI
+==============
 
-Das PSI-Modul liefert Regeln fuer Charaktere mit psionischen Faehigkeiten wie 
-Gedanken lesen (Telepathie), Dinge ohne physische Beruehrung bewegen 
+Einführung
+----------
+
+Das PSI-Modul liefert Regeln für Charaktere mit psionischen Fähigkeiten wie 
+Gedanken lesen (Telepathie), Dinge ohne physische Berührung bewegen 
 oder anders beeinflussen (Telekinese, bzw. allgemeiner Psychokinese) und Vorahnung 
 und dem Blicken a entfernte Orte, in Vergangenheit und Zukunft (ESP: 
-Aussersinnliche Wahrnehmung). 
+Außersinnliche Wahrnehmung). 
 
-Im Unterschied zu Magie ist PSI fuer Psioniker etwas natuerliches, das sie genauso 
-anstrengunglos nutzen koennen, wie ihre Haende oder Augen. Nur wenn sie mehr als 
-ihre Grundkraft einsetzen, spueren sie Erschoepfung, so wie normale Menschen einen  
-kleinen Rucksack zu tragen kaum erschoepft, ein 100kg Gewicht zu stemmen aber sehr 
+Im Unterschied zu Magie ist PSI für Psioniker etwas natürliches, das sie genauso 
+anstrengunglos nutzen können, wie ihre Hände oder Augen. Nur wenn sie mehr als 
+ihre Grundkraft einsetzen, spüren sie Erschöpfung, so wie normale Menschen einen  
+kleinen Rucksack zu tragen kaum erschöpft, ein 100kg Gewicht zu stemmen aber sehr 
 wohl. 
 
-Fuer deine Runde kann das PSI-Modul eine grosse Bereicherung sein, wenn du Mystik 
+Für deine Runde kann das PSI-Modul eine große Bereicherung sein, wenn du Mystik 
 und Technologie vereinen willst, weil Psioniker sehr interessant zu spielen sind 
-und ganz neue Plots ermoeglichen, allerdings muessen ihre Fehigkeiten bei 
+und ganz neue Plots ermöglichen, allerdings müssen ihre Fähigkeiten bei 
 jeder Abenteuerplanung bedacht werden. 
 
 Schon schwache Telekinese kann viele Standardsituationen zur Farce werden lassen, 
-z.B. wenn sie gerade stark genug ist, umm eine Pistole zu heben, oder um den 
-Schluessel des Waerters herzuziehen, und Gedanken lesen kann viele 
-Detektivgeschichten langweilig werden lassen (obwohl auch vieles moeglich ist. Wie 
-waere es zum Beispiel mit einem Unschuldigen, der niht weiss, ob er viellicht 
-schlafwndlt oder im Suff gehandelt hat und sich deshalb Vorwuerfe macht?)Wenn du 
-das PSI-Modul verwendest, wird das deine Spielwelt ein Stueck mystischer werden 
-lassen, weil nun maechtige Telepahen moelih sind, di im Hintergrund hre Faeden 
-ziehen und das Leben von Millionen formen, waehrend sie darum kaempfen, wer 
-Einfluss auf einen bestimmten Politiker ha, ohne von denAndere aufgespuert zu 
-werden, und niemand weiss, ob nicht das eine oder andere Unglueck auf einen 
-wildgewordenen Telekineten zuruecgfuehrt erden kann. Und was jemand bewirken kann, 
-der die Faeden der moeglihen Zukuenfte seht, ist je nachdem, wie geschickt 
-er vorgeht, kaum mehr einzuschaetzen. 
+z.B. wenn sie gerade stark genug ist, um eine Pistole zu heben, oder um den 
+Schlüssel des Wärters herzuziehen, und Gedanken lesen kann viele 
+Detektivgeschichten langweilig werden lassen (obwohl auch vieles möglich ist. Wie 
+wäre es zum Beispiel mit einem Unschuldigen, der nicht weiß, ob er viellicht 
+schlafwandlt oder im Suff gehandelt hat und sich deshalb Vorwürfe macht?). Wenn du 
+das PSI-Modul verwendest, wird das deine Spielwelt ein Stück mystischer werden 
+lassen, weil nun mächtige Telepahen möglich sind, di im Hintergrund ihre Fäden 
+ziehen und das Leben von Millionen formen, während sie darum kämpfen, wer 
+Einfluss auf einen bestimmten Politiker ha, ohne von den Anderen aufgespürt zu 
+werden, und niemand weiß, ob nicht das eine oder andere Unglück auf einen 
+wildgewordenen Telekineten zurückgeführt werden kann. Und was jemand bewirken kann, 
+der die Fäden der möglichen Zukünfte sieht, ist je nachdem, wie geschickt 
+er vorgeht, kaum mehr einzuschätzen. 
 
-Gleichzeitig gibt PSI auch Leuten in Slums u.ae. neue Mittel in die Hand, da sich 
-PSI in den meisten Hintergruenden nicht auf die Reichen beschraenkt. 
+Gleichzeitig gibt PSI auch Leuten in Slums u.ä. neue Mittel in die Hand, da sich 
+PSI in den meisten Hintergründen nicht auf die Reichen beschränkt 
+(Bemerkenswerte Ausnahme ist die *Darkover* Reihe von Marion Zimmer Bradley). 
 
 Allerdings wirkt das hier in Regeln umgesetzte PSI weniger mystisch als Magie, da 
-es meist feste und einschaetzbare Faehigkeietn liefert, statt eine tiefe Mystik zu 
+es meist feste und einschätzbare Fähigkeiten liefert, statt eine tiefe Mystik zu 
 haben, aus der Magier ihre Zauber und Rituale gefunden haben. 
 
-In der Literatur kommt PSI bisher vor allem in futuristischen Hintergruenden vor, 
-aber nichts haelt dich davon ab, es in schwacher Form fuer Fantasy zu nutzen, z.B. 
-uer mystsche Kaempfer oder die Spione des Sultans oder reichten Haendlers o.ae.. 
+In der Literatur kommt PSI bisher vor allem in futuristischen Hintergründen vor, 
+aber nichts hält dich davon ab, es in schwacher Form für Fantasy zu nutzen, z.B. 
+für mystische Kämpfer oder die Spione des Sultans oder reichen Händlers o.ä.. 
 
-Die bisher abgedeckten Faehhigkeietn sind: 
+Die bisher abgedeckten Fähhigkeietn sind: 
 - Psychokinese: Beeinflussung der Materie. Besteht aus Telekinese, Psychokinese, 
 Levitation, Zufallsschieben,  u.v.m.
-- ESP: Aussersinnliche Wahrnehmung. Auch der Blick in Vergangenheit und Zukunft. 
+- ESP: Außersinnliche Wahrnehmung. Auch der Blick in Vergangenheit und Zukunft. 
 - Telepathie: Beeinflussung des Geistes. 
-- Metapsi: Beeinflussung von PSI:P Psi stoeren, verstaerken, Projektion in den 
+- Metapsi: Beeinflussung von PSI:P Psi stören, verstärken, Projektion in den 
 PSI-Raum, u.v.m.
-- Heilung: Eine Verbindung verschiedenster Psi-Faehigkeiten, die grundledenge 
-Strukturen finden und wiederherstellen kann. Manche heilen Koerper oder den Geist, 
-andere heilen Gegenstaende, und wieder andere heilen den psionischen Raum selbst. 
+- Heilung: Eine Verbindung verschiedenster Psi-Fähigkeiten, die grundledenge 
+Strukturen finden und wiederherstellen kann. Manche heilen Körper oder den Geist, 
+andere heilen Gegenstände, und wieder andere heilen den psionischen Raum selbst. 
 Doch wer die Heilung beherrscht, kann auch lernen zu zerstoren. 
 
 !! TODO: Heilung als Fertigkeit, bzw. jeweilige Spezialisierung der Kraft, die auf 
-vorhandenen Faehigkeiten in dem Bereich aufbaut? 
+vorhandenen Fähigkeiten in dem Bereich aufbaut? 
 
-Um das grosse Spektrum der Faehigkeiten und der Macht von Psionikernabzudecken, 
-verwendet das PSI-Mdul Eigenschaften und Fertigkeiten fur die Faehigkeiten, und 
-ein Merkmal fuer die Grundstaerke, sowie das Kategoriesystem (KaSy) fuer die 
+!! TODO: Umstrukturierung der Fähigkeiten um besser in den RaumZeit Hitnergrund zu passen? 
+Zeit als eigene Fähigkeit? 
+
+Um das große Spektrum der Fähigkeiten und der Macht von Psionikernabzudecken, 
+verwendet das PSI-Modul Eigenschaften und Fertigkeiten fur die Fähigkeiten, und 
+ein Merkmal für die Grundstärke, sowie das Kategoriesystem (KaSy) für die 
 Kostenberechnung und Skalierung. 
 
-= Grundlagen =
+Grundlagen
+----------
 
 Im RaumZeit Universum greifen Psioniker auf den Psionischen Raum zu und koppeln 
 ihn mit dem Realraum, um die verschiedensten Arten von Effekten zu bewirken. 
 
-Ausser dem Real- und dem Psioniscen Raum gibt es den Subraum, der von Schiffen bei 
-Reisen mit Ueberlichtgeschwindigkeit genutzt und in einem anderen Modul 
+Außer dem Real- und dem Psioniscen Raum gibt es den Subraum, der von Schiffen bei 
+Reisen mit Überlichtgeschwindigkeit genutzt und in einem anderen Modul 
 beschrieben wird. 
 
-== Regeltechnisch ==
+### Regeltechnisch
 
-PSI wird im RaumZeit Universum regeltechnisch durch 3 Mechanismen ausgdrueck: 
+PSI wird im RaumZeit Universum regeltechnisch durch 3 Mechanismen ausgedrückt: 
+
 - Eine grobe Skala der Macht (Kategorien), 
-- Eine feine Skala der Macht (Eigenschaftswrte) und
-- Fertigkeiten fuer die Geschicktlichkeit im Umgang mit der Kraft. 
+- Eine feine Skala der Macht (Eigenschaftswerte) und
+- Fertigkeiten für die Geschicklichkeit im Umgang mit der Kraft. 
 
-Fuer die Kraft gibt es dabei sowohl einen allgemeinen PSI-Wert, der 
+Für die Kraft gibt es dabei sowohl einen allgemeinen PSI-Wert, der 
 aufzeigt, wie stark der Psioniker in jedem einzelnen Bereich ist: Seine 
-Grundkraft. Der allgemeine PSI-Wert wird einfach durch ein Merkmal ausgedruckt. 
+Grundkraft. Der allgemeine PSI-Wert wird einfach durch ein Merkmal ausgedrückt. 
 
-Dazu gibt es feinere Eigenschaften, die fuer einzelne Bereiche des PSI stehen. Sie 
-heben einerseits diesen Bereich um eine oder mehrere Kategorien uber die 
-Grundkraft (so dass ein schwacher Pyrokinet zwar Kerzen entzuenden, damit aber 
-noch lange keine Gedanken lesen kann, ein maechiger, weltenbeherrschender Telepath 
-aber meist auch ein gewisses Verstaendnis anderer Psi-Faehigketen hat, denn es ist 
+Dazu gibt es feinere Eigenschaften, die für einzelne Bereiche des PSI stehen. Sie 
+heben einerseits diesen Bereich um eine oder mehrere Kategorien über die 
+Grundkraft (so dass ein schwacher Pyrokinet zwar Kerzen entzünden, damit aber 
+noch lange keine Gedanken lesen kann, ein mächtiger, weltenbeherrschender Telepath 
+aber meist auch ein gewisses Verständnis anderer Psi-Fähigketen hat, denn es ist 
 sehr schwer, tief in den psionischen Raum einzudringen, ohne zumindest ein 
-grundlegendes Verstaendnis anderer psionischer Faehigkeiten zu erlangen. 
+grundlegendes Verständnis anderer psionischer Fähigkeiten zu erlangen. 
 
-Darueber hinaus kann eine Psionikerin durch Initiationserfahrungen ein tiefes 
-Verstaendnis bestimmter Aspekte des psionischen Raumes erlangen, als wuerde sie 
+Darüber hinaus kann eine Psionikerin durch Initiationserfahrungen ein tiefes 
+Verständnis bestimmter Aspekte des psionischen Raumes erlangen, als würde sie 
 eine Barriere duchbrechen, hinter der diese Strukturen des psionischen Raumes sich 
-fast aus eigenem Willen so zu formen scheinen, wie die Psionikerin es moechte. Wo 
-vorher das Gefuhl eher dem bewussten Formen der Realitaet entspricht, wird es nach 
+fast aus eigenem Willen so zu formen scheinen, wie die Psionikerin es möchte. Wo 
+vorher das Gefuhl eher dem bewussten Formen der Realität entspricht, wird es nach 
 der Initiation in diesem Bereich vielmehr zu einem Lenken der Kraft des Raumes, so 
-wie ein Wanderer selbst die Stecke des Weges uberqueren muss, waehrend ein der 
+wie ein Wanderer selbst die Stecke des Weges überqueren muss, während der 
 Pilot eines Wellengleiters nur noch die Richtung vorgibt. 
 
 !! TODO: Weiter unten Beschreiben: Umschreiben von min. 3 Bereichen auf 
 allgemeines PSI, wenn die Kosten passen. 
 
-!! TODO: RaumZeit-Namen fuer die einzelnen Kategorien finden. 
+!! TODO: RaumZeit-Namen für die einzelnen Kategorien finden. 
 
-== Die grobe Skala ==
+### Die grobe Skala
 
-Die grobe Skala wird durch Kategorien ausgedrueckt, in denen jeder Char  zwischen 
+Die grobe Skala wird durch Kategorien ausgedrückt, in denen jeder Char  zwischen 
 0 (nichts) und 7 (Planetenfomer) liegt. 
 
+- Völlig Kopfblinde haben die psionische Kraft in Kategorie 0, d.h. sie spüren nichts, 
+haben keinen Gefahreninstink, spüren nicht das schöne Gefühl in einer Gruppe von ihnen
+gegenüber freundlichen Wesen zu sein, oder das unangenehme Gefühl von hinten angestarrt 
+zu werden. Ihr Leben verläuft in berechenbaren Bahnen und seltsame Zufälle halten sich 
+von ihnen fern, solange auch all ihre Bekannten und Kontakte kopfblind sind. 
+
 - Nicht-Psioniker haben normalerweise eine psionische Kraft in Kategorie 1, d.h. 
-sie haben manchmal das (richtige) Gefuehl, dass sie jemand von hinten anstarrt, 
-wenn ihnen etwas wichtig ist, scheinen sich unwahrscheinliche Zufaelle 
-anzuhaeufen, manchmal gegen und manchmal fuer sie, und wenn sie Rollenspieler 
-sind, haben sie vielleicht gemerkt, dass Wurfelmystik oft etwas bringt, zumindest, 
-wenn sie sich die passenden Fertigkeiten angeignet hben. 
+sie haben manchmal das (richtige) Gefühl, dass sie jemand von hinten anstarrt, 
+wenn ihnen etwas wichtig ist, scheinen sich unwahrscheinliche Zufälle 
+anzuhäufen, manchmal gegen und manchmal für sie, und wenn sie Rollenspieler 
+sind, haben sie vielleicht gemerkt, dass Würfelmystik oft etwas bringt, zumindest, 
+wenn sie sich die passenden Fertigkeiten angeignet haben. 
 
-- Mit einer psionischen Kraft von 2 sind bereits sichtbare Effekte moeglich, wenn 
-auch noch nichts weltbewegendes. Telekineten koennen ohne Anstrengung bis zu 22g 
-bewegen, wenn sie sich extrem anstrengen bis zu 200g (etwa ein halbvolles Glas), 
-Pyrokineten koennen Streichhoelzer entzuenden und Telepathen die oberflaechlichen 
-Gefuehle von Leuten spueren, die sie beruehren. Die meisten Psioniker haben eine 
+- Mit einer psionischen Kraft von 2 sind bereits sichtbare Effekte möglich, wenn 
+auch noch nichts weltbewegendes. Telekineten können ohne Anstrengung bis zu 22g 
+bewegen, wenn sie sich extrem anstrengen bis zu 200g (etwa ein halbvolles Glas
+ - aber das strengt sie bereits so stark an, dass sie heftige körperliche Folgen davontragen), 
+Pyrokineten können Streichhölzer entzünden und Telepathen die oberflächlichen 
+Gefühle von Leuten spüren, die sie berühren. Die meisten Psioniker haben eine 
 allgemeine PSI-Kraft in diesem Bereich und erreichen nur in ihren Spezialgebieten 
-hoehere Werte, so wie manche anscheinend Durchschnittliche, die nichts von ihren 
-Faehigkeiten wissen und sie daher nie trainiert oder nutzen gelernt haben. 
+höhere Werte, so wie manche anscheinend durchschnittliche Leute, die nichts von ihren 
+Fähigkeiten wissen und sie daher nie trainiert oder nutzen gelernt haben. 
 
-- Eine Kraft in Kategorie 3 erlaubt schon massive Eingriffe in die Realitaet. 
-Telekineten koennen hier ohne Anstrengung 1,8kg, mit Anstrengung bis zu 16kg 
-heben, Pyrokineten ein Lagerfeuer entzuenden und Telekineten auf kurze Entfernung 
-Gedanken lesen. Die meisten anerkannten Psioniker sind mit ihrem Sezialgebiet in 
+- Eine Kraft in Kategorie 3 erlaubt schon massive Eingriffe in die Realität. 
+Telekineten können hier ohne Anstrengung 1,8kg, mit Anstrengung bis zu 16kg 
+heben, Pyrokineten ein Lagerfeuer entzünden und Telekineten auf kurze Entfernung 
+Gedanken lesen. Die meisten anerkannten Psioniker sind mit ihrem Spezialgebiet in 
 Kategorie 3. 
 
-- Kategorie 4 erlaubt Psionikern nun mit ihren Faehigkeiten die gleiche Kraft zu 
-entfalten, die andere mit ihrem Koerper haben, ohne jedoch dessen Einschraenkungen. 
-Ein Telekinet kann auf Entfernung Gewichte heben, als wuerde er sie selbst in der 
-Hand halten, ein Blick in die Vergangenheit reicht so weit zurueck, wie die 
-Erinnerung eines Menschen (vorsicht mit der Skalierung. Wie weit erinnerst Du 
+- Kategorie 4 erlaubt Psionikern nun mit ihren Fähigkeiten die gleiche Kraft zu 
+entfalten, die andere mit ihrem Körper haben, ohne jedoch dessen Einschränkungen. 
+Ein Telekinet kann auf Entfernung Gewichte heben, als würde er sie selbst in der 
+Hand halten, ein Blick in die Vergangenheit reicht so weit zurück, wie die 
+Erinnerung eines Menschen (vorsicht mit der Skalierung! Wie weit erinnerst Du 
 dich gerade jetzt daran, was gestern nachmittag passiert ist, oder letztes Jahr 
 am Dienstag in der Dritten Kalenderwoche?), der die Ereignisse selbst erlebt hat, 
-und Telepathen koennen die Gedanken Anderer lesen, als wuerden sie sie selbst denken.
+und Telepathen können die Gedanken Anderer lesen, als würden sie sie selbst denken.
 
-- In Kategorie 5 steigen die Kraefte weit ueber das normalen Menschen moegliche. 
-Pyrokineten entzuenden ganze Haeuser, Telepathen kontrollierne Gruppen von 
-Menschen, aussersinnliche Wahrnehmung erlaubt den Blick viele Jahrtausende zurueck 
-(auch wenn er nicht sehr detailliert sein wird) und klares sehen ueber ein 
-vielfaches der Entfernung, die Menschliche Augen noch erkennen koennen, und 
+- In Kategorie 5 steigen die Kräfte weit über das normalen Menschen Mögliche. 
+Pyrokineten entzünden ganze Häuser, Telepathen kontrollieren Gruppen von 
+Menschen, außersinnliche Wahrnehmung erlaubt den Blick viele Jahrtausende zurück 
+(auch wenn er nicht sehr detailliert sein wird) und klares Sehen über ein 
+vielfaches der Entfernung, die Menschliche Augen noch erkennen können, und 
 Telekineten heben tonnenschwere Fahrzeuge und schleudern mit einem einzelnen Blick 
 Menschen aus ihrem Weg. 
 
 - Kategorie 6 erlaubt Telekineten bereits, bis zu hunderte von Tonnen zu heben, 
-und die Kraefte eines Psionikers auf Kategorie 7 sind kaum mehr einzuschaetzen. 
-
-- TODO: Kat 0: gar nichts!
-
-Auf welcher Kategorie ein Psioniker arbeiten kann haengt einerseits 
+und die Kräfte eines Psionikers auf Kategorie 7 sind kaum mehr einzuschätzen. 
 
 
-= Die feine Skala =
+### Die feine Skala
 
-Zusaetzlich zu dieser groben Einteilung in verschiedene Kraftstufen, haben die 
+Zusätzlich zu dieser groben Einteilung in verschiedene Kraftstufen, haben die 
 Charaktere Eigenschaftswerte, die ihre Kraft sehr viel feiner skalieren. Dabei ist 
-ein Wert von 12 durchschnittlich und kostet nichts zusaetzlich zur Kategorie, 
-wahrend hoehere oder niedrigere Werte wie Eigenschaften Dreiecke kosten oder 
-geben. Anders als eine Eigenschaft kann eine Psi-Faehigkeit allerdings nicht unter 
-9 gesenkt werden, da diese Faehigkeiten deutlich unter 9 zu senken in niedrigen 
-Katgorien bereits einen Gutteil der Kosten fuer die Kategorie zurueckgeben 
-wuerde, was recht sinnlos waere, denn auch mit niedrigeren Werten hat der 
-Psioniker alleine dadurch, dass er Psi beherrscht schon Vortele gegenueber 
-Nicht-Psionikern. 
+ein Wert von 12 durchschnittlich und kostet nichts zusätzlich zur Kategorie, 
+wahrend höhere oder niedrigere Werte wie Eigenschaften Dreiecke kosten oder 
+geben. Anders als eine Eigenschaft kann eine Psi-Fähigkeit allerdings nicht unter 
+9 gesenkt werden, da diese Fähigkeiten deutlich unter 9 zu senken in niedrigen 
+Katgorien bereits einen Gutteil der Kosten für die Kategorie zurückgeben 
+würde, was recht sinnlos wäre, denn auch mit niedrigeren Werten hat der 
+Psioniker alleine dadurch, dass er Psi beherrscht schon Vorteile gegenüber 
+Nicht-Psionikern (heißt: Es sind regeltechnische Gründe). 
 
-Die feine Skala gilt immer fuer einzelne Faehigkeiten, also z.B. Psychokinese, 
-Telepathie, aussersinnliche Wahrnehmung oder Metapsi. Das grundlegende Merkmal 
+Die feine Skala gilt immer für einzelne Fähigkeiten, also z.B. Psychokinese, 
+Telepathie, außersinnliche Wahrnehmung oder Metapsi. Das grundlegende Merkmal 
 wird normalerweise nicht auf die feinere Skala aufgeteilt, da das meistens nicht 
 so interessant ist. 
 
-Wenn die Spieler es wunschen, koennen sie es jedoch steigern. Bei der (weiter 
-unten) beschriebenen Kategorieerhoehung durch einzelne Bereiche kommt die 
-Feinsalierung des PSI allerdings nicht zum Tragen, das heisst, auch wenn der 
-Charaktre Psi auf 18 gesteigert hat, bringt ihn die Kategorieerhoehung nur auf 
-12 der hoeheren Kategorie. Eine Feinskalierung des grundlegenden Psi variiert also 
-nur die schwaecheren Faehigkeiten des Charakters. 
+Wenn die Spieler es wunschen, können sie es jedoch steigern. Bei der (weiter 
+unten) beschriebenen Kategorieerhöhung durch einzelne Bereiche kommt die 
+Feinsalierung des PSI allerdings nicht zum Tragen, das heißt, auch wenn der 
+Charakter Psi auf 18 gesteigert hat, bringt ihn die Kategorieerhöhung nur auf 
+12 der höheren Kategorie. Eine Feinskalierung des grundlegenden Psi variiert also 
+nur die schwächeren Fähigkeiten des Charakters. 
 
-Wie bei Eigenschaften gilt bei der feinen Skalierung von Psi-Faehigkeiten: 
+Wie bei Eigenschaften gilt bei der feinen Skalierung von Psi-Fähigkeiten: 
+
 - 9 ist schwach und gibt ein Dreieck. Ein Char sollte nicht mehr als einen seiner   
-m Werte auf 9 haben, weil das sonst wie auch beinoch niedrigeren Werten sinnlos 
-waere. 
+m Werte auf 9 haben, weil das sonst wie auch bei noch niedrigeren Werten regeltechnisch 
+sinnlos wäre. 
 - 12 ist durchschnitt und kostet nichts.
 - 15 ist sehr gut (+) und kostet ein Dreieck. 
-- 18 ist ueberragend (++) und kostet drei Dreiecke. 
+- 18 ist überragend (++) und kostet drei Dreiecke. 
 - 21 ist superb (+++) und kostet sechs Dreiecke. 
-...
-- 36 entspricht 12 der eins hoeheren Kategorie. 
+- ...
+- 36 entspricht 12 der eins höheren Kategorie. 
 
-Fuer die Kosten ist es dabei egal, in welcher Kategorie der Charakter ist, denn 
+Für die Kosten ist es dabei egal, in welcher Kategorie der Charakter ist, denn 
 sein grundlegendes Psi gibt ihm ein Niveau, von dem dann seine Eigenschaft 
 ausgeht. 
 
 Eine Steigerung einer Eigenschaft von durchschnittlich (12) auf sehr gut (15) 
-kostet ein Dreieck, egal ob die entsprechende Faehigkeit auf Kategorie 2, 3, 4 
+kostet ein Dreieck, egal ob die entsprechende Fähigkeit auf Kategorie 2, 3, 4 
 oder 5 liegt. 
 
 
-= Der Umgang mit der Kraft =
+### Der Umgang mit der Kraft
 
-Um seine Kraft sinnvoll zu nutzen, muss in Charakter aus ihre Handhabung gelernt 
+Um seine Kraft sinnvoll zu nutzen, muss ein Charakter ihre Handhabung gelernt 
 haben. 
 
-Dafuer hat er fuer jedes einzelne Gebiet Fertigkeiten. Ein Prokinet hat also 
-zum Beispiel die Fertigkeit Pyrokinese und ein Telekinet Telekinese. Fuer 
-spezialisierte Anwendungen von PSI, zum Beispiel fuer den Psi-Schild, gibt es 
-zusaetlich eigene Fertigkeiten, ohne die der Charakter die Faehigkeiten 
+Dafür hat er für jedes einzelne Gebiet Fertigkeiten. Ein Prokinet hat also 
+zum Beispiel die Fertigkeit Pyrokinese und ein Telekinet die Fertigkeit Telekinese. Für 
+spezialisierte Anwendungen von PSI, zum Beispiel für den Psi-Schild, gibt es 
+zusätlich eigene Fertigkeiten, ohne die der Charakter die Fähigkeiten 
 etweder gar nicht, oder nur sehr schwierig einsetzen kann. Wenn er irgendetwas mit 
-seiner Kraft tun will, legt er eie Probe auf eine passende Fertigkeit ab. Um ein 
-Glas anzuheben wuerfelt ein Telekinet also zum Beispiel auf Telekinese. 
-Grundlegende Handlungen (das Glas heben fuer einen Kineten in Kategorie 2) haben 
-dabei einen Mindestwurf von 9. 
+seiner Kraft tun will, legt er eine Probe auf eine passende Fertigkeit ab. Um ein 
+leeres Glas anzuheben würfelt ein Telekinet also zum Beispiel auf Telekinese. 
+Grundlegende Handlungen (das Glas heben für einen Kineten in Kategorie 2) haben 
+dabei einen Mindestwurf von 9. Extrem einfache Handlungen brauchen keinen Wurf, 
+genauso wie nicht-Psioniker nicht würfeln müssen, um über die Straße zu gehen. 
 
-Fuer jede Kategorie, die die Kraft eines Charakters ueber der Kraft liegt, die er 
-fuer den Effekt braucht, den er nutzen will, erhaelt er 9 Punkte Bonus (ganz exakt 
-muessten es 8 sein, aber 9 laesst sich im EWS leichter handhaben, was das Spiel 
+Mehrere Aktionen gleichzeitig (z.B. drei Gläser hochheben) geben einen Malus von 3 Punkten 
+je zusätzlicher Aktion nach der ersten. 
+
+Für jede Kategorie, die die Kraft eines Charakters über der Kraft liegt, die er 
+für den Effekt braucht, den er nutzen will, erhält er 9 Punkte Bonus (ganz exakt 
+müssten es 8 sein, aber 9 lässt sich im EWS leichter handhaben, was das Spiel 
 deutlich beschleunigen kann). 
 
-Beispiel: 
 
-Nara ist eine mittelmaessige Telekinetin, die in der Fertigung von Mensch-Maschine 
-Schnittstellen arbeitet, wo selbst die Anwesenheit von Lebensformen in der 
-Fertigungshalle die Werkstuecke unbrauchbar machen wuerde. 
+### Beispiel
+
+Nara ist eine mittelmäßige Telekinetin (Kategorie 2: 20g), die in der Fertigung 
+von Mensch-Maschine Schnittstellen arbeitet, wo selbst die Anwesenheit von 
+Lebensformen in der Fertigungshalle die Werkstücke unbrauchbar machen würde. 
+
+Sie übernimmt dabei die einfacheren Tätigkeiten, vor allem die Platzierung der 
+Fertigungsteile und Aussortierung beschädigter Teile. 
+
+Ein einzelnes Werkstück ist dabei gerade mal Münzgroß, und die Aktionen sind 
+für Nara Routine (Mindestwurf 6). 
+
+Als sie ein beschädigtes Teil erkennt, schnippt sie es ohne Probleme zur Seite. 
+
+Als mehrere Teile übereinanderliegen, muss sie sich etwas konzentrieren, um sie alle 
+rechtzeitig zu platzieren (die SL nimmt an, dass es immernoch einfach ist (MW: 9)). 
+
+Sie würfelt eine 3 und erreicht damit auf ihrer Fertigkeit (Wert: 12) gerade die 9 (12-3 = 9). 
+
+Als sich aber ein Teil verklemmt, spürt sie, dass die Situation aus der Kontrolle 
+geraten könnte. Sie versucht es erst alleine herauszuziehen, doch ihre Kraft genügt
+bei weitem nicht, so dass sie ihren Vorgesetzten ruft, als ihr vor Anstrengung der Hals austrocknet, 
+ihre Bewegungen fahrig und ihre Augen glasig werden. 
+
+Noch Wochen später hat sie Gelenkschmerzen und ihre Augen defokussieren manchmal 
+überraschend (körperliche Wunde) aber sie arbeitet weiter, denn irgendwoher muss 
+das Geld für ihre Wohnung, ihr Essen und ihre Tochter kommen. 
 
 
-= Initiation = 
+Initiation
+----------
 
-Die Initiation erhoeht einen eng begrenzten Bereich um eine Kategorie. Anders als 
-bei der Erhoehung des Grund-PSI zu den einzelnen Gebieten, bleibt hier der Wert in 
-dem Gebiet erhalten und es wird einfach nur die Kategorie erhoeht, da die 
+Die Initiation erhöht einen eng begrenzten Bereich um eine Kategorie. Anders als 
+bei der Erhöhung des Grund-PSI zu den einzelnen Gebieten, bleibt hier der Wert in 
+dem Gebiet erhalten und es wird einfach nur die Kategorie erhöht, da die 
 Initiation ein Quantensprung ist: Entweder man hat sie, oder man hat sie nicht, 
 aber man kann sie nicht ein bisschen oder ein bisschen mehr als andere haben. Die 
-Feinskalierung wird nur bei den einzelnen Eigenschaften fure Faehigkeitne 
+Feinskalierung wird nur bei den einzelnen Eigenschaften für Fähigkeiten 
 vorgenommen. 
 
 Beispiel: 
 Ragan, ein guter Psychokinet, hat die letzten 3 Jahre bei seinem Lehrer 
-verbracht, der ihn bis zur Erschopfung angegriffen und gleichzeitig neue 
+verbracht, der ihn bis zur Erschöpfung angegriffen und gleichzeitig neue 
 Meditationtechniken gelehrt hat, um tiefer in den psionischen Raum greifen zu 
-koennen, damit er lernt, den fast unzerstoerbaren Psi-Schild der Garegnas Schule 
+können, damit er lernt, den fast unzerstörbaren Psi-Schild der Garegnas Schule 
 aufzubauen. 
 
 Nach endlosen Stunden des Lernens und oft auch der Frustration, da sich kaum etwas 
-tat, hat er heute zum ersten Mal die Augen seines Lehrers voll Freue aufblitzen 
+tat, hat er heute zum ersten Mal die Augen seines Lehrers voll Freude aufblitzen 
 sehen. 
 
 Er versenkte sich wie immer in die tiefe Trance, in der er die Luft um sich herum 
 deutlicher wahrnahm, schloss die Augen und hob seinen Schild. 
-Wie seit nun 3 Jahren spuerte er, wie aus allen Richtungen kiloschwere Gewichte 
+Wie seit nun 3 Jahren spürte er, wie aus allen Richtungen kiloschwere Gewichte 
 auf ihn geschleudert wurden, die seinen Schild mit brutaler Gewalt trafen und 
 bei jedem Aufschlag seinen Geist zum Wanken brachten. 
 
-Er war bereits kurz vor dem Zusammenbruch, doch einen Augnblick bevor er seinen 
-Lehrer bitten konnte, das Training zu unterbrechen, spuerte er plotzlich nur noch 
-winzige Beruehrungen seines Schildes. Wo vorher massive Stahlkugeln seinen Schild 
-erzittern liessen, schienen ihn nur noch Baelle aus leichtem Plastik zu treffen, 
-die er frei jeglicher Anstrengung abprallen liess. Verwundert oeffnete er die 
+Er war bereits kurz vor dem Zusammenbruch, doch einen Augenblick bevor er seinen 
+Lehrer bitten konnte, das Training zu unterbrechen, spürte er plotzlich nur noch 
+winzige Berührungen seines Schildes. Wo vorher massive Stahlkugeln seinen Schild 
+erzittern ließen, schienen ihn nur noch Bälle aus leichtem Plastik zu treffen, 
+die er frei jeglicher Anstrengung abprallen ließ. Verwundert öffnete er die 
 Augen und senkte seinen Schild. 
 
-Sein Lehrer blickte ihn erst gluecklich mit leuchtenden Augen, dann zutiefst 
+Sein Lehrer blickte ihn erst glücklich mit leuchtenden Augen, dann zutiefst 
 erschrocken an. Ragan folgte seinem Blick und erkannte seinen Fehler. Er sah noch 
 die kiloschwere Stahlkugel auf seinen Kopf zufliegen und versuchte seinen Schild 
-hochzureissen, doch Augenblicke bevor der Schild stehen wuerde durchzuckte Schmerz 
-seinen Schaedel und Schwaerze umhuellte ihn. 
+hochzureißen, doch Augenblicke bevor der Schild gestanden hätte durchzuckte Schmerz 
+seinen Schädel und Schwärze umhüllte ihn. 
 
-Als Ragan erwachte, blickte er in die besorgten und zugleich gluecklichen Augen 
+Als Ragan erwachte, blickte er in die besorgten und zugleich glücklichen Augen 
 seines Lehrers, und bevor das Medkit neben ihm den Heilschlaf wieder aktivierte, 
-um seine gesplitterten Schaedelknochen zu heilen, hoerte er noch die Worte seines 
-Lehrers, die ihn auf Jahre mit Freude erfuellten:  
+um seine gesplitterten Schädelknochen zu heilen, hörte er noch die Worte seines 
+Lehrers, die ihn auf Jahre mit Freude erfüllten:  
 "Willkommen bei den Garegna. Jetzt bist du wirklich einer von uns."
 
 
-= Erschaffung eines Psionikers =
+Erschaffung eines Psionikers
+----------------------------
 
 Kosten, etc., der Weg zu einem Psioniker. 
 
 Notizen: 
 
-Erschoepfung: 3 Punkte pro zusaetzlicher Normalkraft, 1 pro zus. Kraftschwelle (1/3). 
+Erschöpfung: 3 Punkte pro zusätzlicher Normalkraft, 1 pro zus. Kraftschwelle (1/3). 
 
 Bsp: Telekinese: bis 12kg ohne Ersch., bis 24kg 3 Ersch., bis 36kg 6 Ersch., ..., 
-bis 60kg 12 Ersch. (=> 1 koerperl. Wunde), ..., 
-bis 108kg 24 Ersch., ..., bis 144kg 33 Ersch. = 9 Punkte ueber Zusammenbruch, 
-Erschoepfung kommt erst nach Abschluss vollstaendig, vorher nur eine Ahnung, 
-ein Anklang der Erschoepfung, die kommen wird. 
+bis 60kg 12 Ersch. (=> 1 körperl. Wunde), ..., 
+bis 108kg 24 Ersch., ..., bis 144kg 33 Ersch. = 9 Punkte über Zusammenbruch, 
+Erschöpfung kommt erst nach Abschluss vollständig, vorher nur eine Ahnung, 
+ein Anklang der Erschöpfung, die kommen wird. 
 
-Bei > Erschoepfungsschwelle 1 Punkt koerp. Schaden, bei > Ersch 1 Wunde, 
+Bei > Erschöpfungsschwelle 1 Punkt körp. Schaden, bei > Ersch 1 Wunde, 
 bei > 3xErsch 1 kritische Wunde. 
--> Desto hoehere Eig., desto weiter kann er ueber seine Grenzen gehen. 
+-> Desto höhere Eig., desto weiter kann er über seine Grenzen gehen. 
 
-Ab 13 ist eine kritische Wunde moegl.
+Ab 13 ist eine kritische Wunde mögl.
 
-Kosten fuer Bereich in hohen Kategorien (ab PSI 4) von Kategorie abhaengig. 
+Kosten für Bereich in hohen Kategorien (ab PSI 4) von Kategorie abhängig. 
 
-Faehigkeit: + => Wert 9/+1, nicht unter 9. 
+Fähigkeit: + => Wert 9/+1, nicht unter 9. 
 
 Initiation: +++
 
 
-x/+y ist eine Kurzform fuer Wert x in um y erhoehter Kategorie. 
-x/y ist eine Kurzform fuer Wert x in Kategorie y. 
+x/+y ist eine Kurzform für Wert x in um y erhöhter Kategorie. 
+x/y ist eine Kurzform für Wert x in Kategorie y. 
 
-= Die einzelnen Faehigkeiten =
+Die einzelnen Fähigkeiten
+-------------------------
 
-Beschreibung der Einzelnen Faehigkeiten (Psychokinese, Telepathie, ESP, Metapsi, 
+Beschreibung der einzelnen Fähigkeiten (Psychokinese, Telepathie, ESP, Metapsi, 
 Heilung). 
 
-Faehigkeiten, die etwas veraendern (z.B. Telekinese und Telepathie) wachsen auf 
+Fähigkeiten, die etwas verändern (z.B. Telekinese und Telepathie) wachsen auf 
 Kategorie 4 mit Eigenschaft^2 an, 
+
 Eigenschaften, die nur wahrnehmen (z.B.ESP) wachsen mit Eigenschaft^4. 
 
-Der Wert der darueber liegenden Kategorie entspricht dem Wert, den die 
+Der Wert der darüber liegenden Kategorie entspricht dem Wert, den die 
 darunter liegende Kategorie bei einem Eigenschaftswert von 36 hat. 
 
 
 Beispielwerte auf 12/4: 
 - Telekinese: 12kg ohne Anstrengung, 144kg mit Anstrengung. 
-- ESP: 12m scharf (Eig), 144m unscharf (Eig^2), 20736m Gespuer (Eig^4). 
-    Anstrengung nutzt fuer allg. nichts, denn man muss v.a. offen sein um wahrzunehmen. 
-    Mit Anstr. ist aber Fokussierung moegl.: 1 Richtung, schmal, dafuer weiter. 
+- ESP: 12m scharf (Eig), 144m unscharf (Eig^2), 20736m Gespür (Eig^4). 
+    Anstrengung nutzt für allg. nichts, denn man muss v.a. offen sein um wahrzunehmen. 
+    Mit Anstr. ist aber Fokussierung mögl.: 1 Richtung, schmal, dafür weiter. 
  
  
 
-= Beispiele =
+Beispiele
+---------
 
 
-= Danksagung =
+Danksagung
+----------
 
 Olli, Julian, Gurps ... 
