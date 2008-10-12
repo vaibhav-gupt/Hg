@@ -189,7 +189,7 @@ waere.
 - 12 ist durchschnitt und kostet nichts.
 - 15 ist sehr gut (+) und kostet ein Dreieck. 
 - 18 ist ueberragend (++) und kostet drei Dreiecke. 
-- 21 ist superb (+++) und kostte sechs Dreiecke. 
+- 21 ist superb (+++) und kostet sechs Dreiecke. 
 ...
 - 36 entspricht 12 der eins hoeheren Kategorie. 
 
@@ -280,15 +280,20 @@ Lehrers, die ihn auf Jahre mit Freude erfuellten:
 
 Kosten, etc., der Weg zu einem Psioniker. 
 
+Notizen: 
+
 Erschoepfung: 3 Punkte pro zusaetzlicher Normalkraft, 1 pro zus. Kraftschwelle (1/3). 
-Bsp: Telekinese: bis 12kg ohne Ersch., bis 24 3 Ersch., bis 36 6 Ersch., ..., 
+
+Bsp: Telekinese: bis 12kg ohne Ersch., bis 24kg 3 Ersch., bis 36kg 6 Ersch., ..., 
 bis 60kg 12 Ersch. (=> 1 koerperl. Wunde), ..., 
-bis 108 24 Ersch., ..., bis 144 33 Ersch. = 9 Punkte ueber Zusammenbruch, 
+bis 108kg 24 Ersch., ..., bis 144kg 33 Ersch. = 9 Punkte ueber Zusammenbruch, 
 Erschoepfung kommt erst nach Abschluss vollstaendig, vorher nur eine Ahnung, 
 ein Anklang der Erschoepfung, die kommen wird. 
+
 Bei > Erschoepfungsschwelle 1 Punkt koerp. Schaden, bei > Ersch 1 Wunde, 
 bei > 3xErsch 1 kritische Wunde. 
--> Desto hoehere Eig., desto weiter kann er ueber seine Grenzenn gehen. 
+-> Desto hoehere Eig., desto weiter kann er ueber seine Grenzen gehen. 
+
 Ab 13 ist eine kritische Wunde moegl.
 
 Kosten fuer Bereich in hohen Kategorien (ab PSI 4) von Kategorie abhaengig. 
