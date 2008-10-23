@@ -478,3 +478,44 @@ Modulnamen:
 - Allgemeine Module: 4 Zeichen
 - Weltenspezifische Module: 2 Zeichen Präfix (=> 576 Welten) + "_" + 4 Zeichen. 
 
+------ 
+
+
+Die Schwesternschaft der Wissenden
+----------------------------------
+
+Ein alter Zusammenschluss von Frauen, die nach Wissen suchen. 
+
+Sie lernen aus Rätseln, und es heißt, dass in den tiefen Kellern ihrer Burgen 
+alle Geheimnisse der Welt verborgen sind, angeblich sogar das Geheimnis der 
+Unsterblichkeit, denn einige ihrer Besucher erzählen, dass die Oberen ihres Ordens 
+auch nach 20 Jahren keinen Tag älter wirkten als bei ihrem letzten Besuch. 
+
+Mit der Zeit verinnerlichen die Wissenden die Kunst der Rätsel immer mehr, und sie 
+entwickeln den unwiderstehlichen Drang, all ihr Wissen in Rätsel und Verse zu kleiden 
+und weiterzugeben. 
+
+Wenn sie nach Abschluss ihrer Lehrzeit, die je nach Begabung 5 bis 30 Jahre dauern 
+kann, auf Reisen gehen, um neues Wissen zu sammeln, wie es die Regeln des Ordens 
+fordern, kehren sie meist mit Bänden voller Gedichte und Rätseltexte zurück, die dann 
+von ihren Schwestern gelesen werden, um die Texte zu verfeinern und die wichtigsten 
+Erkenntnisse dem Kanon des Ordens hinzuzufügen. 
+
+Allerdings ist nicht alles Wissen der Schwesternschaft harmlos, und manch eine 
+begabte Sucherin hat bereits den Verstand verloren, weil sie sich zu schnell an die 
+tiefsten Geheimnisse gewagt hat und das Pech hatte, die Rätsel zu verstehen, bevor 
+sie für deren Erkenntnisse bereit war. Die meisten dieser Bedauernswerten bleiben in den 
+Burgen der Schwesternschaft, doch von Zeit zu Zeit geschieht es, dass sie die 
+Schwesternschaft verlassen, bevor ihr Wahnsinn erkannt wird, und manche von ihnen 
+tragen schreckliche Geheimnisse aus dem Orden. Ganze Landstriche wurden bereits von 
+wahnsinnigen Wissenden unterjocht. Doch mit dem Wissen tragen die Wahnsinnigen 
+den Drang in sich, all ihre Geheimnisse in Verse udn Rätsel zu kleiden, und 
+während ihre Rätselkünste außerhalb des Ordens langsam verfallen, bleibt der 
+Dran. Meist endet der Wahnsinn, indem die Schwesternschaft eine Wissende ausschickt, 
+die sich Begleiterinnen außerhalb der Burg sucht und die Abtrünnige stellt. Alle
+Abtrünnigen, die bisher mehr als ein paar Jahre außerhalb des Ordens lebten, versahen 
+sich zwar noch auf ihr Wissen, doch ihr Drang zwang sie, ihre Geheimnisse in Versen 
+und Rätseln so aufzuzeichnen, dass jeder Besucher sie lesen konnte, und ihre 
+Rätselkünste waren so geschwächt, dass selbst junge Wissende und teilweise gar 
+ungeschulte Geister ihre Texte verstanden und mit deren Hilfe jeden Schutz um die 
+Wahnsinnige überwinden, sie stellen und zurück in den Orden bringen konnten. 
