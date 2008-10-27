@@ -1,0 +1,3 @@
+Erfahrungen mit dem Konfliktmodul (konf)
+========================================
+
