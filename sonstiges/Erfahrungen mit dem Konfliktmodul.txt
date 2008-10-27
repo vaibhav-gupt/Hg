@@ -3,7 +3,7 @@ Erfahrungen mit dem Konfliktmodul (konf)
 
 Wir haben jetzt einen ersten Test mit dem Konfliktmodul gemacht, und er lief klasse! 
 
-Wir hatten nur eine Situation, in der wir es wirklich gebraucht haben, und da hat es etwas ergeben,d as ich sonst noch nicht kannte. 
+Wir hatten nur eine Situation, in der wir es wirklich gebraucht haben, und da hat es etwas ergeben, das ich sonst noch nicht kannte. 
 
 Die Charaktere sahen sich einigen Gossenpunks gegenüber, die sie ausnehmen wollten. 
 
