@@ -1,13 +1,11 @@
-Rollenspiel, die Psyche und die SL
-==================================
+Rollenspiel, persönliche Entwicklung und die SL
+===============================================
 
-(!ENTWURF!)
+*(endlich abgetippt aufgrund eines [Blog-Eintrags von Melchior](http://belchion.supersized.org/archives/30-Disziplinarmechanismen-im-Rollenspiel.html))*
 
-Rollenspielen ermöglicht ein sehr tiefes Erleben einer anderen person, und damit eröffnet es einen Weg mit der eigenen Psyche zu arbeiten. 
+Rollenspielen ermöglicht ein sehr tiefes Erleben einer anderen Person, und damit eröffnet es einen Weg mit der eigenen Psyche zu arbeiten. 
 
-<!--TODO: Link zu Aufsteigender Adler - in diesem Licht betrachten --> 
-
-Wenn Rollenspeilrunden tief gehen und die Spieler ihre Charaktere wirklich spüren, dann können sie der Entwicklung der Charaktere folgen und durch dieses intensive Erleben der Entwicklung einer anderen Person auch sich selbst weiterentwickeln. 
+Wenn Rollenspielrunden tief gehen und die Spieler ihre Charaktere wirklich spüren, dann können sie der Entwicklung der Charaktere folgen und sich durch dieses intensive Erleben der Entwicklung einer anderen Person auch selbst weiterentwickeln. 
 
 Der Effekt ähnelt dem, dass es einem selbst heilt, wenn man jemand anderen hilft. 
 
@@ -49,21 +47,25 @@ Meine Erfahrung zeigt allerdings, dass gerade in tiefen Runden die Würfel meist
 
 *Das ist ein Erfahrungswert, und wenn jemand darüber diskutieren will, dass das statistisch nicht sein kann, möge er das bitte mit jemand anderen tun, z.B. mit den Leuten des [Global Consciousness Project](http://noosphere.princeton.edu/) in Princeton. Ich habe die Leute in Englang getroffen, und die Fragestellung ist schon lange nicht mehr "gibt es Einfluss auf die Statistik?", sondern nur noch "woher kommt er?".* 
 
-*Ich selbst hatte diese Diskussion oft genug. Manche glauben an Statistik. Ich glaube erstmal meiner Wahrnehmung, zumindest wenn sie sich vielfach bestätigt hat. Darüber diskutiere ich übrigens auch nicht mehr, es sei denn du weißt eine Gebründung, die es sich nicht so einfach macht die Totschlagargumente "das kann nicht sein" oder "selektive Wahrnehmung" zu verwenden. Das erste ist unwissenschaftlich, und ich kann genug Statistik, um das zweite sehr unwahrscheinlich zu machen (in der Größenordnungen über eins zu einer Million).* 
+*Ich selbst hatte diese Diskussion oft genug. Manche glauben an Statistik. Ich glaube erstmal meiner Wahrnehmung, zumindest wenn sie sich vielfach bestätigt hat. Darüber diskutiere ich übrigens auch nicht mehr, es sei denn du weißt eine Begründung, die es sich nicht so einfach macht die Totschlagargumente "das kann nicht sein" oder "selektive Wahrnehmung" zu verwenden. Das erste ist unwissenschaftlich, und ich kann genug Statistik, um das zweite als sehr unwahrscheinlich zurückzuweisen (in Größenordnungen über eins zu einer Million).* 
 
 *Würfel fallen nicht nur statistisch. Zumindest nach keiner Statistik, die ich bisher kenne.*
 
 Oft finden sich nun in genau diesen tiefen RUnden neue wichtige Eigenschaften, während sich die Charaktere entwickeln. Darauf mit den Spielern einzugehen ist nicht immer einfach, aber etwas Beobachtung hilft dabei sehr, und oft zeigen es die Spieler indirekt, z.B. indem sie sich über bestimmte Situationen besonders freuen (oder besonders viel darüber reden). 
 
-Für Spieler bedeutet der Effekt, dass sie ihre Charaktere so whlen können, dass sie für sich selbst damit eine bestimmte Entwicklung unterstützen. 
+Für Spieler bedeutet der Effekt, dass sie ihre Charaktere so wählen können, dass sie für sich selbst damit eine bestimmte Entwicklung unterstützen. 
 
-Für Spielleiter bedeutet er, dass sie ihre eigene Entwicklung zwar auch durch bestimmte NSCs födern können, dass sie aber auch eine größere Verantwortung haben, denn wenn sie ihre Arbeit gut machen, haben ihre Spieler viele Möglichkeiten zur Entwicklung, wenn sie den Effekt aber ignorieren, gibt ihre Runde den Spielern vielleicht weitaus weniger, und auch die Intensität kann leiden. 
+Für Spielleiter bedeutet er, dass sie ihre eigene Entwicklung zwar auch durch bestimmte NSCs fördern können, dass sie aber auch eine größere Verantwortung haben, denn wenn sie ihre Arbeit gut machen, haben ihre Spieler viele Möglichkeiten zur Entwicklung, wenn sie den Effekt aber ignorieren, gibt ihre Runde den Spielern vielleicht weitaus weniger als sie könnte, und auch die Intensität kann leiden. 
 
 Allerdings gibt der Effekt einer SL auch ein paar neue Werkzeige in die Hand, um die Chance zu erhöhen, dass die Runden gut laufen. 
 
-Das Erste geben ihr die Charaktere in die Hand: "Warum hat der Spieler den Char gewählt?" Das ist es, was er im Spiel erleben will. 
+Das Erste geben ihr die Charaktere in die Hand: *"Warum hat der Spieler den Char gewählt?"* 
 
-Das zweite geben dir die Spieler: Welche Grundkonflikte haben die Spiele, und welche gibt es zwischen ihnen? Und welche Hast du selbst? Die sind es, die auftreten werden. 
+Das ist es, was er im Spiel erleben will. 
+
+Das zweite geben dir die Spieler: *"Welche Grundkonflikte haben die Spieler, und welche gibt es zwischen ihnen? Und welche hast du selbst?"* 
+
+Die sind es, die auftreten werden. 
 
 ----- 
 
@@ -74,23 +76,24 @@ Zum Abschluss noch ein paar Notizen, die ich noch nicht in den Haupttext eingef�
 Notizen
 -------
 
-* Spieler erschaffen oft genau ihren Wunsch-Char
-* Larps: Eigene Definition des Chars nur sehr beschränkt möglich -> weniger neue Erlebnisse, die Änderung bringen. Rolle in der Gruppe teilweise änderbar. 
-* Manche Spieler sehen den Charakter stark als außerhalb ihres Selbsts liegend an. Sie verschenken damit einein Teil ihres eigenen Entwicklugnspotenzials, probieren so aber oft auch für andere interessantes aus. 
-* Nicht jeder Spieler kann sich sofirt tief auf seinen Char einlassen. Wie kann man ihm helfen? 
+* Spieler erschaffen oft ihren Wunsch-Char
+* Larps: Eigene Definition des Chars nur sehr beschränkt möglich -> weniger neue Erlebnisse, die Änderung bringen. Dafür leichtere Identifikation. Rolle in der Gruppe teilweise änderbar. 
+* Manche Spieler sehen den Charakter stark als außerhalb ihres Selbsts liegend an. Sie verschenken damit einen Teil ihres eigenen Entwicklugnspotenzials, probieren so aber oft auch für andere interessantes aus. 
+* Nicht jeder Spieler kann sich sofort tief auf seinen Char einlassen. Wie können wir ihm helfen? 
 * Vorsicht: "Ich bin überall der Beste" funktioniert in einer Rollenspielrunde meist nicht gut. 
+* Auch interessant in dem Zusammenhang: Aufsteigender Adler über [Rollenspiel und Magie](http://www.kondor.de/shaman/rpg.html) - Magie wird oft als der Weg zur bewussten Entwicklung des Selbst gesehen. 
 
-### Kleiner Leitfaden zur Entwicklung mit Rollenspielen -> zu intensivem Rollenspiel. 
+### Ideen zur Entwicklung mit Rollenspielen -> zu einem Aspekt intensiven Rollenspiels. 
 
 #### Interessante Chars: 
 
-##### Beziehungen: 
+##### Beziehungen, die beachtet werden sollten: 
 
 * Chars - Chars
 * Spieler - Chars
 * Chars - Geschichte
 
-Dabei "Spieler - Spieler" beachten. 
+Dabei "Spieler - Spieler" im Kopf behalten. 
 
 ### Bedeutung für Runden: 
 
@@ -101,14 +104,14 @@ Dabei "Spieler - Spieler" beachten.
 
 Warum gewählt? 
 
-* Nach Fähigkeiten gewählt -> Fähigkeiten wichtig!
-* Nach Stil gewählt? -> Inneres wichtig
+* Nach Fähigkeiten gewählt -> Fähigkeiten wichtig! 
+* Nach Stil gewählt? -> Inneres wichtig! 
 
 Egal nach welchen Gesichtspunkten der Spieler den Char erschaffen hat (auch wenn er es oft nicht merkt), diese Gesichtspunkte sind es, die wichtig werden sollten, und wenn sie nicht zu deiner geplanten Kampagne passen, dann sag es ihm am Besten noch vor Beginn, sonst nimmst du ihm Zeit, in der er einen Charakter spielen könnte, dessen Konflike in der Kampagne wichtig werden und damit viel eigene Entwicklung ermöglichen würden. 
 
-Frag *"Was hat dich an dem Volk am meisten angesprochen", aber erwarte nicht, dass die Antwort immer stimmt. 
+Frag *"Was hat dich an dem Volk am meisten angesprochen"*, aber erwarte nicht, dass die Antwort immer stimmt. 
 
-oft trauen sich Leute nicht, ihre wirklichen Beweggründe zu nennen (gerade weil sie vielleicht Konflikte in ihnen selbst ansprechen), und oft wissen sie selbst nicht genau, welche es sind. 
+Oft trauen sich Leute nicht, ihre wirklichen Beweggründe zu nennen (gerade weil sie vielleicht Konflikte in ihnen selbst ansprechen), und oft wissen sie selbst nicht genau, welche es sind. 
 
 Desto tiefer das Vertrauen innerhalb deiner Runde wird, desto wahrscheinlicher ist es, dass die Spieler vor anderen, vor allem aber auch vor sich selbst, sagen können, warum sie genau diesen Charakter spielen wollen (genauso kann natürlich auch die SL für sich herausfinden, was sie berührt). 
 
@@ -117,4 +120,6 @@ Desto tiefer das Vertrauen innerhalb deiner Runde wird, desto wahrscheinlicher i
 Info für SL, kann sich schnell ändern: 
 
 * Soll bleiben (statisch) oder 
-* soll sich verändern (dynamisch). 
+* Soll sich verändern (dynamisch). 
+
+*Und zum Abschluss nochmal: Ich würde mich über Kommentare freuen!*
