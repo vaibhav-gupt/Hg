@@ -37,15 +37,48 @@ Wenn dein Spieler die Beschreibung von Elfen oder brutalen Barbaren liest und si
 
 Ein Teil deines Jobs als SL ist es nun, herauszufinden, was deinen Spieler daran angesprochen hat, und es ihm zu ermöglichen, diesen Asüekt im Spiel zu erleben. 
 
-Vielleicht war es die Harmonie in der GEsellschaft der Elfen, oder ihre Zufriedenheit mit dem Leben, egal was es bringt, oder vielleicht die rohe Kraft der Barbaren, mit der sie sich Respekt verschaffen können, ihre Primitivität oder ihr Ehrgefühl (falls sie eins haben). 
+Vielleicht war es die Harmonie in der Gesellschaft der Elfen, oder ihre Zufriedenheit mit dem Leben, egal was es bringt, oder vielleicht die rohe Kraft der Barbaren, mit der sie sich Respekt verschaffen können, ihre Primitivität oder ihr Ehrgefühl (falls sie eins haben). 
 
+Wenn du diese Eigenschaft des Charakters gefunden hast, oder zumindest glaubst sie gefunden zu haben, kannst du dem Spieler helfen, seinen Charakter zu leben, indem die Herausforderungen bietest, die die Eigenschaft ansprechen. Je nach Eigenschaft können das v.a. Situationen sein, die sich durch Einsatz er Eigenschaft lösen lassen, so dass die Eigenschaft ins Zentrum der Aufmerksamkeit rückt und wahrgenommen wird, oder Situationen, die die Eigenschaft in Frage stellen. 
 
+Um auf der sicheren Seite zu sein, kannst, solange du den Charakter noch nicht gut kennst, erstmal vor allem auf Situationen zurückgeifen, die die Eigenschaft positiv hervorbringen, was für den Anfang einer Kampagne sowieso meist besser ist, da von der Sicht der GEschichte die Charaktere damit erst klar eingeführt werden, bevor ihre Haltungen in Frage gestellt werden. 
+
+Manchmal wirst du, wenn du tief arbeitest, an Würfelergebnissen drehen müssen, um die für den Spieler tiefsten Ereignisse hervorzubringen, so wie auch Geschichten den Charakteren Herausforderungen bieten, die ihre Eigenschaften ins Tiefste sichtbar werden lassen. 
+
+Meine Erfahrung zeigt allerdings, dass gerade in tiefen Runden die Würfel meist Ergebnisse bringen, die den Spielern das geben, was sie brauchen. 
+
+*Das ist ein Erfahrungswert, und wenn jemand darüber diskutieren will, dass das statistisch nicht sein kann, möge er das bitte mit jemand anderen tun, z.B. mit den Leuten des [Global Consciousness Project](http://noosphere.princeton.edu/) in Princeton. Ich habe die Leute in Englang getroffen, und die Fragestellung ist schon lange nicht mehr "gibt es Einfluss auf die Statistik?", sondern nur noch "woher kommt er?".* 
+
+*Ich selbst hatte diese Diskussion oft genug. Manche glauben an Statistik. Ich glaube erstmal meiner Wahrnehmung, zumindest wenn sie sich vielfach bestätigt hat. Darüber diskutiere ich übrigens auch nicht mehr, es sei denn du weißt eine Gebründung, die es sich nicht so einfach macht die Totschlagargumente "das kann nicht sein" oder "selektive Wahrnehmung" zu verwenden. Das erste ist unwissenschaftlich, und ich kann genug Statistik, um das zweite sehr unwahrscheinlich zu machen (in der Größenordnungen über eins zu einer Million).* 
+
+*Würfel fallen nicht nur statistisch. Zumindest nach keiner Statistik, die ich bisher kenne.*
+
+Oft finden sich nun in genau diesen tiefen RUnden neue wichtige Eigenschaften, während sich die Charaktere entwickeln. Darauf mit den Spielern einzugehen ist nicht immer einfach, aber etwas Beobachtung hilft dabei sehr, und oft zeigen es die Spieler indirekt, z.B. indem sie sich über bestimmte Situationen besonders freuen (oder besonders viel darüber reden). 
+
+Für Spieler bedeutet der Effekt, dass sie ihre Charaktere so whlen können, dass sie für sich selbst damit eine bestimmte Entwicklung unterstützen. 
+
+Für Spielleiter bedeutet er, dass sie ihre eigene Entwicklung zwar auch durch bestimmte NSCs födern können, dass sie aber auch eine größere Verantwortung haben, denn wenn sie ihre Arbeit gut machen, haben ihre Spieler viele Möglichkeiten zur Entwicklung, wenn sie den Effekt aber ignorieren, gibt ihre Runde den Spielern vielleicht weitaus weniger, und auch die Intensität kann leiden. 
+
+Allerdings gibt der Effekt einer SL auch ein paar neue Werkzeige in die Hand, um die Chance zu erhöhen, dass die Runden gut laufen. 
+
+Das Erste geben ihr die Charaktere in die Hand: "Warum hat der Spieler den Char gewählt?" Das ist es, was er im Spiel erleben will. 
+
+Das zweite geben dir die Spieler: Welche Grundkonflikte haben die Spiele, und welche gibt es zwischen ihnen? Und welche Hast du selbst? Die sind es, die auftreten werden. 
+
+----- 
+
+Ich hoffe, mein Text hat dir einige Anregungen gegeben. Ich würde mich über Kommentare dazu freuen! 
+
+Zum Abschluss noch ein paar Notizen, die ich noch nicht in den Haupttext eingefügt habe: 
 
 Notizen
 -------
 
 * Spieler erschaffen oft genau ihren Wunsch-Char
 * Larps: Eigene Definition des Chars nur sehr beschränkt möglich -> weniger neue Erlebnisse, die Änderung bringen. Rolle in der Gruppe teilweise änderbar. 
+* Manche Spieler sehen den Charakter stark als außerhalb ihres Selbsts liegend an. Sie verschenken damit einein Teil ihres eigenen Entwicklugnspotenzials, probieren so aber oft auch für andere interessantes aus. 
+* Nicht jeder Spieler kann sich sofirt tief auf seinen Char einlassen. Wie kann man ihm helfen? 
+* Vorsicht: "Ich bin überall der Beste" funktioniert in einer Rollenspielrunde meist nicht gut. 
 
 ### Kleiner Leitfaden zur Entwicklung mit Rollenspielen -> zu intensivem Rollenspiel. 
 
@@ -79,3 +112,9 @@ oft trauen sich Leute nicht, ihre wirklichen Beweggründe zu nennen (gerade weil
 
 Desto tiefer das Vertrauen innerhalb deiner Runde wird, desto wahrscheinlicher ist es, dass die Spieler vor anderen, vor allem aber auch vor sich selbst, sagen können, warum sie genau diesen Charakter spielen wollen (genauso kann natürlich auch die SL für sich herausfinden, was sie berührt). 
 
+### Eine Bedeutung von Eigenschaften
+
+Info für SL, kann sich schnell ändern: 
+
+* Soll bleiben (statisch) oder 
+* soll sich verändern (dynamisch). 
