@@ -10,7 +10,7 @@ seiner Meinung nach nicht ausreichend wuerdigte.
 Gleichzeitig fanden Nora, die Gestaltwandlerin, und Marik der Wildhueter 
 Leichen von Tiere, die verendet waren, nachdem ihnen die Pfoten oder Hufe bei 
 lebendigem Leib abgeschnitten wurden, und Aurelion, ein Stadtwaechter, wurde in 
-das Dorf Jerres gerufen, wo auch fuenf Hunden eines fetten Bauern die Pfoten 
+das Dorf Jessers gerufen, wo auch fuenf Hunden eines fetten Bauern die Pfoten 
 abgeschnitten worden waren. Auch die Diebin Nal ist gerade in Jerres. 
 
 Kurzfassung
@@ -28,7 +28,7 @@ SCs:
 Haupt-NSCs: 
 
 *
-*
+* Fuenf erfahrene Wilderer
 *
  
 [Ashar]: http://erynnia.de "Ashar, Katzenmenschen aus Ern"
@@ -36,4 +36,136 @@ Haupt-NSCs:
 Der Spielabend
 --------------
 
+Ich bin am Samstag mit Knox um kurz nach Sieben in den cnc auf die Spieletage in 
+Karlsruhe gekommen, wo wir Jens und Daniel getroffen haben. Nachdem wir uns 
+entschieden hatten, dass wir Fantasy spielen wollen und gerade dabei waren, 
+herauszufinden, wie wir einen Aushang machen konnten (2 Plaetze frei) hat uns eine 
+Frau angesprochen und gesagt "Ich mach bei euch mit", so dass wir vier Spieler hatten. 
 
+Wir suchten uns also eine Box, machten einen Aushang (ein PLatz frei) und begannen 
+die Charaktere zu erschaffen. Eine gute Stunde spaeter hatten wie nicht nur die 
+Charaktere entworfen und beschrieben, sondern auch die Region und den Hintergrund 
+der Runden gefunden, und ich wusste in etwa, welche Geschichte ich erzaehlen wollte. Dazu 
+hatten wir ein Blatt mit [Beziehungen zwischen den Charakteren][chardiagramm]. 
+
+Ich verschwand noch einmal, um mir etwas zu trinken zu holen und zu planen, dann 
+begannen wir die Runde. 
+
+Die Diebin Nal war gerade in Jessers angekommen und wohnte bei einem 
+mausgesichtigen Bauern, der mehr an Geruechten und der Unterwelt interessiert war 
+als an seinen eigenen Feldern, und der deswegen die Felder vollstaendig von seinen 
+Knechten bestellen liess (und die auch gut bezahlte). Er berichtete Nal genaueres 
+ueber den Haendler, von dem sie das Kunstwerk stehlen wollte und erzaehlte 
+auch, dass der Haendler in drei Tagen auf dem Markt sein wuerde, um Mitglieder 
+des Herrscherhauses des Landes einzuladen, was eine perfekte Chance bietne wuerde, 
+bei ihm einzubrechen. 
+
+Zur gleichen Zeit kamen Kinder aus dem Dorf in das Lager der Gestaltwandlerin 
+im Wald, die gerade in menschlicher Gestalt ihren Fang ausweidete. Sie 
+scheuchte die Kinder zurueck zu ihren Eltern. Der Wildhueter bemerkte den Tumult 
+und folgte ihr in den Wald, wo ihre Spurne ploetzlich von denen eines Panters 
+erzetzt wurden. Er traf sie an ihrem Lager an, waehrend sie gerade die Reste ihres 
+Fangs asz. Als er ihr sagte, dass das Wildern in diesem Wald eigentlich nicht 
+erlaubt sei, wurde sie wuetend und jagte ihn davon. 
+
+In der Stadt Tar Keresh, eine Tagesreise vom Dorf entfernt, wurde der 
+Stadtwaechter und Kriegsveteran Aurelion von seinem aggressiven Vorgesetzten in 
+das Dorf geschickt, um zu untersuchen, wie dort fuenf Hunde zu Tode gekommen 
+waren. Der wohlhabende (und schwer beleibte) Bauer Trassen hatte deswegen nach der 
+Wache geschickt. 
+
+Soviel zur Ausgangssituation. Nun de gesamte Runde aufzuschreiben wuerde zu weit 
+fuehren, daher fasse ich mich kurz. 
+
+Der Wildhueter folgte der Gestaltwandlerin weiter, bis ihn Aurelion mit dem Horn 
+des gewaehlten (beleibten und in die eigene Tasche wirtschaftenden) Dorfoberen 
+rief, so dass er die Uberwachung der seltsamen Wildererin abbrechen musste. 
+
+Aurelion hatte mit dem Bauern Trassen gesprochen, die Leichen Hunde betrachtet 
+(ihnen waren die Pfoten abgeschnitten worden), war vom Regen erwischt und 
+von der freundlichen Frau des Bauern verkoestigt worden und hatte dann am 
+naechsten Tag mit dem alten Stadtschreiber Ekiel gesprochen, der ihm berichtete, 
+dass von den Vorkommnissen nicht viel wuesste, dass aber ein toller junger Mann in 
+der Stadt sei, der interessiert zugehoert haette, als er ihm die gesamte Chronik 
+der Stadt erzaehlte, und der hier uebernachtet haette. Auszerdem sagt er, dass er 
+der letzte Chronist dieser Stadt sei, da seine Frau und Kinder 
+vor acht Jahren im Krieg gestorben waren und damit die Linie der Dorfschreiber 
+nach 200 Generationen mit ihm enden wuerde. Und er schwaermte immer wieder 
+von dem jungen Mann. Nebenbei erewaehnte er, dass dieser Mann ein Ashar 
+war. Aurelion hatte alerdings schon nach dem zweiten 
+Satz nicht mehr wirklich zugehort, da er eigentlich zum Dorfoberen wollte, der 
+nunmal mit dem Schreiber im Haupthaus wohnte und noch schlief. 
+
+Dann sprach ihn ebendieser Ashar an, da er mit Aurelion gesprochen hatte, als er 
+vor fuenf Jahren das letzte Mal in der Stadt war. Damals hatte er sich allerdings 
+Silvio genannt, doch der Stadtschreiber wusste seinen Namen sowieso nicht. 
+
+Als der Ashar weiterging, beobachtete ihn Aurelion, doch nachdem der Ashar den 
+Markt verliesz und aus dem Dorf Richtung Stadt zog, erreichte Marik das Dorf und 
+suchte und fand den Stadtwaechter und fragte ihn, warum er ihn gerufen habe. 
+
+Eine Stunde vorher hatte die Gestaltwandlerin zwei Wilderer dabei beobachtet, wie 
+sie auf Rehe schossen und vieren davon, die ihre Pfeile schwer verwundet hatten, 
+bei lebendigem Leib die Hufe und Fesseln abschlugen. Sie entschied sich, nicht 
+einzugreifen, toetete die Rehe und schleppte sie in ihr Lager. 
+
+Ebendiese Wilderer kamen nun im Dorf an und wollten im gestreckten Galopp 
+durch die vom Markt enge Strasze reiten, doch Aurelion hielt sie auf und fand bei 
+der Durchsuchung in ihren Satteltaschen unter Trockenfleisch die vom Blut noch 
+glitschigen Hufe der Rehe. Im gleichen Moment stuerzten sich die Wilderer auf 
+ihn, wurden aber schnell bezwungen. 
+
+Sie erzaehlten nichts, so dass sich Marik und Aurelion gemeinsam in die Stadt 
+aufmachten, um die Wilderer ihrer gerechten Strafe zuzufuehren. Auf dem Weg trafen 
+sie Nal erneut, der ihnen sagte, dass vor einer halben Stunde zwei weitere 
+Berittene an ihm vorbeigaloppiert waren, die den gefangenen Wilderern sehr 
+aehnlich sahen. Keiner der drei ahnte, dass ihnen am Rand der Strasze die 
+Gestaltwandlerin Nora in Pantergestalt folgte, die die Wilderer verfolgt hatte und 
+von ihnen abgehaengt wurde. 
+
+Sofort gab Aurelion ein Hornsignal an die Wache, dass Feinde unterwegs seien. 
+Danach schickte er mit Mariks Falken eine Nachricht, dass nur niemand durch die 
+Tore gelassen werden sollte. Dann sasz Nal hinter Marik auf, und sie reisten 
+gemeinsam zur Stadt, neben sich immer Nora als Panter in den Aesten der Baeume. 
+
+Die Pferde der Wilderer fanden sie im Wald bei der Mauer, die Wilderer selbst 
+konnten sie in der Stadt aufgreifen. Derweil brachte der Foltermeister die beiden 
+anderen zum sprechen und berichtere Aurelion kichernd, dass sie erzaehlten von 
+einem Kuenstler angestellt worden zu sein, der in dem Raum unter der Bruecke 
+lebte. 
+
+Auszerhalb der Stadt fing Nora den fuenften Wilderer ab und stahl sein Pferd und 
+seine Kleidung, um die Stadt betreten zu koennen. Sie betrat die Stadt als 
+Bettlerin und traf bei der Bruecke auf Nal. 
+
+Beide hoerten mit, wie Aurelion und Marik den Kuenstler ausfragten und dessen Raum 
+durchsuchten, aber nichts fanden, denn dass Krallenbild war bereits zu seinem 
+Kaeufer gebracht. Nal wusste von dem mausgesichtigen Bauern, dass 
+der Haendler den Kuenstler agestellt hatte, doch das interessierte ihn weniger. 
+Die sich so elegant bewegende Bettlerin interessierte ihn weit mehr, und er 
+kaufte ihr schoene Kleidung und ueberschuettete sie mit Komplimenten, bis er sie 
+ueberzeugt hatte, dass sie mit ihm zu dem Haendler kommen sollte, weil nur sie ihm 
+helfen koennte Einlass zu bekommen. 
+
+Am naechsten Morgen gingen Nal und Nora zu dem Haus den Haendlers, und dessen 
+Wache liesz sie sofort ein und sprach aus offensichtlichem Interesse mit der Dame. 
+Nal war als deren Diener dabei und wurde Tee holen geschickt. Als er dabei alleine 
+war, nahm er das Kunstwerk an sich und verschwand. Nora bemerkte sein Verschwinden 
+vor den Wachen und floh aus dem Haus. Dabei liesz sie den schweren Mantel zurueck, 
+den ihr Nal geschenkt hatte. In dessen rechter Tasche waren Scherben in einer 
+Tuete, blau wie das Kunstwerk. Als die Wachen den Mantel und die Scherben fanden, 
+warfen sie die Scherben auf den Boden, wo das Kunstwerk gewesen war, denn 
+zuzugeben, dass sie einfach Fremde eingelassen hatten, waere wohl ein Todesurteil 
+gewesen. 
+
+Hir endete der Abend, da die Spieler von Arelion und Marik uns schon eine Stunde 
+vorher hatten verlassen muessen. Im Epilog erfuhren die verbleibenden, dass drie 
+Stunden spaeter ein Kopfjaeger auf der Suche nach Nal in das Haus des 
+Haendlers gekommen und wieder gegangen war, dass kurz darauf der Haendler mit den 
+Adligen das Kunstwerk, eine Maske aus Krallen, mit dem Blut einer geopferten 
+Jungfrau zum Leben erweckte und dabei von den Wachen ueberrascht wurde. 
+
+Die erwachte Krallenmaske verschwand durch das Fenster des Hauses, doch der 
+Haendler und Adligen nahmn ein unschoenes Ende. Die Krallenmaske wird noch ein 
+paarmal toeten, bis sich endlich eine tapfere Heldengruppe findet, die 
+sie aufgespuert und vernichtet. 
