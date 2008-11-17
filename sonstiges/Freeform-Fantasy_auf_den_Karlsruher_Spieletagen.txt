@@ -1,8 +1,7 @@
 Freeform-Fantasy auf den 23. Karlsruher Spieletagen
 ===================================================
 
-Auf den diesjährigen Karlruher Spieletagen haben wir eine improvisierte 
-Freeform-Fantasy Runde gespielt. 
+Auf den diesjährigen [Karlsruher Spieletagen](http://www.thoule.de/) haben wir eine improvisierte Freeform-Fantasy Runde gespielt. 
 
 Nal, der Dieb der Runde wollte ein Kunstwerk eines Händlers stehlen, der es 
 seiner Meinung nach nicht ausreichend würdigte. 
@@ -11,7 +10,7 @@ Gleichzeitig fanden Nora, die Gestaltwandlerin, und Marik der Wildhüter
 Leichen von Tiere, die verendet waren, nachdem ihnen die Pfoten oder Hufe bei 
 lebendigem Leib abgeschnitten wurden, und Aurelion, ein Stadtwächter, wurde in 
 das Dorf Jassers gerufen, wo auch fünf Hunden eines fetten Bauern die Pfoten 
-abgeschnitten worden waren. Auch die Diebin Nal ist gerade in Jassers. 
+abgeschnitten worden waren. Auch der Dieb Nal ist gerade in Jassers. 
 
 Kurzfassung
 -----------
@@ -20,26 +19,26 @@ Grundkonflikte: Ein Kunstwerk stehlen und Wilderer aufhalten.
 
 SCs: 
 
-* Nal, [Ashar][] Dieb mit graublauem Fell, Ästhet. Seine Familie lebt 10 Tagesreisen entfernt. 
-* Nora, Panter-Gestaltwandlerin in den Wäldern. Veteranin des Krieges, die nicht wieder in der Gesellschaft Fuß gefasst hat, seit sie vor 8 Jahren mit ihrer Einheit vom Rest der Armee abgeschnitten wurde und als einzige überlebte.  
-* [Aurelion][], menschliche Stadtwache und Kriegsveteran. 
-* [Marik][], menschlicher Wildhüter und Tierempath. Beschützer des Waldes. 
+* *Nal*, Ashar Dieb mit graublauem Fell, Ästhet. Seine Familie lebt 10 Tagesreisen entfernt. Ashar sind die Katzenmenschen aus [Erynnia][]
+* *Nora*, Panter-Gestaltwandlerin in den Wäldern. Veteranin des Krieges, die nicht wieder in der Gesellschaft Fuß gefasst hat, seit sie vor 8 Jahren mit ihrer Einheit vom Rest der Armee abgeschnitten wurde und als einzige überlebte.  
+* *[Aurelion][]*, menschliche Stadtwache und Kriegsveteran. 
+* *[Marik][]*, menschlicher Wildhüter und Tierempath. Beschützer des Waldes. 
 
 Haupt-NSCs: 
 
-* Rhon Riedland: Reicher Händler, der Kunst nur nutzt, um Geschäftspartner zu beeindrucken. 
-* Mro: Künstler und Schöpfer des Krallenbildes
+* *Rhon Riedland*: Reicher Händler, der Kunst nur nutzt, um Geschäftspartner zu beeindrucken. 
+* *Mro*: Künstler und Schöpfer des Krallenbildes
 * Fünf erfahrene Wilderer, von Mro mitgebracht und angestellt. 
-* Ekiel: Schreiber aus Jassers. Hat Frau und Kinder im Krieg verloren und ist der letzte Schreiber des Dorfes. Er ist überglücklich, wenn er jemandem die Chronik erzählen kann, und sie ist sein ganzer Stolz. Die Chronik wurde vor 200 Generationen von seiner Familie begonnen und immer von der Familie fortgeführt. Er kennt allerdings keine lebenden, nahen Verwandten, die seine Arbeit weiterführen könnten. Ekiel wohnt im Haus des Dorfoberen. 
-* Garder: Maushafter Bekannter von *Nal*. Kennt viele. 
-* Tassen: Dicker Bauer, der nur an seinem Besitz interessiert ist. Er hat viele Schnitzereien in und an seinem Haus. Seine Frau ist auch etwas rundlich. Sie behandelt Fremde zuvorkommend, aber Tassen geht mit ihr eher um wie mit einer Dienerin und zeigt wenig Wärme. 
+* *Ekiel*: Schreiber aus Jassers. Hat Frau und Kinder im Krieg verloren und ist der letzte Schreiber des Dorfes. Er ist überglücklich, wenn er jemandem die Chronik erzählen kann, und sie ist sein ganzer Stolz. Die Chronik wurde vor 200 Generationen von seiner Familie begonnen und immer von der Familie fortgeführt. Er kennt allerdings keine lebenden, nahen Verwandten, die seine Arbeit weiterführen könnten. Ekiel wohnt im Haus des Dorfoberen. 
+* *Garder*: Maushafter Bekannter von *Nal*. Kennt viele. 
+* *Tassen*: Dicker Bauer, der nur an seinem Besitz interessiert ist. Er hat viele Schnitzereien in und an seinem Haus. Seine Frau ist auch etwas rundlich. Sie behandelt Fremde zuvorkommend, aber Tassen geht mit ihr eher um wie mit einer Dienerin und zeigt wenig Wärme. 
 * Der Dorfobere: Ein etwas beleibter Mann, der sein Amt immer mal wieder für persönlichen Profit nutzt, aber das Geld immer wieder zu schnell ausgibt. Er stört gerade nicht genug, um jemand anderen zu wählen. 
 
 Wichtige Orte: 
 
-* Barn: Der Staat, in dem wir spielen. Grenzt an das Land der Kirche des Lichts. Wird von Adligen regiert. 
-* Tar Keresch: Eine Stadt an der Grenze zum Land der Kirche des Lichts. Sie wurde vor 8 Jahren verwüstet, als die Erleuchter der Kirche sie erobert und ein paar Wochen lang gehalten haben (wobei alle magisch Begabten und ein Großteil der Nichtmenschen verbrannt oder verschleppt wurden. Außerdem verschwand ein Großteil der Tonarbeiten, für die Tar Keresch berühmt war, und mit ihnen gleich auch ihre Schöpfer). Die Zurückeroberung hat der Stadt dann auch nicht gerade gut getan, so dass immernoch nicht wieder von einer Stadtmauer sondern von einer Holzpalisade geschützt wird. 
-* Jassers: Ein Dorf eine Tagesreise entfernt von Tar Keresch. Es wurde vor ewigen Zeiten von dem Bauern *Jasser* gegründet, als es Tar Keresch noch nicht gab. Tar Keresch wurde bald darauf am Fluss erbaut und hat Jassers bald hinter sich gelassen. Bekannt ist Jassers für allem für seine 200 Generationen von Schreibern zurückreichende Chronik. Der Dorfobere wird eigentlich gewählt, kommt aber seit Generationen immer aus der selben Familie. 
+* *Barn*: Der Staat, in dem wir spielen. Grenzt an das Land der Kirche des Lichts. Wird von Adligen regiert. 
+* *Tar Keresch*: Eine Stadt an der Grenze zum Land der Kirche des Lichts. Sie wurde vor 8 Jahren verwüstet, als die Erleuchter der Kirche sie erobert und ein paar Wochen lang gehalten haben (wobei alle magisch Begabten und ein Großteil der Nichtmenschen verbrannt oder verschleppt wurden. Außerdem verschwand ein Großteil der Tonarbeiten, für die Tar Keresch berühmt war, und mit ihnen gleich auch ihre Schöpfer). Die Zurückeroberung hat der Stadt dann auch nicht gerade gut getan, so dass immernoch nicht wieder von einer Stadtmauer sondern von einer Holzpalisade geschützt wird. 
+* *Jassers*: Ein Dorf eine Tagesreise entfernt von Tar Keresch. Es wurde vor ewigen Zeiten von dem Bauern *Jasser* gegründet, als es Tar Keresch noch nicht gab. Tar Keresch wurde bald darauf am Fluss erbaut und hat Jassers bald hinter sich gelassen. Bekannt ist Jassers für allem für seine 200 Generationen von Schreibern zurückreichende Chronik. Der Dorfobere wird eigentlich gewählt, kommt aber seit Generationen immer aus der selben Familie. 
 
 Wichtige Gegenstände: 
 
@@ -50,9 +49,9 @@ Sonstiges:
 
 * Zeitrechnung: 24 ndF - wir schreiben das das 24. Jahr nach der Flut. 
 
-[Ashar]: http://erynnia.de "Ashar, Katzenmenschen aus Erynnia"
-[Marik]: /files/ka-spieletage-charheft-marik.png
-[Aurelion]: /files/ka-spieletage-charheft-aurelion.png
+[Erynnia]: http://erynnia.de "Ashar, Katzenmenschen aus Erynnia"
+[Marik]: /files/ka-spieletage-08-charheft-marik.png
+[Aurelion]: /files/ka-spieletage-08-charheft-aurelion.png
 
 Der Spielabend
 --------------
@@ -72,7 +71,7 @@ hatten wir ein Blatt mit [Beziehungen zwischen den Charakteren][chardiagramm].
 Ich verschwand noch einmal, um mir etwas zu trinken zu holen und zu planen, dann 
 begannen wir die Runde. 
 
-Die Diebin Nal war gerade in Jassers angekommen und wohnte bei Garder, einem 
+Der Dieb Nal war gerade in Jassers angekommen und wohnte bei Garder, einem 
 mausgesichtigen Bauern, der mehr an Gerüchten und der Unterwelt interessiert war 
 als an seinen eigenen Feldern, und der deswegen die Felder vollständig von seinen 
 Knechten bestellen liess (und die auch gut bezahlte). Er berichtete Nal genaueres 
@@ -200,11 +199,11 @@ Das erste wäre zwar stärker geworden, aber einerseits hatte ich es irgendwann 
 
 Improvisation und Freeform heißt hier übrigens, dass wir zwar existierende Welten als Inspiration genommen haben (genauer: [Ern](http://erynnia.de) ), dass aber die Umgebung, die Stadt, das Dorf, die NSCs usw. alle bei der Charaktererschaffung und während dem Spiel entworfen wurden. 
 
-Ich hoffe, ihr hattet Spaß beim Lesen! 
+Ich hoffe, ihr hattet Spaß genausoviel beim Lesen wie ich beim Leiten! 
 
 Die schönen Charakterbilder wurden übrigens von Daniel gezeichnet. 
 
-[chardiagramm]: /files/ka-spieletage-chardiagramm.png
+[chardiagramm]: /files/ka-spieletage-08-chardiagramm.png
 
 Zu den Karlsruher Spieletagen
 -----------------------------
@@ -213,10 +212,10 @@ In unserem Raum waren vier Rollenspielrunden, durch Stellwände getrennt.
 Die Lautstärke war in Ordnung, auch wenn wir etwas lauter reden mussten 
 und nicht immer alles verstanden haben. 
 
-Wie groß die Con genau war kann ich nicht sagen, ich schätze aber dass Samstag Abend um 30 bis 50 Rollenspieler und dazu nochmal 50 bis 100 Brettspieler da waren (die ich aber nur kurz im großen Saal gesehen und dann ignoriert habe). 
+Wie groß die Con genau war kann ich nicht sagen, ich schätze aber dass Samstag Abend um die 30 bis 50 Rollenspieler und dazu nochmal 50 bis 100 Brettspieler da waren (die ich aber nur kurz im großen Saal gesehen und dann ignoriert habe). 
 
 Leider bin ich nicht dazu gekommen, Trauma testzuspielen (und mit seinem Entwickler zu reden) - ein Abend reicht nunmal nur für ein Spiel :) 
 
-Nächstes Jahr kann ich hoffentlich das ganze Wochenende da sein! 
+Ich hatte auf jeden Fall viel Spaß auf der Con. Nächstes Jahr kann ich hoffentlich das ganze Wochenende da sein! 
 
 PS: Ich hoffe, wir hören bald von unserer Mitspielerin (der Spielerin von Nal). 
