@@ -10,8 +10,8 @@ seiner Meinung nach nicht ausreichend würdigte.
 Gleichzeitig fanden Nora, die Gestaltwandlerin, und Marik der Wildhüter 
 Leichen von Tiere, die verendet waren, nachdem ihnen die Pfoten oder Hufe bei 
 lebendigem Leib abgeschnitten wurden, und Aurelion, ein Stadtwächter, wurde in 
-das Dorf Jessers gerufen, wo auch fünf Hunden eines fetten Bauern die Pfoten 
-abgeschnitten worden waren. Auch die Diebin Nal ist gerade in Jerres. 
+das Dorf Jassers gerufen, wo auch fünf Hunden eines fetten Bauern die Pfoten 
+abgeschnitten worden waren. Auch die Diebin Nal ist gerade in Jassers. 
 
 Kurzfassung
 -----------
@@ -20,19 +20,39 @@ Grundkonflikte: Ein Kunstwerk stehlen und Wilderer aufhalten.
 
 SCs: 
 
-* Nal, [Ashar][] Dieb mit graublauem Fell, Ästhet. 
-* Nora, Panter-Gestaltwandlerin in den Wäldern. 
-* Aurelion, menschliche Stadtwache und Kriegsveteran. 
-* Marik, menschlicher Wildhüter und Tierempath. 
+* Nal, [Ashar][] Dieb mit graublauem Fell, Ästhet. Seine Familie lebt 10 Tagesreisen entfernt. 
+* Nora, Panter-Gestaltwandlerin in den Wäldern. Veteranin des Krieges, die nicht wieder in der Gesellschaft Fuß gefasst hat, seit sie vor 8 Jahren mit ihrer Einheit vom Rest der Armee abgeschnitten wurde und als einzige überlebte.  
+* [Aurelion][], menschliche Stadtwache und Kriegsveteran. 
+* [Marik][], menschlicher Wildhüter und Tierempath. Beschützer des Waldes. 
 
 Haupt-NSCs: 
 
-* R. R.: Reicher Händler, der Kunst nur nutzt, um Geschäftspartner zu beeindrucken. 
+* Rhon Riedland: Reicher Händler, der Kunst nur nutzt, um Geschäftspartner zu beeindrucken. 
 * Mro: Künstler und Schöpfer des Krallenbildes
-* Fünf erfahrene Wilderer
-* 
- 
-[Ashar]: http://erynnia.de "Ashar, Katzenmenschen aus Ern"
+* Fünf erfahrene Wilderer, von Mro mitgebracht und angestellt. 
+* Ekiel: Schreiber aus Jassers. Hat Frau und Kinder im Krieg verloren und ist der letzte Schreiber des Dorfes. Er ist überglücklich, wenn er jemandem die Chronik erzählen kann, und sie ist sein ganzer Stolz. Die Chronik wurde vor 200 Generationen von seiner Familie begonnen und immer von der Familie fortgeführt. Er kennt allerdings keine lebenden, nahen Verwandten, die seine Arbeit weiterführen könnten. Ekiel wohnt im Haus des Dorfoberen. 
+* Garder: Maushafter Bekannter von *Nal*. Kennt viele. 
+* Tassen: Dicker Bauer, der nur an seinem Besitz interessiert ist. Er hat viele Schnitzereien in und an seinem Haus. Seine Frau ist auch etwas rundlich. Sie behandelt Fremde zuvorkommend, aber Tassen geht mit ihr eher um wie mit einer Dienerin und zeigt wenig Wärme. 
+* Der Dorfobere: Ein etwas beleibter Mann, der sein Amt immer mal wieder für persönlichen Profit nutzt, aber das Geld immer wieder zu schnell ausgibt. Er stört gerade nicht genug, um jemand anderen zu wählen. 
+
+Wichtige Orte: 
+
+* Barn: Der Staat, in dem wir spielen. Grenzt an das Land der Kirche des Lichts. Wird von Adligen regiert. 
+* Tar Keresch: Eine Stadt an der Grenze zum Land der Kirche des Lichts. Sie wurde vor 8 Jahren verwüstet, als die Erleuchter der Kirche sie erobert und ein paar Wochen lang gehalten haben (wobei alle magisch Begabten und ein Großteil der Nichtmenschen verbrannt oder verschleppt wurden. Außerdem verschwand ein Großteil der Tonarbeiten, für die Tar Keresch berühmt war, und mit ihnen gleich auch ihre Schöpfer). Die Zurückeroberung hat der Stadt dann auch nicht gerade gut getan, so dass immernoch nicht wieder von einer Stadtmauer sondern von einer Holzpalisade geschützt wird. 
+* Jassers: Ein Dorf eine Tagesreise entfernt von Tar Keresch. Es wurde vor ewigen Zeiten von dem Bauern *Jasser* gegründet, als es Tar Keresch noch nicht gab. Tar Keresch wurde bald darauf am Fluss erbaut und hat Jassers bald hinter sich gelassen. Bekannt ist Jassers für allem für seine 200 Generationen von Schreibern zurückreichende Chronik. Der Dorfobere wird eigentlich gewählt, kommt aber seit Generationen immer aus der selben Familie. 
+
+Wichtige Gegenstände: 
+
+* Skulptur: *Spiegelbild*: Eine blau glasierte Ton-Skulptur, die einen Mantel zeigt, der von einer nicht sichtbaren Gestalt getragen wird und sich im Wind bauscht. 
+* Drachenmaske aus Krallen: Wird mit dem Blut einer Jungfrau zum Leben erweckt. 
+
+Sonstiges: 
+
+* Zeitrechnung: 24 ndF - wir schreiben das das 24. Jahr nach der Flut. 
+
+[Ashar]: http://erynnia.de "Ashar, Katzenmenschen aus Erynnia"
+[Marik]: /files/ka-spieletage-charheft-marik.png
+[Aurelion]: /files/ka-spieletage-charheft-aurelion.png
 
 Der Spielabend
 --------------
@@ -40,7 +60,7 @@ Der Spielabend
 Ich bin am Samstag mit Knox um kurz nach Sieben in den cnc auf die Spieletage in 
 Karlsruhe gekommen, wo wir Jens und Daniel getroffen haben. Nachdem wir uns 
 entschieden hatten, dass wir Fantasy spielen wollen und gerade dabei waren, 
-heraußufinden, wie wir einen Aushang machen konnten (2 Plätze frei) hat uns eine 
+herauszufinden, wie wir einen Aushang machen konnten (2 Plätze frei) hat uns eine 
 Frau angesprochen und gesagt "Ich mach bei euch mit", so dass wir vier Spieler hatten. 
 
 Wir suchten uns also eine Box, machten einen Aushang (ein PLatz frei) und begannen 
@@ -52,7 +72,7 @@ hatten wir ein Blatt mit [Beziehungen zwischen den Charakteren][chardiagramm].
 Ich verschwand noch einmal, um mir etwas zu trinken zu holen und zu planen, dann 
 begannen wir die Runde. 
 
-Die Diebin Nal war gerade in Jessers angekommen und wohnte bei einem 
+Die Diebin Nal war gerade in Jassers angekommen und wohnte bei Garder, einem 
 mausgesichtigen Bauern, der mehr an Gerüchten und der Unterwelt interessiert war 
 als an seinen eigenen Feldern, und der deswegen die Felder vollständig von seinen 
 Knechten bestellen liess (und die auch gut bezahlte). Er berichtete Nal genaueres 
@@ -69,7 +89,7 @@ erzetzt wurden. Er traf sie an ihrem Lager an, während sie gerade die Reste ihr
 Fangs aß. Als er ihr sagte, dass das Wildern in diesem Wald eigentlich nicht 
 erlaubt sei, wurde sie wütend und jagte ihn davon. 
 
-In der Stadt Tar Keresh, eine Tagesreise vom Dorf entfernt, wurde der 
+In der Stadt Tar Keresch, eine Tagesreise vom Dorf entfernt, wurde der 
 Stadtwächter und Kriegsveteran Aurelion von seinem aggressiven Vorgesetzten in 
 das Dorf geschickt, um zu untersuchen, wie dort fünf Hunde zu Tode gekommen 
 waren. Der wohlhabende (und schwer beleibte) Bauer Trassen hatte deswegen nach der 
@@ -159,7 +179,7 @@ warfen sie die Scherben auf den Boden, wo das Kunstwerk gewesen war, denn
 zuzugeben, dass sie einfach Fremde eingelassen hatten, wäre wohl ein Todesurteil 
 gewesen. 
 
-Hir endete der Abend, da die Spieler von Arelion und Marik uns schon eine Stunde 
+Hier endete der Abend, da die Spieler von Aurelion und Marik uns schon eine Stunde 
 vorher hatten verlassen müssen. Im Epilog erfuhren die verbleibenden, dass drie 
 Stunden später ein Kopfjäger auf der Suche nach Nal in das Haus des 
 Händlers gekommen und wieder gegangen war, dass kurz darauf der Händler mit den 
@@ -171,6 +191,20 @@ Händler und Adligen nahmn ein unschönes Ende. Die Krallenmaske wird noch ein
 paarmal töten, bis sich endlich eine tapfere Heldengruppe findet, die 
 sie aufgespürt und vernichtet. 
 
+
+### Anmerkungen
+
+Während des Spiels wurde in meinem Kopf aus dem "Drachenschädel aus Krallen, der mit dem Blut eines wilden Intelligenten zum Leben erweckt wird" die "Drachenmaske aus Krallen, die mit dem Blut einer Jungfrau zum Leben erweckt wird" :) 
+
+Das erste wäre zwar stärker geworden, aber einerseits hatte ich es irgendwann vergessen (ich habe es gerade in meinen On-the-fly-Aufschrieben gefunden) und andererseits hätten wir nicht die Zeit gehabt, das noch wirklich durchzuspielen - meine Stimme war noch angeschlagen von drei Wochen Halsentzündung, und sie hätte keine drei Stunden oder so mehr mitgemacht... 
+
+Improvisation und Freeform heißt hier übrigens, dass wir zwar existierende Welten als Inspiration genommen haben (genauer: [Ern](http://erynnia.de) ), dass aber die Umgebung, die Stadt, das Dorf, die NSCs usw. alle bei der Charaktererschaffung und während dem Spiel entworfen wurden. 
+
+Ich hoffe, ihr hattet Spaß beim Lesen! 
+
+Die schönen Charakterbilder wurden übrigens von Daniel gezeichnet. 
+
+[chardiagramm]: /files/ka-spieletage-chardiagramm.png
 
 Zu den Karlsruher Spieletagen
 -----------------------------
@@ -185,4 +219,4 @@ Leider bin ich nicht dazu gekommen, Trauma testzuspielen (und mit seinem Entwick
 
 Nächstes Jahr kann ich hoffentlich das ganze Wochenende da sein! 
 
-PS: Ich hoffe, wir hören von unserer Mitspielerin (der Spielerin von Nal). 
+PS: Ich hoffe, wir hören bald von unserer Mitspielerin (der Spielerin von Nal). 
