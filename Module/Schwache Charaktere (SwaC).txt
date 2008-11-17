@@ -1,0 +1,50 @@
+Schwache Charaktere (SwaC)
+==========================
+
+Einführung
+----------
+
+Dieses Modul erleichtert es deutlich, schwache Charaktere detailliert zu erschaffen. Dafür unterteilt es jeden Steigerungs-Strich in weitere 3 Punkte und bricht die Kosten für Fertigkeits-Steigerungen in niedrigen Stufen wetier auf. 
+
+In Bereichen über "+" ändert sich nichts (es sei denn in der optionalen Verallgemeinerung). 
+
+Die Nutzung dieses Moduls führt dazu, dass Charaktere leichter eine Reihe niedriger Fertigkeiten haben können, so dass die Erschaffung etwas mehr Zeit in Anspruch nimmt, gerade schwache Charaktere aber auch mehr Farbe bekommen. 
+
+Grundlagen
+----------
+
+TODO: Beschreiben + Gründe
+
+### Fertigkeiten
+
+12 = 1 Dreieck = 3 Striche = 9 Punkte
+
+* 3: 0 °
+* 6: 1 °
+* 8: 2 ° 
+* 9: 3 ° = 1 Strich
+* 10: 4 ° 
+* 11: 6 ° = 2 Striche
+* 12: 9 ° 
+
+
+### Eigenschaften
+
+Eigenschaften geben Teilboni: 2 Eig auf 11 geben zusammen 1 Punkt Bonus, so dass es sich auch lohnt, auf überdurchschnittlichen Eigenschaften aufzubauen. 
+
+### Verallgemeinerung
+
+#### Kosten, Grob: 
+
+(n = Anzahl Plusse)
+
+Kosten (n) = 3**n
+
+#### Steigerung in einen Bereich: 
+
+(n = Anzahl Plusse des Bereiches, den man erreicht)
+
+Kosten (n=0) = 1 (um ±) (Eigenschaften) oder komplexer (Fertigkeiten: Übergang von niedrigen Werten auf durchschnittliche Werte)
+
+Kosten (n) = 3**(n-1)
+

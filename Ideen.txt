@@ -1,0 +1,521 @@
+ Aus dem Fera: 
+
+ Vielleicht eine Abwandlung von FitM, "Zeitlupenmmodus": 
+ 1.Aktion beschreiben, ohne Ergebniss auszugeben("Mit ein paar FlikFlaks springe ich auf den Gegner zu und aus dem Schwung des letzten Sprungs heraus, rast mein Fuß auf sein Gesicht zu.") Beginn der Zeitlupe. 
+ 
+ 2. Probe (gemäß des Systems) durchführen, aber dies von der Beschreibung beeinflussen (Regel: Gezielter Angriff! Beinflussung: Gute Beschreibung! Probe um 2 erleichtert.). 
+ 
+ 3. Zeitlupenende. Die Beschreibung behält ihre Richtigkeit, aber der Ausgang wird von den Würfeln bestimmt(z.B. Fehlschlag:"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochnellt und auf deinen Magen zurast").
+- ragnarok, 17. Feb 2004
+
+Für's EWS: 
+*"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochnellt und sich in deinen Magen gräbt"*
+
+---
+
+Weltenideen: 
+
+Berührte: Charaktere, die von einem Element oder Wesen berührt wurden. Sie können eins mit ihrem Element werden, fangen jedoch als "normale" Charaktere an. 
+Mit der Zeit können sie immer mehr zu dem werden, was sie in ihrem Innersten sind. 
+Drachenmenschen, Feuermenschen, Erynnias Wächter, Engelkinder, Feenträumer, Schattentänzer, Schattenläufer, Phoenixe. 
+
+-----
+
+Rollenspiel auf Basis all der schönen alten Konsolen-RPGs. 
+Chrono-Trigger, Shining Force, Breath of Fire, Seiken Densetsu 3, Suikoden, Final Fantasy, Lufia, Secret of Mana, Tales of Phantasia, Fire Emblem, Arc the Lad, Grandia, Phantasy Star, Valkyre Profile, Vandal Hearts, Zelda, Skies of Arcadia, Tactics Ogre, Harvest Moon, Earthbound, Summoner,... (Shenmue, Wild Arms, Kartia?, Spellcaster (MasterSystem), Wesnoth (neu und freie Software))
+
+- Standard-Aktionen fr Charaktere (war als Zeitsparer fr PbEMs vorgeschlagen) => Coole Nebenbeschreibungen, in denen Spieler und Spielleiter einfach Spaß am Monsterplätten haben können, ohne wrfeln oder etwas frchten zu mssen. 
+
+-----
+
+Vorteil: Spüren, wann und wo man gebraucht wird. Kann auch tiefer gehen und
+ein Gespür für das ganze Land oder die ganze Umgebung mit sich bringen. Kann
+unscharf sein, Dunkelheit, die  man sprt, oder ein Ruf der Götter, den man
+hört, oder ein erbeben in dem Fluss in der Umgebung. 
+
+-----
+
+EWS tödlicher machen: Trefferpunkte = Konstitution oder passend.
+
+-----
+
+Hintergrundidee: Die Guten und die Bösen
+
+Ihr seid die Guten, und ihr kämpft für das Gute.  
+
+(Ob das am Ende wirklich immer gut ist, bleibt herauszufinden... )
+
+-----
+
+Magie, bei der zu frühes Abbrechen weh tut. Wenn man in der Technik ist, muss man sie zu Ende führen oder erhält Schaden. 
+
+-----
+
+Die Welt von "Ninja Scroll", die Fähigkeiten davon ins EWS. 
+
+-----
+
+Textentwurf: 
+Fokus
+
+Fr verschiedene Charaktere sind unterschiedliche Bereiche des Lebens wichtig. 
+
+Um das auch in den Regeln widerzuspiegeln, nutzt das EWS Fokusregeln. 
+
+Sie können am leichtesten an einem Beispiel erklärt werden: 
+
+Allgemeine Fertigkeiten sind sehr breit, also zum Beispiel Auftreten, Athletik, Heimlichkeit oder Nahkampf. 
+
+Wenn ein Charakter nun einen Fokus hat, dann 
+
+... Fokusfertigkeiten kosten den Wert des Fokuss' weniger. (bsp: Fokus bei + (15): Fert. bei 15 gratis. Erst darüber kosten. Fokus bei +++ (21): Fert. bei +++ kosten jeweils nur ein Plus. 
+
+-----
+
+- Reputationsschaden
+Auch die Reputation kann über das Schadenssystem geregelt werden. Wirklich schwere Schäden reduzieren allerdings die Eigenschaft Reputation dauerhaft. 
+
+-----
+
+Modul: Den Pfad wählen (Pfad)
+
+Charaktere können sich einem bestimmten Pfad verschreiben. Dabei legt der Spieler die Handlungen der Charaktere für die nächste Zeit in groben Umrissen fest. 
+Je nachdem wie stark dadurch das Verhalten des Charakters eingeschränkt wird (wie krass die Einschränkung ist, wie hart der Pfad ist) und wie lange dieser Pfad wahrscheinlich brauchen wird, erhält der Charakter Bonuspunkte auf alle seine mit dem Pfad verbundenen Handlungen. 
+
+Sollte der Glauben des Charakters an seinen Pfad erschüttert werden, erhält er die gleichen Punkte als Abzug auf alle Proben, bis er einen neuen Pfad für sich gefunden hat. 
+
+Soll widerspiegeln, dass Charaktere oft eher durch den Verlust an ihre eigenen Werte und ihre eigenen Handlungen verlieren als durch reine Kampfkraft, und dass Charaktere, die sich exakt einem Ziel verschrieben und dieses Ziel mit all ihrem Wesen leben, solange sie ihrem Ziel treu bleiben in der Literatur und Comics so gut wie unstoppbar sind.
+
+Höchstmöglicher Bonus: Willenstkraft / 3 oder ähnlich passendes. 
+
+Mindestdauer, bis ein neuer Pfad gefunden werden kann: Wurf auf geistige Flexibilität o.ä. (wahrscheinlich nicht Wille). 
+- Erfolg: 1 Stunde,  / 3 pro 3 Punkte Diff. 
+- Misserfolg: 1 Tag,  * 3 pro 3 Punkte Diff. 
+
+
+-----
+
+Der Fokus sein: Ein Charakter erhält Boni durch viele andere, die ihn unterstützen. -> Psi, Magie oder auch Vertrauen: Boni durch Leute, die an einen glauben. 
+
+Beispiel: Naruto: Der Hokage erhält einen Teil seiner Macht von der Unterstützung und dem Glauben jedes einzelnen (loyalen) Bürgers seines Dorfes. 
+
+-----
+
+Naruto Ninja-Kämpfe (Naru)
+ 
+- Charaktere würfeln, ob es ihnen gelingt, anderen Charaktere in die Irre zu führen. Vielleicht auch eine Karte (od. 2 Karten): "Ich will ihn in die Irre führen". Wird erst aufgedeckt, wenn der andere seine Aktion ausführt -> Überraschung für Spieler und Char. 
+
+- Viele Techniken. 
+
+- Bestimmte Einzigartige Techniken (Herkunft) und grundlegende Techniken, die jeder lernen kann. 
+
+- Einzigartig: Insekten gebunden, die zwei besonderen Augenarten, Sandherrschaft, In sich gebundene Monster (Naruto-9-Schw. Fuchs), 
+
+- Charaktere, die (fast) jeder eine besondere Begabung haben. 
+
+- Chakra formen, kontrollieren und die Chakramenge. 
+
+- Vielleicht auch Schachähnliche Strategien: Technik gegen Technik, um Stück für Stück Vorteile rauszuholen. Konfrontationsmodul? Technik gegen Technik, um am Ende eine einzelne Technik durchzubekommen. 
+
+- Mischung aus der Macht des Charakters und seiner Findigkeit. Größere Macht ermöglicht es, andere leichter in die Irre zu leiten und Techniken auszuführen, die andere nicht können, Findigkeit deckt die Intelligente Nutzung der Techniken ab. 
+
+- Eine Kraftbasis, mit der deine grundlegenden Techniken ausgeführt werden (Stil). Bsp.: Replika mit Käfern, Sand, o.ä. erstellen. 
+
+- Die Fähigkeiten des Charakters entscheiden, mit wievielen ineinander geschachtelten oder nebeneinander liegenden "Ebenen" der Spieler arbeiten kann. Effektiv, "wie viele Asse er im Ärmel haben kann". Er muss sie dann auch noch so sinnvoll einsetzen, dass sie wirklich zum tragen kommen. Dafür hat jedes einen Auslöser und einen Effekt. Wer gut vorhersehen kann, was der andere machen wird, kann dadurch mit recht wenigen Ebenen weit vorausplanen, mit viel Kraft kann er viele unterschiedliche Aktionen des Gegners abdecken. 
+
+- Merkmal: Vorhersehen der Aktionen des Gegners: Effektiv mehrere Auslöser für eine Ebene, oder Joker (greift bei jeder Aktion des Gegners). 
+
+- Machtunterschiede: In Naruto sind die Unterschiede in der Macht der Charaktere extrem groß. Schon in einer stufe (z.B. Genin) gibt es Charaktere, gegen die die anderen so gut wie nie eine Chance haben, und nur die mächstigsten in einer Klasse können mit denen der nächsten Klasse mithalten. Kakashi hat alleine Naruto und die beiden anderen in Schach gehalten, und er hätte es mit min. 6 von ihnen aufnehmen können. Um diese Verhältnisse widerzuspiegeln, würde ich die Klassen als jeweils etwa 12 Punkte auseinander einschätzen (Fertigkeit: 12: Genin, 24: ..., 36: Kakashi, 48: Hokage). Außerdem entwickeln sich die Charaktere recht schnell, daher würde ich etwa 3 bis 6 Striche pro Spielabend ansetzen (3 Striche: 10 Spielabende für die Entwicklung vom Genin zur eins höhreren Stufe. 26 Spielabende bis zum Level von Kakashi und 41 weitere bis zum Hokage, wenn nur die Kampffähigkeit gesteigert würde - insgesamt also mindestens 77 Spielabende, was selbst bei einer Runde pro Woche noch eineinhalb Jahre sind). Dazu sollten die Merkmale steigerbar sein, so dass nicht von Anfang an gleich der volle Preis gezahlt werden muss, sondern das Merkmal am Anfang nur einen möglichen Lebensweg aufzeigt und vielleicht ein paar anfängliche Fähigkeiten gibt. 
+
+- Techniken als Spezialisierungen der Kampf-Feritgkeit mit einem Malus. Sobald die Spezialisierung hoch genug ist, um den Malus auszugleichen, gilt die Technik als gemeistert. 
+
+- Eigenschaften, die jeder haben sollte: Chakra und "Antrieb" (oder "Traum"): Die Grundlage seiner Kräfte (was ihn von den Fähigkeiten her von anderen Menschen unterscheidet), und das was ihn am kämpfen hält (was ihn von der Psyche her von anderen Menschen utnerscheidet). 
+
+- TP bauen auf Chakra auf. Daher können Ninja soviel mehr einstecken als andere. Es gibt auch Techniken, die direkt Wunde verursachen. 
+
+- Chakra-Unterschiede bewegen sich wie die Fertigkeiten in einem riesigen Bereich, der mehrere Kategorien überspannen kann. 
+
+- Wenn die TP eines Chars auf oder unter 0 gehen, würfelt er wie üblich, aber mit Abzügen: -3 je bisherigem Wurf (effektiv: -3, wenn seine TP auf -Eig sind, -6 bei -2xEig, -9 bei -3xEig). Damit können nur die stärksten Chars ihr Potential voll ausnutzen. Statt auf Chakra kann hier auch auf den Traum/Antrieb gewürfelt werden. Vielleicht sollte nur auf den nAtrieb gewürfelt werden, denn er ist für die Chars der Grund, warum sie weitermachen. 
+
+- Vielleicht können mit einem Wurf auf den Traum/Antrieb bisherige Mali teilweise ignoriert werden (und er steht doch wieder auf...). 
+
+- Vielleicht hängt die Anzahl der Karten, die man gleichzeitig auf der Hand haben und in einer Runde einsetzen kann von der Stärke des Chars ab (wenn es bei Karten auf der Hand und Karaten pro Runde eine einschränkung gibt). 
+
+-----
+
+Planung für Taktiker und Aktionliebhaber: Mit Simulationen planen. 
+
+- "Was könnte passieren?"
+- Simulator springt an. SL übernimmt die Rolle des Simulators. 
+- Ergebnis des Simulation. 
+- "Was könnte sonst noch passieren?" 
+- ... 
+
+Zu ähnliches einfach überspringen oder mit ein, zwei Würfel abhandeln. 
+
+- Wirkliches ausspielen. Wenn der SL keine Komplikationen einfallen, wird das Abenteuer glatt gelöst. 
+
+Damit es spannender wird, können Simulationen Folgen haben. Ideen: 
+
+- Psychische Schäden könnten möglich sein. 
+
+- Es ist ein öffentlicher Simulator, an dem gewettet werden kann, oder der Unterhaltung liefert. -> Die Spieler können in der Simulation Geld verdienen, aber die Gegner könnten es auch sehen! 
+
+- Wenn das Risiko zu gering ist, weicht der Simulator stärker von der Realität ab. -> Desto höher das Risiko desto mehr lässt die SL ihre wirklichen Pläne einfließen. 
+
+---
+
+Berufe und Fertigkeiten sind nicht ganz balanciert. Eigentlich muesste ein Beruf 
+immer dreimal soviel kosten wie die entsprechende Fertigkeit, und eine Stigerung 
+um 3 Punkte muesste die Kosten immer verdoppeln. 
+
+Das aktuelle System ist allerdings schoener handhabbar. 
+
+Moelichkeit: Kosten der Steigerung immer aktuelle Plusse od. immer aktuelle Plusse 
+plus 1 (fuer Eig.), was aber weit weniger elegant ist. 
+
+Mit dem aktuellen System brauchen wir noch eine Regelung, die zuegelloses 
+Steigern von Berufen verhindert, z.B. "Ein Beruf darf nie hoeher sein als die 
+hoechste Fertigkeit -3", oder "Zu jedem seiner Berufe (abgesehn von Berufen auf 
+Grundwert 9) braucht ein Char eine Fertigkeit, die mindestens 3 Punkte hoeher ist als sein Beruf und seine 
+Spezialisierung im Beruf zeigt. Der Beruf darf nie hoeher werden als die 
+entsprechende Fertigkeit." 
+
+Oder so. Aber das klingt noch alles zu sehr nach "Wir zwingen deinen Char dazu, 
+weil wir das halt brauchen". 
+
+Alternativ: "Benutzt den gesunden Menschenverstand. Wenn ein Beruf hoeher wird als 
+alle Fertigkeiten, sollte der Char ihn spezialisieren." 
+
+Oder Fertgkeiten, die den Beruf als Grundwert nutzen, um das Problem ganz zu 
+umgehen. => Spezialisierungen von Berufen sind Fertigkeiten. Gibt es keinen 
+passenden Beruf, greift ine Sonderrregelung. 
+
+Einfachere Lösung: 
+
+* Berufe kosten wie bisher
+* Boni kommen nur von einer Eigenschaft, und zwar immer einer zur Situation passenden. 
+
+Dadurch erhalten Berufe in höheren Stufen (wo ihre Kosten im Vergleich zu Fertigkeiten zu niedrig werden) weniger Boni und auch weniger berechenbare Boni, da in höheren Stufen Eigenschaftsboni meist höher sind. 
+
+Das schützt nicht perfekt gegen Minmaxing, aber da ab einer bestimmten Differenz zwischen Eig und Fert die Steigerung der Eigenschaften günstiger wird als die Steigerung der von ihnen gestärkten Fertigkeiten können die Kosten für einen Minmaxer wieder höher ausfallen. 
+
+Fertigkeit von 18 auf 19 kostet soviel wie Eigenschaft von 12 auf 15 (gleicher Effekt). 
+
+------
+
+Die Erschaffung braucht eigentlich noch keine Dreiecke. Es genügt von 
+- Punkten (= Dreiecke), 
+- Plussen und 
+- Werten 
+zu reden. 
+
+Dadurch wird der Einstieg deutlich einfacher. 
+
+Oder nur in mit Strichen (=Punkte) Dreiecke bauen, die dann zu Plussen werden. 
+
+------
+
+Von Everworld Engine: 
+- Battle Angel Alita
+Entscheidungen treffen: Sobald eine Entscheidung getroffen ist: Bonus. Wenn sie ins Wanken gerät: Das gleiche als Malus, bis neue Entscheidung. Dauer bis neue Entscheidung: Würfelwurf. 
+
+------
+
+Abgesehen von der echt tollen Runde, in der <a href="/uzanto/inside">Inside</a> uns 
+mit vermutlich nur einem oder zwei Protektoren konfrontiert hat - es waren nämlich 
+all die hunderte Protektoren weg, nachdem wir zwei erschossen hatten. 
+
+Selbst ohne Präkognition sind die schon übel, aber mit Präkognition muss man selbst 
+entweder tiefer in die Zukunft sehen oder tiefer in die Zukunft planen können als sie 
+- eine Schachpartie inmitten eines Feuergefechtes :)
+
+Wenn man tiefer in die Zukunft sieht, ist es natürlich einfach: Man schaut einfach, 
+wie man ihr trifft. 
+
+Wenn man nicht in die Zukunft sieht, muss man dagegen alle möglichen Züge des 
+Protektors vorrausplanen, um zu wissen, wie man ihn überhaupt treffen kann. 
+
+Wir haben uns für die erste Variante entschieden :) 
+
+Idee für das Ausspielen der virtuellen Schachpartie: Eine kleinere Runde Schach 
+(weniger Figuren für kürzeres Spiel). Mit einem erfolgreichen Wettstreit kann der 
+Verlierer gezwungen werden, einen Zug ohne Wissen um die Aktionen des Gewinners zu 
+spielen. Sobald der bisherige Gewinner einmal verliert, muss er alle bisher 
+versteckten Züge nachholen und einen weiteren ohne Vorwissen machen. Falls der 
+Verlierer (ohne Vorwissen) eine Figur schlagen will, wird der freie Wettstreit 
+abgebrochen, und der Gewinner muss seine Züge machen (begrenzt die Reichweite - 
+sobald es bleibende Folgen gibt, werden beide wieder zusammengezogen und die Züge 
+laufen wieder gleichzeitig). Das gleiche gilt, wenn der Gewinner in einem Zug eine 
+Figur des Verlierers beeinträchtigen will - der Vorteil kann also nur bessere 
+Stellungen bringen, z.B. sofortiges Schach Matt :) )
+
+z.B. könnte eine Schachfigur pro Spieler gewählt werden. 
+
+------
+
+Idee für eine Spezies: Geflügelte, die in den Wolken leben. 
+
+Ihre Haut absorbiert Wasser aus den Wolken, so dass sie zum trinken nicht auf den 
+Boden müssen. 
+
+Die Wolkenbewohner spüren schwache Änderungen des Luftdrucks und bemerken andere 
+ihrer Spezies dadurch auf große Entfernung.  
+
+Schreckliche unter ihnen leben in Gewitterwolken (die Ladung in der Wolke könnte sie 
+aggressiver machen, oder stärker, vor allem aber verbirgt sie sie). 
+
+Wenn ein Flugobjekt ankommt und sie darauf landen wollen, steigen sie weit auf, um im 
+Sturzflug die Geschwindigkeit des Flugobjektes zu erreichen. 
+
+*"Siehst du das Volkenvolk über uns? Wenn sie so hoch fliegen, kommen sie um mit uns 
+zu sprechen."*
+
+Ihre Körper sind leicht und fragil, aber Menschengroß. 
+
+Sie brauchen außerhalb der Wolken deutlich mehr Wasser als andere - können aber 
+weniger tragen. Kleidung könnte das abmildern, und feuchte Kleidung könnte ihnen ein 
+Leben außerhalb der Wolken ermöglichen. 
+
+Wenn sich Wolken rasch auflösen, könnten ganze Schwärme von ihnen in Gefahr sein. 
+
+Vielleicht findet man dann und wann erfrorene oder vertrocknete Wolkenleute. 
+
+Sie ernähren sich von Vögeln, in Zeiten des Hungers aber auch mal von kleinen 
+Bodenbewohnern. 
+
+Wie Zugvögel wandern sie von Ort zu Ort, aber viele betreten den festen Boden nur 
+zweimal im Jahr für längere Zeit. 
+
+Ihre Bewegungen richten sich nach den Wolken, so dass sie zwar schnell sind, aber 
+selten Nachrichten übermitteln. Manchmal könnte ein Bote von ihnen ausgesandt werden, 
+um wichtige Nachrichten zu transportieren - was für diesen ähnlich ist wie für einen 
+Menschen eine Reise durch die Wüste. 
+
+
+Weitere Ideen dazu: 
+
+* Ihr Aussehen kann Menschenähnlich sein, oder sehr fremdartig, mit blauer 
+Haut, transparenten Schwingen und großen irisierenden Augen. 
+
+* Genauso könnten sie auch gefederte Schwingen haben -> effizienter für schnelles 
+Fliegen (Auftrieb durch daran entlangstreichende Luft statt nur durch die 
+Muskelkraft). 
+
+* Vielleicht können sie die Wolken nur für begrenzte Zeit verlassen, oder 
+wollen es einfach nicht, weil es in den WOlken viel angenehmer ist. 
+
+* Vielleicht trocknet ihre Haut schnell, wenn sie nicht mehr in den Wolken sind, so 
+dass sie nicht nur viel trinken, sondern ihre Haut auch regelmäßig benetzen müssen. 
+
+* Ihre Körpertemperatur könnte niedriger sein. 
+
+* In den Wolken verdunstet so viel Wasser auf ihrer Haut wie kondensiert, so dass ein 
+Temperaturgleichgewicht gewahrt bleibt. Sie könnten außerhalb der Wolken also trotz
+höheren Temperaturen erfrieren. 
+
+------ 
+
+Stimm- und Beschreibungstraining für Rollenspieler: 
+
+* Sammlung schöner Ausdrücke: 
+    - Kampf
+    - Personenbeschreibung
+    - Landschaften
+    - Ausrüstung
+
+* Situationen üben (spezifische Situationen zum üben aufschreiben)
+
+* Stimmung halten (z.B. *Beschreibung* ... was tust du?)
+
+* Körperhaltungen, Mimik und Gestik für NSCs (mit Skizzen, Inspiration z.B. von Zeichnerpuppen. Stehend (die Person) und sitzend (wie du den NSC spielst).)
+
+
+"Lies viele Geschichten und hör' dir Hörbücher an. Schreib' dir schöne Ausdrücke raus." 
+
+"Üb' wichtige Teile vorher, das hilft auch den weniger wichtigen." 
+
+"Sprich dir Teile in Gedanken vor, und dann sprich sie auch mit deinem Mund (und deinem Körper)."
+
+"Wenn in einem Film jemand interessant spricht, notier es dir und sprich ihn nach, imitiere ihn, auch wenn es anfangs doof klingt, und schau dir auch seine Körpersprache an, die macht sowohl für deine Stimme, als auch für deine Wirkung auf deine Spieler einen deutlichen Unterschied."
+
+"Hör' dir an, wie Leute auf der Straße sprechen. Rede mit Leuten in Bus und Straßenbahn."
+
+"Trink' genug Wasser."
+
+"Nimm' dich auf Tonband auf. Dann entspann' dich. Es klingt für jeden so grausig, wenn er sich das erste Mal selbst hört. Jetzt such' nach Verbesserungsmöglichkeiten."
+
+------ 
+
+Gemeinsame Kampagnen - jeder trägt seine eigenen Verzweigungen ein, die Wege in die seine Kampagne gegangen ist und auch die, an die er gedacht hatte, die aber nicht passiert sind. 
+
+Damit könnten vollständig nichtlineare Abenteuer entstehen. 
+
+Aus diesen Aufschrieben können dann riesige Flussdiagramme entstehen. 
+
+------ 
+
+Erschaffen in Geschichten: 
+
+- Jedes Lebensjahr des Chars erzählen. 
+- Jedes Jahr ein Strich. -> mit 21 Jahren 21 Striche = 7 Dreiecke = angehende Helden. 
+- Ab 21 jedes Jahr einen Strich aber jedes dritte Jahr auch einen Strich (woanders) entfernen - mit 30 hat er 9 Dreiecke. 
+- Ab 30 jedes Jahr einen Strich umlegen, jedes dritte Jahr einen Strich dazu -> mit 60 hat er 12 Dreiecke und 1 Strich. 
+- Ab 60 nur noch Striche umlegen + langsamer Verfall. 
+
+=> Startalter für Charaktere -> Jedes Jarh erzählen, pro Jahr steigern. 
+
+------ 
+
+Merkmale, die von der Staerke des Chars abhaengen -> reduzieren 
+Erfahrungspunkte. Gilt fuer Merkmale, die eine spezielle Faehigkeit freischalten, 
+die es sonst gar nicht gibt (z.B. Unsterblichkeit u.ae.), weil durch die 
+Faehigkeit Chars in hoeheren Bereichen groessere Vorteile haben, d.h. der 
+Unterschied zwischen Chars haengt z.B. nur von der Differenz ihrer Werte ab, nicht 
+von dem absoluten Wert, das Merkmal gibt aber einen absoluten Vorteil
+
+------
+
+Eckenkosten fuer besondere Gegenstaende ausarbeiten, z.B. fuer Psi-Verstaerker; 
+Merkmal: "Behaelt den Ueberblick"
+
+------
+
+Ideen aus Star Wars
+-------------------
+
+Prinzipien für Wächter: 
+
+* Halte dir immer einen unabhängigen Rückzugsweg offen. 
+	- Pferd. 
+	- Überlichtfähiges Schiff, selbst wenn es teurer ist. 
+
+Eine Republik mit starken Jedi: 
+
+* Kampfverbände durch persönliche Freundschaft verbunden statt durch Hierarchie - 
+niemals zu viele direkte Kontakte von einem, damit nichts an einem Einzelnen hängt, 
+denn auch mit idealer Ausbildung ist ein einzelner immer Fehlbar. Wenn die 
+Verantwortung und das Verständnis bei vielen liegt, ist dieses Risiko geringer. 
+
+
+------
+
+Konflikte: 
+
+Jeden Punkt "Dauer" eine andere Szene / ein anderer Hintergrund. 
+
+Beispiel: Jedi Kampf Obi Wan Kenobi vs. Annikan/Darth Vader auf der Lavastation. 
+
+Szenen: 
+
+1. Verbal: Padme und Obi Wan gg Annikan -> Der einfache Weg steht nicht offen, Annikan bleibt bei der dunklen Seite -> Annikan eskaliert den Konflikt: Er erkennt den Verlust durch die Ohnmacht Padmes nicht an. 
+2. Auf der Landeplattform. Verbal: Obi Wan verliert den Konflikt um Annikans Weg. Auch er eskaliert. 
+3. In dem Raum der Seperatisten. Eigentliche Dauer des Konfliktes beendet. Beide entscheiden sich zu eskalieren. 
+3. Auf der Brücke über dem Lavastrom. 
+4. Auf dem versinkenden Steg, dann an Seilen hängend. 
+5. Auf den schwebenden Plattformen, Obi Wan hat die größere Plattform, da er im Konflikt weit voran gekommen ist. Verbal, Obi Wan gibt Annikan eine Chance den Konflitk zu beenden ohne den ultimativen Preis zu bezahlen ("Palpatine is evil!" - ja, ich habe es auf englisch geguckt :) ). 
+6. Auf dem schwebenden Plattformen, Annikan eskaliert weiter, nachdem Obi Wan verbal gewinnt, geht tiefer in die Dunkelheit und springt auf Obi Wans Plattform. 
+7. Obi Wan hat in Punkten gewonnen. Annikan eskaliert nicht weiter, Obi Wan muss den Konflikt beenden oder aufgeben. 
+8. Beide zahlen den emotionalen Preis ihres Kampfes und ihrer Eskalationen. Annikan zahlt den körperlichen und den storytechnischen Preis des verlorenen Konfliktes: Sein Körper wird fast zerstört, Padme stirbt. 
+
+Preise zu zahlen: 
+
+- Obi Wan: 
+	* Eskalation auf der Landeplattform, da er Annikan nicht zurück holen kann, emotional: "Mein Schüler ist verloren -> Ich bin kein guter Lehrer -> Luke wird von Joda ausgebildet."
+	* Eskalation im Raum der Seperatisten, storytechnisch: Verliert seinen Schüler. Er könnte noch zurück. "Annikan, warte! Ich werde dich unterstützen" würde den Konflikt hier beenden. 
+- Annikan: 
+	* Eskalation bei der Ohnmacht von Padme, emotional: "Alle stehen gegen mich!"
+	* Eskalation im Raum der Seperatisten, storytechnisch: Verliert seinen Lehrer für immer. Hier könnte er noch aufgeben, aber er hätte seinen Lehrer verloren. Er könnte kein Jedi Meister mehr werden, aber er könnte den dunklen Wegen abschwören, oder zumindest Gefangener werden. 
+	* Eskalation auf den Plattformen, körperlich: Wird der Darth Vader, den wir kennen und lieben :) 
+
+-> Fundamentale Schwächen des bisherigen Konfliktsystems: Es funktioniert nur mit 
+"Charaktere gegen die Welt" aber nicht mit "Charaktere gegen Charaktere". Dafür 
+braucht es eine leichte Abwandlung: Beide würfeln gegeneinander und es muss eine 
+Mindestdifferenz erzielt werden. Wer verliert kann eskalieren und erhöht damit sein 
+Risiko (vielleicht: "setzt aber die Punkte zurück"). Für jede Eskalation ist ein 
+Preis zu zahlen. 
+
+Wenn die Punkte zurück gesetzt werden wenn eskaliert wird, kann der vorherige 
+Gewinner noch häufiger eskalieren als der Verlierer -> beim Eskalieren sollten die Punkte zurück 
+gesetzt werden. 
+
+Für EWS: 9 Punkte ansammeln beendet den Konflikt, es sei denn, der Verlierer 
+eskaliert. 
+Außerdem beendet das Erreichen der Maximaldauer den Konflikt, es sei denn einer von beiden eskaliert. 
+
+Spezifische Kapazität von Charakteren zum Eskalieren aufbauend auf ihrer 
+Storytechnischen Wichtigkeit; unterscheidet so automatisch zwischen Statisten, 
+Nebencharakteren und Helden/Schurken. Wer seine Fähigkeit zum Eskalieren ausreizt, 
+zahlt den höchten Preis: Seine Geschichte endet. Passiert bei Statisten schon beim 
+ersten verlorenen Konflikt und bei Helden erst sehr spät. 
+
+-> Annikan hat nicht bis zum bitteren Ende eskaliert. Seine Geschichte ging weiter, 
+aber er hat alles verloren, das ihm wichtig war, d.h. er hatte nur noch eine 
+Eskalation übrig. 
+
+Padme war eine Statistin, daher war sie nach dem ersten verlorenen Konflikt draußen. 
+
+Das ganze lässt sich auf Gruppen erweitern, wobei da alle Mitglieder der Gruppe 
+gleichzeitig eskalieren müssen - wer nicht mehr eskalieren kann (z.B. Statisten) oder 
+nicht mehr will (weil es zu riskant wird) fällt raus und nimmt nicht am Rest des 
+Konfliktes teil. 
+
+Da in Gruppen 9 Punkte sehr schnell erreicht wären, kann die Gruppe sich entscheiden 
+zu eskalieren, sobald einer 9 Punkte erreicht hat, oder sie warten, bis alle 9 
+erreicht haben (und die die bereits 9 haben setzen solange aus). Wer 9 hat kann sich 
+an jedem Punkt entscheiden zu eskalieren, aber wenn die Gruppe nicht mitgeht steht er 
+alleine da, und wenn die Gruppe mitgeht, bringt er die anderen vielleicht unnötig in 
+Gefahr (durch die Eskalation erhöht sich der zu zahlende Preis). 
+
+Zu spät zu eskalieren bedeutet wiederum allerdings, dass die Gruppe gegenüber den Gegnern ins Hintertreffen gerät, weil die mit mehr Leuten würfeln. 
+
+MW ohne Gegner: 12 - Konflikte sind _immer_ fordernd, sonst wären sie irrelevant. 
+Ansonsten Wurf gegeneinander. 
+
+------ 
+
+Modulnamen: 
+- Allgemeine Module: 4 Zeichen
+- Weltenspezifische Module: 2 Zeichen Präfix (=> 576 Welten) + "_" + 4 Zeichen. 
+
+------ 
+
+
+Die Schwesternschaft der Wissenden
+----------------------------------
+
+Ein alter Zusammenschluss von Frauen, die nach Wissen suchen. 
+
+Sie lernen aus Rätseln, und es heißt, dass in den tiefen Kellern ihrer Burgen 
+alle Geheimnisse der Welt verborgen sind, angeblich sogar das Geheimnis der 
+Unsterblichkeit, denn einige ihrer Besucher erzählen, dass die Oberen ihres Ordens 
+auch nach 20 Jahren keinen Tag älter wirkten als bei ihrem letzten Besuch. 
+
+Mit der Zeit verinnerlichen die Wissenden die Kunst der Rätsel immer mehr, und sie 
+entwickeln den unwiderstehlichen Drang, all ihr Wissen in Rätsel und Verse zu kleiden 
+und weiterzugeben. 
+
+Wenn sie nach Abschluss ihrer Lehrzeit, die je nach Begabung 5 bis 30 Jahre dauern 
+kann, auf Reisen gehen, um neues Wissen zu sammeln, wie es die Regeln des Ordens 
+fordern, kehren sie meist mit Bänden voller Gedichte und Rätseltexte zurück, die dann 
+von ihren Schwestern gelesen werden, um die Texte zu verfeinern und die wichtigsten 
+Erkenntnisse dem Kanon des Ordens hinzuzufügen. 
+
+Allerdings ist nicht alles Wissen der Schwesternschaft harmlos, und manch eine 
+begabte Sucherin hat bereits den Verstand verloren, weil sie sich zu schnell an die 
+tiefsten Geheimnisse gewagt hat und das Pech hatte, die Rätsel zu verstehen, bevor 
+sie für deren Erkenntnisse bereit war. Die meisten dieser Bedauernswerten bleiben in den 
+Burgen der Schwesternschaft, doch von Zeit zu Zeit geschieht es, dass sie die 
+Schwesternschaft verlassen, bevor ihr Wahnsinn erkannt wird, und manche von ihnen 
+tragen schreckliche Geheimnisse aus dem Orden. Ganze Landstriche wurden bereits von 
+wahnsinnigen Wissenden unterjocht. Doch mit dem Wissen tragen die Wahnsinnigen 
+den Drang in sich, all ihre Geheimnisse in Verse udn Rätsel zu kleiden, und 
+während ihre Rätselkünste außerhalb des Ordens langsam verfallen, bleibt der 
+Dran. Meist endet der Wahnsinn, indem die Schwesternschaft eine Wissende ausschickt, 
+die sich Begleiterinnen außerhalb der Burg sucht und die Abtrünnige stellt. Alle
+Abtrünnigen, die bisher mehr als ein paar Jahre außerhalb des Ordens lebten, versahen 
+sich zwar noch auf ihr Wissen, doch ihr Drang zwang sie, ihre Geheimnisse in Versen 
+und Rätseln so aufzuzeichnen, dass jeder Besucher sie lesen konnte, und ihre 
+Rätselkünste waren so geschwächt, dass selbst junge Wissende und teilweise gar 
+ungeschulte Geister ihre Texte verstanden und mit deren Hilfe jeden Schutz um die 
+Wahnsinnige überwinden, sie stellen und zurück in den Orden bringen konnten. 

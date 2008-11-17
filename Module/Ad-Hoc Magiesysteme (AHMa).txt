@@ -1,0 +1,242 @@
+= Einführung  = 
+
+Das Modul Ad-Hoc Magiesysteme (AHMa) liefert eine Grundlage, um schnell vielfältige Magiesysteme für kurze Runden zu erschaffen. 
+
+Es achtet dabei nicht auf absolte Ausgewogenheit, sondern liefert eher Faustregeln für die Kosten verschiedener Magiesysteme bei der Charaktererschaffung. 
+
+Damit gibt es den Runden eine sehr hohe Flexibilität, verlangt allerdings von der Spielleiterin und den Spielerinnen ein recht hohes Maß an angewandtem gesundem Menschenverstand. 
+
+In lange Kampagnen dürfte es sehr schnell zu unausgewogenheiten führen, da durch die Flexibilität auch Effekte abgedeckt sein können, die viele Geschichten einfach zerbrechen würden. 
+
+Für lange Kampagnen ist es vermutlich sinnvoller auf vollständig ausgearbeitete Magiesysteme zurückzugreifen, oder im Vorfeld ein eigenes Magiesystem zu erstellen. 
+
+Anmerkung: Dieses Modul entstand aus der Erfahrung, wie ich in verschiedenen kurzen (Con-) Runden Magie gehandhabt habe. 
+
+Für eine genauere und ausgewogenere Behandlung können das Kategoriesystem (KaSy) und das Modul Sondereigenschaften (noch kein Kürzel, da noch nicht abgetippt) genutzt werden. 
+
+= Grundlagen = 
+
+Ad-Hoc Magiesysteme arbeiten mir mehreren Grund-Mechaniken. 
+
+Die wichtigste ist, dass Effekte in ihrer Stärke auf der Skala der Fertigkeiten gemessen werden und entsprechende Kosten erhalten. 
+
+Beispiel: Wenn ein Effekt einen Magier die gleichen Mögichkeiten gibt, wie sie ein erfahrener Kämpfer hat, dann kostet er auch so viel wie eine sehr gute Fertigkeit: ++
+So ein Effekt könnte ein Feuerball sein, oder auch eine Vollsensorische aber eingeschränkte Illusion, die einen Kämpfer so weit schwächt, dass auch der Magier eine Chance gegen ihn hat. Genauso könnte der Effekt ein Essen bereiten, wie es ein Sternekoch kochen kann, nur auf anderem Weg. 
+
+Effekte, die mehr als ein paar Einsatzmöglichkeiten bieten (Herrschaft über die Winde, Macht der Träume, oder ähnliches) werden als Berufe gehandhabt. 
+
+Die Fähigkeit "Herrschaft über die belebte Natur", mit der ein Essen wie von einem Sternekoch bereitet werden kann, würde also +++ kosten. 
+
+Noch breiteres kostet auf der gleichen Ebene mehr. 
+
+Meist gilt außerdem, dass ein Zauber umso schneller geht, je spezifischer die Fähigkeit ist, mit der er gewirkt wird. 
+
+Die zweite Grundmechanik ist, dass es ein Merkmal gibt, das aufzeigt, wie groß die rohe Kraft der Effekte ist. 
+
+Beim Kochen entspricht das der Küche, die der Koch zur Verfügung hat. Beim Kämpfen der Waffe und den körperlichen Fähigkeiten. 
+
+Dieses Merkmal wird wie eine Eigenschaft gezahlt, durchschnittlich entspricht jedoch "gar nicht". 
+
+Diese Merkmal kann entweder für die gesamte Kraft gezahlt werden (mächtig) oder für jeden einzelnen Bereich. 
+
+Um die Kosten dieses Merkmals genauer zu berechnen, kann das Psi Modul aus dem RaumZeit Universum herangezogen werden. Für die schnelle Ad-Hoc Erschaffung von Magiesystem ist das allerdings etwas zu ausführlich. 
+
+
+Um die Möglichkeiten der Effekte auszuloten, gibt die SL jedem gewünschten Effekt eine Stärke, die dann als Mindestwurf genommen wird, um zu prüfen, ob der Magier genau den gewünschten Effekt erreichen kann.
+
+Dabei sollte die SL die Gesamtstärke des Magiers in dem Feld im Auge behalten. Für einen Magier mit legendärer Kraft ist das verbrennen von Ratten Routine, ein Haus schlagartig in Flammen aufgehen zu lassen allerdings schon extrem schwer (da es auch für einen Bombenbastler mit legendärer Ausrüstung extrem schwer wäre, solange er keine Vorbereitungszeit hat), und die sofortige Vernichtung eines legendären Kriegers in magischer Rüstung eine legendäre Herausforderung - das wäre sie nämlich auch für einen legendären Schwertkämpfer mit entsprechend guter Ausrüstung. 
+
+Für einen gerade anfangenden Magier (Magie +) ist dagegen eher das Entfachen eines Feuers mit einer Minute Vorbereitung Routine, ein kleiner Feuerball fordernd und das Rufen einer Flammenklinge für den Kampf extrem schwer. 
+
+
+Anders rum aufgezogen bedeutet das: Die SL fragt am Anfang: "Wie schwer soll es für dich sein, Effekt xyz zu bewirken" und legt darauf aufbauend dann die Kosten des Merkmals fest. 
+
+
+Die dritte Mechanik ist Geschichtsbezogen: 
+
+Was glaubt dein Magier, warum und wie seine Magie funktioniert? 
+
+Ist das die einzige Art, wie Magie in der Welt funktioniert? 
+
+Ideen dazu gibt es auf http://rollenspielmagie.de : 
+* Wahrheiten: http://rollenspielmagie.de/wahrheiten.html
+* Auf welche Arten kann ein Feuerball gesprochen werden: http://rollenspielmagie.de/feuerballspruch.html
+* Wege zur magischen Erleuchtung: http://rollenspielmagie.de/erkenntniswege.html
+
+
+== Vorgehensweise zur Ad-Hoc Erschaffung in Stichworten ==
+* Was willst du können? -> Fähigkeiten als Fertigkeiten (ein recht exakt beschriebener Effekt/Zauber) und Berufe (Effekte/Zauber, die auf viele Arten eingesetzt werden können). 
+* Wie schwer sollen die Effekte xyz für dich sein? Wie oft willst du sie in etwa können (Kosten pro Effekt)? Wie schnell? -> Kosten des Merkmals oder der Merkmale. 
+* Wie stellt dein Magier sich seine Magie vor? Was glaubt er, warum sie funktioniert. 
+
+
+Danach muss der Magier noch genauer aufzeichnen, wie seine Magie funktioniert, und darauf aufbauend muss die SL die Kosten vielleicht nochmal anpassen. 
+
+Was der Magier beschreiben sollte: 
+* Vorstellung: Was denkt der Magier, wie und warums eine Magie funktioniert? 
+* Kraftbasis: Was sind die Kosten für den Effekt? Wie viele Effekte kann er nutzen? Wie schnell regeneriert sich die Kraft? 
+* Geschwindigkeit: Wie lange braucht er für einzelne Effekte, wie lange für die Nutzung von allgemeineren Bereichen? 
+* Auffälligkeit: Wie leicht ist es für Nichtmagier, einen Zauber zu entdecken? Wie leicht ist es für Magier? Bleiben Spuren zurück? 
+* Risiko: Was kann geschehen, wenn Zauber fehlschlagen? Bleibt auch bei erfolgreicher Nutzung ein Restrisiko? 
+* Vorraussetzungen: Braucht der Magier Materialien, Gesten, Worte, Hard Rock, Gedichte, Opfer, o.ä., um seine Magie zu wirken? Das ist nicht die Kraftbasis, sondern etwas, das der Magier zwingend braucht, oft nur psychologisch (trotzdem aber zwingend). 
+* Verbreitung: Wie bekannt und verbreitet ist diese Art der Magie? Die Verbreitung beeinflusst vielleicht die Lernmöglichkeiten, auf jeden Fall aber das Überraschungsmoment, und die Verbreitung von Gegenmaßnahmen. 
+* Gegenmaßnahmen: Welche Mittel gibt es gegen diese Magie? Welche haben Nichtmagier, welche nur Magier? 
+* Grenzen: Was kann diese Magie _nicht_? Die Frage ist für die Beschreibung der Magie oft wichtiger als die Frage, was sie kann. 
+* Einfluss der Umgebung: Gibt es Kraftlinien, bestimmte Zeiten der Kraft, mächtige Symbole, Orte an denen Magie nicht funktioniert, o.ä.? 
+* Besonderheiten: Sonstiges, das nicht von den anderen abgedeckt ist :) 
+
+== Ideen ==
+
+* Vorstellung: 
+** Ideen dazu gibt es auf http://rollenspielmagie.de : 
+*** Wahrheiten: http://rollenspielmagie.de/wahrheiten.html
+*** Auf welche Arten kann ein Feuerball gesprochen werden: http://rollenspielmagie.de/feuerballspruch.html
+*** Wege zur magischen Erleuchtung: http://rollenspielmagie.de/erkenntniswege.html
+
+* Kraftbasis: 
+** "Mana", das der Magier langsam aus bestimmten regeneriert, 
+** Erschöpfung
+** Risiko
+** Lebenszeit
+** Motivation (eigene oder die der Leute in der Umgebung)
+** Freude, Schrecken oder Schmerz aus der Umgebung oder eigene
+** Langfristige Erschöpfung ("Ausbrennen")
+** Edelsteine, Pflanzen, o.ä.
+** Die belebte Natur (Symbiotisch: Stärkt auch die Natur, Parasitär: Pflanzen und Tiere werden schwächer oder sterben)
+
+* Geschwindigkeit: 
+** Einzelne Effekte sofort, Bereiche einige Sekunden (mächtiger klassischer Fantasymagier, Shadowrunmagier)
+** Einzelne Effekte mit etwas Konzentration, Bereiche ein paar Minuten (Zauberlehrling, Druiden, Telepath, u.ä., die mit langsameren Effekten arbeiten - oft sind das mächtige Effekte)
+** Einzelne Effekte mehrere Stunden, Bereiche Wochen (Ritualmagie, oft mit sehr weitreichenden Auswirkungen)
+
+* Auffälligkeit (verschiedene, die teils gemeinsam gelten können): 
+** Nichtmagier sehen nichts
+** Nichtmagier haben ein komisches Gefühl
+** Nichtmagier spüren grausamen Schrecken
+** Nichtmagier sehen leuchtende Runen 
+** Am Zauberort bleibt grauer Schleim zurück und jeder der vorbeikommt wird von diffusem Schrecken heimgesucht. 
+** Am Zauberort wachsen noch Jahre später die Pflanzen üppiger und Frieden erfüllt jeden, der sich ihm nähert. 
+** Am Zauberort bleibt eine eindeutige Signatur des MAgiers zurück, die selbst Nichtmagier erkennen. 
+** Magier sehen nichts
+** Magier spüren, dass irgendwo Magie genutzt wird
+** Magier können den Effekt direkt lokalisieren
+** Der Effekt erzeugt eine Signatur, die noch Stunden später am Zauberort gefunden werden kann und wie ein Fingerabdruck des Magier ist. Vielleicht lässt sie sich mit etwas Aufwand löschen und bleibt nur zurück, wenn der Magier zu sehr in Eile ist (zum Beispiel gerade gejagt wird), oder sie absichtlich zurücklässt. 
+** Von dem Effekt oder der Signatur führt eine direkte Verbindung zum Zaubernden, über die er aufgespürt werden kann oder die vielleicht direkt seinen momentaner Aufenthaltsort aufzeigt (IP Adresse?). 
+** Die Signatur kann auch für immer im Gewebe verbleiben und nur von neuen Zaubern überschrieben werden. es könnte damit eine verbreitete Technik sein, die Gegner dazu zu bringen, Zauber am gleichen Ort zu wirken, damit sie die Signatur nicht mehr finden. 
+
+* Risiko: 
+** Gelungene Zauber: Nebeneffekte? 
+** Misslungene Zauber: Patzer? 
+** Gefahren, wenn es entdeckt wird? Ist Magie verboten? (auch interessant dafür: Verbreitung und Auffälligkeit)
+** Langfristige Folgen? 
+** Schäden in der Seele, im Geist oder im Körper? 
+** Entdeckung durch andere Wesen? (Dämonen, Geister, ...)
+** Alles kommt (dreifach?) zurück? Die Effekte, die man bewirkt, hinterlassen Spuren. Siehe auch: http://draketo.de/deutsch/magie/licht/warum-alles-dreifach-zu-dir-zurueck-kommt
+
+* Verbreitung: 
+** Es gibt sonst keine Magier auf der Welt
+** Ein paar Eingeweihte wissen um Magie und behüten das Geheimnis
+** Ein paar wenige Begabte sind die einzigen, die Magie überhaupt nutzen können
+** Jeder kann Magie lernen, aber manche können es besser. 
+** Magie braucht eine bestimmte geistige/seelische  Einstellung, die man lernen kann, die aber eine Umstellung des Lebens erfordert und daher wenig verbreitet ist. 
+** Magie wird von verschiedenen Geheimbünden auf unterschiedliche Art gelehrt. Vielleicht ist sie auch in Geheimdiensten bekannt. 
+** Magie wird von verschiedenen einander lose bekannten Leuten ausgeübt, die manchmal organisiert sind, aber sonst nicht allzu viel miteinander zu tun haben. Es gibt vielleicht ein paar größere Organisationen, aber es gibt gleichzeitig genug völlig unabhängige Magier, und die Zahl der verschiedenen Schulen ist kaum schätzbar. 
+** Magie wird von Firmen oder Gilden ausgeübt. (Fast) Jeder weiß, dass sie existiert, aber Details sind nur den Migliedern der Firmen oder Gilden bekannt. 
+** Magie wird von den Eltern an die Kinder weitergegeben. Verschiedene Regionen oder Familien kennen unterschiedliche Techniken. Jeder weiß zumindest in etwa, was er gegen Magie unternehmen kann. Ein paar Grundtechniken nutzen (fast) alle in unterschiedlichen Variationen. 
+** Magie ist ein Schulfach wie Mathematik, Geographie, Fremdsprachen und Ethik. Vielleicht kann man Magie studieren, um die höheren Weihen zu lernen. 
+
+* Gegenmaßnahmen: 
+** Magie ist für Nichtmagier eine kaum zu überwindende Macht. 
+** Es gibt ein paar Grundmittel, wie Duschen mit Salz, um schwächere Flüche loszuwerden, Räuchern von Räumen zur Reinigung, ein herzhaftes Lachen als Abwehr direkter Schadensmagie u.ä., die auch für Nichtmagier nutzbar sind.
+** "Ein gesunder Körper ist unüberwindlich", "Ein ausgeglichener Mensch kann nicht verflucht werden"
+** Nur wer an Magie glaubt kann von Magie betroffen werden. -> Psychologie wird Teil der Magie. 
+** Magier können die inneren Muster von Zaubern erkennen und so lösen, wie sie gewoben wurden. 
+** Magier können die Muster von ankommenden Zaubern auflösen, wenn sie sie wahrnehmen, und wenn sie mindestens so geschickt sind wie der Magier, der die Zauber gewirkt hat. 
+** Die Kraft von ankommenden Zaubern kann einfach ausgelöscht werden, und jegliche Effekte verschwinden. 
+** Auch wenn die Kraft verschwindet, bleibt doch das Muster zurück, das wieder mit Kraft gefüllt werden kann, wenn es nicht direkt aufgelöst wird. 
+** Es gibt Amulette, die gegen Magie helfen. 
+** Jedes Haus hat seine eigenen Schutzmaßnahmen. 
+** Es gibt Orte der Reinigung, an denen jegliche Magie aufgehoben werden kann. 
+** Ein Gebet an einen Gott hilft gegen Magie. (Ist ein gebet eine Art Magie?)
+
+* Grenzen (was geht nicht): 
+** Teleportation. 
+** Zeitveränderung. 
+** Seelen zerstören. 
+** Die materielle Realität beeinflussen. 
+** Dinge bewirken, die über die innere Kraft des Magiers gehen. 
+** Leute beeinflussen, die der Magier nicht kennt. 
+** Das Schicksal ändern. 
+** Dem Magier selbst Vorteile bringen, die nur ihm nutzen. 
+** Subraumsprünge. 
+** Die Geschichte umschreiben. 
+** Götter töten. 
+** Göttliche Eingriffe stören. 
+** Menschen schaden. 
+** In Gebieten ohne Mana gibt es keine Magie. 
+** Auf dem Land gewirkt werden. 
+** Erschöpfung regenerieren (z.B. wenn Magie zu wirken den Magier erschöpft). 
+** Lebende Wesen heilen. 
+** Tote wiederbeleben. 
+** Geister aus dem Jenseits rufen (wer tot ist ist tot, vielleicht erst nach ein paar Minuten, Stunden oder Tagen, z.B. wenn der TOD sie geholt hat). 
+** Geister aus göttlichen Gefilden rufen. 
+** Die addierten Wahrscheinlichkeiten aller Ereignisse zusammen verändern (nur Wahrscheinlichkeiten verschieben). 
+** Jemanden von dem Sterben bewahren (vielleicht muss auch einfach nur irgendjemand sterben -> um einen Freund zu retten muss jemand anderes sterben, vielleicht sogar jemand, der ihm "ähnlich" ist oder nahe steht). 
+** Dinge über einer bestimmten Entfernung beeinflussen. 
+(oft sind diese Grenzen in der tieferen Realität der Welt festgelegt, und die Grenzen der Magie verraten etwas über die tiefsten Wirklichkeiten der Welt. Manche kommen aber vielleicht auch einfach aus dem einzelnen Magier, aus einer absoluten Beschränkung, aus seiner Psyche oder aus seinen Glaubensvorstellungen). 
+
+* Einfluss der Umgebung: 
+** Kraftlinien (Leylinien), an denen große Kraft zur Verfügung steht, und die sich über die Welt ziehe und manchmal kreuzen. 
+** Zeiten der Macht, z.B. die Tage des Namenlosen für Nekromantie, Frühlingsfeste (Beltane) für Liebeszauber, die Mittsommernacht für feste Bindungen und Halloween für Kommunikation über die Grenzen der Welt hinaus. 
+** Monate, die für eine bestimmte Art der Magie günstig sind. 
+** Die Geisterstunde fördert Beschwörungen. 
+** Die Mittagszeit stört Magie. 
+** Schlachtfelder sind klasse für düstere Magie. 
+** Rein akademische Diskussionen stören Magie. 
+** Phantasie und Emotionen fördern Magie. 
+** Leute, die nicht an Magie glauben, können sie blockieren, selbst wenn sie selbst keine Effekte bemerken (Masseneffekt). 
+** Es gibt alte Stätten der Macht. 
+** Der Aufbau von Städten beeinflusst den Kraftfluss in ihnen (ein Teil der Geomantie). 
+
+
+= Beispiel = 
+
+Der legendäre Feuermagier Ranarach Nalliaran (Künstlername "Nalliaral") hat die spezifischen Fähigkeiten (Fertigkeiten): 
+* Überragende Herrschaft über tanzende Flammen: +++
+* Feuerfinger (erfahren): ++
+* Geist des Feuers (erfahren): ++
+
+Dazu die breiteren Fähigkeiten (Berufe): 
+* Flammen erschaffen ("durchschnittlich"): ++
+* Flammen formen (erfahren): +++
+* Flammen vernichten ("schwach"): +
+
+Und das Merkmal: Legendärer Feuermagier: ++++
+
+Er ist dafür bekannt, über Flammen gebieten und mit ihnen lebende Bilder aus Feuer zu formen. 
+
+Weniger bekannt ist, dass er die Flammen wie seine eigenen Hände nutzen kann, und dass er ein Flammmenwesen rufen kann, das er als den Geist des Feuers kennt, und das selbst handeln kann, dabei allerdings nicht immer das tut, was sein Beschwörer will, sondern seine Befehle oft auf seltsame, teils unverständliche Art auslegt. 
+
+Wenn er etwas Zeit zur Verfügung hat (zumindest einige Sekunden, um zu visualisieren welchen Effekt er bewirken will), kann er Flammen nach seinem Willen formen, und Feuer bis zur Größe eines Osterfeuers erschaffen und vernichten. 
+
+Außerdem kann er mit genügend Zeit beschränkte Macht über das Wetter ausüben und Trockenheit und Wärme rufen, Regen und Kälte liegen allerdings außerhalb seiner Fähigkeiten. 
+
+Seine Kräfte sind im ganzen Land bekannt, und wo immer er auftaucht, speist er mit Königen, Fürsten und Grafen. Die Angebote des Königs, sein Hofmagier zu werden, hat er jedoch immer wieder abgelehnt, und wie der König heute zu ihm steht ist Spekulationssache. 
+
+Beschreibung seiner Magie in Stichworten: 
+
+* Kraftbasis: Magie erschöpft ihn. Er kann im Notfall auf tiefere Quellen zurückgreifen, doch die regenerieren sich nur sehr langsam. 
+
+* Geschwindigkeit: Einen seiner drei einzelnen Effekte kann er mit ein paar Gesten und einem Gedanken wirken. Andere Effekte brauchen je nach Macht und Komplexität zwischen einigen Sekunden (alle Kerzen im Raum entzünden), einigen Minuten (die Richtung eines Lavastroms ändern, ein Haus entflammen lassen oder die Munition in den Geschützen einer Magie explodieren lassen) und einigen Stunden (Das Wetter für Monate verändern, die Luft in einer kleineren Stadt erwärmen oder einen Zauber vorbereiten, der hunderte Menschen töten soll, ohne Ranarach völlig auszubrennen). Rituale von mehreren Wochen nutzt er für sehr komplexe Aufgaben. 
+
+* Auffälligkeit: Seine Zauber hinterlassen immer den Geruch eines Holzfeuers, und Magier können ihr nebobachten, wie er Fäden des Feuers webt. 
+
+* Risiko: Wenn er Zauber richtig verpatzt können sie auf ihn zurückfallen (er hat von frühen Experimenten einige Brandnarben auf seinen Armen), und wenn er zu schnell zu viel Kraft nutzt kann er sich ausbrennen. 
+
+* Vorraussetzungen: Keine direkten. 
+
+* Verbreitung: Die Art der Magie ist weit verbreitet, und er selbst ist jedem Städter zumindest vom Ruf her bekannt. 
+
+* Gegenmaßnahmen: Er kann kein Wasser direkt beeinflussen oder durchdringen. Er kann es aber verdampfen. Ansonsten können ähnlich mächtige und begabte Magier seine Flammenmuster brechen. 
+
+* Grenzen: Wasser direkt beeinflussen und auf irgendeine Art auf die Psyche von Leuten eingreifen. Er ist auf die Materie und auf Geister des Feuers beschränkt. 

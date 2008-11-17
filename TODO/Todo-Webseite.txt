@@ -1,0 +1,15 @@
+Was für die Webseite noch zu tun ist. 
+
+* Initiative-Modul braucht ein Beispiel
+* Das Modul Steigerung im vobsy muss auf die gedruckte Version aktualisiert werden. 
+* Die Regeln müssen erstmal entfernt/versteckt und durch "Schau in's Regelheft" ersetzt werden, bis wir Zeit finden, sie wieder auf der Webseite zu beschreiben. 
+* Charaktererschaffung muss auf die gedruckte Version aktualisiert werden. 
+* Die Kampagne Wächter der Zeit braucht etwas mehr Beschreibung. 
+
+* Erzählsteine braucht ein Beispiel
+* Freie Magie braucht Regeln
+* Schadenstypen braucht Prüfung. 
+
+* Ungeteste Module wollen getestet werden :) 
+
+- Drak
