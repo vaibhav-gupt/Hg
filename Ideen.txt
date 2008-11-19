@@ -519,3 +519,18 @@ und Rätseln so aufzuzeichnen, dass jeder Besucher sie lesen konnte, und ihre
 Rätselkünste waren so geschwächt, dass selbst junge Wissende und teilweise gar 
 ungeschulte Geister ihre Texte verstanden und mit deren Hilfe jeden Schutz um die 
 Wahnsinnige überwinden, sie stellen und zurück in den Orden bringen konnten. 
+
+
+------
+
+Unterstützende Fertigkeiten auch zwischen Gruppenmitgliedern. 
+
+* MW gleich der Fertigkeit des anderen Chars. 
+* Bei Gelingen 1 Punkt Bonus + 1 Punkt je 3 Punkte über dem MW. 
+* Ein überragender Char kann so einem durchschnittlichen Char 
+normalerweise etwa 3 Punkte Bonus geben. 
+* Braucht eine Handlung (für erklären, Tipps geben, beruhigen, etc.)
+
+------
+
+
