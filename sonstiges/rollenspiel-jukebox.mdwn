@@ -1,0 +1,44 @@
+Die Rollenspiel-Jukebox - ein kleiner Wunsch
+============================================
+
+Ich höre gerade die Musik von Jamendo, die PiHalbe [gefunden hat][pihalbe-jamendo-2]
+und mir ist aufgefallen, wie ich mir Musik fürs 
+Rollenspiel wünschen würde. 
+
+Normale Lieder versuchen oft, eine Geschichte zu erzählen, was für 
+das Lied selbst gut ist, es aber für Rollenspiele untauglich 
+macht. Der Höhepunkt ist im Zweifelsfall nicht da, wo wir ihn in 
+der Runde brauchen, und der Umbruch von Spannung in Auflösung ist 
+so gut wie nie da, wo unsere Kampfszene endet. Ich erinnere mich 
+noch nur zu gut daran, zwanzigmal in einer Szene nach der Hälfte 
+des Liedes zurückgesprungen zu sein, um die Spannung zu halten. 
+
+Aktuelle rollenspieltaugliche Lieder sind in sich abgeschlossen 
+und meistens gut Schleifenfähig, aber dadurch brauchen wir für die 
+nächste Szene, die sich dem Höhepunkt nähert, ein anderes Lied, 
+das möglicherweise nicht direkt mit dem Ersten zusammenpasst, und 
+wir verlieren die Möglichkeit eines stückweisen Spannungsbogens 
+wie wir ihn aus Musik in Filmen kennen, z.B. für einen einzelnen 
+Kampf, indem die Musik sich der Stimmung der Szene anpasst. 
+
+Um beides zu verbinden, Spannungsbogen und 
+Rollenspieltauglichkeit, sehe ich aktuell ein System vor mir, das 
+Lieder aus kleineren Teilen aufbaut, die jeweils Variationen 
+enthalten. 
+
+*Es spielt den Teil, in dem ich gerade bin, in einer Schleife ab und 
+nimmt dafür zufällig oder teils von mir gelenkt Variationen, damit 
+die Musik nicht eintönig wird. Wenn unsere Szene dann endet, wähle 
+ich die nächste Situation aus, und es wechselt mit einem 
+passenden Übergang in den gewählten Teil, der dann wieder mit 
+Variationen gespielt wird, bis wieder eine Szene wechselt. 
+Vielleicht könnten die Variationen jeweils nach Intensität von 
+bestimmten Stimmungen sortiert sein, so dass ich mit der Art 
+der Variationen die Stimmung in der Runde wiederspiegeln und 
+verstärken kann.*
+
+Zusätzlich muss es freie Software sein, denn ich will den Stil 
+meiner Runden nicht von dem Gutdünken einer einzelnen Firma 
+abhängig machen. 
+
+Was haltet ihr von der Idee? 
