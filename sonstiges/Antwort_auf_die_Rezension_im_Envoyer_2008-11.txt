@@ -30,10 +30,13 @@ sie generell nicht relevant (oder hat es einen anderen Grund)?
 
 * Nicht nur die Fertigkeiten, sondern auch die Eigenschaften werden frei gewaehlt, 
 und Spieler suchen sich fuer jede Fertigkeit aus, welche zwei Eigenschaften sie 
-dafuer verwenden wollen (was die eigentliche Neuerung ist). 
+dafuer verwenden wollen (was die eigentliche Neuerung ist, weil diese 
+Eigenschften der Fertigkeit zusaetzliche Farbe geben). 
 
 * Fuer komplexeren Kampf (nicht nur ein Wurf pro Konfrontation) ist ein Modul 
-direkt im Anhang des Heftes. 
+direkt im Anhang des Heftes (Das Fokusmodul Kampf). Grund: Viele Runden wollen 
+komplexeren Kampf, aber fuer das Grundsystem sollte sich der Regeltechnische 
+Aufwand fuer einen Kampf erstmal nicht von dm fuer ein Kochduell unterscheiden. 
 
 * Das EWS ist frei lizensiert, das heiszt, jeder kann es direkt verwenden und 
 auch in eigene Hefte einbinden. 
