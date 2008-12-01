@@ -9,7 +9,7 @@
 - ragnarok, 17. Feb 2004
 
 Für's EWS: 
-*"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochnellt und sich in deinen Magen gräbt"*
+*"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochschnellt und sich in deinen Magen gräbt"*
 
 ---
 
@@ -24,14 +24,14 @@ Drachenmenschen, Feuermenschen, Erynnias Wächter, Engelkinder, Feenträumer, Sc
 Rollenspiel auf Basis all der schönen alten Konsolen-RPGs. 
 Chrono-Trigger, Shining Force, Breath of Fire, Seiken Densetsu 3, Suikoden, Final Fantasy, Lufia, Secret of Mana, Tales of Phantasia, Fire Emblem, Arc the Lad, Grandia, Phantasy Star, Valkyre Profile, Vandal Hearts, Zelda, Skies of Arcadia, Tactics Ogre, Harvest Moon, Earthbound, Summoner,... (Shenmue, Wild Arms, Kartia?, Spellcaster (MasterSystem), Wesnoth (neu und freie Software))
 
-- Standard-Aktionen fr Charaktere (war als Zeitsparer fr PbEMs vorgeschlagen) => Coole Nebenbeschreibungen, in denen Spieler und Spielleiter einfach Spaß am Monsterplätten haben können, ohne wrfeln oder etwas frchten zu mssen. 
+- Standard-Aktionen fuer Charaktere (war als Zeitsparer fuer PbEMs vorgeschlagen) => Coole Nebenbeschreibungen, in denen Spieler und Spielleiter einfach Spaß am Monsterplätten haben können, ohne wuerfeln oder etwas fuerchten zu muessen. 
 
 -----
 
 Vorteil: Spüren, wann und wo man gebraucht wird. Kann auch tiefer gehen und
 ein Gespür für das ganze Land oder die ganze Umgebung mit sich bringen. Kann
-unscharf sein, Dunkelheit, die  man sprt, oder ein Ruf der Götter, den man
-hört, oder ein erbeben in dem Fluss in der Umgebung. 
+unscharf sein, Dunkelheit, die  man spuert, oder ein Ruf der Götter, den man
+hört, oder ein erbeben in dem Fluss in der Umgebung (oder in der Macht). 
 
 -----
 
@@ -58,7 +58,7 @@ Die Welt von "Ninja Scroll", die Fähigkeiten davon ins EWS.
 Textentwurf: 
 Fokus
 
-Fr verschiedene Charaktere sind unterschiedliche Bereiche des Lebens wichtig. 
+Fuer verschiedene Charaktere sind unterschiedliche Bereiche des Lebens wichtig. 
 
 Um das auch in den Regeln widerzuspiegeln, nutzt das EWS Fokusregeln. 
 
@@ -166,7 +166,7 @@ Damit es spannender wird, können Simulationen Folgen haben. Ideen:
 ---
 
 Berufe und Fertigkeiten sind nicht ganz balanciert. Eigentlich muesste ein Beruf 
-immer dreimal soviel kosten wie die entsprechende Fertigkeit, und eine Stigerung 
+immer dreimal soviel kosten wie die entsprechende Fertigkeit, und eine Steigerung 
 um 3 Punkte muesste die Kosten immer verdoppeln. 
 
 Das aktuelle System ist allerdings schoener handhabbar. 
@@ -200,7 +200,7 @@ Dadurch erhalten Berufe in höheren Stufen (wo ihre Kosten im Vergleich zu Ferti
 
 Das schützt nicht perfekt gegen Minmaxing, aber da ab einer bestimmten Differenz zwischen Eig und Fert die Steigerung der Eigenschaften günstiger wird als die Steigerung der von ihnen gestärkten Fertigkeiten können die Kosten für einen Minmaxer wieder höher ausfallen. 
 
-Fertigkeit von 18 auf 19 kostet soviel wie Eigenschaft von 12 auf 15 (gleicher Effekt). 
+Fertigkeit von 15 auf 16 kostet soviel wie Eigenschaft von 12 auf 15 (gleicher Effekt). 
 
 ------
 
@@ -212,7 +212,7 @@ zu reden.
 
 Dadurch wird der Einstieg deutlich einfacher. 
 
-Oder nur in mit Strichen (=Punkte) Dreiecke bauen, die dann zu Plussen werden. 
+Oder nur mit Strichen (=Punkte) Dreiecke bauen, die dann zu Plussen werden. 
 
 ------
 
@@ -231,7 +231,7 @@ entweder tiefer in die Zukunft sehen oder tiefer in die Zukunft planen können a
 - eine Schachpartie inmitten eines Feuergefechtes :)
 
 Wenn man tiefer in die Zukunft sieht, ist es natürlich einfach: Man schaut einfach, 
-wie man ihr trifft. 
+wie man ihn trifft. 
 
 Wenn man nicht in die Zukunft sieht, muss man dagegen alle möglichen Züge des 
 Protektors vorrausplanen, um zu wissen, wie man ihn überhaupt treffen kann. 
@@ -351,7 +351,7 @@ Gemeinsame Kampagnen - jeder trägt seine eigenen Verzweigungen ein, die Wege in
 
 Damit könnten vollständig nichtlineare Abenteuer entstehen. 
 
-Aus diesen Aufschrieben können dann riesige Flussdiagramme entstehen. 
+Aus diesen Aufschrieben können dann riesige Flussdiagramme werden. 
 
 ------ 
 
@@ -365,6 +365,10 @@ Erschaffen in Geschichten:
 
 => Startalter für Charaktere -> Jedes Jarh erzählen, pro Jahr steigern. 
 
+In 6-Jahren-Abschnitten durchgehen -> bis 18 sind es 3 Abschnitte mit Ereignissen 
+in der Umgebung. Das fuehrt zu uebersichtlicheren Charaktergeschichten und damit 
+klareren Motivationen. 
+
 ------ 
 
 Merkmale, die von der Staerke des Chars abhaengen -> reduzieren 
@@ -372,11 +376,16 @@ Erfahrungspunkte. Gilt fuer Merkmale, die eine spezielle Faehigkeit freischalten
 die es sonst gar nicht gibt (z.B. Unsterblichkeit u.ae.), weil durch die 
 Faehigkeit Chars in hoeheren Bereichen groessere Vorteile haben, d.h. der 
 Unterschied zwischen Chars haengt z.B. nur von der Differenz ihrer Werte ab, nicht 
-von dem absoluten Wert, das Merkmal gibt aber einen absoluten Vorteil
+von dem absoluten Wert, das Merkmal gibt aber einen absoluten Vorteil. 
+
+Vielleicht auch abhaengige Steigerung: "Darf maximal so hoch sein, wie ... "
 
 ------
 
 Eckenkosten fuer besondere Gegenstaende ausarbeiten, z.B. fuer Psi-Verstaerker; 
+
+------ 
+
 Merkmal: "Behaelt den Ueberblick"
 
 ------
@@ -394,7 +403,7 @@ Eine Republik mit starken Jedi:
 
 * Kampfverbände durch persönliche Freundschaft verbunden statt durch Hierarchie - 
 niemals zu viele direkte Kontakte von einem, damit nichts an einem Einzelnen hängt, 
-denn auch mit idealer Ausbildung ist ein einzelner immer Fehlbar. Wenn die 
+denn auch mit idealer Ausbildung ist ein einzelner immer fehlbar. Wenn die 
 Verantwortung und das Verständnis bei vielen liegt, ist dieses Risiko geringer. 
 
 
@@ -478,6 +487,8 @@ Modulnamen:
 - Allgemeine Module: 4 Zeichen
 - Weltenspezifische Module: 2 Zeichen Präfix (=> 576 Welten) + "_" + 4 Zeichen. 
 
+=> RZ_PsiM , Er_MagM
+
 ------ 
 
 
@@ -519,3 +530,6 @@ und Rätseln so aufzuzeichnen, dass jeder Besucher sie lesen konnte, und ihre
 Rätselkünste waren so geschwächt, dass selbst junge Wissende und teilweise gar 
 ungeschulte Geister ihre Texte verstanden und mit deren Hilfe jeden Schutz um die 
 Wahnsinnige überwinden, sie stellen und zurück in den Orden bringen konnten. 
+
+------ 
+
