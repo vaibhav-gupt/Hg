@@ -18,22 +18,49 @@ Plan:
 
 """
 
-sample_char = {'ability':12, # average
+
+### Constants ###
+
+average_char = {'ability':12, # average
 'weapon':4, # sword
 'armor':3, # leather armor
 'wound':4 # wound value
 }
 
-sample_result = {'chars': [],
-'win_critical': [0.1, None], # it ends here
-'win_wound': [0.2, {}],
-'win': [0.2, {}],
-'lose': [0.2, {}],
-'lose_wound': [0.2, {}],
-'lose_critical': [0.2, {}]
+very_good_char = {'ability':15, # average
+'weapon':4, # sword
+'armor':3, # leather armor
+'wound':4 # wound value
+}
+
+exceptional_char = {'ability':18, # average
+'weapon':4, # sword
+'armor':3, # leather armor
+'wound':4 # wound value
+}
+
+sturdy_char = {'ability':12, # average
+'weapon':4, # sword
+'armor':3, # leather armor
+'wound':6 # wound value
+}
+
+average_char_in_strong_armor = {'ability':12, # average
+'weapon':4, # sword
+'armor':10, # full plate
+'wound':4 # wound value
+}
+
+average_char_with_strong_weapon = {'ability':12, # average
+'weapon':10, # heavy double axe
+'armor':3, # leather armor
+'wound':4 # wound value
 }
 
 die = [-5, -3, -1, 2, 4, 6]
+
+
+### Functions ###
 
 def dice_diff_prob(diff=4): 
 	"""Calculate the chance to get at least a given difference in a simple opposed roll.
@@ -55,10 +82,13 @@ Ideas:
 	return hits / rolls
 
 
-def generate_result(chars=[sample_char, sample_char], depth=0, max_depth=4):
+def generate_result(chars=[average_char, average_char], depth=0, max_depth=4):
 	"""Generate the probability tree iteratively.
 
 	>>> # pprint(generate_result())
+
+TODO: Reduce the probabilities for win by win_wound and win_critical, and for 
+win_wound by win_critical and the same for lose. 
 
 """
 	# Stop the recursion when we get too deep or one of the chars can't fight anymore. 
@@ -66,9 +96,13 @@ def generate_result(chars=[sample_char, sample_char], depth=0, max_depth=4):
 		return None
 	result = {}
 	result['chars'] = chars
+
+	# Prepare the char damag values when the attacker (chars[0]) wins
 	char_0 = chars[0]['ability'] + chars[0]['weapon']
 	char_1 = chars[1]['ability'] + chars[1]['armor']
 
+	
+	## win and inflict a critical wound
 	# the chance to inflict a critical wound is the smaller of the chance to 
 	# hit at all and the chance to archieve 12 points of difference. 
 	res = []
@@ -77,41 +111,47 @@ def generate_result(chars=[sample_char, sample_char], depth=0, max_depth=4):
 	res.append(None)
 	result['win_critical'] = res 
 
+	## win and inflict a wound
 	res = []
 	res.append(min(dice_diff_prob(diff = char_1 - char_0 + 4), 
-		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])))
+		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['win_critical'][0])
 	char_changed = chars[1].copy()
 	char_changed['ability'] -= 3
 	res.append(generate_result(chars=[chars[0], char_changed], depth=depth+1))
 	result['win_wound'] = res
 
+	## just win
 	res = []
-	res.append(dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability']))
+	res.append(dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability']) - result['win_critical'][0] - result['win_wound'][0])
 	res.append(generate_result(chars=chars, depth=depth+1))
 	result['win'] = res
 
 
+	# prepare the char damage values when the attacker loses (chars[0])
 	char_0 = chars[0]['ability'] + chars[0]['armor']
 	char_1 = chars[1]['ability'] + chars[1]['weapon']
 
-	res = []
-	res.append(1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability']))
-	res.append(generate_result(chars=chars, depth=depth+1))
-	result['lose'] = res
-
-	res = []
-	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 3), 
-		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])))
-	char_changed = chars[0].copy()
-	char_changed['ability'] -= 3
-	res.append(generate_result(chars=[char_changed, chars[1]], depth=depth+1))
-	result['lose_wound'] = res
-
+	## lose and receive a critical wound
 	res = []
 	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 11), 
 		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])))
 	res.append(None)
 	result['lose_critical'] = res
+
+	## lose and receive a wound
+	res = []
+	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 3), 
+		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['lose_critical'][0])
+	char_changed = chars[0].copy()
+	char_changed['ability'] -= 3
+	res.append(generate_result(chars=[char_changed, chars[1]], depth=depth+1))
+	result['lose_wound'] = res
+
+	## just lose
+	res = []
+	res.append((1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['lose_critical'][0] - result['lose_wound'][0])
+	res.append(generate_result(chars=chars, depth=depth+1))
+	result['lose'] = res
 	
 	return result
 
@@ -141,7 +181,8 @@ def aggregate_tree(tree, prob=1.0):
 
 def clean_leaves(tree): 
 	"""Clean out the now unneeded None values in the leaves."""
-	for i in tree: 
+	# Clean out unnecessary None values
+	for i in tree.keys(): 
 		# if we hit a leaf, turn the list into its probability value only. 
 		if tree[i][1] is None:
 			tree[i] = tree[i][0]
@@ -149,18 +190,33 @@ def clean_leaves(tree):
 		else: 
 			tree[i] = tree[i][1]
 			clean_leaves(tree[i])
-	return tree
 	
+	return tree
 
-def generate_tree(chars=[sample_char, sample_char]):
+def remove_low_prob(tree, threshold=0.005): 
+	"""Remove all branches with only leaves which have a probability below the threshold."""
+	for i in tree.keys(): 
+		# remove low probability items
+		if tree[i] < threshold: 
+			del tree[i]
+		elif not isinstance(tree[i], float): 
+			remove_low_prob(tree[i], threshold=threshold)
+	for i in tree.keys(): 
+		# also remove (now) empty dicts
+		if not tree[i]: 
+			del tree[i]
+	return tree
+
+def generate_tree(chars=[average_char, average_char]):
 	"""Generate a clean probability tree.
 
-	>>> pprint(generate_tree())
+	#>>> pprint(generate_tree())
 """
 	tree = generate_result(chars=chars)
 	tree = clean_tree(tree)
 	tree = aggregate_tree(tree)
-	return clean_leaves(tree)
+	tree = clean_leaves(tree)
+	return remove_low_prob(tree)
 
 ### Self Test ###
 
@@ -170,4 +226,5 @@ def _test():
 
 if __name__ == "__main__": 
 	_test()
-
+	print "Exceptional char (18) vs. average char (12)"
+	pprint(generate_tree(chars=[exceptional_char, average_char]))
