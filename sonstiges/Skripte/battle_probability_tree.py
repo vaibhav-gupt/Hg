@@ -21,7 +21,10 @@ Plan:
 ### Config ###
 
 #: The maximum depth of the battle tree
-MAX_DEPTH = 6
+MAX_DEPTH = 4
+
+#: Minimum ability to be able to keep fighting
+MIN_ABILITY = 6
 
 
 ### Constants ###
@@ -63,7 +66,7 @@ average_char_with_strong_weapon = {'ability':12, # average
 }
 
 average_char_with_strong_weapon_and_armor = {'ability':12, # average
-'weapon':12, # very heavy battle axe
+'weapon':14, # very heavy battle axe
 'armor':10, # full plate
 'wound':4 # wound value
 }
@@ -128,7 +131,7 @@ win_wound by win_critical and the same for lose.
 
 """
 	# Stop the recursion when we get too deep or one of the chars can't fight anymore. 
-	if chars[0]['ability'] <= 0 or chars[1]['ability'] <= 0: 
+	if chars[0]['ability'] <= MIN_ABILITY or chars[1]['ability'] <= MIN_ABILITY: 
 		return None
 	if depth>=max_depth: 
 		return 'max depth'
@@ -155,13 +158,13 @@ win_wound by win_critical and the same for lose.
 		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die )) - result['win_critical'][0])
 	char_changed = chars[1].copy()
 	char_changed['ability'] -= 3
-	res.append(generate_result(chars=[chars[0], char_changed], depth=depth+1))
+	res.append(generate_result(chars=[chars[0], char_changed], depth=depth+1, max_depth=max_depth))
 	result['win_wound'] = res
 
 	## just win
 	res = []
 	res.append(dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die) - result['win_critical'][0] - result['win_wound'][0])
-	res.append(generate_result(chars=chars, depth=depth+1))
+	res.append(generate_result(chars=chars, depth=depth+1, max_depth=max_depth))
 	result['win'] = res
 
 
@@ -182,13 +185,13 @@ win_wound by win_critical and the same for lose.
 		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)) - result['lose_critical'][0])
 	char_changed = chars[0].copy()
 	char_changed['ability'] -= 3
-	res.append(generate_result(chars=[char_changed, chars[1]], depth=depth+1))
+	res.append(generate_result(chars=[char_changed, chars[1]], depth=depth+1, max_depth=max_depth))
 	result['lose_wound'] = res
 
 	## just lose
 	res = []
 	res.append((1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)) - result['lose_critical'][0] - result['lose_wound'][0])
-	res.append(generate_result(chars=chars, depth=depth+1))
+	res.append(generate_result(chars=chars, depth=depth+1, max_depth=max_depth))
 	result['lose'] = res
 	
 	return result
@@ -223,6 +226,9 @@ def aggregate_tree(tree, prob=1.0):
 
 def prob_to_win_or_lose(tree, win=0, lose=0): 
 	"""Find the probability to win or lose the fight."""
+	# only needed for 0 turn battles
+	if tree == 'max depth': 
+		return win, lose
 	for i in tree.keys(): 
 		if tree[i][1] is None: 
 			if i in ['win', 'win_wound', 'win_critical']: 
@@ -236,9 +242,9 @@ def prob_to_win_or_lose(tree, win=0, lose=0):
 	return win, lose
 
 def clean_leaves(tree): 
-	"""Clean out the now unneeded None and 'ma depth' values in the leaves."""
-#	if tree == 'max depth': 
-#		return 'max depth'
+	"""Clean out the now unneeded None and 'max depth' values in the leaves."""
+	if tree == 'max depth': 
+		return 'max depth'
 	# Clean out unnecessary None and 'max depth' values
 	for i in tree.keys(): 
 		# if we hit a leaf, turn the list into its probability value only. 
@@ -266,12 +272,12 @@ def remove_low_prob(tree, threshold=0.01):
 			del tree[i]
 	return tree
 
-def generate_tree(chars=[average_char, average_char], min_prob=0.005, die=triple_die):
+def generate_tree(chars=[average_char, average_char], min_prob=0.005, die=triple_die, number_of_turns=MAX_DEPTH):
 	"""Generate a clean probability tree.
 
 	#>>> pprint(generate_tree())
 """
-	tree = generate_result(chars=chars, die=die)
+	tree = generate_result(chars=chars, die=die, max_depth=number_of_turns+1)
 	tree = clean_tree(tree)
 	tree = aggregate_tree(tree)
 	win, lose = prob_to_win_or_lose(tree)
@@ -288,10 +294,15 @@ def _test():
 
 if __name__ == "__main__": 
 	_test()
+	print "Test different battle length"
+	print "Very good char (15) vs. average char (12)"
+	for i in range(8): 
+		win, lose = generate_tree(chars=[very_good_char, average_char], number_of_turns=i)
+		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
-	print "Probs after", MAX_DEPTH, "turns:"
+	print "\n\nProbs after", MAX_DEPTH, "turns:"
 
-	print "Very good char (15) vs. average char (12) without critical hits"
+	print "\nVery good char (15) vs. average char (12) without critical hits"
 	win, lose = generate_tree(chars=[very_good_char, average_char], die=die)
 	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
