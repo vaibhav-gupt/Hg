@@ -299,6 +299,10 @@ if __name__ == "__main__":
 	for i in range(8): 
 		win, lose = generate_tree(chars=[very_good_char, average_char], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+	print "\nAverage char (12) vs. average char (12)"
+	for i in range(8): 
+		win, lose = generate_tree(chars=[average_char, average_char], number_of_turns=i)
+		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 	print "\n\nProbs after", MAX_DEPTH, "turns:"
 
