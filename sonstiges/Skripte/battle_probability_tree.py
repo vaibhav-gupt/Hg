@@ -81,21 +81,29 @@ quintuple_die = 6*quadruple_die
 quintuple_die[0] = -25
 quintuple_die[-1] = 30
 
+
 ### Functions ###
 
-def dice_diff_prob(diff=4): 
+def dice_diff_prob(diff=4, die=triple_die): 
 	"""Calculate the chance to get at least a given difference in a simple opposed roll.
 
 Ideas: 
 	- Also calculate the chances with rerolls of 6 and 5. 
 
-	>>> dice_diff_prob()
+	>>> dice_diff_prob(die=die)
 	0.27777777777777779
+	>>> dice_diff_prob(die=double_die)
+	0.29475308641975306
+	>>> dice_diff_prob(die=triple_die)
+	0.29496742112482854
+	
+	# dice_diff_prob(die=quadruple_die)
+	# 0.29497337486663616
 
 """
 	hits=0
 	rolls=0
-	for i in quintuple_die: 
+	for i in die: 
 		for j in die: 
 			rolls += 1
 			if i - j >= diff:
@@ -104,7 +112,7 @@ Ideas:
 	return hits / rolls
 
 
-def generate_result(chars=[average_char, average_char], depth=0, max_depth=MAX_DEPTH):
+def generate_result(chars=[average_char, average_char], depth=0, max_depth=MAX_DEPTH, die=die):
 	"""Generate the probability tree iteratively.
 
 	>>> # pprint(generate_result())
@@ -130,15 +138,15 @@ win_wound by win_critical and the same for lose.
 	# the chance to inflict a critical wound is the smaller of the chance to 
 	# hit at all and the chance to archieve a critical wound. 
 	res = []
-	res.append(min(dice_diff_prob(diff = char_1 - char_0 + 3*chars[1]['wound']), 
-		dice_diff_prob(diff = chars[0]['ability'] - chars[1]['ability'])))
+	res.append(min(dice_diff_prob(diff = char_1 - char_0 + 3*chars[1]['wound'], die=die), 
+		dice_diff_prob(diff = chars[0]['ability'] - chars[1]['ability'], die=die)))
 	res.append(None)
 	result['win_critical'] = res 
 
 	## win and inflict a wound
 	res = []
-	res.append(min(dice_diff_prob(diff = char_1 - char_0 + chars[1]['wound']), 
-		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['win_critical'][0])
+	res.append(min(dice_diff_prob(diff = char_1 - char_0 + chars[1]['wound'], die=die), 
+		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die )) - result['win_critical'][0])
 	char_changed = chars[1].copy()
 	char_changed['ability'] -= 3
 	res.append(generate_result(chars=[chars[0], char_changed], depth=depth+1))
@@ -146,7 +154,7 @@ win_wound by win_critical and the same for lose.
 
 	## just win
 	res = []
-	res.append(dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability']) - result['win_critical'][0] - result['win_wound'][0])
+	res.append(dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die) - result['win_critical'][0] - result['win_wound'][0])
 	res.append(generate_result(chars=chars, depth=depth+1))
 	result['win'] = res
 
@@ -157,15 +165,15 @@ win_wound by win_critical and the same for lose.
 
 	## lose and receive a critical wound
 	res = []
-	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 3*chars[0]['wound'] + 1), 
-		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])))
+	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 3*chars[0]['wound'] + 1, die=die), 
+		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)))
 	res.append(None)
 	result['lose_critical'] = res
 
 	## lose and receive a wound
 	res = []
-	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - chars[0]['wound'] + 1), 
-		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['lose_critical'][0])
+	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - chars[0]['wound'] + 1, die=die), 
+		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)) - result['lose_critical'][0])
 	char_changed = chars[0].copy()
 	char_changed['ability'] -= 3
 	res.append(generate_result(chars=[char_changed, chars[1]], depth=depth+1))
@@ -173,7 +181,7 @@ win_wound by win_critical and the same for lose.
 
 	## just lose
 	res = []
-	res.append((1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['lose_critical'][0] - result['lose_wound'][0])
+	res.append((1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)) - result['lose_critical'][0] - result['lose_wound'][0])
 	res.append(generate_result(chars=chars, depth=depth+1))
 	result['lose'] = res
 	
@@ -252,12 +260,12 @@ def remove_low_prob(tree, threshold=0.01):
 			del tree[i]
 	return tree
 
-def generate_tree(chars=[average_char, average_char], min_prob=0.005):
+def generate_tree(chars=[average_char, average_char], min_prob=0.005, die=triple_die):
 	"""Generate a clean probability tree.
 
 	#>>> pprint(generate_tree())
 """
-	tree = generate_result(chars=chars)
+	tree = generate_result(chars=chars, die=die)
 	tree = clean_tree(tree)
 	tree = aggregate_tree(tree)
 	win, lose = prob_to_win_or_lose(tree)
@@ -276,6 +284,10 @@ if __name__ == "__main__":
 	_test()
 
 	print "Probs after", MAX_DEPTH, "turns:"
+
+	print "Very good char (15) vs. average char (12) without critical hits"
+	win, lose = generate_tree(chars=[very_good_char, average_char], die=die)
+	print "Win:", win, "Lose:", lose
 
 	print "Very good char (15) vs. average char (12)"
 	win, lose = generate_tree(chars=[very_good_char, average_char])
@@ -296,3 +308,4 @@ if __name__ == "__main__":
 	print "\nVery good char (15) vs. sturdy char (12, wound threshold " + str(sturdy_char['wound']) + ")"
 	win, lose = generate_tree(chars=[very_good_char, sturdy_char])
 	print "Win:", win, "Lose:", lose
+
