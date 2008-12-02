@@ -18,6 +18,11 @@ Plan:
 
 """
 
+### Config ###
+
+#: The maximum depth of the battle tree
+MAX_DEPTH = 8
+
 
 ### Constants ###
 
@@ -42,7 +47,7 @@ exceptional_char = {'ability':18, # average
 sturdy_char = {'ability':12, # average
 'weapon':4, # sword
 'armor':3, # leather armor
-'wound':6 # wound value
+'wound':8 # wound value
 }
 
 average_char_in_strong_armor = {'ability':12, # average
@@ -82,7 +87,7 @@ Ideas:
 	return hits / rolls
 
 
-def generate_result(chars=[average_char, average_char], depth=0, max_depth=4):
+def generate_result(chars=[average_char, average_char], depth=0, max_depth=MAX_DEPTH):
 	"""Generate the probability tree iteratively.
 
 	>>> # pprint(generate_result())
@@ -92,8 +97,10 @@ win_wound by win_critical and the same for lose.
 
 """
 	# Stop the recursion when we get too deep or one of the chars can't fight anymore. 
-	if chars[0]['ability'] <= 0 or chars[1]['ability'] <= 0 or depth>=max_depth: 
+	if chars[0]['ability'] <= 0 or chars[1]['ability'] <= 0: 
 		return None
+	if depth>=max_depth: 
+		return 'max depth'
 	result = {}
 	result['chars'] = chars
 
@@ -104,16 +111,16 @@ win_wound by win_critical and the same for lose.
 	
 	## win and inflict a critical wound
 	# the chance to inflict a critical wound is the smaller of the chance to 
-	# hit at all and the chance to archieve 12 points of difference. 
+	# hit at all and the chance to archieve a critical wound. 
 	res = []
-	res.append(min(dice_diff_prob(diff = char_1 - char_0 + 12), 
+	res.append(min(dice_diff_prob(diff = char_1 - char_0 + 3*chars[1]['wound']), 
 		dice_diff_prob(diff = chars[0]['ability'] - chars[1]['ability'])))
 	res.append(None)
 	result['win_critical'] = res 
 
 	## win and inflict a wound
 	res = []
-	res.append(min(dice_diff_prob(diff = char_1 - char_0 + 4), 
+	res.append(min(dice_diff_prob(diff = char_1 - char_0 + chars[1]['wound']), 
 		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['win_critical'][0])
 	char_changed = chars[1].copy()
 	char_changed['ability'] -= 3
@@ -133,14 +140,14 @@ win_wound by win_critical and the same for lose.
 
 	## lose and receive a critical wound
 	res = []
-	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 11), 
+	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 3*chars[0]['wound'] + 1), 
 		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])))
 	res.append(None)
 	result['lose_critical'] = res
 
 	## lose and receive a wound
 	res = []
-	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - 3), 
+	res.append(min(1 - dice_diff_prob(diff = char_1 - char_0 - chars[0]['wound'] + 1), 
 		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'])) - result['lose_critical'][0])
 	char_changed = chars[0].copy()
 	char_changed['ability'] -= 3
@@ -160,6 +167,8 @@ def clean_tree(tree):
 	# Stop the recursion when we get a leaf
 	if tree is None: 
 		return None
+	if tree == 'max depth': 
+		return 'max depth'
 	del tree['chars']
 	for i in tree.values(): 
 		i[1] = clean_tree(i[1])
@@ -170,6 +179,8 @@ def aggregate_tree(tree, prob=1.0):
 	# Stop the recursion when we get a leaf
 	if tree is None: 
 		return None
+	if tree == 'max depth': 
+		return 'max depth'
 	# aggregate the tree
 	for i in tree.values(): 
 		# aggregate the earlier probabilities
@@ -179,22 +190,39 @@ def aggregate_tree(tree, prob=1.0):
 	
 	return tree
 
+def prob_to_win_or_lose(tree, win=0, lose=0): 
+	"""Find the probability to win or lose the fight."""
+	for i in tree.keys(): 
+		if tree[i][1] is None: 
+			if i in ['win', 'win_wound', 'win_critical']: 
+				win += tree[i][0]
+			else: 
+				lose += tree[i][0]
+		elif tree[i][1] == 'max depth': 
+			return win, lose
+		else: 
+			win, lose = prob_to_win_or_lose(tree[i][1], win=win, lose=lose)
+	return win, lose
+
 def clean_leaves(tree): 
-	"""Clean out the now unneeded None values in the leaves."""
-	# Clean out unnecessary None values
+	"""Clean out the now unneeded None and 'ma depth' values in the leaves."""
+#	if tree == 'max depth': 
+#		return 'max depth'
+	# Clean out unnecessary None and 'max depth' values
 	for i in tree.keys(): 
 		# if we hit a leaf, turn the list into its probability value only. 
-		if tree[i][1] is None:
+		if tree[i][1] is None or tree[i][1] == 'max depth':
 			tree[i] = tree[i][0]
 		# else turn the list into the subtree and move into the subtree
 		else: 
 			tree[i] = tree[i][1]
 			clean_leaves(tree[i])
-	
 	return tree
 
-def remove_low_prob(tree, threshold=0.005): 
+def remove_low_prob(tree, threshold=0.01): 
 	"""Remove all branches with only leaves which have a probability below the threshold."""
+	if tree == 'max depth': 
+		return 'max depth'
 	for i in tree.keys(): 
 		# remove low probability items
 		if tree[i] < threshold: 
@@ -207,7 +235,7 @@ def remove_low_prob(tree, threshold=0.005):
 			del tree[i]
 	return tree
 
-def generate_tree(chars=[average_char, average_char]):
+def generate_tree(chars=[average_char, average_char], min_prob=0.005):
 	"""Generate a clean probability tree.
 
 	#>>> pprint(generate_tree())
@@ -215,8 +243,11 @@ def generate_tree(chars=[average_char, average_char]):
 	tree = generate_result(chars=chars)
 	tree = clean_tree(tree)
 	tree = aggregate_tree(tree)
+	win, lose = prob_to_win_or_lose(tree)
 	tree = clean_leaves(tree)
-	return remove_low_prob(tree)
+	tree = remove_low_prob(tree, threshold=min_prob)
+	return win, lose
+
 
 ### Self Test ###
 
@@ -226,5 +257,17 @@ def _test():
 
 if __name__ == "__main__": 
 	_test()
-	print "Exceptional char (18) vs. average char (12)"
+	print "Very good char (15) vs. average char (12)"
+	pprint(generate_tree(chars=[very_good_char, average_char]))
+
+	print "\nExceptional char (18) vs. average char (12)"
 	pprint(generate_tree(chars=[exceptional_char, average_char]))
+
+	print "\nVery good char (15) vs. average char in strong armor (12, armor " + str(average_char_in_strong_armor['armor']) + ")"
+	pprint(generate_tree(chars=[very_good_char, average_char_in_strong_armor]))
+
+	print "\nVery good char (15) vs. average char with powerful weapon (12, weapon " + str(average_char_with_strong_weapon['weapon']) + ")"
+	pprint(generate_tree(chars=[very_good_char, average_char_with_strong_weapon]))
+
+	print "\nVery good char (15) vs. sturdy char (12, wound threshold " + str(sturdy_char['wound']) + ")"
+	pprint(generate_tree(chars=[very_good_char, sturdy_char]))
