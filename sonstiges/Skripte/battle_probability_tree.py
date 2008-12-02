@@ -55,13 +55,14 @@ Ideas:
 	return hits / rolls
 
 
-def generate_result(chars=[sample_char, sample_char], depth=0):
+def generate_result(chars=[sample_char, sample_char], depth=0, max_depth=4):
 	"""Generate the probability tree iteratively.
 
 	>>> # pprint(generate_result())
 
 """
-	if chars[0]['ability'] <= 0 or chars[1]['ability'] <= 0 or depth>=3: 
+	# Stop the recursion when we get too deep or one of the chars can't fight anymore. 
+	if chars[0]['ability'] <= 0 or chars[1]['ability'] <= 0 or depth>=max_depth: 
 		return None
 	result = {}
 	result['chars'] = chars
@@ -115,7 +116,8 @@ def generate_result(chars=[sample_char, sample_char], depth=0):
 	return result
 
 def clean_tree(tree): 
-	"""Clean the probbility tree for display."""
+	"""Clean the probability tree for display."""
+	# Stop the recursion when we get a leaf
 	if tree is None: 
 		return None
 	del tree['chars']
@@ -123,13 +125,45 @@ def clean_tree(tree):
 		i[1] = clean_tree(i[1])
 	return tree
 
-def generate_clean_tree(chars=[sample_char, sample_char]):
+def aggregate_tree(tree, prob=1.0): 
+	"""Aggregate the probabilities in each subtree into a combined probability."""
+	# Stop the recursion when we get a leaf
+	if tree is None: 
+		return None
+	# aggregate the tree
+	for i in tree.values(): 
+		# aggregate the earlier probabilities
+		i[0] *= prob
+		# and aggregate the subtree
+		i[1] = aggregate_tree(i[1], i[0])
+	
+	return tree
+
+def clean_leaves(tree): 
+	"""Clean out the now unneeded None values in the leaves."""
+	for i in tree: 
+		# if we hit a leaf, turn the list into its probability value only. 
+		if tree[i][1] is None:
+			tree[i] = tree[i][0]
+		# else go into the subtree
+		else: 
+			clean_leaves(tree[i][1])
+	return tree
+	
+
+def stringify_tree(tree): 
+	"""Turn the tree into result strings."""
+	pass
+
+def generate_tree(chars=[sample_char, sample_char]):
 	"""Generate a clean probability tree.
 
-	>>> pprint(generate_clean_tree())
+	>>> pprint(generate_tree())
 """
 	tree = generate_result(chars=chars)
-	return clean_tree(tree)
+	tree = clean_tree(tree)
+	tree = aggregate_tree(tree)
+	return clean_leaves(tree)
 
 ### Self Test ###
 
