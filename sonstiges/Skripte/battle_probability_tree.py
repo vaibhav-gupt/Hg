@@ -9,13 +9,6 @@ from pprint import pprint
 
 """Calculate probability trees for different 1d6 battles.
 
-Plan - done: 
-- sample dicts
-- dice difference calculator (chances for a difference)
-- get chances for the different results
-- build single result dict with probs
-- build battle tree with final probs
-
 Simplifications: 
 - A char fights as long as his ability is above a certain threshold (MIN_ABILITY). 
 - A critical wound always ends the battle. 
