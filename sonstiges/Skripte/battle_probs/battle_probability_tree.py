@@ -302,25 +302,25 @@ def _test():
 	from doctest import testmod
 	testmod()
 
-def test_battle_length(): 
+def test_battle_length(turns=5): 
 	"""Test the results for different battle length'"""
 	print "Test battle length"
 	print "Average char (12) vs. average char (12)"
-	for i in range(5): 
+	for i in range(turns): 
 		win, lose = generate_tree(chars=[average_char, average_char], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 	print "\nVery good char (15) vs. average char (12)"
-	for i in range(5): 
+	for i in range(turns): 
 		win, lose = generate_tree(chars=[very_good_char, average_char], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 	print "\nExceptional char (18) vs. average char (12)"
-	for i in range(5): 
+	for i in range(turns): 
 		win, lose = generate_tree(chars=[exceptional_char, average_char], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 	print "\nLegend (24, weapon " + str(legendary_char['weapon']) + ", armor " + str(legendary_char['armor']) + ")", 
 	print "vs.", 
 	print "Space Marine (15, weapon " + str(space_marine['weapon']) + ", armor " + str(space_marine['armor']) + ", wound threshold " + str(space_marine['wound']) + ")"
-	for i in range(9): 
+	for i in range(turns): 
 		win, lose = generate_tree(chars=[legendary_char, space_marine], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
@@ -379,6 +379,9 @@ def help():
 	print "Usage:", argv[0], "[options] [chars]"
 	print ""
 	print "Examples: "
+	print ' -', argv[0], "--help"
+	print "   Print this help message"
+	print ""
 	print ' -', argv[0]
 	print "   Do the default tests"
 	print ""
@@ -389,6 +392,7 @@ def help():
 	print ' - ', argv[0], " --turns=X"
 	print "   Let the Chars fight for the given number of turns."
 	print "   You can find example chars in the folder 'battle_prob_chars'"
+
 
 if __name__ == "__main__": 
 	_test()
@@ -410,7 +414,7 @@ if __name__ == "__main__":
 	# parse all opts
 	for i in argv[:]: 
 		if i.startswith("--turns"): 
-			turns = int(i[6:])
+			turns = int(i[8:])
 			argv.remove(i)
 	
 	if len(argv) >= 3: 
@@ -418,8 +422,8 @@ if __name__ == "__main__":
 		print "\n" + char1['name'] + "(" + str(char1['ability']) + ", weapon " + str(char1['weapon']) + ", armor " + str(char1['armor']) + ", wound threshold " + str(char1['wound']) + ")", 
  		print "vs.", 
 		print char2['name'] + "(" + str(char2['ability']) + ", weapon " + str(char2['weapon']) + ", armor " + str(char2['armor']) + ", wound threshold " + str(char2['wound']) + ")" 
-		for turns in range(8): 
-			win, lose = generate_tree(chars=[char1, char2], number_of_turns=turns)
-			print "  Probs after", turns, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+		for i in range(turns+1): 
+			win, lose = generate_tree(chars=[char1, char2], number_of_turns=i)
+			print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 
