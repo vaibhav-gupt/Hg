@@ -69,7 +69,7 @@ average_char_with_strong_weapon_and_armor = {'ability':12, # average
 }
 
 legendary_char = {'ability':24, # legendary
-'weapon':18, # sonic blade
+'weapon':24, # sonic blade
 'armor':10, # light combat armor
 'wound':4 # wound value
 }
@@ -313,7 +313,7 @@ def test_battle_length():
 	for i in range(5): 
 		win, lose = generate_tree(chars=[very_good_char, average_char], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
-	print "\nExceptional char (15) vs. average char (12)"
+	print "\nExceptional char (18) vs. average char (12)"
 	for i in range(5): 
 		win, lose = generate_tree(chars=[exceptional_char, average_char], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
