@@ -419,9 +419,9 @@ if __name__ == "__main__":
 	
 	if len(argv) >= 3: 
 		char1, char2 = read_chars_from_files(argv[-2], argv[-1])
-		print "\n" + char1['name'] + "(" + str(char1['ability']) + ", weapon " + str(char1['weapon']) + ", armor " + str(char1['armor']) + ", wound threshold " + str(char1['wound']) + ")", 
+		print "\n" + char1['name'] + " (" + str(char1['ability']) + ", weapon " + str(char1['weapon']) + ", armor " + str(char1['armor']) + ", wound threshold " + str(char1['wound']) + ")", 
  		print "vs.", 
-		print char2['name'] + "(" + str(char2['ability']) + ", weapon " + str(char2['weapon']) + ", armor " + str(char2['armor']) + ", wound threshold " + str(char2['wound']) + ")" 
+		print char2['name'] + " (" + str(char2['ability']) + ", weapon " + str(char2['weapon']) + ", armor " + str(char2['armor']) + ", wound threshold " + str(char2['wound']) + ")" 
 		for i in range(turns+1): 
 			win, lose = generate_tree(chars=[char1, char2], number_of_turns=i)
 			print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
