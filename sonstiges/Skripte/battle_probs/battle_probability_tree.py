@@ -15,6 +15,36 @@ Simplifications:
 
 """
 
+### Help message ###
+
+def help(): 
+	"""Print help."""
+	from sys import argv
+	print "Usage:", argv[0], "[options] [chars]"
+	print ""
+	print "Examples: "
+	print ""
+	print ' -', argv[0], "--help"
+	print "   Print this help message"
+	print ""
+	print ' -', argv[0]
+	print "   Do the default tests"
+	print ""
+	print ' -', argv[0], "char1 char2"
+	print "   Let the two given chars fight against each other."
+	print "   You can find example chars in the folder 'battle_prob_chars'"
+	print ""
+	print ' -', argv[0], "--turns=X char1 char2"
+	print "   Let the Chars fight for the given number of turns."
+	print "   You can find example chars in the folder 'battle_prob_chars'"
+
+if __name__ == "__main__": 
+	from sys import argv
+	if "--help" in argv: 
+		help()
+		exit()
+
+
 ### Config ###
 
 #: The maximum depth of the battle tree
@@ -373,36 +403,9 @@ def read_chars_from_files(char1, char2):
 	return char1, char2
 
 
-def help(): 
-	"""Print help."""
-	from sys import argv
-	print "Usage:", argv[0], "[options] [chars]"
-	print ""
-	print "Examples: "
-	print ""
-	print ' -', argv[0], "--help"
-	print "   Print this help message"
-	print ""
-	print ' -', argv[0]
-	print "   Do the default tests"
-	print ""
-	print ' -', argv[0], "char1 char2"
-	print "   Let the two given chars fight against each other."
-	print "   You can find example chars in the folder 'battle_prob_chars'"
-	print ""
-	print ' - ', argv[0], "--turns=X char1 char2"
-	print "   Let the Chars fight for the given number of turns."
-	print "   You can find example chars in the folder 'battle_prob_chars'"
-
-
 if __name__ == "__main__": 
 	_test()
 
-	from sys import argv
-	if "--help" in argv: 
-		help()
-		exit()
-	
 	#: The default number of turns
 	turns = MAX_DEPTH
 	
