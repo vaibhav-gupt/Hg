@@ -32,11 +32,11 @@ def help():
 	print ' -', argv[0]
 	print "   Do the default tests"
 	print ""
-	print ' -', argv[0], "char1 char2"
+	print ' -', argv[0], "charfile1 charfile2"
 	print "   Let the two given chars fight against each other."
 	print "   You can find example chars in the folder 'battle_prob_chars'"
 	print ""
-	print ' -', argv[0], "--turns=X char1 char2"
+	print ' -', argv[0], "--turns=X charfile1 charfile2"
 	print "   Let the Chars fight for the given number of turns."
 	print "   You can find example chars in the folder 'battle_prob_chars'"
 
