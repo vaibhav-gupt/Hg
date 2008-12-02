@@ -76,7 +76,7 @@ legendary_char = {'ability':24, # legendary
 
 space_marine = {'ability':15, # very good
 'weapon':36, # laser sword
-'armor':30, # light battle suit
+'armor':36, # light battle suit
 'wound':5 # wound value
 }
 
@@ -319,7 +319,7 @@ def test_battle_length():
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 	print "\nLegend (24, weapon " + str(legendary_char['weapon']) + ", armor " + str(legendary_char['armor']) + ")", 
 	print "vs.", 
-	print "Space Marine (15, weapon " + str(space_marine['weapon']) + ", armor " + str(space_marine['armor']) + ")"
+	print "Space Marine (15, weapon " + str(space_marine['weapon']) + ", armor " + str(space_marine['armor']) + ", wound threshold " + str(space_marine['wound']) + ")"
 	for i in range(9): 
 		win, lose = generate_tree(chars=[legendary_char, space_marine], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
@@ -358,10 +358,68 @@ def test_example_battles():
 	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 
+def read_chars_from_files(char1, char2): 
+	"""Read the chars from simple files which get evaled (insecure!)."""
+	f = open(char1, "r")
+	data = f.read()
+	f.close()
+	char1 = eval(data)
+
+	f = open(char2, "r")
+	data = f.read()
+	f.close()
+	char2 = eval(data)
+
+	return char1, char2
+
+
+def help(): 
+	"""Print help."""
+	from sys import argv
+	print "Usage:", argv[0], "[options] [chars]"
+	print ""
+	print "Examples: "
+	print ' -', argv[0]
+	print "   Do the default tests"
+	print ""
+	print ' -', argv[0], " char1 char2"
+	print "   Let the two given chars fight against each other."
+	print "   You can find example chars in the folder 'battle_prob_chars'"
+	print ""
+	print ' - ', argv[0], " --turns=X"
+	print "   Let the Chars fight for the given number of turns."
+	print "   You can find example chars in the folder 'battle_prob_chars'"
+
 if __name__ == "__main__": 
 	_test()
+
+	from sys import argv
+	if "--help" in argv: 
+		help()
+		exit()
 	
-	test_battle_length()
-	test_example_battles()
+	#: The default number of turns
+	turns = MAX_DEPTH
+	
+	if len(argv) == 1: 	
+		# do the default tests
+		test_battle_length()
+		test_example_battles()
+		exit()
+
+	# parse all opts
+	for i in argv[:]: 
+		if i.startswith("--turns"): 
+			turns = int(i[6:])
+			argv.remove(i)
+	
+	if len(argv) >= 3: 
+		char1, char2 = read_chars_from_files(argv[-2], argv[-1])
+		print "\n" + char1['name'] + "(" + str(char1['ability']) + ", weapon " + str(char1['weapon']) + ", armor " + str(char1['armor']) + ", wound threshold " + str(char1['wound']) + ")", 
+ 		print "vs.", 
+		print char2['name'] + "(" + str(char2['ability']) + ", weapon " + str(char2['weapon']) + ", armor " + str(char2['armor']) + ", wound threshold " + str(char2['wound']) + ")" 
+		for turns in range(8): 
+			win, lose = generate_tree(chars=[char1, char2], number_of_turns=turns)
+			print "  Probs after", turns, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 
