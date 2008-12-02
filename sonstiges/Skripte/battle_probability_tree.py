@@ -9,12 +9,16 @@ from pprint import pprint
 
 """Calculate probability trees for different 1d6 battles.
 
-Plan: 
+Plan - done: 
 - sample dicts
 - dice difference calculator (chances for a difference)
 - get chances for the different results
 - build single result dict with probs
 - build battle tree with final probs
+
+Simplifications: 
+- A char fights as long as his ability is above a certain threshold (MIN_ABILITY). 
+- A critical wound always ends the battle. 
 
 """
 
@@ -70,6 +74,19 @@ average_char_with_strong_weapon_and_armor = {'ability':12, # average
 'armor':10, # full plate
 'wound':4 # wound value
 }
+
+legendary_char = {'ability':24, # legendary
+'weapon':18, # sonic blade
+'armor':10, # light combat armor
+'wound':4 # wound value
+}
+
+space_marine = {'ability':15, # very good
+'weapon':36, # laser sword
+'armor':30, # light battle suit
+'wound':5 # wound value
+}
+
 
 die = [-5, -3, -1, 2, 4, 6]
 
@@ -292,18 +309,31 @@ def _test():
 	from doctest import testmod
 	testmod()
 
-if __name__ == "__main__": 
-	_test()
-	print "Test different battle length"
-	print "Very good char (15) vs. average char (12)"
-	for i in range(8): 
-		win, lose = generate_tree(chars=[very_good_char, average_char], number_of_turns=i)
-		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
-	print "\nAverage char (12) vs. average char (12)"
-	for i in range(8): 
+def test_battle_length(): 
+	"""Test the results for different battle length'"""
+	print "Test battle length"
+	print "Average char (12) vs. average char (12)"
+	for i in range(5): 
 		win, lose = generate_tree(chars=[average_char, average_char], number_of_turns=i)
 		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+	print "\nVery good char (15) vs. average char (12)"
+	for i in range(5): 
+		win, lose = generate_tree(chars=[very_good_char, average_char], number_of_turns=i)
+		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+	print "\nExceptional char (15) vs. average char (12)"
+	for i in range(5): 
+		win, lose = generate_tree(chars=[exceptional_char, average_char], number_of_turns=i)
+		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+	print "\nLegend (24, weapon " + str(legendary_char['weapon']) + ", armor " + str(legendary_char['armor']) + ")", 
+	print "vs.", 
+	print "Space Marine (15, weapon " + str(space_marine['weapon']) + ", armor " + str(space_marine['armor']) + ")"
+	for i in range(9): 
+		win, lose = generate_tree(chars=[legendary_char, space_marine], number_of_turns=i)
+		print "  Probs after", i, "turns:", "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
+
+def test_example_battles(): 
+	"""Run several example battles for the number of turns given in MAX_DEPTH."""
 	print "\n\nProbs after", MAX_DEPTH, "turns:"
 
 	print "\nVery good char (15) vs. average char (12) without critical hits"
@@ -333,5 +363,12 @@ if __name__ == "__main__":
 	print "\nExceptional char (18) vs. average char with powerful weapon (12, weapon " + str(average_char_with_strong_weapon_and_armor['weapon']) + ") and strong armor (armor " + str(average_char_with_strong_weapon_and_armor['armor']) + ")"
 	win, lose = generate_tree(chars=[exceptional_char, average_char_with_strong_weapon_and_armor])
 	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+
+
+if __name__ == "__main__": 
+	_test()
+	
+	test_battle_length()
+	test_example_battles()
 
 
