@@ -1,0 +1,6 @@
+{'name': "Kalem", # charname
+'ability': 24, # legendary
+'weapon': 6, # staff
+'armor': 20, # Chrome armor
+'wound': 4 # average wound threshold
+}
