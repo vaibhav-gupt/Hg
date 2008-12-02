@@ -20,6 +20,8 @@ Simplifications:
 def help(): 
 	"""Print help."""
 	from sys import argv
+	print """### Battle Prob Tree: Calculate probability trees for different 1d6 battles ###"""
+	print ""
 	print "Usage:", argv[0], "[options] [chars]"
 	print ""
 	print "Examples: "
