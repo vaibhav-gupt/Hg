@@ -21,7 +21,7 @@ Plan:
 ### Config ###
 
 #: The maximum depth of the battle tree
-MAX_DEPTH = 8
+MAX_DEPTH = 6
 
 
 ### Constants ###
@@ -64,6 +64,22 @@ average_char_with_strong_weapon = {'ability':12, # average
 
 die = [-5, -3, -1, 2, 4, 6]
 
+# die with rerolling
+double_die = 6*die
+double_die[0] = -10
+double_die[-1] = 12
+
+triple_die = 6*double_die
+triple_die[0] = -15
+triple_die[-1] = 18
+
+quadruple_die = 6*triple_die
+quadruple_die[0] = -20
+quadruple_die[-1] = 24
+
+quintuple_die = 6*quadruple_die
+quintuple_die[0] = -25
+quintuple_die[-1] = 30
 
 ### Functions ###
 
@@ -79,11 +95,12 @@ Ideas:
 """
 	hits=0
 	rolls=0
-	for i in die: 
+	for i in quintuple_die: 
 		for j in die: 
 			rolls += 1
 			if i - j >= diff:
 				hits += 1
+				
 	return hits / rolls
 
 
@@ -257,17 +274,25 @@ def _test():
 
 if __name__ == "__main__": 
 	_test()
+
+	print "Probs after", MAX_DEPTH, "turns:"
+
 	print "Very good char (15) vs. average char (12)"
-	pprint(generate_tree(chars=[very_good_char, average_char]))
+	win, lose = generate_tree(chars=[very_good_char, average_char])
+	print "Win:", win, "Lose:", lose
 
 	print "\nExceptional char (18) vs. average char (12)"
-	pprint(generate_tree(chars=[exceptional_char, average_char]))
+	win, lose = generate_tree(chars=[exceptional_char, average_char])
+	print "Win:", win, "Lose:", lose
 
 	print "\nVery good char (15) vs. average char in strong armor (12, armor " + str(average_char_in_strong_armor['armor']) + ")"
-	pprint(generate_tree(chars=[very_good_char, average_char_in_strong_armor]))
+	win, lose = generate_tree(chars=[very_good_char, average_char_in_strong_armor])
+	print "Win:", win, "Lose:", lose
 
 	print "\nVery good char (15) vs. average char with powerful weapon (12, weapon " + str(average_char_with_strong_weapon['weapon']) + ")"
-	pprint(generate_tree(chars=[very_good_char, average_char_with_strong_weapon]))
+	win, lose = generate_tree(chars=[very_good_char, average_char_with_strong_weapon])
+	print "Win:", win, "Lose:", lose
 
 	print "\nVery good char (15) vs. sturdy char (12, wound threshold " + str(sturdy_char['wound']) + ")"
-	pprint(generate_tree(chars=[very_good_char, sturdy_char]))
+	win, lose = generate_tree(chars=[very_good_char, sturdy_char])
+	print "Win:", win, "Lose:", lose
