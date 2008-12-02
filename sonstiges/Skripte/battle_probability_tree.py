@@ -47,7 +47,7 @@ exceptional_char = {'ability':18, # average
 sturdy_char = {'ability':12, # average
 'weapon':4, # sword
 'armor':3, # leather armor
-'wound':8 # wound value
+'wound':10 # wound value
 }
 
 average_char_in_strong_armor = {'ability':12, # average
@@ -57,8 +57,14 @@ average_char_in_strong_armor = {'ability':12, # average
 }
 
 average_char_with_strong_weapon = {'ability':12, # average
-'weapon':10, # heavy double axe
+'weapon':14, # very heavy battle axe
 'armor':3, # leather armor
+'wound':4 # wound value
+}
+
+average_char_with_strong_weapon_and_armor = {'ability':12, # average
+'weapon':12, # very heavy battle axe
+'armor':10, # full plate
 'wound':4 # wound value
 }
 
@@ -287,25 +293,30 @@ if __name__ == "__main__":
 
 	print "Very good char (15) vs. average char (12) without critical hits"
 	win, lose = generate_tree(chars=[very_good_char, average_char], die=die)
-	print "Win:", win, "Lose:", lose
+	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 	print "Very good char (15) vs. average char (12)"
 	win, lose = generate_tree(chars=[very_good_char, average_char])
-	print "Win:", win, "Lose:", lose
+	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 	print "\nExceptional char (18) vs. average char (12)"
 	win, lose = generate_tree(chars=[exceptional_char, average_char])
-	print "Win:", win, "Lose:", lose
+	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 	print "\nVery good char (15) vs. average char in strong armor (12, armor " + str(average_char_in_strong_armor['armor']) + ")"
 	win, lose = generate_tree(chars=[very_good_char, average_char_in_strong_armor])
-	print "Win:", win, "Lose:", lose
+	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 	print "\nVery good char (15) vs. average char with powerful weapon (12, weapon " + str(average_char_with_strong_weapon['weapon']) + ")"
 	win, lose = generate_tree(chars=[very_good_char, average_char_with_strong_weapon])
-	print "Win:", win, "Lose:", lose
+	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
 
 	print "\nVery good char (15) vs. sturdy char (12, wound threshold " + str(sturdy_char['wound']) + ")"
 	win, lose = generate_tree(chars=[very_good_char, sturdy_char])
-	print "Win:", win, "Lose:", lose
+	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+
+	print "\nExceptional char (18) vs. average char with powerful weapon (12, weapon " + str(average_char_with_strong_weapon_and_armor['weapon']) + ") and strong armor (armor " + str(average_char_with_strong_weapon_and_armor['armor']) + ")"
+	win, lose = generate_tree(chars=[exceptional_char, average_char_with_strong_weapon_and_armor])
+	print "Win:", win, "Lose:", lose, "Draw:", 1 - (win+lose)
+
 
