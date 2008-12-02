@@ -190,7 +190,7 @@ win_wound by win_critical and the same for lose.
 	# hit at all and the chance to archieve a critical wound. 
 	res = []
 	res.append(min(dice_diff_prob(diff = char_1 - char_0 + 3*chars[1]['wound'], die=die), 
-		dice_diff_prob(diff = chars[0]['ability'] - chars[1]['ability'], die=die)))
+		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)))
 	res.append(None)
 	result['win_critical'] = res 
 
