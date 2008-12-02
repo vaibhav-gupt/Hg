@@ -145,15 +145,12 @@ def clean_leaves(tree):
 		# if we hit a leaf, turn the list into its probability value only. 
 		if tree[i][1] is None:
 			tree[i] = tree[i][0]
-		# else go into the subtree
+		# else turn the list into the subtree and move into the subtree
 		else: 
-			clean_leaves(tree[i][1])
+			tree[i] = tree[i][1]
+			clean_leaves(tree[i])
 	return tree
 	
-
-def stringify_tree(tree): 
-	"""Turn the tree into result strings."""
-	pass
 
 def generate_tree(chars=[sample_char, sample_char]):
 	"""Generate a clean probability tree.
