@@ -4,66 +4,66 @@ Hi David,
 
 Erstmal danke fuer deine Rezension im Envoyer! 
 
-Deine Kritik nehmen wir uns zu Herzen um die 
-naechste Version besser zu machen. 
+Deine Kritik nehmen wir uns zu Herzen um die nächste Version besser zu machen. 
 
 Deswegen habe ich ein paar Fragen und wuerde mich freuen, wenn du dir einen Moment 
-Zeit nehmen wuerdest, um sie zu beantworten, damit wir daran arbeiten 
-koennen. 
+Zeit nehmen wuerdest, um sie zu beantworten. Auf die Art können wir daran arbeiten. 
 
-Die erste und mir persoenlich wichtigste Frage: Welche Texte musstest du mehrfach 
+Die erste und mir persönlich wichtigste Frage: Welche Texte musstest du mehrfach 
 lesen? 
-War es eher ein allgemeines Problem (zum Beispiel mit meinem Schreibstil) 
-oder kannst du mir ein paar konkrete Stellen schreiben?
+War es einfach der grundlegende Schreibstil, oder kannst du mir ein paar konkrete 
+Stellen schreiben?
 
-Deine Kurzbeschreibung des Ablaufs von Proben hat mir uebrigens gut gefallen. Du 
-hast in vier Saetzen auf den Punkt gebracht, was ich nur mit deutlich mehr 
-Text beschreiben konnte (und "Augenzahl" ist toll!). 
+Deine Kurzbeschreibung des Ablaufs von Proben hat mir übrigens gut gefallen. Du 
+hast in vier Sätzen auf den Punkt gebracht, was ich nur mit deutlich mehr 
+Text beschreiben konnte (und "Augenzahl" ist toll! - es mag naheliegend sein, 
+aber ich hatte es beim Schreiben nicht gesehen). 
 
-Dann gibt es ein paar Aspekte des EWS, die uns (und mir persoenlich) wichtig sind, 
-die du allerdings aus der Rezension drauszen gelassen hast. Bei ihnen wuerde ich 
-gerne wissen warum. Sind sie fuer den Leser einer Rezension unwichtig, sind sie 
+Dann gibt es ein paar Aspekte des EWS, die uns (und mir persönlich) wichtig sind, 
+die du allerdings aus der Rezension draußen gelassen hast. Bei ihnen würde ich 
+gerne wissen warum. Sind sie für den Leser einer Rezension unwichtig, sind sie 
 einfach zu unklar beschrieben oder findest du sie generell nicht relevant (oder 
 hat es einen anderen Grund)?  
 
-Die wichtigsten Beispiele sind: 
+Die wichtigsten Beispiele dafür sind: 
 
-* Nicht nur die Fertigkeiten, sondern auch die Eigenschaften werden frei gewaehlt, 
-und Spieler suchen sich fuer jede Fertigkeit aus, welche zwei Eigenschaften sie 
-dafuer verwenden wollen (was die eigentliche Neuerung ist, weil diese 
-Eigenschaften der Fertigkeit zusaetzliche Farbe geben). 
+* Nicht nur die Fertigkeiten, sondern auch die Eigenschaften werden frei gewählt, 
+und Spieler suchen sich für jede Fertigkeit aus, auf welchen zwei Eigenschaften
+sie aufbauen soll (was die eigentliche Neuerung ist, weil diese 
+Eigenschaften der Fertigkeit zusätzliche Farbe geben). 
 
-* Fuer komplexeren Kampf (nicht nur ein Wurf pro Konfrontation) ist ein Modul 
-direkt im Anhang des Heftes (Das Fokusmodul Kampf). Grund: Viele Runden wollen 
-komplexeren Kampf, aber fuer das Grundsystem sollte sich der regeltechnische 
-Aufwand fuer einen Kampf erstmal nicht von dem fuer ein Kochduell unterscheiden. 
+* Für komplexeren Kampf (nicht nur ein Wurf pro Konfrontation) ist ein Modul 
+direkt im Anhang des Heftes (das Fokusmodul Kampf). Grund: Viele Runden wollen 
+komplexeren Kampf, aber für das Grundsystem sollte sich der regeltechnische 
+Aufwand für einen Kampf erstmal nicht von dem für ein Kochduell unterscheiden 
+(Ziel: Fokusneutralität). 
 
-* Das EWS ist frei lizensiert, das heiszt, jeder kann es direkt verwenden und 
-auch in eigene Hefte einbinden. Dafuer gibt es auch alle Quelldateien im Netz 
+* Das EWS ist frei lizensiert, das heißt, jeder kann es direkt verwenden und 
+auch in eigene Hefte einbinden. Dafür gibt es auch alle Quelldateien im Netz 
 (http://quellen.1w6.org). 
 
 * In EWS Runden kann direkt Quellmaterial aus Gurps und Fudge verwendet werden. 
 
 
-Deine Rezension hat mir uebrigens schon jetzt einen Kapitalfehler aufgezeigt: Wir 
-haben nirgendwo geschrieben, was eigentlich die Zielsetzung des Grundregelerks 
+Deine Rezension hat mir übrigens schon jetzt einen Kapitalfehler aufgezeigt: Wir 
+haben nirgendwo geschrieben, was eigentlich die Zielsetzung des Grundregelwerks 
 ist: Eine stabile, flexible und minimale Grundlage zu liefern, auf die 
-andere Werke aufbauen koennen. Sie muss sowohl One-Shots als auch lange 
-Kampagnen ermoeglichen. 
+andere Werke aufbauen koennen. 
+Sie muss dabei One-Shots genauso gut ermöglichen wie lange Kampagnen. 
 
 Es steht auf der ersten Seite, was die Zielsetzung des EWS allgemein ist. Bisher 
-steht aber nirgendwo, was das Grundregelwerk selbst eigentlich erreichen soll. 
+steht aber nirgendwo, was das Grundregelwerk selbst eigentlich erreichen will. 
 
-Allein schon das ist Grund genug fuer eine neue Version. 
+Allein schon das ist Grund genug für eine neue Version. 
 
 
-Und auch wenn dir das EWS nicht gefallen hat: Danke dass du dir die Zeit fuer die 
+Und auch wenn dir das EWS nicht gefallen hat: Danke dass du dir die Zeit für die 
 Rezension genommen hast. 
 
-Liebe Gruesze, 
+Viele Grüße, 
 Arne
 
 PS: Was ich auf jeden Fall gelernt habe: Wir sollten nicht nur in der Gruppe 
-arbeiten, sondern auch im Fera und anderen Foren diskutieren, um zu den 
-Heften Rueckmeldung von Leuten zu bekommen, die das EWS noch nicht gespielt haben 
-und die auch nicht mit drin haengen. 
+arbeiten, sondern auch im Fera und/oder anderen Foren diskutieren, um zu den 
+Heften Rückmeldung von Leuten zu bekommen, die das EWS noch nicht gespielt haben 
+und die auch nicht mit drin hängen. 
