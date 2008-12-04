@@ -2,12 +2,12 @@
 
 Hi David, 
 
-Erstmal danke fuer deine Rezension im Envoyer! 
+Erstmal danke für deine Rezension im Envoyer! 
 
 Deine Kritik nehmen wir uns zu Herzen um die nächste Version besser zu machen. 
 
-Deswegen habe ich ein paar Fragen und wuerde mich freuen, wenn du dir einen Moment 
-Zeit nehmen wuerdest, um sie zu beantworten. Auf die Art können wir daran arbeiten. 
+Deswegen habe ich ein paar Fragen und würde mich freuen, wenn du dir einen Moment 
+Zeit nehmen würdest, um sie zu beantworten. Auf die Art können wir daran arbeiten. 
 
 Die erste und mir persönlich wichtigste Frage: Welche Texte musstest du mehrfach 
 lesen? 
@@ -33,7 +33,7 @@ sie aufbauen soll (was die eigentliche Neuerung ist, weil diese
 Eigenschaften der Fertigkeit zusätzliche Farbe geben). 
 
 * Für komplexeren Kampf (nicht nur ein Wurf pro Konfrontation) ist ein Modul 
-direkt im Anhang des Heftes (das Fokusmodul Kampf). Grund: Viele Runden wollen 
+direkt im Anhang des Heftes (das "Fokusmodul Kampf"). Grund: Viele Runden wollen 
 komplexeren Kampf, aber für das Grundsystem sollte sich der regeltechnische 
 Aufwand für einen Kampf erstmal nicht von dem für ein Kochduell unterscheiden 
 (Ziel: Fokusneutralität). 
@@ -49,7 +49,7 @@ Deine Rezension hat mir übrigens schon jetzt einen Kapitalfehler aufgezeigt: Wi
 haben nirgendwo geschrieben, was eigentlich die Zielsetzung des Grundregelwerks 
 ist: Eine stabile, flexible und minimale Grundlage zu liefern, auf die 
 andere Werke aufbauen können. 
-Sie muss dabei One-Shots genauso gut ermöglichen wie lange Kampagnen. 
+Es muss dabei One-Shots genauso gut ermöglichen wie lange Kampagnen. 
 
 Es steht auf der ersten Seite, was die Zielsetzung des EWS allgemein ist. Bisher 
 steht aber nirgendwo, was das Grundregelwerk selbst eigentlich erreichen will. 
