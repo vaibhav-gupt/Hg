@@ -1,0 +1,6 @@
+{'name': "Sskreszta", # charname
+'ability': 14, # good
+'weapon': 2, # knife
+'armor': 1, # pilot suit
+'wound': 4 # average wound threshold
+}
