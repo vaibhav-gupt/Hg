@@ -159,7 +159,9 @@ Ideas:
 			rolls += 1
 			if i - j >= diff:
 				hits += 1
-				
+
+	if rolls == 0: 
+		rolls = 1				
 	return hits / rolls
 
 
