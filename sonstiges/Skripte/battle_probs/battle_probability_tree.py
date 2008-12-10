@@ -50,10 +50,10 @@ if __name__ == "__main__":
 ### Config ###
 
 #: The maximum depth of the battle tree
-MAX_DEPTH = 4
+MAX_DEPTH = 6
 
 #: Minimum ability to be able to keep fighting
-MIN_ABILITY = 6
+MIN_ABILITY = 3
 
 
 ### Constants ###
@@ -336,8 +336,10 @@ def _test():
 	from doctest import testmod
 	testmod()
 
-def test_battle_length(turns=5): 
+def test_battle_length(turns=6): 
 	"""Test the results for different battle length'"""
+	# Incrase the number of turns by one, so we don't count the 0th turn. 
+	turns += 1
 	print "Test battle length"
 	print "Average char (12) vs. average char (12)"
 	for i in range(turns): 
