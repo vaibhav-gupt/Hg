@@ -13,86 +13,99 @@ Das Skript berechnet die Wahrscheinlichkeiten für Sieg oder Niederlage in Kämp
 zwischen Charakteren, bei denen Fertigkeitswert, Waffe, Rüstung und Wundschwelle 
 festgelegt werden. 
 
-Es zeigt z.B., dass etwa 79% der Kämpfe zwischen Gleichen nach höchstens 5 
-Kampfhandlungen entschieden sind, also nach gerade mal 3 Kampfrunden, und dass in 3/4 
+Es zeigt z.B., dass etwa 77% der Kämpfe zwischen Gleichen nach höchstens 6
+Kampfhandlungen entschieden sind, also nach gerade mal 3 Kampfrunden, und dass in 77%
 der Kämpfe zwischen seinem sehr guten und einem durchschnittlichen Kämpfer der sehr 
-gute Kämpfer nach höchstens 5 Handlungen gewinnt, aber nur in weniger als 10% der 
+gute Kämpfer nach höchstens 6 Handlungen gewinnt, aber nur in knapp 10% der 
 Fälle verliert. 
+
+Ein überragender Charakter gewinnt gegen einen durchschnittlichen Charakter fast 50% 
+der Kämpfe nach einer einzelnen Kampfrunde. 
 
 Ein Beispiellauf des Skriptes: 
 
 <pre>
-$ python battle_probability_tree.py  
-Test battle length  
-Average char (12) vs. average char (12)  
-  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1  
-  Probs after 1 turns: Win: 0.0500257201646 Lose: 0.0500257201646 Draw: 0.899948559671  
-  Probs after 2 turns: Win: 0.0825998323426 Lose: 0.0825998323426 Draw: 0.834800335315  
-  Probs after 3 turns: Win: 0.201324522325 Lose: 0.201324522325 Draw: 0.597350955351  
-  Probs after 4 turns: Win: 0.312691194128 Lose: 0.312691194128 Draw: 0.374617611745  
-  Probs after 5 turns: Win: 0.391337555651 Lose: 0.391337555651 Draw: 0.217324888697  
-  Probs after 6 turns: Win: 0.440243095528 Lose: 0.440243095528 Draw: 0.119513808943  
+$ python battle_probability_tree.py
+Test battle length
+Average char (12) vs. average char (12)
+  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1
+  Probs after 1 turns: Win: 0.0500257201646 Lose: 0.0500257201646 Draw: 
+0.899948559671
+  Probs after 2 turns: Win: 0.0825998323426 Lose: 0.0825998323426 Draw: 
+0.834800335315
+  Probs after 3 turns: Win: 0.13314465264 Lose: 0.13314465264 Draw: 0.73371069472
+  Probs after 4 turns: Win: 0.228099438234 Lose: 0.228099438234 Draw: 0.543801123531
+  Probs after 5 turns: Win: 0.319366335834 Lose: 0.319366335834 Draw: 0.361267328333
+  Probs after 6 turns: Win: 0.387555447652 Lose: 0.387555447652 Draw: 0.224889104696
 
-Very good char (15) vs. average char (12)  
-  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1  
-  Probs after 1 turns: Win: 0.10853909465 Lose: 0.0216049382716 Draw: 0.869855967078  
-  Probs after 2 turns: Win: 0.236525491541 Lose: 0.0262768394681 Draw: 0.737197668991  
-  Probs after 3 turns: Win: 0.492245532444 Lose: 0.0330739949555 Draw: 0.4746804726  
-  Probs after 4 turns: Win: 0.66673253407 Lose: 0.0553517428028 Draw: 0.277915723127  
-  Probs after 5 turns: Win: 0.761209315114 Lose: 0.0814150962701 Draw: 0.157375588616  
-  Probs after 6 turns: Win: 0.809620898585 Lose: 0.103100857963 Draw: 0.0872782434517  
+Very good char (15) vs. average char (12)
+  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1
+  Probs after 1 turns: Win: 0.10853909465 Lose: 0.0216049382716 Draw: 0.869855967078
+  Probs after 2 turns: Win: 0.236525491541 Lose: 0.0262768394681 Draw: 0.737197668991
+  Probs after 3 turns: Win: 0.394982229404 Lose: 0.0330739949555 Draw: 0.571943775641
+  Probs after 4 turns: Win: 0.583043117362 Lose: 0.0436719898117 Draw: 0.373284892826
+  Probs after 5 turns: Win: 0.705475323711 Lose: 0.0629808921072 Draw: 0.231543784181
+  Probs after 6 turns: Win: 0.774199931003 Lose: 0.084538802759 Draw: 0.141261266238
 
-Exceptional char (18) vs. average char (12)  
-  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1  
-  Probs after 1 turns: Win: 0.248671124829 Lose: 0.00835905349794 Draw: 0.742969821674  
-  Probs after 2 turns: Win: 0.489134421201 Lose: 0.00835905349794 Draw: 0.502506525301  
-  Probs after 3 turns: Win: 0.768036596196 Lose: 0.00880498875934 Draw: 0.223158415045  
-  Probs after 4 turns: Win: 0.892460330035 Lose: 0.00953491750495 Draw: 0.0980047524605  
-  Probs after 5 turns: Win: 0.941265156069 Lose: 0.0117964541403 Draw: 0.0469383897912  
-  Probs after 6 turns: Win: 0.961064061792 Lose: 0.0147064802808 Draw: 0.0242294579269  
+Exceptional char (18) vs. average char (12)
+  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1
+  Probs after 1 turns: Win: 0.248671124829 Lose: 0.00835905349794 Draw: 
+0.742969821674
+  Probs after 2 turns: Win: 0.489134421201 Lose: 0.00835905349794 Draw: 
+0.502506525301
+  Probs after 3 turns: Win: 0.694089138364 Lose: 0.00880498875934 Draw: 
+0.297105872877
+  Probs after 4 turns: Win: 0.852631396031 Lose: 0.00953491750495 Draw: 
+0.137833686464
+  Probs after 5 turns: Win: 0.922635958899 Lose: 0.0106816159868 Draw: 
+0.0666824251146
+  Probs after 6 turns: Win: 0.951628366665 Lose: 0.0127371423598 Draw: 
+0.0356344909755
 
 Legend (24, weapon 24, armor 10) vs. Space Marine (15, weapon 36, armor 36, wound 
-threshold 5)  
-  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1  
-  Probs after 1 turns: Win: 0.00437242798354 Lose: 0.0545267489712 Draw: 0.941100823045  
-  Probs after 2 turns: Win: 0.00437242798354 Lose: 0.0777749199817 Draw: 0.917852652035  
-  Probs after 3 turns: Win: 0.00437242798354 Lose: 0.0984399608799 Draw: 0.897187611137  
-  Probs after 4 turns: Win: 0.00999871399177 Lose: 0.116808886123 Draw: 0.873192399885  
-  Probs after 5 turns: Win: 0.0237680649757 Lose: 0.133136819672 Draw: 0.843095115352  
-  Probs after 6 turns: Win: 0.0458519128667 Lose: 0.147650538382 Draw: 0.806497548751  
+threshold 5)
+  Probs after 0 turns: Win: 0 Lose: 0 Draw: 1
+  Probs after 1 turns: Win: 0.00437242798354 Lose: 0.0545267489712 Draw: 
+0.941100823045
+  Probs after 2 turns: Win: 0.00437242798354 Lose: 0.0777749199817 Draw: 
+0.917852652035
+  Probs after 3 turns: Win: 0.00437242798354 Lose: 0.0984399608799 Draw: 
+0.897187611137
+  Probs after 4 turns: Win: 0.00517618312757 Lose: 0.116808886123 Draw: 0.87801493075
+  Probs after 5 turns: Win: 0.010894090607 Lose: 0.133136819672 Draw: 0.855969089721
+  Probs after 6 turns: Win: 0.0240620171956 Lose: 0.147650538382 Draw: 0.828287444422
+
 
 Probs after 6 turns:
 
-Very good char (15) vs. average char (12) without critical hits  
-Win: 0.827867978896 Lose: 0.0820268370645 Draw: 0.0901051840399  
-Very good char (15) vs. average char (12)  
-Win: 0.809620898585 Lose: 0.103100857963 Draw: 0.087278243451 
+Very good char (15) vs. average char (12) without critical hits
+Win: 0.791038330532 Lose: 0.0631941594366 Draw: 0.145767510032
+Very good char (15) vs. average char (12)
+Win: 0.774199931003 Lose: 0.084538802759 Draw: 0.141261266238
 
-Exceptional char (18) vs. average char (12)  
-Win: 0.961064061792 Lose: 0.0147064802808 Draw: 0.0242294579269
+Exceptional char (18) vs. average char (12)
+Win: 0.951628366665 Lose: 0.0127371423598 Draw: 0.0356344909755
 
-Very good char (15) vs. average char in strong armor (12, armor 10)  
-Win: 0.170495180067 Lose: 0.169212535264 Draw: 0.66029228467
+Very good char (15) vs. average char in strong armor (12, armor 10)
+Win: 0.113604807296 Lose: 0.134066609421 Draw: 0.752328583283
 
-Very good char (15) vs. average char with powerful weapon (12, weapon 14)  
-Win: 0.550684281133 Lose: 0.448216768079 Draw: 0.00109895078806
+Very good char (15) vs. average char with powerful weapon (12, weapon 14)
+Win: 0.548245836441 Lose: 0.448216768079 Draw: 0.00353739548028
 
-Very good char (15) vs. sturdy char (12, wound threshold 10)  
-Win: 0.211788573303 Lose: 0.163483158714 Draw: 0.624728267983
+Very good char (15) vs. sturdy char (12, wound threshold 10)
+Win: 0.127951789127 Lose: 0.129439196773 Draw: 0.7426090141
 
-Exceptional char (18) vs. average char with powerful weapon (12, weapon 14) and strong armor (armor 10)  
-Win: 0.418213363971 Lose: 0.40117721942 Draw: 0.180609416609
-
+Exceptional char (18) vs. average char with powerful weapon (12, weapon 14) and 
+strong armor (armor 10)
+Win: 0.355243806909 Lose: 0.40117721942 Draw: 0.243578973671
 </pre>
-
 
 Das Skript nimmt allerdings ein paar Vereinfachungen vor, um die Wahrscheinlichkeiten 
 einfacher rechnen zu können: 
 
-* Ein Charakter hört auf zu Kämpfen, wenn seine Kampffertigkeit unter 3 fällt. 
+* Ein Charakter hört auf zu Kämpfen, wenn seine Kampffertigkeit unter 3 fällt oder er 6 oder mehr Wunden erhalten hat. 
 * Eine kritische Wunde beendet den Kampf. 
 
 Beide Punkte geben guten Kämpfern einen Bonus, da sie länger kämpfen können, bzw. 
 ihre Chance eine kritische Wunde einzustecken geringer ist. 
-
 

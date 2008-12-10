@@ -55,6 +55,8 @@ MAX_DEPTH = 6
 #: Minimum ability to be able to keep fighting
 MIN_ABILITY = 3
 
+#: Maximum number of wounds a char can take. 
+MAX_WOUNDS = 5
 
 ### Constants ###
 
@@ -175,7 +177,9 @@ win_wound by win_critical and the same for lose.
 
 """
 	# Stop the recursion when we get too deep or one of the chars can't fight anymore. 
-	if chars[0]['ability'] <= MIN_ABILITY or chars[1]['ability'] <= MIN_ABILITY: 
+	if chars[0]['ability'] < MIN_ABILITY or chars[1]['ability'] < MIN_ABILITY: 
+		return None
+	if chars[0].get('wounds', 0) > MAX_WOUNDS or chars[1].get('wounds', 0) > MAX_WOUNDS: 
 		return None
 	if depth>=max_depth: 
 		return 'max depth'
@@ -202,6 +206,7 @@ win_wound by win_critical and the same for lose.
 		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die )) - result['win_critical'][0])
 	char_changed = chars[1].copy()
 	char_changed['ability'] -= 3
+	char_changed['wounds'] = char_changed.get('wounds', 0) + 1 
 	res.append(generate_result(chars=[chars[0], char_changed], depth=depth+1, max_depth=max_depth))
 	result['win_wound'] = res
 
@@ -229,6 +234,7 @@ win_wound by win_critical and the same for lose.
 		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)) - result['lose_critical'][0])
 	char_changed = chars[0].copy()
 	char_changed['ability'] -= 3
+	char_changed['wounds'] = char_changed.get('wounds', 0) + 1
 	res.append(generate_result(chars=[char_changed, chars[1]], depth=depth+1, max_depth=max_depth))
 	result['lose_wound'] = res
 
