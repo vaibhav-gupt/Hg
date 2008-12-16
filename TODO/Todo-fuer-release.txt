@@ -1,3 +1,21 @@
+2.4.0: 
+bisher Korrekturen von Andi: 
+
+1.) kurz erklären was in den Seitenbereichen steht und wofür die verschiedenen Schriftarten stehen.
+2.) eventuell kursive schrift für Beispiele
+3.) Seite 5 vobsy wird ohne Erklärung verwendet - weglassen, erklären (eventuell mit Verweis)
+4.) warum fehlt auf Seite 5 im seitlichen Bereich die Stufe 7,8, 19,20,22,23 ?  Die - bzw + müssen erklärt werden
+5.) Warum wird die Rundung in EWS auf Seite 6 erklärt ? (ich sehe keinen Zusammenhang, würde es entweder später bei Trefferpunkten - wo man es braucht oder z.b. am Anfang in einem extra Bereich schreiben)
+6.) Kleinigkeit auf Seite 13 4. Abschnitt: "...Dabei ist hier jede Eigenschaft sehr gut,..." ich würde schreiben "...jede DER GEWÄHLTEN Eigenschaften sehr gut,..."
+7.) Seite 16 & 17 sind schwer verständlich.
+
+7.1) Seite 16 zweiter absatz "Plusse..." würde ich z.b. "Abweichungen vom Grundwert 12 bei Eigenschaften und Ferigkeiten, werdem im vobsy..." schreiben.
+7.2) eventuell wäre es hilfreich statt dem  Beruf / Einkommen text die Namen und Werte Tabelle von S.5 hier seitlich unterzubringen
+7.3) S.16 3.Absatz "Die Steigerung... kostet genau so viele Dreiecke, wie der erreichte Wert beträgt" ssehr verwirrend, denn Stufe 15 kostet nicht 15 Dreiecke. Wie viele es kostet wird nicht ganz klar, ich bin mir nicht sicher ob du 15 kostet 1 Dreieck meinst (ist ja in der Kategorie +) - dann wäre aber 16 gleichteuer ?! oder ob 15 zwei kostet, da ja jede Stufe im bereich (+) ein Dreieck kostet ?!Auf Seite 13 wird zwar gesagt ein Dreieck, aber warum darf ich dann nicht gleich 16 nehmen, hat ja auch nur (+) dahinter stehen ?!
+7.4) Allgemein solltest DU vielleicht öfter den Begriff Schwelle (den du im Fertigkeitenabsatz benutzt) verwenden.
+7.5) Seite 17 3.Absatz "...gibt ein zusätzliches + in diesem Bereich."Sollte meinem Verständnis nach entweder "...zusätzliches Dreieck in diesem Bereich." oder "...zusätzliche Eigenschaft auf (+) Niveau in diesem Bereich." lauten.
+
+
 2.0.9: 
 - Versionsnummer auf 2.2 erhöhen. 
 
