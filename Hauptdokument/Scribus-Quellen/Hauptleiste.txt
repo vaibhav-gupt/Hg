@@ -7,7 +7,7 @@ Diese Version des Regelwerks ist das Ergebnis von fünf Jahren Spieltests und ri
 Um es schlank zu  halten, ist das EWS in weiten Teilen kompatibel zu Gurps® und Fudge(tm), so dass bereits eine breite Palette an hervorragend ausgearbeiten Zusatzregeln, Vor- und Nachteilen, Magiesystemen, Wurfmodifikatoren u.ä. existiert. Quellematerial zu Gurps® und Fudge(tm) gibt es auf den offiziellen Seiten (sjgames.com und fudgerpg.com) und auf der Webseite des EWS: 1w6.org
 (gurps.1w6.org und fudge.1w6.org). 
 
-Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwerk schlank bleibt. Jedes Modul hat einen vollen Namen und eine vier Zeichen lange Abkürzung, so dass du deinen Spielern schnell zeigen kannst, welche Module du nutzt. Unter vielen Texten findest du auszerdem Tipps, welche Module für den jeweiligen bschnitt interessant sind. 
+Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwerk schlank bleibt. Jedes Modul hat einen vollen Namen und eine vier Zeichen lange Abkürzung, so dass du deinen Spielern schnell zeigen kannst, welche Module du nutzt. Unter vielen Texten findest du auszerdem Tipps, welche Module für den jeweiligen Abschnitt interessant sind. 
 
 Die meisten Module findest du auf 
 - http://module.1w6.org 
