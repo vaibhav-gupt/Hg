@@ -50,11 +50,13 @@ if __name__ == "__main__":
 ### Config ###
 
 #: The maximum depth of the battle tree
-MAX_DEPTH = 4
+MAX_DEPTH = 6
 
 #: Minimum ability to be able to keep fighting
-MIN_ABILITY = 6
+MIN_ABILITY = 3
 
+#: Maximum number of wounds a char can take. 
+MAX_WOUNDS = 5
 
 ### Constants ###
 
@@ -159,7 +161,9 @@ Ideas:
 			rolls += 1
 			if i - j >= diff:
 				hits += 1
-				
+
+	if rolls == 0: 
+		rolls = 1				
 	return hits / rolls
 
 
@@ -173,7 +177,9 @@ win_wound by win_critical and the same for lose.
 
 """
 	# Stop the recursion when we get too deep or one of the chars can't fight anymore. 
-	if chars[0]['ability'] <= MIN_ABILITY or chars[1]['ability'] <= MIN_ABILITY: 
+	if chars[0]['ability'] < MIN_ABILITY or chars[1]['ability'] < MIN_ABILITY: 
+		return None
+	if chars[0].get('wounds', 0) > MAX_WOUNDS or chars[1].get('wounds', 0) > MAX_WOUNDS: 
 		return None
 	if depth>=max_depth: 
 		return 'max depth'
@@ -200,6 +206,7 @@ win_wound by win_critical and the same for lose.
 		dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die )) - result['win_critical'][0])
 	char_changed = chars[1].copy()
 	char_changed['ability'] -= 3
+	char_changed['wounds'] = char_changed.get('wounds', 0) + 1 
 	res.append(generate_result(chars=[chars[0], char_changed], depth=depth+1, max_depth=max_depth))
 	result['win_wound'] = res
 
@@ -227,6 +234,7 @@ win_wound by win_critical and the same for lose.
 		1 - dice_diff_prob(diff = chars[1]['ability'] - chars[0]['ability'], die=die)) - result['lose_critical'][0])
 	char_changed = chars[0].copy()
 	char_changed['ability'] -= 3
+	char_changed['wounds'] = char_changed.get('wounds', 0) + 1
 	res.append(generate_result(chars=[char_changed, chars[1]], depth=depth+1, max_depth=max_depth))
 	result['lose_wound'] = res
 
@@ -334,8 +342,10 @@ def _test():
 	from doctest import testmod
 	testmod()
 
-def test_battle_length(turns=5): 
+def test_battle_length(turns=6): 
 	"""Test the results for different battle length'"""
+	# Incrase the number of turns by one, so we don't count the 0th turn. 
+	turns += 1
 	print "Test battle length"
 	print "Average char (12) vs. average char (12)"
 	for i in range(turns): 

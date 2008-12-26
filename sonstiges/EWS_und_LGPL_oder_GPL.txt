@@ -1,0 +1,248 @@
+Was würde es bedeuten, das EWS unter der LGPL zu veröffentlichen?
+=================================================================
+
+> LGPL: http://www.fsf.org/licensing/licenses/lgpl.html
+
+> *"An “Application” is any work that makes use of an interface provided by the 
+Library, but which is not otherwise based on the Library. Defining a subclass of a 
+class defined by the Library is deemed a mode of using an interface provided by the 
+Library."*
+
+Beispiel von "subclassing": Schilde sind eine Art Rüstungen. 
+
+* Darf unfrei sein: "Kraftschilde funktionieren wie Rüstungen, aber 
+abgehaltener Schaden wird von ihren Schildpunkten abgezogen. Wenn die Schildpunkte 
+auf oder unter 0 fallen bricht der Schild zusammen, schützt also nicht mehr."
+
+* Muss frei sein, wenn es Teile des Textes für Rüstungen nutzt: "Schilde reduzieren 
+den Schaden eines Treffers. Bei dem Treffer wird erst der Schildwert von dem Schaden 
+abgezogen. Der Charakter erhält nur das was übrig bleibt als Schaden. Abgehaltener 
+Schaden wird von den Schildpunkten abgezogen. Wenn die Schildpunkte auf oder unter 0 
+fallen bricht der Schild zusammen, schützt also nicht mehr."
+
+* Darf unfrei sein: "Der Coolnesswert wird von dem Schaden abgezogen, nachdem 
+alles andere verrechnet wurde."
+
+* Muss frei sein: "Der Getroffene erhält Schaden in Höhe der Differenz der erzielten 
+Werte plus dem Schadenswert der benutzten Waffe  (Schadenswürfel) abzüglich seines 
+Rüstungsschutzes und seines Coolnesswertes."
+
+Als Faustregel: "Es ist subclassing, wenn du weniger Text drucken musst, weil du auf 
+einen anderen Teil verweisen kannst."
+
+> *"A “Combined Work” is a work produced by combining or linking an Application with 
+the Library. The particular version of the Library with which the Combined Work was 
+made is also called the “Linked Version”."*
+
+Definition des Gesamtwerks, also z.B. des Buches, in dem sowohl Regeln als auch die 
+Welt sind. 
+
+> *"The “Minimal Corresponding Source” for a Combined Work means the Corresponding 
+Source for the Combined Work, excluding any source code for portions of the Combined 
+Work that, considered in isolation, are based on the Application, and not on the 
+Linked Version."*
+
+Alle Quellen, 
+ 
+
+LGPL Paragraph 3: 
+> *"The object code form of an Application may incorporate material 
+from a header file that is part of the Library. You may convey such object code under 
+terms of your choice, provided that, if the incorporated material is not limited to 
+numerical parameters, data structure layouts and accessors, or small macros, inline 
+functions and templates (ten or fewer lines in length), you do both of the following:
+a) Give prominent notice with each copy of the object code that the Library is used 
+in it and that the Library and its use are covered by this License.
+b) Accompany the object code with a copy of the GNU GPL and this license document."*
+
+Das heißt: Werte für Kreaturen müssen nicht freigegeben werden, da sie nur 
+Zahlenwerte sind. 
+
+Kleine Abschnitte (10 oder weniger Zeilen) dürfen dazugelegt werden, ohne dass der 
+gesamte Teil freigegeben werden muss. Z.B. muss das folgende nicht 
+freigegeben werden: "Werwolf, Nahkampf 15, kann also gegen zwei normale Kämpfer 
+gleichzeitig bestehen und hat über 85% Chance einen Einzelnen normalen Kämpfer zu 
+besiegen" 
+
+Besondere Fähigkeiten, die eigene Regelmechanismen haben, müssen dagegen freigegeben 
+werden. 
+
+Die Werte der Banshee müssen nicht frei sein. Wenn es aber Regeln gibt, wie ihr 
+Schrei funktioniert, die nicht nur "Malus auf Fertigkeiten X" oder "Schaden Y" sind 
+(kleine Makros) und die auf bestehenden Regeln aufbauen, dann müssen diese Regeln 
+frei sein. 
+
+> 5. Combined Libraries.
+You may place library facilities that are a work based on the Library side by side in 
+a single library together with other library facilities that are not Applications and 
+are not covered by this License, and convey such a combined library under terms of 
+your choice, if you do both of the following:
+a) Accompany the combined library with a copy of the same work based on the Library, 
+uncombined with any other library facilities, conveyed under the terms of this 
+License.
+b) Give prominent notice with the combined library that part of it is a work based on 
+the Library, and explaining where to find the accompanying uncombined form of the 
+same work.
+
+Wenn das EWS um unfreie Bestandteile erweitert wird, muss auch eine Version ohne 
+diese unfreien Bestandteile angeboten werden. 
+
+
+In jedem Fall muss eine Kopie der GPL und der LGPL dabei sein. 
+
+
+Was würde es bedeuten, das EWS unter der GPL zu veröffentlichen?
+================================================================
+
+> GPL: http://www.fsf.org/licensing/licenses/gpl.html
+
+> *"System Libraries"*
+
+Gesunder Menschenverstand muss nicht frei lizensiert sein :) 
+
+> *"The “Corresponding Source” for a work in object code form means all the source 
+code needed to generate, install, and (for an executable work) run the object code 
+and to modify the work, including scripts to control those activities. However, it 
+does not include the work's System Libraries, or general-purpose tools or generally 
+available free programs which are used unmodified in performing those activities but 
+which are not part of the work. For example, Corresponding Source includes interface 
+definition files associated with source files for the work, and the source code for 
+shared libraries and dynamically linked subprograms that the work is specifically 
+designed to require, such as by intimate data communication or control flow between 
+those subprograms and other parts of the work."*
+
+"Control Flow" bedeutet hier, dass z.B. ein Magiesystem EWS Regeln direkt nutzt. 
+
+DAs Magiesystem muss also frei sein. 
+
+Eine Welt hat allerdings keine "intimate data communication", sondern enthält nur vom 
+Regelwerk zu verarbeitende Dateien (z.B. Werte). 
+
+Diese Werte müssen nicht frei sein. 
+
+> 2. Basic Permissions. [...]
+
+Privat darf damit gemacht werden was man will, und man darf auch andere mit 
+Veränderungen beauftragen, solange das wirklich ein Auftragsverhältnis ist. Sobald es 
+weitergegeben wird, muss der copyleft Teil der Lizenz eingehalten werden, d.h. 
+teile, die freie Teile verwenden, müssen freigegeben werden. 
+
+> 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+
+Irrelevant
+
+> 4. Conveying Verbatim Copies.
+
+Jeder darf das EWS unverändert weitergeben und auch verkaufen wie er will. 
+
+> *"5. Conveying Modified Source Versions.
+You may convey a work based on the Program, or the modifications to produce it from 
+the Program, in the form of source code under the terms of section 4, provided that 
+you also meet all of these conditions:*
+a) The work must carry prominent notices stating that you modified it, and giving a 
+relevant date.*
+
+Wenn du es verändert hast, musst du es sagen, und du musst auchsagen, wann du es 
+verändert hast. 
+
+> *b) The work must carry prominent notices stating that it is released under this 
+License and any conditions added under section 7. This requirement modifies the 
+requirement in section 4 to “keep intact all notices”.*
+
+Es muss auf die Lizenz hingewiesen werden. 
+
+> *c) You must license the entire work, as a whole, under this License to anyone who 
+comes into possession of a copy. This License will therefore apply, along with any 
+applicable section 7 additional terms, to the whole of the work, and all its parts, 
+regardless of how they are packaged. This License gives no permission to license the 
+work in any other way, but it does not invalidate such permission if you have 
+separately received it.*
+
+Wenn jemand anders eine Kopie des Werkes hat, musst du auch ihm die Lizenzrechte 
+geben. 
+
+> *d) If the work has interactive user interfaces, each must display Appropriate 
+Legal Notices; however, if the Program has interactive interfaces that do not display 
+Appropriate Legal Notices, your work need not make them do so.*
+
+Wenn es irgendwo Copyrightvermerke gibt, müssen die auch die Lizenz (LGPL) und 
+Urheberrechtsvermerke nennen. 
+
+> *A compilation of a covered work with other separate and independent works, which 
+are not by their nature extensions of the covered work, and which are not combined 
+with it such as to form a larger program, in or on a volume of a storage or 
+distribution medium, is called an “aggregate” if the compilation and its resulting 
+copyright are not used to limit the access or legal rights of the compilation's 
+users beyond what the individual works permit. Inclusion of a covered work in an 
+aggregate does not cause this License to apply to the other parts of the aggregate."*
+
+Die Lizenz gilt nicht für andere Werke, die nur mitgeliefert werden, aber nicht Teil 
+des Werkes sind. 
+
+Ein mitgeliefertes Alternativregelwerk muss nicht freigegeben werden. 
+
+> 6. Conveying Non-Source Forms.
+
+Quellen können auf verschiedene Arten mitgeliefert werden: 
+
+* Direkt dabei. 
+* Mit dem schriftlichen, bindenen, mindestens 3 Jahre gültigen Angebot, für höchstens einen Unkostenbeitrag die Quellen zu liefern. 
+* Auf einem Webserver (min. 3 Jahre). 
+* Im kleinen Rahmen einfach eine Kopie des Angebotes (so dass man das Werk einfach 
+weitergeben kann, ohne immer die Quellen vorrätig halten zu müssen)
+* Über p2p Netzwerke, müssen verfügbar bleiben. 
+
+> 7. Additional Terms.
+
+Ein paar optionale Einschränkungen, die keinen wirklichen Effekt haben (z.B. 
+Markenrechtliches, das eh gilt). 
+
+> 8. Termination.
+
+Wenn du gegen die Lizenz verstößt, aber den Verstoß ungeschehen machst, darfst du das 
+Werk nach 60 Tagen wieder unter der Lizenz nutzen. Ist ein Urheber des Werkes 
+beteiligt, verkürzt sich das auf 30 Tage, wenn es das erste Mal war. 
+
+> 9. Acceptance Not Required for Having Copies.
+
+Wenn jemand dir eine Kopie gibt, die du in seinem Auftrag weitergeben sollst, musst 
+du die Lizenz nicht annehmen. Aber du darfst das Werk nur ändern oder selbstständig 
+weitergeben, wenn du die Lizenz annimmst. 
+
+> 10. Automatic Licensing of Downstream Recipients.
+
+Wer legal eine Kopie erhält, egal von wem, erhält auch Nutzungsrechte entsprechend 
+der Lizenz. 
+
+> 11. Patents.
+
+Wenn jemand ein Patent hält, das mit dem EWS zu tun hat, und das Werk zusammen mit 
+der Erlaubnis weitergibt, das Patent zu nutzen, wird diese Erlaubnis automatisch auf 
+alle ausgedehnt, die das EWS nutzen (dürfen). 
+
+> 12. No Surrender of Others' Freedom.
+
+Wenn du anderen die Rechte die die Lizenz gibt (nutzen, ändern, weitergeben) nicht 
+geben kannst, darfst du das Werk nicht weitergeben. 
+
+> 13. Use with the GNU Affero General Public License.
+
+Darf mit AGPL Werken genutzt werden. DAs Gesamtwerk wird dann als AGPL angesehen, der 
+Teil bleibt aber unter der GPL. 
+
+> 14. Revised Versions of this License.
+
+Die FSF kann neue Versionen der Lizenz bereitstellen. Sie gelten als höhere Version, 
+wenn sie dem Geist der Lizenz treu bleiben. 
+
+> 15. Disclaimer of Warranty. [..] 16. Limitation of Liability. [...] 17. Interpretation of Sections 15 and 16.
+
+Keine automatische Garantie. 
+
+
+Fazit
+=====
+
+Das EWS sollte unter die GPL gestellt werden. SChränkt Welten nicht ein, verlangt 
+aber, dass alle Regelteile frei sind. 
+- Arne Babenhauserheide, 2008-12-09

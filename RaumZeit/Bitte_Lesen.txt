@@ -1,0 +1,18 @@
+Das RaumZeit Universum wird von Inside in einem [eigenen Mercurial 
+Repository][RaumZeit_hg] entwickelt. 
+
+[RaumZeit_hg]: http://freehg.org/u/inside/raumzeit "Die Quelldateien des RaumZeit Universums."
+
+Ihr könnt es einfach von dort klonen. Unter GNU/Linux und MacOSX via [Mercurial][] in 
+der shell mit 
+
+> hg clone http://freehg.org/u/inside/raumzeit
+
+Unter Windows via [TortoiseHG][] von der gleichen Adresse. 
+
+[Mercurial]: http://selenic.com/mercurial "Mercurial: Freie verteilte Versionsverwaltung"
+
+[TortoiseHG]: http://tortoisehg.sf.net "TortoiseHG: Windows Explorer Integration für Mercurial."
+
+Viel Spaß beim Lesen! 
+- [Drak](http://1w6.org/uzanto/drak/)
