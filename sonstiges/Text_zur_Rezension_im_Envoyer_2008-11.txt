@@ -6,16 +6,19 @@ Grashoff (projekt-kopfkino.de) und ich will ein kleines Fazit ziehen. <!--break-
 
 Vorweg: Seine Meinung zum EWS war nicht gut, zumindest fuehlte sie sich fuer mich 
 nach Verriss an, aber ich bin da sicher nicht objektiv, also will ich erstmal nach 
-den Gruenden schauen. 
+den Gruenden schauen: 
+
+Zielsetzung des Regelwerks
+--------------------------
 
 Als erstes ist mir aufgefallen, dass er das EWS als rudimentaer und wenig 
 originell beschrieben hat, und natuerlich tat das weh. Nach etwas nachdenken (ich 
-ziehe seit zwei Wochen um, da hatte ich keine Zeit zum Schreiben, dafuer aber um 
+ziehe seit vier Wochen um, da hatte ich keine Zeit zum Schreiben, dafuer aber um 
 mir die Rezension durch den Kopf gehen zu lassen) habe ich aber eine direkte 
 Ursache gefunden: Im Heft steht nirgendwo, wofuer eigentlich das Heft selbst da 
 ist!
 
-Im Vorgespraech steht zwar, wofuer daas EWS da ist, aber was fehlt ist die 
+Im Vorgespraech steht zwar, wofuer das EWS da ist, aber was fehlt ist die 
 *Zielsetzung des Grundregelwerks*: 
 
 *Ein stabiles, flexibles und minimales Fundament bilden auf dem andere Werke 
@@ -32,3 +35,17 @@ Jemand der das EWS im Laden kauft wird das Heft nur aufgrund seines
 gedruckten Inhaltes beurteilen, und da bringt es nichts, dass die Zielsetzung hier 
 auf der Webseite steht. 
 
+Zielgruppe
+----------
+
+Als zweites ist mir aufgefallen, dass vor allem ich in der Entwicklung einen Fehler gemacht habe. Was ich übersehen habe: In der Anfangszeit habe ich das Ein Würfel System für *Regelbastler* geschrieben. 
+
+Deswegen enthielten die Regeln viele Details dazu, warum sie so sind, ich habe sie immer wieder überarbeitet und in den überarbeiteten Bereichen mehr auf richtige als auf leicht verständliche Beschreibung geachtet. Ich habe es also so geschrieben, wie ich es gerne lesen würde, um neue Regelmechanismen kennenzulernen. 
+
+Inzwischen ist das EWS aber so weit stabilisiert, dass die wichtigste Zielgruppe nicht mehr nur Regelbastler sind, sondern **Weltenbastler und Spielleiter**, die das EWS nutzen wollen, um ihre eigenen Welten und Kampagnen umzusetzen. 
+
+Die Änderung der Zielgruppe spiegelt sich aber bisher nur in wenigen Texten wieder, und vor der Rezension war mir nicht klar, dass sich die Zielgruppe geändert hat. 
+
+Das heißt, alle Texte müssen überarbeitet werden, und für mich bedeutet es, ich muss meine Texte so schreiben, wie ich sie gerne lesen möchte, wenn ich eine Weltenbeschreibung lese, bei der nicht der Hintergrund der Regeln zählt, sondern vor allem die sofortige Eingängigkeit. 
+
+Kurz: Die Zielgruppe hat sich Stück für Stück geändert, aber ich habe das nicht bemerkt, und darauf hat mich die Rezension zwar nicht direkt aber dafür rech schmerzhaft gestoßen. 
