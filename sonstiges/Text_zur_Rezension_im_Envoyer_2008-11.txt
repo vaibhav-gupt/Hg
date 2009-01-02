@@ -4,48 +4,131 @@ Rezension des EWS im Envoyer 2008-11
 In der Novemberausgabe des Envoyer gibt es eine Rezension des EWS von David 
 Grashoff (projekt-kopfkino.de) und ich will ein kleines Fazit ziehen. <!--break-->
 
-Vorweg: Seine Meinung zum EWS war nicht gut, zumindest fuehlte sie sich fuer mich 
-nach Verriss an, aber ich bin da sicher nicht objektiv, also will ich erstmal nach 
-den Gruenden schauen: 
+Vorweg: Seine Meinung zum EWS war nicht gut, zumindest fühlte sie sich für mich 
+nach Verriss an, aber ich bin da sicher nicht objektiv. 
 
-Zielsetzung des Regelwerks
---------------------------
+Für diesen Beitrag will ich nach verschiedenen möglichen Gründen schauen. 
 
-Als erstes ist mir aufgefallen, dass er das EWS als rudimentaer und wenig 
-originell beschrieben hat, und natuerlich tat das weh. Nach etwas nachdenken (ich 
-ziehe seit vier Wochen um, da hatte ich keine Zeit zum Schreiben, dafuer aber um 
+Mögliche Gründe für den Verriss
+-------------------------------
+
+
+### Zielsetzung des Regelwerks
+
+Als erstes ist mir aufgefallen, dass David das EWS als rudimentär und wenig 
+originell beschrieben hat, und natürlich tat das weh. Nach etwas nachdenken (ich 
+ziehe seit vier Wochen um, da hatte ich wenig Zeit zum Schreiben, dafür aber viel Zeit um
 mir die Rezension durch den Kopf gehen zu lassen) habe ich aber eine direkte 
-Ursache gefunden: Im Heft steht nirgendwo, wofuer eigentlich das Heft selbst da 
+Ursache gefunden: Im Heft steht nirgendwo, wofür eigentlich das Heft selbst da 
 ist!
 
-Im Vorgespraech steht zwar, wofuer das EWS da ist, aber was fehlt ist die 
+Im Vorgespräch steht zwar, wofür das EWS da ist, aber was fehlt ist die 
 *Zielsetzung des Grundregelwerks*: 
 
-*Ein stabiles, flexibles und minimales Fundament bilden auf dem andere Werke 
+*Ein stabiles, freies, flexibles und minimales Fundament bilden auf dem andere Werke 
 aufbauen koennen.*
 
 Und um dieses Ziel zu erreichen, darf die Grundlage nicht zu originell sein (sonst 
-ist die Gefahr grosz, dass sie die Werke die darauf aufbauen in eine bestimmte 
-Richtung zwingt), und sie muss schmal sein, dabei aber alles enthalten, was 
-zum Spielen von One-Shots sowie langen Kampagnen noetig ist. Die Beschreibung als 
-rudimentaer passt also sehr gut zur Zielsetzung. 
+ist die Gefahr groß, dass die Werke die darauf aufbauen in eine bestimmte 
+Richtung gezwungen werden), und sie muss schmal sein, dabei aber alles enthalten, was 
+zum Spielen von One-Shots sowie langen Kampagnen nötig ist. Die Beschreibung als 
+rudimentär passt also sehr gut zur Zielsetzung. 
 
-Nur steht diese Zielsetzung bisher nicht im Heft und das muessen wir aendern. 
+Nur steht diese Zielsetzung bisher nicht im Heft und das müssen wir ändern. 
 Jemand der das EWS im Laden kauft wird das Heft nur aufgrund seines 
 gedruckten Inhaltes beurteilen, und da bringt es nichts, dass die Zielsetzung hier 
 auf der Webseite steht. 
 
-Zielgruppe
-----------
 
-Als zweites ist mir aufgefallen, dass vor allem ich in der Entwicklung einen Fehler gemacht habe. Was ich übersehen habe: In der Anfangszeit habe ich das Ein Würfel System für *Regelbastler* geschrieben. 
+### Zielgruppe
+
+Als zweites ist mir aufgefallen, dass vor allem *ich* in der Entwicklung einen grundlegenden Fehler gemacht habe. Was ich übersehen habe: In der Anfangszeit habe ich das Ein Würfel System für *Regelbastler* geschrieben. 
 
 Deswegen enthielten die Regeln viele Details dazu, warum sie so sind, ich habe sie immer wieder überarbeitet und in den überarbeiteten Bereichen mehr auf richtige als auf leicht verständliche Beschreibung geachtet. Ich habe es also so geschrieben, wie ich es gerne lesen würde, um neue Regelmechanismen kennenzulernen. 
 
-Inzwischen ist das EWS aber so weit stabilisiert, dass die wichtigste Zielgruppe nicht mehr nur Regelbastler sind, sondern **Weltenbastler und Spielleiter**, die das EWS nutzen wollen, um ihre eigenen Welten und Kampagnen umzusetzen. 
+Inzwischen ist das EWS aber so weit stabilisiert, dass es nicht mehr nur für Regelbastler nützlich sein kann, sondern auch für **Weltenbastler und Spielleiter**, die das EWS nutzen wollen, um ihre eigenen Welten und Kampagnen mit einem freien System umzusetzen. 
 
 Die Änderung der Zielgruppe spiegelt sich aber bisher nur in wenigen Texten wieder, und vor der Rezension war mir nicht klar, dass sich die Zielgruppe geändert hat. 
 
-Das heißt, alle Texte müssen überarbeitet werden, und für mich bedeutet es, ich muss meine Texte so schreiben, wie ich sie gerne lesen möchte, wenn ich eine Weltenbeschreibung lese, bei der nicht der Hintergrund der Regeln zählt, sondern vor allem die sofortige Eingängigkeit. 
+Das heißt, alle Texte müssen überarbeitet werden. Und für mich bedeutet es, ich muss meine Texte so schreiben, wie ich sie gerne lesen möchte, wenn ich eine Weltenbeschreibung lese. Und bei Weltenbeschreibungen zählt nicht der Hintergrund der Regeln, sondern vor allem die sofortige Eingängigkeit und der Hintergrund der *Welt*. 
 
-Kurz: Die Zielgruppe hat sich Stück für Stück geändert, aber ich habe das nicht bemerkt, und darauf hat mich die Rezension zwar nicht direkt aber dafür rech schmerzhaft gestoßen. 
+Kurz: Die Zielgruppe hat sich Stück für Stück geändert, aber ich habe das nicht bemerkt. Darauf hat mich die Rezension zwar nicht direkt aber dafür recht schmerzhaft gestoßen. 
+
+
+### Zuwenige Bilder
+
+Wichtig ist auch, **mehr Grafiken** im Grundregelwerk zu haben. Wir brauchen Bilder, die die Texte veranschaulichen und das EWS auch für Leute ansprechender machen, die nicht sofort zu den harten Regelabschnitten springen. 
+
+TODO: Weiter. 
+
+
+### Unterschiedliche Erwartungen
+
+Als drittes wurde deutlich, wie sehr sich die Anforderungen unterscheiden, die Rollenspieler an ein Regelwerk haben. 
+
+David Grashoff schreibt mit Ratten ein Rollenspiel, das sehr stark auf Design, massive Vereinfachung (Werte zwischen 1 und 3, modifiziertes Poolsystem, linearer Stufenaufstieg) und die Spezialitäten des Settings setzt. 
+
+Das Ein Würfel System dagegen ist in erster Linie ein Regelwerk, das Arbeit an den Regeln vor Arbeit am Design stellt, einfach und gleichzeitig flexibel ist, sowohl One-Shots als auch lange Kampagnen ermöglicht, vor allem aber als Grundlage für weltenspezifische Werke dienen soll. 
+
+Bei den Vorraussetzungen ist klar, dass seine Erwartungen an Rollenspielbuch sich völlig von unseren unterscheiden. 
+
+Durch den modularen Aufbau und das minimale Grundsystem sollte das Spektrum der erfüllbaren Erwartungen beim Ein Würfel System recht breit sein, aber die Grundbedingung "sowohl One-Shots als auch Kampagnen* und die Kompatibilität mit Gurps und Fudge machen eine minimale Komplexität notwendig, so dass das EWS sicher nicht jede Erwartung vollständig erfüllen kann. Und das ist auch nicht notwendig. 
+
+Wenn wir versuchen würden, alle Erwartungen zu erfüllen, könnte es keine gut erfüllen. Unsere Aufgabe ist es allerdings, klarer zu machen welche Erwartungen das EWS erfüllen will (damit sind wir auch wieder bei der Zielsetzung). Jeder Leser muss direkt sehen, ob seine Erwartungen diejenigen sind, für die das EWS geschrieben wurde. 
+
+
+### Tests nur in der Gruppe
+
+Wir arbeiten jetzt seit 5 Jahren am EWS, besprechen und überarbeiten es dabei aber hauptsächlich in einer Rollenspielrunde. Auch bei allen Testrunden war immer jemand von uns dabei, so dass das Regelheft sich nie völlig alleine bewähren musste. 
+
+Außerdem sind wir inzwischen bereits so stark an die Regeln gewohnt, dass uns selbst vieles nicht mehr auffallen dürfte. 
+
+Entsprechend ist es an der Zeit, das Regelwerk nicht nur in unserer Runde und mit Freunden zu besprechen, sondern auch in Foren darüber zu diskutieren und uns weniger befangene Rückmeldungen zu holen. Natürlich brauchen wir dafür ein dickes Fell. Die Rezension ist dabei schon eine gute Übung, die uns helfen kann, uns ein dickeres Fell wachsen zu lassen und trotzdem die Rückmeldungen konstruktiv anzunehmen. 
+
+
+### Unverständliche Textabschnitte
+
+Selbst wenn man mit einbezieht, dass die Texte teilweise für die falsche Zielgruppe geschrieben waren, bleiben immernoch Texte, die zu unklar sind. 
+
+All die unklaren Stellen zu finden und zu korrigieren wird damit eine der wichtigsten Aufgaben für die nächste Zeit, denn einfach saubere Regeln müssen auch einfach sauber beschrieben sein, damit sie für Welten- und Kampagnenbastler möglichst nützlich sind. 
+
+Ein Weg dahin sind kürzere und prägnantere Texte und Sätze (danke, Nele!), ein anderer ist es, das Regelwerk für sich selbst sprechen zu lassen. Wenn wir etwas zusätzlich erklären müssen ist der Text zu kompliziert geschrieben. 
+
+
+### Konzept: 3€ pro Heft
+
+Einige der weniger verständlichen Textabschnitte sind auch das Ergebnis von Kürzungen, die notwendig waren, um in 48 A5 Seiten ein vollständiges Rollenspiel unterbringen. Die 48 Seiten sind allerdings das harte Limit, das wir gesetzt haben, damit das Regelwerk ohne wirtschaftlichen Ruin für 3€ verkauft werden kann. 
+
+
+### Teilwertung
+
+All das erklärt aber immernoch nicht die Wertung der Rezension. In ihr wurden einige Punkte nicht erwähnt, die für mich persönlich einen großen Teil des EWS ausmachen. Ich vermute, dass einige davon für David Grasshoff einfach nicht wichtig waren oder ihm für Leser unwichtig erschienen, während andere vielleicht nicht klar genug beschrieben sind, so dass sie beim ersten Lesen nicht hängenbleiben. 
+
+Die wichtigsten Beispiele dafür sind: 
+
+* Nicht nur die Fertigkeiten, sondern auch die Eigenschaften werden frei gewählt, 
+und Spieler suchen sich für jede Fertigkeit aus, auf welchen zwei Eigenschaften
+sie aufbauen soll (was die eigentliche Neuerung ist, weil diese 
+Eigenschaften der Fertigkeit zusätzliche Farbe geben). 
+
+* Für komplexeren Kampf (nicht nur ein Wurf pro Konfrontation) ist ein Modul 
+direkt im Anhang des Heftes (das "Fokusmodul Kampf"). Grund: Viele Runden wollen 
+komplexeren Kampf, aber für das Grundsystem sollte sich der regeltechnische 
+Aufwand für einen Kampf erstmal nicht von dem für ein Kochduell unterscheiden 
+(Ziel: Fokusneutralität). 
+
+* Das EWS ist frei lizensiert, das heißt, jeder kann es direkt verwenden und 
+auch in eigene Hefte einbinden. Dafür gibt es auch alle Quelldateien im Netz 
+(http://quellen.1w6.org). 
+
+* In EWS Runden kann direkt Quellmaterial aus Gurps und Fudge verwendet werden. 
+
+Wir sollten daran arbeiten, dass die nächste Rezension, die jemand zum EWS schreibt, zumindest ein oder zwei diese Punkte enthält. Wenn ich da Fehler mache, dann sagt es mir bitte! 
+
+
+Fazit
+-----
+
+Wir können also meiner Meinung nach aus der Rezension einiges an konstruktiver Rückmeldung ziehen, auch wenn es etwas gedauert hat, sie zu finden (und ich sicher noch nicht alles habe). 
+
+Die sehr negative Meinung die David vom EWS hat, 
