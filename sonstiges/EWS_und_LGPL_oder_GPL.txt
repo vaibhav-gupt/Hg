@@ -113,7 +113,7 @@ those subprograms and other parts of the work."*
 
 "Control Flow" bedeutet hier, dass z.B. ein Magiesystem EWS Regeln direkt nutzt. 
 
-DAs Magiesystem muss also frei sein. 
+Das Magiesystem muss also frei sein. 
 
 Eine Welt hat allerdings keine "intimate data communication", sondern enthält nur vom 
 Regelwerk zu verarbeitende Dateien (z.B. Werte). 
@@ -129,7 +129,7 @@ teile, die freie Teile verwenden, müssen freigegeben werden.
 
 > 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
 
-Irrelevant
+(Bisher) Irrelevant
 
 > 4. Conveying Verbatim Copies.
 
