@@ -57,7 +57,7 @@ Kurz: Die Zielgruppe hat sich Stück für Stück geändert, aber ich habe das ni
 
 ### Zuwenige Bilder
 
-Wichtig ist auch, **mehr Grafiken** im Grundregelwerk zu haben. Bisher haben wir nur das Logo, in unserer Runde niemand ausreichend professionell zeichnen kann (das Logo kommt von Gertrud Wenzel, die leider mehrere hundert Kilometer entfernt wohnt). 
+Wichtig ist auch, **mehr Grafiken** im Grundregelwerk zu haben. Bisher haben wir nur das Logo, da in unserer Runde niemand ausreichend professionell zeichnen kann (das Logo kommt von Gertrud Wenzel, die leider mehrere hundert Kilometer entfernt wohnt). 
 
 Wir brauchen Bilder, die die Texte veranschaulichen und das EWS auch für Leute ansprechend machen, die nicht sofort zu den harten Regelabschnitten springen. 
 
@@ -67,7 +67,7 @@ Es gibt für das Grundregelwerk allerdings drei Bedingungen:
 2. Bilder für das **gedruckte Grundregelwerk** müssen sowohl in **Schwarzweiß** in niedriger Qualität (Kopierer) als auch in **Farbe im Netz** gut aussehen. 
 3. Alle Bilder die in's **gedruckte Grundregelwerk** kommen müssen [**frei lizensiert**](http://lizenz.1w6.org) sein. 
 
-Für **andere Werke** gilt das allerdings nicht, und durch Lizensierung kann jeder zu jeder Zeit die texte des Regelwerks nehmen und daraus ein eigenes Werk machen. Wenn er damit kein Geld verdienen will, kann er auch allen anderen verbieten damit Geld zu verdienen (*wenn dich das interessiert, [schreib mir doch einfach](mailto:arne_bab@web.de). Ich erkläre gerne die Details*). 
+Für **andere Werke** gilt das allerdings nicht, und durch Lizensierung kann jeder zu jeder Zeit die Texte des Regelwerks nehmen und daraus ein eigenes Werk machen. Wenn er damit kein Geld verdienen will, kann er auch allen anderen verbieten damit Geld zu verdienen (*wenn dich das interessiert, [schreib mir doch einfach](mailto:arne_bab@web.de). Ich erkläre gerne die Details*). 
 
 Und auch wenn ich hier Bedingungen schreibe: Wir freuen uns über jegliche Bilder! 
 
@@ -105,15 +105,15 @@ All die unklaren Stellen zu finden und zu korrigieren wird damit eine der wichti
 Ein Weg dahin sind kürzere und prägnantere Texte und Sätze (danke, Nele!), ein anderer ist es, das Regelwerk für sich selbst sprechen zu lassen. Wenn wir etwas zusätzlich erklären müssen ist der Text zu kompliziert geschrieben. 
 
 
-### Konzept: 3€ pro Heft
+### Konzept: 3 pro Heft
 
-Einige der weniger verständlichen Textabschnitte sind auch das Ergebnis von Kürzungen, die notwendig waren, um in 48 A5 Seiten ein vollständiges Rollenspiel unterbringen. Die 48 Seiten sind allerdings das harte Limit, das wir gesetzt haben, damit das Regelwerk ohne wirtschaftlichen Ruin für 3 € verkauft werden kann. 
+Einige der weniger verständlichen Textabschnitte sind auch das Ergebnis von Kürzungen, die notwendig waren, um in 48 A5 Seiten ein vollständiges Rollenspiel unterbringen. Die 48 Seiten sind allerdings das harte Limit, das wir gesetzt haben, damit das Regelwerk ohne wirtschaftlichen Ruin für 3  verkauft werden kann. 
 
-Um einfach mal die Zahlen offenzulegen (ich denke, das dürfte für einige interessant sein): Die reinen Druckkosten eines EWS in einer Stückzahl von 100 sind 1 €. Wenn es in einem Rollenspielladen verkauft wird, kriegt es der Laden für 1,50 €, so dass wir zwei drittel der Hefte verkaufen müssen, um aus den roten Zahlen heraus zu sein. Wenn es Leute direkt privat kaufen, ist das für uns natürlich günstiger, weil wir nur ein drittel der Hefte verkaufen müssen um keinen Verlust zu machen. 
+Um einfach mal die Zahlen offenzulegen (ich denke, das dürfte für einige interessant sein): Die reinen Druckkosten eines EWS in einer Stückzahl von 100 sind 1 . Wenn es in einem Rollenspielladen verkauft wird, kriegt es der Laden für 1,50 , so dass wir zwei drittel der Hefte verkaufen müssen, um aus den roten Zahlen heraus zu sein. Wenn es Leute direkt privat kaufen, ist das für uns natürlich günstiger, weil wir nur ein drittel der Hefte verkaufen müssen um keinen Verlust zu machen. 
 
 Trotzdem ist der Verkauf über einen Laden schöner, weil er unsere Rollenspielladen-Infrastruktur fördert, und es ist einfach ein völlig anderes Gefühl, das eigene Heft in der Auslage eines Ladens zu sehen, als es jemandem direkt zu verkaufen (die Läden, die es führen, stehen übrigens unter [quellen.1w6.org](http://quellen.1w6.org) ). 
 
-Effektiv heißt das: Wir sind weit von professionellem Vertrieb entfernt, aber so können wir ein Rollenspielheft produzieren, das jeder *einfach mitnehmen* kann (weil 3 € wirklich nicht die Welt sind), so dass auch ein *einfach mal antesten* möglich wird. 
+Effektiv heißt das: Wir sind weit von professionellem Vertrieb entfernt, aber so können wir ein Rollenspielheft produzieren, das jeder *einfach mitnehmen* kann (weil 3  wirklich nicht die Welt sind), so dass auch ein *einfach mal antesten* möglich wird. 
 
 
 ### Teilwertung
@@ -153,11 +153,11 @@ Die sehr negative Meinung die David vom EWS hat, hilft uns zwar nicht unbedingt 
 Verbesserungsideen
 ------------------
 
-Nicht jeder wird das EWS gut finden. Aber bevor ich das nächste mal das EWS an eine Zeitschrift schicken sollten wir es in einem Forum vorstellen (z.B. im Fera oder in Tanelorn) und die Leute um ihre Meinung bitten. Externe Meinungen sollten helfen, größere Probleme zu finden. Das wird uns nicht vor schlechten Rezensionen schützen, aber es sollte die allgemeine Qualität des EWS verbessern, und das hilft uns, mehr Leser zu finden. 
+Nicht jeder wird das EWS gut finden. Aber wir sollten, bevor wir das EWS an eine Zeitschrift schicken, das PDF dazu in einem Forum vorstellen (z.B. im Fera oder in Tanelorn) und die Leute um ihre Meinung bitten. Externe Meinungen sollten helfen, größere Probleme zu finden. Das wird uns nicht vor schlechten Rezensionen schützen, aber es sollte die allgemeine Qualität des EWS verbessern, und das hilft uns, mehr Leser zu finden. 
 
 Um die Texte verständlicher zu machen habe ich für mich eine einfache Maßnahme gefunden: Kein Schreiben in Designdateien mehr. Ich schreibe Texte ab jetzt in einfachen Textdateien, bis sie verständlich sind. Kürzen und ergänzen können wir später. 
 
-Außerdem versuche ich besser zu planen, wie wir es beim RaumZeit Heft 1 machen: Erst fragen "Was muss wann rein", dann Texte schreiben, dann dafür sorgen, dass sie kurz genug sind. Zur Not lieber mehrere Versionen schreiben als den Schreibfluss zu zerbrechen. 
+Außerdem versuche ich besser zu planen, ähnlich wie wir es beim RaumZeit Heft 1 machen: Erst fragen "Was muss wann rein", dann Texte schreiben, dann dafür sorgen, dass sie kurz genug sind. Zur Not lieber mehrere Versionen schreiben als den Schreibfluss zu zerbrechen. 
 
 Um die freie Lizensierung präsenter zu machen, prüfe ich seit einiger Zeit, ob wir statt der eigenen Lizenz die GPLv3 nutzen können. *Wenn du dich mit Lizenzrecht auskennst (oder dich einfach so für freie Lizensierung interessierst), schau doch in [meinen Post auf FSFE.org](http://fsfe.org/en/fellows/arne/gpl_oder_lgpl_for_free_roleplaying_systems/(language)/ger-DE) -[Drak](/uzanto/drak/)*. 
 
