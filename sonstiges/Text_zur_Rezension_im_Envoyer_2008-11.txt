@@ -78,7 +78,7 @@ Es gibt für das Grundregelwerk allerdings drei Bedingungen:
 2. Bilder für das **gedruckte Grundregelwerk** müssen sowohl in **Schwarzweiß** in niedriger Qualität (Kopierer) als auch in **Farbe im Netz** gut aussehen. 
 3. Alle Bilder die in's **gedruckte Grundregelwerk** kommen müssen [**frei lizensiert**](http://lizenz.1w6.org) sein. (Achtung: *Frei* bedeutet etwas anderes als gratis! Wir benutzen die [Definition der Free Software Foundation](http://www.gnu.org/philosophy/free-sw.html), übertragen auf Rollenspielregeln.) 
 
-Wenn ihr selbst Grafiken zum EWS beisteuern wollt oder jemanden kennt der das will, dann meldet euch bitte bei uns, egal ob nun über einen Kommentar zu diesem Artikel, einen Beitrag im [Forum](/forum/) oder einfach eine [Mail an Drak](mailto:arne_bab@web.de). 
+Wenn du selbst Grafiken zum EWS beisteuern willst oder jemanden kennst der das will, dann melde dich bitte bei uns, egal ob nun über einen Kommentar zu diesem Artikel, einen Beitrag im [Forum](/forum/) oder einfach eine [Mail an Drak](mailto:arne_bab@web.de). 
 
 Für Bilder für **andere Werke** gilt das allerdings nicht, und durch Lizensierung kann jeder zu jeder Zeit die Texte des Regelwerks nehmen und daraus ein eigenes Werk machen. Wenn er damit kein Geld verdienen will, kann er auch allen anderen verbieten damit Geld zu verdienen (*wenn dich das interessiert, [schreib mir doch einfach](mailto:arne_bab@web.de). Ich erkläre gerne die Details*). 
 
@@ -185,7 +185,7 @@ Um die freie Lizensierung präsenter zu machen, prüfe ich seit einiger Zeit, ob
 
 Um die Zielsetzung des Regelwerks für jeden Leser direkt sichtbar zu machen, planen wir in der nächsten Version die Zielsetzung in einem Abschnitt der Einleitung zu beschreiben. Für die Eingänglichkeit hat Andi den Vorschlag gemacht, direkt Drak in seiner Vorstellung schreiben zu lassen, welche Bedeutung welcher Textstil hat (Stilarten: Hauptleiste, Seitenleiste, Regelteil, Beispiel). 
 
-Wenn ihr noch weitere Verbesserungideen habt, schreibt sie bitte! 
+Wenn du noch weitere Verbesserungideen hast, schreib sie bitte! 
 
 -[Drak](/uzanto/drak/)
 
