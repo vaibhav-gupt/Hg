@@ -1,7 +1,7 @@
 Rezension des EWS im Envoyer 2008-11
 ====================================
 
-In der Novemberausgabe des Envoyer gibt es eine Rezension des EWS von David 
+In der Novemberausgabe des [Envoyer](http://www.envoyer.de/) gibt es eine Rezension des EWS von David 
 Grashoff (projekt-kopfkino.de) und ich will ein kleines Fazit ziehen. <!--break-->
 
 Vorweg: Seine Meinung zum EWS war nicht gut, zumindest fühlte sie sich für mich 
@@ -10,8 +10,8 @@ nach Verriss an, aber ich bin da sicher nicht objektiv.
 Für diesen Beitrag will ich deshalb nach verschiedenen möglichen Gründen schauen, und danach, was wir verbessern können. 
 
 
-Mögliche Gründe für den Verriss
--------------------------------
+Mögliche Gründe
+---------------
 
 
 ### Zielsetzung des Regelwerks
@@ -29,7 +29,7 @@ Im Vorgespräch steht zwar, wofür wir das EWS schreiben, aber was fehlt ist die
 *Ein stabiles, freies, flexibles und minimales Fundament bilden auf dem andere Werke 
 aufbauen können.*
 
-Und um dieses Ziel zu erreichen, darf die Grundlage nicht zu originell sein (sonst 
+Und um dieses Ziel zu erreichen, darf die Grundlage nicht zu *originell* sein (sonst 
 ist die Gefahr groß, dass die Werke die darauf aufbauen in eine bestimmte 
 Richtung gezwungen werden, oder dass es zu schwer zu erfassen ist). 
 Außerdem muss sie schmal sein, trotzdem aber alles enthalten, was 
@@ -44,16 +44,16 @@ auf der Webseite steht.
 
 ### Zielgruppe
 
-Als zweites ist mir aufgefallen, dass vor allem *ich* in der Entwicklung einen grundlegenden Fehler gemacht habe. Was ich übersehen habe: In der Anfangszeit habe ich das Ein Würfel System für *Regelbastler* geschrieben. 
+[Drak](/uzanto/drak/): Als zweites ist mir aufgefallen, dass vor allem *ich* in der Entwicklung einen grundlegenden Fehler gemacht habe. Was ich übersehen habe: In der Anfangszeit habe ich das Ein Würfel System für *Regelbastler* geschrieben. 
 
 Deswegen enthielten die Regeln viele Details dazu, warum sie so sind, ich habe sie immer wieder überarbeitet und in den überarbeiteten Bereichen mehr auf richtige als auf leicht verständliche Beschreibung geachtet. Ich habe es also so geschrieben, wie ich es gerne lesen würde, um neue Regelmechanismen kennenzulernen. 
 
 Inzwischen ist das EWS aber so weit stabilisiert, dass es nicht mehr nur für Regelbastler 
 nützlich sein kann, sondern auch für **Weltenbastler und Spielleiter**, 
 die das EWS nutzen wollen, um ihre eigenen Welten und Kampagnen 
-mit einem freien und funktionierenden System umzusetzen. 
+mit einem funktionierenden, freien System umzusetzen. 
 
-Die Änderung der Zielgruppe spiegelt sich aber bisher nur in wenigen Texten wieder, und vor der Rezension war mir noch nicht klar, dass sich die Zielgruppe geändert hat. 
+Die Änderung der Zielgruppe spiegelt sich aber bisher nur in wenigen Texten wieder, und vor der Rezension war mir nichtmal klar, dass sich die Zielgruppe geändert hat. 
 
 Das heißt für uns, dass alle Texte überarbeitet werden müssen. Für mich bedeutet es, 
 ich muss meine Texte so schreiben, wie ich sie gerne in einer Weltenbeschreibung lesen möchte. 
@@ -61,14 +61,14 @@ Und bei Weltenbeschreibungen zählt nicht der Hintergrund der Regeln,
 sondern vor allem ihre sofortige Eingängigkeit und der Hintergrund der *Welt*. 
 
 Kurz: Die Zielgruppe hat sich Stück für Stück geändert, aber ich habe das nicht bemerkt. 
-Darauf hat mich die Rezension zwar nicht direkt aber dafür recht schmerzhaft gestoßen. 
+Darauf hat mich die Rezension zwar nicht direkt, dafür aber recht schmerzhaft gestoßen. -[Drak](/uzanto/drak/)
 
 
 ### Zuwenige Bilder
 
 Wichtig ist auch, **mehr Grafiken** im Grundregelwerk zu haben. Bisher haben wir nur das Logo, da in unserer Runde niemand ausreichend professionell zeichnen kann (das Logo entsprang dem Geist, den Händen und dem teils virtuellen Stift von Gertrud Wenzel, die leider mehrere hundert Kilometer entfernt wohnt). 
 
-Vor der Rezension war uns nicht klar, wie sehr auch viele Rollenspieler auf die Gestaltung des Regelwerks anspringen *(ja wir hätten das sehen können - schließlich steht hier ein Engel GRW im Schrank, aber Gedanken sind seltsame und unverständliche Wesen :) -[Drak](/uzanto/drak/))*. 
+Vor der Rezension war uns nicht klar, wie sehr auch viele Rollenspieler auf die Gestaltung des Regelwerks anspringen *(ja wir hätten das sehen können, schließlich steht hier ein Engel GRW im Schrank, aber Gedanken sind seltsame und unverständliche Wesen :) -[Drak](/uzanto/drak/))*. 
 
 Wir brauchen Bilder, die die Texte veranschaulichen und das EWS auch für Leute ansprechend machen, die nicht sofort zu den harten Regelabschnitten springen. 
 
@@ -76,35 +76,35 @@ Es gibt für das Grundregelwerk allerdings drei Bedingungen:
 
 1. Die verschiedenen Bilder sollten wiederspiegeln, dass das EWS mit **verschiedensten Welten** genutzt werden kann. Ein einzelnes Bild muss allerdings nicht gleichzeitig verschiedene Welten zeigen. 
 2. Bilder für das **gedruckte Grundregelwerk** müssen sowohl in **Schwarzweiß** in niedriger Qualität (Kopierer) als auch in **Farbe im Netz** gut aussehen. 
-3. Alle Bilder die in's **gedruckte Grundregelwerk** kommen müssen [**frei lizensiert**](http://lizenz.1w6.org) sein. Achtung: *Frei* bedeutet etwas anderes als gratis! Wir benutzen die [Definition der Free Software Foundation](http://www.gnu.org/philosophy/free-sw.html), übertragen auf Rollenspielregeln. 
+3. Alle Bilder die in's **gedruckte Grundregelwerk** kommen müssen [**frei lizensiert**](http://lizenz.1w6.org) sein. (Achtung: *Frei* bedeutet etwas anderes als gratis! Wir benutzen die [Definition der Free Software Foundation](http://www.gnu.org/philosophy/free-sw.html), übertragen auf Rollenspielregeln.) 
 
 Wenn ihr selbst Grafiken zum EWS beisteuern wollt oder jemanden kennt der das will, dann meldet euch bitte bei uns, egal ob nun über einen Kommentar zu diesem Artikel, einen Beitrag im [Forum](/forum/) oder einfach eine [Mail an Drak](mailto:arne_bab@web.de). 
 
-Für **andere Werke** gilt das allerdings nicht, und durch Lizensierung kann jeder zu jeder Zeit die Texte des Regelwerks nehmen und daraus ein eigenes Werk machen. Wenn er damit kein Geld verdienen will, kann er auch allen anderen verbieten damit Geld zu verdienen (*wenn dich das interessiert, [schreib mir doch einfach](mailto:arne_bab@web.de). Ich erkläre gerne die Details*). 
+Für Bilder für **andere Werke** gilt das allerdings nicht, und durch Lizensierung kann jeder zu jeder Zeit die Texte des Regelwerks nehmen und daraus ein eigenes Werk machen. Wenn er damit kein Geld verdienen will, kann er auch allen anderen verbieten damit Geld zu verdienen (*wenn dich das interessiert, [schreib mir doch einfach](mailto:arne_bab@web.de). Ich erkläre gerne die Details*). 
 
-Und auch wenn ich hier Bedingungen schreibe (die durch unser freies Lizenzmodell und das Konzept für die hefte nötig sind): Wir freuen uns über jegliche Bilder! 
+Und auch wenn ich hier Bedingungen schreibe (die durch unser freies Lizenzmodell und das Konzept für die Hefte nötig sind): Wir freuen uns über jegliche Bilder! 
 
 
 ### Unterschiedliche Erwartungen
 
-Als viertes wurde nicht nur durch die Grafiken deutlich, wie sehr sich die Anforderungen unterscheiden, die Rollenspieler an ein Regelwerk haben. 
+Als viertes wurde nicht nur durch die Grafiken deutlich, wie sehr sich die Anforderungen von Rollenspielern an ein Regelwerk unterscheiden. 
 
 David Grashoff schreibt mit Ratten ein Rollenspiel, das sehr stark auf Design, massive Vereinfachung (Werte zwischen 1 und 3, modifiziertes Poolsystem, linearer Stufenaufstieg) und die Spezialitäten des Settings setzt. 
 
-Das Ein Würfel System dagegen ist in erster Linie ein Regelwerk, das Arbeit an den Regeln vor Arbeit am Design stellt, das einfach und gleichzeitig flexibel ist, sowohl One-Shots als auch lange Kampagnen ermöglicht, vor allem aber als Grundlage für weltenspezifische Werke dienen soll (in denen Design dann weitaus wichtiger ist). 
+Das Ein Würfel System dagegen ist in erster Linie ein Regelwerk, das Arbeit an den Regeln vor Arbeit am Design stellt, das einfach und gleichzeitig flexibel ist, sowohl One-Shots als auch lange Kampagnen ermöglicht, und in erster Linie als Grundlage für weltenspezifische Werke dienen soll (in denen Design dann weitaus wichtiger ist). 
 
 Bei diesen Vorraussetzungen ist klar, dass Davids Erwartungen an ein Rollenspielbuch sich völlig von unseren unterscheiden. 
 
-Durch den modularen Aufbau und das minimale Grundsystem sollte das Spektrum der erfüllbaren Erwartungen beim Ein Würfel System recht breit sein, aber die Grundbedingung "sowohl One-Shots als auch Kampagnen* und die Kompatibilität mit Gurps® und Fudge™ machen eine minimale Komplexität notwendig, so dass das EWS sicher nicht jede Erwartung vollständig erfüllen kann. Und das ist auch nicht notwendig. 
+Durch den modularen Aufbau und das minimale Grundsystem sollte das Spektrum der erfüllbaren Erwartungen beim Ein Würfel System recht breit sein, aber die Grundbedingung *sowohl One-Shots als auch Kampagnen* und die Kompatibilität mit Gurps® und Fudge™ machen eine minimale Komplexität notwendig, so dass das EWS sicher nicht jede Erwartung vollständig erfüllen kann. Und das muss es auch nicht. 
 
-Wenn wir versuchen würden, alle Erwartungen zu erfüllen, könnte es keine gut erfüllen. Unsere Aufgabe ist es allerdings, klarer zu machen welche Erwartungen das EWS erfüllen will (damit sind wir auch wieder bei der Zielsetzung). Jeder Leser muss direkt sehen, ob seine Erwartungen diejenigen sind, für die das EWS geschrieben wurde. 
+Wenn wir versuchen würden, alle Erwartungen zu erfüllen, könnte es keine einzige *gut* erfüllen. Unsere Aufgabe ist es allerdings, klarer zu machen welche Erwartungen das EWS erfüllen will (damit sind wir auch wieder bei der Zielsetzung). Jeder Leser muss direkt sehen, ob seine Erwartungen diejenigen sind, für die das EWS geschrieben wurde. 
 
 
 ### Tests nur in der Gruppe
 
 Wir arbeiten jetzt seit 5 Jahren am EWS, besprechen und überarbeiten es dabei aber hauptsächlich in unserer Hauptrunde. Auch bei allen Testrunden war immer jemand von uns dabei, so dass das Regelheft sich nie völlig alleine bewähren musste. 
 
-Außerdem sind wir inzwischen bereits so stark an die Regeln gewohnt, dass vieles uns selbst nicht mehr auffallen dürfte. 
+Außerdem sind wir inzwischen bereits so stark an die Regeln gewöhnt, dass uns selbst vieles nicht mehr auffallen dürfte. 
 
 Entsprechend ist es an der Zeit, das Regelwerk nicht nur in unserer Runde und mit Freunden zu besprechen, sondern auch in Foren darüber zu diskutieren und uns weniger befangene Rückmeldungen zu holen. Natürlich brauchen wir dafür ein dickes Fell. Die Rezension ist dabei schon eine gute Übung, die uns helfen kann, uns ein dickeres Fell wachsen zu lassen und trotzdem die Rückmeldungen konstruktiv anzunehmen. 
 
@@ -115,52 +115,53 @@ Selbst wenn man mit einbezieht, dass die Texte teilweise für die falsche Zielgr
 
 All die unklaren Stellen zu finden und zu korrigieren wird damit eine der wichtigsten Aufgaben für die nächste Zeit, denn einfach saubere Regeln müssen auch einfach sauber beschrieben sein, damit sie für Welten- und Kampagnenbastler möglichst nützlich sind. 
 
-Ein Weg dahin sind kürzere und prägnantere Texte und Sätze (danke, Nele!), ein anderer ist es, das Regelwerk für sich selbst sprechen zu lassen. 
+Ein Weg dahin sind kürzere und prägnantere Texte und Sätze (danke, Nele!). Ein anderer ist es, das Regelwerk für sich selbst sprechen zu lassen. 
 
 Wenn wir etwas zusätzlich erklären müssen, ist der Text zu kompliziert geschrieben. 
 
 
-### Konzept: 3 pro Heft
+### Konzept: 3  pro Heft
 
 Einige der weniger verständlichen Textabschnitte sind auch das Ergebnis von Kürzungen, die notwendig waren, um in 48 A5 Seiten ein vollständiges Rollenspiel unterbringen, das unsere Anforderungen erfüllt. Die 48 Seiten sind allerdings das harte Limit, das wir gesetzt haben, damit das Regelwerk ohne wirtschaftlichen Ruin für 3  verkauft werden kann. 
 
 Um einfach mal die Zahlen offenzulegen (ich denke, das dürfte für einige interessant sein): Die reinen Druckkosten eines EWS in einer Stückzahl von 100 sind 1 . Wenn es in einem Rollenspielladen verkauft wird, kriegt es der Laden für 1,50 , so dass wir zwei Drittel der Hefte verkaufen müssen, um aus den roten Zahlen heraus zu sein. Wenn es Leute direkt privat kaufen, ist das für uns natürlich günstiger, weil wir nur ein Drittel der Hefte verkaufen müssen um keinen Verlust zu machen (Arbeitszeit natürlich *nicht* gerechnet). 
 
-Trotzdem ist der Verkauf über einen Laden schöner, weil er unsere Rollenspielladen-Infrastruktur fördert, und es ist einfach ein völlig anderes Gefühl, das eigene Heft in der Auslage eines Ladens zu sehen, als es jemandem direkt zu verkaufen (die Läden, die es führen, stehen übrigens unter [quellen.1w6.org](http://quellen.1w6.org) ). 
+Trotzdem ist der Verkauf über einen Laden schöner, weil er die Rollenspielladen-Infrastruktur fördert, und es ist einfach ein völlig anderes Gefühl, das eigene Heft in der Auslage eines Ladens zu sehen, als es jemandem direkt zu verkaufen (*die Läden, die es führen, stehen übrigens unter [quellen.1w6.org](http://quellen.1w6.org)*). 
 
 Effektiv heißt das: Wir sind weit von professionellem Vertrieb entfernt, aber so können wir ein Rollenspielheft produzieren, das jeder *einfach mitnehmen* kann (weil 3  wirklich nicht die Welt sind), so dass auch ein *einfach mal antesten* möglich wird. 
 
-Natürlich bleibt es trotzdem im Netz verfügbar - dazu zwingt uns schon das freie Lizenzmodell, schließlich müssen wir die Quellen verfügbar halten. Diese Einschränkung ist übrigens bewusst gewählt. Wir wollen, dass jeder Nutzer des EWS darauf vertrauen kann, dass es frei bleibt, ohne dabei _uns_ vertrauen zu müssen, schließlich wird hoffentlich irgendwann die Mehrzahl der Nutzer uns nicht persönlich kennen :). 
+Natürlich bleibt es trotzdem im Netz verfügbar - dazu zwingt uns schon das freie Lizenzmodell, schließlich müssen wir die Quellen verfügbar halten. Diese Einschränkung ist übrigens bewusst gewählt. Wir wollen, dass jeder Nutzer des EWS darauf vertrauen kann, dass es frei bleibt, ohne dabei _uns_ vertrauen zu müssen, schließlich wird uns hoffentlich irgendwann die Mehrzahl der Nutzer nicht persönlich kennen :). 
 
-*(Die Aussage ist nicht völlig exakt. Wenn du es ganz exakt haben willst, schreib einen Kommentar oder melde dich im [Forum](/forum/). Ich erkläre gerne Lizenzrechtliches, aber an dieser Stelle ist die kurze Notiz sinnvoller; \*Schlangenhypnoseaugen\*vertrau mir\*Schlangenhypnoseaugen\* :) -[Drak](/uzanto/drak/))*
+*(Die Aussage ist nicht völlig exakt. Wenn du es ganz exakt haben willst, schreib einen Kommentar oder melde dich im [Forum](/forum/). Ich erkläre gerne Lizenzrechtliches, und auch gerne ausführlich, aber an dieser Stelle ist die kurze Notiz sinnvoller;  
+\*Schlangenhypnoseaugen\* vertrau mir \*Schlangenhypnoseaugen\* :) -[Drak](/uzanto/drak/))*
 
 
 ### Teilwertung
 
 Alles das zusammen erklärt aber immernoch nicht die Wertung der Rezension. 
 
-In ihr wurden einige Punkte nicht erwähnt, die für mich persönlich einen großen Teil des EWS ausmachen. Ich vermute, dass einige davon für David Grasshoff einfach nicht wichtig waren oder ihm für Leser unwichtig erschienen. Andere sind vielleicht nicht klar genug beschrieben, so dass sie beim ersten Lesen nicht hängenbleiben. 
+Einen Teil der Gründe für die Wertung sehe ich darin, dass in ihr einige Punkte nicht erwähnt wurden, die für mich persönlich einen großen Teil des EWS ausmachen. Ich vermute, dass einige davon für David Grasshoff einfach nicht wichtig waren oder ihm für Leser unwichtig erschienen. Andere sind vielleicht nicht klar genug beschrieben, so dass sie beim ersten Lesen nicht hängenbleiben. 
 
-Die wichtigsten Beispiele dafür sind: 
+Die wichtigsten der Punkte dafür sind: 
 
-* Nicht nur die Fertigkeiten, sondern auch die Eigenschaften werden frei gewählt, 
+* Nicht nur die Fertigkeiten, sondern auch die **Eigenschaften werden frei gewählt**, 
 und Spieler suchen sich für jede Fertigkeit aus, auf welchen zwei Eigenschaften
 sie aufbauen soll (was die eigentliche Neuerung ist, weil diese 
-Eigenschaften der Fertigkeit zusätzliche Farbe geben). 
+Eigenschaften der Fertigkeit zusätzliche Farbe geben). *(Anmerkung: Die Wichtigkeit einer Fertigkeit lässt sich fast nur daran festmachen, wie wichtig sie in der konkret gespielten Runde ist.)
 
-* Für komplexeren Kampf (nicht nur ein Wurf pro Konfrontation) ist ein Modul 
-direkt im Anhang des Heftes (das "Fokusmodul Kampf"). Grund: Viele Runden wollen 
+* Für **komplexeren Kampf** (nicht nur ein Wurf pro Konfrontation) ist ein Modul 
+direkt **im Anhang** des Heftes (das "Fokusmodul Kampf"). Grund: Viele Runden wollen 
 komplexeren Kampf, aber für das Grundsystem sollte sich der regeltechnische 
 Aufwand für einen Kampf erstmal nicht von dem für ein Kochduell unterscheiden 
 (Ziel: Fokusneutralität). 
 
-* Das EWS ist frei lizensiert, das heißt, jeder kann es direkt verwenden und 
+* Das EWS ist **frei lizensiert**, das heißt, jeder kann es direkt verwenden und 
 auch in eigene Hefte einbinden. Dafür gibt es auch alle Quelldateien im Netz 
 (http://quellen.1w6.org). 
 
-* In EWS Runden kann direkt Quellmaterial aus Gurps® und Fudge™ verwendet werden. 
+* In EWS Runden kann direkt **Quellmaterial aus Gurps® und Fudge™** verwendet werden. 
 
-Wir sollten daran arbeiten, dass die nächste Rezension, die jemand zum EWS schreibt, zumindest ein oder zwei diese Punkte enthält. Wenn ich da Fehler mache, sagt es mir bitte! *(Das gilt auch für alle anderen Bereiche!)*
+Wir sollten daran arbeiten, dass die nächste Rezension, die jemand zum EWS schreibt, zumindest ein oder zwei diese Punkte enthält. Wenn ich da Fehler mache, sag es mir bitte! *(Das gilt auch für alle anderen Bereiche!)*
 
 
 Fazit
@@ -168,21 +169,21 @@ Fazit
 
 Wir können also meiner Meinung nach aus der Rezension einiges an konstruktiver Rückmeldung ziehen, auch wenn es etwas gedauert hat, sie zu finden (und ich sicher noch nicht alles habe). 
 
-Die sehr negative Meinung die David vom EWS hat, hilft uns zwar nicht unbedingt direkt, und seine Rezension hat vermutlich nicht unbedingt viele dazu gebracht, das EWS zu lesen, und wenn wir Pech haben hat er einige abgeschreckt, aber damit müssen wir leben, und ich denke langfristig hilft sie uns das EWS besser zu machen. 
+Die sehr negative Meinung, die David vom EWS hat, hilft uns zwar nicht unbedingt direkt, und seine Rezension hat vermutlich nicht unbedingt viele dazu gebracht, das EWS zu lesen. Wenn wir Pech haben hat er einige abgeschreckt, aber damit müssen wir leben, und ich denke langfristig hilft sie uns, das EWS besser zu machen. 
 
 
 Verbesserungsideen
 ------------------
 
-Nicht jeder wird das EWS gut finden. Aber wir sollten, bevor wir das EWS an eine Zeitschrift schicken, das PDF dazu in einem Forum vorstellen (z.B. im Fera oder in Tanelorn) und die Leute um ihre Meinung bitten. Externe Meinungen sollten helfen, größere Probleme zu finden. Das wird uns nicht vor schlechten Rezensionen schützen, aber es sollte die allgemeine Qualität des EWS verbessern, und das hilft uns, mehr Leser zu finden. 
+Nicht jeder wird das EWS gut finden. Aber wir sollten, bevor wir das EWS an eine Zeitschrift schicken, das PDF dazu in einem Forum vorstellen (z.B. im Fera oder in Tanelorn) und die Leute um ihre Meinung bitten. Externe Meinungen sollten helfen, größere Probleme zu finden. Das wird uns nicht vor schlechten Rezensionen schützen, aber es sollte die allgemeine Qualität des EWS verbessern, und das hilft uns, mehr Leser zu finden, und es erhöht die Wahrscheinlichkeit von guten Rezensionen. 
 
 Um die Texte verständlicher zu machen habe ich für mich eine einfache Maßnahme gefunden: Kein Schreiben in Designdateien mehr. Ich schreibe Texte ab jetzt in einfachen Textdateien, bis sie verständlich sind. Kürzen und ergänzen können wir später. 
 
-Außerdem versuche ich besser zu planen, ähnlich wie wir es beim RaumZeit Heft 1 machen: Erst fragen "Was muss wann rein", dann Texte schreiben, dann dafür sorgen, dass sie kurz genug sind. Zur Not lieber mehrere Versionen schreiben als den Schreibfluss zu zerbrechen. 
+Außerdem versuche ich Texte besser zu planen, ähnlich wie wir es beim RaumZeit Heft 1 machen: Erst fragen "Was muss wann rein", dann Texte schreiben, dann dafür sorgen, dass sie kurz genug sind. Zur Not lieber mehrere Versionen schreiben als den Schreibfluss zu zerbrechen. 
 
 Um die freie Lizensierung präsenter zu machen, prüfe ich seit einiger Zeit, ob wir statt der eigenen Lizenz die GPLv3 nutzen können. *Wenn du dich mit Lizenzrecht auskennst (oder dich einfach so für freie Lizensierung interessierst), schau doch in [meinen Post auf FSFE.org](http://fsfe.org/en/fellows/arne/gpl_oder_lgpl_for_free_roleplaying_systems/(language)/ger-DE) -[Drak](/uzanto/drak/)*. 
 
-Um die Zielsetzung des Regelwerks für jeden Leser direkt sichtbar zu machen, planen wir in die nächste Version die Zielsetzung in einem Abschnitt der Einleitung zu beschreiben. Für die Eingänglichkeit hat Andi den Vorschlag gemacht, direkt Drak in seiner Vorstellung schreiben zu lassen, welche Bedeutung welcher Textstil hat (Stilarten: Hauptleiste, Seitenleiste, Regelteil, Beispiel). 
+Um die Zielsetzung des Regelwerks für jeden Leser direkt sichtbar zu machen, planen wir in der nächsten Version die Zielsetzung in einem Abschnitt der Einleitung zu beschreiben. Für die Eingänglichkeit hat Andi den Vorschlag gemacht, direkt Drak in seiner Vorstellung schreiben zu lassen, welche Bedeutung welcher Textstil hat (Stilarten: Hauptleiste, Seitenleiste, Regelteil, Beispiel). 
 
 Wenn ihr noch weitere Verbesserungideen habt, schreibt sie bitte! 
 
