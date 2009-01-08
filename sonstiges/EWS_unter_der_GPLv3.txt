@@ -1,11 +1,18 @@
 Das Ein Würfel System jetzt unter der GPLv3
 ===========================================
 
-Ab heute sind alle Regeln des Ein Würfel Systems unter der dritten Version der GNU Public License (GPLv3) nutzbar, der verbreitetsten freien Softwarelizenz. 
+Ab heute sind alle Regeln des Ein Würfel Systems unter der [GNU General Public License](http://gnu.org/licenses/gpl.html) Version 3 oder höher nutzbar, der verbreitetsten freien Softwarelizenz (GPLv3 or later). 
 
-Es kann damit weiterhin frei genutzt und verändert werden, und Welten können es weiterhin nutzen, ohne selbst frei sein zu müssen. Aber nun hat es eine von Juristen geschriebene freie Lizenz und damit deutlich mehr Rechtssicherheit. 
+![GPLv3 logo](gpl-v3.png)
 
-In diesem Beitrag beleuchte ich erst kurz den Hintergrund, was die GPLv3 für uns bewirkt und danach Definitionen der Begriffe. Am Ende gehe ich die GPLv3 Abschnitt für Abschnitt durch und beschreibe, was der Abschnitt für Regelwerke bedeutet und beschreibe die Schritte zur Relizensierung. 
+Es kann damit weiterhin frei genutzt und verändert werden, und Welten können es weiterhin nutzen, ohne selbst frei sein zu müssen. Aber nun hat es eine von Juristen abgesegnete freie Lizenz und damit deutlich mehr Rechtssicherheit. 
+
+Wir bleiben weiterhin bei unserem Dual-Lizensierungs-Modell. Die Lizenz betrifft die bisher auch schon kommerziell nutzbaren Teile (die Regeln): 
+
+* Alle verkauften Regeln können frei genutzt, verändert und weitergegeben werden, also auch kommerziell (GPLv3)
+* Alles was auf der Webseite steht kann nichtkommerziell genutzt, verändert und weitergegeben werden (cc nc-sa), es sei denn es steht explizit (und sichtbar) etwas anderes dabei. 
+
+In diesem Beitrag beleuchte ich erst den Hintergrund, was die GPLv3 für uns bewirkt und danach Definitionen der Begriffe, die in der GPLv3 genutzt werden. Am Ende gehe ich die GPLv3 Abschnitt für Abschnitt durch und beschreibe, was der Abschnitt für Regelwerke bedeutet und beschreibe die Schritte zur Relizensierung. 
 
 Hintergrund
 -----------
@@ -187,3 +194,14 @@ Keine automatische Garantie.
 Schritte zur Relizensierung
 ---------------------------
 
+Um das EWS unter der GPLv3 zu veröffentlichen sind ein paar Schritte notwendig: 
+
+1. Wir müssen die Lizenznotizen auf 1w6.org anpassen. 
+2. Wir müssen eine Kopie der Lizenz beilegen. Dafür werde ich sie umformatieren, damit sie auf eine einzelne gefaltete Din-A4 Seite passt, also in ein EWS Heft gelegt werden kann. 
+3. Wir müssen die Lizenznotiz auf dem Regelwerk anpassen. 
+
+Die Schritte werde ich die nächsten Wochen angehen, zusammen mit anderen Verbesserungen, die wir in der Nachbesprechung der Rezension gefunden haben. 
+
+Sie sind einfach möglich, da die kleinere freie Textlizenz diese Relizensierung explizit erlaubt. 
+
+Ab Version 2.4.0 (der nächsten geplanten) wird das EWS damit unter der GPLv3 stehen. 
