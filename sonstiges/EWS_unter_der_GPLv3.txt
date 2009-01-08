@@ -7,7 +7,7 @@ Ab heute sind alle Regeln des Ein Würfel Systems unter der [GNU General Public 
 
 Es kann damit weiterhin frei genutzt und verändert werden, und Welten können es weiterhin nutzen, ohne selbst frei sein zu müssen. Aber nun hat es eine von Juristen abgesegnete freie Lizenz und damit deutlich mehr Rechtssicherheit. 
 
-Wir bleiben weiterhin bei unserem Dual-Lizensierungs-Modell. Die Lizenz betrifft die bisher auch schon kommerziell nutzbaren Teile (die Regeln): 
+Wir bleiben weiterhin bei unserem Dual-Lizensierungs-Modell. Die Lizenz betrifft daher nur die bisher auch schon kommerziell nutzbaren Teile (die Regeln): 
 
 * Alle verkauften Regeln können frei genutzt, verändert und weitergegeben werden, also auch kommerziell (GPLv3)
 * Alles was auf der Webseite steht kann nichtkommerziell genutzt, verändert und weitergegeben werden (cc nc-sa), es sei denn es steht explizit (und sichtbar) etwas anderes dabei. 
