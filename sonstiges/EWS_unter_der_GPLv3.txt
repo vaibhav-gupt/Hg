@@ -14,6 +14,7 @@ Wir bleiben weiterhin bei unserem Dual-Lizensierungs-Modell. Die Lizenz betrifft
 
 In diesem Beitrag beleuchte ich erst den Hintergrund, was die GPLv3 für uns bewirkt und danach Definitionen der Begriffe, die in der GPLv3 genutzt werden. Am Ende gehe ich die GPLv3 Abschnitt für Abschnitt durch und beschreibe, was der Abschnitt für Regelwerke bedeutet und beschreibe die Schritte zur Relizensierung. 
 
+
 Hintergrund
 -----------
 
@@ -23,11 +24,11 @@ Die GPLv3 ist allerdings so allgemeingültig gehalten, dass sie nicht nur für S
 
 Der Wechsel auf die GPLv3 gibt uns dabei drei grundlegende Vorteile: 
 
-1. Alle GPL lizensierten Programme können direkt Materialien des EWS nutzen. 
-2. Wir können Material aus allen GPL lizensierten Programmen nutzen. Also beispielsweise Material aus [Battle for Wesnoth](http://wesnoth.org). 
+1. Alle GPLv2 or later und GPLv3 lizensierten Programme können direkt Materialien des EWS nutzen. 
+2. Wir können Material aus allen GPLv2 or later und GPLv3 lizensierten Programmen nutzen. Also beispielsweise Material aus [Battle for Wesnoth](http://wesnoth.org). 
 3. Jeder, der sich mit freier Software beschäftigt, kennt die GPL und weiß, was sie bedeutet. 
 
-Er hat nur einen Nachteil: Wir müssen jetzt jedem EWS eine Kopie der GPLv3 beilegen. 
+Der Wechsel hat nur einen Nachteil: Wir müssen jetzt jedem EWS eine Kopie der GPLv3 beilegen. 
 
 Definitionen
 ------------
