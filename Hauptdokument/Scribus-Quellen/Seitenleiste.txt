@@ -4,7 +4,10 @@ Ich bin Drak, und ich werde dir in diesem Heft mit Ratschlägen zur Seite stehen
 Ein paar Worte zu dem Heft, das nun vor dir liegt. 
 
 Du findest hier die wichtigsten Grundregeln, die du brauchst, um mit dem EWS zu spielen, auch wenn sich ein paar Zusatzregeln ein- geschlichen haben, weil sie für fast jede Runde interessant sein dürften. Die sollten  allerdings erkennbar sein, und ihr könnt und sollt sowieso selbst entscheiden, welche Regeln für eure Runde Sinn ergeben. 
-Von mir findest du dann und wann Anmerkungen und kleine Tipps, vor allem aber Hinweise auf weitere Quellen, die du nutzen kannst, z.B. auf Module, die zum jeweiligen Abschnitt passen. 
+
+Grundtexte sind dabei im Haupttext, Optionales, Hintergründe und Ideen (wie diese Vorrede) in der Seitenleiste. Für bessere Übersichtlichkeit nutzen wir für Regelteile <tt>eine Schrift mit fester Zeichenbreite</tt> und für Beispiele *kursiven Stil*. 
+
+Von mir findest du dann und wann Anmerkungen und kleine Tipps, vor allem aber Hinweise auf weitere Quellen, die du nutzen kannst, z.B. auf Module, die zum jeweiligen Abschnitt passen. 
 
 Oh, und noch was: 
 Ich duze dich, denn schließlich bin ich, wenn man der Mythologie glauben darf, mindestens 3000 Jahre älter als du und damit ein altehrwürdiges Wesen, dem man Respekt zollen muss. 
