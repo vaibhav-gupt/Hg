@@ -106,6 +106,8 @@ Sven - Ein Spieler in einer EWS-Runde. Der Spieler von Lazaro.
 Anmerkung: Sven ist genau wie Lazaro ein rein fiktiver Charakter, der dabei hilft, das System zu veranschaulichen. 
 
 Stahlkatze gibt es dagegen wirklich (als SC). 
+
+
 Punkte schinden
 Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegensteuern: 
 
