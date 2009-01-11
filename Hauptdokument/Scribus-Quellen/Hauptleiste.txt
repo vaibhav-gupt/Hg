@@ -78,8 +78,8 @@ Solche Proben kommen zum Beispiel bei Stenographie, Kochen und Bogenschießen zu
 
 Um zu sehen, ob einer Handlung Erfolg beschieden ist, wirft die Spielerin einen W6 (einen einzelnen sechsseitigen Würfel). 
 
-Ist das Ergebnis eine gerade Zahl, addiert die Spielerin sie zu ihrem  Wert (zum Beispiel dem Wert ihrer  Fertigkeit Stenographie, Kochen oder Bogenschießen). 
-Ist die Zahl allerdings ungerade, zieht sie die Zahl von diesem Wert ab. 
+Ist die Augenzahl gerade, addiert die Spielerin sie zu ihrem  Wert (zum Beispiel dem Wert ihrer  Fertigkeit Stenographie, Kochen oder Bogenschießen). 
+Ist die Augenzahl allerdings ungerade, zieht sie die Zahl von ihrem Wert ab. 
 
 Diese Art zu würfeln wird von nun an als ±W6 bezeichnet. 
 
