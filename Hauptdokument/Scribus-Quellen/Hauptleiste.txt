@@ -37,9 +37,8 @@ Die Werte von Fertigkeiten liegen wie Eigenschaftswerte zwischen mickrig und leg
 Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die Einfluss auf den Wert haben und gleichzeitig einen Hinweis darauf geben, wie der Charakter seine Fertigkeit nutzt. 
 
 Beispielsweise wird ein Koch, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt. 
-Die genauen Einflüsse der Eigenschaften hängen von der gewählten Art der Charaktererschaffung ab. 
+Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14
 
-Einzelheiten, wie das bei der meistverwendeten Art der Erschaffung funktioniert, bei dem vereinfacht objektiven System (vobsy), findest du auf S. 14. 
 Beruf und Hintergrund
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
@@ -174,7 +173,7 @@ Das zweite Merkmal ersetzt er nach einigem Nachdenken jedoch lieber durch eine w
 
 Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder. 
 
-Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. Dabei ist hier jede Eigenschaft sehr gut, also bei 15, jede Fertigkeit durchschnittlich, also bei 12, und der Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird. 
+Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. Dabei ist hier jede der gewählten Eigenschaften sehr gut, also bei 15, jede Fertigkeit durchschnittlich, also bei 12, und der Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird. 
 
 Warum Eigenschaften und Fertigkeiten diese Werte haben und wie höhere Werte gewählt werden können, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
 
@@ -220,46 +219,41 @@ Und hiermit ist er fertig.
 Die Erschaffung von Lazaro war die einfachste Möglichkeit das vobsy zu nutzen. Es sind allerdings auch bei weitem komplexere Charaktere möglich. 
 Dabei gelten die folgenden sechs Regeln: 
 
-1) Plusse und Minusse für Werte
-Eigenschafts- und Fertigkeitswerte wie auch Merkmale werden im vobsy während der Erschaffung nur durch Plusse und Minusse ausgedrückt. Die entsprechenden Werte und Beschreibungen findest du in der Seitenleiste auf Seite 5 unter "Namen und Werte". 
+1) Plusse und Minusse für Werte, Eigenschaften und Merkmale
+Im vobsy werden während der Erschaffung Werte nur durch Plusse "+" und Minusse "-" ausgedrückt. 
+Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18 (entsprechend der Tabelle "Namen und Werte"). Jedes + erhöht also den durchschnittlichen Wert von 12 um drei Punkte, jedes Minus senkt ihn um drei Punkte. 
+Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse. 
 
 
-2) Kosten in Dreiecken, Eigenschaften und Merkmale
-Die Steigerung von Eigenschaften und Merkmalen um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert beträgt. Damit entstehen die folgenden Kosten, um sie auf dem entsprechenden Wert zu haben: 
+2) Plusse und Minusse für Werte, Fertigkeiten und Berufe
+Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält. Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
+Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
+
+
+3) Zugeordnete Eigenschaften
+Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird der Durchschnittswert angenommen, der keine Boni gibt.
+Berufe und Hintergründe erhalten jeweils Boni aus einer zur Situation passenden Eigenschaft. 
+Eigenschaften mit Werten um 15 (+, also 14,15,16) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++, also 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 (+++) geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
+
+
+4) Kosten in Dreiecken
+Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
 +: 1 Dreieck (Δ) Kosten
 ++: 3 Dreiecke (Δ) Kosten
 +++: 6 Dreiecke (Δ)
 ++++: 10 Dreiecke (Δ)
 
 
-3) Fertigkeiten und Berufe
-Da sie von Eigenschaften gestützt werden, kosten Fertigkeiten soviel wie Eigenschaften, die 3 Punkte höher sind (also ein Plus, bzw. eine Schwelle darüber). 
-Berufe kosten wiederum soviel, wie die Fertigkeit eine Schwelle darüber. 
-
-Damit entstehen für Fertigkeiten die folgenden Kosten: 
-±: 1 Δ (Wie Eig. auf +)
-+: 3 Δ
-++: 6 Δ
-+++: 10 Δ
-++++: 15 Δ
-
-Für Berufe und Hintergründe gilt: 
--: 1 Δ (Wie Eig. auf +)
-±: 3 Δ
-+: 6 Δ
-++: 10 Δ
-+++: 15 Δ|4) Zugeordnete Eigenschaften
-Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird der Durchschnittswert angenommen, der keine Boni gibt.
-Berufe und Hintergründe erhalten Boni aus den drei höchsten Eigenschaften. 
-Eigenschaften mit Werten um 15 (+: 14,15,16) geben einen Punkt Bonus. Eigenschaften mit Werten um 18 (++: 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
-
 5) Dreiecke verschieben
 Dreiecke können verschoben werden, um andere Bereiche zu steigern. Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (z.B. Schreiber) oder ein positives Merkmal (etwa Extremverdauung) nehmen. 
 
+
 6) Stärken für Schwächen
-Eine schwache Eigenschaft (auf -) oder ein negatives Merkmal (auf -) zu nehmen, gibt ein zusätzliches + in diesem Bereich. Stärker negative Werte geben genauso viele  Δ (Ecken) wie ihr positives Gegenstück kosten würde. Also kann ein ängstlicher Charakter mit mickrigem Mut (--) eine weitere überragende (++) Eigenschaft nehmen, da er für das mickrig (--) drei Ecken erhält (siehe Regel 2). 
+Eine schwache Eigenschaft (auf -) oder ein negatives Merkmal (auf -) zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Δ (Ecken) wie ihr positives Gegenstück kosten würde. Also kann ein ängstlicher Charakter mit mickrigem Mut (--) eine weitere überragende (++) Eigenschaft nehmen, da er für das mickrig (--) die für überragend (++) nötigen drei Ecken erhält (siehe Regel 4). 
 
 Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
+
+
 Beispiele für Eigenschaften, Fertigkeiten und Merkmale
 
 Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen. 
