@@ -5,7 +5,7 @@ Ein paar Worte zu dem Heft, das nun vor dir liegt.
 
 Du findest hier die wichtigsten Grundregeln, die du brauchst, um mit dem EWS zu spielen, auch wenn sich ein paar Zusatzregeln ein- geschlichen haben, weil sie für fast jede Runde interessant sein dürften. Die sollten  allerdings erkennbar sein, und ihr könnt und sollt sowieso selbst entscheiden, welche Regeln für eure Runde Sinn ergeben. 
 
-Grundtexte sind dabei im Haupttext, Optionales, Hintergründe und Ideen (wie diese Vorrede) in der Seitenleiste. Für bessere Übersichtlichkeit nutzen wir für Regelteile <tt>eine Schrift mit fester Zeichenbreite</tt> und für Beispiele *kursiven Stil*. 
+Grundtexte sind dabei im Haupttext, Optionales, Hintergründe und Ideen (wie diese Vorrede) in der Seitenleiste. Für bessere Übersichtlichkeit nutzen wir für Regelteile **Fettdruck** und für Beispiele *kursiven Stil*. 
 
 Von mir findest du dann und wann Anmerkungen und kleine Tipps, vor allem aber Hinweise auf weitere Quellen, die du nutzen kannst, z.B. auf Module, die zum jeweiligen Abschnitt passen. 
 
@@ -24,44 +24,33 @@ Modul dazu: Alternative Zufallssysteme (AZul).
 Namen und Werte
 Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet. 
 
-3 ist kaum existent (---)
-6 Mickrig (--)
+9 Schwach
+10 Mäßig
+------
+11 Unter Durchschnitt
+12 Durchschnittlich
+13 Über Durchschnitt
+------
+14 Routiniert/Gut
+15 Sehr Gut/Erfahren
+16 Extrem Gut
+------
+17 Ausgezeichnet
+18 Überragend
 
-9 Schwach (-)
------
-10 Mäßig (-)
-11 Unter Durchschnitt (±)
-12 Durchschnittlich (±) 
-13 Über Durchschnitt (±)
-14 Routiniert/Gut (+)
------
-15 Sehr Gut/Erfahren (+)
-16 Extrem Gut (+)
-17 Ausgezeichnet (++)
-18 Überragend (++)
-
-21 Superb (+++)
-24 Legendär (++++)
 
 Die Namen stimmen
 Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen. 
 
 Gleichstarke Gegner sind daher übrigens wirklich gleich stark, und damit gefährlich. 
+
+
 Schwierigkeit von Proben
 Die Schwierigkeiten liegen auf der selben Skala wie die Eigenschafts- und Fertigkeitswerte. 
 
 Beschreibungen der Schwierigkeit für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12), also die effektive Schwierigkeit von Mindestwürfen, stehen in der Seitenspalte "Mindestwürfe" auf der nächsten Seite.
 
 Module zu Proben: Kritische Erfolge und Patzer (Krit). 
-
-Rundung
-Im EWS werden Zwischenwerte echt gerundet.
-
-Dadurch gilt: 
-
-9/2 = 4,5 = 5, aber
-13/3 = 4,333 = 4, und 
-11/3 = 3,666 = 4
 
 Mindestwürfe
 Schwierigkeiten und Erfolgswahrscheinlichkeiten für einen Charakter mit durchschnittlicher Fertigkeit oder durchschnittlicher Eigenschaft (12) für bestimmte Mindestwürfe:
@@ -86,7 +75,7 @@ Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine H
 Die Eigenschaft Vermögen
 Die Bedeutung der Eigenschaft Vermögen hängt von der Hintergrundwelt ab, daher kann ich dir hier nur eine Richtlinie geben, was sie für Einkommen und Besitz des Charakters bedeutet: 
 
-0: Verskavt
+0: Versklavt
 3: Enteignet
 6: Völlig Pleite
 -
@@ -101,6 +90,7 @@ Die Bedeutung der Eigenschaft Vermögen hängt von der Hintergrundwelt ab, daher
 18: 100x Norm
 21: Multimillionär
 24: Bill Gates u.ä.
+
 Beispielcharaktere
 In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ich möchte sie hier kurz vorstellen: 
 
