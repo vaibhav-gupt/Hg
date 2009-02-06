@@ -30,3 +30,7 @@ for i in Sskreszta-log*
   echo "<a href='index.html'>andere Logeinträge</></body></html>" >> static/$i.html
 done
 
+# Also turn the dot file into the travel diagram (png)
+./aufruf_dot_zu_png.sh
+# And copy the current dot file into static
+cp stationen_unserer_reise.dot static/
