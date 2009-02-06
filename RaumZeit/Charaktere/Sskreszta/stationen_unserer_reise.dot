@@ -2,7 +2,7 @@ digraph G {
     name = "RaumZeit Friedenszwang"
     label = "RaumZeit Friedenszwang"
     // Personen
-    node [shape="diamond"] Sskreszta; Kalem; Fox; Jack; Jack_geht; Ghost; Ghost_geht; Antov; Antov_geht; Antov_wieder; Antov_wieder2
+    node [shape="diamond"] Sskreszta; Kalem; Fox; Jack; Jack_geht; Ghost; Ghost_geht; Antov; Antov_geht; Antov_wieder
     
     node [shape=""]
     // dazugestoßen 
