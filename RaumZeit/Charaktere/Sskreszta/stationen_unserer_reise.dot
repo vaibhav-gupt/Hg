@@ -30,7 +30,6 @@ digraph G {
 
     edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" 
     "Abbaustation in Gasriese" -> "Hakus Paradies, Vorstation" -> "Randstation im Ashar System"
-    "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar"
 
     // Wie es weitergehen koennte. 
     edge [style="dashed"]
@@ -72,7 +71,7 @@ digraph G {
         subgraph cluster4 { 
             name = "Ashar System"
             label = "Ashar System"
-            "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" -> "Mond der D'sol"
+            edge [label="den Piraten folgen"] "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" -> "Mond der D'sol"
             edge [label="Eskorte aus dem Kriegsgebiet"] "Mond der D'sol" -> "Verborgene Sanduhrstation"
         }
 
@@ -80,6 +79,6 @@ digraph G {
         subgraph cluster5 { 
             name = "Ashar"
             label = "Ashar"
-            edge [label="Auftrag der D'sol und Etaros"] Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
+            edge [label="Auftrag, D'sol und Etaros"] Ahar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
         }
 }
