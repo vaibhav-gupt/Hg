@@ -39,14 +39,14 @@ digraph G {
     // Beschreibungen
         
         // Ereignisse auf dem Unwetterplaneten
-        subgraph cluster4 {
+        subgraph cluster0 {
             name = Unwetterplanet
             label = Unwetterplanet
             Unwetterplanet -> "Hoehle des Mutierten" -> Unwetterplanet
         }
         
         // Ereignisse in Ranos
-        subgraph cluster0 {
+        subgraph cluster1 {
             name = Ranos
             label = Ranos
             edge [label="Suchen Stress"]Ranos -> "Goldenes Licht"
@@ -55,23 +55,30 @@ digraph G {
         }
         
         // Ereignisse in Styro
-        subgraph cluster1 {
+        subgraph cluster2 {
             name = Styro
             label = Styro
             Styro -> "T373-8: Mine auf Styro" ->  "Hoehle auf Styro" -> Styro -> "Unterirdische Werft auf Styro" -> "Hochsicherheitstrakt auf Styro" -> Styro 
         }
         
         // Ereignisse auf Remi
-        subgraph cluster2 { 
+        subgraph cluster3 { 
             name = Remi
             label = Remi
             Remi -> "Synachu auf Remi" -> Remi -> "Kloster auf Remi" -> Remi
         }
 
         // Ereignisse bei Ashar
-        subgraph cluster3 { 
-            name = Ashar
-            label = Ashar
-            "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar"
+        subgraph cluster4 { 
+            name = "Ashar System"
+            label = "Ashar System"
+            "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar1" -> "Verborgene Sanduhrstation"
+        }
+
+        // Ereignisse auf Ashar
+        subgraph cluster5 { 
+            name = "Auf Ashar"
+            label = "Auf Ashar"
+            Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Ashar
         }
 }
