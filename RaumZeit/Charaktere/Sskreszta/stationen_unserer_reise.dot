@@ -72,13 +72,13 @@ digraph G {
         subgraph cluster4 { 
             name = "Ashar System"
             label = "Ashar System"
-            "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar1" -> "Verborgene Sanduhrstation"
+            "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" -> "Verborgene Sanduhrstation"
         }
 
         // Ereignisse auf Ashar
         subgraph cluster5 { 
             name = "Auf Ashar"
             label = "Auf Ashar"
-            Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Ashar
+            Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
         }
 }
