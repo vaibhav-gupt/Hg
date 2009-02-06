@@ -39,7 +39,7 @@ digraph G {
     // Beschreibungen
         
         // Ereignisse auf dem Unwetterplaneten
-        subgraph cluster3 {
+        subgraph cluster4 {
             name = Unwetterplanet
             label = Unwetterplanet
             Unwetterplanet -> "Hoehle des Mutierten" -> Unwetterplanet
