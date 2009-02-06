@@ -2,7 +2,7 @@ digraph G {
     name = "RaumZeit Friedenszwang"
     label = "RaumZeit Friedenszwang"
     // Personen
-    node [shape="diamond"] Sskreszta; Kalem; Fox; Jack; Jack_geht; Ghost; Ghost_geht; Antov; Antov_geht
+    node [shape="diamond"] Sskreszta; Kalem; Fox; Jack; Jack_geht; Ghost; Ghost_geht; Antov; Antov_geht; Antov_wieder; Antov_wieder2
     
     node [shape=""]
     // dazugestoßen 
@@ -28,8 +28,8 @@ digraph G {
     edge [label=""]
     Unwetterplanet -> "zerstoerte Station" -> Ranos -> Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
 
-    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" 
-    "Abbaustation in Gasriese" -> "Hakus Paradies, Vorstation" -> "Randstation im Ashar System"
+    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> Remi -> "Abbaustation in Gasriese"
+    Remi -> "Hakus Paradies, Vorstation" -> "Randstation im Ashar System"
 
     // Wie es weitergehen koennte. 
     edge [style="dashed"]
