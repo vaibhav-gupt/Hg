@@ -19,7 +19,7 @@ digraph G {
     "Abbaustation in Gasriese" -> Antov_geht
 
     // wiedergekommen
-    [edge label="Kommt mit Kira von Synarchu zurueck"]
+    edge [label="Kommt mit Kira von Synarchu zurueck"]
     Antov_wieder -> Remi
     
     // Der Weg
