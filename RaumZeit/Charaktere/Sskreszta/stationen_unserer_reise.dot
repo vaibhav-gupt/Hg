@@ -77,8 +77,8 @@ digraph G {
 
         // Ereignisse auf Ashar
         subgraph cluster5 { 
-            name = "Auf Ashar"
-            label = "Auf Ashar"
+            name = "Ashar"
+            label = "Ashar"
             Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
         }
 }
