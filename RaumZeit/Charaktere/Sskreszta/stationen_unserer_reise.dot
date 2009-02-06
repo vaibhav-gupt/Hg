@@ -71,8 +71,8 @@ digraph G {
         subgraph cluster4 { 
             name = "Ashar System"
             label = "Ashar System"
-            edge [label="den Piraten folgen"] "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" -> "Mond der D'sol"
-            edge [label="Eskorte aus dem Kriegsgebiet"] "Mond der D'sol" -> "Verborgene Sanduhrstation"
+            edge [label="den Piraten folgen"] "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" 
+            edge [label="Eskorte aus dem Kriegsgebiet"] Ashar -> "Mond der D'sol" -> "Verborgene Sanduhrstation"
         }
 
         // Ereignisse auf Ashar
