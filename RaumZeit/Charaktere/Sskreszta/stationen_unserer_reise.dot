@@ -80,6 +80,6 @@ digraph G {
         subgraph cluster5 { 
             name = "Ashar"
             label = "Ashar"
-            Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
+            edge [label="Auftrag der D'sol und Etaros"] Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
         }
 }
