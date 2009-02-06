@@ -28,7 +28,7 @@ digraph G {
     edge [label=""]
     Unwetterplanet -> "zerstoerte Station" -> Ranos -> Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
 
-    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> Remi -> "Abbaustation in Gasriese"
+    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> Remi
     Remi -> "Hakus Paradies, Vorstation" -> "Randstation im Ashar System"
 
     // Wie es weitergehen koennte. 
