@@ -115,7 +115,7 @@ geben.
 Legal Notices; however, if the Program has interactive interfaces that do not display 
 Appropriate Legal Notices, your work need not make them do so.*
 
-Wenn es irgendwo Copyrightvermerke gibt, müssen die auch die Lizenz (LGPL) und 
+Wenn es irgendwo Copyrightvermerke gibt, müssen die auch die Lizenz (GPL) und 
 Urheberrechtsvermerke nennen. 
 
 > *A compilation of a covered work with other separate and independent works, which 
