@@ -30,7 +30,7 @@ graph G {
                 
         // Orte, Cons
 	node [shape=octagon,style=dashed,color="0.3 0.5 0.7"]; Orte; Cons
-	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Köln"; Brok; "Dresden"; NordCon; "Karlsruher Spieletage"
+	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Bonn"; Brok; "Dresden"; NordCon; "Karlsruher Spieletage"; "Alfter";
 
 
 	// Beziehungen
@@ -69,7 +69,7 @@ graph G {
 	"Cover" -- "Bilder und Zeichnungen"   
 
 	// Orte
-	Orte -- {Karlsruhe; Heidelberg; "Köln"; Dresden; }
+	Orte -- {Karlsruhe; Heidelberg; "Bonn"; Dresden; }
 	Cons -- { Brok; ESW; "Karlsruher Spieletage"; "NordCon";}
 
 	// Wege von Runde zu Runde
@@ -87,7 +87,8 @@ graph G {
 	Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";}
 	Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"}
 	ESW -- {"Arne Babenhauserheide"; "Björn Bäuerlein"; "Alexander Fuß";"Moritz Herrmann";"Marc";"Brujah";} 
-	"Köln" -- {"Achim Zien"; }
+	"Bonn" -- {"Achim Zien"; }
+        "Alfter" -- {"Achim Zien"; }
     
 	"Brok" -- {"Arne Babenhauserheide"; "Brujah"; "Barbara Bollenbach"; "Moritz Herrmann"; "Björn Bäuerlein"}
 
@@ -157,7 +158,7 @@ graph G {
 	ESW -- {"Arne Babenhauserheide";"Moritz Herrmann";}
 	Brok -- {"Arne Babenhauserheide";}
 	NordCon -- {"Arne Babenhauserheide";}
-        "Köln" -- {"Achim Zien";}
+        "Bonn" -- {"Achim Zien";}
         "Karlsruher Spieletage" -- {"Arne Babenhauserheide";}
 
 	// Nach Runde
