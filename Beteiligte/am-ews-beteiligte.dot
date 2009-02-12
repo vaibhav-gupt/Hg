@@ -158,7 +158,7 @@ graph G {
 	ESW -- {"Arne Babenhauserheide";"Moritz Herrmann";}
 	Brok -- {"Arne Babenhauserheide";}
 	NordCon -- {"Arne Babenhauserheide";}
-        "Bonn" -- {"Achim Zien";}
+        "Alfter" -- {"Achim Zien";}
         "Karlsruher Spieletage" -- {"Arne Babenhauserheide";}
 
 	// Nach Runde
