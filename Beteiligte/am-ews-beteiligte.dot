@@ -75,10 +75,7 @@ graph G {
 	// Wege von Runde zu Runde
 	
 	edge [arrowhead=normal]
-
-
 	edge [arrowhead=none]
-
 
 
 	// Leute
