@@ -17,8 +17,6 @@ graph G {
 
 
 
-
-
 	// Definition der Kategorien
 
 
@@ -83,7 +81,6 @@ graph G {
 
 
 
-
 	// Leute
 	// Spieler
 
@@ -119,7 +116,7 @@ graph G {
     edge [label="SpielerIn",fontsize=8,color="0.3 0.5 0.7"]
 
 
-    // eErste Runde    
+    // Erste Runde    
     edge [color="0.2 0.5 0.7"];	"Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene"; }
     "Benjamin Gepart" -- {"Wächter der Zeit";}
     "Arne Babenhauserheide" -- {"Auf der Flucht";"Erstkontakt";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";"Nexus";"Gefangen zwischen den Welten"; "Greise Helden"}
