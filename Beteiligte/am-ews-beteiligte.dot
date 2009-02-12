@@ -1,8 +1,8 @@
 graph G {
-    ranksep=1;
+    ranksep=2;
 	// Leute
         //Spieler und/oder Spielleiter
-	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; 
+	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; 
         // Sonstige
 	"Gertrud Wenzel"   
 
@@ -10,7 +10,7 @@ graph G {
 	node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"; "Die Hoehlen der Woelfe"; 
     
 	// kurze Runden
-	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; 
+	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Katzhulu"
     
 	// Mitarbeit
 	node [shape=box]; Schlachtfeld; "1w6.org"; "RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Martial Arts Modul"; "RaumZeit Psi"; "Nexus Welt"; "Grundregeln"; "Cover"; 
@@ -23,12 +23,16 @@ graph G {
 
 
 	node [shape=diamond,style=dashed,color="1.0 0.5 0.7"]; Welten; Mitarbeit; 	
-
-	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; 
-	node [shape=box,style=filled,color=".7 .5 1.0"]; Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen"
-
+        
+        // Welten
+	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu"; 
+        
+        // Mitarbeit
+        node [shape=box,style=filled,color=".7 .5 1.0"]; Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen"
+                
+        // Orte, Cons
 	node [shape=octagon,style=dashed,color="0.3 0.5 0.7"]; Orte; Cons
-	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Köln"; Brok; "Dresden"; 
+	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Köln"; Brok; "Dresden"; NordCon; "Karlsruher Spieletage"
 
 
 	// Beziehungen
@@ -39,7 +43,7 @@ graph G {
 
 	// Kategorisierung der Runden
         
-	{"Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; Crossover; "Eine stabile Gesellschaft"; "Nexus-Welt"; "Die Stadt zwischen den Welten"} -- Welten
+	{"Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; Crossover; "Eine stabile Gesellschaft"; "Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu"} -- Welten
 
 	// Kategorisierung der Mitarbeit
 
@@ -56,7 +60,8 @@ graph G {
 	{"Motivation"} -- "Eine stabile Gesellschaft"
 	{"Nexus"} -- "Nexus-Welt"
 	{"Gefangen zwischen den Welten"} -- "Die Stadt zwischen den Welten"
-        {"SR mit dem EWS"} -- "Shadowrun(R)"
+        {"SR mit dem EWS"} -- "Shadowrun®"
+        {"Katzhulu"; } -- "Chthulhu"
 
 	// Nach Mitarbeit
 	"Schlachtfeld" -- Programmierung
@@ -66,7 +71,6 @@ graph G {
 	"Cover" -- "Bilder und Zeichnungen"   
 
 	// Orte
-
 	Orte -- {Karlsruhe; Heidelberg; "Köln"; Dresden; }
 	Cons -- { Brok; ESW; "Karlsruher Spieletage"; "NordCon";}
 
@@ -86,7 +90,7 @@ graph G {
 	// Nach Ort
     edge [color="0.3 0.5 0.7"]
 
-	Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein"; "Tanja"}
+	Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";}
 	Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"}
 	ESW -- {"Arne Babenhauserheide"; "Björn Bäuerlein"; "Alexander Fuß";"Moritz Herrmann";"Marc";"Brujah";} 
 	"Köln" -- {"Achim Zien"; }
@@ -96,6 +100,8 @@ graph G {
 	"Dresden" -- {"Gertrud Wenzel"; }
 
 	"NordCon" -- {"Arne Babenhauserheide"; "Oliver Jahnel"; } // TODO: Namen raussuchen
+        
+        "Karlsruher Spieletage" -- {"Arne Babenhauserheide"; "Oliver Jahnel"; "Jens Stengel"; "Daniel"; "Tanja"; } 
 
     // Nach Mitarbeit
     edge [label=""]
@@ -113,7 +119,7 @@ graph G {
     edge [label="SpielerIn",fontsize=8,color="0.3 0.5 0.7"]
 
 
-    // erste Runde    
+    // eErste Runde    
     edge [color="0.2 0.5 0.7"];	"Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene"; }
     "Benjamin Gepart" -- {"Wächter der Zeit";}
     "Arne Babenhauserheide" -- {"Auf der Flucht";"Erstkontakt";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";"Nexus";"Gefangen zwischen den Welten"; "Greise Helden"}
@@ -154,9 +160,11 @@ graph G {
     
 	Karlsruhe -- {"Julian Groß";"Arne Babenhauserheide";}
 	Heidelberg -- {"Arne Babenhauserheide";}
-	ESW -- {"Arne Babenhauserheide";"Moritz Herrmann"}
-	Brok -- {"Arne Babenhauserheide"}
-	NordCon -- {"Arne Babenhauserheide"}
+	ESW -- {"Arne Babenhauserheide";"Moritz Herrmann";}
+	Brok -- {"Arne Babenhauserheide";}
+	NordCon -- {"Arne Babenhauserheide";}
+        "Köln" -- {"Achim Zien";}
+        "Karlsruher Spieletage" -- {"Arne Babenhauserheide";}
 
 	// Nach Runde
 	edge [label="SL",color="1.0 0.5 0.7"]
@@ -164,4 +172,5 @@ graph G {
 	"Julian Groß" -- {"Auf der Flucht";"Erstkontakt";"Rettet die Weltenkristalle";"Wächter der Zeit";"Piraten und Zerg";}
 	"Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS" }	
 	"Moritz Herrmann" -- "Nexus";     
+        "Achim Zien" -- "Katzhulu";
 }
