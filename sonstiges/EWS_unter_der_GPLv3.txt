@@ -12,7 +12,7 @@ Wir bleiben weiterhin bei unserem Dual-Lizensierungs-Modell. Die Lizenz betrifft
 * Alle verkauften Regeln können frei genutzt, verändert und weitergegeben werden, also auch kommerziell (GPLv3)
 * Alles was auf der Webseite steht kann nichtkommerziell genutzt, verändert und weitergegeben werden (cc nc-sa), es sei denn es steht explizit (und sichtbar) etwas anderes dabei. 
 
-In diesem Beitrag beleuchte ich erst den Hintergrund, was die GPLv3 für uns bewirkt und danach Definitionen der Begriffe, die in der GPLv3 genutzt werden. Am Ende gehe ich die GPLv3 Abschnitt für Abschnitt durch und beschreibe, was der Abschnitt für Regelwerke bedeutet und beschreibe die Schritte zur Relizensierung. 
+In diesem Beitrag beleuchte ich erst den Hintergrund, was die GPLv3 für uns bewirkt und danach Definitionen der Begriffe, die in der GPLv3 genutzt werden. Als nächsten Schritt gehe ich die GPLv3 Abschnitt für Abschnitt durch und beschreibe, was der Abschnitt für Regelwerke bedeutet. Abschließend beschreibe die Schritte zur Relizensierung. 
 
 
 Hintergrund
