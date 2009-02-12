@@ -117,7 +117,7 @@ graph G {
 
     
     // Nach Runde; Farben nach Hauptrunde - TODO: Statt "SpielerIn" den Charakternamen
-    edge [label="SpielerIn",fontsize=8,color="0.3 0.5 0.7"]
+    edge [label="",fontsize=8,color="0.3 0.5 0.7"]
 
 
     // Erste Runde    
