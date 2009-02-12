@@ -1,6 +1,9 @@
 graph G {
     ranksep=2;
-    
+        // Ideen: 
+            // Irgendwie wäre es schön, das Diagramm irgendwann automatisch weiterzuführen, so dass Leute einfach online ihre Runde in eine Liste eintragen können und automatisch im Diagramm sind :) 
+        
+        
 	// Leute
         //Spieler und/oder Spielleiter
 	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; 
