@@ -3,7 +3,7 @@ Das Ein Würfel System jetzt unter der GPLv3
 
 Ab heute sind alle Regeln des Ein Würfel Systems unter der [GNU General Public License](http://gnu.org/licenses/gpl.html) Version 3 oder höher nutzbar, der verbreitetsten freien Softwarelizenz (GPLv3 or later). 
 
-![GPLv3 logo](gpl-v3.png)
+![GPLv3 logo](/bilder/gpl-v3.png)
 
 Es kann damit weiterhin frei genutzt und verändert werden, und Welten können es weiterhin nutzen, ohne selbst frei sein zu müssen. Aber nun hat es eine von Juristen abgesegnete freie Lizenz und damit deutlich mehr Rechtssicherheit. 
 
@@ -49,7 +49,7 @@ Die GPL für Rollenspielregeln, Abschnitt für Abschnitt
 
 Hier gehe ich die Abschnitte der GPlv3 einzeln durch und beschreibe jeweils, was sie für ein Rollenspiel bedeuten. 
 
-> GPL: <http://www.fsf.org/licensing/licenses/gpl.html>
+> GPL: [http://www.fsf.org/licensing/licenses/gpl.html](http://www.fsf.org/licensing/licenses/gpl.html)
 
 > *"System Libraries"*
 
@@ -70,18 +70,18 @@ Regelwerk zu verarbeitende Daten (z.B. Werte).
 
 Diese Daten müssen nicht frei sein. 
 
-> 2. Basic Permissions. [...]
+> *2. Basic Permissions. [...]*
 
 Privat darf damit gemacht werden was man will, und man darf auch andere mit 
 Veränderungen beauftragen, solange das wirklich ein Auftragsverhältnis ist. Sobald es 
 weitergegeben wird, muss der copyleft Teil der Lizenz eingehalten werden, d.h. 
 teile, die freie Teile verwenden, müssen freigegeben werden. 
 
-> 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+> *3. Protecting Users' Legal Rights From Anti-Circumvention Law.*
 
 (Bisher) Irrelevant. 
 
-> 4. Conveying Verbatim Copies.
+> *4. Conveying Verbatim Copies.*
 
 Jeder darf das EWS unverändert weitergeben und auch verkaufen wie er will. 
 
@@ -130,7 +130,7 @@ Die Lizenz gilt nur für Abschnitte, die entweder Abwandlungen des Werkes sind, 
 
 Ein mitgeliefertes Alternativregelwerk muss nicht freigegeben werden. 
 
-> 6. Conveying Non-Source Forms.
+> *6. Conveying Non-Source Forms.*
 
 Quellen können auf verschiedene Arten mitgeliefert werden: 
 
@@ -141,52 +141,52 @@ Quellen können auf verschiedene Arten mitgeliefert werden:
 weitergeben kann, ohne immer die Quellen vorrätig halten zu müssen) - für das EWS kommt das Angebot einfach auf das Buch.
 * Über p2p Netzwerke, müssen verfügbar bleiben. 
 
-> 7. Additional Terms.
+> *7. Additional Terms.*
 
 Ein paar optionale Einschränkungen, die keinen wirklichen Effekt haben (z.B. 
 Markenrechtliches, das eh gilt). 
 
-> 8. Termination.
+> *8. Termination.*
 
 Wenn du gegen die Lizenz verstößt, aber den Verstoß ungeschehen machst, darfst du das 
 Werk nach 60 Tagen wieder unter der Lizenz nutzen. Ist ein Urheber des Werkes 
 beteiligt, verkürzt sich das auf 30 Tage, wenn es das erste Mal war. 
 
-> 9. Acceptance Not Required for Having Copies.
+> *9. Acceptance Not Required for Having Copies.*
 
 Wenn jemand dir eine Kopie gibt, die du in seinem Auftrag weitergeben sollst, musst 
 du die Lizenz nicht annehmen. Aber du darfst das Werk nur ändern oder selbstständig 
 weitergeben, wenn du die Lizenz annimmst. 
 
-> 10. Automatic Licensing of Downstream Recipients.
+> *10. Automatic Licensing of Downstream Recipients.*
 
 Wer legal eine Kopie erhält, egal von wem, erhält auch Nutzungsrechte entsprechend 
 der Lizenz. 
 
-> 11. Patents.
+> *11. Patents.*
 
 Wenn jemand ein Patent hält, das mit dem EWS zu tun hat, und das Werk zusammen mit 
 der Erlaubnis weitergibt, das Patent zu nutzen, wird diese Erlaubnis automatisch auf 
 alle ausgedehnt, die das EWS nutzen (dürfen). 
 
-> 12. No Surrender of Others' Freedom.
+> *12. No Surrender of Others' Freedom.*
 
 Wenn du anderen die Rechte die die Lizenz gibt (nutzen, ändern, weitergeben) nicht 
 geben kannst, darfst du das Werk nicht weitergeben. 
 
-> 13. Use with the GNU Affero General Public License.
+> *13. Use with the GNU Affero General Public License.*
 
 Darf mit AGPL Werken genutzt werden. Das Gesamtwerk wird dann als AGPL angesehen, der 
 Teil bleibt aber unter der GPL. 
 
 Die AGPL verlangt, dass auch dann der Quellcode freigegeben werden muss, wenn nur über Netzwerkkommunikation auf das Werk zugegriffen wird, z.B. weil das Werk auf einem anderen Computer läuft. 
 
-> 14. Revised Versions of this License.
+> *14. Revised Versions of this License.*
 
 Die FSF kann neue Versionen der Lizenz bereitstellen. Sie gelten als höhere Version, 
 wenn sie dem Geist der Lizenz treu bleiben. 
 
-> 15. Disclaimer of Warranty. [..] 16. Limitation of Liability. [...] 17. Interpretation of Sections 15 and 16.
+> *15. Disclaimer of Warranty. [..] 16. Limitation of Liability. [...] 17. Interpretation of Sections 15 and 16.*
 
 Keine automatische Garantie. 
 
