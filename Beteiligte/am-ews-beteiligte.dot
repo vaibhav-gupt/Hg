@@ -14,7 +14,7 @@ graph G {
 	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Katzhulu Einzelknaller"
     
 	// Mitarbeit
-	node [shape=box]; Schlachtfeld; "1w6.org"; "RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Martial Arts Modul"; "RaumZeit Psi"; "Nexus Welt"; "Grundregeln"; "Cover"; 
+	node [shape=box]; Schlachtfeld; "1w6.org"; "RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Martial Arts Modul"; "RaumZeit Psi"; "Nexus Welt"; "Grundregeln"; "Cover"; "TextRPG"; 
 
 
 
@@ -46,7 +46,7 @@ graph G {
 
 	// Kategorisierung der Mitarbeit
 
-	{Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen";    } -- Mitarbeit
+	{Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen"; } -- Mitarbeit
 
 	
 	// Nach Welt
@@ -63,7 +63,7 @@ graph G {
         {"Katzhulu Einzelknaller"; } -- "Chthulhu®"
 
 	// Nach Mitarbeit
-	"Schlachtfeld" -- Programmierung
+	{"Schlachtfeld"; "TextRPG"; } -- Programmierung
 	"1w6.org" -- Internet
 	{"RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Nexus Welt";  } -- Weltenbau
 	{"Grundregeln"; "Martial Arts Modul"; "RaumZeit Psi"; "Konfliktmodul"} -- Regelentwurf
@@ -108,7 +108,7 @@ graph G {
     // Nach Mitarbeit
     edge [label=""]
     
-    edge [color="0.32 0.5 0.7"];    "Arne Babenhauserheide" -- {"Martial Arts Modul"; "Grundregeln"; "1w6.org"; "Erynnia Fantasywelt"; "Freihändler Universum"; "Schlachtfeld"; "RaumZeit Universum"; "RaumZeit Psi"; }
+    edge [color="0.32 0.5 0.7"];    "Arne Babenhauserheide" -- {"Martial Arts Modul"; "Grundregeln"; "1w6.org"; "Erynnia Fantasywelt"; "Freihändler Universum"; "Schlachtfeld"; "RaumZeit Universum"; "RaumZeit Psi"; "TextRPG"; }
     edge [color="0.14 0.5 0.7"];    "Julian Groß" -- {"RaumZeit Universum"; "RaumZeit Psi"; "1w6.org"; "Grundregeln"; }
     edge [color="0.38 0.5 0.7"];    "Oliver Jahnel" -- { "Martial Arts Modul";"1w6.org"; "Grundregeln"; }
     edge [color="1.0 0.5 0.7"];    "Achim Zien" -- {"Schlachtfeld"; "1w6.org"; "Grundregeln"; "Konfliktmodul" }
