@@ -69,7 +69,7 @@ graph G {
 	"Cover" -- "Bilder und Zeichnungen"   
 
 	// Orte
-	Orte -- {Karlsruhe; Heidelberg; "Bonn"; Dresden; }
+	Orte -- {Karlsruhe; Heidelberg; "Bonn"; Dresden; "Alfter"; }
 	Cons -- { Brok; ESW; "Karlsruher Spieletage"; "NordCon";}
 
 	// Wege von Runde zu Runde
