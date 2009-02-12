@@ -9,8 +9,8 @@ Es kann damit weiterhin frei genutzt und verändert werden, und Welten können e
 
 Wir bleiben weiterhin bei unserem Dual-Lizensierungs-Modell. Die Lizenz betrifft daher nur die bisher auch schon kommerziell nutzbaren Teile (die Regeln): 
 
-* Alle verkauften Regeln können frei genutzt, verändert und weitergegeben werden, also auch kommerziell (GPLv3)
-* Alles was auf der Webseite steht kann nichtkommerziell genutzt, verändert und weitergegeben werden (cc nc-sa), es sei denn es steht explizit (und sichtbar) etwas anderes dabei. 
+* Alle verkauften Regeln können frei genutzt, verändert und weitergegeben werden, also auch kommerziell ([GPLv3](http://gnu.org/licenses/gpl.html))
+* Alles was auf der Webseite steht kann nichtkommerziell genutzt, verändert und weitergegeben werden ([cc nc-sa](http://creativecommons.org/licenses/by-nc-sa/2.0/de/)), es sei denn es steht explizit (und sichtbar) etwas anderes dabei. 
 
 In diesem Beitrag beleuchte ich erst den Hintergrund, was die GPLv3 für uns bewirkt und danach Definitionen der Begriffe, die in der GPLv3 genutzt werden. Als nächsten Schritt gehe ich die GPLv3 Abschnitt für Abschnitt durch und beschreibe, was der Abschnitt für Regelwerke bedeutet. Abschließend beschreibe die Schritte zur Relizensierung. 
 
