@@ -1,5 +1,6 @@
 graph G {
     ranksep=2;
+    
 	// Leute
         //Spieler und/oder Spielleiter
 	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; 
@@ -175,4 +176,21 @@ graph G {
 	"Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS" }	
 	"Moritz Herrmann" -- "Nexus";     
         "Achim Zien" -- "Katzhulu";
+
+
+        edge [label="",color="0.0 0.0 0.0"]
+        // Glossar
+        node [shape=diamond,style=dashed,color="0.0 0.0 0.0"]; Glossar; 
+        
+        //Spieler und/oder Spielleiter
+        node [shape=egg,style=solid]; Leute
+
+        // Kampagnen
+        node [shape=ellipse]; Kampagnen
+    
+        // kurze Runden
+        node [shape=ellipse,style=dashed]; "Kurze Runden"
+
+        Glossar -- {Leute; Kampagnen; "Kurze Runden"; }
+
 }
