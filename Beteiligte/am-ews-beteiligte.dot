@@ -30,7 +30,7 @@ graph G {
                 
         // Orte, Cons
 	node [shape=octagon,style=dashed,color="0.3 0.5 0.7"]; Orte; Cons
-	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Bonn"; Brok; "Dresden"; NordCon; "Karlsruher Spieletage"; "Alfter";
+	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Bonn"; Brok; "Dresden"; NordCon; "Karlsruher Spieletage"; "Alfter"; "Mannheim-Friedrichsfeld"; 
 
 
 	// Beziehungen
@@ -69,7 +69,7 @@ graph G {
 	"Cover" -- "Bilder und Zeichnungen"   
 
 	// Orte
-	Orte -- {Karlsruhe; Heidelberg; "Bonn"; Dresden; "Alfter"; }
+	Orte -- {Karlsruhe; Heidelberg; "Bonn"; Dresden; "Alfter"; "Mannheim-Friedrichsfeld"; }
 	Cons -- { Brok; ESW; "Karlsruher Spieletage"; "NordCon";}
 
 	// Wege von Runde zu Runde
@@ -85,9 +85,15 @@ graph G {
         edge [color="0.3 0.5 0.7"]
 
 	Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";}
-	Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"}
+        
+        Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"; "Nele Mueller"; }
+        
+        "Mannheim-Friedrichsfeld" -- {"Arne Babenhauserheide";"Julian Willuhn";"Sarina Kraneis";"Nele Mueller"; }
+        
 	ESW -- {"Arne Babenhauserheide"; "Björn Bäuerlein"; "Alexander Fuß";"Moritz Herrmann";"Marc";"Brujah";} 
+        
 	"Bonn" -- {"Achim Zien"; }
+        
         "Alfter" -- {"Achim Zien"; }
     
 	"Brok" -- {"Arne Babenhauserheide"; "Brujah"; "Barbara Bollenbach"; "Moritz Herrmann"; "Björn Bäuerlein"}
@@ -160,6 +166,7 @@ graph G {
 	NordCon -- {"Arne Babenhauserheide";}
         "Alfter" -- {"Achim Zien";}
         "Karlsruher Spieletage" -- {"Arne Babenhauserheide";}
+        "Mannheim-Friedrichsfeld" -- {"Arne Babenhauserheide";}
 
 	// Nach Runde
 	edge [label="SL",color="1.0 0.5 0.7"]
