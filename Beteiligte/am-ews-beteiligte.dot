@@ -23,7 +23,7 @@ graph G {
 	node [shape=diamond,style=dashed,color="1.0 0.5 0.7"]; Welten; Mitarbeit; 	
         
         // Welten
-	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu"; 
+	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu®"; 
         
         // Mitarbeit
         node [shape=box,style=filled,color=".7 .5 1.0"]; Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen"
@@ -41,7 +41,7 @@ graph G {
 
 	// Kategorisierung der Runden
         
-	{"Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; Crossover; "Eine stabile Gesellschaft"; "Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu"} -- Welten
+	{"Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; Crossover; "Eine stabile Gesellschaft"; "Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu®"} -- Welten
 
 	// Kategorisierung der Mitarbeit
 
@@ -59,7 +59,7 @@ graph G {
 	{"Nexus"} -- "Nexus-Welt"
 	{"Gefangen zwischen den Welten"} -- "Die Stadt zwischen den Welten"
         {"SR mit dem EWS"} -- "Shadowrun®"
-        {"Katzhulu"; } -- "Chthulhu"
+        {"Katzhulu"; } -- "Chthulhu®"
 
 	// Nach Mitarbeit
 	"Schlachtfeld" -- Programmierung
