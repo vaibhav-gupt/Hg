@@ -11,7 +11,7 @@ graph G {
 	node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"; "Die Hoehlen der Woelfe"; 
     
 	// kurze Runden
-	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Katzhulu"
+	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Katzhulu Einzelknaller"
     
 	// Mitarbeit
 	node [shape=box]; Schlachtfeld; "1w6.org"; "RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Martial Arts Modul"; "RaumZeit Psi"; "Nexus Welt"; "Grundregeln"; "Cover"; 
@@ -60,7 +60,7 @@ graph G {
 	{"Nexus"} -- "Nexus-Welt"
 	{"Gefangen zwischen den Welten"} -- "Die Stadt zwischen den Welten"
         {"SR mit dem EWS"} -- "Shadowrun®"
-        {"Katzhulu"; } -- "Chthulhu®"
+        {"Katzhulu Einzelknaller"; } -- "Chthulhu®"
 
 	// Nach Mitarbeit
 	"Schlachtfeld" -- Programmierung
@@ -175,7 +175,7 @@ graph G {
 	"Julian Groß" -- {"Auf der Flucht";"Erstkontakt";"Rettet die Weltenkristalle";"Wächter der Zeit";"Piraten und Zerg";}
 	"Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS" }	
 	"Moritz Herrmann" -- "Nexus";     
-        "Achim Zien" -- "Katzhulu";
+        "Achim Zien" -- "Katzhulu Einzelknaller";
 
 
         edge [label="",color="0.0 0.0 0.0"]
