@@ -180,7 +180,7 @@ graph G {
 
         edge [label="",color="0.0 0.0 0.0"]
         // Glossar
-        node [shape=diamond,style=dashed,color="0.0 0.0 0.0"]; Glossar; 
+        node [shape=diamond,style=solid,color="0.0 0.0 0.0"]; Glossar; 
         
         //Spieler und/oder Spielleiter
         node [shape=egg,style=solid]; Leute
