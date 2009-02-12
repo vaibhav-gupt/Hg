@@ -82,7 +82,7 @@ graph G {
 	// Spieler
 
 	// Nach Ort
-    edge [color="0.3 0.5 0.7"]
+        edge [color="0.3 0.5 0.7"]
 
 	Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";}
 	Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"}
