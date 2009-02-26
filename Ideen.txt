@@ -586,3 +586,20 @@ Fähigkeit: Substanzanalyse und Kräuterkunde verbunden.
 ------ 
 
 Idee: Buch: "Elfen, Orks und Zwerge"
+
+------ 
+
+Ganz auf Lebenspunkte verzichten: Bei jeder Wunde würfeln, ob man noch steht. Abzüge 
+durch bisherige Wunden zählen => z.B. Mindestwurf = Anzahl Wunden * 3 + Kritische * 9. 
+
+Vll. Bei 9 Punkten unter dem Wert Todesgefahr. => Meist erst Ohnmacht, von der man 
+sich wieder erholt. 
+
+Vll. auch erst bei dem Versuch der Erholung prüfen, ob man stirbt. 
+
+Schwierigkeit: Wie skaliert man nach oben oder unten? 
+
+Die Grundidee habe ich bei Alea Iacta Est gefunden :)
+
+------ 
+
