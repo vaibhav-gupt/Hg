@@ -1,0 +1,86 @@
+Das EWS an deine Bedürfnisse anpassen
+=====================================
+
+Um das EWS für deine Welt, deine Kampagne oder deinen Hintergrund anzupassen, kannst du drei grundlegende Schritte nutzen. 
+
+Alle diese Schritte sind optional. Wir haben das Grundsystem sowohl in Fantasy als auch in Science Fiction und Phantastik in unserer Zeit ausgiebig getestet, so dass du das EWS so wie es ist direkt verwenden kannst. 
+
+Allerdings bietet dir die Anpassung den Vorteil, dass die Regeln dann besser das Spielgefühl wiederspiegeln, das du zeigen willst. Eine düster-realistische Welt sollte ein härteres Kampfsystem haben als eine fröhlich-cinematische, und passende Namen für Eigenschaften und Fertigkeiten erhöhen nicht nur den Wiedererkennungswert deiner Kampagne deutlich, sondern beeinflussen auch den Blick der Spieler auf ihre Charaktere. 
+
+Gerade Magiesysteme sind außerdem oft tief mit der Welt und ihren tiefsten Geheimnissen verbunden, sei es nun über Namen von einzelnen Zaubern oder tiefe mystische Prinzipien, die das gesamte Magiesystem durchziehen. 
+
+Nicht zuletzt erleichtern Schablonen und Beispiele deinen Spielern die Suche nach einem zur Welt und Kampagne passenden Charakter. 
+
+
+Schritt 1: Charaktermerkmale
+----------------------------
+
+*Welche Charaktermerkmale sollen das stärkste Rampenlicht erhalten*
+
+Im ersten Schritt sammelst du eine Reihe von Beispielen, denen du in deiner Kampagne das Rampenlicht geben willst. 
+
+Für das System wirst du dafür
+
+* Eigenschaften vorgeben, die in der Welt oder Kampagne wichtig sind, 
+* Beispiele für typische Fertigkeiten und Berufe suchen, 
+* Interessante Merkmale sammeln (z.B. aus Gurps) und
+* Ideen für Ausrüstung, Kleidung und Waffen sammeln. 
+
+In Schritt 3 kommen dazu dann noch Schablonen, die Ideen für Kontakte u.ä. liefern. 
+
+Spieler können natürlich mit der Einwilligung der SL auch anderes wählen, haben dann aber das Risiko, dass ihre Charaktere nicht so viel Rampenlicht, bzw. Spielzeit erhalten wie Charaktere, die auf den Fokus der Kampagne abgestimmt sind. 
+
+Wenn all deine Spieler aus dem geplanten Fokus ausbrechen, solltest du vielleicht dein Kampagnen- oder Weltenkonzept überarbeiten, um es besser auf die Geschmäcker deine Runde abzustimmen, es sei denn, deine Spieler wollen explizit Sonderlinge in deiner Welt spielen, o.ä.. 
+
+
+Schritt 2: Handlungen
+---------------------
+
+*Welche Aktivitäten sollen am wichtigsten oder einzigartig sein?*
+
+Im zweiten Teil kümmerst du dich um die Handlungen im Spiel und sorgst dafür, dass einerseits die Regeln das richtige Spielgefühl widerspiegeln und dass andererseits Handlungen, die in deiner Kampagne am wichtig werden sollen, auch von den Regeln entsprechend detailliert abgedeckt werden. 
+
+Den Detailgrad solltest du natürlich auch an die Vorlieben deiner Runde anpassen. Wenn deine Spieler zum Beispiel am liebsten lange Zeit einfach erzählen, ohne sich um Regeln zu kümmern, brauchst du vermutlich weniger detaillierte Regeln, sondern eher einige in ihrer Auswirkung direkt erfassbare Spezialregeln und vor allem Beispiele liefern. 
+
+Wenn sie es dagegen lieben, die Würfel entscheiden zu lassen, werden detaillierte Regeln für wichtige Handlungen dir helfen, diesen Handlungen mehr Rampenlicht zu geben. 
+
+Als ersten Schritt wählst du dafür Module, die das grundlegende Spielgefühl erzeugen, das du willst, oder wandelst Regeln entsprechend ab. Schau dich dafür einfach mal auf [module.1w6.org](http://module.1w6.org) um. Jedes Modul dort hat auch eine Einführung, die beschreibt, welchen Effekt es wahrscheinlich auf das Spielgefühl in deiner Runde haben wird. 
+
+Beispiele für dabei wichtige Fragen sind: 
+
+* Wie heldenhaft soll deine Runde sein? 
+* Wie tödlich willst du kämpfe? -> Wieviel halten Charaktere aus und wie gefährlich sind Verletzungen? 
+* Wie krass/lustig/... soll sie sein? -> kritische Erfolge und Patzer? Willst du Tabellen für typische Auswirkungen erstellen? 
+* Wie schnell soll die jeweilige Aktion abgehandelt werden? -> Welchen Detailgrad sollen die Regeln haben? 
+
+Als nächsten Schritt schreibst du Module, die deine Runde von anderen abheben sollen, wandelst bestehende ab oder konvertierst sie aus anderen Systemen. 
+
+Darunter fallen Magiesysteme, besondere Situationen (z.B. Schiffskampf, Verführung oder Motivation) u.ä. und außerdem besondere Gegebenheiten der Welt. 
+
+Vielleicht muss ja jeder Charakter sich für einen Weg Pfad entscheiden, dem er folgen will und der ihm Vorteile bringt, solange er ihm treu bleibt, oder jeder hat eine bestimmte, in den Grundannahmen der Welt verankerte Gesinnung, o.ä.. 
+
+
+Schritt 3: Beispiele und Schablonen
+-----------------------------------
+
+Als letzten Schritt kannst du Schablonen (Templates) und Beispiele für Charaktere und NSCs entwerfen, am besten für verschiedene Machtstufen, von normalen Leuten bis zu den Legenden der Welt. 
+
+Dazu gehören auch Ideen zu Namen, Herkunftsorten und ähnlichem. 
+
+Diese Beispiele machen es Spielern dann sehr viel einfacher ihre Charaktere zu erschaffen und geben zusammen mit den Ideen zur Erschaffung aus Schritt 1 viel Material um die Fantasie der Spieler anzuregen. 
+
+(Schablonen sind erst der dritte Schritt, da die Anpassung der Regeln auch die Gestalt der Schablonen beeinflusst. Wenn Kampf bei dir sehr wichtig ist, werden Schablonen wohl viele verschiedene Kampffertigkeiten und Waffen haben, während sie in einer Runde, in der Verführung und Motivation im Rampenlicht stehen, wohl eher Kontakte, soziale Fähigkeiten und besondere Merkmale haben werden. 
+
+
+Feinschliff
+-----------
+
+Natürlich decken diese Punkte immernoch nicht alles ab, aber sie sollten dir einen praktischen Leitfaden bieten, um die Anpassung ins Rollen zu bringen. 
+
+Wann immer dir dann während dem Spielen etwas auffällt, das nicht dem Spielgefühl entspricht, das du für deine Kampagne vor dir siehst, mach dir eine Notiz und überleg dir später, woran es lag und wie du es anpassen kannst. 
+
+Falls dir dabei Möglichkeiten einfallen, wie dieser Leitfaden dir besser hätte helfen können, dann schreib sie einfach. Dafür ist die Kommentarfunktion da. Falls du einfach nur schreiben willst, dass dir der Leitfaden gefällt, freuen wir uns darüber natürlich auch :) 
+
+Und wenn du eigene Module schreibst, lade sie bitte hier hoch! 
+
+So können andere dann auf deine Ideen aufbauen, so wie du auf den bisherigen Ideen aufbauen konntest. Die Chancen stehen gut, dass sie dabei eigene Ideen finden werden, die auch für deine Runde toll sind, auf die du selbst aber nie gekommnen wärst. Und damit profitierst auch du selbst wieder davon. 
