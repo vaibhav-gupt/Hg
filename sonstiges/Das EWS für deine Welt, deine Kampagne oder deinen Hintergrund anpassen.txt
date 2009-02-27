@@ -15,9 +15,9 @@ Nicht zuletzt erleichtern Schablonen und Beispiele deinen Spielern die Suche nac
 Schritt 1: Charaktermerkmale
 ----------------------------
 
-*Welche Charaktermerkmale sollen das stärkste Rampenlicht erhalten*
+*Welche Charaktermerkmale sollen das stärkste Rampenlicht erhalten?*
 
-Im ersten Schritt sammelst du eine Reihe von Beispielen, denen du in deiner Kampagne das Rampenlicht geben willst. 
+Im ersten Schritt sammelst du eine Reihe von Beispielen für Charaktermerkmale, denen du in deiner Kampagne das Rampenlicht geben willst. 
 
 Für das System wirst du dafür
 
@@ -36,13 +36,11 @@ Wenn all deine Spieler aus dem geplanten Fokus ausbrechen, solltest du vielleich
 Schritt 2: Handlungen
 ---------------------
 
-*Welche Aktivitäten sollen am wichtigsten oder einzigartig sein?*
+*Welche Aktivitäten sollen am wichtigsten sein oder deine Runde von anderen abheben?*
 
-Im zweiten Teil kümmerst du dich um die Handlungen im Spiel und sorgst dafür, dass einerseits die Regeln das richtige Spielgefühl widerspiegeln und dass andererseits Handlungen, die in deiner Kampagne am wichtig werden sollen, auch von den Regeln entsprechend detailliert abgedeckt werden. 
+Im zweiten Teil kümmerst du dich um die Handlungen im Spiel und sorgst dafür, dass einerseits die Regeln das richtige Spielgefühl widerspiegeln und dass andererseits Handlungen, die in deiner Kampagne wichtig werden sollen, auch von den Regeln entsprechend detailliert abgedeckt werden. 
 
-Den Detailgrad solltest du natürlich auch an die Vorlieben deiner Runde anpassen. Wenn deine Spieler zum Beispiel am liebsten lange Zeit einfach erzählen, ohne sich um Regeln zu kümmern, brauchst du vermutlich weniger detaillierte Regeln, sondern eher einige in ihrer Auswirkung direkt erfassbare Spezialregeln und vor allem Beispiele liefern. 
-
-Wenn sie es dagegen lieben, die Würfel entscheiden zu lassen, werden detaillierte Regeln für wichtige Handlungen dir helfen, diesen Handlungen mehr Rampenlicht zu geben. 
+Den Detailgrad solltest du allerdings auch an die Vorlieben deiner Runde anpassen. Wenn deine Spieler zum Beispiel am liebsten lange Zeit einfach erzählen, ohne sich um Regeln zu kümmern, brauchst du vermutlich weniger detaillierte Regeln, sondern eher einige in ihrer Auswirkung direkt erfassbare Spezialregeln und vor allem Beispiele. Wenn sie es dagegen lieben, die Würfel entscheiden zu lassen, werden detaillierte Regeln für wichtige Handlungen dir helfen, diesen Handlungen mehr Rampenlicht zu geben, und ihnen das Spielgefühl zu geben, das dir vorschwebt. 
 
 Als ersten Schritt wählst du dafür Module, die das grundlegende Spielgefühl erzeugen, das du willst, oder wandelst Regeln entsprechend ab. Schau dich dafür einfach mal auf [module.1w6.org](http://module.1w6.org) um. Jedes Modul dort hat auch eine Einführung, die beschreibt, welchen Effekt es wahrscheinlich auf das Spielgefühl in deiner Runde haben wird. 
 
@@ -53,7 +51,7 @@ Beispiele für dabei wichtige Fragen sind:
 * Wie krass/lustig/... soll sie sein? -> kritische Erfolge und Patzer? Willst du Tabellen für typische Auswirkungen erstellen? 
 * Wie schnell soll die jeweilige Aktion abgehandelt werden? -> Welchen Detailgrad sollen die Regeln haben? 
 
-Als nächsten Schritt schreibst du Module, die deine Runde von anderen abheben sollen, wandelst bestehende ab oder konvertierst sie aus anderen Systemen. 
+Als nächsten Schritt schreibst du Module, die deine Runde von anderen abheben sollen, wandelst bestehende ab oder konvertierst sie aus anderen Systemen. Wirf dafür am besten auch einen Blick in den [Leitfaden für eigene Module](/deutsch/module/leitfaden-fuer-eigene-module). 
 
 Darunter fallen Magiesysteme, besondere Situationen (z.B. Schiffskampf, Verführung oder Motivation) u.ä. und außerdem besondere Gegebenheiten der Welt. 
 
@@ -81,6 +79,6 @@ Wann immer dir dann während dem Spielen etwas auffällt, das nicht dem Spielgef
 
 Falls dir dabei Möglichkeiten einfallen, wie dieser Leitfaden dir besser hätte helfen können, dann schreib sie einfach. Dafür ist die Kommentarfunktion da. Falls du einfach nur schreiben willst, dass dir der Leitfaden gefällt, freuen wir uns darüber natürlich auch :) 
 
-Und wenn du eigene Module schreibst, lade sie bitte hier hoch! 
+Und wenn du eigene Module schreibst, lade sie bitte bei den [Modulen](http://module.1w6.org) hoch! 
 
 So können andere dann auf deine Ideen aufbauen, so wie du auf den bisherigen Ideen aufbauen konntest. Die Chancen stehen gut, dass sie dabei eigene Ideen finden werden, die auch für deine Runde toll sind, auf die du selbst aber nie gekommnen wärst. Und damit profitierst auch du selbst wieder davon. 
