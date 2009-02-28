@@ -643,3 +643,51 @@ Vordergrund stehen.
 
 ------ 
 
+Interaktionen abstrakt: 
+
+*Einzelinteraktionen:*
+
+Beide Beteiligten würfeln. Diff = Ergebnis. 
+
+Je 3 Punkte Diff Grundeffekt ± 1. 
+Falls es eineen Angreifer gibt, gewinnt der bei einem Gleichstand. 
+
+*Gruppeninteraktionen:*
+
+Aufteilen in einzelne Handlungen, die voneinander abhängen. 
+
+Erst die abhandeln, die von keinen anderen abhängen (wenn niemand, dann alle gleichzeitig, die nur voneinander abhängen od. SL entscheiden lassen). Aus deren Eregebnis erhalten die späteren Boni: Je ± 1 pro Punkt Grundeffekt aus der Einzelinteraktion. 
+
+Dann die Kette runter gehen. 
+
+Beispiel: Raumschiffkampf: Erst die Piloten gegeneinander, dann die Geschützleute. 
+
+Gruppen bilden, von deren Fähigkeiten der Durchschnitt genommen wird, mit herausragenden einzeln + Mods für Überzahl, etc. (Überzahl: (3 * (Anzahl größere / Anzahl kleinere) - 3), max durch Situation gegeben, z.B. 9 bei Nahkampf: 4 auf einen)
+
+Beispiel: Die 20 durchschnittlichen Kanoniere der unterbeschäftigten Raumflotte von _Garad_ gegen 5 hochmotivierte, überragende Piraten mit ihrem legendären Kapitän. 
+
+=> Ohne Kapitän: Je 4 gegen einen -> Malus von 9 für Piraten. 
+
+* Werte Raumflotte: 12
+* Werte Piraten: 9
+
+Es wird effektiv für einen Piraten gewürfelt und das Ergebnis für alle genommen. 
+
+Da sich die Ergebnisse rausmitteln sollten, wird bei extremen Ergebnissen (min. zweimal 5 od. 6) das Erg. _nicht_ verallg., sondern für den Rest nochmal gewürfelt. Gilt als Einzelereignis. 
+
+Als erstes Piloten: 
+
+* Pirat: 18
+* Flotte: 12
+
+=> Durchschnittsbonus +2 für Piraten
+
+Nun greift der Kapitän ein: 
+* Kap: 24; bindet 5 Kanoniere. 
+
+=> Flotte 12, Kap 12 + 2, Piraten (bei 15 gg 5) 12 + 2, Flotte 12, aber die Flotte hat bessere Panzerung (+2). 
+
+=> der Kampf wird spannend. Vermutlich wird die Flotte wegen der Überzahl gewinnen (mehr Kanonen). Wenn jede Kanone allerdings auch zur Abwehr genutzt werden kann (und zwar beliebig oft in der Runde), stehen die Chancen für die Piraten gut. 
+
+------ 
+
