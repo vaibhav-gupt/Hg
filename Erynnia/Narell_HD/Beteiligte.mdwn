@@ -50,8 +50,8 @@ Der Umgangston in der Gruppe wird sofort fröhlicher, wenn er dabei ist.
 Vor kurzem hat er sich selbst das Hypnotisieren beigebracht, und damit _Marn_ vor der Korrumpierung durch _Kirans_ Dämon bewahrt. 
 
 
-Nichtspielercharaktere
-----------------------
+Haupt-NSCs
+----------
 
 **Rouna**
 
@@ -107,3 +107,8 @@ Ein Priester des Lichts, der die nicht-Kirchengebiete erkundet, um schwache Stel
 _Kiran_ hat ihn bei einem Flug auf die Hochebene gesehen. 
 
 _Senraïs_ kann in den Gedanken anderer Leute sprechen und Wesen durch den Erdboden schicken. Jegliche Skrupel hat er schon lange verloren, und die _Narell Ebene_ wirkt für ihn mit ihren Konflikten und der gerade um _Karagos_ massiv ansteigenden Magie wie ein ideales Ziel. Von den extremen Gefahren, die durch die Schwäche der Grenze zur Dimension der _Tsark_ für die _Kirche des Lichts_ entstehen, hat er zwar eine Vorahnung, ignoriert sie aber. 
+
+
+Nebencharaktere
+---------------
+
