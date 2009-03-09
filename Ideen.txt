@@ -691,3 +691,27 @@ Nun greift der Kapitän ein:
 
 ------ 
 
+Proben, die das (notwendige) Ergebnis nicht aufhalten: Der Char nimmt Schaden in 
+Höhe der Punkte, um die er die Probe nicht geschafft hat - je nach Wundschwelle ist 
+das sehr schnell eine Wunde. 
+
+Beispiel: *Corrisande* aus *Das Obsidianherz* (Ju Honisch) Klettert an der Fassade 
+und versucht an einen Balkon zu springen. Der Wurf ist verdammt schwer, und wenn sie 
+abstürzen sollte, wäre sie tot - das darf also nicht passieren, wenn die Geschichte 
+weitergehen soll. 
+
+Sie schafft es, sich festzuhalten, reißt sich aber das Gesicht auf (was für eine 
+Dame von Stand sehr unangenehm ist). 
+
+Natürlich kann Schaden auch nicht-körperlich sein. Gerade Reputation und Vermögen, 
+aber auch Selbstbewusstsein bieten sich an. 
+
+Alternativ kann eine misslungene Probe auch einfach Zeitverlust bedeuten, z.B. 
+3-fache Zeit, pro 3 Punkte unter MW nochmal verdreifacht. 
+
+Oder auch ganz allgemein: Eine negative Folge plus eine weitere je 3 Punkte, um die 
+der MW verfehlt wurde. 
+
+------ 
+
+
