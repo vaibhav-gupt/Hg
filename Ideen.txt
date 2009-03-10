@@ -714,4 +714,36 @@ der MW verfehlt wurde.
 
 ------ 
 
+Ideen aus dem Workshop Action im Rollenspiel von 8t88: 
+
+Fun with Failure: Stuntpunkte für jeden wichtigen Patzer/jedes wichtige Versagen, die später Boni geben können, oder sogar automatischen Erfolg (vll. nur, wenn sie schön beschrieben werden). 
+
+Flashbacks: Wenn du jemanden kennst, erzähl uns einen Flashback, woher du ihn kennst (eine kurze Szene aus der Vergangenheit - sie sollte spannend sein). 
+
+Schlüsselszenen (lines of experience): Wenn eine spezielle (spannende) Szene bestanden wird, schreiben sich die Spieler einen Stichsatz dazu auf. Wenn sie wieder in eine ähnliche Situation kommen, erhalten sie Boni. Merkmal: Besondere Erfahrungen (drei Schlüsselszenen schon erlebt - müssen durch Flashback beschrieben werden, wenn sie auftreten, d.h. sie müssen zum Hintergrund des Charakters passen). 
+
+Beschreiben: Erst die "niederen" (und direkt ankommenden) Sinne (Geruch, Gehör) beschreiben, dann was man sieht. Genauso erst die weniger wichtigen aber stilvollen Teile, dann die geschichtstechnisch relevanten. 
+
+------ 
+
+### (Psychischer) Schaden und spannende Geschichten
+
+Schaden kann einen Char leicht mal schachmatt setzen, psychischer genauso (und oft stärker als) körperlicher. 
+
+Die akuten Folgen von Schaden sollten Chars für langfristige Folgen eintauschen können. 
+* Wenn ein Char Panik hat, kann er sie überwinden, indem er sich den Nachteil "Ich bin eiskalt" nimmt. 
+* Zu heftige aktuelle Erschöpfung kann kurzfristig ignoriert werden, wenn der Spieler sich entscheidet, stattdessen eine Wunde oder ähnliche bleibende Folgen in Kauf zu nehmen. 
+* Um die Wunde zu ignorieren, kann er langfristige Folgen akzeptieren - "Es ist mir egal, ob das mein Knie für immer ruinieren könnte; Ich gehe jetzt weiter!". 
+
+Möglichkeit dazu: Keine zwingenden Folgen, sondern die Gefahr von Folgen: Würfle, ob du bleibende Schäden beibehältst. Wenn du jetzt eiskalt bist, musst du nachher würfeln, ob das bleibt und ein Nachteil wird; 
+
+Idee: Alle möglichen Folgen auf Zettel und zum Charakter legen; in passenden Situationen (Zeit für Charakterentwicklung, vll. Interaktion) oder am Ende der Runde würfeln, ob sie bleiben => Charaktere sammeln mögliche Folgen, wenn sie zu viel riskieren. Vll. wird die Probe für jede zusätzliche mögliche Folge schwerer. Vll. auch direkt nach der Szene würfeln, wenn die Spannung nachlässt => kann direkt zu mehr Interaktion führen, schließlich hat sich gerade was geändert. 
+
+Auf die Art können auch "normalere" Charaktere mehr reißen und Helden gehen langsam kaputt. 
+
+Außerdem werden alle neuen Nachteile zu "coolen Narben". 
+
+Genauso könnte das bewusste Annehmen von Risiken Boni geben - "Ist mir egal, ob ich getroffen werde, ich erwische ihn" -> Wenn der Char dann getroffen wird, behält er Narben zurück, denn die Aktion war wichtig und kann echte Folgen haben - und Narben sind direkt Nachteile oder mindestens Marotten; sie könnten auch bedeuten, dass bestehende Marotten oder Nachteile heftiger werden. 
+
+------ 
 
