@@ -35,7 +35,7 @@ hört, oder ein erbeben in dem Fluss in der Umgebung (oder in der Macht).
 
 -----
 
-EWS tödlicher machen: Trefferpunkte = Konstitution oder passend.
+EWS tödlicher machen: Trefferpunkte = Konstitution oder passend (ews 3.0).
 
 -----
 
@@ -68,7 +68,9 @@ Allgemeine Fertigkeiten sind sehr breit, also zum Beispiel Auftreten, Athletik, 
 
 Wenn ein Charakter nun einen Fokus hat, dann 
 
-... Fokusfertigkeiten kosten den Wert des Fokuss' weniger. (bsp: Fokus bei + (15): Fert. bei 15 gratis. Erst darüber kosten. Fokus bei +++ (21): Fert. bei +++ kosten jeweils nur ein Plus. 
+... Fokusfertigkeiten kosten den Wert des Fokusses weniger. (bsp: Fokus bei + (15): Fert. bei 15 gratis. Erst darüber kosten. Fokus bei +++ (21): Fert. bei +++ kosten jeweils nur ein Plus. 
+
+(durch Beruf, auf Beruf aufbauende Fertigkeiten und Spezialisierung ersetzt)
 
 -----
 
@@ -84,7 +86,7 @@ Je nachdem wie stark dadurch das Verhalten des Charakters eingeschränkt wird (w
 
 Sollte der Glauben des Charakters an seinen Pfad erschüttert werden, erhält er die gleichen Punkte als Abzug auf alle Proben, bis er einen neuen Pfad für sich gefunden hat. 
 
-Soll widerspiegeln, dass Charaktere oft eher durch den Verlust an ihre eigenen Werte und ihre eigenen Handlungen verlieren als durch reine Kampfkraft, und dass Charaktere, die sich exakt einem Ziel verschrieben und dieses Ziel mit all ihrem Wesen leben, solange sie ihrem Ziel treu bleiben in der Literatur und Comics so gut wie unstoppbar sind.
+Soll wiederspiegeln, dass Charaktere oft eher durch den Verlust an ihre eigenen Werte und ihre eigenen Handlungen verlieren als durch reine Kampfkraft, und dass Charaktere, die sich exakt einem Ziel verschrieben und dieses Ziel mit all ihrem Wesen leben, in der Literatur und Comics so gut wie unstoppbar sind, solange sie ihrem Ziel treu bleiben.
 
 Höchstmöglicher Bonus: Willenstkraft / 3 oder ähnlich passendes. 
 
@@ -125,7 +127,7 @@ Naruto Ninja-Kämpfe (Naru)
 
 - Merkmal: Vorhersehen der Aktionen des Gegners: Effektiv mehrere Auslöser für eine Ebene, oder Joker (greift bei jeder Aktion des Gegners). 
 
-- Machtunterschiede: In Naruto sind die Unterschiede in der Macht der Charaktere extrem groß. Schon in einer stufe (z.B. Genin) gibt es Charaktere, gegen die die anderen so gut wie nie eine Chance haben, und nur die mächstigsten in einer Klasse können mit denen der nächsten Klasse mithalten. Kakashi hat alleine Naruto und die beiden anderen in Schach gehalten, und er hätte es mit min. 6 von ihnen aufnehmen können. Um diese Verhältnisse widerzuspiegeln, würde ich die Klassen als jeweils etwa 12 Punkte auseinander einschätzen (Fertigkeit: 12: Genin, 24: ..., 36: Kakashi, 48: Hokage). Außerdem entwickeln sich die Charaktere recht schnell, daher würde ich etwa 3 bis 6 Striche pro Spielabend ansetzen (3 Striche: 10 Spielabende für die Entwicklung vom Genin zur eins höhreren Stufe. 26 Spielabende bis zum Level von Kakashi und 41 weitere bis zum Hokage, wenn nur die Kampffähigkeit gesteigert würde - insgesamt also mindestens 77 Spielabende, was selbst bei einer Runde pro Woche noch eineinhalb Jahre sind). Dazu sollten die Merkmale steigerbar sein, so dass nicht von Anfang an gleich der volle Preis gezahlt werden muss, sondern das Merkmal am Anfang nur einen möglichen Lebensweg aufzeigt und vielleicht ein paar anfängliche Fähigkeiten gibt. 
+- Machtunterschiede: In Naruto sind die Unterschiede in der Macht der Charaktere extrem groß. Schon in einer Stufe (z.B. Genin) gibt es Charaktere, gegen die die anderen so gut wie nie eine Chance haben, und nur die mächstigsten in einer Klasse können mit denen der nächsten Klasse mithalten. Kakashi hat alleine Naruto und die beiden anderen in Schach gehalten, und er hätte es mit min. 6 von ihnen aufnehmen können. Um diese Verhältnisse widerzuspiegeln, würde ich die Klassen als jeweils etwa 12 Punkte auseinander einschätzen (Fertigkeit: 12: Genin, 24: ..., 36: Kakashi, 48: Hokage). Außerdem entwickeln sich die Charaktere recht schnell, daher würde ich etwa 3 bis 6 Striche pro Spielabend ansetzen (3 Striche: 10 Spielabende für die Entwicklung vom Genin zur eins höhreren Stufe. 26 Spielabende bis zum Level von Kakashi und 41 weitere bis zum Hokage, wenn nur die Kampffähigkeit gesteigert würde - insgesamt also mindestens 77 Spielabende, was selbst bei einer Runde pro Woche noch eineinhalb Jahre sind). Dazu sollten die Merkmale steigerbar sein, so dass nicht von Anfang an gleich der volle Preis gezahlt werden muss, sondern das Merkmal am Anfang nur einen möglichen Lebensweg aufzeigt und vielleicht ein paar anfängliche Fähigkeiten gibt. 
 
 - Techniken als Spezialisierungen der Kampf-Feritgkeit mit einem Malus. Sobald die Spezialisierung hoch genug ist, um den Malus auszugleichen, gilt die Technik als gemeistert. 
 
@@ -140,6 +142,12 @@ Naruto Ninja-Kämpfe (Naru)
 - Vielleicht können mit einem Wurf auf den Traum/Antrieb bisherige Mali teilweise ignoriert werden (und er steht doch wieder auf...). 
 
 - Vielleicht hängt die Anzahl der Karten, die man gleichzeitig auf der Hand haben und in einer Runde einsetzen kann von der Stärke des Chars ab (wenn es bei Karten auf der Hand und Karaten pro Runde eine einschränkung gibt). 
+
+- Vielleicht kann er nur eine bestimme Anzahl Techniken als Karten einsetzen und erst beim nächsten Zug eine neue Auswahl treffen. Karten können andere Karten kontern. Wenn er keine konternde Karte hat, wird er getroffen. So verlieren auch Spieler mit vielen Karten bei schlechter Auswahl gegen Spieler mit wenigen. 
+
+- Vielleicht würfeln -> 12 gibt 4 Karten, 15 gibt 5, 18 gibt 6, usw. 
+
+- Vielleicht gemeisterte Techniken als Auswahl der Karten und allgemeine Ninjafertigkeit als Anzahl der Karten (darauf würfeln, um die genaue Anzahl festzulegen). 
 
 -----
 
@@ -219,6 +227,8 @@ Oder nur mit Strichen (=Punkte) Dreiecke bauen, die dann zu Plussen werden.
 Von Everworld Engine: 
 - Battle Angel Alita
 Entscheidungen treffen: Sobald eine Entscheidung getroffen ist: Bonus. Wenn sie ins Wanken gerät: Das gleiche als Malus, bis neue Entscheidung. Dauer bis neue Entscheidung: Würfelwurf. 
+
+(wie in den Pfad wählen)
 
 ------
 
@@ -353,6 +363,8 @@ Damit könnten vollständig nichtlineare Abenteuer entstehen.
 
 Aus diesen Aufschrieben können dann riesige Flussdiagramme werden. 
 
+(gibt es schon bei DnD)
+
 ------ 
 
 Erschaffen in Geschichten: 
@@ -363,7 +375,7 @@ Erschaffen in Geschichten:
 - Ab 30 jedes Jahr einen Strich umlegen, jedes dritte Jahr einen Strich dazu -> mit 60 hat er 12 Dreiecke und 1 Strich. 
 - Ab 60 nur noch Striche umlegen + langsamer Verfall. 
 
-=> Startalter für Charaktere -> Jedes Jarh erzählen, pro Jahr steigern. 
+=> Startalter für Charaktere -> Jedes Jahr erzählen, pro Jahr steigern. 
 
 In 6-Jahren-Abschnitten durchgehen -> bis 18 sind es 3 Abschnitte mit Ereignissen 
 in der Umgebung. Das fuehrt zu uebersichtlicheren Charaktergeschichten und damit 
@@ -371,18 +383,20 @@ klareren Motivationen.
 
 ------ 
 
-Merkmale, die von der Staerke des Chars abhaengen -> reduzieren 
-Erfahrungspunkte. Gilt fuer Merkmale, die eine spezielle Faehigkeit freischalten, 
-die es sonst gar nicht gibt (z.B. Unsterblichkeit u.ae.), weil durch die 
-Faehigkeit Chars in hoeheren Bereichen groessere Vorteile haben, d.h. der 
-Unterschied zwischen Chars haengt z.B. nur von der Differenz ihrer Werte ab, nicht 
+Merkmale, die von der Staerke des Chars abhängen -> reduzieren 
+Erfahrungspunkte. Gilt für Merkmale, die eine spezielle Fähigkeit freischalten, 
+die es sonst gar nicht gibt (z.B. Unsterblichkeit u.ä.), weil durch die 
+Fähigkeit Chars in höheren Bereichen größere Vorteile haben, d.h. der 
+Unterschied zwischen Chars hängt z.B. nur von der Differenz ihrer Werte ab, nicht 
 von dem absoluten Wert, das Merkmal gibt aber einen absoluten Vorteil. 
 
-Vielleicht auch abhaengige Steigerung: "Darf maximal so hoch sein, wie ... "
+Vielleicht auch abhängige Steigerung: "Darf maximal so hoch sein, wie ... "
+
+Oder "muss aufrechterhalten werden": Muss immer (mindestens) den gleichen Prozentsatz an Punkten des Chars haben. Ein Char, der mit 12 Strichen erschaffen wird und ein stärkeabhängiges 3-Strich Merkmal erhält, muss immer 1/4 seiner Punkte in dieses Merkmal investieren. 
 
 ------
 
-Eckenkosten fuer besondere Gegenstaende ausarbeiten, z.B. fuer Psi-Verstaerker; 
+Eckenkosten fuer besondere Gegenstaende ausarbeiten, z.B. fuer Psi-Verstaerker. 
 
 ------ 
 
@@ -565,7 +579,7 @@ Helden werden durch Abenteuer besser, oder durch die Vorberitung darauf.
 folgen kann z.B. grosze Vorteile bringen, bedeutte aber den Weg zu verlireen und 
 oft langfristig den Ultimativen Fall. Gefallene Helden sind tolle Gegenspieler. 
 
-* Helden klarer definireen: "Was bin ich?" (Siehe Belkar: "I'm a shoeless... god 
+* Helden klarer definieren: "Was bin ich?" (Siehe Belkar: "I'm a sexy shoeless god 
 of war!")
 
 * Muss ein direkt spielbares Beispiel enthalten. 
@@ -597,7 +611,7 @@ sich wieder erholt.
 
 Vll. auch erst bei dem Versuch der Erholung prüfen, ob man stirbt. 
 
-Schwierigkeit: Wie skaliert man nach oben oder unten? 
+Schwierigkeit: Wie skaliert man nach oben oder unten? -> wird zwischen Kategorien schon durch den Waffenschaden erledigt. 
 
 Die Grundidee habe ich bei Alea Iacta Est gefunden :)
 
@@ -623,9 +637,9 @@ Kampagnen, in denen jeder Spieler drei oder vier Charaktere hat, die jeweils ein
 anderen Platz in der Gruppe einnehmen: 
 - http://de.wikipedia.org/wiki/Gruppendynamik#Rollen
 
-Rollen: Führer, Spezialist, Arbeiter, Sündenbock. 
+Rollen: Anführer, Spezialist, Arbeiter, Sündenbock. 
 
-Im Verlauf der Kampagne sollte jeder Spieler mindestens einmal die Rolle des Führers 
+Im Verlauf der Kampagne sollte jeder Spieler mindestens einmal die Rolle des Anführers 
 und einmal die des Sündenbocks erleben. 
 
 => drei Gruppen mit "Sozialpunkten". Entscheide, wo du toll, wo mittelmäßig und wo 
@@ -640,6 +654,10 @@ nicht zum Selbstzweck werden.
 
 Der Grundlegende Sinn des Spiels ist Spaß zu haben, und das muss immer im 
 Vordergrund stehen.
+
+Vielleicht auch möglich, indem Archetypen vorgegeben werden, bei denen jeweils in bestimmten Situationen bestimmte Rollen passen -> Anführer z.B. in der eigenen Region, oder im eigenen Metier (Dieb in den Schatten, Ritter im Königshof, ...), das gleiche für Sündenbock und Spezialist. 
+
+Wie kann eine völlige Überdeckung von Spezialist und Anführer vermieden werden? Sollte sie vermieden werden? 
 
 ------ 
 
