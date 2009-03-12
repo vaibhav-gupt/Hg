@@ -765,3 +765,42 @@ Genauso könnte das bewusste Annehmen von Risiken Boni geben - "Ist mir egal, ob
 
 ------ 
 
+### Schildregeln (Sire)
+
+*Da sie anscheinend bisher nirgendwo richtig aufgeschrieben waren*
+
+Schilde haben einen Schildwert  zwischen 1 (Buckler) und 6 (Turmschild). 
+
+*(Die genauen Werte müssen noch in der Praxis erprobt und/oder durchgerechnet werden)*
+
+Wenn ein Charakter mit Schild im Kampf getroffen wird und die Differenz zwischen beiden Proben niedriger als sein Schildwert ist, trifft der Schlag nur den Schild, verursacht also keinen Schaden. Die Stärke der Waffe ist dabei egal, solange der Schild stark genug ist, die Waffe zu stoppen. 
+
+Beispiel: *Jodrik Marrings*, ein Meister von Schwert und Schild (Wert 21), wird auf dem Weg vom Trainingsplatz von einem einem Nebenbuhler um die Hand der seiner Liebsten angegriffen. Sein Gegner dringt mit der Axt auf ihn ein, während *Jodrik* noch Schwert und Schild bei sich hat. Bevor er sich allerdings bereit machen kann, reißt ihm der erste Axthieb das Bein auf (kritische Wunde, Malus von 6) und macht einen Rückzug unmöglich. Er packt seinen Halbschild (Schildwert 3) und sein Schwert (Schaden 4). Beim nächsten Angriff würfeln beide. *Jodrik* kommt inklusive Verletzung auf einen Wert von 12 (er hat eine 3 gewürfelt), sein Gegner auf 15. Da die Differenz von 3 Punkten nicht höher ist als *Jodriks* Schildwert, erwischt sein Gegner nur den Schild - die 10 Punkte Schaden seiner schweren Axt haben keinen Effekt. 
+
+Hätte *Jodrik* keinen Schild getragen, wäre der Angriff durchgekommen und hätte ihm eine zweite kritische Wunde geschlagen, den Kampf also vermutlich entschieden. 
+
+
+#### Statistische Auswirkung von Schilden
+
+Ein Turmschild mit 6 Punkten Schildwert reduziert bei Gleichstarken die Chance getroffen zu werden von 50% auf 18% (1/6). Wenn man aber getroffen wird, ist der Treffer dafür immer heftig/auf Verwundbare Stellen. 
+
+Ein Schild mit 3 Punkten Schildwert senkt die Chance getroffen zu werden genauso wie ein um 3 höherer Fertigkeitswert, erhöht aber nicht die Chance selbst zu treffen. 
+
+Im Gegensatz zum Kampf ohne Schild ist ein Gleichstand kein Treffer, wenn der Verteidiger einen Schild trägt, selbst wenn der Schild einen Wert von 0 hat. 
+
+
+#### Option: Schild als Bonus, der nur gilt, wenn man getroffen wird. 
+
+Schilde werden noch etwas stärker und vermutlich realistischer, wenn der Schildwert immer von der Differenz abgezogen wird, selbst wenn der Schlag durchkommt. 
+
+
+#### Option: Malus durch den Schild
+
+Schilde können je nach Handlichkeit einen Malus auf den Fertigkeitswert geben. 
+
+Vorsicht: Schild 5, Malus 1 ist schwächer als Schild 4, Malus 0, bei Schild 4, Malus 0 die Chance höher ist, selbst zu treffen, die Chance getroffen zu werden allerdings gleich groß bleibt (weil der Gegner bei Malus 1 effektiv durchschnittlich eien um 1 erhöhte Differenz erzielt). 
+
+Faustregel: Pro (volle) 3 Punkte Schildwert kann der Charakter einen Malus von 1 auf seinen Fertigkeitswert erhalten. Dadurch werden Schilde etwas schwächer, weil der Kämpfer mit Schild dann auch seltener trifft. Schilde mit Wert 2 und 5 sollten dann weggelassen werden. 
+
+------ 
+
