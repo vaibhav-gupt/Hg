@@ -4,7 +4,7 @@ Taktische Kämpfe (TakM)
 Einführung
 ----------
 
-Das TakM Modul ermöglicht es, Kämpfe zu entscheiden, ohne den gegner zu verletzen. 
+Das TakM Modul ermöglicht es, Kämpfe zu entscheiden, ohne den Gegner zu verletzen. 
 
 Statt Schaden zu verursachen, erstreiten sich die Kämpfer Vorteile und versuchen den Gegner in eine schlechte Position zu manövrieren, bis sie ihn mit einer einzigen Aktion ausschalten können. 
 
