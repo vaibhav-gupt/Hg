@@ -19,7 +19,7 @@ Differenzierung zwischen Männdern und Frauen
 * Gesundheit: Mann 90%, Frau 100% (Männer sterben im Ø 7 Jahre, oder würdet Ihr das eher als Folge von niedrigerer Vitalität sehen?) 
 )
 
----
+------ 
 
 House of Elegance (von Kayan von Star Spirit)
 
@@ -34,6 +34,8 @@ Elementarmagie erzeugt ein entgegengesetztes/gegenläufiges Potential. Feuerelem
 2 Arten von Elementarmagie: Kurze Reichweite, schöpferisch, erschaffend und lange Reichweite, modifizierend, verstärkend/schwächend, skalierend, 
 
 Auch schöpferische Elementarmagie erzeugt keine Feuerbälle, sondern lässt stattdessen vielleicht den eigenen Stab brennen, oder gleich das Ziel. Extrem kurze Reichweite. 
+
+------ 
 
 ### Das Attribut "Innere Kraft"
 
@@ -51,6 +53,7 @@ Asgil, Diplomat, hat seine zwei IK-Würfel aufgebraucht, um den Botschafter des 
 
 Die Würfel können auch verwendet werden, um bei eigentlich tödlicher Verletzung noch weiterkämpfen zu können. Dabei wird für jeden eingesetzten Punkt der Schaden virtuell um 5LP verringert (was die Modifikationen verringert), allerdings nur in der Szene, in der der Punkt eingesetzt wird. In der nächsten Szene ist der Schaden wieder voll da, und der Charakter leidet zusätzlich an den Kosten des Einsatzes der Inneren Kraft (entweder 5 verlorene AU-Punkte, oder 5 zusätzlich verlorene LP). 
 
+------ 
 
 ### Vorteil: Status (Glaubwürdigkeit, Stand, Beruf)
 * 1: arbeitsloser Penner
@@ -62,6 +65,8 @@ Die Würfel können auch verwendet werden, um bei eigentlich tödlicher Verletzu
 * 7: Über die Stadt hinaus bekannt für xy, Stadtherr, ö.ä.
 * 8: berühmt für xy, reich, bekannt im ganzen Land, 
 König, Prinz, beliebter Militäroffizier, landbekannter Barde, jemand dessen Gunst man sich nicht verscherzt, ö.ä.
+
+------ 
 
 ### Detaillierter Kampf: 
 
@@ -78,10 +83,14 @@ Detaillierteres System:
 
 Modifikatoren: Unsichtbarer Gegner: FW -6/MW +6
 
+------ 
+
 ### Steigerung der Charaktere: 
 
 Ohne Lehrmeister kostet jede Stufensteigerung die doppelten GeP. 
 Bestimmte Erfahrungen können einen Lehrmeister unnötig machen (Gebirgsüberquerung für Überleben (Gebirge), Ein Monat auf dem Schlachtfeld für Nahkampf)
+
+------ 
 
 ## Kategoriesystem
 
@@ -140,6 +149,7 @@ Mit langwierigen Ritualen könnte es möglich sein, Kräfte aus einer höheren K
 * 2: Baum, Wald (Tage, Wochen)
 * 1: Planeten, ganze Ökosysteme, Gebirge, Sonnensysteme, Galaxien
 
+------ 
 
 ## Umsteigen
 
@@ -171,6 +181,8 @@ Dabei wird 10 als 12 gerechnet,
 * 1=2
 * 0=0
 
+------ 
+
 ## Kampf
 
 ### Duelle, Idee 1
@@ -194,13 +206,15 @@ Gewinnt der Angreifer, wird der Verteidiger je nach Situation entweder zurückge
 
 Ein Angreifer kann auch den Schild als Ziel nehmen. Trifft sein Angriff, wird eine vergleichende Stärkeprobe zwischen Angreifer und Verteidiger gewürfelt, wobei der Verteidiger einen Bonus gleich 1/3 des Schildwerts hat (Behinderung durch den Schild fällt hier weg). Optional: Der Schild bekommt dadurch Schaden in Höhe des Schadenswerts der Waffe plus der Differenz im Angriff. 
 
----
+------ 
 
 ### Schaden über Kategoriegrenzen
 
 Wenn eine Kreatur/ein Wesen/ein Gegenstand aus einer anderen Kategorie Schaden durch etwas aus einer niedrigeren Kategorie nimmt, wird der Schaden durch drei geteilt. Kommt der Schaden von einem Wesen aus einer höheren Kategorie, wird er verdreifacht. 
 Diese Regel gilt immer dort, wo das betreffende Attribut in einer anderen Kategorie liegt. Verursacht ein Troll (Stärke Kategorie 5) im Nahkampf einem Menschen Schaden (Konstitution Kategorie 4) wird dieser Schaden verdreifacht, wobei die Werte einer Trollaxt dieselben sind wie die einer Menschlichen Axt (etwa 2W-2). Die verdreifachung des Schadens stellt den Größenunterschied dar. Durch dieses System wird viel unnötiges Rechnnen vermieden, so dass die Aufmerksamkeit eher ins Spielen fließen kann. 
 Nach dem selben System wird der Schaden eines für Menschen ausgelegten Lasergewehrs (Kategorie 4) bei einem Treffer auf ein kleines Scoutschiff (Größe, Kategorie 6) durch 9 geteilt. 
+
+------ 
 
 ## Charaktererschaffung
 
@@ -212,6 +226,8 @@ Um den Charakter in einer Welt die China ähnelt zu erschaffen, wird sen Geburth
 
 Instinkt, Vernunft und Werte als Attribute, um Charakterreaktionen festzulegen. Worauf verlässt sich der Charakter eher? (Aus Aera: Codexwerte (Da aber Instinkt, Vernunft und Glaube)). 
 
+------ 
+
 ## Charakterentwicklung
 
 Nach jedem Spielabend bekommen die Charaktere EP, Entwicklungspunkte, die für Steigerungen von Fertigkeiten, Attributen, Vorteilen und sonstigen veränderlichen Charakterwerten ausgegeben werden können. 
@@ -219,6 +235,8 @@ Ein EP entspricht in den meisten Fällen einem GeP und aufgebrauchte EP werden z
 
 Pro Spielabend sollte für je 2 Stunden Spiel pauschal etwa 1 EP vergeben werden. Außerdem sollten Charaktere für besondere Aktionen, gutes Charakterspiel (des Spielers) und gefährliche Situationen bis zu drei zusätzliche EP erhalten. 
 Der Abschluss epischer Kampagnen und legendäre Taten können mit weiteren Punkten belohnt werden. Je nach Ausmaß etwa jeweils 3 bis 12 GeP für alle Beteiligten, da sich Charaktere durch diese Situationen oft stark weiterentwickeln und sich nicht selten deutich verändern. 
+
+------ 
 
 ## Attributs-/Eigenschaftsideen
 
@@ -267,6 +285,8 @@ Beispiele:
 Seeschiffahrt (einfach, weil das gerade in meinem Kopf ist Smile ): Bewegungsarten (Ruder vs. Segel), Rammen, Kampfvermeidung, Verschiedene Kämpfe gleichzeitig (Magie, Stellung, Nahkämpfe), "Schaden" für Besatzung. 
  
 Teilweise macht es mehr Sinn, statt von Schaden eher von bestimmten Schäden zu reden. Ob ein Schiff jetzt noch 50% oder 40% Trefferpunkte hat mag zwar für die Statistik interessant sein, aber die Besatzugn interessiert dann doch eher, ob es noch dicht ist, ob die Steuerung funktioniert und ob gerader der Mast am Brechen ist und auf sie runter kommt. 
+
+------ 
 
 ## mentaler Schaden
 
@@ -352,8 +372,7 @@ Die Heilung einer schweren Wunde dauert unter denselben Bedingungen einen Monat.
 
 Vernarbt eine mentale Wunde, so kostet sie bis zu 15EP (nach den bereits beschriebenen Regeln) und zieht die hier beschriebenen Nachteile nach sich. 
 
-
-
+------ 
 
 ## Regeln
 
@@ -368,13 +387,15 @@ Exaktes System:
 Vereinfachtes System: 
 
 * - Ohne Belastung bis (ST/3)*(ST/3) in kg
-* - maximale Kraft: (ST/3)*(ST/3)*10 in kg. 
+* - maximale Kraft: (ST*ST) in kg. 
 
-Für eine kategorie drunter oder drüber: zehnteln oder verzehnfachen. 
+Für eine Kategorie drunter oder drüber: zehnteln oder verzehnfachen. 
 
 Für 2 Kategorien drüber oder drunter: tausendsteln oder vertausendfachen. 
 
 Für 3 Kat. drüber od. drunter: lass den maßstab "Stärke" und "Kilogramm" fallen. 
+
+------ 
 
 ### Attributsliste
 
@@ -385,6 +406,8 @@ Geist: Schläue, Bildung, Intelligenz, Wissen, Lernen, Erinnerung, Gedächtnis, 
 Seele: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Veranlagung, Trieb, Ego, Empathie, Schicksal, Ehre,  Intuition, Glück, Magieresistenz, Magiepotential, Magische Begabung, Macht, Gegenwart, Psyche, Zurechnungsfähigkeit, Geistige  Gesundheit, Selbstdisziplin, Sozial, Spirituell, Stil, Willenskraft, Weisheit usw.   
 
 Andere: Rang, Status, Vermögen  
+
+------ 
 
 ### Beschreibung der Attributs- und Fertigkeitsstufen
 
@@ -408,6 +431,7 @@ Legendär: Geschichten über deine Fähigkeiten kursieren in allen informierten 
 Beispiele aus unserer Welt: Muhammed Ali, 
 Beispiele aus Filmen: Conan, Bruce Lee, Gandalf, 
 
+------ 
 
 ## Kampf
 
@@ -451,6 +475,8 @@ Im Cinematischen Martial Art geben je 3 Punkte über 9 in dem Attribut ihm 2 Pun
 * Einfühlungsvermögen: Die Ängste des Gegners finden (=> Mentale Narben ausnutzen)
 * Coolness: reduziert die Abzüge durch ungünstige Ausgangssituationen nach coolen Aktionen. 
 
+------ 
+
 ## Magie
 
 ### Kraftkosten
@@ -459,6 +485,8 @@ Kurzfristige und langfristige Erschöpfung.
 Erschöpfung nicht notwendigerweise nach einem Tag regeneriert. Teilweise ein paar Tage bis Wochen, um wieder die gesamte Kraft zu haben. 
 Seine Größe langsam reduzierender Ausdauerpool, der immer wieder geleert werden kann, seine Größe aber nur langsam regeneriert. 
 Langfristige Erschöpfung regeneriert sich nur mit Schlaf. 
+
+------ 
 
 ##  Psi
 
@@ -484,11 +512,15 @@ Bei einem Treffer auf den Schild bekommt der Charakter Erschöpfung:
 Psi Fähigkeiten können über ihrer Kraft genutzt werden, was aber zusätzliche Anstreg?ngung kostet. 
 Pro Punkt, um den die Kraft temporär (für eine Aktion) gesteigert werden soll, bekommt der Charakter 3 Punkte Erschöpfung. Bei nutzung von zusätzlicher Anstrengung sinkt auch pro Punkt Steigerung der FW um 1 Punkt.
 
+------ 
+
 ## Charaktererschaffung
 ### Hintergrund
 
 Fragen: 
 * Wie verhältsts du dich in Panik? 
+
+------ 
 
 ## Magie
 ### Erschöpfung überziehen
@@ -504,6 +536,8 @@ Sinkt die Ersch. unter -ST/-Ersch., muss ein ST-Wurf gegen MW 12 + Anzahl der Pu
 
 Verkrüppelungen können durch sehr starke Zauber auftreten. Sie gelten als immer auftretende Neben- oder Spezialeffekte oder Fert-Malus für alle ähnlichen Zauber (oder die ganze Kategorie)(SL-Entscheidung). 
 
+------ 
+
 ## Charaktererschaffung
 
 ### Psi-Marotten
@@ -516,6 +550,8 @@ Psi-Effekte (von Jodi-Crown, RaumZeit Charakter):
 * Psychokinese (außerhalb seines Schiffes): Die Geflechte in seinen Händen bewegen sich und leuchten schwach, Chitinplatte auf der rechten Hand leuchtet schwach. 
 * PK (im Schiff): Geflechte in den Händen bewege sich und leuchten stark, lösen sich an der Außenseite von der Handfläche ab, dehnen sich etwas aus (ca. 1cm), ziehen sich aber  nach abbrechen der Verbindung mit dem Verstärker wieder zurück, Chitinlatte an rechter Hand leuchtet stark, Iris der Augen leuchtet  schwach und verändert sich fließend (sehr viel schneller als normal). 
 * Telepathie: Iris der Augen verändert sich schneller (jetzt im deutlich sichtbaren Bereich). 
+
+------ 
 
 ## Kampagnen
 ### Innere Stärke
@@ -574,6 +610,8 @@ Es gibt mindestens eine/n, der/die nicht unterzukriegen ist, aber manchmal körp
 
 Es gibt Leute, die die Motivation immer weiter sterben sehen wollen, weil sie gerade an der Macht sind und keine Veränderungen ertragen können oder Angst vor Veränderungen haben. 
 
+------ 
+
 ## Charaktererschaffung
 ### Vorteil: Führungskraft/Schicksalswandler/Glücksbringer
 
@@ -589,6 +627,8 @@ Kampagnen über viele Inkarnationen. Wichtige Ereignisse, lange Dauer, immer wie
 
 Marskolonien trennen sich ab, Leidenschaften der Menschen, Macht und Versuchung (nach dem alten Bild des Mars, wirkt auf die Menschen). 
 
+------ 
+
 ## Magie
 ### Notizen zu Geistermagie (2002-07): 
 
@@ -602,6 +642,8 @@ Marskolonien trennen sich ab, Leidenschaften der Menschen, Macht und Versuchung 
 * Die Macht der Wahrheit, die Gabe der Sich, das Wissen über Tiere, das Wüten des Sturms, die Kraft der Magie, die Tiefen des Wassers, das Feuer spüren, Leben finden, das Windlesen. 
 * Ein leises Flüstern, das Wogen des Wassers, das Wissen der Namen, Wellen der Füsse, Weben der Wellen, Fluss des Wassers der Tiefen, Weisschweifen/Weisschwingen. 
 
+------ 
+
 ## Kampf
 ### In Kämpfe anderer eingreifen (interrupt): 
 
@@ -612,11 +654,14 @@ Dabei wirft er sich zwischen die beiden Kontrahenten und würfelt gegen den Gegn
 9, wenn sie bis zu zwei Armlängen auseinander sind. 
 Bei noch größeren Entfernungen kann der Spielleiter ein Eingreifen je nach Situation (und Beziehung der Charaktere untereinander) erlauben. Einen Geliebten kann man je nach Hintergrundwelt (z.B. in heroischer Fantasy oder Space Opera) manchmal auch auf 10 Meter noch verteidigen, allerdings liegt diese Entscheidung alleine beim Spielleiter und der Art und dem Spielgefühl der Kampagne. 
 
+------ 
 
 ## Charaktererschaffung
 ### Ruhm, Resourcen, Fähigkeiten
 
 Drei Charakteristika, die addiert vielleicht den gleichen Wert ergeben sollten.
+
+------ 
 
 ## Kampf
 ### Ringen (enger Nahkampf)
