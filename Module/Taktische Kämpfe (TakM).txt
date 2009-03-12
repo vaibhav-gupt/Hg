@@ -110,9 +110,7 @@ Greif dabei auf die Beispiele für Boni zurück. Wenn ein Charakter gegen mehr a
 
 ### Option: Ohne Waffe und Rüstung
 
-Für bestimmte Kampagnen sind Waffen und Rüstungen weniger wichtig. Hier können taktische Kämpfe 
-genutzt werden, um komplett auf normale Waffen zu verzichten. Das einzige, was bei Waffen und 
-Rüstungen dann vermerkt wird, ist welche Effekte sie auf taktische Kämpfe haben. 
+Für bestimmte Kampagnen sind Waffen und Rüstungen weniger wichtig. Hier können taktische Kämpfe genutzt werden, um komplett auf normale Waffenwerte zu verzichten. Das einzige, was bei Waffen und Rüstungen dann vermerkt wird, ist welche Effekte sie auf taktische Kämpfe haben. 
 
 Waffen können z.B. 
 
@@ -128,8 +126,23 @@ Rüstungen können z.B.
 * Kaum Schwachstellen haben (schwerer zu durchdringen - wenn auf den Gegner selbst gezielt wird, muss eine höhere Differenz erzielt werden, um den Kampf zu entscheiden - z.B. 12 für mittlere Rüstungen, 18 für schwere und mehr für Sachen wie Space Marine Panzerung)
 * Gehärtet sein (Waffen können daran abprallen -> reduzieren den Effektiven Malus nach einer verlorenen Aktion um 3, da sie schwer sind aber auch den Bonus nach einer gewonnenen). 
 * Schwer sein und unbeweglich machen (reduzieren den effektiven Fertigkeitswert, z.B. um 3)
+* Fast undurchdringlich sein (Waffen können keinen Schaden machen, es sei denn sie sind Rüstungsbrechend (durchdringen Rüstungen))
+
 
 Schilde können den gleichen Effekt haben wie gehärtete Rüstungen, oder sie ersetzen. Beide verlängern den Kampf effektiv, ermöglichen es also auch, länger auszuhalten.
+
+Diese Effekte lassen sich auch mit Waffen- und Rüstungswerten erzielen. Die Stellscharauben dafür sind: 
+
+* Schildwert (reduziert die effektive Differenz nach dem Treffer). 
+* Waffenschaden, Rüstungsschutz. 
+* Wucht (Nach dem ±W6 Wurf werden eine bestimmte Zahl Punkte addiert ober abgezogen, bevor festgestellt wird, ob die Augenzahl gerade oder ungerade war). 
+* Behinderung durch Rüstung. 
+* Waffenlänge (Boni und Mali).
+
+*(Einige der Stellschrauben sind allerdings bisher noch nicht online beschrieben.)*
+
+Die Effekte einfach mit den Werten zu erzeugen kann für Kampagnen sinnvoll sein, in denen Waffen und Rüstung wichtig sein sollen, aber trotzdem taktische Kämpfe genutzt werden sollen. 
+
 
 
 Beispiel
