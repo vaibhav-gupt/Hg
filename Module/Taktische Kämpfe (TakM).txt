@@ -1,0 +1,175 @@
+Taktische Kämpfe (TakM)
+=======================
+
+Einführung
+----------
+
+Das TakM Modul ermöglicht es, Kämpfe zu entscheiden, ohne den gegner zu verletzen. 
+
+Statt Schaden zu verursachen, erstreiten sich die Kämpfer Vorteile und versuchen den Gegner in eine schlechte Position zu manövrieren, bis sie ihn mit einer einzigen Aktion ausschalten können. 
+
+Kämpfe werden so weniger tödlich und können auch mal ohne notwendige bleibende Folgen verloren werden. 
+
+Taktische Kämpfe wurden vor allem für Zweikämpfe zwischen humanoiden entworfen, können allerdings mit etwas Fantasie auch für andere Kampfsituationen genutzt werden. 
+
+Grundlagen
+----------
+
+### Kampfproben
+
+Kampfhandlungen werden mit dem TakM wie im Fokusmodul Kampf (FoKa) abgehandelt: Beide Kontrahenten würfeln auf ihre Kampffähigkeit und die Differenz bestimmt das Ergebnis.  
+
+Anders als im Fokusmodul Kampf wird die Differenz allerdings nicht als Schaden gerechnet, sondern als Bonus für die nächste Aktion mitgenommen. 
+
+### Den Kampf entscheiden
+
+Sobald ein Cahrakter bei einem Angriff eine Gesamtdifferenz von 9 Punkten erreicht, kann er den Kampf entscheiden. Das kann bedeuten, dass er dem Gegner die Klinge an die Kehle hält, dass er ihm die Waffe aus der Hand prellt, dass er ihn KO schlägt, dass er ihm Handschellen anlegt, oder sogar, dass er einem (wehrlosen) Kampfgefährten das Messer in den Rücken drückt - je nachdem, was in der Situation gerade passt. 
+
+### Schaden versursachen
+
+Allerdings kann sich ein Charakter auch entscheiden, Schaden zu verursachen (wenn er den Wurf gewonnen hat). Dann verfällt allerdings sein Bonus (er wird für den Schaden aufgebraucht). Will ein Charakter Schaden verursachen, wenn er den Kampf entscheidet (bei mindestens 9 Punkten Differenz), wird der Gegner kampfunfähig und erhält Schaden entsprechend der Differenz (Boni eingerechnet). Meistens dürfte er dadurch eine kritische Wunde erhalten. 
+
+### Boni
+
+Der Bonus, den ein Char erhält, wenn er eine Probe gewinnt, entspricht genau der Differenz zwischen seinem Wurf und dem seines Kontrahenten (frühere Boni werden dabei voll aufgerechnet). 
+
+### Sonderfälle
+
+Wenn es aus irgendwelchen Gründen besonders schwer ist, einen Charakter Kampfunfähig zu machen, zum Beispiel weil er eine extrem starke Rüstung trägt, absolut fanatisch ist, nicht sterben kann, o.ä. kann die SL die zum Besiegen mindestens notwendige Differenz erhöhen. 
+
+### Gruppenkämpfe
+
+Taktische Gruppenkämpfe können abgehandelt werden, indem alle Kämpfer in kleine Gruppen eingeteilt werden, in denen immer auf einer Seite nur ein Charakter kämpft. Die Differenz wird dann bei diesem Kämpfer als Malus aufgerechnet, bzw. alle Kämpfer der anderen Seite erhalten einen gemeinsamen Bonus. 
+
+Wenn also zwei gegen einen Kämpfen, und einer der beiden eine positive Differenz erzielt, erhält auch der zweite diesen Bonus. 
+
+Der Malus von 3 Punkten pro zusätzlichem Gegner nach dem ersten gilt in jedem Fall. Wer alleine gegen zwei kämpft, erhält also einen Malus von 3 Punkten. Der Malus wird im Verlauf des Kampfes einfach mit den anderen Boni verrechnet, so dass nur mit einer einzelnen Zahl gearbeitet wird. 
+
+Wenn also einer gegen zwei kämpft, hat er in der ersten runde einen Malus von drei. Gewinnt er gegen den ersten und erzielt eine Differenz von 2, erhält er für die nächste Aktion einen Bonus von 2 Punkten - die drei Punkte Malus sind hier bereits eingerechnet, können also ignoriert werden. 
+
+Sollte einer der Kämpfer sich entscheiden, Schaden zu verursachen (wodurch alle Boni verfallen), beginnt der Kämpfer in Unterzahl wieder mit dem Malus. 
+
+Wenn also der eine sich entscheidet, nun Schaden zu verursachen, bekommt zwar vielleicht sein Gegner eine Wunde, aber er selbst beginnt die nächste Aktion wieder mit 3 Punkten Malus. 
+
+Das gleiche geschieht, sobald er einen Kampf für sich entscheidet. Ein Gegner ist besiegt, dafür muss er wieder mit Mali rechnen, als würde er den Kampf gerade beginnen. 
+
+Entscheidet sich ein Kämpfer während dem Kampf eine Weile lang nicht zu handeln, ändert das die Chancen nicht, denn sein Gegner muss immernoch zu jeder Zeit mit einem Angriff rechnen. 
+
+Die SL sollte bei Beschreibungen von Gruppenkämpfen bedenken, dass jede Aktion alle Beteiligten irgendwie beeinflusst. Auf die Art kann ein später handelnder Charakter in Probleme geraten, weil die vor ihm handelnden gepatzt haben. 
+
+
+### Kampfunterbrechung
+
+Wird ein Kampf unterbrochen, kann ein Teil der Boni verfallen - je nachdem, was in der Situation sinnvoll erscheint. 
+
+Ein Kämpfer kann nicht einfach aufstehen, ohne dass sein Gegner ihn lässt (der Versuch könnte den Kampf wieder aufleben lassen). Wieder ins Gleichgewicht kommen oder sich von Überraschung erholen kann er aber sehr wohl. 
+
+Als Faustregel können Boni und Mali auf das nächstniedrigere Vielfache von 3 reduziert werden. 
+
+Aus 7 Punkten Bonus werden also 6 Punkte Bonus und aus 5 Punkten Malus werden 3 Punkte Malus. 
+
+
+### Beispiele für Boni
+
+Boni sind nicht nur abstrakte Zahlen, sondern entsprechen realen Vorteilen im Kampf. So kann ein Bonus von 3 Punkten z.B. bedeuten, dass der Gegner an die Wand gedrängt wird und ein Bonus von 6 Punkten, dass er zu Boden stürzt. 
+
+#### 1-2 Punkte
+
+* In der Seite des gegners
+* Waffe unsicher gehalten
+* Gegner auf schlechten Untergrund gedrängt (Schlamm, Pfütze, Eis)
+* Gegner aus dem Gleichgewicht
+
+#### ab 3 Punkte
+
+* Hinter den gegner gekommen
+* Höherer Stand (z.B. auf einem Tisch)
+* Gegner in der Hocke
+* Gegner beengt (in niedrigem Gang, zwischen zwei Tischen im Café oder auch in einer Menschenmenge)
+* Gegner in die Ecke oder an die Wand gedrängt
+* Gegner muss auf eine unpraktischere Zweitwaffe ausweichen (z.B. Dolch)
+
+#### ab 6 Punkte
+
+* Gegner liegt am Boden
+* Gegner hat die Waffe verloren
+* Gegner steht vor dem Abgrund. Ein falscher Schritt und er stürzt (den Kampf beenden kann hier auch bedeuten, ihn in den Abgrund zu strüzen -> "Ich komme wiiiieder!")
+
+
+### Tipps für die Beschreibung
+
+Beschreibe lebendig was passiert und wie die Gegner reagieren. Es gibt dabei nur zwei Grenzen: Schaden wird nur verursacht, wenn der Spieler explizit Schaden ansagt, und ein Kämpfer wird nur kampfunfähig, wenn sein Gegner 9 Punkte Differenz erzielt und ihn damit kampfunfähig machen will. 
+
+Greif dabei auf die Beispiele für Boni zurück. Wenn ein Charakter gegen mehr als einen Gegner gleichzeitig kämpft, beschreibe auch, wie misslungene Versuche eines Kämpers die anderen behindern, oder dem Charakter eine bessere Position geben. 
+
+
+Beispiel
+--------
+
+Der erfahrene Kämpe *Ratak Nirialm* (Fechten 15) sieht sich auf einem Ausflug in die dunkleren Viertel seiner Stadt plötzlich drei Straßenräubern gegenüber. 
+
+Als er das Blitzen der Dolche seiner Gegner erkennt, zieht er sofort seine Klinge und stürzt sich auf den ersten. 
+
+Da die Straßenräuber ihn sofort von allen Seiten bedrängen, erhält er 6 Punkte Malus auf seine Aktionen. Glücklicherweise sind die Straßenräuber nur schwache Messerkämpfer (9); sie erwarten im allgemeinen keinen Widerstand. 
+
+In seiner ersten Aktion hat *Ratak* wegen der Übermacht nur einen effektiven Wert von 9 (15-6), so dass die Chancen ausgewogen sind. 
+
+Gehen wir doch einen Schritt zurück und beobachten die Spielrunde bei diesem Kampf. 
+
+*Ratak*: Ich husche vorwärts und lasse meine Klinge von unten zum Bauch des ersten Straßenräubers zischen. 
+
+SL: Der Straßenräuber versucht deine Klinge mit dem Messer abzulenken und huscht zur Seite. 
+
+Beide würfeln. *Ratak* wirft eine 4, hat also ein ergebnis von 13 (15 - 6 + 4), während die SL eine 1 wirft und auf 8 kommt. *Ratak* hat also effektiv eine Differenz von 4 Punkten erzielt. 
+
+*Ratak*: Als der Hundesohn meine Klinge von seinem Bauch fortlenkt, springe ich vorwärts, um hinter ihn zu kommen, so dass er seinen Kumpanen den Weg versperrt. 
+
+SL: Einer der beiden verbleibenden versucht deinen Gegner zu umrunden. Sein Messer blitzt auf, als er nach deinen Augen sticht. 
+
+*Ratak*: Ha! Er muss mich erst erreichen! Ich erhebe meine Waffe zur Parade, um ihm sein Messer aus der Hand zu schlagen. 
+
+Beide würfeln. *Ratak* erzielt erneut eine 4 und erzielt damit eine 23 (15 + 4 + 4), doch diesmal würfelt die SL eine 6 und kommt damit auf 15. was aber dank des Bonus weit davon entfernt ist, *Ratak* gefährlich zu werden. Mit der DIfferent von 8 kann *Ratak* den Gegner gerade noch nicht ausschalten. 
+
+*Ratak*: Meine Klinge tanzt vor und prellt ihm das Messer aus der Hand. während er noch stockt, stoße ich ihn gegen den Ersten, um dem Dritten den Weg endgültig zu versperren. 
+
+SL: Der Dritte hält sich für den Augenblick zurück, da er dich kaum erreichen kann. Der Erste dagegen wirbelt herum. Seine Klinge scheint fast aus seiner Hand zu wachsen und schießt auf deinen Hals zu. 
+
+*Ratak*: Ich lächle und trete unmerklich einen halben Schritt zurück, dass sein Messer mich nicht erreichen kann. Dann versuche ich ihn mit seinem eigenen Schwung auf den Boden zu schleudern. 
+
+Beide würfeln. *Ratak* hat diesmal weniger Glück beim Würfeln. Sein Würfel zeigt eine 5, doch mit seinem Bonus von 8 Punkten kommt er immerhin auf beachtliche 18 (15 + 8 - 5). Der Straßenräuber würfelt eine 1, kommt also nur auf 8. Nun hat *Ratak* 10 Punkte Differenz, das heiß, er kann diesen Kampf für sich entscheiden. 
+
+*Ratak*: Während das Messer nur um ein paar Fingerbreit an meinem Hals vorbeizischt, packe ich den Arm des Halunken und schleudere ihn an mir vorbei gegen die Wand. Dann wende ich mich den verbliebenen Schurken zu. 
+
+Nun hat *Ratak* wieder alle Mali durch die Übermacht, was jetzt allerdings nur noch 3 Punkte Abzug bedeutet, da einer seiner Gegner ausgeschaltet ist. 
+
+SL: Deine beiden Gegner sammeln sich für einen Moment wieder, dann stürzen sie sich von beiden Seiten auf dich. Der Erste springt dir entgegen und scheint dich einfach umreißen zu wollen. 
+
+*Ratak*: Ich lasse ihn in meine Klinge laufen. Ich verzichte auf den Bonus - ich will Schaden verursachen. 
+
+Beide würfeln. *Ratak* erhält eine 2 und kommt damit auf 14 (15 - 3 + 2), der Straßenräuber erhält eine 4 und kommt so auf 13 (9 + 4). *Rataks* Klinge verursacht 4 Punkte Schaden und die vollen Innentaschen des Straßenräubers geben ihm einen Punkt Rüstung, so dass insgesamt 4 Punkte Schaden durchkommen, eine Wunde (1 Punkt Differenz + 4 Punkte Waffe - 1 Punkt Rüstung). Der Straßenräuber hat also von nun an 3 Punkte Malus - also einen Effektiven Wert von 6. *Ratak* wiederum muss sich erneut mit den 3 Punkten Malus durch die Übermacht herumschlagen. 
+
+SL: Deine Klinge schneidet tief in die Eingeweide des Räubers und warmes Blut pulst über deine Hand, während er dich aus geweiteten Augen ungläubig anblickt. Im selben Moment stürzt sich der Zweite auf dich. 
+
+Beide würfeln. *Ratak* würfelt eine 5 und erhält so 7 (15 - 3 - 5), der Straßenräuber eine 6, was ihn auf 15 bringt (9 + 6) - schlimmer kann es kaum kommen. *Ratak* hat nun also 8 Punkte Malus. 
+
+SL: Während deine Klinge noch im Bauch seines Kumpanen, stößt dein Gegner dich nach hinten. Deine Finger lösen sich vom Griff deiner Waffe als deine Beine sich in dem Ohnmächtigen Dritten verfangen. Du kannst dich gerade noch an der Wand abstüzten, um nicht in den Unrat zu stürzten. 
+
+*Ratak*: Ich stoße mich von der Wand ab und versuche etwas Abstand von meinen Gegnern zu gewinnen. Dann ziehe ich mein Messer aus dem Stiefel und mache mich auf ihren nächsten Angriff bereit. 
+
+SL: Deinen Gegner zögern einen Augenblick und geben dir einen Moment zum Verschnaufen, so dass dein Malus auf 6 Punkte absinkt. Dann sürzen sie sich erneut auf dich. Der Unverletzte stößt sein Messer nach deinem Bein, während der Verletzte versucht, hinter dich zu kommen. erwehre dich des Messers! 
+
+Der Unverletzte und *Ratak* würfeln. *Ratak* erhät eine 4 und kommt damit inklusive Malus auf 13 (15 - 6 + 4). Der Unverletzte wirft eine 2 und kommt so auf 11. Die 2 Punkte Differenz wird *Ratak* in der nächsten Aktion als Bonus haben. 
+
+*Ratak*: Ich trete seine Hand zur Seite. Es wird Zeit das Spiel zu beenden. 
+
+SL: Das gleiche scheint der Verlezte zu denken, denn zwischen seinen Händen baumelt eine Schnur, die er versucht um deinen Hals zu schlingen. 
+
+*Ratak*: Ich wirble mit dem Schwung meines Trittes herum und versuche ihm den Griff meines Dolches mit ganzer Kraft gegen den Schädel zu schmettern, um ihn loszuwerden. 
+
+*Ratak* würfelt eine 2 und kommt damit auf 19 (15 + 2 + 2). Der Verletzte wirft eine 4 und kommt damit auf 10 (6 + 4). *Ratak* kann ihn also ausschalten. 
+
+*Ratak*: Mein Dolchgriff trifft mit einem dumpfem Knall auf seinen Schädel. Während er zu Boden sinkt, wende ich mich dem Letzten zu. 
+
+SL: Als du den Letzten anblickst, wirbelt er herum und flieht in die Dunkelheit. 
+
+*Ratak*: Ich durchsuche seine Kumpane und fessle sie mit Fetzen ihrer Kleidung. 
