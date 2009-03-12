@@ -192,7 +192,9 @@ Mit virtuellem Schild. Normaler Kampf, aber 3 bis 9 Punkte Schild (der Wert des 
 ### Schildideen
 
 Wenn der Stärkeunterschied zwischen Schildträger und Angreifer größer als die Schildstärke ist, würfeln beide bei jedem Treffer auf den Schild (Angriff hätte getroffen, wenn der Getroffene keinen Schild gehabt hätte) einen Stärkewettstreit, wobei der Getroffene 1/3 seines Schildwerts als Bonus hat (Behinderung den Schild fällt hier weg). 
+
 Gewinnt der Angreifer, wird der Verteidiger je nach Situation entweder zurückgeworfen (schwierige Geschicklichkeitsprobe mit der Differenz als Malus) oder der Schild wird ihm vom Arm gerissen. 
+
 Ein Angreifer kann auch den Schild als Ziel nehmen. Trifft sein Angriff, wird eine vergleichende Stärkeprobe zwischen Angreifer und Verteidiger gewürfelt, wobei der Verteidiger einen Bonus gleich 1/3 des Schildwerts hat (Behinderung durch den Schild fällt hier weg). Optional: Der Schild bekommt dadurch Schaden in Höhe des Schadenswerts der Waffe plus der Differenz im Angriff. 
 
 ---
