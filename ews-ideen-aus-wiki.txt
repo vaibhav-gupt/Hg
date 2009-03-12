@@ -3,9 +3,9 @@ documentID=618DBA98-ADED-11D8-A9B5-000A95EC5462]
 
 =Ein(-faches) Würfel System, optionales und Ideen=
 
- >> Vor-/Nachteile/Besonderheiten: 
+## Vor-/Nachteile/Besonderheiten: 
 
- > Ideen
+### Ideen
 
 Differenzierung zwischen Männdern und Frauen
 * Menschl. Frau: Stärke -1, Gesundheit +1, Willenskraft +1, kann schwanger werden. 
@@ -38,7 +38,7 @@ Elementarmagie erzeugt ein entgegengesetztes/gegenläufiges Potential. Feuerelem
 
 Auch schöpferische Elementarmagie erzeugt keine Feuerbälle, sondern lässt stattdessen vielleicht den eigenen Stab brennen, oder gleich das Ziel. Extrem kurze Reichweite. 
 
- > Das Attribut "Innere Kraft"
+### Das Attribut "Innere Kraft"
 
 Innere Kraft wird benutzt um Mana zu manipulieren. Je mehr Innere Kraft, desto mehr Mana, Magiebegabung als Multiplikator. 
 Innere Kraft auch um Mana im eigenen Körper zu speichern, oder direkt Effekte hervorzurufen. 
@@ -50,12 +50,12 @@ Wenn das noch nicht reicht, können nochmal soviele Würfel geworfen werden ({do
 Jeder W4 gibt einen durchschnittlichen bonus von +2,5 auf das Ergebnis. 
 Nach dem Einsatz können die mod-Würfel erst wieder benutzt werden, wenn die Ausdauer regeneriert ist. Dasselbe gilt für die Würfel, die Lebensenergie kosten. Erst nach regeneration der LP können die Punkte wieder eingesetzt werden. Das folgende Szenario ist allerdings möglich: 
 
-Asgil, Diplomat, hat seine zwei IK-Würfel aufgebraucht, um den Botschafter des Tekray-Städtebundes von den Lauteren Absichten seines Imperiums zu überzeugen. Leider kommt in diesem Moment ein bote herein und berichtet von der Armee, die im Anmarsch auf die Stadt ist, und Asgil muss flüchten. Als ein Krieger Tekrays ihn stellt, schleudert er ihn mit übermenschlicher Kraft beiseite (er nutzt 3 weitere Würfel, in der nächsten Szene wird er die Beeinträchtigungen durch mehrere Muskelzerrungen und Muskelfaerrisse, schmerzende Gelenke, etc spüren: 15LP), und flieht. Als er in der Nacht von einem weiteren Soldaten aufgespürt und durch dessen Ungeschicklichkeit geweckt wird, springt er, alle Verletzungen ignoriernd (dafür drei weitere Würfel auswendend: 2 IK Würfel und einen zusätzlichen) auf und schlägt den Wächter nieder. schwer Atmend steht er über ihm, und spürt die unendliche Erschöpfung, die sich in ihm breit macht. Er fällt auf sein Lager und schläft bis in den Morgen. Die nächsten Wochen wird er stark beeinträchtigende Muskel- und Gelenkschmerzen haben, und seine Bewegungen sind seitde nicht mehr so geschmeidig wie früher (Er muss vier Proben auf seine Stärke würfeln (4 eingesetzte zusätzliche Würfel). Jeder kritische Fehler dabei kostet ihn permanent einen Punkt Stärke). 
+Asgil, Diplomat, hat seine zwei IK-Würfel aufgebraucht, um den Botschafter des Tekray-Städtebundes von den Lauteren Absichten seines Imperiums zu überzeugen. Leider kommt in diesem Moment ein Bote herein und berichtet von der Armee, die im Anmarsch auf die Stadt ist, und Asgil muss flüchten. Als ein Krieger Tekrays ihn stellt, schleudert er ihn mit übermenschlicher Kraft beiseite (er nutzt 3 weitere Würfel, in der nächsten Szene wird er die Beeinträchtigungen durch mehrere Muskelzerrungen und Muskelfaerrisse, schmerzende Gelenke, etc spüren: 15LP), und flieht. Als er in der Nacht von einem weiteren Soldaten aufgespürt und durch dessen Ungeschicklichkeit geweckt wird, springt er, alle Verletzungen ignoriernd (dafür drei weitere Würfel auswendend: 2 IK Würfel und einen zusätzlichen) auf und schlägt den Wächter nieder. schwer Atmend steht er über ihm, und spürt die unendliche Erschöpfung, die sich in ihm breit macht. Er fällt auf sein Lager und schläft bis in den Morgen. Die nächsten Wochen wird er stark beeinträchtigende Muskel- und Gelenkschmerzen haben, und seine Bewegungen sind seitde nicht mehr so geschmeidig wie früher (Er muss vier Proben auf seine Stärke würfeln (4 eingesetzte zusätzliche Würfel). Jeder kritische Fehler dabei kostet ihn permanent einen Punkt Stärke). 
 
 Die Würfel können auch verwendet werden, um bei eigentlich tödlicher Verletzung noch weiterkämpfen zu können. Dabei wird für jeden eingesetzten Punkt der Schaden virtuell um 5LP verringert (was die Modifikationen verringert), allerdings nur in der Szene, in der der Punkt eingesetzt wird. In der nächsten Szene ist der Schaden wieder voll da, und der Charakter leidet zusätzlich an den Kosten des Einsatzes der Inneren Kraft (entweder 5 verlorene AU-Punkte, oder 5 zusätzlich verlorene LP). 
 
 
- > Vorteil: Status (Glaubwürdigkeit, Stand, Beruf)
+### Vorteil: Status (Glaubwürdigkeit, Stand, Beruf)
 * 1: arbeitsloser Penner
 * 2: Lehrling
 * 3: Geselle
@@ -66,7 +66,7 @@ Die Würfel können auch verwendet werden, um bei eigentlich tödlicher Verletzu
 * 8: berühmt für xy, reich, bekannt im ganzen Land, 
 König, Prinz, beliebter Militäroffizier, landbekannter Barde, jemand dessen Gunst man sich nicht verscherzt, ö.ä.
 
- > Detaillierter Kampf: 
+### Detaillierter Kampf: 
 
 Schadenssystem: Reines Wundensystem. 7 Kästchen plus unverletzt. Leichte Wunde streicht ein Kästchen, schwere streicht vier, bei 7 besteht Todesgefahr (KO-Probe (18) für jede weitere Wunde, maximal KO/6 weitere leichte Wunden (echt runden) oder eine schwere Wunde)). Abzüge: für jede Wunde -1 auf At und PA. 
 Z.B.: Acht Kästchen untereinander und vier weitere daneben, von unten her. Dazu einen Kasten um die Verwundungsschwelle einzutragen und einen für die Konstitution. 
@@ -81,17 +81,17 @@ Detaillierteres System:
 
 Modifikatoren: Unsichtbarer Gegner: FW -6/MW +6
 
- > Steigerung der Charaktere: 
+### Steigerung der Charaktere: 
 
 Ohne Lehrmeister kostet jede Stufensteigerung die doppelten GeP. 
 Bestimmte Erfahrungen können einen Lehrmeister unnötig machen (Gebirgsüberquerung für Überleben (Gebirge), Ein Monat auf dem Schlachtfeld für Nahkampf)
 
- >> Kategoriesystem
+## Kategoriesystem
 
 Zwischen zwei Kategorien wird normalerweise nicht gewürfelt. 18/3=0/4, 21/3=3/4, 24/3=6/4. Stufe 21 einer Kategorie kann grob Stufe 3 der eins höheren Kategorie zugeordnet werden. 
 Jedes Menschliche Attribut liegt normalerweise auf Stufe 4. Jedes einzelne der Attribute kann wie Stärke in anderen Kategorien liegen, wobei die Kosten dafür bei der Charaktererschaffung pro Attribut, das über der Standard-Kategorie für die Kampagne liegt, 250 GeP betragen. 
 
- > Spezies: Größe
+### Spezies: Größe
 
 * 1: Ameise, Käfer, Nanobot
 * 2: Frettchen, Fee, Windling (>5cm)
@@ -101,7 +101,7 @@ Jedes Menschliche Attribut liegt normalerweise auf Stufe 4. Jedes einzelne der A
 * 6: Riese, Drache, Scoutschiff (~20x)(bis 50m)
 * 7: Weltenschiff, Weltraumwesen, Planet, Kontinent
 
- > Spezies: Magie
+### Spezies: Magie
 
 Mit langwierigen Ritualen könnte es möglich sein, Kräfte aus einer höheren Kategorie/Ebene zu nutzen. 
 
@@ -113,17 +113,17 @@ Mit langwierigen Ritualen könnte es möglich sein, Kräfte aus einer höheren K
 * 6: Dämon, griechischer Gott (Stadt verfluchen, Zeit umkehren, lökale Dimensionen lokal verschmelzen)
 * 7: Gaia, Galaxie (Raumschiff oder Land heimsuchen/verfluchen, zerstören)
 
- > Spezies: Stärke
+### Spezies: Stärke
 
 * 1: Ameise, Nanobot, Fliege
-* 2: Fee, Maus (> 2,5g) (>Geldstückchen) (Nach St: >4g)
-* 3: Kind, Windling, Ratte (>200g) (nach St: >400g)
+* 2: Fee, Maus (> 2,5g) (>Geldstückchen) (Nach St:### 4g)
+* 3: Kind, Windling, Ratte (>200g) (nach St:### 400g)
 * 4: Mensch (10-250kg)
 * 5: Troll (bis 10 Tonnen) (Nach St: bis 5t)
 * 6: Scoutschiff, schwerer Panzer, schwerer Battlemech (bis 40kt) (Nach St: bis 500t)
 * 7: Planet, Weltenschiff, Raumzerstörer, Raumstation, Kontinent
 
- > Spezies: Masse
+### Spezies: Masse
 
 * 1: Fliege, Ameise, Nanobot
 * 2: Fee, Maus, große Käfer(>0,5g)
@@ -133,7 +133,7 @@ Mit langwierigen Ritualen könnte es möglich sein, Kräfte aus einer höheren K
 * 6: Panzer, Scoutschiff, Haus, Seezerstörer (bis 100kt)
 * 7: Planet, Weltenschiff, kontinent
 
- > Spezies: Zeitablauf (Reaktionszeit)
+### Spezies: Zeitablauf (Reaktionszeit)
 
 * 7: Plasmawese, Elektron, Blitz
 * 6: Virus, Computer
@@ -144,9 +144,9 @@ Mit langwierigen Ritualen könnte es möglich sein, Kräfte aus einer höheren K
 * 1: Planeten, ganze Ökosysteme, Gebirge, Sonnensysteme, Galaxien
 
 
- >> Umsteigen
+## Umsteigen
 
- > GURPS Charaktere konvertieren
+### GURPS Charaktere konvertieren
 
 Um GURPS Charaktere zu konvertieren, können die besonderen Attribute übernommen werden (alle, die nicht 9, 10 oder 11 sind). Weitere Attribute können aus den Vorteilen übernommen werden (z.B. Aussehen und Charisma). 
 
@@ -174,9 +174,9 @@ Dabei wird 10 als 12 gerechnet,
 * 1=2
 * 0=0
 
- >> Kampf
+## Kampf
 
- > Duelle, Idee 1
+### Duelle, Idee 1
 
 Parade erschwerenum einen Bonus auf den Angriff zu haben od. dem anderen die Parade zu erschweren (entweder mehr Schaden oder eher treffen). 
 
@@ -185,11 +185,11 @@ Angriff mit Malus für Parade. Malus des Gegners oder mehr Schaden.
 Bei Misslingen in der Runde danach Pa Malus. 
 
 
- > Duelle, Idee 2: 
+### Duelle, Idee 2: 
 
 Mit virtuellem Schild. Normaler Kampf, aber 3 bis 9 Punkte Schild (der Wert des Gegners muss um 3 bis 9 Punkte übertroffen werden, um zu treffen (der Angegriffende muss nach Abzug des Schildwertes (SW) noch um mindestens einen Punkt übertreffen). 
 
- > Schildideen
+### Schildideen
 
 Wenn der Stärkeunterschied zwischen Schildträger und Angreifer größer als die Schildstärke ist, würfeln beide bei jedem Treffer auf den Schild (Angriff hätte getroffen, wenn der Getroffene keinen Schild gehabt hätte) einen Stärkewettstreit, wobei der Getroffene 1/3 seines Schildwerts als Bonus hat (Behinderung den Schild fällt hier weg). 
 Gewinnt der Angreifer, wird der Verteidiger je nach Situation entweder zurückgeworfen (schwierige Geschicklichkeitsprobe mit der Differenz als Malus) oder der Schild wird ihm vom Arm gerissen. 
@@ -197,23 +197,23 @@ Ein Angreifer kann auch den Schild als Ziel nehmen. Trifft sein Angriff, wird ei
 
 ---
 
- > Schaden über Kategoriegrenzen
+### Schaden über Kategoriegrenzen
 
 Wenn eine Kreatur/ein Wesen/ein Gegenstand aus einer anderen Kategorie Schaden durch etwas aus einer niedrigeren Kategorie nimmt, wird der Schaden durch drei geteilt. Kommt der Schaden von einem Wesen aus einer höheren Kategorie, wird er verdreifacht. 
 Diese Regel gilt immer dort, wo das betreffende Attribut in einer anderen Kategorie liegt. Verursacht ein Troll (Stärke Kategorie 5) im Nahkampf einem Menschen Schaden (Konstitution Kategorie 4) wird dieser Schaden verdreifacht, wobei die Werte einer Trollaxt dieselben sind wie die einer Menschlichen Axt (etwa 2W-2). Die verdreifachung des Schadens stellt den Größenunterschied dar. Durch dieses System wird viel unnötiges Rechnnen vermieden, so dass die Aufmerksamkeit eher ins Spielen fließen kann. 
 Nach dem selben System wird der Schaden eines für Menschen ausgelegten Lasergewehrs (Kategorie 4) bei einem Treffer auf ein kleines Scoutschiff (Größe, Kategorie 6) durch 9 geteilt. 
 
- >> Charaktererschaffung
+## Charaktererschaffung
 
- > Nach dem Chinesischen Horoskop
+### Nach dem Chinesischen Horoskop
 
 Um den Charakter in einer Welt die China ähnelt zu erschaffen, wird sen Geburthoroskop festgelegt, um Boni auf die Attribute und einige Grundfertigkeiten zu finden. Dann wird ein Lebensweg festgelegt, der weitere Modifikationen bringt. Dann die Familie und als letztes kann der Spieler noch vollständig individuelle Änderungen vornehmen. 
 
- > Verhaltend es Charakters darstellen
+### Verhaltend es Charakters darstellen
 
 Instinkt, Vernunft und Werte als Attribute, um Charakterreaktionen festzulegen. Worauf verlässt sich der Charakter eher? (Aus Aera: Codexwerte (Da aber Instinkt, Vernunft und Glaube)). 
 
- >> Charakterentwicklung
+## Charakterentwicklung
 
 Nach jedem Spielabend bekommen die Charaktere EP, Entwicklungspunkte, die für Steigerungen von Fertigkeiten, Attributen, Vorteilen und sonstigen veränderlichen Charakterwerten ausgegeben werden können. 
 Ein EP entspricht in den meisten Fällen einem GeP und aufgebrauchte EP werden zu den GeP des Charakters addiert. 
@@ -221,16 +221,16 @@ Ein EP entspricht in den meisten Fällen einem GeP und aufgebrauchte EP werden z
 Pro Spielabend sollte für je 2 Stunden Spiel pauschal etwa 1 EP vergeben werden. Außerdem sollten Charaktere für besondere Aktionen, gutes Charakterspiel (des Spielers) und gefährliche Situationen bis zu drei zusätzliche EP erhalten. 
 Der Abschluss epischer Kampagnen und legendäre Taten können mit weiteren Punkten belohnt werden. Je nach Ausmaß etwa jeweils 3 bis 12 GeP für alle Beteiligten, da sich Charaktere durch diese Situationen oft stark weiterentwickeln und sich nicht selten deutich verändern. 
 
- >> Attributs-/Eigenschaftsideen
+## Attributs-/Eigenschaftsideen
 
- > Aus Aera: 
+### Aus Aera: 
 
 * Geist: Disziplin, Intellekt, Wahrnehmung
 * Körper: Konstitution, Kraft, Geschicklichkeit
 * Seele: Präsenz, Corona, Disziplin
 
- >> Kampf
- > Schiffskampf, Space
+## Kampf
+### Schiffskampf, Space
 
 * Ähnlich wie normaler Kampf
 * Werte für Schiffe: 
@@ -256,20 +256,20 @@ Auch die Manövrierfähigkeit und die Schnelligkeit der Geschütze haben einen k
 
 Jede Stufe, die der Kategoriewert der Waffen über der Kategorie des Rumpfes liegt verdreifacht den Schaden auf das Schiff, jede Stufe die er darunter liegt drittelt den Schaden, bevor die panzerung abgezogen wird (spezielle panzerung kann eine andere Kategorie haben als der Rumpf, was extra bei der Panzerung vermerkt werden muss. Dann wird die Panzerung für jede Stufe, die ihre Kategorie über der des Rumpfes liegt verdreifacht, bzw für jede Stufe darunter durch drei geteilt). 
 
- > Alternatives Schadensmodell für Space
+### Alternatives Schadensmodell für Space
 
 Bei Schaden werden Schiffssysteme beschädigt. "Schwere Wunden" aka schwere Schäden zerstören zentrale Systeme (Waffen, Lebenserhaltung, Antrieb, Elektronik, Hülle (=> Hüllenbruch => Vakuum oder Schotts schließen, Bereich abriegeln), etc.) während leichte Wunden diese Systeme beschädigen (Abzüge bei Benutzung) oder unwichtigere Systeme außer Kraft setzen (Teile der Elektronik (Scan, Zielerfassung, Außenkmeras, Schwerkraftgeneratoren, etc.). 
 "Schwere Wunden" können außerdem zu Verletzungen bei der Besatzung führen. Je nach Situation wird entweder ein schwerer Wurf auf KO, Ge, Reaktion oder sonstige passende Attribute notwendig (MW 15). Jeder Punkt, um den dieser Wert unterschritten wird bedeutet einen Punkt Schaden. Bei Charakteren in kritischen Bereichen oder bei unvorbereiteten Charakteren (die Beispielsweise gerade einen Gang entlanglaufen) kann der Mindeswurf erhöht werden, in extra gesicherten, gedämpften, oder sonstwie geschützten Bereichen kann er gesenkt werden. Meistens wird die Brücke zusätzlich gedämpft sein und gute Pilotensitze bieten Schutz gegen Erschütterungen. 
 Leichte Schäden bedeuten nur für Charaktere im betroffenen Bereich eine Gefahr. 
 
- > Schiffskampf für Fantasy (Seeschiffe)
+### Schiffskampf für Fantasy (Seeschiffe)
 
 Beispiele: 
 Seeschiffahrt (einfach, weil das gerade in meinem Kopf ist Smile ): Bewegungsarten (Ruder vs. Segel), Rammen, Kampfvermeidung, Verschiedene Kämpfe gleichzeitig (Magie, Stellung, Nahkämpfe), "Schaden" für Besatzung. 
  
 Teilweise macht es mehr Sinn, statt von Schaden eher von bestimmten Schäden zu reden. Ob ein Schiff jetzt noch 50% oder 40% Trefferpunkte hat mag zwar für die Statistik interessant sein, aber die Besatzugn interessiert dann doch eher, ob es noch dicht ist, ob die Steuerung funktioniert und ob gerader der Mast am Brechen ist und auf sie runter kommt. 
 
- >> mentaler Schaden
+## mentaler Schaden
 
 Angst, Horror, schreckliche Erlebnisse und Telepathische Angriffe verursachen psychischen Schaden. Psychischer Schaden wird wie physischer abgehandelt, entsteht aber in anderen Situationen. 
 Die Basis für den mentalen schaden, den ein Charakter einstecken kann ist die Mentale Stabilität oder alternativ die Willenskraft. 
@@ -304,7 +304,7 @@ Wird die also Narbe kuriert, werden die gespeicherten Punkte frei und können w�
 Mit diesen Punkten kann auch der durch die Narbe entstandene Nachteil weggekauft werden
 
 
- > Psychische Integrität
+### Psychische Integrität
 
 Ein Attribut, das anzeigt, wie sehr der Charakter korrumpiert wurde, bzw. wie weit er seinen eigenen Idealen treu bleibt und bleiben kann. Ein Attribut, das Selbstbeherrschung bedeutet, aber auch, wie weit der Charakter auf dem Pfad der psychischen Selbszerstörung geht. 
 
@@ -320,7 +320,7 @@ Sie könnte auch als eine Art mentale Langzeit-TP angenommen werden, die durch l
 
 Böse Charaktere mit niedriger psychischer Integrität handeln vielleicht nicht einmal nach Überzeugungen, sondern einfach nach ihren aggressiven Trieben und Leidenschaften (was nicht heißt, dass sie dumm sein müssen, sie werden nur leichter "abgelenkt" oder töten auch mal gegen besseres Wissen).  
 
- > Idee für mentale Narben
+### Idee für mentale Narben
 
 Nach dem Gespräch gestern habe ich (später) gemerkt, dass Erfahrungspunkteverlust doch sehr heftig ist, vor allem für den Charakter mit den mentalen Narben. Deswegen habe ich mir überlegt, dass stattdessen die Narbe EP "transferieren" könnte. Damit würde bei einer Narbe jeder 9. EP, bei 2 jeder 6., bei 3 oder mehr jeder 3. EP stattdessen in Vorteile fließen. Das können Vorteile wie Sturheit sein, oder eine Art mentaler Schild, der mentale Schäden abschwächt. Allerdings muss jeder Vorteil der durch die Punkte genommen wird natürlich mit dem Spielleiter abgesprochen werden. 
 
@@ -331,7 +331,7 @@ Gleichzeitig erzeugt eine Narbe einen psychischen Nachteil, der von Fanatismus b
 
 Narben bewirken auch, dass der Charakter eine Schwachstelle hat, die von anderen getroffen werden kann und dann zu irrationalen und vom Charakter nicht kontrollierbaren Reaktionen führt. Das wird durch einen Nachteil ausgedrückt, der nur aktiviert wird, wenn die Narbe gtroffen wird (alles von Stummheit bis Berserker). 
 
- > Mentale Narben für RaumZeit
+### Mentale Narben für RaumZeit
 
 Mentale Narben können Charaktere bei einschneidenden Erlebnissen erhalten. 
 Oft passiert das bei schweren mentalen Wunden, allerdings nicht immer (Spielleiterentscheidung). Narben können auch entstehen, wenn regeltechnisch kein mentaler Schaden entsteht (nicht aller Schaden wird regeltechnisch erfasst, und manche erlebnisse hinterlassen aufgrund der Vorgeschichte des Charakters auf jeden Fall Narben). 
@@ -342,7 +342,7 @@ Gleichzeitig bekommt der Charakter 1/9 weniger Erfahrungpunkte für Spielabende,
 
 Wird die Narbe irgendwann kuriert, werden die gespeicherten Punkte frei und können während den nächsten 2 Wochen (InPlay) ausgegeben werden. Das repräsentiert begeistertes Lernen, das die Lücke, die die Narbe hinterlassen hat, ausfüllt. Mit diesen Punkten kann auch der durch die Narbe entstandene Nachteil weggekauft werden. 
 
- > Mentaler Schaden und Heilung
+### Mentaler Schaden und Heilung
 
 Mentaler Schaden heilt langsam. Wunden heilen erst, wenn der mentale Schaden auf 0 gesunken ist. 
 Bleibt der mentale Schaden für längere Zeit bestehen, können die Wunden vernarben und bleibende Psychosen hinterlassen. Wenn der Charakter wieder mentalen Schaden erhält während eine Wunde heilt, wird der Heilungsprozess unterbochen, und die Heilung der Wunde beginnt erst wieder von vorne, wenn der Schaden geheilt ist. 
@@ -356,9 +356,9 @@ Vernarbt eine mentale Wunde, so kostet sie bis zu 15EP (nach den bereits beschri
 
 
 
- >> Regeln
+## Regeln
 
- > Tragkraft
+### Tragkraft
 
 Für Kategorie 4: 
 
@@ -377,7 +377,7 @@ Für 2 Kategorien drüber oder drunter: tausendsteln oder vertausendfachen.
 
 Für 3 Kat. drüber od. drunter: lass den maßstab "Stärke" und "Kilogramm" fallen. 
 
- > Attributsliste
+### Attributsliste
 
 Körper:  Geschicklichkeit, Zielgenauigkeit, Erscheinungsbild, Balance, Körperbau, Konstitution, Koordination, Gewandtheit,  Fingerfertigkeit, Ausdauer, Ermüdung, Fitneß, Gesundheit, Trefferpunkte, Muskeln, Behendigkeit, Schnelligkeit, Körperlich, Reflexe,  Größe, Geruchssinn, Geschwindigkeit, Stärke, Wundresistenz, Schwung usw.   
 
@@ -387,7 +387,7 @@ Seele: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Veran
 
 Andere: Rang, Status, Vermögen  
 
- > Beschreibung der Attributs- und Fertigkeitsstufen
+### Beschreibung der Attributs- und Fertigkeitsstufen
 
 Unterdurchschnittlich (11): 
 
@@ -410,17 +410,17 @@ Beispiele aus unserer Welt: Muhammed Ali,
 Beispiele aus Filmen: Conan, Bruce Lee, Gandalf, 
 
 
- >> Kampf
+## Kampf
 
 Nutzung von Fernkampfwaffe im Nahkampf statt Gegenangriff: Malus von -3 sowohl für Fern- als auch für Nahkampf, weil durch den Fernkampf dem Gegner eine exklusive Aktion zugestanden wird (er wird nicht angegriffen, hat also sozusagen mehr Zeit als der zwischenschießende) und weil der Schießende von gleich kommenden Angriff auf ihn abgelenkt ist. 
 
- > Schlachten
+### Schlachten
 
 Eine Schlacht wird, bei ungefähr gleich eng stehenden Schlachtreihen, als Einzelkämpfe abgehandelt, in denen es manchmal Modifikationen für einen weiterenn Gegner gibt, manchmal die Gegner Mali bekommen, die aber generell Mann gegen Mann geführt werden. 
 
 Stehen auf einer Seite die Kämpfer sehr viel enger, oder hat eine Seite Kämpfer mit langen und kurzen Waffen so positioniert, dass sie zu zweit angreifen können, bekommt die andere Seite für jeden Kämpfer "Überzahl" in der jeweiligen "Paarung" einen Malus von 3. 
 
- > Deckung
+### Deckung
 
 Ein Charakter in 3/4 oder besserer Deckung hat einen Malus von -3 auf seine Fernkampfangriffe (weil er aus der Deckung nicht so gezielt schießen kann). Auf einen Charakter in Deckung zu schießen bedeutet einen Malus von -6 Punkten. 
 Zwei Charaktere, die beide in Deckung sind, haben also einen Malus von -9 um sich zu treffen, so dass Treffer sehr selten vorkommen (Gegner muss getroffen werden, wenn er gerade aus der Deckung sieht um zu schießen, o.ä.). 
@@ -452,18 +452,18 @@ Im Cinematischen Martial Art geben je 3 Punkte über 9 in dem Attribut ihm 2 Pun
 * Einfühlungsvermögen: Die Ängste des Gegners finden (=> Mentale Narben ausnutzen)
 * Coolness: reduziert die Abzüge durch ungünstige Ausgangssituationen nach coolen Aktionen. 
 
- >> Magie
+## Magie
 
- > Kraftkosten
+### Kraftkosten
 
 Kurzfristige und langfristige Erschöpfung. 
 Erschöpfung nicht notwendigerweise nach einem Tag regeneriert. Teilweise ein paar Tage bis Wochen, um wieder die gesamte Kraft zu haben. 
 Seine Größe langsam reduzierender Ausdauerpool, der immer wieder geleert werden kann, seine Größe aber nur langsam regeneriert. 
 Langfristige Erschöpfung regeneriert sich nur mit Schlaf. 
 
- >>  Psi
+##  Psi
 
- > Psi-Schild
+### Psi-Schild
 
 Gilt als Rüstung mit der Psychokinese-Kraft als RS. 
 Kann nur begrenzte Zeit aufrechterhalten werden. Alle 10s Probe auf Psi-Schild (9), bei Misslingen 1 Punkt Erschöpfung pro angefangene 3 Punkte Differenz und Schild fällt. 
@@ -480,19 +480,19 @@ Bei einem Treffer auf den Schild bekommt der Charakter Erschöpfung:
 * ab 2/3 des Schilds: 6 Punkte erschöpfung
 * bei durchbrechen des Schilds: 9 Punkte Erschöpfung. 
 
- > Zusätzliche Anstrengung
+### Zusätzliche Anstrengung
 
 Psi Fähigkeiten können über ihrer Kraft genutzt werden, was aber zusätzliche Anstreg?ngung kostet. 
 Pro Punkt, um den die Kraft temporär (für eine Aktion) gesteigert werden soll, bekommt der Charakter 3 Punkte Erschöpfung. Bei nutzung von zusätzlicher Anstrengung sinkt auch pro Punkt Steigerung der FW um 1 Punkt.
 
- >> Charaktererschaffung
- > Hintergrund
+## Charaktererschaffung
+### Hintergrund
 
 Fragen: 
 * Wie verhältsts du dich in Panik? 
 
- >> Magie
- > Erschöpfung überziehen
+## Magie
+### Erschöpfung überziehen
 
 Erschöpfung wird beim Zaubern und bei Psi wie regulärer Schaden gehandhabt, da sie sich erst nach dem Spruch einstellt. 
 Sobald sie auf 0 abgesunken sind, Willensprobe zum Wachbleiben. 
@@ -505,9 +505,9 @@ Sinkt die Ersch. unter -ST/-Ersch., muss ein ST-Wurf gegen MW 12 + Anzahl der Pu
 
 Verkrüppelungen können durch sehr starke Zauber auftreten. Sie gelten als immer auftretende Neben- oder Spezialeffekte oder Fert-Malus für alle ähnlichen Zauber (oder die ganze Kategorie)(SL-Entscheidung). 
 
- >> Charaktererschaffung
+## Charaktererschaffung
 
- > Psi-Marotten
+### Psi-Marotten
 
 Jede Marotte gibt einen GeP, max. 10 Marotten. Eine tolle Idee aus Gurps. 
 Beispiele für Marotten: 
@@ -518,8 +518,8 @@ Psi-Effekte (von Jodi-Crown, RaumZeit Charakter):
 * PK (im Schiff): Geflechte in den Händen bewege sich und leuchten stark, lösen sich an der Außenseite von der Handfläche ab, dehnen sich etwas aus (ca. 1cm), ziehen sich aber  nach abbrechen der Verbindung mit dem Verstärker wieder zurück, Chitinlatte an rechter Hand leuchtet stark, Iris der Augen leuchtet  schwach und verändert sich fließend (sehr viel schneller als normal). 
 * Telepathie: Iris der Augen verändert sich schneller (jetzt im deutlich sichtbaren Bereich). 
 
- >> Kampagnen
- > Innere Stärke
+## Kampagnen
+### Innere Stärke
 
 Geistige Stabilität, Festigkeit im Glauben, Seelische Stärke, Innere Kraft, Innere Überzeugung, Glauben an sich Selbst, Vertrauen in das Leben, Vertrauen auf Gott. 
 
@@ -575,23 +575,23 @@ Es gibt mindestens eine/n, der/die nicht unterzukriegen ist, aber manchmal körp
 
 Es gibt Leute, die die Motivation immer weiter sterben sehen wollen, weil sie gerade an der Macht sind und keine Veränderungen ertragen können oder Angst vor Veränderungen haben. 
 
- >> Charaktererschaffung
- > Vorteil: Führungskraft/Schicksalswandler/Glücksbringer
+## Charaktererschaffung
+### Vorteil: Führungskraft/Schicksalswandler/Glücksbringer
 
 Gegenstück von "verhext". 
 Große Geschehnisse begleiten diese Charaktere. 
 Sie geben allen in ihrer Umgebung +1 bis +3 auf jegliche Handlungen (allerdings auch gegen sie selbst). 
 
- > Reinkarnierende Charaktere
+### Reinkarnierende Charaktere
 
 Kampagnen über viele Inkarnationen. Wichtige Ereignisse, lange Dauer, immer wieder neuer Charakter, zurückkehrende Erinnerung, Fähigkeiten mitnehmen, Pakte kosten eine (oder mehrere) Inkarnationen, Risiko nicht zurückzukehren, große Macht, aber Versuchung bei Rückkehr, Element-/Charakterzug-geneigt. 
 
- > Marskolonien
+### Marskolonien
 
 Marskolonien trennen sich ab, Leidenschaften der Menschen, Macht und Versuchung (nach dem alten Bild des Mars, wirkt auf die Menschen). 
 
- >> Magie
- > Notizen zu Geistermagie (2002-07): 
+## Magie
+### Notizen zu Geistermagie (2002-07): 
 
 * Die sich die Kräfte der Geister zu nutze machen, 
 * Reisen in fremde Welten, um Kräfte weit außerhalb der Reichweite der Weltlichen zu erlangen. 
@@ -603,8 +603,8 @@ Marskolonien trennen sich ab, Leidenschaften der Menschen, Macht und Versuchung 
 * Die Macht der Wahrheit, die Gabe der Sich, das Wissen über Tiere, das Wüten des Sturms, die Kraft der Magie, die Tiefen des Wassers, das Feuer spüren, Leben finden, das Windlesen. 
 * Ein leises Flüstern, das Wogen des Wassers, das Wissen der Namen, Wellen der Füsse, Weben der Wellen, Fluss des Wassers der Tiefen, Weisschweifen/Weisschwingen. 
 
- >> Kampf
- > In Kämpfe anderer eingreifen (interrupt): 
+## Kampf
+### In Kämpfe anderer eingreifen (interrupt): 
 
 Wenn ein Charakter sieht, dass ein Nahkampf für einen anderen Charakter schlecht ausgeht (bzw. wann er will), kann er, wenn er in dieser Runde noch nicht gehandelt hat, versuchen in den Kampf einzugreifen, verliert dadurch aber jegliche weiteren Aktionen in dieser Runde. 
 Dabei wirft er sich zwischen die beiden Kontrahenten und würfelt gegen den Gegner, während der Wurf des Gegners bestehen bleibt. Der eingreifende Charakter erhält dabei allerdings je nach Entfernung zum Kampfgeschehen 3 bis 9 Punkte Malus. Daher eignet sich diese Technik mehr, um für einen Freund zu parieren (bei Erfolg auf Schaden verzichten, dafür 6 Punkte Bonus), als um den Gegner ernsthaft zu verletzen.  
@@ -614,12 +614,12 @@ Dabei wirft er sich zwischen die beiden Kontrahenten und würfelt gegen den Gegn
 Bei noch größeren Entfernungen kann der Spielleiter ein Eingreifen je nach Situation (und Beziehung der Charaktere untereinander) erlauben. Einen Geliebten kann man je nach Hintergrundwelt (z.B. in heroischer Fantasy oder Space Opera) manchmal auch auf 10 Meter noch verteidigen, allerdings liegt diese Entscheidung alleine beim Spielleiter und der Art und dem Spielgefühl der Kampagne. 
 
 
- >> Charaktererschaffung
- > Ruhm, Resourcen, Fähigkeiten
+## Charaktererschaffung
+### Ruhm, Resourcen, Fähigkeiten
 
 Drei Charakteristika, die addiert vielleicht den gleichen Wert ergeben sollten.
 
- >> Kampf
- > Ringen (enger Nahkampf)
+## Kampf
+### Ringen (enger Nahkampf)
 
 Braucht noch Regeln. Handgemenge, u.ä., wieviele Gegner gleichzeitig? Solange am Ringen höchstens 2, wenn einer der Beiden anderen den Kämpfer aus dem Ringen rausbringen kann werden es wieder die üblichen 4 eines normalen waffenlosen Nahkampfes.
