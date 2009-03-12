@@ -8,7 +8,7 @@ Das TakM Modul ermöglicht es, Kämpfe zu entscheiden, ohne den Gegner zu verlet
 
 Statt Schaden zu verursachen, erstreiten sich die Kämpfer Vorteile und versuchen den Gegner in eine schlechte Position zu manövrieren, bis sie ihn mit einer einzigen Aktion ausschalten können. 
 
-Kämpfe werden so weniger tödlich und können auch mal ohne notwendige bleibende Folgen verloren werden. 
+Kämpfe werden so weniger tödlich und können auch mal ohne notwendige bleibende Folgen verloren werden. Die Bedeutung von Waffen und Rüstungen sinkt gegenüber dem Fertigkeitswert. 
 
 Taktische Kämpfe wurden vor allem für Zweikämpfe zwischen humanoiden entworfen, können allerdings mit etwas Fantasie auch für andere Kampfsituationen genutzt werden. 
 
@@ -36,6 +36,12 @@ Der Bonus, den ein Char erhält, wenn er eine Probe gewinnt, entspricht genau de
 ### Sonderfälle
 
 Wenn es aus irgendwelchen Gründen besonders schwer ist, einen Charakter Kampfunfähig zu machen, zum Beispiel weil er eine extrem starke Rüstung trägt, absolut fanatisch ist, nicht sterben kann, o.ä. kann die SL die zum Besiegen mindestens notwendige Differenz erhöhen. 
+
+### Waffe und Rüstung
+
+Um Waffe und Rüstung im Taktischen Kampfmodul eine größere Bedeutung zu geben, können verschiedene Waffenarten und Rüstungsarten Boni oder Mali geben. Zum Beispiel könnten lange Waffen in offenem Gelände 3 Punkte Bonus im Kampf gegen Leute mit kurzen Waffen geben, und beengtem Raum aber 3 Punkte Malus. 
+
+Rüstungen könnten in bestimmten Situationen die Kampfentscheidung verhindern oder erschweren(z.B. weil der Char nicht KO geschlagen werden kann). 
 
 ### Gruppenkämpfe
 
