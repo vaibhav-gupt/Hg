@@ -108,6 +108,29 @@ Beschreibe lebendig was passiert und wie die Gegner reagieren. Es gibt dabei nur
 
 Greif dabei auf die Beispiele für Boni zurück. Wenn ein Charakter gegen mehr als einen Gegner gleichzeitig kämpft, beschreibe auch, wie misslungene Versuche eines Kämpers die anderen behindern, oder dem Charakter eine bessere Position geben. 
 
+### Option: Ohne Waffe und Rüstung
+
+Für bestimmte Kampagnen sind Waffen und Rüstungen weniger wichtig. Hier können taktische Kämpfe 
+genutzt werden, um komplett auf normale Waffen zu verzichten. Das einzige, was bei Waffen und 
+Rüstungen dann vermerkt wird, ist welche Effekte sie auf taktische Kämpfe haben. 
+
+Waffen können z.B. 
+
+* Lang sein (Bonus gegen kurze Waffen auf offenem Gelände, Malus in beengtem Gelände)
+* Schwer sein (Können genutzt werden, um Gegner zu treiben. Wenn der Charakter gewiwnnt, erhält er drei zusätzliche Punkte Bonus. Verliert er erhält er im Gegenzug drei zusätzliche Punkte Malus.)
+* Vergiftet sein o.ä. (Verschiedene Effekte. z.B. könnten Gegner ausgeschaltet werden, indem ihnen Schadenv erursacht wird)
+* Rüstungen durchdringen (z.B. Rabenschnabel. Stoppen / Reduzieren den Effekt von Rüstungen)
+
+Außerdem können verschiedene Waffengattungen unterschiedliche Möglichkeiten bieten (Axt, Schwert, Messer, ...), oder unterschiedlich gut gegeneinander einsetzbar sein. 
+
+Rüstungen können z.B. 
+
+* Kaum Schwachstellen haben (schwerer zu durchdringen - wenn auf den Gegner selbst gezielt wird, muss eine höhere Differenz erzielt werden, um den Kampf zu entscheiden - z.B. 12 für mittlere Rüstungen, 18 für schwere und mehr für Sachen wie Space Marine Panzerung)
+* Gehärtet sein (Waffen können daran abprallen -> reduzieren den Effektiven Malus nach einer verlorenen Aktion um 3, da sie schwer sind aber auch den Bonus nach einer gewonnenen). 
+* Schwer sein und unbeweglich machen (reduzieren den effektiven Fertigkeitswert, z.B. um 3)
+
+Schilde können den gleichen Effekt haben wie gehärtete Rüstungen, oder sie ersetzen. Beide verlängern den Kampf effektiv, ermöglichen es also auch, länger auszuhalten.
+
 
 Beispiel
 --------
