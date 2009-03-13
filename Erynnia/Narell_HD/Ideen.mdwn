@@ -13,9 +13,11 @@ Ulien
 Grobplanung
 -----------
 
-Auf dem Weg zur Höhle kommen erst ihre Stärken raus. 
+Auf dem Weg zur Höhle kommen erst ihre Stärken raus - ihre Schwächen zeigen sich auf dem Horrorpfad auf den letzten Metern vor der Höhle. 
 
-Auf dem Rückweg durch die bewohnten Höhlensysteme (brechen in den Boden der Höhle ein) schlagen ihre Schwächen zu. 
+<!--Auf dem Rückweg durch die bewohnten Höhlensysteme (brechen in den Boden der Höhle ein) schlagen ihre Schwächen zu.-->
+
+Sie kommen zurück auf die Hochebene. 
 
 Weg bis zur Höhle: 4 große Szenen
 ---------------------------------
