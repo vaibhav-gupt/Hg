@@ -38,6 +38,8 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 17 Ausgezeichnet
 18 Überragend
 
+Namen für extremere Werte findest du auf 1w6.org
+- http://werte.1w6.org
 
 Die Namen stimmen
 Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen. 
