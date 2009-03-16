@@ -1,8 +1,8 @@
-Vorgespräch
+#Vorgespräch
 
 Das EWS ist ein schnelles und flexibles Regelsystem für Fantasy und Science Fiction, Cyberpunk und Pulp Action und für viele weitere Hintergründe. 
 
-Dieses Heft liefert ein stabiles, freies, flexibles und minimales Fundament, auf dem andere Werke aufbauen können. Seine Regeln sind direkt spielbar und unterstützen sowohl One-Shots als auch lange Kampagnen, richten sich allerdings an erfahrene Rollenspieler. Für Neueinsteiger sind Hefte in Arbeit, die das EWS jeweils auf einen bestimmten Hintergrund zuschneiden. 
+Dieses Heft liefert dafür ein stabiles, freies, flexibles und minimales Fundament, auf dem andere Werke aufbauen können. Seine Regeln sind direkt spielbar und unterstützen sowohl One-Shots als auch lange Kampagnen, richten sich allerdings an erfahrene Rollenspieler. Für Neueinsteiger sind Hefte in Arbeit, die das EWS jeweils auf einen bestimmten Hintergrund zuschneiden. 
 
 Um es schlank zu halten, ist das EWS in weiten Teilen kompatibel zu Gurps® und Fudge(tm), so dass bereits eine breite Palette an hervorragend ausgearbeiten Zusatzregeln, Vor- und Nachteilen, Magiesystemen, Wurfmodifikatoren u.ä. existiert. Quellenmaterial zu Gurps® und Fudge(tm) gibt es auf den offiziellen Seiten (sjgames.com und fudgerpg.com) und auf der Webseite des EWS: 1w6.org
 (gurps.1w6.org und fudge.1w6.org). 
@@ -14,7 +14,8 @@ Die meisten Module findest du auf
 
 (Gurps® ist Markenzeichen von SJGames, Fudge(tm) von GreyGhostPress)
 
-Nebenbei: Nicht für Kinder unter 14Grundlagen
+
+#Grundlagen
 
 Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die von den Spielerinnen frei gewählt werden können. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge(tm) übernommen werden.
 Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (9 ist schwach, 12 durchschnitt und 15 sehr gut).
@@ -28,8 +29,8 @@ Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperl
 Jede Eigenschaft hat Werte zwischen 3 und 21, wobei menschliche Werte zwischen 6 und 18 liegen (Eigenschaften über 21 sind der Stoff für Legenden). 
 12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet. 
 
-Module: Eigenschaftsskategorien und Unter-eigenschaften (EigM), Kategoriesystem (KaSy). 
-Fertigkeiten
+Module: Eigenschaftsskategorien und Untereigenschaften (EigM), Kategoriesystem (KaSy). 
+Fertigkeiten
 
 Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die  ihren Charakter am schönsten beschreiben. 
 
