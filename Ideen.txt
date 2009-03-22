@@ -1476,3 +1476,43 @@ Faustregel: Pro (volle) 3 Punkte Schildwert kann der Charakter einen Malus von 1
 
 ------ 
 
+### Starcraft Ideen
+
+#### Als Grundsystem Nur Wunden nutzen
+
+Grund: Ein Rollenspiel kann die Schadenskomplexität etwas reduzieren
+
+-> Terraner: Leichte Rüstung erhöht einfach die Wundschwelle. 
+
+Unterschied der Waffen: Wie groß ist die Chance eine Wunde oder eine kritische Wunde zu schlagen. 
+
+Für Gebäude und besonders große Einheiten das normale Schadenssystem. 
+
+#### Für Terraner, Zerg und Protos unterschiedliche Schadenssysteme
+
+Terraner: 
+
+* Fahrzeuge: Eigene Werte. Bei Zerstörung des Fahrzeugs können die Insassen überleben. 
+* Rüstungen: Erhöhen die Wundschwelle und vll. Eigenschaften. 
+
+Zerg: 
+
+* Massiv höhere Eigenschaften und interne Panzerung (WS + x)
+* Regeneration von Wunden
+
+Protos: 
+
+* Schild mit eigenen Werten. 
+* Unter Schild extrem verwundbar. 
+* Anders als bei Terranern regeneriert der Schild. 
+
+#### Balancing
+
+Schauen, welche Waffe wieviele Schüsse braucht, um eine Einheit zu erledigen und daran die Wahrscheinlichkeit festmachen, eine Wunde oder schwere Wunde zu verursachen. 
+
+#### Nahkampf
+
+Immer gegen 12 würfeln statt gegeneinander, um Starcraft Kämpfe besser wiederzuspiegeln. 
+
+------ 
+
