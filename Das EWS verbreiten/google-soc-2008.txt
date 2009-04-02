@@ -1,0 +1,106 @@
+Google summer of code application for projects is now open. 
+
+They set a deadline for 12th march, which is next tuesday. 
+
+If we want to participate, we should fill in the appliance sheet right now. 
+
+Info: [url=http://code.google.com/soc/2008]Google Code - Summer of Code - Google Summer of Code[/url]
+Signup: [url=http://code.google.com/soc/2008/org_signup.html]Google Code - Summer of Code - Organization Application[/url]
+
+[b]Questions[/b]
+
+Google Summer of Code™ Organization Application
+Please note that you will be considered the administrator/main contact for this organization.
+Also note that all fields are required unless otherwise indicated.
+
+You have 5 Organization Application(s) left.
+
+About Your Organization     ^ back to top
+
+   1. What is your Organization's Name?
+
+1d6 roleplaying
+
+   2. What is your Organization's Homepage?
+
+http://1w6.org
+
+   3. Describe your organization.
+
+1d6 roleplaying is a community of roleplayers who are designing a flexible and balanced role-playing-system which is the only free pen-and-paper rpg under copyleft licenses. 
+
+In development since 2003, it features a slim base system (ruleset) which was built to be built upon, and since the beginning of 2007 we use this base system to create free roleplaying utilities. 
+
+We work in python, because it is flexible, cross platform available and a joy to use, and we create the system under free licenses, because we believe that roleplaying not only makes the world more fun, but also makes it a better place, and the system people use creates the physics of their world, while they are playing, and these physics should be as free as the software they use. 
+
+   4. Why is your organization applying to participate in GSoC 2008? What do you hope to gain by participating?
+
+We hope to find more members for our programming team, who want to use the created groundwork and the balanced ruleset in creative and fun ways. 
+
+Also we hope to find people who help to use the already developed tools to create a general game-engine using Python and pyglet which facilitates game development by offering the 1d6 ruleset as base for game designers. 
+
+   5. Did your organization participate in previous GSoC years? If so, please summarize your involvement and the successes and failures of your student projects. (optional)
+
+no
+
+   6. If your organization has not previously participated in GSoC, have you applied in the past? If so, for what year(s)? (optional)
+
+no
+
+   7. What license does your project use?
+
+GPLv2 or later, GPLv3 or later and the GFDL as well as a weakened version of the GFDL to allow the game system to be used like a LGPL library in roleplaying worlds. 
+
+   8. URL for your ideas page
+
+http://1w6.org/deutsch/anhang/google-summer-code/ideas-2008
+
+   9. What is the main development mailing list for your organization?
+
+We work directly on the website (drupal). 
+
+  10. Where is the main IRC channel for your organization?
+
+We work directly on the website (drupal). 
+
+  11. Does your organization have an application template you would like to see students use? If so, please provide it now. (optional)
+
+Yes: http://1w6.org/deutsch/anhang/google-summer-code/ideas-2008/appliance-template
+
+  12. Who will be your backup organization administrator? Please enter their Google Account address. We will email them to confirm, your organization will not become active until they respond. (optional)
+
+About Your Mentors
+
+   1. What criteria did you use to select these individuals as mentors? Please be as specific as possible.
+
+We chose among longstanding members who internalized the vision of the project and who know their way around the code. 
+
+   2. Who will your mentors be? Please enter their Google Account address separated by commas. If your organization is accepted we will email each mentor to invite them to take part. (optional)
+
+arne_bab@web.de
+
+About The Program
+
+   1. What is your plan for dealing with disappearing students?
+
+We will make sure, that even an unfinished contribution will help the project by working with a clear roadmap with major milestones. 
+
+If a student disappears, we can not reach him/her, but we can take steps to minimize the chance that the student disappears in the first place. 
+
+For this, the student must report to the community on a weekly base, so he/she directly experiences the feedback. 
+
+Also the student must write well commented code, so even unfinished code can be completed by other members. Automatic testing will be done using the tools from Ohloh, backed by manual overview by the existing members of our project. 
+
+   2. What is your plan for dealing with disappearing mentors?
+
+We have backup mentors, and the mentors know, that their reputation is at stake. 
+
+Mentors must regularly report to the community, too, so that their work can be carried on easily. 
+
+   3. What steps will you take to encourage students to interact with your project's community before, during and after the program?
+
+As for reducing the chance for disappearance, we want them to report to the community on a weekly basis, so they directly experience the feedback and fun free software development brings with it. 
+
+   4. What will you do to ensure that your accepted students stick with the project after GSoC concludes?
+
+We will include them as full members in our planning, so that they can take an active role in the future of our project, so that they can feel a sense of ownership about the parts they contribute themselves. 

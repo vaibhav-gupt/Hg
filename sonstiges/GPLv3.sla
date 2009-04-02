@@ -1,0 +1,644 @@
+<SCRIBUSUTF8NEW Version="1.3.3.11" >
+ <DOCUMENT HalfRes="1" MAGMAX="3200" TextPenShade="100" MAJGRID="100.001" ABSTSPALTEN="11" ScratchBottom="20.0013" AUTOCHECK="0" LANGUAGE="English" DPIn2="sRGB IEC61966-2.1" DPgam="0" HCMS="1" UnderlineWidth="-1" TabFill="" DGAP="0" ORIENTATION="0" PASPECT="1" WIDTH="1" POLYR="0" SHOWLINK="0" MINWORDLEN="3" UnderlinePos="-1" VTIEFSC="100" DOCLANGINFO="" COMMENTS="" AutoSaveTime="600000" POLYS="0" GuideRad="10.0006" rulerMode="1" TITLE="" KEYWORDS="" TabWidth="36" DSIZE="12" AUTOSPALTEN="1" PAGESIZE="A5" STIL="1" TextBackGroundShade="100" PEN="Black" POLYC="4" SnapToGuides="0" GROUPC="6" DOCFORMAT="" DOCDATE="" BORDERTOP="9" currentProfile="PostScript" MARGC="#0000ff" EndArrow="0" SHOWBASE="0" SHOWGRID="0" SnapToGrid="0" GUIDELOCK="0" DIMo="1" DIPr="0" StrikeThruPos="-1" WIDTHLINE="1" TextStrokeShade="100" DPuse="0" DPSo="0" DOCSOURCE="" FIRSTNUM="1" GuideC="#000080" BRUSH="Black" StartArrow="0" ScratchRight="100.001" POLYF="0.707107" SHOWMARGIN="1" DPbla="1" StrikeThruWidth="-1" VHOCHSC="100" DOCTYPE="" BORDERBOTTOM="40" BRUSHSHADE="100" StrokeText="Black" BASEGRID="28.3465" VTIEF="33" DOCCONTRIB="" DOCRELATION="" PICTSCX="1" CPICT="White" PENLINE="Black" AutoSave="0" BASEO="0" DOCIDENT="" BOOK="1" PICTSCY="1" MAGSTEP="200" TextLineColor="None" ScratchTop="20.0013" POLYFD="0" AUTOL="20" PUBLISHER="" ANZPAGES="4" PSCALE="1" LINESHADE="100" HYCOUNT="2" DIMo2="1" AUTHOR="" UNITS="1" BORDERRIGHT="9" RANDF="0" MAJORC="#00ff00" PENSHADE="100" PENTEXT="Black" GRAB="4" showcolborders="0" SHOWGUIDES="1" DPInCMYK="Fogra27L CMYK Coated Press" DPPr="Fogra27L CMYK Coated Press" DPMo="sRGB IEC61966-2.1" PAGEHEIGHT="595.276" PAGEWIDTH="419.528" BACKG="1" GuideZ="10.0006" TextBackGround="None" MINGRID="20.0013" VHOCH="33" DOCCOVER="" DCOL="1" EmbeddedPath="0" rulerYoffset="0" SHOWPICT="1" SHOWFRAME="0" AUTOMATIC="1" ALAYER="0" DOCRIGHTS="" PICTSHADE="100" ScratchLeft="100.001" rulerXoffset="0" showrulers="1" DPIn="sRGB IEC61966-2.1" VKAPIT="75" DFONT="Times New Roman Regular" BORDERLEFT="9" PAGEC="#ffffff" BaseC="#c0c0c0" MINORC="#00ff00" MAGMIN="10" STILLINE="1" TextLineShade="100" SHOWControl="0" >
+  <CheckProfile checkTransparency="1" autoCheck="1" minResolution="72" checkOverflow="1" ignoreErrors="0" checkRasterPDF="1" checkResolution="1" checkGlyphs="1" Name="PDF 1.3" checkAnnotations="0" checkPictures="1" checkOrphans="1" />
+  <CheckProfile checkTransparency="0" autoCheck="1" minResolution="72" checkOverflow="1" ignoreErrors="0" checkRasterPDF="1" checkResolution="1" checkGlyphs="1" Name="PDF 1.4" checkAnnotations="0" checkPictures="1" checkOrphans="1" />
+  <CheckProfile checkTransparency="1" autoCheck="1" minResolution="144" checkOverflow="1" ignoreErrors="0" checkRasterPDF="1" checkResolution="1" checkGlyphs="1" Name="PDF/X-3" checkAnnotations="1" checkPictures="1" checkOrphans="1" />
+  <CheckProfile checkTransparency="1" autoCheck="1" minResolution="72" checkOverflow="1" ignoreErrors="0" checkRasterPDF="1" checkResolution="1" checkGlyphs="1" Name="PostScript" checkAnnotations="0" checkPictures="1" checkOrphans="1" />
+  <COLOR Register="0" Spot="0" CMYK="#0f070000" NAME="AliceBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#000f2305" NAME="AntiqueWhite" />
+  <COLOR Register="0" Spot="0" CMYK="#00102400" NAME="AntiqueWhite1" />
+  <COLOR Register="0" Spot="0" CMYK="#000f2211" NAME="AntiqueWhite2" />
+  <COLOR Register="0" Spot="0" CMYK="#000d1d32" NAME="AntiqueWhite3" />
+  <COLOR Register="0" Spot="0" CMYK="#00081374" NAME="AntiqueWhite4" />
+  <COLOR Register="0" Spot="0" CMYK="#80002b00" NAME="Aquamarine" />
+  <COLOR Register="0" Spot="0" CMYK="#80002b00" NAME="Aquamarine1" />
+  <COLOR Register="0" Spot="0" CMYK="#78002811" NAME="Aquamarine2" />
+  <COLOR Register="0" Spot="0" CMYK="#67002332" NAME="Aquamarine3" />
+  <COLOR Register="0" Spot="0" CMYK="#46001774" NAME="Aquamarine4" />
+  <COLOR Register="0" Spot="0" CMYK="#0f000000" NAME="Azure" />
+  <COLOR Register="0" Spot="0" CMYK="#0f000000" NAME="Azure1" />
+  <COLOR Register="0" Spot="0" CMYK="#0e000011" NAME="Azure2" />
+  <COLOR Register="0" Spot="0" CMYK="#0c000032" NAME="Azure3" />
+  <COLOR Register="0" Spot="0" CMYK="#08000074" NAME="Azure4" />
+  <COLOR Register="0" Spot="0" CMYK="#0000190a" NAME="Beige" />
+  <COLOR Register="0" Spot="0" CMYK="#001b3b00" NAME="Bisque" />
+  <COLOR Register="0" Spot="0" CMYK="#001b3b00" NAME="Bisque1" />
+  <COLOR Register="0" Spot="0" CMYK="#00193711" NAME="Bisque2" />
+  <COLOR Register="0" Spot="0" CMYK="#00162f32" NAME="Bisque3" />
+  <COLOR Register="0" Spot="0" CMYK="#000e2074" NAME="Bisque4" />
+  <COLOR Register="0" Spot="0" CMYK="#000000ff" NAME="Black" />
+  <COLOR Register="0" Spot="0" CMYK="#00143200" NAME="BlanchedAlmond" />
+  <COLOR Register="0" Spot="0" CMYK="#ffff0000" NAME="Blue" />
+  <COLOR Register="0" Spot="0" CMYK="#ffff0000" NAME="Blue1" />
+  <COLOR Register="0" Spot="0" CMYK="#eeee0011" NAME="Blue2" />
+  <COLOR Register="0" Spot="0" CMYK="#cdcd0032" NAME="Blue3" />
+  <COLOR Register="0" Spot="0" CMYK="#8b8b0074" NAME="Blue4" />
+  <COLOR Register="0" Spot="0" CMYK="#58b7001d" NAME="BlueViolet" />
+  <COLOR Register="0" Spot="0" CMYK="#007b7b5a" NAME="Brown" />
+  <COLOR Register="0" Spot="0" CMYK="#00bfbf00" NAME="Brown1" />
+  <COLOR Register="0" Spot="0" CMYK="#00b3b311" NAME="Brown2" />
+  <COLOR Register="0" Spot="0" CMYK="#009a9a32" NAME="Brown3" />
+  <COLOR Register="0" Spot="0" CMYK="#00686874" NAME="Brown4" />
+  <COLOR Register="0" Spot="0" CMYK="#00265721" NAME="Burlywood" />
+  <COLOR Register="0" Spot="0" CMYK="#002c6400" NAME="Burlywood1" />
+  <COLOR Register="0" Spot="0" CMYK="#00295d11" NAME="Burlywood2" />
+  <COLOR Register="0" Spot="0" CMYK="#00235032" NAME="Burlywood3" />
+  <COLOR Register="0" Spot="0" CMYK="#00183674" NAME="Burlywood4" />
+  <COLOR Register="0" Spot="0" CMYK="#4102005f" NAME="CadetBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#670a0000" NAME="CadetBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#60090011" NAME="CadetBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#53080032" NAME="CadetBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#38050074" NAME="CadetBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#8000ff00" NAME="Chartreuse" />
+  <COLOR Register="0" Spot="0" CMYK="#8000ff00" NAME="Chartreuse1" />
+  <COLOR Register="0" Spot="0" CMYK="#7800ee11" NAME="Chartreuse2" />
+  <COLOR Register="0" Spot="0" CMYK="#6700cd32" NAME="Chartreuse3" />
+  <COLOR Register="0" Spot="0" CMYK="#46008b74" NAME="Chartreuse4" />
+  <COLOR Register="0" Spot="0" CMYK="#0069b42d" NAME="Chocolate" />
+  <COLOR Register="0" Spot="0" CMYK="#0080db00" NAME="Chocolate1" />
+  <COLOR Register="0" Spot="0" CMYK="#0078cd11" NAME="Chocolate2" />
+  <COLOR Register="0" Spot="0" CMYK="#0067b032" NAME="Chocolate3" />
+  <COLOR Register="0" Spot="0" CMYK="#00467874" NAME="Chocolate4" />
+  <COLOR Register="0" Spot="0" CMYK="#0080af00" NAME="Coral" />
+  <COLOR Register="0" Spot="0" CMYK="#008da900" NAME="Coral1" />
+  <COLOR Register="0" Spot="0" CMYK="#00849e11" NAME="Coral2" />
+  <COLOR Register="0" Spot="0" CMYK="#00728832" NAME="Coral3" />
+  <COLOR Register="0" Spot="0" CMYK="#004d5c74" NAME="Coral4" />
+  <COLOR Register="0" Spot="0" CMYK="#89580012" NAME="CornflowerBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#00072300" NAME="Cornsilk" />
+  <COLOR Register="0" Spot="0" CMYK="#00072300" NAME="Cornsilk1" />
+  <COLOR Register="0" Spot="0" CMYK="#00062111" NAME="Cornsilk2" />
+  <COLOR Register="0" Spot="0" CMYK="#00051c32" NAME="Cornsilk3" />
+  <COLOR Register="0" Spot="0" CMYK="#00031374" NAME="Cornsilk4" />
+  <COLOR Register="0" Spot="0" CMYK="#ff000000" NAME="Cyan" />
+  <COLOR Register="0" Spot="0" CMYK="#ff000000" NAME="Cyan1" />
+  <COLOR Register="0" Spot="0" CMYK="#ee000011" NAME="Cyan2" />
+  <COLOR Register="0" Spot="0" CMYK="#cd000032" NAME="Cyan3" />
+  <COLOR Register="0" Spot="0" CMYK="#8b000074" NAME="Cyan4" />
+  <COLOR Register="0" Spot="0" CMYK="#8b8b0074" NAME="DarkBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#8b000074" NAME="DarkCyan" />
+  <COLOR Register="0" Spot="0" CMYK="#0032ad47" NAME="DarkGoldenrod" />
+  <COLOR Register="0" Spot="0" CMYK="#0046f000" NAME="DarkGoldenrod1" />
+  <COLOR Register="0" Spot="0" CMYK="#0041e011" NAME="DarkGoldenrod2" />
+  <COLOR Register="0" Spot="0" CMYK="#0038c132" NAME="DarkGoldenrod3" />
+  <COLOR Register="0" Spot="0" CMYK="#00268374" NAME="DarkGoldenrod4" />
+  <COLOR Register="0" Spot="0" CMYK="#6400649b" NAME="DarkGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#00000056" NAME="DarkGrey" />
+  <COLOR Register="0" Spot="0" CMYK="#00065242" NAME="DarkKhaki" />
+  <COLOR Register="0" Spot="0" CMYK="#008b0074" NAME="DarkMagenta" />
+  <COLOR Register="0" Spot="0" CMYK="#16003c94" NAME="DarkOliveGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#35008f00" NAME="DarkOliveGreen1" />
+  <COLOR Register="0" Spot="0" CMYK="#32008611" NAME="DarkOliveGreen2" />
+  <COLOR Register="0" Spot="0" CMYK="#2b007332" NAME="DarkOliveGreen3" />
+  <COLOR Register="0" Spot="0" CMYK="#1d004e74" NAME="DarkOliveGreen4" />
+  <COLOR Register="0" Spot="0" CMYK="#0073ff00" NAME="DarkOrange" />
+  <COLOR Register="0" Spot="0" CMYK="#0080ff00" NAME="DarkOrange1" />
+  <COLOR Register="0" Spot="0" CMYK="#0078ee11" NAME="DarkOrange2" />
+  <COLOR Register="0" Spot="0" CMYK="#0067cd32" NAME="DarkOrange3" />
+  <COLOR Register="0" Spot="0" CMYK="#00468b74" NAME="DarkOrange4" />
+  <COLOR Register="0" Spot="0" CMYK="#339a0033" NAME="DarkOrchid" />
+  <COLOR Register="0" Spot="0" CMYK="#40c10000" NAME="DarkOrchid1" />
+  <COLOR Register="0" Spot="0" CMYK="#3cb40011" NAME="DarkOrchid2" />
+  <COLOR Register="0" Spot="0" CMYK="#339b0032" NAME="DarkOrchid3" />
+  <COLOR Register="0" Spot="0" CMYK="#23690074" NAME="DarkOrchid4" />
+  <COLOR Register="0" Spot="0" CMYK="#008b8b74" NAME="DarkRed" />
+  <COLOR Register="0" Spot="0" CMYK="#00536f16" NAME="DarkSalmon" />
+  <COLOR Register="0" Spot="0" CMYK="#2d002d43" NAME="DarkSeaGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#3e003e00" NAME="DarkSeaGreen1" />
+  <COLOR Register="0" Spot="0" CMYK="#3a003a11" NAME="DarkSeaGreen2" />
+  <COLOR Register="0" Spot="0" CMYK="#32003232" NAME="DarkSeaGreen3" />
+  <COLOR Register="0" Spot="0" CMYK="#22002274" NAME="DarkSeaGreen4" />
+  <COLOR Register="0" Spot="0" CMYK="#434e0074" NAME="DarkSlateBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#200000b0" NAME="DarkSlateGrey" />
+  <COLOR Register="0" Spot="0" CMYK="#68000000" NAME="DarkSlateGrey1" />
+  <COLOR Register="0" Spot="0" CMYK="#61000011" NAME="DarkSlateGrey2" />
+  <COLOR Register="0" Spot="0" CMYK="#54000032" NAME="DarkSlateGrey3" />
+  <COLOR Register="0" Spot="0" CMYK="#39000074" NAME="DarkSlateGrey4" />
+  <COLOR Register="0" Spot="0" CMYK="#d103002e" NAME="DarkTurquoise" />
+  <COLOR Register="0" Spot="0" CMYK="#3fd3002c" NAME="DarkViolet" />
+  <COLOR Register="0" Spot="0" CMYK="#00eb6c00" NAME="DeepPink" />
+  <COLOR Register="0" Spot="0" CMYK="#00eb6c00" NAME="DeepPink1" />
+  <COLOR Register="0" Spot="0" CMYK="#00dc6511" NAME="DeepPink2" />
+  <COLOR Register="0" Spot="0" CMYK="#00bd5732" NAME="DeepPink3" />
+  <COLOR Register="0" Spot="0" CMYK="#00813b74" NAME="DeepPink4" />
+  <COLOR Register="0" Spot="0" CMYK="#ff400000" NAME="DeepSkyBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#ff400000" NAME="DeepSkyBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#ee3c0011" NAME="DeepSkyBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#cd330032" NAME="DeepSkyBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#8b230074" NAME="DeepSkyBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#00000096" NAME="DimGrey" />
+  <COLOR Register="0" Spot="0" CMYK="#e16f0000" NAME="DodgerBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#e16f0000" NAME="DodgerBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#d2680011" NAME="DodgerBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#b5590032" NAME="DodgerBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#7b3d0074" NAME="DodgerBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#0090904d" NAME="Firebrick" />
+  <COLOR Register="0" Spot="0" CMYK="#00cfcf00" NAME="Firebrick1" />
+  <COLOR Register="0" Spot="0" CMYK="#00c2c211" NAME="Firebrick2" />
+  <COLOR Register="0" Spot="0" CMYK="#00a7a732" NAME="Firebrick3" />
+  <COLOR Register="0" Spot="0" CMYK="#00717174" NAME="Firebrick4" />
+  <COLOR Register="0" Spot="0" CMYK="#00050f00" NAME="FloralWhite" />
+  <COLOR Register="0" Spot="0" CMYK="#69006974" NAME="ForestGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#00000023" NAME="Gainsboro" />
+  <COLOR Register="0" Spot="0" CMYK="#07070000" NAME="GhostWhite" />
+  <COLOR Register="0" Spot="0" CMYK="#0028ff00" NAME="Gold" />
+  <COLOR Register="0" Spot="0" CMYK="#0028ff00" NAME="Gold1" />
+  <COLOR Register="0" Spot="0" CMYK="#0025ee11" NAME="Gold2" />
+  <COLOR Register="0" Spot="0" CMYK="#0020cd32" NAME="Gold3" />
+  <COLOR Register="0" Spot="0" CMYK="#00168b74" NAME="Gold4" />
+  <COLOR Register="0" Spot="0" CMYK="#0035ba25" NAME="Goldenrod" />
+  <COLOR Register="0" Spot="0" CMYK="#003eda00" NAME="Goldenrod1" />
+  <COLOR Register="0" Spot="0" CMYK="#003acc11" NAME="Goldenrod2" />
+  <COLOR Register="0" Spot="0" CMYK="#0032b032" NAME="Goldenrod3" />
+  <COLOR Register="0" Spot="0" CMYK="#00227774" NAME="Goldenrod4" />
+  <COLOR Register="0" Spot="0" CMYK="#ff00ff00" NAME="Green" />
+  <COLOR Register="0" Spot="0" CMYK="#ff00ff00" NAME="Green1" />
+  <COLOR Register="0" Spot="0" CMYK="#ee00ee11" NAME="Green2" />
+  <COLOR Register="0" Spot="0" CMYK="#cd00cd32" NAME="Green3" />
+  <COLOR Register="0" Spot="0" CMYK="#8b008b74" NAME="Green4" />
+  <COLOR Register="0" Spot="0" CMYK="#5200d000" NAME="GreenYellow" />
+  <COLOR Register="0" Spot="0" CMYK="#00000041" NAME="Grey" />
+  <COLOR Register="0" Spot="0" CMYK="#000000ff" NAME="Grey0" />
+  <COLOR Register="0" Spot="0" CMYK="#000000fc" NAME="Grey1" />
+  <COLOR Register="0" Spot="0" CMYK="#000000e5" NAME="Grey10" />
+  <COLOR Register="0" Spot="0" CMYK="#00000000" NAME="Grey100" />
+  <COLOR Register="0" Spot="0" CMYK="#000000e3" NAME="Grey11" />
+  <COLOR Register="0" Spot="0" CMYK="#000000e0" NAME="Grey12" />
+  <COLOR Register="0" Spot="0" CMYK="#000000de" NAME="Grey13" />
+  <COLOR Register="0" Spot="0" CMYK="#000000db" NAME="Grey14" />
+  <COLOR Register="0" Spot="0" CMYK="#000000d9" NAME="Grey15" />
+  <COLOR Register="0" Spot="0" CMYK="#000000d6" NAME="Grey16" />
+  <COLOR Register="0" Spot="0" CMYK="#000000d4" NAME="Grey17" />
+  <COLOR Register="0" Spot="0" CMYK="#000000d1" NAME="Grey18" />
+  <COLOR Register="0" Spot="0" CMYK="#000000cf" NAME="Grey19" />
+  <COLOR Register="0" Spot="0" CMYK="#000000fa" NAME="Grey2" />
+  <COLOR Register="0" Spot="0" CMYK="#000000cc" NAME="Grey20" />
+  <COLOR Register="0" Spot="0" CMYK="#000000c9" NAME="Grey21" />
+  <COLOR Register="0" Spot="0" CMYK="#000000c7" NAME="Grey22" />
+  <COLOR Register="0" Spot="0" CMYK="#000000c4" NAME="Grey23" />
+  <COLOR Register="0" Spot="0" CMYK="#000000c2" NAME="Grey24" />
+  <COLOR Register="0" Spot="0" CMYK="#000000bf" NAME="Grey25" />
+  <COLOR Register="0" Spot="0" CMYK="#000000bd" NAME="Grey26" />
+  <COLOR Register="0" Spot="0" CMYK="#000000ba" NAME="Grey27" />
+  <COLOR Register="0" Spot="0" CMYK="#000000b8" NAME="Grey28" />
+  <COLOR Register="0" Spot="0" CMYK="#000000b5" NAME="Grey29" />
+  <COLOR Register="0" Spot="0" CMYK="#000000f7" NAME="Grey3" />
+  <COLOR Register="0" Spot="0" CMYK="#000000b2" NAME="Grey30" />
+  <COLOR Register="0" Spot="0" CMYK="#000000b0" NAME="Grey31" />
+  <COLOR Register="0" Spot="0" CMYK="#000000ad" NAME="Grey32" />
+  <COLOR Register="0" Spot="0" CMYK="#000000ab" NAME="Grey33" />
+  <COLOR Register="0" Spot="0" CMYK="#000000a8" NAME="Grey34" />
+  <COLOR Register="0" Spot="0" CMYK="#000000a6" NAME="Grey35" />
+  <COLOR Register="0" Spot="0" CMYK="#000000a3" NAME="Grey36" />
+  <COLOR Register="0" Spot="0" CMYK="#000000a1" NAME="Grey37" />
+  <COLOR Register="0" Spot="0" CMYK="#0000009e" NAME="Grey38" />
+  <COLOR Register="0" Spot="0" CMYK="#0000009c" NAME="Grey39" />
+  <COLOR Register="0" Spot="0" CMYK="#000000f5" NAME="Grey4" />
+  <COLOR Register="0" Spot="0" CMYK="#00000099" NAME="Grey40" />
+  <COLOR Register="0" Spot="0" CMYK="#00000096" NAME="Grey41" />
+  <COLOR Register="0" Spot="0" CMYK="#00000094" NAME="Grey42" />
+  <COLOR Register="0" Spot="0" CMYK="#00000091" NAME="Grey43" />
+  <COLOR Register="0" Spot="0" CMYK="#0000008f" NAME="Grey44" />
+  <COLOR Register="0" Spot="0" CMYK="#0000008c" NAME="Grey45" />
+  <COLOR Register="0" Spot="0" CMYK="#0000008a" NAME="Grey46" />
+  <COLOR Register="0" Spot="0" CMYK="#00000087" NAME="Grey47" />
+  <COLOR Register="0" Spot="0" CMYK="#00000085" NAME="Grey48" />
+  <COLOR Register="0" Spot="0" CMYK="#00000082" NAME="Grey49" />
+  <COLOR Register="0" Spot="0" CMYK="#000000f2" NAME="Grey5" />
+  <COLOR Register="0" Spot="0" CMYK="#00000080" NAME="Grey50" />
+  <COLOR Register="0" Spot="0" CMYK="#0000007d" NAME="Grey51" />
+  <COLOR Register="0" Spot="0" CMYK="#0000007a" NAME="Grey52" />
+  <COLOR Register="0" Spot="0" CMYK="#00000078" NAME="Grey53" />
+  <COLOR Register="0" Spot="0" CMYK="#00000075" NAME="Grey54" />
+  <COLOR Register="0" Spot="0" CMYK="#00000073" NAME="Grey55" />
+  <COLOR Register="0" Spot="0" CMYK="#00000070" NAME="Grey56" />
+  <COLOR Register="0" Spot="0" CMYK="#0000006e" NAME="Grey57" />
+  <COLOR Register="0" Spot="0" CMYK="#0000006b" NAME="Grey58" />
+  <COLOR Register="0" Spot="0" CMYK="#00000069" NAME="Grey59" />
+  <COLOR Register="0" Spot="0" CMYK="#000000f0" NAME="Grey6" />
+  <COLOR Register="0" Spot="0" CMYK="#00000066" NAME="Grey60" />
+  <COLOR Register="0" Spot="0" CMYK="#00000063" NAME="Grey61" />
+  <COLOR Register="0" Spot="0" CMYK="#00000061" NAME="Grey62" />
+  <COLOR Register="0" Spot="0" CMYK="#0000005e" NAME="Grey63" />
+  <COLOR Register="0" Spot="0" CMYK="#0000005c" NAME="Grey64" />
+  <COLOR Register="0" Spot="0" CMYK="#00000059" NAME="Grey65" />
+  <COLOR Register="0" Spot="0" CMYK="#00000057" NAME="Grey66" />
+  <COLOR Register="0" Spot="0" CMYK="#00000054" NAME="Grey67" />
+  <COLOR Register="0" Spot="0" CMYK="#00000052" NAME="Grey68" />
+  <COLOR Register="0" Spot="0" CMYK="#0000004f" NAME="Grey69" />
+  <COLOR Register="0" Spot="0" CMYK="#000000ed" NAME="Grey7" />
+  <COLOR Register="0" Spot="0" CMYK="#0000004c" NAME="Grey70" />
+  <COLOR Register="0" Spot="0" CMYK="#0000004a" NAME="Grey71" />
+  <COLOR Register="0" Spot="0" CMYK="#00000047" NAME="Grey72" />
+  <COLOR Register="0" Spot="0" CMYK="#00000045" NAME="Grey73" />
+  <COLOR Register="0" Spot="0" CMYK="#00000042" NAME="Grey74" />
+  <COLOR Register="0" Spot="0" CMYK="#00000040" NAME="Grey75" />
+  <COLOR Register="0" Spot="0" CMYK="#0000003d" NAME="Grey76" />
+  <COLOR Register="0" Spot="0" CMYK="#0000003b" NAME="Grey77" />
+  <COLOR Register="0" Spot="0" CMYK="#00000038" NAME="Grey78" />
+  <COLOR Register="0" Spot="0" CMYK="#00000036" NAME="Grey79" />
+  <COLOR Register="0" Spot="0" CMYK="#000000eb" NAME="Grey8" />
+  <COLOR Register="0" Spot="0" CMYK="#00000033" NAME="Grey80" />
+  <COLOR Register="0" Spot="0" CMYK="#00000030" NAME="Grey81" />
+  <COLOR Register="0" Spot="0" CMYK="#0000002e" NAME="Grey82" />
+  <COLOR Register="0" Spot="0" CMYK="#0000002b" NAME="Grey83" />
+  <COLOR Register="0" Spot="0" CMYK="#00000029" NAME="Grey84" />
+  <COLOR Register="0" Spot="0" CMYK="#00000026" NAME="Grey85" />
+  <COLOR Register="0" Spot="0" CMYK="#00000024" NAME="Grey86" />
+  <COLOR Register="0" Spot="0" CMYK="#00000021" NAME="Grey87" />
+  <COLOR Register="0" Spot="0" CMYK="#0000001f" NAME="Grey88" />
+  <COLOR Register="0" Spot="0" CMYK="#0000001c" NAME="Grey89" />
+  <COLOR Register="0" Spot="0" CMYK="#000000e8" NAME="Grey9" />
+  <COLOR Register="0" Spot="0" CMYK="#0000001a" NAME="Grey90" />
+  <COLOR Register="0" Spot="0" CMYK="#00000017" NAME="Grey91" />
+  <COLOR Register="0" Spot="0" CMYK="#00000014" NAME="Grey92" />
+  <COLOR Register="0" Spot="0" CMYK="#00000012" NAME="Grey93" />
+  <COLOR Register="0" Spot="0" CMYK="#0000000f" NAME="Grey94" />
+  <COLOR Register="0" Spot="0" CMYK="#0000000d" NAME="Grey95" />
+  <COLOR Register="0" Spot="0" CMYK="#0000000a" NAME="Grey96" />
+  <COLOR Register="0" Spot="0" CMYK="#00000008" NAME="Grey97" />
+  <COLOR Register="0" Spot="0" CMYK="#00000005" NAME="Grey98" />
+  <COLOR Register="0" Spot="0" CMYK="#00000003" NAME="Grey99" />
+  <COLOR Register="0" Spot="0" CMYK="#0f000f00" NAME="Honeydew" />
+  <COLOR Register="0" Spot="0" CMYK="#0f000f00" NAME="Honeydew1" />
+  <COLOR Register="0" Spot="0" CMYK="#0e000e11" NAME="Honeydew2" />
+  <COLOR Register="0" Spot="0" CMYK="#0c000c32" NAME="Honeydew3" />
+  <COLOR Register="0" Spot="0" CMYK="#08000874" NAME="Honeydew4" />
+  <COLOR Register="0" Spot="0" CMYK="#00964b00" NAME="HotPink" />
+  <COLOR Register="0" Spot="0" CMYK="#00914b00" NAME="HotPink1" />
+  <COLOR Register="0" Spot="0" CMYK="#00844711" NAME="HotPink2" />
+  <COLOR Register="0" Spot="0" CMYK="#006d3d32" NAME="HotPink3" />
+  <COLOR Register="0" Spot="0" CMYK="#00512974" NAME="HotPink4" />
+  <COLOR Register="0" Spot="0" CMYK="#00717132" NAME="IndianRed" />
+  <COLOR Register="0" Spot="0" CMYK="#00959500" NAME="IndianRed1" />
+  <COLOR Register="0" Spot="0" CMYK="#008b8b11" NAME="IndianRed2" />
+  <COLOR Register="0" Spot="0" CMYK="#00787832" NAME="IndianRed3" />
+  <COLOR Register="0" Spot="0" CMYK="#00515174" NAME="IndianRed4" />
+  <COLOR Register="0" Spot="0" CMYK="#00000f00" NAME="Ivory" />
+  <COLOR Register="0" Spot="0" CMYK="#00000f00" NAME="Ivory1" />
+  <COLOR Register="0" Spot="0" CMYK="#00000e11" NAME="Ivory2" />
+  <COLOR Register="0" Spot="0" CMYK="#00000c32" NAME="Ivory3" />
+  <COLOR Register="0" Spot="0" CMYK="#00000874" NAME="Ivory4" />
+  <COLOR Register="0" Spot="0" CMYK="#000a640f" NAME="Khaki" />
+  <COLOR Register="0" Spot="0" CMYK="#00097000" NAME="Khaki1" />
+  <COLOR Register="0" Spot="0" CMYK="#00086911" NAME="Khaki2" />
+  <COLOR Register="0" Spot="0" CMYK="#00075a32" NAME="Khaki3" />
+  <COLOR Register="0" Spot="0" CMYK="#00053d74" NAME="Khaki4" />
+  <COLOR Register="0" Spot="0" CMYK="#14140005" NAME="Lavender" />
+  <COLOR Register="0" Spot="0" CMYK="#000f0a00" NAME="LavenderBlush" />
+  <COLOR Register="0" Spot="0" CMYK="#000f0a00" NAME="LavenderBlush1" />
+  <COLOR Register="0" Spot="0" CMYK="#000e0911" NAME="LavenderBlush2" />
+  <COLOR Register="0" Spot="0" CMYK="#000c0832" NAME="LavenderBlush3" />
+  <COLOR Register="0" Spot="0" CMYK="#00080574" NAME="LavenderBlush4" />
+  <COLOR Register="0" Spot="0" CMYK="#8000fc03" NAME="LawnGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#00053200" NAME="LemonChiffon" />
+  <COLOR Register="0" Spot="0" CMYK="#00053200" NAME="LemonChiffon1" />
+  <COLOR Register="0" Spot="0" CMYK="#00052f11" NAME="LemonChiffon2" />
+  <COLOR Register="0" Spot="0" CMYK="#00042832" NAME="LemonChiffon3" />
+  <COLOR Register="0" Spot="0" CMYK="#00021b74" NAME="LemonChiffon4" />
+  <COLOR Register="0" Spot="0" CMYK="#390e0019" NAME="LightBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#40100000" NAME="LightBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#3c0f0011" NAME="LightBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#330d0032" NAME="LightBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#23080074" NAME="LightBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#0070700f" NAME="LightCoral" />
+  <COLOR Register="0" Spot="0" CMYK="#1f000000" NAME="LightCyan" />
+  <COLOR Register="0" Spot="0" CMYK="#1f000000" NAME="LightCyan1" />
+  <COLOR Register="0" Spot="0" CMYK="#1d000011" NAME="LightCyan2" />
+  <COLOR Register="0" Spot="0" CMYK="#19000032" NAME="LightCyan3" />
+  <COLOR Register="0" Spot="0" CMYK="#11000074" NAME="LightCyan4" />
+  <COLOR Register="0" Spot="0" CMYK="#00116c11" NAME="LightGoldenrod" />
+  <COLOR Register="0" Spot="0" CMYK="#00137400" NAME="LightGoldenrod1" />
+  <COLOR Register="0" Spot="0" CMYK="#00126c11" NAME="LightGoldenrod2" />
+  <COLOR Register="0" Spot="0" CMYK="#000f5d32" NAME="LightGoldenrod3" />
+  <COLOR Register="0" Spot="0" CMYK="#000a3f74" NAME="LightGoldenrod4" />
+  <COLOR Register="0" Spot="0" CMYK="#00002805" NAME="LightGoldenrodYellow" />
+  <COLOR Register="0" Spot="0" CMYK="#5e005e11" NAME="LightGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#0000002c" NAME="LightGrey" />
+  <COLOR Register="0" Spot="0" CMYK="#00493e00" NAME="LightPink" />
+  <COLOR Register="0" Spot="0" CMYK="#00514600" NAME="LightPink1" />
+  <COLOR Register="0" Spot="0" CMYK="#004c4111" NAME="LightPink2" />
+  <COLOR Register="0" Spot="0" CMYK="#00413832" NAME="LightPink3" />
+  <COLOR Register="0" Spot="0" CMYK="#002c2674" NAME="LightPink4" />
+  <COLOR Register="0" Spot="0" CMYK="#005f8500" NAME="LightSalmon" />
+  <COLOR Register="0" Spot="0" CMYK="#005f8500" NAME="LightSalmon1" />
+  <COLOR Register="0" Spot="0" CMYK="#00597c11" NAME="LightSalmon2" />
+  <COLOR Register="0" Spot="0" CMYK="#004c6b32" NAME="LightSalmon3" />
+  <COLOR Register="0" Spot="0" CMYK="#00344974" NAME="LightSalmon4" />
+  <COLOR Register="0" Spot="0" CMYK="#9200084d" NAME="LightSeaGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#732c0005" NAME="LightSkyBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#4f1d0000" NAME="LightSkyBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#4a1b0011" NAME="LightSkyBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#40170032" NAME="LightSkyBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#2b100074" NAME="LightSkyBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#7b8f0000" NAME="LightSlateBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#22110066" NAME="LightSlateGrey" />
+  <COLOR Register="0" Spot="0" CMYK="#2e1a0021" NAME="LightSteelBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#351e0000" NAME="LightSteelBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#321c0011" NAME="LightSteelBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#2b180032" NAME="LightSteelBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#1d100074" NAME="LightSteelBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#00001f00" NAME="LightYellow" />
+  <COLOR Register="0" Spot="0" CMYK="#00001f00" NAME="LightYellow1" />
+  <COLOR Register="0" Spot="0" CMYK="#00001d11" NAME="LightYellow2" />
+  <COLOR Register="0" Spot="0" CMYK="#00001932" NAME="LightYellow3" />
+  <COLOR Register="0" Spot="0" CMYK="#00001174" NAME="LightYellow4" />
+  <COLOR Register="0" Spot="0" CMYK="#9b009b32" NAME="LimeGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#000a1405" NAME="Linen" />
+  <COLOR Register="0" Spot="0" CMYK="#00ff0000" NAME="Magenta" />
+  <COLOR Register="0" Spot="0" CMYK="#00ff0000" NAME="Magenta1" />
+  <COLOR Register="0" Spot="0" CMYK="#00ee0011" NAME="Magenta2" />
+  <COLOR Register="0" Spot="0" CMYK="#00cd0032" NAME="Magenta3" />
+  <COLOR Register="0" Spot="0" CMYK="#008b0074" NAME="Magenta4" />
+  <COLOR Register="0" Spot="0" CMYK="#0080504f" NAME="Maroon" />
+  <COLOR Register="0" Spot="0" CMYK="#00cb4c00" NAME="Maroon1" />
+  <COLOR Register="0" Spot="0" CMYK="#00be4711" NAME="Maroon2" />
+  <COLOR Register="0" Spot="0" CMYK="#00a43d32" NAME="Maroon3" />
+  <COLOR Register="0" Spot="0" CMYK="#006f2974" NAME="Maroon4" />
+  <COLOR Register="0" Spot="0" CMYK="#67002332" NAME="MediumAquamarine" />
+  <COLOR Register="0" Spot="0" CMYK="#cdcd0032" NAME="MediumBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#197e002c" NAME="MediumOrchid" />
+  <COLOR Register="0" Spot="0" CMYK="#1f990000" NAME="MediumOrchid1" />
+  <COLOR Register="0" Spot="0" CMYK="#1d8f0011" NAME="MediumOrchid2" />
+  <COLOR Register="0" Spot="0" CMYK="#197b0032" NAME="MediumOrchid3" />
+  <COLOR Register="0" Spot="0" CMYK="#11540074" NAME="MediumOrchid4" />
+  <COLOR Register="0" Spot="0" CMYK="#486b0024" NAME="MediumPurple" />
+  <COLOR Register="0" Spot="0" CMYK="#547d0000" NAME="MediumPurple1" />
+  <COLOR Register="0" Spot="0" CMYK="#4f750011" NAME="MediumPurple2" />
+  <COLOR Register="0" Spot="0" CMYK="#44650032" NAME="MediumPurple3" />
+  <COLOR Register="0" Spot="0" CMYK="#2e440074" NAME="MediumPurple4" />
+  <COLOR Register="0" Spot="0" CMYK="#7700424c" NAME="MediumSeaGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#73860011" NAME="MediumSlateBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#fa006005" NAME="MediumSpringGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#8900052e" NAME="MediumTurquoise" />
+  <COLOR Register="0" Spot="0" CMYK="#00b24238" NAME="MediumVioletRed" />
+  <COLOR Register="0" Spot="0" CMYK="#5757008f" NAME="MidnightBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#0a000500" NAME="MintCream" />
+  <COLOR Register="0" Spot="0" CMYK="#001b1e00" NAME="MistyRose" />
+  <COLOR Register="0" Spot="0" CMYK="#001b1e00" NAME="MistyRose1" />
+  <COLOR Register="0" Spot="0" CMYK="#00191c11" NAME="MistyRose2" />
+  <COLOR Register="0" Spot="0" CMYK="#00161832" NAME="MistyRose3" />
+  <COLOR Register="0" Spot="0" CMYK="#000e1074" NAME="MistyRose4" />
+  <COLOR Register="0" Spot="0" CMYK="#001b4a00" NAME="Moccasin" />
+  <COLOR Register="0" Spot="0" CMYK="#00215200" NAME="NavajoWhite" />
+  <COLOR Register="0" Spot="0" CMYK="#00215200" NAME="NavajoWhite1" />
+  <COLOR Register="0" Spot="0" CMYK="#001f4d11" NAME="NavajoWhite2" />
+  <COLOR Register="0" Spot="0" CMYK="#001a4232" NAME="NavajoWhite3" />
+  <COLOR Register="0" Spot="0" CMYK="#00122d74" NAME="NavajoWhite4" />
+  <COLOR Register="0" Spot="0" CMYK="#8080007f" NAME="NavyBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#00081702" NAME="OldLace" />
+  <COLOR Register="0" Spot="0" CMYK="#23006b71" NAME="OliveDrab" />
+  <COLOR Register="0" Spot="0" CMYK="#3f00c100" NAME="OliveDrab1" />
+  <COLOR Register="0" Spot="0" CMYK="#3b00b411" NAME="OliveDrab2" />
+  <COLOR Register="0" Spot="0" CMYK="#33009b32" NAME="OliveDrab3" />
+  <COLOR Register="0" Spot="0" CMYK="#22006974" NAME="OliveDrab4" />
+  <COLOR Register="0" Spot="0" CMYK="#005aff00" NAME="Orange" />
+  <COLOR Register="0" Spot="0" CMYK="#005aff00" NAME="Orange1" />
+  <COLOR Register="0" Spot="0" CMYK="#0054ee11" NAME="Orange2" />
+  <COLOR Register="0" Spot="0" CMYK="#0048cd32" NAME="Orange3" />
+  <COLOR Register="0" Spot="0" CMYK="#00318b74" NAME="Orange4" />
+  <COLOR Register="0" Spot="0" CMYK="#00baff00" NAME="OrangeRed" />
+  <COLOR Register="0" Spot="0" CMYK="#00baff00" NAME="OrangeRed1" />
+  <COLOR Register="0" Spot="0" CMYK="#00aeee11" NAME="OrangeRed2" />
+  <COLOR Register="0" Spot="0" CMYK="#0096cd32" NAME="OrangeRed3" />
+  <COLOR Register="0" Spot="0" CMYK="#00668b74" NAME="OrangeRed4" />
+  <COLOR Register="0" Spot="0" CMYK="#006a0425" NAME="Orchid" />
+  <COLOR Register="0" Spot="0" CMYK="#007c0500" NAME="Orchid1" />
+  <COLOR Register="0" Spot="0" CMYK="#00740511" NAME="Orchid2" />
+  <COLOR Register="0" Spot="0" CMYK="#00640432" NAME="Orchid3" />
+  <COLOR Register="0" Spot="0" CMYK="#00440274" NAME="Orchid4" />
+  <COLOR Register="0" Spot="0" CMYK="#00064411" NAME="PaleGoldenrod" />
+  <COLOR Register="0" Spot="0" CMYK="#63006304" NAME="PaleGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#65006500" NAME="PaleGreen1" />
+  <COLOR Register="0" Spot="0" CMYK="#5e005e11" NAME="PaleGreen2" />
+  <COLOR Register="0" Spot="0" CMYK="#51005132" NAME="PaleGreen3" />
+  <COLOR Register="0" Spot="0" CMYK="#37003774" NAME="PaleGreen4" />
+  <COLOR Register="0" Spot="0" CMYK="#3f000011" NAME="PaleTurquoise" />
+  <COLOR Register="0" Spot="0" CMYK="#44000000" NAME="PaleTurquoise1" />
+  <COLOR Register="0" Spot="0" CMYK="#40000011" NAME="PaleTurquoise2" />
+  <COLOR Register="0" Spot="0" CMYK="#37000032" NAME="PaleTurquoise3" />
+  <COLOR Register="0" Spot="0" CMYK="#25000074" NAME="PaleTurquoise4" />
+  <COLOR Register="0" Spot="0" CMYK="#006b4824" NAME="PaleVioletRed" />
+  <COLOR Register="0" Spot="0" CMYK="#007d5400" NAME="PaleVioletRed1" />
+  <COLOR Register="0" Spot="0" CMYK="#00754f11" NAME="PaleVioletRed2" />
+  <COLOR Register="0" Spot="0" CMYK="#00654432" NAME="PaleVioletRed3" />
+  <COLOR Register="0" Spot="0" CMYK="#00442e74" NAME="PaleVioletRed4" />
+  <COLOR Register="0" Spot="0" CMYK="#00102a00" NAME="PapayaWhip" />
+  <COLOR Register="0" Spot="0" CMYK="#00254600" NAME="PeachPuff" />
+  <COLOR Register="0" Spot="0" CMYK="#00254600" NAME="PeachPuff1" />
+  <COLOR Register="0" Spot="0" CMYK="#00234111" NAME="PeachPuff2" />
+  <COLOR Register="0" Spot="0" CMYK="#001e3832" NAME="PeachPuff3" />
+  <COLOR Register="0" Spot="0" CMYK="#00142674" NAME="PeachPuff4" />
+  <COLOR Register="0" Spot="0" CMYK="#00488e32" NAME="Peru" />
+  <COLOR Register="0" Spot="0" CMYK="#003f3400" NAME="Pink" />
+  <COLOR Register="0" Spot="0" CMYK="#004a3a00" NAME="Pink1" />
+  <COLOR Register="0" Spot="0" CMYK="#00453611" NAME="Pink2" />
+  <COLOR Register="0" Spot="0" CMYK="#003c2f32" NAME="Pink3" />
+  <COLOR Register="0" Spot="0" CMYK="#00281f74" NAME="Pink4" />
+  <COLOR Register="0" Spot="0" CMYK="#003d0022" NAME="Plum" />
+  <COLOR Register="0" Spot="0" CMYK="#00440000" NAME="Plum1" />
+  <COLOR Register="0" Spot="0" CMYK="#00400011" NAME="Plum2" />
+  <COLOR Register="0" Spot="0" CMYK="#00370032" NAME="Plum3" />
+  <COLOR Register="0" Spot="0" CMYK="#00250074" NAME="Plum4" />
+  <COLOR Register="0" Spot="0" CMYK="#36060019" NAME="PowderBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#50d0000f" NAME="Purple" />
+  <COLOR Register="0" Spot="0" CMYK="#64cf0000" NAME="Purple1" />
+  <COLOR Register="0" Spot="0" CMYK="#5dc20011" NAME="Purple2" />
+  <COLOR Register="0" Spot="0" CMYK="#50a70032" NAME="Purple3" />
+  <COLOR Register="0" Spot="0" CMYK="#36710074" NAME="Purple4" />
+  <COLOR Register="0" Spot="0" CMYK="#00ffff00" NAME="Red" />
+  <COLOR Register="0" Spot="0" CMYK="#00ffff00" NAME="Red1" />
+  <COLOR Register="0" Spot="0" CMYK="#00eeee11" NAME="Red2" />
+  <COLOR Register="0" Spot="0" CMYK="#00cdcd32" NAME="Red3" />
+  <COLOR Register="0" Spot="0" CMYK="#008b8b74" NAME="Red4" />
+  <COLOR Register="0" Spot="0" CMYK="#002d2d43" NAME="RosyBrown" />
+  <COLOR Register="0" Spot="0" CMYK="#003e3e00" NAME="RosyBrown1" />
+  <COLOR Register="0" Spot="0" CMYK="#003a3a11" NAME="RosyBrown2" />
+  <COLOR Register="0" Spot="0" CMYK="#00323232" NAME="RosyBrown3" />
+  <COLOR Register="0" Spot="0" CMYK="#00222274" NAME="RosyBrown4" />
+  <COLOR Register="0" Spot="0" CMYK="#a078001e" NAME="RoyalBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#b7890000" NAME="RoyalBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#ab800011" NAME="RoyalBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#936e0032" NAME="RoyalBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#644b0074" NAME="RoyalBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#00467874" NAME="SaddleBrown" />
+  <COLOR Register="0" Spot="0" CMYK="#007a8805" NAME="Salmon" />
+  <COLOR Register="0" Spot="0" CMYK="#00739600" NAME="Salmon1" />
+  <COLOR Register="0" Spot="0" CMYK="#006c8c11" NAME="Salmon2" />
+  <COLOR Register="0" Spot="0" CMYK="#005d7932" NAME="Salmon3" />
+  <COLOR Register="0" Spot="0" CMYK="#003f5274" NAME="Salmon4" />
+  <COLOR Register="0" Spot="0" CMYK="#0050940b" NAME="SandyBrown" />
+  <COLOR Register="0" Spot="0" CMYK="#5d003474" NAME="SeaGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#ab006000" NAME="SeaGreen1" />
+  <COLOR Register="0" Spot="0" CMYK="#a0005a11" NAME="SeaGreen2" />
+  <COLOR Register="0" Spot="0" CMYK="#8a004d32" NAME="SeaGreen3" />
+  <COLOR Register="0" Spot="0" CMYK="#5d003474" NAME="SeaGreen4" />
+  <COLOR Register="0" Spot="0" CMYK="#000a1100" NAME="Seashell" />
+  <COLOR Register="0" Spot="0" CMYK="#000a1100" NAME="Seashell1" />
+  <COLOR Register="0" Spot="0" CMYK="#00091011" NAME="Seashell2" />
+  <COLOR Register="0" Spot="0" CMYK="#00080e32" NAME="Seashell3" />
+  <COLOR Register="0" Spot="0" CMYK="#00050974" NAME="Seashell4" />
+  <COLOR Register="0" Spot="0" CMYK="#004e735f" NAME="Sienna" />
+  <COLOR Register="0" Spot="0" CMYK="#007db800" NAME="Sienna1" />
+  <COLOR Register="0" Spot="0" CMYK="#0075ac11" NAME="Sienna2" />
+  <COLOR Register="0" Spot="0" CMYK="#00659432" NAME="Sienna3" />
+  <COLOR Register="0" Spot="0" CMYK="#00446574" NAME="Sienna4" />
+  <COLOR Register="0" Spot="0" CMYK="#641d0014" NAME="SkyBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#78310000" NAME="SkyBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#702e0011" NAME="SkyBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#61270032" NAME="SkyBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#411b0074" NAME="SkyBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#63730032" NAME="SlateBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#7c900000" NAME="SlateBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#74870011" NAME="SlateBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#64740032" NAME="SlateBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#444f0074" NAME="SlateBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#2010006f" NAME="SlateGrey" />
+  <COLOR Register="0" Spot="0" CMYK="#391d0000" NAME="SlateGrey1" />
+  <COLOR Register="0" Spot="0" CMYK="#351b0011" NAME="SlateGrey2" />
+  <COLOR Register="0" Spot="0" CMYK="#2e170032" NAME="SlateGrey3" />
+  <COLOR Register="0" Spot="0" CMYK="#1f100074" NAME="SlateGrey4" />
+  <COLOR Register="0" Spot="0" CMYK="#00050500" NAME="Snow" />
+  <COLOR Register="0" Spot="0" CMYK="#00050500" NAME="Snow1" />
+  <COLOR Register="0" Spot="0" CMYK="#00050511" NAME="Snow2" />
+  <COLOR Register="0" Spot="0" CMYK="#00040432" NAME="Snow3" />
+  <COLOR Register="0" Spot="0" CMYK="#00020274" NAME="Snow4" />
+  <COLOR Register="0" Spot="0" CMYK="#ff008000" NAME="SpringGreen" />
+  <COLOR Register="0" Spot="0" CMYK="#ff008000" NAME="SpringGreen1" />
+  <COLOR Register="0" Spot="0" CMYK="#ee007811" NAME="SpringGreen2" />
+  <COLOR Register="0" Spot="0" CMYK="#cd006732" NAME="SpringGreen3" />
+  <COLOR Register="0" Spot="0" CMYK="#8b004674" NAME="SpringGreen4" />
+  <COLOR Register="0" Spot="0" CMYK="#6e32004b" NAME="SteelBlue" />
+  <COLOR Register="0" Spot="0" CMYK="#9c470000" NAME="SteelBlue1" />
+  <COLOR Register="0" Spot="0" CMYK="#92420011" NAME="SteelBlue2" />
+  <COLOR Register="0" Spot="0" CMYK="#7e390032" NAME="SteelBlue3" />
+  <COLOR Register="0" Spot="0" CMYK="#55270074" NAME="SteelBlue4" />
+  <COLOR Register="0" Spot="0" CMYK="#001e462d" NAME="Tan" />
+  <COLOR Register="0" Spot="0" CMYK="#005ab000" NAME="Tan1" />
+  <COLOR Register="0" Spot="0" CMYK="#0054a511" NAME="Tan2" />
+  <COLOR Register="0" Spot="0" CMYK="#00488e32" NAME="Tan3" />
+  <COLOR Register="0" Spot="0" CMYK="#00316074" NAME="Tan4" />
+  <COLOR Register="0" Spot="0" CMYK="#00190027" NAME="Thistle" />
+  <COLOR Register="0" Spot="0" CMYK="#001e0000" NAME="Thistle1" />
+  <COLOR Register="0" Spot="0" CMYK="#001c0011" NAME="Thistle2" />
+  <COLOR Register="0" Spot="0" CMYK="#00180032" NAME="Thistle3" />
+  <COLOR Register="0" Spot="0" CMYK="#00100074" NAME="Thistle4" />
+  <COLOR Register="0" Spot="0" CMYK="#009cb800" NAME="Tomato" />
+  <COLOR Register="0" Spot="0" CMYK="#009cb800" NAME="Tomato1" />
+  <COLOR Register="0" Spot="0" CMYK="#0092ac11" NAME="Tomato2" />
+  <COLOR Register="0" Spot="0" CMYK="#007e9432" NAME="Tomato3" />
+  <COLOR Register="0" Spot="0" CMYK="#00556574" NAME="Tomato4" />
+  <COLOR Register="0" Spot="0" CMYK="#a000101f" NAME="Turquoise" />
+  <COLOR Register="0" Spot="0" CMYK="#ff0a0000" NAME="Turquoise1" />
+  <COLOR Register="0" Spot="0" CMYK="#ee090011" NAME="Turquoise2" />
+  <COLOR Register="0" Spot="0" CMYK="#cd080032" NAME="Turquoise3" />
+  <COLOR Register="0" Spot="0" CMYK="#8b050074" NAME="Turquoise4" />
+  <COLOR Register="0" Spot="0" CMYK="#006c0011" NAME="Violet" />
+  <COLOR Register="0" Spot="0" CMYK="#00b0402f" NAME="VioletRed" />
+  <COLOR Register="0" Spot="0" CMYK="#00c16900" NAME="VioletRed1" />
+  <COLOR Register="0" Spot="0" CMYK="#00b46211" NAME="VioletRed2" />
+  <COLOR Register="0" Spot="0" CMYK="#009b5532" NAME="VioletRed3" />
+  <COLOR Register="0" Spot="0" CMYK="#00693974" NAME="VioletRed4" />
+  <COLOR Register="0" Spot="0" CMYK="#0017420a" NAME="Wheat" />
+  <COLOR Register="0" Spot="0" CMYK="#00184500" NAME="Wheat1" />
+  <COLOR Register="0" Spot="0" CMYK="#00164011" NAME="Wheat2" />
+  <COLOR Register="0" Spot="0" CMYK="#00133732" NAME="Wheat3" />
+  <COLOR Register="0" Spot="0" CMYK="#000d2574" NAME="Wheat4" />
+  <COLOR Register="0" Spot="0" CMYK="#00000000" NAME="White" />
+  <COLOR Register="0" Spot="0" CMYK="#0000000a" NAME="WhiteSmoke" />
+  <COLOR Register="0" Spot="0" CMYK="#0000ff00" NAME="Yellow" />
+  <COLOR Register="0" Spot="0" CMYK="#0000ff00" NAME="Yellow1" />
+  <COLOR Register="0" Spot="0" CMYK="#0000ee11" NAME="Yellow2" />
+  <COLOR Register="0" Spot="0" CMYK="#0000cd32" NAME="Yellow3" />
+  <COLOR Register="0" Spot="0" CMYK="#00008b74" NAME="Yellow4" />
+  <COLOR Register="0" Spot="0" CMYK="#33009b32" NAME="YellowGreen" />
+  <LAYERS DRUCKEN="1" NUMMER="0" EDIT="1" NAME="Hintergrund" SICHTBAR="1" LEVEL="0" />
+  <PDF displayThumbs="0" ImagePr="0" fitWindow="0" displayBookmarks="0" BTop="9" UseProfiles="0" BLeft="9" PrintP="Fogra27L CMYK Coated Press" RecalcPic="0" UseSpotColors="1" ImageP="sRGB IEC61966-2.1" SolidP="sRGB IEC61966-2.1" PicRes="300" Thumbnails="0" hideToolBar="0" CMethod="0" displayLayers="0" doMultiFile="0" UseLayers="0" Encrypt="0" BRight="9" Binding="0" Articles="0" InfoString="" RGBMode="1" Grayscale="0" PresentMode="0" openAction="" displayFullscreen="0" Permissions="-4" Intent="1" Compress="1" hideMenuBar="0" Version="14" Resolution="1200" Bookmarks="0" UseProfiles2="0" RotateDeg="0" Clip="0" MirrorV="0" Quality="0" PageLayout="0" UseLpi="0" PassUser="" BBottom="40" Intent2="1" MirrorH="0" PassOwner="" >
+   <Fonts Name="Times New Roman Italic" />
+   <Fonts Name="Times New Roman Regular" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <LPI Angle="45" Frequency="75" SpotFunction="2" Color="Black" />
+   <LPI Angle="105" Frequency="75" SpotFunction="2" Color="Cyan" />
+   <LPI Angle="75" Frequency="75" SpotFunction="2" Color="Magenta" />
+   <LPI Angle="90" Frequency="75" SpotFunction="2" Color="Yellow" />
+  </PDF>
+  <DocItemAttributes/>
+  <TablesOfContents/>
+  <Sections>
+   <Section Active="1" Number="0" From="0" Type="Type_1_2_3" To="3" Name="0" Start="1" Reversed="0" />
+  </Sections>
+  <PageSets>
+   <Set Columns="1" GapBelow="40" Rows="1" FirstPage="0" GapHorizontal="0" Name="Single Page" GapVertical="0" />
+   <Set Columns="2" GapBelow="40" Rows="1" FirstPage="1" GapHorizontal="0" Name="Double Sided" GapVertical="0" >
+    <PageNames Name="Left Page" />
+    <PageNames Name="Right Page" />
+   </Set>
+   <Set Columns="3" GapBelow="40" Rows="1" FirstPage="0" GapHorizontal="0" Name="3-Fold" GapVertical="0" >
+    <PageNames Name="Left Page" />
+    <PageNames Name="Middle" />
+    <PageNames Name="Right Page" />
+   </Set>
+   <Set Columns="4" GapBelow="40" Rows="1" FirstPage="0" GapHorizontal="0" Name="4-Fold" GapVertical="0" >
+    <PageNames Name="Left Page" />
+    <PageNames Name="Middle Left" />
+    <PageNames Name="Middle Right" />
+    <PageNames Name="Right Page" />
+   </Set>
+  </PageSets>
+  <MASTERPAGE Size="A5" NUM="0" BORDERTOP="9" NAM="Normal" LEFT="0" BORDERBOTTOM="40" Orientation="0" BORDERRIGHT="9" NumVGuides="0" PAGEHEIGHT="595.276" PAGEWIDTH="419.528" PAGEYPOS="20.0013" HorizontalGuides="" MNAM="" PAGEXPOS="100.001" NumHGuides="0" VerticalGuides="" BORDERLEFT="9" />
+  <PAGE Size="A5" NUM="0" BORDERTOP="9" NAM="" LEFT="0" BORDERBOTTOM="40" Orientation="0" BORDERRIGHT="9" NumVGuides="0" PAGEHEIGHT="595.276" PAGEWIDTH="419.528" PAGEYPOS="20.0013" HorizontalGuides="" MNAM="Normal" PAGEXPOS="519.529" NumHGuides="0" VerticalGuides="" BORDERLEFT="9" />
+  <PAGE Size="A5" NUM="1" BORDERTOP="9" NAM="" LEFT="0" BORDERBOTTOM="40" Orientation="0" BORDERRIGHT="9" NumVGuides="0" PAGEHEIGHT="595.276" PAGEWIDTH="419.528" PAGEYPOS="655.277" HorizontalGuides="" MNAM="Normal" PAGEXPOS="100.001" NumHGuides="0" VerticalGuides="" BORDERLEFT="9" />
+  <PAGE Size="A5" NUM="2" BORDERTOP="9" NAM="" LEFT="0" BORDERBOTTOM="40" Orientation="0" BORDERRIGHT="9" NumVGuides="0" PAGEHEIGHT="595.276" PAGEWIDTH="419.528" PAGEYPOS="655.277" HorizontalGuides="" MNAM="Normal" PAGEXPOS="519.529" NumHGuides="0" VerticalGuides="" BORDERLEFT="9" />
+  <PAGE Size="A5" NUM="3" BORDERTOP="9" NAM="" LEFT="0" BORDERBOTTOM="40" Orientation="0" BORDERRIGHT="9" NumVGuides="0" PAGEHEIGHT="595.276" PAGEWIDTH="419.528" PAGEYPOS="1290.55" HorizontalGuides="" MNAM="Normal" PAGEXPOS="100.001" NumHGuides="0" VerticalGuides="" BORDERLEFT="9" />
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="3.13056e-316" gWidth="3.13056e-316" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="1" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="473.306" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="-1" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 473.306 169.52 473.306 169.52 473.306 169.52 473.306 0 473.306 0 473.306 0 473.306 0 473.306 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="0" LAYER="0" BOOKMARK="0" gYpos="3.13055e-316" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="3.13054e-316" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="93.189" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="550.276" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 473.306 169.52 473.306 169.52 473.306 169.52 473.306 0 473.306 0 473.306 0 473.306 0 473.306 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="                    GNU GENERAL PUBLIC LICENSE&#x5;                       Version 3, 29 June 2007&#x5;&#x5; Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/>&#x5; Everyone is permitted to copy and distribute verbatim copies&#x5; of this license document, but changing it is not allowed.&#x5;&#x5;                            Preamble&#x5;&#x5;  The GNU General Public License is a free, copyleft license for&#x5;software and other kinds of works.&#x5;&#x5;  The licenses for most software and other practical works are designed&#x5;to take away your freedom to share and change the works.  By contrast,&#x5;the GNU General Public License is intended to guarantee your freedom to&#x5;share and change all versions of a program--to make sure it remains free&#x5;software for all its users.  We, the Free Software Foundation, use the&#x5;GNU General Public License for most of our software; it applies also to&#x5;any other work released this way by its authors.  You can apply it to&#x5;your programs, too.&#x5;&#x5;  When we speak of free software, we are referring to freedom, not&#x5;price.  Our General Public Licenses are designed to make sure that you&#x5;have the freedom to distribute copies of free software (and charge for&#x5;them if you wish), that you receive source code or can get it if you&#x5;want it, that you can change the software or use pieces of it in new&#x5;free programs, and that you know you can do these things.&#x5;&#x5;  To protect your rights, we need to prevent others from denying you&#x5;these rights or asking you to surrender the rights.  Therefore, you have&#x5;certain responsibilities if you distribute copies of the software, or if&#x5;you modify it: responsibilities to respect the freedom of others.&#x5;&#x5;  For example, if you distribute copies of such a program, whether&#x5;gratis or for a fee, you must pass on to the recipients the same&#x5;freedoms that you received.  You must make sure that they, too, receive&#x5;or can get the source code.  And you must show them these terms so they&#x5;know their rights.&#x5;&#x5;  Developers that use the GNU GPL protect your rights with two steps:&#x5;(1) assert copyright on the software, and (2) offer you this License&#x5;giving you legal permission to copy, distribute and/or modify it.&#x5;&#x5;  For the developers' and authors' protection, the GPL clearly explains&#x5;that there is no warranty for this free software.  For both users' and&#x5;authors' sake, the GPL requires that modified versions be marked as&#x5;changed, so that their problems will not be attributed erroneously to&#x5;authors of previous versions.&#x5;&#x5;  Some devices are designed to deny users access to install or run&#x5;modified versions of the software inside them, although the manufacturer&#x5;can do so.  This is fundamentally incompatible with the aim of&#x5;protecting users' freedom to change the software.  The systematic&#x5;pattern of such abuse occurs in the area of products for individuals to&#x5;use, which is precisely where it is most unacceptable.  Therefore, we&#x5;have designed this version of the GPL to prohibit the practice for those&#x5;products.  If such problems arise substantially in other domains, we&#x5;stand ready to extend this provision to those domains in future versions&#x5;of the GPL, as needed to protect the freedom of users.&#x5;&#x5;  Finally, every program is threatened constantly by software patents.&#x5;States should not allow patents to restrict development and use of&#x5;software on general-purpose computers, but in those that do, we wish to&#x5;avoid the special danger that patents applied to a free program could&#x5;make it effectively proprietary.  To prevent this, the GPL assures that&#x5;patents cannot be used to render the program non-free.&#x5;&#x5;  The precise terms and conditions for copying, distribution and&#x5;modification follow.&#x5;&#x5;                       TERMS AND CONDITIONS&#x5;&#x5;  0. Definitions.&#x5;&#x5;  &quot;This License&quot; refers to version 3 of the GNU General Public License.&#x5;&#x5;  &quot;Copyright&quot; also means copyright-like laws that apply to other kinds of&#x5;works, such as semiconductor masks.&#x5;&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="3.25726e-311" gWidth="3.80049e-311" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="2" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="473.306" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="0" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 473.306 169.52 473.306 169.52 473.306 169.52 473.306 0 473.306 0 473.306 0 473.306 0 473.306 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="0" LAYER="0" BOOKMARK="0" gYpos="3.25726e-311" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="3.80049e-311" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="93.189" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="760.488" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 473.306 169.52 473.306 169.52 473.306 169.52 473.306 0 473.306 0 473.306 0 473.306 0 473.306 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="  &quot;The Program&quot; refers to any copyrightable work licensed under this&#x5;License.  Each licensee is addressed as &quot;you&quot;.  &quot;Licensees&quot; and&#x5;&quot;recipients&quot; may be individuals or organizations.&#x5;&#x5;  To &quot;modify&quot; a work means to copy from or adapt all or part of the work&#x5;in a fashion requiring copyright permission, other than the making of an&#x5;exact copy.  The resulting work is called a &quot;modified version&quot; of the&#x5;earlier work or a work &quot;based on&quot; the earlier work.&#x5;&#x5;  A &quot;covered work&quot; means either the unmodified Program or a work based&#x5;on the Program.&#x5;&#x5;  To &quot;propagate&quot; a work means to do anything with it that, without&#x5;permission, would make you directly or secondarily liable for&#x5;infringement under applicable copyright law, except executing it on a&#x5;computer or modifying a private copy.  Propagation includes copying,&#x5;distribution (with or without modification), making available to the&#x5;public, and in some countries other activities as well.&#x5;&#x5;  To &quot;convey&quot; a work means any kind of propagation that enables other&#x5;parties to make or receive copies.  Mere interaction with a user through&#x5;a computer network, with no transfer of a copy, is not conveying.&#x5;&#x5;  An interactive user interface displays &quot;Appropriate Legal Notices&quot;&#x5;to the extent that it includes a convenient and prominently visible&#x5;feature that (1) displays an appropriate copyright notice, and (2)&#x5;tells the user that there is no warranty for the work (except to the&#x5;extent that warranties are provided), that licensees may convey the&#x5;work under this License, and how to view a copy of this License.  If&#x5;the interface presents a list of user commands or options, such as a&#x5;menu, a prominent item in the list meets this criterion.&#x5;&#x5;  1. Source Code.&#x5;&#x5;  The &quot;source code&quot; for a work means the preferred form of the work&#x5;for making modifications to it.  &quot;Object code&quot; means any non-source&#x5;form of a work.&#x5;&#x5;  A &quot;Standard Interface&quot; means an interface that either is an official&#x5;standard defined by a recognized standards body, or, in the case of&#x5;interfaces specified for a particular programming language, one that&#x5;is widely used among developers working in that language.&#x5;&#x5;  The &quot;System Libraries&quot; of an executable work include anything, other&#x5;than the work as a whole, that (a) is included in the normal form of&#x5;packaging a Major Component, but which is not part of that Major&#x5;Component, and (b) serves only to enable use of the work with that&#x5;Major Component, or to implement a Standard Interface for which an&#x5;implementation is available to the public in source code form.  A&#x5;&quot;Major Component&quot;, in this context, means a major essential component&#x5;(kernel, window system, and so on) of the specific operating system&#x5;(if any) on which the executable work runs, or a compiler used to&#x5;produce the work, or an object code interpreter used to run it.&#x5;&#x5;  The &quot;Corresponding Source&quot; for a work in object code form means all&#x5;the source code needed to generate, install, and (for an executable&#x5;work) run the object code and to modify the work, including scripts to&#x5;control those activities.  However, it does not include the work's&#x5;System Libraries, or general-purpose tools or generally available free&#x5;programs which are used unmodified in performing those activities but&#x5;which are not part of the work.  For example, Corresponding Source&#x5;includes interface definition files associated with source files for&#x5;the work, and the source code for shared libraries and dynamically&#x5;linked subprograms that the work is specifically designed to require,&#x5;such as by intimate data communication or control flow between those&#x5;subprograms and other parts of the work.&#x5;&#x5;  The Corresponding Source need not include anything that users&#x5;can regenerate automatically from other parts of the Corresponding&#x5;Source.&#x5;&#x5;  The Corresponding Source for a work in source code form is that&#x5;same work.&#x5;&#x5;  2. Basic Permissions.&#x5;&#x5;  All rights granted under this License are granted for the term of&#x5;copyright on the Program, and are irrevocable provided the stated&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="5.00665e-308" gWidth="9.34608e-307" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="3" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="530" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="1" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="1" LAYER="0" BOOKMARK="0" gYpos="1.61324e-307" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="3.33767e-307" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="671.772" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="130.748" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="conditions are met.  This License explicitly affirms your unlimited&#x5;permission to run the unmodified Program.  The output from running a&#x5;covered work is covered by this License only if the output, given its&#x5;content, constitutes a covered work.  This License acknowledges your&#x5;rights of fair use or other equivalent, as provided by copyright law.&#x5;&#x5;  You may make, run and propagate covered works that you do not&#x5;convey, without conditions so long as your license otherwise remains&#x5;in force.  You may convey covered works to others for the sole purpose&#x5;of having them make modifications exclusively for you, or provide you&#x5;with facilities for running those works, provided that you comply with&#x5;the terms of this License in conveying all material for which you do&#x5;not control copyright.  Those thus making or running the covered works&#x5;for you must do so exclusively on your behalf, under your direction&#x5;and control, on terms that prohibit them from making any copies of&#x5;your copyrighted material outside their relationship with you.&#x5;&#x5;  Conveying under any other circumstances is permitted solely under&#x5;the conditions stated below.  Sublicensing is not allowed; section 10&#x5;makes it unnecessary.&#x5;&#x5;  3. Protecting Users' Legal Rights From Anti-Circumvention Law.&#x5;&#x5;  No covered work shall be deemed part of an effective technological&#x5;measure under any applicable law fulfilling obligations under article&#x5;11 of the WIPO copyright treaty adopted on 20 December 1996, or&#x5;similar laws prohibiting or restricting circumvention of such&#x5;measures.&#x5;&#x5;  When you convey a covered work, you waive any legal power to forbid&#x5;circumvention of technological measures to the extent such circumvention&#x5;is effected by exercising rights under this License with respect to&#x5;the covered work, and you disclaim any intention to limit operation or&#x5;modification of the work as a means of enforcing, against the work's&#x5;users, your or third parties' legal rights to forbid circumvention of&#x5;technological measures.&#x5;&#x5;  4. Conveying Verbatim Copies.&#x5;&#x5;  You may convey verbatim copies of the Program's source code as you&#x5;receive it, in any medium, provided that you conspicuously and&#x5;appropriately publish on each copy an appropriate copyright notice;&#x5;keep intact all notices stating that this License and any&#x5;non-permissive terms added in accord with section 7 apply to the code;&#x5;keep intact all notices of the absence of any warranty; and give all&#x5;recipients a copy of this License along with the Program.&#x5;&#x5;  You may charge any price or no price for each copy that you convey,&#x5;and you may offer support or warranty protection for a fee.&#x5;&#x5;  5. Conveying Modified Source Versions.&#x5;&#x5;  You may convey a work based on the Program, or the modifications to&#x5;produce it from the Program, in the form of source code under the&#x5;terms of section 4, provided that you also meet all of these conditions:&#x5;&#x5;    a) The work must carry prominent notices stating that you modified&#x5;    it, and giving a relevant date.&#x5;&#x5;    b) The work must carry prominent notices stating that it is&#x5;    released under this License and any conditions added under section&#x5;    7.  This requirement modifies the requirement in section 4 to&#x5;    &quot;keep intact all notices&quot;.&#x5;&#x5;    c) You must license the entire work, as a whole, under this&#x5;    License to anyone who comes into possession of a copy.  This&#x5;    License will therefore apply, along with any applicable section 7&#x5;    additional terms, to the whole of the work, and all its parts,&#x5;    regardless of how they are packaged.  This License gives no&#x5;    permission to license the work in any other way, but it does not&#x5;    invalidate such permission if you have separately received it.&#x5;&#x5;    d) If the work has interactive user interfaces, each must display&#x5;    Appropriate Legal Notices; however, if the Program has interactive&#x5;    interfaces that do not display Appropriate Legal Notices, your&#x5;    work need not make them do so.&#x5;&#x5;  A compilation of a covered work with other separate and independent&#x5;works, which are not by their nature extensions of the covered work,&#x5;and which are not combined with it such as to form a larger program,&#x5;in or on a volume of a storage or distribution medium, is called an&#x5;&quot;aggregate&quot; if the compilation and its resulting copyright are not&#x5;used to limit the access or legal rights of the compilation's users&#x5;beyond what the individual works permit.  Inclusion of a covered work&#x5;in an aggregate does not cause this License to apply to the other&#x5;parts of the aggregate.&#x5;&#x5;  6. Conveying Non-Source Forms.&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="0" gWidth="0" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="4" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="530" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="2" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="1" LAYER="0" BOOKMARK="0" gYpos="0" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="0" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="671.772" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="340.96" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="&#x5;  You may convey a covered work in object code form under the terms&#x5;of sections 4 and 5, provided that you also convey the&#x5;machine-readable Corresponding Source under the terms of this License,&#x5;in one of these ways:&#x5;&#x5;    a) Convey the object code in, or embodied in, a physical product&#x5;    (including a physical distribution medium), accompanied by the&#x5;    Corresponding Source fixed on a durable physical medium&#x5;    customarily used for software interchange.&#x5;&#x5;    b) Convey the object code in, or embodied in, a physical product&#x5;    (including a physical distribution medium), accompanied by a&#x5;    written offer, valid for at least three years and valid for as&#x5;    long as you offer spare parts or customer support for that product&#x5;    model, to give anyone who possesses the object code either (1) a&#x5;    copy of the Corresponding Source for all the software in the&#x5;    product that is covered by this License, on a durable physical&#x5;    medium customarily used for software interchange, for a price no&#x5;    more than your reasonable cost of physically performing this&#x5;    conveying of source, or (2) access to copy the&#x5;    Corresponding Source from a network server at no charge.&#x5;&#x5;    c) Convey individual copies of the object code with a copy of the&#x5;    written offer to provide the Corresponding Source.  This&#x5;    alternative is allowed only occasionally and noncommercially, and&#x5;    only if you received the object code with such an offer, in accord&#x5;    with subsection 6b.&#x5;&#x5;    d) Convey the object code by offering access from a designated&#x5;    place (gratis or for a charge), and offer equivalent access to the&#x5;    Corresponding Source in the same way through the same place at no&#x5;    further charge.  You need not require recipients to copy the&#x5;    Corresponding Source along with the object code.  If the place to&#x5;    copy the object code is a network server, the Corresponding Source&#x5;    may be on a different server (operated by you or a third party)&#x5;    that supports equivalent copying facilities, provided you maintain&#x5;    clear directions next to the object code saying where to find the&#x5;    Corresponding Source.  Regardless of what server hosts the&#x5;    Corresponding Source, you remain obligated to ensure that it is&#x5;    available for as long as needed to satisfy these requirements.&#x5;&#x5;    e) Convey the object code using peer-to-peer transmission, provided&#x5;    you inform other peers where the object code and Corresponding&#x5;    Source of the work are being offered to the general public at no&#x5;    charge under subsection 6d.&#x5;&#x5;  A separable portion of the object code, whose source code is excluded&#x5;from the Corresponding Source as a System Library, need not be&#x5;included in conveying the object code work.&#x5;&#x5;  A &quot;User Product&quot; is either (1) a &quot;consumer product&quot;, which means any&#x5;tangible personal property which is normally used for personal, family,&#x5;or household purposes, or (2) anything designed or sold for incorporation&#x5;into a dwelling.  In determining whether a product is a consumer product,&#x5;doubtful cases shall be resolved in favor of coverage.  For a particular&#x5;product received by a particular user, &quot;normally used&quot; refers to a&#x5;typical or common use of that class of product, regardless of the status&#x5;of the particular user or of the way in which the particular user&#x5;actually uses, or expects or is expected to use, the product.  A product&#x5;is a consumer product regardless of whether the product has substantial&#x5;commercial, industrial or non-consumer uses, unless such uses represent&#x5;the only significant mode of use of the product.&#x5;&#x5;  &quot;Installation Information&quot; for a User Product means any methods,&#x5;procedures, authorization keys, or other information required to install&#x5;and execute modified versions of a covered work in that User Product from&#x5;a modified version of its Corresponding Source.  The information must&#x5;suffice to ensure that the continued functioning of the modified object&#x5;code is in no case prevented or interfered with solely because&#x5;modification has been made.&#x5;&#x5;  If you convey an object code work under this section in, or with, or&#x5;specifically for use in, a User Product, and the conveying occurs as&#x5;part of a transaction in which the right of possession and use of the&#x5;User Product is transferred to the recipient in perpetuity or for a&#x5;fixed term (regardless of how the transaction is characterized), the&#x5;Corresponding Source conveyed under this section must be accompanied&#x5;by the Installation Information.  But this requirement does not apply&#x5;if neither you nor any third party retains the ability to install&#x5;modified object code on the User Product (for example, the work has&#x5;been installed in ROM).&#x5;&#x5;  The requirement to provide Installation Information does not include a&#x5;requirement to continue to provide support service, warranty, or updates&#x5;for a work that has been modified or installed by the recipient, or for&#x5;the User Product in which it has been modified or installed.  Access to a&#x5;network may be denied when the modification itself materially and&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="3.93237e-316" gWidth="2.37152e-322" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="5" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="530" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="3" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="2" LAYER="0" BOOKMARK="0" gYpos="5.53354e-321" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="3.9324e-316" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="671.772" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="550.276" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="adversely affects the operation of the network or violates the rules and&#x5;protocols for communication across the network.&#x5;&#x5;  Corresponding Source conveyed, and Installation Information provided,&#x5;in accord with this section must be in a format that is publicly&#x5;documented (and with an implementation available to the public in&#x5;source code form), and must require no special password or key for&#x5;unpacking, reading or copying.&#x5;&#x5;  7. Additional Terms.&#x5;&#x5;  &quot;Additional permissions&quot; are terms that supplement the terms of this&#x5;License by making exceptions from one or more of its conditions.&#x5;Additional permissions that are applicable to the entire Program shall&#x5;be treated as though they were included in this License, to the extent&#x5;that they are valid under applicable law.  If additional permissions&#x5;apply only to part of the Program, that part may be used separately&#x5;under those permissions, but the entire Program remains governed by&#x5;this License without regard to the additional permissions.&#x5;&#x5;  When you convey a copy of a covered work, you may at your option&#x5;remove any additional permissions from that copy, or from any part of&#x5;it.  (Additional permissions may be written to require their own&#x5;removal in certain cases when you modify the work.)  You may place&#x5;additional permissions on material, added by you to a covered work,&#x5;for which you have or can give appropriate copyright permission.&#x5;&#x5;  Notwithstanding any other provision of this License, for material you&#x5;add to a covered work, you may (if authorized by the copyright holders of&#x5;that material) supplement the terms of this License with terms:&#x5;&#x5;    a) Disclaiming warranty or limiting liability differently from the&#x5;    terms of sections 15 and 16 of this License; or&#x5;&#x5;    b) Requiring preservation of specified reasonable legal notices or&#x5;    author attributions in that material or in the Appropriate Legal&#x5;    Notices displayed by works containing it; or&#x5;&#x5;    c) Prohibiting misrepresentation of the origin of that material, or&#x5;    requiring that modified versions of such material be marked in&#x5;    reasonable ways as different from the original version; or&#x5;&#x5;    d) Limiting the use for publicity purposes of names of licensors or&#x5;    authors of the material; or&#x5;&#x5;    e) Declining to grant rights under trademark law for use of some&#x5;    trade names, trademarks, or service marks; or&#x5;&#x5;    f) Requiring indemnification of licensors and authors of that&#x5;    material by anyone who conveys the material (or modified versions of&#x5;    it) with contractual assumptions of liability to the recipient, for&#x5;    any liability that these contractual assumptions directly impose on&#x5;    those licensors and authors.&#x5;&#x5;  All other non-permissive additional terms are considered &quot;further&#x5;restrictions&quot; within the meaning of section 10.  If the Program as you&#x5;received it, or any part of it, contains a notice stating that it is&#x5;governed by this License along with a term that is a further&#x5;restriction, you may remove that term.  If a license document contains&#x5;a further restriction but permits relicensing or conveying under this&#x5;License, you may add to a covered work material governed by the terms&#x5;of that license document, provided that the further restriction does&#x5;not survive such relicensing or conveying.&#x5;&#x5;  If you add terms to a covered work in accord with this section, you&#x5;must place, in the relevant source files, a statement of the&#x5;additional terms that apply to those files, or a notice indicating&#x5;where to find the applicable terms.&#x5;&#x5;  Additional terms, permissive or non-permissive, may be stated in the&#x5;form of a separately written license, or stated as exceptions;&#x5;the above requirements apply either way.&#x5;&#x5;  8. Termination.&#x5;&#x5;  You may not propagate or modify a covered work except as expressly&#x5;provided under this License.  Any attempt otherwise to propagate or&#x5;modify it is void, and will automatically terminate your rights under&#x5;this License (including any patent licenses granted under the third&#x5;paragraph of section 11).&#x5;&#x5;  However, if you cease all violation of this License, then your&#x5;license from a particular copyright holder is reinstated (a)&#x5;provisionally, unless and until the copyright holder explicitly and&#x5;finally terminates your license, and (b) permanently, if the copyright&#x5;holder fails to notify you of the violation by some reasonable means&#x5;prior to 60 days after the cessation.&#x5;&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="8.9006e-307" gWidth="1.78019e-306" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="6" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="530" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="4" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="2" LAYER="0" BOOKMARK="0" gYpos="3.93333e-316" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="2.37152e-322" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="671.772" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="760.488" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="  Moreover, your license from a particular copyright holder is&#x5;reinstated permanently if the copyright holder notifies you of the&#x5;violation by some reasonable means, this is the first time you have&#x5;received notice of violation of this License (for any work) from that&#x5;copyright holder, and you cure the violation prior to 30 days after&#x5;your receipt of the notice.&#x5;&#x5;  Termination of your rights under this section does not terminate the&#x5;licenses of parties who have received copies or rights from you under&#x5;this License.  If your rights have been terminated and not permanently&#x5;reinstated, you do not qualify to receive new licenses for the same&#x5;material under section 10.&#x5;&#x5;  9. Acceptance Not Required for Having Copies.&#x5;&#x5;  You are not required to accept this License in order to receive or&#x5;run a copy of the Program.  Ancillary propagation of a covered work&#x5;occurring solely as a consequence of using peer-to-peer transmission&#x5;to receive a copy likewise does not require acceptance.  However,&#x5;nothing other than this License grants you permission to propagate or&#x5;modify any covered work.  These actions infringe copyright if you do&#x5;not accept this License.  Therefore, by modifying or propagating a&#x5;covered work, you indicate your acceptance of this License to do so.&#x5;&#x5;  10. Automatic Licensing of Downstream Recipients.&#x5;&#x5;  Each time you convey a covered work, the recipient automatically&#x5;receives a license from the original licensors, to run, modify and&#x5;propagate that work, subject to this License.  You are not responsible&#x5;for enforcing compliance by third parties with this License.&#x5;&#x5;  An &quot;entity transaction&quot; is a transaction transferring control of an&#x5;organization, or substantially all assets of one, or subdividing an&#x5;organization, or merging organizations.  If propagation of a covered&#x5;work results from an entity transaction, each party to that&#x5;transaction who receives a copy of the work also receives whatever&#x5;licenses to the work the party's predecessor in interest had or could&#x5;give under the previous paragraph, plus a right to possession of the&#x5;Corresponding Source of the work from the predecessor in interest, if&#x5;the predecessor has it or can get it with reasonable efforts.&#x5;&#x5;  You may not impose any further restrictions on the exercise of the&#x5;rights granted or affirmed under this License.  For example, you may&#x5;not impose a license fee, royalty, or other charge for exercise of&#x5;rights granted under this License, and you may not initiate litigation&#x5;(including a cross-claim or counterclaim in a lawsuit) alleging that&#x5;any patent claim is infringed by making, using, selling, offering for&#x5;sale, or importing the Program or any portion of it.&#x5;&#x5;  11. Patents.&#x5;&#x5;  A &quot;contributor&quot; is a copyright holder who authorizes use under this&#x5;License of the Program or a work on which the Program is based.  The&#x5;work thus licensed is called the contributor's &quot;contributor version&quot;.&#x5;&#x5;  A contributor's &quot;essential patent claims&quot; are all patent claims&#x5;owned or controlled by the contributor, whether already acquired or&#x5;hereafter acquired, that would be infringed by some manner, permitted&#x5;by this License, of making, using, or selling its contributor version,&#x5;but do not include claims that would be infringed only as a&#x5;consequence of further modification of the contributor version.  For&#x5;purposes of this definition, &quot;control&quot; includes the right to grant&#x5;patent sublicenses in a manner consistent with the requirements of&#x5;this License.&#x5;&#x5;  Each contributor grants you a non-exclusive, worldwide, royalty-free&#x5;patent license under the contributor's essential patent claims, to&#x5;make, use, sell, offer for sale, import and otherwise run, modify and&#x5;propagate the contents of its contributor version.&#x5;&#x5;  In the following three paragraphs, a &quot;patent license&quot; is any express&#x5;agreement or commitment, however denominated, not to enforce a patent&#x5;(such as an express permission to practice a patent or covenant not to&#x5;sue for patent infringement).  To &quot;grant&quot; such a patent license to a&#x5;party means to make such an agreement or commitment not to enforce a&#x5;patent against the party.&#x5;&#x5;  If you convey a covered work, knowingly relying on a patent license,&#x5;and the Corresponding Source of the work is not available for anyone&#x5;to copy, free of charge and under the terms of this License, through a&#x5;publicly available network server or other readily accessible means,&#x5;then you must either (1) cause the Corresponding Source to be so&#x5;available, or (2) arrange to deprive yourself of the benefit of the&#x5;patent license for this particular work, or (3) arrange, in a manner&#x5;consistent with the requirements of this License, to extend the patent&#x5;license to downstream recipients.  &quot;Knowingly relying&quot; means you have&#x5;actual knowledge that, but for the patent license, your conveying the&#x5;covered work in a country, or your recipient's use of the covered work&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="6.68513e-317" gWidth="6.68513e-317" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="7" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="530" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="5" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="3" LAYER="0" BOOKMARK="0" gYpos="3.94818e-316" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="3.94817e-316" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="1307.05" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="130.748" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="in a country, would infringe one or more identifiable patents in that&#x5;country that you have reason to believe are valid.&#x5;&#x5;  If, pursuant to or in connection with a single transaction or&#x5;arrangement, you convey, or propagate by procuring conveyance of, a&#x5;covered work, and grant a patent license to some of the parties&#x5;receiving the covered work authorizing them to use, propagate, modify&#x5;or convey a specific copy of the covered work, then the patent license&#x5;you grant is automatically extended to all recipients of the covered&#x5;work and works based on it.&#x5;&#x5;  A patent license is &quot;discriminatory&quot; if it does not include within&#x5;the scope of its coverage, prohibits the exercise of, or is&#x5;conditioned on the non-exercise of one or more of the rights that are&#x5;specifically granted under this License.  You may not convey a covered&#x5;work if you are a party to an arrangement with a third party that is&#x5;in the business of distributing software, under which you make payment&#x5;to the third party based on the extent of your activity of conveying&#x5;the work, and under which the third party grants, to any of the&#x5;parties who would receive the covered work from you, a discriminatory&#x5;patent license (a) in connection with copies of the covered work&#x5;conveyed by you (or copies made from those copies), or (b) primarily&#x5;for and in connection with specific products or compilations that&#x5;contain the covered work, unless you entered into that arrangement,&#x5;or that patent license was granted, prior to 28 March 2007.&#x5;&#x5;  Nothing in this License shall be construed as excluding or limiting&#x5;any implied license or other defenses to infringement that may&#x5;otherwise be available to you under applicable patent law.&#x5;&#x5;  12. No Surrender of Others' Freedom.&#x5;&#x5;  If conditions are imposed on you (whether by court order, agreement or&#x5;otherwise) that contradict the conditions of this License, they do not&#x5;excuse you from the conditions of this License.  If you cannot convey a&#x5;covered work so as to satisfy simultaneously your obligations under this&#x5;License and any other pertinent obligations, then as a consequence you may&#x5;not convey it at all.  For example, if you agree to terms that obligate you&#x5;to collect a royalty for further conveying from those to whom you convey&#x5;the Program, the only way you could satisfy both those terms and this&#x5;License would be to refrain entirely from conveying the Program.&#x5;&#x5;  13. Use with the GNU Affero General Public License.&#x5;&#x5;  Notwithstanding any other provision of this License, you have&#x5;permission to link or combine any covered work with a work licensed&#x5;under version 3 of the GNU Affero General Public License into a single&#x5;combined work, and to convey the resulting work.  The terms of this&#x5;License will continue to apply to the part which is the covered work,&#x5;but the special requirements of the GNU Affero General Public License,&#x5;section 13, concerning interaction through a network will apply to the&#x5;combination as such.&#x5;&#x5;  14. Revised Versions of this License.&#x5;&#x5;  The Free Software Foundation may publish revised and/or new versions of&#x5;the GNU General Public License from time to time.  Such new versions will&#x5;be similar in spirit to the present version, but may differ in detail to&#x5;address new problems or concerns.&#x5;&#x5;  Each version is given a distinguishing version number.  If the&#x5;Program specifies that a certain numbered version of the GNU General&#x5;Public License &quot;or any later version&quot; applies to it, you have the&#x5;option of following the terms and conditions either of that numbered&#x5;version or of any later version published by the Free Software&#x5;Foundation.  If the Program does not specify a version number of the&#x5;GNU General Public License, you may choose any version ever published&#x5;by the Free Software Foundation.&#x5;&#x5;  If the Program specifies that a proxy can decide which future&#x5;versions of the GNU General Public License can be used, that proxy's&#x5;public statement of acceptance of a version permanently authorizes you&#x5;to choose that version for the Program.&#x5;&#x5;  Later license versions may give you additional or different&#x5;permissions.  However, no additional obligations are imposed on any&#x5;author or copyright holder as a result of your choosing to follow a&#x5;later version.&#x5;&#x5;  15. Disclaimer of Warranty.&#x5;&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="3" CULP="-0.1" CH="  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY&#x5;APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT&#x5;HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY&#x5;OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,&#x5;THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR&#x5;PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM&#x5;IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="8.9006e-307" gWidth="1.78019e-306" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="169.52" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="-1" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="530" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="5" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="6" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="3" LAYER="0" BOOKMARK="0" gYpos="3.94625e-316" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="2.37152e-322" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="1307.05" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="340.96" NUMCO="16" POCOOR="0 0 0 0 169.52 0 169.52 0 169.52 0 169.52 0 169.52 530 169.52 530 169.52 530 169.52 530 0 530 0 530 0 530 0 530 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="3" CULP="-0.1" CH="ALL NECESSARY SERVICING, REPAIR OR CORRECTION.&#x5;&#x5;  16. Limitation of Liability.&#x5;&#x5;  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING&#x5;WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS&#x5;THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY&#x5;GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="3" CULP="-0.1" CH="USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF&#x5;DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD&#x5;PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),&#x5;EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF&#x5;SUCH DAMAGES.&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <ITEXT CAB="0" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="5" CULP="-0.1" CH="&#x5;  17. Interpretation of Sections 15 and 16.&#x5;&#x5;  If the disclaimer of warranty and limitation of liability provided&#x5;above cannot be given local legal effect according to their terms,&#x5;reviewing courts shall apply local law that most closely approximates&#x5;an absolute waiver of all civil liability in connection with the&#x5;Program, unless a warranty or assumption of liability accompanies a&#x5;copy of the Program in return for a fee.&#x5;&#x5;                     END OF TERMS AND CONDITIONS&#x5;&#x5;            How to Apply These Terms to Your New Programs&#x5;&#x5;  If you develop a new program, and you want it to be of the greatest&#x5;possible use to the public, the best way to achieve this is to make it&#x5;free software which everyone can redistribute and change under these terms.&#x5;&#x5;  To do so, attach the following notices to the program.  It is safest&#x5;to attach them to the start of each source file to most effectively&#x5;state the exclusion of warranty; and each file should have at least&#x5;the &quot;copyright&quot; line and a pointer to where the full notice is found.&#x5;&#x5;    &lt;one line to give the program's name and a brief idea of what it does.>&#x5;    Copyright (C) &lt;year>  &lt;name of author>&#x5;&#x5;    This program is free software: you can redistribute it and/or modify&#x5;    it under the terms of the GNU General Public License as published by&#x5;    the Free Software Foundation, either version 3 of the License, or&#x5;    (at your option) any later version.&#x5;&#x5;    This program is distributed in the hope that it will be useful,&#x5;    but WITHOUT ANY WARRANTY; without even the implied warranty of&#x5;    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the&#x5;    GNU General Public License for more details.&#x5;&#x5;    You should have received a copy of the GNU General Public License&#x5;    along with this program.  If not, see &lt;http://www.gnu.org/licenses/>.&#x5;&#x5;Also add information on how to contact you by electronic and paper mail.&#x5;&#x5;  If the program does terminal interaction, make it output a short&#x5;notice like this when it starts in an interactive mode:&#x5;&#x5;    &lt;program>  Copyright (C) &lt;year>  &lt;name of author>&#x5;    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.&#x5;    This is free software, and you are welcome to redistribute it&#x5;    under certain conditions; type `show c' for details.&#x5;&#x5;The hypothetical commands `show w' and `show c' should show the appropriate&#x5;parts of the General Public License.  Of course, your program's commands&#x5;might be different; for a GUI interface, you would use an &quot;about box&quot;.&#x5;&#x5;  You should also get your employer (if you work as a programmer) or school,&#x5;if any, to sign a &quot;copyright disclaimer&quot; for the program, if necessary.&#x5;For more information on this, and how to apply and follow the GNU GPL, see&#x5;&lt;http://www.gnu.org/licenses/>.&#x5;&#x5;  The GNU General Public License does not permit incorporating your program&#x5;into proprietary programs.  If your program is a subroutine library, you&#x5;may consider it more useful to permit linking proprietary applications with&#x5;the library.  If this is what you want to do, use the GNU Lesser General&#x5;Public License instead of this License.  But first, please read&#x5;&lt;http://www.gnu.org/philosophy/why-not-lgpl.html>.&#x5;" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="1" gHeight="3.93057e-316" gWidth="0" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="26.4" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="373" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="-1" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="24.8343" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="22" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="-1" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 373 0 373 0 373 0 373 0 373 24.8343 373 24.8343 373 24.8343 373 24.8343 0 24.8343 0 24.8343 0 24.8343 0 24.8343 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="0" LAYER="0" BOOKMARK="0" gYpos="0" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="6.91043e-310" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="36" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="542.835" NUMCO="16" POCOOR="0 0 0 0 373 0 373 0 373 0 373 0 373 24.8343 373 24.8343 373 24.8343 373 24.8343 0 24.8343 0 24.8343 0 24.8343 0 24.8343 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="1" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="22" CULP="-0.1" CH="GNU General Public License" CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Regular" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="1" gHeight="3.98369e-316" gWidth="6.91043e-310" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="9.6" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="366" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Italic" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="None" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="-1" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="4" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="23" DASHOFF="0" PFILE2="" PFILE="" TEXTFLOW3="0" ISIZE="8" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="-1" TransValueS="0" EMBEDDED="1" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 366 0 366 0 366 0 366 0 366 23 366 23 366 23 366 23 0 23 0 23 0 23 0 23 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="0" LAYER="0" BOOKMARK="0" gYpos="6.91043e-310" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="1.01348e-319" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="64" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="547.166" NUMCO="16" POCOOR="0 0 0 0 366 0 366 0 366 0 366 0 366 23 366 23 366 23 366 23 0 23 0 23 0 23 0 23 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <ITEXT CAB="1" CCOLOR="Black" CBASE="0" CSTW="-0.1" CSIZE="8" CULP="-0.1" CH="Die kleinere freie Textlizenz erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die VorautorInnen genannt werden und jeder Anderen die freie Nutzung des Regelbereiches erlaubt und ermöglicht wird. " CSHADE2="100" CKERN="0" CSCALE="100" CSHADE="100" COUT="1" CSCALEV="100" CSTP="-0.1" CULW="-0.1" CSTYLE="0" CFONT="Times New Roman Italic" CSHX="5" CSHY="-5" CSTROKE="Black" />
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+  <PAGEOBJECT OnMasterPage="" BottomLine="0" REXTRA="0" ALIGN="0" gHeight="0" gWidth="6.91043e-310" LANGUAGE="English" NUMPO="16" PLINEART="1" TXTSCALE="100" RightLine="0" LOCALSCX="1" LINESP="14.4" ROT="0" TXTSHX="5" TXTSTROKE="Black" WIDTH="55.6696" ImageRes="1" GROUPS="" LOCKR="0" IFONT="Times New Roman Regular" LOCALSCY="1" NAMEDLST="" TXTSHY="-5" isInline="0" AUTOTEXT="0" FLIPPEDV="0" PCOLOR="White" RADRECT="0" REVERS="0" PRINTABLE="1" RATIO="1" FLIPPEDH="0" COLGAP="0" PCOLOR2="None" NEXTITEM="-1" NUMGROUP="0" TransValue="0" PLINEEND="0" TXTSTW="-0.1" FRTYPE="0" PTYPE="2" ImageClip="" isTableItem="0" TEXTFLOW2="0" SHADE2="100" TXTBASE="0" PWIDTH="1" HEIGHT="32" DASHOFF="0" PFILE2="" PFILE="../Quelldateien/Free_Software_Foundation/gpl-v3.png" TEXTFLOW3="0" ISIZE="12" PLTSHOW="0" LINESPMode="0" TXTSTYLE="0" CLIPEDIT="0" BACKITEM="-1" TransValueS="0" EMBEDDED="0" PFILE3="" ANNAME="" SHADE="100" TXTULP="-0.1" fillRule="1" COCOOR="0 0 0 0 55.6696 0 55.6696 0 55.6696 0 55.6696 0 55.6696 32 55.6696 32 55.6696 32 55.6696 32 0 32 0 32 0 32 0 32 0 0 0 0 " BASEOF="0" PICART="1" TXTKERN="0" COLUMNS="1" OwnPage="0" LAYER="0" BOOKMARK="0" gYpos="4.16196e-316" startArrowIndex="0" TopLine="0" LOCK="0" EPROF="" gXpos="1.37597e-320" DASHS="" IRENDER="1" TEXTFLOW="0" TXTFILLSH="100" YPOS="29" ANNOTATION="0" LOCALX="0" GRTYP="0" XPOS="874.165" NUMCO="16" POCOOR="0 0 0 0 55.6696 0 55.6696 0 55.6696 0 55.6696 0 55.6696 32 55.6696 32 55.6696 32 55.6696 32 0 32 0 32 0 32 0 32 0 0 0 0 " EXTRA="0" LOCALY="0" NUMDASH="0" LeftLine="0" PRFILE="" TEXTRA="0" SCALETYPE="1" TXTOUT="1" TXTFILL="Black" endArrowIndex="0" BEXTRA="0" PLINEJOIN="0" TXTSTP="-0.1" TXTULW="-0.1" TXTSCALEV="100" TXTSTRSH="100" >
+   <PageItemAttributes/>
+  </PAGEOBJECT>
+ </DOCUMENT>
+</SCRIBUSUTF8NEW>
