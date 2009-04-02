@@ -22,7 +22,7 @@ Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 
 Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
 Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9) oder höher ist als das Ergebnis des Gegners. Mindestwürfe liegen auf der gleichen Skala wie die Eigenschaften und Fertigkeiten.
 
-Eigenschaften
+#Eigenschaften
 
 Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundkeit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
 
@@ -31,7 +31,7 @@ Jede Eigenschaft hat Werte zwischen 3 und 21, wobei menschliche Werte zwischen 6
 
 Module: Eigenschaftsskategorien und Untereigenschaften (EigM), Kategoriesystem (KaSy). 
 
-Fertigkeiten
+#Fertigkeiten
 
 Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die  ihren Charakter am schönsten beschreiben. 
 
@@ -43,7 +43,7 @@ Beispielsweise wird ein Koch, der auf seinen Geruchssinn und seine Intuition ver
 Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14
 
 
-Beruf und Hintergrund
+#Beruf und Hintergrund
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
 
@@ -58,7 +58,7 @@ Auch hier können Ausnahmen natürlich mit der SL und der Gruppe abgesprochen we
 
 Details gibt es in dem Modul zu Beruf, Hintergrund und Spezialisierungen (FeMo). 
 
-Merkmale
+#Merkmale
 
 Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter sind Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr. 
 
@@ -70,13 +70,13 @@ Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gew
 
 Ein paar Beispiele gibt es auf Seite 21. 
 
-Kampfwerte
+#Kampfwerte
 
 Für Kämpfe hat ein Charakter außerdem Trefferpunkte und eine Wundschwelle. 
 
 Beide werden im Abschnitt Kampf besprochen und sind hier nur kurz erwähnt, da sie bei der Charaktererschaffung bestimmt werden. 
 
-Einfache Proben
+#Einfache Proben
 
 Einfache Proben werden meist dann nötig, wenn ein Charakter versucht, etwas zu schaffen, gegen das kein aktiver Widerstand geleistet wird; es sei denn, der Erfolg ist offensichtlich. 
 
@@ -104,7 +104,7 @@ Grok ist durchschnittlich im "Gekrakel entziffern" (12), und als er vor einem St
 
 Modul: Kritische Erfolge und Patzer (krit)
 
-Wettstreite
+#Wettstreite
 
 Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft auf aktiven Widerstand trifft. 
 
@@ -113,7 +113,8 @@ Dazu würfeln beide Beteiligten wie bei einer einfachen Probe und ihre Ergebniss
 Unabhängig davon, wer gewonnen hat, zeigt die Höhe der Ergebnisse an, wie gut der jeweilige Charakter sich geschlagen hat. Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Konkurrent einfach ein Stückchen besser ist.   
 
 Modul: Kritische Erfolge und Patzer (krit)
-Charaktererschaffung
+
+#Charaktererschaffung
 
 Im EWS gibt es zwei grundlegende Arten der Charaktererschaffung: Das objektive und das vereinfacht objektive System  (vobsy). 
 
@@ -126,7 +127,8 @@ Da das vobsy für die meisten Runden praktischer ist, wurde das objektive System
 Bevor es jetzt wirklich an die Charaktererschaffung geht, besprechen wir Charakterhefte, in denen Charaktere aufgeschrieben werden. 
 
 
-Das Charakterheft
+#Das Charakterheft
+
 Um es dir zu erleichtern, deinem Charakter mehr Stil zu verleihen, nutzt das EWS Charakterhefte anstelle normaler Charakterblätter, also Falthefte, die du nach deinem persönlichen Geschmack erweitern kannst. 
 
 Anfangs besteht ein Charakterheft aus einer einzelnen, gefalteten DinA4-Seite, wie du sie auch in der Mitte dieses Regelwerks findest, wenn du es gekauft hast, und unter http://charhefte.1w6.org herunterladen kannst. 
@@ -141,7 +143,7 @@ Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charakterge
 
 Am stilvollsten ist aber doch ein vollständig handgeschriebenes Charakterheft. 
 
-Das vobsy
+#Das vobsy
 
 Falls du schnell Charaktere erschaffen willst, die nicht von Anfang an bis ins Kleinste ausgearbeitet sein müssen, wird dich das vobsy wohl am meisten ansprechen: Das vereinfacht objektive System. 
 
@@ -267,7 +269,7 @@ Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen 
 
 
 
-Beispiele für Eigenschaften, Fertigkeiten und Merkmale
+#Beispiele für Eigenschaften, Fertigkeiten und Merkmale
 
 Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen. 
 Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen: 
@@ -336,7 +338,7 @@ Merkmale:
 Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler"). 
 
 
-Was bieten Beruf und Hintergrund? 
+#Was bieten Beruf und Hintergrund? 
 
 Hast du schon jemals gehört, "sowas kann doch Jede" oder "es kann doch gar nicht sein, dass jemand das nicht kann"? Solche Aussagen kommen oft daher, dass diese Fertigkeit in Beruf oder Hintergrund der Person angelegt ist. 
 
@@ -351,7 +353,7 @@ Auf diese Art bleibt das Charakterheft schlank und enthält nur Werte, die für 
 
 Anmerkung: Die Regeln für Beruf und Hintergrund sind gleich, daher verwenden wir meist nur die Bezeichnung Beruf. Sie unterscheiden sich nur in ihrer Bedeutung für den Charakter. 
 
-Kampf
+#Kampf
 
 Das EWS ermöglicht die Behandlung von Kämpfen auf zwei verschiedene Arten. 
 
@@ -366,7 +368,7 @@ Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Foku
 Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um seine Auswirkungen kümmern: Um Schaden, Wunden und Trefferpunkte. 
 
 
-Schaden: Wunden und Trefferpunkte
+#Schaden: Wunden und Trefferpunkte
 
 Falls dein Charakter in Kämpfe geraten sollte (und das passiert in vielen Runden ja bekanntlich recht leicht), und auf der falschen Seite der Waffe steht, kann das zwei verschiedene Auswirkungen haben: Er kann einfach Schaden erhalten oder sich zusätzlich eine tiefe oder gar kritische Wunde zuziehen. 
 
@@ -416,7 +418,7 @@ Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall
 Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46. 
   
 
-Heilung
+#Heilung
 
 Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen (ansonsten wird der Charakter sich nicht lange Sorgen um den Schaden machen können). 
 
@@ -428,7 +430,7 @@ Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit.
 
 Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18) also jede Woche Schaden nehmen. 
 
-Heilungszeiten
+#Heilungszeiten
 
 Ein Charakter mit durchschnittlicher KO (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP. 
 
@@ -442,7 +444,7 @@ In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit e
 
 Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
 
-Das Ein Wurf System
+#Das Ein Wurf System
 
 Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf System abgehandelt. 
 
@@ -468,7 +470,7 @@ Besonders hier können auch unterstützende Fertigkeiten genutzt werden.
 
 - Unterstützende Fertigkeiten: Fertigkeiten wie Rennen, Verstecken, Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jeweils 3 Punkte über 9 einen Punkt Bonus auf den FW (mit dem vobsy: 1 Punkt pro + ).   
 
-Hinweise zum Leiten
+#Hinweise zum Leiten
 
 Kaum eine Spielerin stirbt gerne aus Würfelpech, also sollten die Gegner immer noch ein paar andere Reaktionsmöglichkeiten haben, die sie nutzen können, statt den Charakter zu töten. 
 
@@ -476,7 +478,7 @@ Beträgt die Differenz bei einem Kampfwurf in irgendeinem Fall mehr als 9 Punkte
 
 Nebenbei: Für manche Spielerinnen ist Gefangenschaft ein viel schlimmeres Schicksal als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
 
-Anpassung des EWS
+#Anpassung des EWS
 
 Über die verschiedenen Module kannst du das EWS an deinen Spielstil und die Geschmäcker deiner Gruppe anpassen. 
 
@@ -504,7 +506,7 @@ Kampf:
 
 Um schnell ein Modul zu finden, kannst du einfach das 4 Zeichen lange Kürzel in das Suchfeld auf 1w6.org eingeben. 
 
-Anhang
+#Anhang
 
 Im Anhang sind zwei Module abgedruckt, die für die meisten Spielrunden interessant sind, und die daher direkt im Regelwerk stehen: 
 
@@ -514,7 +516,7 @@ Im Anhang sind zwei Module abgedruckt, die für die meisten Spielrunden interess
 Verschiedene Spielwelten findest du auf der Webseite des Ein Würfel Systems: 
 - http://welten.1w6.org
 
-Modul: Steigerung im vobsy (vost)
+#Modul: Steigerung im vobsy (vost)
 
 Während in One-Shots und sehr kurzen Runden die Weiterentwicklung von Charakteren meist weniger wichtig ist und einfach per Absprache gemacht werden kann, nimmt sie in langen Runden oft einen wichtigen Platz ein. 
 
@@ -537,7 +539,7 @@ Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusamme
 
 Sobald alle nötigen Dreiecke gezeichnet sind, steigt die Fertigkeit auf die nächste Schwelle, d.h. Die Dreiecke werden zu Plussen und die nächste Steigerung wird teurer. 
 
-Striche pro Abend
+#Striche pro Abend
 
 Die passendste Anzahl von Strichen pro Abend hängt von der Länge der Kampagne und von der geplanten Entwicklungsgeschwindigkeit ab. 
 
@@ -551,7 +553,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37. 
 
 
-Beispielsteigerung
+#Beispielsteigerung
 
 Kehren wir noch einmal zu Lazaro zurück. 
 
@@ -594,7 +596,7 @@ Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 Ein ausführlicheres Beispiel gibt es im Netz: 
 -> http://1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel/
 
-Fokusmodul: Kampf (FoKa)
+#Fokusmodul: Kampf (FoKa)
 
 Kämpfe sind in den meisten Runden die letzte und stärkste Eskalation von Konflikten, und damit nehmen sie in vielen Geschichten einigen Raum ein. 
 
@@ -604,7 +606,7 @@ Das Kampfsystem des EWS ist hier grundlegend in Nahkampf und Fernkampf geteilt, 
 
 Vor allem der Nahkampf ist sehr schnell und recht tödlich, und dein Feind kann dich auch in deinem Angriff erwischen. 
 
-Nahkampf
+#Nahkampf
 
 Die Regeln des Fokusmoduls Kampf stehen für den normalen Kampf in unsicherer Umgebung und ohne Regeln jeglicher Art. 
 
@@ -636,7 +638,7 @@ Stahlkatze ist ein überragender Kämpfer (Nahkampf 18) während sein Gegner sei
 
 Während der erste Soldat sich von dem Anblick erholt, das Blut seines Kameraden auf Boden und Wände spritzen zu sehen, verschwindet Stahlkatze im Gang, um dem sicher folgenden Bleihagel zu entgehen.    
 
-Fernkampf
+#Fernkampf
 
 Der Fernkampf funktioniert ähnlich wie der Nahkampf, mit dem Unterschied, dass das Ziel nicht gegen den Angriff würfelt und es für den Schützen stattdessen einen Mindestwurf gibt, der erreicht oder übertroffen werden muss, um zu treffen. 
 Während im Nahkampf ein guter Kämpfer kaum von seinem (schwächeren) Gegner erwischt wird, hängt im Fernkampf die Wahrscheinlichkeit getroffen zu werden fast nur  von den Fähigkeiten des Schützen und der Deckung des Ziels ab (von Superfähigkeiten und extremen Reflexen mal abgesehen). Schon die Shaolin sind dem zum Opfer gefallen. 
@@ -678,7 +680,7 @@ Deckung:
 - Schütze in 2/3 Deckung (oder mehr): MW+3
 - Schütze in 90% oder mehr Deckung (Blindschuss): MW+9
 
-Beispielkampf, Fernkampf
+#Beispielkampf, Fernkampf
 
 Stahlkatze streift über die leeren Dächer des Hochhausghettos. Dann und wann huschen Katzen zur Seite oder erstarren mit gesträubtem Fell, wenn sein Schatten auf sie fällt. Die einzigen Geräusche sind das ferne Brummen des Straßenverkehrs  in den belebteren Teilen der Stadt und das Knacken von Beton, der nach dem Verschwinden der Sonne langsam abkühlt. 
 Einige lautlose Schritte bringen Stahlkatze zur Brüstung der Wand und dort auf eine verrostete Feuerleiter. Auf halbem Weg sieht er einige Ratten, die sich in nichts von dem Kadaver eines verhungerten Hundes abbringen lassen, ihrem Essen in dieser Nacht. 
@@ -700,7 +702,8 @@ Technisches:
 
 Um zu treffen muss er eine 6 werfen, ansonsten prallt die Scheibe harmlos an den Stacheln des Motorrads ab und Stahlkatze muss sich auf einen lebensgefährlichen Nahkampf einstellen. 
 
-Schüssen ausweichen
+#Schüssen ausweichen
+
 Sieht im Kampf ein Charakter einen Schützen, und hat er in dieser Runde noch nicht gehandelt, kann er versuchen auszuweichen. Dazu würfelt er mit Geschicklichkeit oder einer anderen passenden Eigenschaft oder Fertigkeit gegen einen Mindestwurf von 12, modifiziert durch die Bodenbeschaffenheit (±3). Erzielt er dabei eine höhere Differenz als der Schütze, so gelingt es ihm auszuweichen. 
 
 Bei Waffen mit schnellen Projektilen (Pistolen, Laserwaffen, Blaster) beträgt der Mindestwurf 15. Ein Erfolg bedeutet, dass der Charakter zur Seite springt, bevor der Schütze feuert. 
@@ -710,7 +713,7 @@ Bei sehr langsamen Projektilen und Wurfwaffen, oder bei langsamen Projektilen au
 Außerhalb von Kampfsituationen sind diese Mindestwürfe sowohl für den Schützen als auch für den Ausweichenden um 3 Punkte niedriger. 
 
 
-Hinweise zum Leiten
+#Hinweise zum Leiten
 
 Der Kampf im EWS ist schnell und tödlich. Daher sollten Spielerinnen und SL immer an stilvolle Beschreibungen denken. Vor jeder Aktion sollten die Spielerinnen beschreiben, was sie zu tun beabsichtigen ("Ich tänzle zur Seite um seinem Axthieb zu entgehen und reiße das Schwert in die Höhe, um seinen Waffenarm abzutrennen") wobei erst die Angreiferin ihre Handlung beschreibt, wonach die Verteidigerin sagt, wie sie darauf reagieren will. 
 
@@ -724,7 +727,7 @@ SL: "Asgak keucht, als dein Schwert seinen Arm aufreißt und Muskelfasern mit la
 Spielerin: "Ich drücke mein Schwert gegen seine Kehle: 'Das war's für dich, Asgak. Sag uns wo Leanis steckt, oder dein Leben endet hier und jetzt.'"
 
 
-Lizenz und Epilog
+#Lizenz und Epilog
 
 Das EWS steht unter der GPLv3: http://lizenz.1w6.org
 
