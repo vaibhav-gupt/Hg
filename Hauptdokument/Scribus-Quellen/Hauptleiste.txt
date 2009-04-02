@@ -178,7 +178,7 @@ Gewandtheit und persönlichen Stil.
 
 *Auch die beiden Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
 (Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen). 
-Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm sofort klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
+*Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm sofort klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
 
 *Das zweite Merkmal ersetzt er nach einigem Nachdenken jedoch lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
 
@@ -190,7 +190,7 @@ Fertigkeiten und Berufe erhalten auf diese Grundwerte einen Bonus durch zu ihnen
 
 Warum Eigenschaften und Fertigkeiten diese Werte haben und wie höhere Werte gewählt werden können, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
 
-Für jede Fertigkeit wählt Sven nun zwei passende Eigenschaften. 
+*Für jede Fertigkeit wählt Sven nun zwei passende Eigenschaften. 
 
 *Für Nahkampf wählt er Gewandtheit und persönlichen Stil, die ihm als passende starke Eigenschaften jeweils einen Punkt Bonus auf seinen Wert geben (siehe Regelteil unten), so dass er insgesamt ein guter Kämpfer ist (er kommt von 12 auf 14). 
 
