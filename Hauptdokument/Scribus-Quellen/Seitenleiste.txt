@@ -35,6 +35,31 @@ Für ein Spiel braucht deine Runde genau einen Würfel, ein Charakterblatt und e
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Namen und Werte
 Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet. 
 
@@ -55,10 +80,12 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 Namen für extremere Werte findest du auf 1w6.org
 - http://werte.1w6.org
 
+
 #Die Namen stimmen
 Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen. 
 
 Gleichstarke Gegner sind daher übrigens wirklich gleich stark, und damit gefährlich. 
+
 
 
 
@@ -68,6 +95,26 @@ Die Schwierigkeiten liegen auf der selben Skala wie die Eigenschafts- und Fertig
 Beschreibungen der Schwierigkeit für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12), also die effektive Schwierigkeit von Mindestwürfen, stehen in der Seitenspalte "Mindestwürfe" auf der nächsten Seite.
 
 Module zu Proben: Kritische Erfolge und Patzer (Krit). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #Mindestwürfe
@@ -86,10 +133,23 @@ Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfa
 Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder haben recht niedrige Erfolgs- oder Überlebensraten.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #Wann würfeln?
 Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als auch unklar sind. 
 
 Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine Horde Wildschweine heranrennt. 
+
 
 #Die Eigenschaft Vermögen
 Die Bedeutung der Eigenschaft Vermögen hängt von der Hintergrundwelt ab, daher kann ich dir hier nur eine Richtlinie geben, was sie für Einkommen und Besitz des Charakters bedeutet: 
@@ -111,6 +171,8 @@ Die Bedeutung der Eigenschaft Vermögen hängt von der Hintergrundwelt ab, daher
 24: Bill Gates u.ä.
 
 
+
+
 #Beispielcharaktere
 In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ich möchte sie hier kurz vorstellen: 
 
@@ -129,6 +191,11 @@ Stahlkatze gibt es dagegen wirklich (als SC).
 
 
 
+
+
+
+
+
 #Punkte schinden
 Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegensteuern: 
 
@@ -139,6 +206,15 @@ Was immer die Spielerinnen wählen, es sollte im Spiel drankommen.
 Ansonsten ignorier' die Punkteschinderei einfach. Sie scheint der Spielerin schließlich Spaß zu machen, und nicht jede Spielerin macht sich viele Gedanken darum, ob einer der Charaktere stärker ist als der Rest, solange er ihrem eigenen Charakter nicht die Show stiehlt, und dafür kannst du als Spielleiterin sorgen. 
 
 <fuss>Ein paar Tipps dafür findest du unter SL-Tipps.de
+
+
+
+
+
+
+
+
+
 
 #Machtniveaus
 Im vobsy kann deine Spielrunde zwischen verschiedenen Machtniveaus wählen. Hier sind vier davon beschrieben: 
@@ -154,6 +230,15 @@ Die Charaktere gehören zu den mächtigeren Personen in der Hintergrundwelt und 
 
 - Beweger: 
 Die Charaktere können über das Schicksal ihres Landes mitentscheiden.
+
+
+
+
+
+
+
+
+
 
 #Machtniveaus mit Werten
 Schema: 
@@ -185,6 +270,15 @@ Eigenschaften, Fertigkeiten|Beruf /  Hintergrund, Merkmale.
 (10Δ, 10Δ|10Δ, 10Δ)
 
 
+
+
+
+
+
+
+
+
+
 #Persönliche Gegenstände
 Im EWS gibt es zwei Arten von Ausrüstung: Normalen Besitz und persönliche Gegenstände. 
 
@@ -194,7 +288,12 @@ Persönliche Gegenstände dagegen werden als Merkmale gekauft und gelten als Tei
 
 Wenn ein Charakter seinen persönlichen Gegenstand verliert, geht ihm ein Teil seiner selbst verloren, was in etwa so schwerwiegend ist, wie der Verlust eines Auges oder Armes, und die Spielleiterin sollte vorher auch entsprechend gründlich darüber nachdenken. 
 
-Sie können allerdings tolle Aufhänger für Geschichten sein, schließlich wäre auch Indy ohne seinen Hut nicht Indy, und wer weiß, was er tun würde, um ihn sich zurück zu holen. |Sind  die persönlichen Gegenstände Alltagsgegenstände, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen). 
+Sie können allerdings tolle Aufhänger für Geschichten sein, schließlich wäre auch Indy ohne seinen Hut nicht Indy, und wer weiß, was er tun würde, um ihn sich zurück zu holen. 
+
+
+
+
+Sind  die persönlichen Gegenstände Alltagsgegenstände, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen). 
 
 Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächste Seitenleiste). 
 
