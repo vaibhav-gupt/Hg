@@ -1510,9 +1510,27 @@ Protos:
 
 Schauen, welche Waffe wieviele Schüsse braucht, um eine Einheit zu erledigen und daran die Wahrscheinlichkeit festmachen, eine Wunde oder schwere Wunde zu verursachen. 
 
+Massive Rüstungsunterscheide zwischen Helden und normalen Soldaten. 
+
 #### Nahkampf
 
 Immer gegen 12 würfeln statt gegeneinander, um Starcraft Kämpfe besser wiederzuspiegeln. 
 
+#### Storyideen
+
+Infiltrationen. 
+
+Diplomatische Missionen: Abweichler. 
+
+Infragestellen des Systems, aber auch der Verbündeten. 
+
+Quellen: 
+- http://starcraft2.4players.de/index.php
+
+#### Sonstiges
+
+Telepathen + Cloak -> Ghost
+
 ------ 
+
 
