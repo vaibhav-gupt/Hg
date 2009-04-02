@@ -19,6 +19,7 @@ Die meisten Module findest du auf
 
 **Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die von den Spielerinnen frei gewählt werden können. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge(tm) übernommen werden.
 **Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (9 ist schwach, 12 durchschnitt und 15 sehr gut).
+
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
 **Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9) oder höher ist als das Ergebnis des Gegners. Mindestwürfe liegen auf der gleichen Skala wie die Eigenschaften und Fertigkeiten.
 
