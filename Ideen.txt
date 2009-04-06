@@ -1533,4 +1533,60 @@ Telepathen + Cloak -> Ghost
 
 ------ 
 
+Psi: ESP: Kampf-Präkognition
 
+Unterschied: Gefühl für die Zukunft - Konzentrieren um Visionen zu haben - klare Bilder sehen - 
+Kampf.PSI. 
+
+Nur Notizensammlung!! Ideen aus "Vergangenheit 12/4: Ein Menschenleben". Klarer im Notizheft 2008-02-04
+
+    12/3 in Vergangenheit: Erinnerung an ein Jahr - Visionen der letzten 3 Tage (1/100) - klare Bilder der letzten 45 Minuten (1/100). 
+
+    12/3 in Zukunft: Schemenhafte Wahrnehmungen der nächsten 3 Tage (an relevanten Orten) - Visionen der nächsten 5 Minuten (1/1000) - Kampf-PSI die nächsten 30 Millisekunden. 
+
+    12/4 in Vergangenheit: Erinnerung an ein Menschenleben - Visionen des letzten Jahres (1/100) - klare Bilder der letzten 3 Tage (1/100). 
+
+    12/4 in Zukunft: Schemenhafte Wahrnehmungen des nächsten Jahres (an relevanten Orten) - Visionen der nächsten 9 Stunden (1/1000) - Kampf-PSI die nächsten 3 Sekunden (ab wann ist die Handlung des anderen entscheiden - reine Reflexe: Ab wann kann er sie nicht mehr aufhalten? eigentlich 1s: Eig^2 * 10ms) (1/10.000). 
+
+    12/5 in Vergangenheit: Erinnerung an die letzten 10.000 Jahre - Visionen eines Menschenlebens (Viel klarer als Erinnerungen -> Kino!) (1/100) - klare Bilder des letzten Jahres (1/100). 
+
+    12/5 in Zukunft: Schemenhafte Wahrnehmungen der nächsten 100 Jahre (an relevanten Orten) - Visionen des nächstens Monats (1/1000) - Kampf-PSI die nächsten 5 Minuten (1/10.000). 
+
+
+ESP auf 12/4 gibt einen Bonus von 3, plus 1 pro 3 Punkte über 12, weil der Nutzer die Handlungen seines Gegners vorhersieht. 
+
+ESP auf 12/5 gibt damit 9 Punkte Bonus, 12/6 und 12/7 muss nicht mehr kämpfen, weil er die nächsten Monate der Handlungen des Gegners, bzw. deren Auswirkungen auf die nächsten 3000 Generationen schon vor dem inneren Auge ablaufen lassen kann. 
+
+------ 
+
+Psi: Notizen zu ESP
+
+Auf 12/4: 
+
+### Die Umgebung spüren
+
+10 m scharf, 1 km unscharf, 100 km schwaches Gefühl (eine Erschütterung der Macht). 
+
+### Zeitwahrnehmung, Vergangenheit
+
+* Allgemeine Ereignisse: Kurzzeitgedächtnis: mehrere Stunden
+* Unwichtiges: Ultrakurzzeit: ~1min
+* Wichtiges: Wochen
+* Besonderes (das für das Leben / die Existenz eine Bedeutung hatte): ~ 1 Jahr "da war etwas" + unterschiedliche Eindrücke
+* Lebensveränderndes: bis 100 Jahre, z.B. "Eine Plasmawolke hat dieses Haus zerschmolzen. 
+* Das Schicksal änderndes (Ahnungen): 10.000 Jahre, bzw. fast beliebig. "Dieses Schwert hat großes vollbracht", Bilder von Bedeutung. 
+
+### Zeitwahrnehmung, Zukunft
+
+- Präzise
+- Vorahnung (auch und besonders eigentlich unwichtige Details)
+
+Was wir für Ahnungen wollen: 
+
+* Kat 1: Ein paar mal im Leben eine kurze Vorahnung
+* Kat 2: Eine Stunde im Vorraus ein komisches Gefühl
+* Kat 3: Ein Jahr im Vorraus - "Ich will nicht in dieses Haus ziehen"
+* Kat 4: 100 Jahre - "Hier wird etwas wichtiges geschehen"
+* Kat 5: 10.000 Jahre "Lasst uns hier verschwinden! Ich ertrage das nicht länger! Millionen werden sterben!"
+
+-> Idee: Fertigkeit auch notwendig, um Ahnungen zu ignorieren. Zu niedrige Fertigkeit bedeutet unkontrollierte Vorahnungen. 
