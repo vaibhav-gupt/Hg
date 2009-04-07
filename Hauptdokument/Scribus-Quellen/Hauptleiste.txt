@@ -578,14 +578,15 @@ Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall
 
 Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen (ansonsten wird der Charakter sich nicht lange Sorgen um den Schaden machen können). 
 
-**Im einfachen Heilungssystem heilen Charaktere pro Woche Ruhe eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. Jede Wunde reduziert die Heilung um einen Punkt, jede kritische Wunde reduziert sie um zwei Punkte. 
+**Im einfachen Heilungssystem heilen Charaktere pro Woche Ruhe eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
+
+**Jede Wunde reduziert die Heilung um einen Punkt, jede kritische Wunde reduziert sie um zwei Punkte. 
 
 Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt. 
 
 Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. 
 
 Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18) also jede Woche Schaden nehmen. 
-
 
 
 
@@ -609,6 +610,12 @@ In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit e
 
 Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
 
+
+
+
+
+
+
 #Das Ein Wurf System
 
 Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf System abgehandelt. 
@@ -624,7 +631,10 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 **Sehr langsame Waffen (Armbrust, Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
 
 In diesen Kämpfen können verschiedene Taktiken genutzt werden, die diesem einfachen Konfrontationssystem größere Flexibilität geben. 
-Beispiele für Kampftaktiken sind: 
+
+
+
+##Beispiele für Kampftaktiken
 
 - Vorsichtiger Kampf: Hierdurch erhält der Charakter, wenn er verliert, nur eine Wunde für je 3 Punkte Differenz und keine, wenn er gewinnt. Dafür hat er allerdings einen Malus von 3 Punkten auf seinen FW (Gewinnchance 1/3  statt 1/2 bei gleichstarken Gegnern). 
 
@@ -635,13 +645,49 @@ Besonders hier können auch unterstützende Fertigkeiten genutzt werden.
 
 - Unterstützende Fertigkeiten: Fertigkeiten wie Rennen, Verstecken, Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jeweils 3 Punkte über 9 einen Punkt Bonus auf den FW (mit dem vobsy: 1 Punkt pro + ).   
 
+
+
+
+
+
+
+
+
+
+
 #Hinweise zum Leiten
 
-Kaum eine Spielerin stirbt gerne aus Würfelpech, also sollten die Gegner immer noch ein paar andere Reaktionsmöglichkeiten haben, die sie nutzen können, statt den Charakter zu töten. 
+Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System statt mit Kampfunfähigkeit und Verletzung solange niemand auf Leben und Tod kämpft. 
 
-Beträgt die Differenz bei einem Kampfwurf in irgendeinem Fall mehr als 9 Punkte, kann die Gegnerin (oder Spielerin) sich auch entscheiden, die Verliererin nur kampfunfähig zu machen (auf welche Art auch immer), statt sie zu verletzen oder zu töten. 
+Für manche Spielerinnen ist nebenbei die Gefangenschaft ein viel schlimmeres Schicksal als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
 
-Nebenbei: Für manche Spielerinnen ist Gefangenschaft ein viel schlimmeres Schicksal als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
+Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen. 
+
+<fuss>Wenn dir Kämpfe mit dem Ein Wurf System zu schnell sind oder nicht genug Spannung aufbauen, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen. Sie behandeln Kämpfe bei weitem ausführlicher. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #Anpassung des EWS
 
@@ -660,16 +706,28 @@ Allgemein:
 - Konflikte statt Proben (Konf)
 
 Charaktererschaffung: 
-- Eigenschaftskategorien und Untereigenschaften (EigM)
-- Fertigkeit, Beruf, Hintergrund und Spezialisierungen (FeMo)
 - Kategoriesystem (KaSy)
+- Ad-Hoc Magiesysteme (AHMa)
 - Steigerung im vobsy (vost)
 
 Kampf: 
 - Martial Arts Modul (MAMo)
 - Fokusmodul Kampf (FoKa)
+- Taktische Kämpfe (TakM)
+- Initiative Modul (Init)
 
 Um schnell ein Modul zu finden, kannst du einfach das 4 Zeichen lange Kürzel in das Suchfeld auf 1w6.org eingeben. 
+
+
+
+
+
+
+
+
+
+
+
 
 #Anhang
 
