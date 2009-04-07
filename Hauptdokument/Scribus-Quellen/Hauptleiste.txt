@@ -88,6 +88,14 @@ Für Kämpfe hat ein Charakter außerdem Trefferpunkte und eine Wundschwelle.
 
 Beide werden im Abschnitt Kampf besprochen und sind hier nur kurz erwähnt, da sie bei der Charaktererschaffung bestimmt werden. 
 
+
+
+
+
+
+
+
+
 #Einfache Proben
 
 Einfache Proben werden meist dann nötig, wenn ein Charakter versucht, etwas zu schaffen, gegen das kein aktiver Widerstand geleistet wird; es sei denn, der Erfolg ist offensichtlich. 
@@ -109,10 +117,12 @@ Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit der Schwier
 
 **Liegen Eigenschaft oder Fertigkeit bereits 6 oder mehr Punkte über der Schwierigkeit, gelingt die Probe auch ohne Wurf automatisch (Ausnahmen bestimmt die Spielleiterin). 
 
+
+
 Hat die Spielerin keine passende Fertigkeit, kann sie auf einen Beruf oder den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen. 
 
 *Beispiel: Jana, Schülerin in der 9. Klasse, zieht als der "Grok, Barbar!" durchs Land. 
-Grok ist durchschnittlich im "Gekrakel entziffern" (12), und als er vor einem Straßenschild steht, verlangt die SL eine einfache Probe (9), um das mittelreichische Gekrakel zu verstehen. Jana würfelt eine 1. Damit erreicht sie 12 - 1 = 11. Das Ergebnis ist also höher (oder gleich) 9, und  Grok findet seinen Weg zum Wirtshaus. 
+*Grok ist durchschnittlich im "Gekrakel entziffern" (12), und als er vor einem Straßenschild steht, verlangt die SL eine einfache Probe (9), um das mittelreichische Gekrakel zu verstehen. Jana würfelt eine 1. Damit erreicht sie 12 - 1 = 11. Das Ergebnis ist also höher (oder gleich) 9, und  Grok findet seinen Weg zum Wirtshaus. 
 
 <fuss>Modul: Kritische Erfolge und Patzer (krit)
 
@@ -126,11 +136,12 @@ Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft
 
 Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Konkurrent einfach ein Stückchen besser ist.   
 
-Modul: Kritische Erfolge und Patzer (krit)
+<fuss>Modul: Kritische Erfolge und Patzer (krit)
+
 
 #Charaktererschaffung
 
-Charaktere in EWS werden meistens mit dem vereinfacht objektiven System entworfen (dem vobsy). 
+Charaktere im EWS werden meistens mit dem vereinfacht objektiven System entworfen (dem vobsy). 
 
 Mit ihm könnt ihr Charaktere schnell und unkompliziert erschaffen. 
 

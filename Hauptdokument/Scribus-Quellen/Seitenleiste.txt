@@ -13,7 +13,7 @@ Grundtexte sind dabei im Haupttext, Optionales, Hintergründe und Ideen (wie die
 
 <fuss>für Verweise auf anderes.
 
-Zusätzlich zu den Infos zu weiteren Quellen (z.B. Modulen, die zum jeweiligen Abschnitt passen) findest du von mir dann und wann Anmerkungen, kleine Tipps und Hinweise, die für die meisten Runden nützlich sein sollten. 
+Zusätzlich zu den Infos über weitere Quellen (z.B. Modulen, die zum jeweiligen Abschnitt passen) findest du von mir dann und wann Anmerkungen, kleine Tipps und Hinweise, die für die meisten Runden nützlich sein sollten. 
 
 Bevor du die Tipps einfach übernimmst, solltest du allerdings wie bei optionalen Regeln selbst überlegen, ob sie für deine Gruppe sinnvoll sind, völlig egal was ich hier schreibe. Das wichtigste Ziel ist, dass eure Runde allen Beteiligten Spaß macht. 
 
@@ -121,19 +121,19 @@ Module zu Proben: Kritische Erfolge und Patzer (Krit).
 #Mindestwürfe
 Schwierigkeiten und Erfolgswahrscheinlichkeiten für einen Charakter mit durchschnittlicher Fertigkeit oder durchschnittlicher Eigenschaft (12) für bestimmte Mindestwürfe:
 
-MW - Name (Chance)
+MW: Name (Chance)
 
-9 - einfach (83%)
-
-12 - fordernd (50%)
-
-15 - schwer (33%)
-
-18 - heikel (17%)  
+- 9: einfach (83%)
+- 12: fordernd (50%)
+- 15: schwer (33%)
+- 18: heikel (17%)  
 
 Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9). 
 
 Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder haben recht niedrige Erfolgs- oder Überlebensraten.
+
+
+
 
 
 
