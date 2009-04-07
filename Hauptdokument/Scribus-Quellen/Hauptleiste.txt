@@ -197,6 +197,11 @@ Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charakterge
 
 Am stilvollsten ist aber doch ein vollständig handgeschriebenes Charakterheft. 
 
+
+
+
+
+
 #Das vobsy
 
 Falls du schnell Charaktere erschaffen willst, die nicht von Anfang an bis ins Kleinste ausgearbeitet sein müssen, wird das vobsy dir wohl die besten Dienste leisten: Das vereinfacht objektive System. 
@@ -216,11 +221,13 @@ Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die ande
 Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher Machtstufe ihr spielen wollt. 
 
 Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen). 
-
 Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Spielern und der Art des Abenteuers ab. 
-Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. Je nach Machtniveau kannst du unterschiedlich viele verschieden hoch wählen (S.16 - 17). 
 
-In der Seitenleiste findest du eine Tabelle, die für die verschiedenen Machtniveaus die jeweilige Anzahl  von Dreiecken enthält, die du auf  die Werte verteilen kannst. 
+Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. 
+In der Seitenleiste findest du eine Tabelle, die für die verschiedenen Machtniveaus die jeweilige Anzahl von Eigenschaften, Fertigkeiten, Berufen und Merkmalen enthält, die du für deinen Charakter wählen kannst. 
+
+<fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
+
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden. 
 
 **Daten: Ein angehender Held kann 2 starke Eigenschaften, zwei Fertigkeiten, einen Beruf und zwei positive Merkmale haben. Die Punkte können verschoben werden, wobei jeweils eine Eigenschaft zu einer Fertigkeit, einem Beruf oder einem Merkmal werden kann (und umgekehrt). 
@@ -231,7 +238,12 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 Gewandtheit und persönlichen Stil. 
 
 *Auch die beiden Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
-(Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen). 
+
+<fuss>Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen. 
+
+
+
+
 *Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm sofort klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
 
 *Das zweite Merkmal ersetzt er nach einigem Nachdenken jedoch lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
@@ -241,8 +253,6 @@ Gewandtheit und persönlichen Stil.
 *Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. Dabei ist hier jede der gewählten Eigenschaften sehr gut, also bei 15, jede Fertigkeit durchschnittlich, also bei 12, und der Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird. 
 
 Fertigkeiten und Berufe erhalten auf diese Grundwerte einen Bonus durch zu ihnen passende Eigenschaften. Die Einzelheiten findest Du auf der nächsten Seite.
-
-Warum Eigenschaften und Fertigkeiten diese Werte haben und wie höhere Werte gewählt werden können, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
 
 *Für jede Fertigkeit wählt Sven nun zwei passende Eigenschaften. 
 
