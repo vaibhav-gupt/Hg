@@ -252,7 +252,19 @@ Gewandtheit und persönlichen Stil.
 
 *Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. Dabei ist hier jede der gewählten Eigenschaften sehr gut, also bei 15, jede Fertigkeit durchschnittlich, also bei 12, und der Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird. 
 
-Fertigkeiten und Berufe erhalten auf diese Grundwerte einen Bonus durch zu ihnen passende Eigenschaften. Die Einzelheiten findest Du auf der nächsten Seite.
+Fertigkeiten und Berufe erhalten auf diese Grundwerte einen Bonus durch zu ihnen passende Eigenschaften. 
+
+Die Einzelheiten findest Du auf der nächsten Seite.
+
+
+
+
+
+
+
+
+
+
 
 *Für jede Fertigkeit wählt Sven nun zwei passende Eigenschaften. 
 
@@ -266,7 +278,16 @@ Fertigkeiten und Berufe erhalten auf diese Grundwerte einen Bonus durch zu ihnen
 
 Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro. 
 
-Und damit ist Svens Charakter beinahe spielfertig: 
+Und damit ist Svens Charakter beinahe spielfertig. 
+
+
+
+
+
+
+
+
+
 
 **Salamon Lazaro de Aicega, 
 **Diplomat, Degenfechter und Charmeur. 
@@ -294,45 +315,50 @@ Und damit ist Svens Charakter beinahe spielfertig:
 
 Und hiermit ist er fertig. 
 
+
+
+
+
+
+
+
+
 Die Erschaffung von Lazaro war die einfachste Möglichkeit das vobsy zu nutzen. Es sind allerdings auch bei weitem komplexere Charaktere möglich. 
 Dabei gelten die folgenden sechs Regeln: 
 
-**1) Plusse und Minusse für Werte, Eigenschaften und Merkmale
-**Im vobsy werden während der Erschaffung Werte nur durch Plusse "+" und Minusse "-" ausgedrückt. 
-**Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18 (entsprechend der Tabelle "Namen und Werte"). Jedes + erhöht also den durchschnittlichen Wert von 12 um drei Punkte, jedes Minus senkt ihn um drei Punkte. 
+##1) Werte von Eigenschaften und Merkmalen
+**Im vobsy werden während der Erschaffung Werte nur durch Plusse (+) und Minusse (-) ausgedrückt. 
+**Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18 (entsprechend der Tabelle "Namen und Werte" auf Seite 5). 
+**Jedes + erhöht also den durchschnittlichen Wert von 12 um drei Punkte, jedes Minus senkt ihn um drei Punkte. 
 **Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse. 
 
+##2) Werte von Fertigkeiten und Berufen
+**Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält. 
+**Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
+**Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. 
+**Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
 
-**2) Plusse und Minusse für Werte, Fertigkeiten und Berufe
-**Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält. Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
-**Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
+##3) Eigenschaftsboni
+**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils Boni aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+, also 14,15,16) geben dabei einen Punkt Bonus. 
+**Eigenschaften mit Werten um 18 (++, also 17,18,19) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
+**Proben werden immer auf den Wert mit Bonus gewürfelt. 
 
-
-**3) Zugeordnete Eigenschaften
-**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird der Durchschnittswert angenommen, der keine Boni gibt.
-**Berufe und Hintergründe erhalten jeweils Boni aus einer zur Situation passenden Eigenschaft. 
-**Eigenschaften mit Werten um 15 (+, also 14,15,16) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++, also 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 (+++) geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
-
-
-**4) Kosten in Dreiecken
+##4) Kosten in Dreiecken
 **Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
 **+: 1 Dreieck (Δ) Kosten
 **++: 3 Dreiecke (Δ) Kosten
 **+++: 6 Dreiecke (Δ)
 **++++: 10 Dreiecke (Δ)
 
+##5) Dreiecke verschieben
+**Dreiecke können verschoben werden, um andere Bereiche zu steigern. 
+**Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (z.B. Schreiber) oder ein positives Merkmal (etwa Extremverdauung) nehmen. 
 
-**5) Dreiecke verschieben
-**Dreiecke können verschoben werden, um andere Bereiche zu steigern. Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (z.B. Schreiber) oder ein positives Merkmal (etwa Extremverdauung) nehmen. 
-
-
-**6) Stärken für Schwächen
-**Eine schwache Eigenschaft (auf -) oder ein negatives Merkmal (auf -) zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Δ (Ecken) wie ihr positives Gegenstück kosten würde. Also kann ein ängstlicher Charakter mit mickrigem Mut (--) eine weitere überragende (++) Eigenschaft nehmen, da er für das mickrig (--) die für überragend (++) nötigen drei Ecken erhält (siehe Regel 4). 
+##6) Stärken für Schwächen
+**Eine schwache Eigenschaft (auf -) oder ein negatives Merkmal (auf -) zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
+**Also kann ein ängstlicher Charakter mit mickrigem Mut (--) eine weitere überragende (++) Eigenschaft oder drei sehr gute Eigenschaften (+) nehmen, da er für das mickrig (--) drei Dreiecke (Δ) erhält (siehe Regel 4). 
 
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
-
-
-
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
 
 Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen. 
@@ -347,7 +373,6 @@ Eigenschaften:
 
 - Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
 - Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
-
 - Okkultes/Magisches: Spiritualität, Magischer Fluss, Seelenstärke, Widerhall, Magieresistenz, Magiepotential, Magische Begabung, Macht, Rückhall der Klänge der Welten, Rückhall der Klänge der Macht... 
 
 - Sinne: Geruchssinn, Hören, Schmecken, Tastsinn, Orientierung, Wahrnehmung...
@@ -362,7 +387,18 @@ Fertigkeiten:
 
 - Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien... 
 
-- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Strategie, Verschwörungstheorie/Paranoia... 
+- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie... 
+
+
+
+
+
+
+
+
+
+
+
 
 Berufe: 
 - Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde... 
@@ -387,6 +423,11 @@ Hintergründe:
 
 - Science-Fiction: Außenseiterin, Letzte einer ausgestorbenen Spezies, Kolonie, Zentralwelt... 
 
+
+
+
+
+
 Merkmale: 
 - Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (+3): +, Schöne Stimme (+3): +, Unsichtbar: ++, Heilen (2TP/Punkt Erschöpfung): ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Schattengestalt: ++, Mit Pflanzen sprechen: +, Altert nicht: +
 
@@ -400,6 +441,19 @@ Merkmale:
 -> http://1w6.org/stichwort/merkmale
 
 Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler"). 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #Was bieten Beruf und Hintergrund? 
@@ -417,6 +471,10 @@ Auf diese Art bleibt das Charakterheft schlank und enthält nur Werte, die für 
 
 Anmerkung: Die Regeln für Beruf und Hintergrund sind gleich, daher verwenden wir meist nur die Bezeichnung Beruf. Sie unterscheiden sich nur in ihrer Bedeutung für den Charakter. 
 
+
+
+
+
 #Kampf
 
 Das EWS ermöglicht die Behandlung von Kämpfen auf zwei verschiedene Arten. 
@@ -430,6 +488,17 @@ Es kann daher auch als Vorlage für Regeln von vielen anderen Arten von Konfront
 Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Fokusmodul Kampf in den Anhang dieses Heftes aufgenommen, das den Kampf ein Stückweit ins Rampenlicht rückt und ihm mehr Regelzeit gibt. 
 
 Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um seine Auswirkungen kümmern: Um Schaden, Wunden und Trefferpunkte. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 #Schaden: Wunden und Trefferpunkte
@@ -450,7 +519,16 @@ Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4.
 
 Beispiel: Lazaros Erschaffung auf S. 15. 
 
-Niedrige Trefferpunkte: 
+
+
+
+
+
+
+
+
+
+##Niedrige Trefferpunkte
 
 **Wenn die verbleibenden Trefferpunkte eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
 
@@ -466,13 +544,21 @@ Niedrige Trefferpunkte:
 
 Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
 
-Wunden: 
+
+
+
+
+
+
+##Wunden 
+
 Erhält ein Charakter mit einem Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab. 
 
 **Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
 
 **Erhält er gar Schaden in Höhe der gewählten Eigenschaft (halbe TP), dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. 
-In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
+
+**In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
  
 Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
 
@@ -482,6 +568,11 @@ Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall
 
 <fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46. 
   
+
+
+
+
+
 
 #Heilung
 
@@ -494,6 +585,15 @@ Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche.
 Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. 
 
 Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18) also jede Woche Schaden nehmen. 
+
+
+
+
+
+
+
+
+
 
 #Heilungszeiten
 
