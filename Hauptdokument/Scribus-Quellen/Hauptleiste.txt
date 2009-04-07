@@ -141,13 +141,9 @@ Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messersteche
 
 #Charaktererschaffung
 
-Charaktere im EWS werden meistens mit dem vereinfacht objektiven System entworfen (dem vobsy). 
+Bevor es wirklich an die Charaktererschaffung geht, besprechen wir kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. 
 
-Mit ihm könnt ihr Charaktere schnell und unkompliziert erschaffen. 
-
-Bevor es jetzt wirklich an die Charaktererschaffung geht, besprechen wir Charakterhefte, in denen Charaktere aufgeschrieben werden. 
-
-<fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® haben. Die Seitenleiste auf Seite 23 enthält einfache Konvertierungsregeln für die Kosten. 
+<fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 23 enthält einfache Konvertierungsregeln für die Kosten. 
 
 
 #Das Charakterheft
