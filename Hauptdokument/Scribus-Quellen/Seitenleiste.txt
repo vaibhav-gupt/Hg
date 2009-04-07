@@ -121,19 +121,19 @@ Module zu Proben: Kritische Erfolge und Patzer (Krit).
 #Mindestwürfe
 Schwierigkeiten und Erfolgswahrscheinlichkeiten für einen Charakter mit durchschnittlicher Fertigkeit oder durchschnittlicher Eigenschaft (12) für bestimmte Mindestwürfe:
 
-MW Name (Chance)
+MW - Name (Chance)
 
-9 einfach (83%)
-12 fordernd (50%)
-15 schwer (33%)
+9 - einfach (83%)
 
-18 heikel (17%)  
+12 - fordernd (50%)
+
+15 - schwer (33%)
+
+18 - heikel (17%)  
 
 Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9). 
 
 Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder haben recht niedrige Erfolgs- oder Überlebensraten.
-
-
 
 
 
