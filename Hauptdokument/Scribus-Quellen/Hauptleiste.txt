@@ -21,15 +21,20 @@ Die meisten Module findest du auf
 **Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (9 ist schwach, 12 durchschnitt und 15 sehr gut).
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
+
 **Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9) oder höher ist als das Ergebnis des Gegners. Mindestwürfe liegen auf der gleichen Skala wie die Eigenschaften und Fertigkeiten.
 
 #Eigenschaften
 
 Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundkeit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
 
+
+
+
+
 **Jede Eigenschaft hat Werte zwischen 3 und 21, wobei menschliche Werte zwischen 6 und 18 liegen (Eigenschaften über 21 sind der Stoff für Legenden). 
 
-12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet. 
+**12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet. 
 
 <fuss>Module: Eigenschaftsskategorien und Untereigenschaften (EigM), Kategoriesystem (KaSy). 
 
@@ -42,9 +47,8 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 **Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die Einfluss auf den Wert haben und gleichzeitig einen Hinweis darauf geben, wie der Charakter seine Fertigkeit nutzt. 
 
 Beispielsweise wird ein Koch, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt. 
-Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14
 
-
+<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14.
 #Beruf und Hintergrund
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
@@ -58,6 +62,13 @@ Entfernter verwandte Fertigkeiten kann er mit einem drei Punkte niedrigeren Wert
 Wie Fertigkeiten sind auch Berufen Eigenschaften zugeordnet, die einen Einfluss auf ihren Wert haben. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei beliebig gewählte, sondern die drei höchsten Eigenschaften, da Charaktere im Beruf meist ihre Stärken nutzen und ihre Schwächen vermeiden. 
 
 Auch hier können Ausnahmen natürlich mit der SL und der Gruppe abgesprochen werden, wenn es zum Charakter passt, oder die Gruppe aus anderen Gründen zustimmt.  
+
+
+
+
+
+
+
 
 #Merkmale
 
