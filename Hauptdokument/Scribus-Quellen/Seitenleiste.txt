@@ -456,15 +456,9 @@ vobsy <-> Gurps®
 
 Für Nachteile gilt das gleiche Schema, nur im Negativen. 
 
-
-
-
-
-
-
-
-
-
+# Merkmale aus Fudge™
+Aus Fudge™ könnt ihr Merkmale übernehmen, indem ihr einfach jedes Fudge "+" oder "-" als vobsy "+" oder "-" rechnet.
+Modifikatoren auf Proben oder Werte werden dabei verdreifacht. 
 #Vorgriff: Waffenloser Kampf
 Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf seinen Wert. 
 
