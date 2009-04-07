@@ -292,7 +292,6 @@ Persönliche Gegenstände können allerdings tolle Aufhänger für Geschichten s
 
 
 
-
 Sind  die persönlichen Gegenstände Alltagsgegenstände, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen). 
 
 Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächste Seitenleiste). 
@@ -300,6 +299,7 @@ Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächs
 Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig. 
 
 Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe. 
+
 
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird. 
@@ -317,6 +317,21 @@ Flächenschaden zweifach (bis etwa 5 Personen) oder vierfach (über 5 Personen).
 
 Betäubungswaffen zählen gleich, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 30, Seitenleiste). 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Beruf und Einkommen
 Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt (sonst wäre er wohl nicht am Leben), egal ob das nun ein Job ist, oder die Suche nach Schätzen in Gebieten, die normalerweise genug abwerfen. Ob der Job ausgespielt wird ist dabei nebensächlich. 
 
@@ -325,6 +340,15 @@ Er verdient Geld entsprechend dem Wert im Beruf und nach seiner Berufswahl. Beru
 Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird. 
 
 Merkmal: Kein sicheres Einkommen (-)
+
+
+
+
+
+
+
+
+
 
 #Erschaffen in Strichen
 Um die Erschaffung flexibler zu gestalten, können die Charaktere auch mit Strichen erschaffen werden, wobei je drei Striche ein Dreieck formen. 
@@ -339,6 +363,13 @@ Eine ausführlichere Beschreibung der Erschaffung in Strichen gibt es im Anhang 
 
 
 
+
+
+
+
+
+
+
 #Welche Eigenschaften für welchen Charakter? 
 Die Eigenschaften des Charakters formen die Wahrnehmung, die andere von ihm erhalten, und entsprechend sollte schon der Klang der Eigenschaften das Bild des Charakters im Geist entstehen lassen. 
 
@@ -346,7 +377,19 @@ Wenn du nun Eigenschaften wählst, frag dich erst "Wodurch hebt sich mein Charak
 
 Diejenigen Unterschiede, die vor allem aus natürlicher Begabung oder Unfähigkeit in einem bestimmten Bereich stammen, den jeder Mensch irgendwie hat, sind die Eigenschaften des Charakters. |Jeder Mensch hat einen gewissen Sexappeal, aber nur wenn er deutlich über oder unter dem Durchschnitt liegt, werden sich die Leute daran erinnern und ihn eine Eigenschaft der Person nennen. 
 
-Beispielsweise ist Lazaro sehr charismatisch und auf seinen Stil bedacht. Daher trägt er auch regeltechnisch die Eigenschaften Charisma und persönlichen Stil. 
+*Beispielsweise ist Lazaro sehr gewandt und charismatisch und auf seinen Stil bedacht. Daher trägt er auch regeltechnisch die Eigenschaften Gewandtheit, Charisma und persönlichen Stil. 
+
+*Wenn nun Lazaros Spieler gefragt wird, was anderen bei seinem Charakter auffällt, kann er sich sehr leicht an seinen Eigenschaften orientieren und Lazaros grazile Bewegungen ("als würde er immer tanzen"), seine entspannende Ausstrahlung ("der sich kaum einer seiner Gesprächspartner entziehen kann. Wer Lazaros Gegenwart verlässt, trägt fast immer ein Lächeln auf den Lippen") und seinen einzigartigen Kleidungs- und Sprachstil beschreiben. 
+
+
+
+
+
+
+
+
+
+
 
 
 #Welche Merkmale und Fertigkeiten?
@@ -359,12 +402,17 @@ Fertigkeiten dagegen sind erarbeitetes Können, das nur denen zur Verfügung ste
 Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat. 
 
 Auf ähnliche Art kann nicht Jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten gewählt. 
-Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
+
+
+
+
+#Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
 Als Faustregel zur Unterscheidung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn fast durchschnittlich zu können (Effektivwert 11). 
 
 Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14). 
 
 Spezialisierungen sind Unterbereiche einer Fertigkeit und betreffen nur ein sehr enges Gebiet. 
+
 
 #Beruf oder Hintergrund? 
 Berufe sind hier Tätigkeiten, die der Charakter aktuell ausübt, während Hintergründe frühere Tätigkeiten und die Herkunft des Charakters beschreiben.
@@ -373,6 +421,8 @@ Der Hintergrund ist, was ihn geformt hat, der Beruf, was er jetzt tut.
 
 Regeltechnisch werden beide gleich behandelt. 
 Detaillierter auf der nächsten Seite. 
+
+
 
 #Breite Berufe
 Manche Berufe geben ein riesiges Spektrum an Fertigkeiten. 
@@ -389,6 +439,8 @@ Noch zwei Schwellen mehr kostet "Alles".
 **+: Entwicklungshelferin: 
 **	6 (8)
 
+
+
 # Merkmale aus Gurps® übernehmen
 Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale. 
 
@@ -403,6 +455,15 @@ vobsy <-> Gurps®
 
 Für Nachteile gilt das gleiche Schema, nur im Negativen. 
 
+
+
+
+
+
+
+
+
+
 #Vorgriff: Waffenloser Kampf
 Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf seinen Wert. 
 
@@ -412,6 +473,12 @@ Diese Regel kann (und sollte) allerdings von der SL je nach Situation angepasst 
 
 In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für ihn sinnvoller wird, das Schwert fallen zu lassen. 
 
+
+
+
+
+
+
 #Erschöpfung
 Um die Ausdauer der Charaktere und ihr Durchhaltevermögen besser einschätzen zu können, und vor allem auch für Magie, Psi und ähnliches, kann Erschöpfung mit einbezogen werden. 
 Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer anderen Eigenschaft aufbauen (die verdoppelt wird, um die Ausdauer des Charakters zu erhalten). 
@@ -419,6 +486,15 @@ Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer and
 Die Spielerin kann sich aussuchen, welche passende Eigenschaft sie für Erschöpfung nehmen will und welche für TP. 
 
 Abzüge durch niedrige Erschöpfung werden behandelt wie bei den TP, mit der Ausnahme, dass der Charakter schon bei erreichen seiner halben Erschöpfung einen Punkt Malus erhält.   
+
+
+
+
+
+
+
+
+
 
 #Regeneration von Erschöpfung
 Normale Charaktere regenerieren pro Stunde Erschöpfungspunkte in Höhe ihrer Erschöpfungsschwelle (1/3 der gewählten Eigenschaft), also durchschnittlich 4 Punkte, das heißt einen Punkt alle 15 Minuten. 
@@ -429,6 +505,17 @@ Eine Nacht Schlaf heilt im allgemeinen die Erschöpfung vollständig.
 Wenn ein Charakter   Erschöpfung in Höhe der Erschöpfungsschwelle auf einen Schlag erhält, z.B. im waffenlosen Kampf, bekommt er zusätzlich einen Punkt Schaden (auf TP).  
 
 Dieser Schaden entspricht Rippenbrüchen, Zerrungen und sonstigen Folgen von Überlastung. 
+
+
+
+
+
+
+
+
+
+
+
 
 #Wunden heilen
 Wunden gelten als geheilt, sobald der Schaden der Wunde geheilt ist. Dann behindern sie zumindest nicht mehr. 
@@ -443,6 +530,9 @@ Konkret bedeutet das:
 - Alte Wunden heilen vor neueren. 
   
 - Eine kritische heilt allerdings vor einer alten "normalen" Wunde, bis sie selbst zu einer "Normalen" geworden ist, für den Körper also nicht mehr gefährlicher scheint als andere Wunden. 
+
+
+
 
 #Einfluss der Heilungsumstände
 Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Modifikatoren werden auf die normale Heilung von Wundschwelle (WS) -2 TP pro Woche angerechnet. 
@@ -462,6 +552,17 @@ Umstand:
 - Ultra-Tech: +12 TP
 
 
+
+
+
+
+
+
+
+
+
+
+
 #Heilung in "Realität" (Vergleich)
 - Kiefer gebrochen: 4 Wochen Krankenhaus. 
 - Armbruch: Etwa 6 Wochen. 
@@ -475,6 +576,16 @@ Hier werden mentale Trefferpunkte aus Willenskraft x2 berechnet.
 Wunden sind Psychosen, Schrecken, Panik, uvm., und sie schwächen wie körperliche Wunden (-3 auf Proben pro Wunde). 
 
 Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-) (z.B. Phobie) und verschwindet dafür. 
+
+
+
+
+
+
+
+
+
+
 
 #Beispielwaffen: 
 Nahkampf: 
@@ -508,6 +619,13 @@ leichte Panz.²: 20
 ¹: 8 gegen Kugeln, sonst 2
 ²: Space Marines
 
+
+
+
+
+
+
+
 #Deckung
 Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. 
 Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) Punkten vergeben. 
@@ -517,6 +635,13 @@ Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vo
 
 #Gewinnen ohne zu verletzen
 Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nur kampfunfähig zu machen, erhält dann aber 3 Punkte Malus. 
+
+
+
+
+
+
+
 
 #Adressen mit SL-Tipps
 Es gibt im Netz eine Reihe Materialien für Spielleiterinnen. 
@@ -531,6 +656,19 @@ Falls du Seiten findest, die in der dortigen Linkliste noch fehlen, füg sie doc
 
 Und falls du selbst noch Tipps weitergeben willst, kannst du ihnen dort ein neues Zuhause geben. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Module selbst entwickeln
 Eine der Hauptstärken des EWS ist, dass es sauber durch Module anpassbar ist. 
 
@@ -543,6 +681,13 @@ Die Anforderungen an ein Modul sind eine Einleitung, die auch den wahrscheinlich
 
 Ein Modul für das EWS muss unter der selben freien Lizenz stehen (siehe Epilog alias Rückseite), wenn du es veröffentlichen willst. 
 
+
+
+
+
+
+
+
 #Warum noch ein Rollenspielsystem? 
 Es gibt schon viele Rollenspiele auf dem Markt und im Netz, doch ein paar Punkte heben das EWS von ihnen ab. Sie sind für mich ein Grund, es immer weiter zu entwickeln. 
 
@@ -553,6 +698,9 @@ Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen
 - Es vermeidet Überladung der Charakterhefte durch  die Nutzung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben. 
 
 - Und es braucht nur einen 6-seitigen Würfel.
+
+
+
 
 #Neue Eigenschaften und Fertigkeiten
 Wenn eine Spielerin einem Charakter eine neue Fertigkeit oder Eigenschaft geben will, kann sie sie mit Strichen kaufen. 
@@ -567,12 +715,21 @@ Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 3 (blutiger Anfänger),
 
 Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten. 
 
+
+
+
+
 #Eigenschaften steigern, um Fertigkeiten zu verbessern
 Da im vobsy die Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spieler ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen. 
 
 Zur Berechnung der Kosten einer Fertigkeits-Steigerung wird immer der Grundwert ohne Eigenschaftsboni genommen, so dass es bei hohen Fertigkeitswerten und niedrigen Eigenschaften oft ratsam ist, erst die Eigenschaften zu steigern, vor allem weil eine Eigenschaft ohne Schwierigkeiten als Basis für viele unterschiedliche Fertigkeiten dienen kann. 
 
 Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie im Leben, soll im EWS ein Gleichgewicht zwischen der Steigerung der Fertigkeiten und der Eigenschaften sinnvoll sein. 
+
+
+
+
+
 
 #Ein Beispiel für die Strichvergabe 
 *In der Kampagne von Lazaro hat die SL eine Heldenrunde geplant, die über ein Jahr laufen soll (realistisch gerechnet etwa 12 Spielabende). 
@@ -582,6 +739,8 @@ Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie 
 *Also erhält jeder Charakter pro Abend etwa 2 Striche, bei besonders schönen Spielabenden auch mal 3. 
 
 *Als Alternative könnte sie die Kampagne auch in sieben Abschnitte aufteilen und dafür je 3-5 Striche vergeben. Dadurch würde sie bei der Strichvergabe mehr Freiheit haben, und die Spieler würden die Veränderungen ihrer Charaktere deutlicher spüren. Im Gegenzug müsste sie allerdings etwas sprunghaftere Charakterentwicklungen in Kauf nehmen.
+
+
 
 #Steigern von Spezialisierungen
 Spezialisierungen werden wie normale Fertigkeiten gesteigert, doch ein Plus gibt nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3. 
@@ -596,6 +755,10 @@ Wenn die Grundfertigkeit einer Spezialisierung gesteigert wird, dann steigt auch
 
 **Kunst des Flirtens (Damen von Adel): 13+2 = 15 (16) 
 
+
+
+
+
 #Punkte für gutes Rollenspiel?
 Es hat sich in vielen Systemen eingebürgert, Punkte für gutes Rollenspiel zu vergeben. 
 
@@ -606,6 +769,15 @@ In jedem Fall aber ist es sinnvoll, nach der Runde über die schönsten Szenen z
 Wenn ihr das durch die Punktevergabe schafft, ist sie wahrscheinlich sinnvoll. 
 
 Nebenbei: Tagebücher oder andere Aufzeichnungen über die Abenteuer zu führen verstärkt die Stimmung ungemein, weil die Spielerinnen ihre Charaktere dadurch oft viel tiefer erleben und ihre Erinnerung klarer ist. 
+
+
+
+
+
+
+
+
+
 
 #Wirkung des ±W6
 Ich habe hier etwas Platz zum Erzählen, also möchte ich kurz von einem der Effekte des ±W6 sprechen. 
@@ -620,6 +792,9 @@ Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert d
 Die Langform gibt es auf der Webseite des EWS:
 - http://werte.1w6.org
 
+
+
+
 #Treffer einstecken
 Ein Kämpfer kann sich entscheiden, seine Verteidigung fallen zu lassen und einen Treffer einzustecken. 
 
@@ -628,6 +803,16 @@ In diesem Fall würfeln erst beide Kämpfer einen normalen Kampfwurf, wobei der 
 Gewinnt er den Wurf, würfeln danach beide Kämpfer einfach gegen 12  (den Grundmindestwurf im Kampf). Wem der Wurf gelingt, dessen Schlag trifft (oft beide), die Differenz zu 12 wird auf den Schaden addiert. 
 
 Da es einen starken Willen benötigt, einfach Treffer einzustecken, kann die SL vorher eine Probe auf Wille o.ä. verlangen. 
+
+
+
+
+
+
+
+
+
+
 
 #Beispielwaffen: 
 (2W6 sind 2*1W6, also der gewürfelte Wert verdoppelt)
@@ -652,6 +837,15 @@ Fernkampf:
 ¹: Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Schuss in der Energiezelle. 
 
 ²: Militärische Versionen verursachen 1,5-fachen Schaden. Hotshot-bar für Verdopplung des Schadens aber 5-facher Verbrauch. 20 Schuss.
+
+
+
+
+
+
+
+
+
 
 #Rüstungsbeispiele: 
 
@@ -679,6 +873,17 @@ leichte Panzerung²:
 ¹: Gegen Kugeln 8, sonst 2. 
 
 ²: Von Space Marines, Raumpatrouille und ähnlichen Science-Fiction Truppen. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 #Beispiele für Verletzungen: 
@@ -712,8 +917,8 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 - Ein Auge zerquetscht oder ausgestochen, beide Augen mit der Fackel erwischt (kurzzeitig erblin-det, vll. Langzeitschäden). 
 
 - Messer im Bauch und umgedreht, Gedärme glitschen auf den Boden, Schnitt über die komplette Bauchdecke, Krallen tief in den Bauch gerammt, Magen durchstochen, jegliche anderen wichtigen Organe angestochen oder zerschnitten oder zerfetzt. 
-- Genitalien zerquetscht oder sehr gefährlich gequetscht, recht wahrscheinlich bleibende Unfruchtbarkeit und innere Blutungen. Schnitt in die Genitalien, Pferdehuf sehr genau abbekommen... 
 
+- Genitalien zerquetscht oder sehr gefährlich gequetscht, recht wahrscheinlich bleibende Unfruchtbarkeit und innere Blutungen. Schnitt in die Genitalien, Pferdehuf sehr genau abbekommen... 
 - Arm oder Bein abgetrennt oder zertrümmert. Unbrauchbar.
 
 - Brustkorb eingedrückt, Rippen gesplittert, Brustkorb gespalten (Axt, o.ä.), Schlüsselbein zertrümmert, Stich in die Lunge oder zwischen die Rippen (je nach gewünschter Tödlichkeit). 
@@ -721,6 +926,21 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 - Lanze durch den Rücken und durch die Rippen gebrochen, Lunge erwischt (kann zu einem sehr langsamen Tod führen, wenn der Kampf grausam sein soll). 
 
 - Streitkolben hat Rippen zertrümmert, Messer zwischen die Rippen gerammt und beim Drehen Rippen gebrochen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #Gezielte Angriffe
 Ein Charkter kann jederzeit entscheiden, auf eine bestimmte Körperregion zu zielen. 
@@ -750,6 +970,9 @@ Kehle/Auge:
 - Nah: Schaden: +36
 
 ¹: Schaden über einer kritischen Wunde verfällt. Die Gliedmaße ist ab. 
+
+
+
 
 #Warum freie Werke? 
 Freie Werke schaffen eine Umgebung, in der Jede jeden Teil ihrer Umgebung nach ihren Wünschen gestalten kann und darf, solange sie die Freiheit von niemand Anderem einschränkt. 
