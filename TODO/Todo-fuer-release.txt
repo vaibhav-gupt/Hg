@@ -1,5 +1,5 @@
 2.4.0: 
-bisher Korrekturen von Andi: 
+- bisher Korrekturen von Andi: 
 
 1.) kurz erklären was in den Seitenbereichen steht und wofür die verschiedenen Schriftarten stehen. --- fertig
 2.) eventuell kursive schrift für Beispiele --- wird mit *Beispiel* ausgedrückt. Regeln ab jetzt mit **Regel** (also fett; wenn da zu viel Fettdruck ist, dann ist die Regeldichte zu hoch :) )
@@ -14,6 +14,8 @@ bisher Korrekturen von Andi:
 7.3) S.16 3.Absatz "Die Steigerung... kostet genau so viele Dreiecke, wie der erreichte Wert beträgt" ssehr verwirrend, denn Stufe 15 kostet nicht 15 Dreiecke. Wie viele es kostet wird nicht ganz klar, ich bin mir nicht sicher ob du 15 kostet 1 Dreieck meinst (ist ja in der Kategorie +) - dann wäre aber 16 gleichteuer ?! oder ob 15 zwei kostet, da ja jede Stufe im bereich (+) ein Dreieck kostet ?!Auf Seite 13 wird zwar gesagt ein Dreieck, aber warum darf ich dann nicht gleich 16 nehmen, hat ja auch nur (+) dahinter stehen ?! --- noch ein Grund warum die "+"e und "-"e aus der Tabelle "Namen und Werte" wegmüssen :) 
 7.4) Allgemein solltest DU vielleicht öfter den Begriff Schwelle (den du im Fertigkeitenabsatz benutzt) verwenden. --- versuche ich... 
 7.5) Seite 17 3.Absatz "...gibt ein zusätzliches + in diesem Bereich."Sollte meinem Verständnis nach entweder "...zusätzliches Dreieck in diesem Bereich." oder "...zusätzliche Eigenschaft auf (+) Niveau in diesem Bereich." lauten. --- habe das Dreieck übernommen. Ich glaube das zeigt die Kostenregel deutlicher. 
+
+- GPL Faltblatt überarbeiten: Anfangszeile, GPL Logo, Textstil unten. 
 
 
 2.0.9: 
