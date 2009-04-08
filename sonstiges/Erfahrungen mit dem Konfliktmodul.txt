@@ -28,7 +28,7 @@ Wir werden sehen, wie es weiter geht. Ich halte euch (Leser) auf dem Laufenden!
 Nebenbei: Das Konfliktsystem, das wir genutzt haben, war das [Konfliktmodul](/deutsch/module/konfliktmodul-konf) mit den folgenden Anpassungen: 
 
 * Konflikte können auf verschiedenen Ebenen laufen (emotional, physisch, storytechnisch, ...)
-* Wer auf einer Ebene verliert, zahlt dort den Preis. Wer kann entweder den Konflikt beenden/aufgeben, oder auf eine andere Ebene eskalieren und den Konflikt dort wiederaufnehmen (und auch dort den Preis riskieren). 
+* Wer auf einer Ebene verliert, zahlt dort den Preis. Er kann entweder den Konflikt beenden/aufgeben, oder auf eine andere Ebene eskalieren und den Konflikt dort wiederaufnehmen (und auch dort den Preis riskieren). 
 * Jeder kann nur eine begrenzte Anzahl von Malen eskalieren. 
     - Statisten gar nicht. Wenn sie einen Konflikt verlieren, werden sie aus der Geschichte entfernt. 
     - Nebencharaktere einmal. Sie sollten nur eskalieren, wenn sie sich opfern, sonst riskieren sie, die Geschichte zu verlassen. Sie entsprechen damit Statisten, tauchen aber immer wieder auf. 
