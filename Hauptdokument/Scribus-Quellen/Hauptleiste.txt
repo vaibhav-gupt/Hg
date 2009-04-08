@@ -739,6 +739,39 @@ Im Anhang sind zwei Module abgedruckt, die für die meisten Spielrunden interess
 Verschiedene Spielwelten findest du auf der Webseite des Ein Würfel Systems: 
 - http://welten.1w6.org
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Modul: Steigerung im vobsy (vost)
 
 Während in One-Shots und sehr kurzen Runden die Weiterentwicklung von Charakteren meist weniger wichtig ist und einfach per Absprache gemacht werden kann, nimmt sie in langen Runden oft einen wichtigen Platz ein. 
@@ -756,7 +789,11 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 
 <fuss>Ein Beispiel gibt es auf S. 36 bis 38. 
 
+
+
+
 Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusammengefügt, so dass drei Striche ein Dreieck ergeben: 
+
  ´ : Ein Strich
  ^ : Zwei Striche
  Δ : Drei Striche: Dreieck
@@ -774,7 +811,10 @@ Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die 
 
 Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten. 
 
-Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37. 
+<fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37. 
+
+
+
 
 
 #Beispielsteigerung
@@ -789,8 +829,11 @@ Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37.
 
 *Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Charisma ist eine Eigenschaft, also braucht er für die Steigerung um einen Punkt zwei Striche, nämlich einen für jedes Plus der nächsten Schwelle. 
 
-
 *Weil er das ganze Abenteuer über immer wieder Charisma genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Ecken nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt. 
+
+
+
+
 
 
 
@@ -800,12 +843,14 @@ Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37.
 
 
 
+
 *Drei Wochen später, nach einem weiteren bestandenen Abenteuer (und einer unangenehmen Bekanntschaft mit den Schlägern des Verlobten der Grafentochter), sitzt die gesamte Gruppe  wieder beisammen. 
 
 *Lazaro gibt in der Schenke Lauterbach ihre  Geschichte zum Besten, während sein Spieler sich über den spannenden Spielabend freut und darüber scherzt, dass sein Charakter sich wohl auf den Adelsfesten des Landes nur noch maskiert zeigen kann, und dass der nächste Maskenball den Anfang seiner Legende formen wird. 
 
-
 *Da hier ein Hauptabschnitt der Geschichte endet, gibt die Spielleiterin jedem von ihnen 4 Striche, die Sven vollständig auf die Kunst des Flirtens legt, so dass sein effektiver Wert von 13+2 auf 15+2 = 17 steigt. 
+
+
 
 
 
@@ -817,8 +862,8 @@ Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37.
 
 *Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 
-Ein ausführlicheres Beispiel gibt es im Netz: 
--> http://1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel/
+<fuss>Ein ausführlicheres Beispiel gibt es im Netz: 
+<fuss>-> http://1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel/
 
 #Fokusmodul: Kampf (FoKa)
 
