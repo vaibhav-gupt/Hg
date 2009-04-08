@@ -14,7 +14,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docbase="/home/johns/graphics/logos/gplv3"
-   sodipodi:docname="gpl-v3-logo (copy).svg"
+   sodipodi:docname="gpl-v3-logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs1343">
@@ -231,7 +231,10 @@
     </g>
     <g
        id="g2486"
-       transform="translate(-10.576504,12.339255)">
+       transform="translate(-10.576504,12.339255)"
+       inkscape:export-filename="/home/arne/Projekte/EWS/Quelldateien/Free_Software_Foundation/gpl-v3-300x149.png"
+       inkscape:export-xdpi="37.531487"
+       inkscape:export-ydpi="37.531487">
       <path
          d="M 373.55234,223.69791 C 373.55234,223.69791 373.53528,223.69791 373.53528,223.69791 C 371.93238,223.69791 370.51704,224.22653 369.18697,225.30082 C 368.19794,226.08522 367.51585,227.14246 366.97018,228.31906 C 366.97018,228.31906 367.03839,228.31906 367.03839,228.31906 C 367.58406,227.14246 368.26615,226.08522 369.23813,225.30082 C 370.5682,224.22653 371.98353,223.71496 373.55234,223.69791 z"
          id="path2577"
