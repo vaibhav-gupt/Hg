@@ -15,23 +15,24 @@
 7.4) Allgemein solltest DU vielleicht öfter den Begriff Schwelle (den du im Fertigkeitenabsatz benutzt) verwenden. --- versuche ich... 
 7.5) Seite 17 3.Absatz "...gibt ein zusätzliches + in diesem Bereich."Sollte meinem Verständnis nach entweder "...zusätzliches Dreieck in diesem Bereich." oder "...zusätzliche Eigenschaft auf (+) Niveau in diesem Bereich." lauten. --- habe das Dreieck übernommen. Ich glaube das zeigt die Kostenregel deutlicher. 
 
-- GPL Faltblatt überarbeiten: Anfangszeile, GPL Logo, Textstil unten. 
-
 
 2.0.9: 
 - Versionsnummer auf 2.2 erhöhen. 
 
 Erledigt: 
-	2.0.9: 
-	- Korrekturen von Achim Zien eingepflegt. 
-	- Korrekturen von Jens Stengel eingepflegt. 
-	- Korrekturen von Arne Babenhauserheide und Roland eingepflegt.
-    - Korrekturlesen. 
-    - Seitenleiste (farblich) hervorheben. 
-    - Regelteile mit anderem Aussehen.
-    - Statt Bilder zur Steigerung direkt die Scribus Elemente aus dem Charheft kopieren.
-    - Infos zu Modulen mit dem Stil "Kleine Fußzeile". 
-    - Manuelle Silbentrennung, Seitenleiste. 
-    - Manuelle Silbentrennung, Haupttext. 
-    - Release auf der Webseite (v2.1.9). -> http://1w6.org/deutsch/regeln/quellen/ews-v219-letzte-beta
+
+- GPL Faltblatt überarbeiten: Anfangszeile, GPL Logo, Textstil unten. 
+
+2.0.9: 
+- Korrekturen von Achim Zien eingepflegt. 
+- Korrekturen von Jens Stengel eingepflegt. 
+- Korrekturen von Arne Babenhauserheide und Roland eingepflegt.
+- Korrekturlesen. 
+- Seitenleiste (farblich) hervorheben. 
+- Regelteile mit anderem Aussehen.
+- Statt Bilder zur Steigerung direkt die Scribus Elemente aus dem Charheft kopieren.
+- Infos zu Modulen mit dem Stil "Kleine Fußzeile". 
+- Manuelle Silbentrennung, Seitenleiste. 
+- Manuelle Silbentrennung, Haupttext. 
+- Release auf der Webseite (v2.1.9). -> http://1w6.org/deutsch/regeln/quellen/ews-v219-letzte-beta
 
