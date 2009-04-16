@@ -705,9 +705,9 @@ Bei Eigenschaften wird einfach von 12 aufwärts gesteigert (d.h. mit einem Stric
  
 12 kostet hier nichts, da sas det Wert einer durchschnittlichen tigenschaft . 
 
-Bei Fertigkeiten gibt der erste Strich einen Wert von 6 (schonmal gemacht), der zweite einen Wert von 9 (schwach), und der dritte erhöht den Wert auf 12 (durchschnittlich). 
+Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (unterdurchschnittlich), und der dritte erhöht den Wert auf 12 (durchschnittlich). 
 
-Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 3 (blutiger Anfänger), zwei geben 6 (fast alles davon schonmal gemacht), drei geben 9 (schwach). 
+Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 6 (fast alles davon schonmal gemacht), zwei geben 8 (naja), drei geben 9 (schwach). 
 
 Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten. 
 
