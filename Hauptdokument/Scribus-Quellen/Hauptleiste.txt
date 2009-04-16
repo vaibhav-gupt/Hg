@@ -121,7 +121,7 @@ Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit der Schwier
 
 Hat die Spielerin keine passende Fertigkeit, kann sie auf einen Beruf oder den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen. 
 
-*Beispiel: Jana, Schülerin in der 9. Klasse, zieht als der "Grok, Barbar!" durchs Land. 
+*Beispiel: Jana, Schülerin in der 9. Klasse, zieht als "Grok, Barbar!" durchs Land. 
 *Grok ist durchschnittlich im "Gekrakel entziffern" (12), und als er vor einem Straßenschild steht, verlangt die SL eine einfache Probe (9), um das mittelreichische Gekrakel zu verstehen. Jana würfelt eine 1. Damit erreicht sie 12 - 1 = 11. Das Ergebnis ist also höher (oder gleich) 9, und  Grok findet seinen Weg zum Wirtshaus. 
 
 <fuss>Modul: Kritische Erfolge und Patzer (krit)
