@@ -55,11 +55,11 @@ Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter eine
 
 Entfernter verwandte Fertigkeiten kann er mit einem drei Punkte niedrigeren Wert nutzen. 
 
-**Ein Beruf oder Hintergrund kostet mehr als eine Fertigkeit. Im vobsy entsprechen die Kosten eines Berufes z.B. denen einer drei Punkte höheren Fertigkeit. 
+**Ein Beruf oder Hintergrund kostet mehr als eine Fertigkeit. Im vobsy entsprechen die Kosten eines Berufes denen einer drei Punkte höheren Fertigkeit. 
 
-**Es gibt Berufe und Hintergründe, die eine sehr große Zahl an Fertigkeiten zur Verfügung stellen. Solche Berufe kosten soviel wie drei Punkte höhere normale Berufe. 
+**Es gibt Berufe und Hintergründe, die eine sehr große Zahl an Fertigkeiten zur Verfügung stellen. Solche Berufe kosten soviel wie normale Berufe auf einem drei Punkte höheren Wert. 
 
-Wie Fertigkeiten sind auch Berufen Eigenschaften zugeordnet, die einen Einfluss auf ihren Wert haben. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei beliebig gewählte, sondern die drei höchsten Eigenschaften, da Charaktere im Beruf meist ihre Stärken nutzen und ihre Schwächen vermeiden. 
+Wie Fertigkeiten sind auch Berufen Eigenschaften zugeordnet, die dem Charakter einen Bonus geben können. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei beliebig gewählte, sondern es ist eine einzelne zur aktuellen Situation passende Eigenschaft. 
 
 Auch hier können Ausnahmen natürlich mit der SL und der Gruppe abgesprochen werden, wenn es zum Charakter passt, oder die Gruppe aus anderen Gründen zustimmt.  
 
@@ -272,7 +272,7 @@ Die Einzelheiten findest Du auf der nächsten Seite.
 
 *Für die Kunst des Flirtens wählt er persönlichen Stil und Charisma, erhält also erneut 2 Punkte Bonus und beherrscht so auch die Kunst des Flirtens gut (14). 
 
-*Für seinen Beruf nimmt er einfach die drei höchsten Eigenschaften. Da sie bei ihm alle sehr gut sind, erhält er 3 Punkte Bonus, so dass er den Beruf des Diplomaten  durchschnittlich beherrscht (12). Im Beruf stützt er sich damit vor allem auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil und sein Charisma. 
+*Für seinen Beruf nimmt er je nach Situation eine andere passende Eigenschaft, so dass er jeweils einen anderen effektiven Wert haben kann. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
 
 **Die den Fertigkeiten und Berufen zugeordneten Eigenschaften geben je nach ihrer Höhe Boni. Eigenschaften mit Werten um 15 (+: 14,15,16) geben einen Punkt Bonus. Eigenschaften mit Werten um 18 (++: 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
 
@@ -301,7 +301,7 @@ Und damit ist Svens Charakter beinahe spielfertig.
 **- Nahkampf (Fechtkunst): 12+2 = 14
 **- Kunst des Flirtens: 12+2 = 14
 
-**Beruf: Diplomat: 9+3 = 12
+**Beruf: Diplomat: 9
 
 **Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann. 
 
