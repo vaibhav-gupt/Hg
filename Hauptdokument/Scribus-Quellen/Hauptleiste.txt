@@ -18,7 +18,7 @@ Die meisten Module findest du auf
 #Grundlagen
 
 **Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die von den Spielerinnen frei gewählt werden können. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
-**Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (9 ist schwach, 12 durchschnitt und 15 erfahren).
+**Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (6 ist mickrig, 9 schwach, 12 durchschnitt, 15 erfahren und 18 überragend).
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
 
@@ -29,7 +29,6 @@ Die meisten Module findest du auf
 #Eigenschaften
 
 Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
-
 
 **Jede Eigenschaft hat Werte zwischen 3 und 21, wobei menschliche Werte zwischen 6 und 18 liegen (Eigenschaften über 21 sind der Stoff für Legenden). 
 
