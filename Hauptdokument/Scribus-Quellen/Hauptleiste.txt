@@ -40,7 +40,7 @@ Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperl
 
 Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die  ihren Charakter am schönsten beschreiben. 
 
-**Die Werte von Fertigkeiten liegen wie Eigenschaftswerte zwischen mickrig und legendär. Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird (dafür müsste er mickrig oder überragend sein). 
+**Die Werte von Fertigkeiten liegen wie Eigenschaftswerte zwischen mickrig und überragend. Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird (dafür müsste er mickrig oder überragend sein). 
 
 **Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die Einfluss auf den Wert haben und gleichzeitig einen Hinweis darauf geben, wie der Charakter seine Fertigkeit nutzt. 
 
