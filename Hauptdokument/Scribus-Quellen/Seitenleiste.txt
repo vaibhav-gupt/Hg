@@ -64,6 +64,10 @@ Für ein Spiel braucht deine Runde genau einen Würfel, ein Charakterblatt und e
 #Namen und Werte
 Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet. 
 
+6 Armselig
+7 Lausig
+------
+8 Dürftig
 9 Schwach
 10 Mäßig
 ------
@@ -71,24 +75,20 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 12 Durchschnittlich
 13 Über Durchschnitt
 ------
-14 Routiniert/Gut
-15 Sehr Gut/Erfahren
+14 Routiniert
+15 Erfahren
 16 Extrem Gut
 ------
 17 Ausgezeichnet
 18 Überragend
 
-<fuss>Namen für extremere Werte findest du auf 1w6.org
+<fuss>Beschreibungen findest du auf
 <fuss>- http://werte.1w6.org
-
 
 #Die Namen stimmen
 Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen. 
 
 Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich. 
-
-
-
 
 
 #Schwierigkeit von Proben
@@ -690,7 +690,7 @@ Bei Eigenschaften wird einfach von 12 aufwärts gesteigert (d.h. mit einem Stric
 
 Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (unterdurchschnittlich), und der dritte erhöht den Wert auf 12 (durchschnittlich). 
 
-Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 6 (fast alles davon schonmal gemacht), zwei geben 8 (naja), drei geben 9 (schwach). 
+Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 6 (fast alles davon schonmal probiert), zwei geben 8 (dürftig), drei geben 9 (schwach). 
 
 Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten. 
 
