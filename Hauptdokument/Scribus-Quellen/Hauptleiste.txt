@@ -24,12 +24,11 @@ Die meisten Module findest du auf
 
 **Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9) oder höher ist als das Ergebnis des Gegners. Mindestwürfe liegen auf der gleichen Skala wie die Eigenschaften und Fertigkeiten.
 
+**Die erzielte Differenz gibt an, wie gut die Handlung bestanden wurde.
+
 #Eigenschaften
 
 Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
-
-
-
 
 
 **Jede Eigenschaft hat Werte zwischen 3 und 21, wobei menschliche Werte zwischen 6 und 18 liegen (Eigenschaften über 21 sind der Stoff für Legenden). 
