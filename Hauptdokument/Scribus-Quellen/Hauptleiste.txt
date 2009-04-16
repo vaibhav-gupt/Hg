@@ -42,7 +42,7 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 
 **Die Werte von Fertigkeiten liegen wie Eigenschaftswerte zwischen mickrig und überragend. Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird (dafür müsste er mickrig oder überragend sein). 
 
-**Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die Einfluss auf den Wert haben und gleichzeitig einen Hinweis darauf geben, wie der Charakter seine Fertigkeit nutzt. 
+**Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt. 
 
 Beispielsweise wird ein Koch, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt. 
 
