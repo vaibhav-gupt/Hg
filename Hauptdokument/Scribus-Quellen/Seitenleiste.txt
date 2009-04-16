@@ -85,7 +85,7 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 #Die Namen stimmen
 Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen. 
 
-Gleichstarke Gegner sind daher übrigens wirklich gleich stark, und damit gefährlich. 
+Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich. 
 
 
 
@@ -399,7 +399,7 @@ Nachdem du aus der Beschreibung deines Charakters Eigenschaften gefunden hast, k
 
 Dabei sind Merkmale Beschreibungen, die normale Menschen nicht haben. 
 
-Fertigkeiten dagegen sind erarbeitetes Können, das nur denen zur Verfügung steht, die es gelernt haben (ob nun durch bewusstes Training oder regelmäßige Nutzung). 
+Fertigkeiten dagegen sind erarbeitetes Können, das all denen zur Verfügung steht, die es gelernt haben (ob nun durch bewusstes Training oder regelmäßige Nutzung). 
 
 Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat. 
 
@@ -467,7 +467,7 @@ Das Gleiche gilt für den Kampf mit sehr kurzer gegen sehr lange Waffe, z.B. Dol
 
 Diese Regel kann (und sollte) allerdings von der SL je nach Situation angepasst werden. 
 
-In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für ihn sinnvoller wird, das Schwert fallen zu lassen. 
+In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für den Gegner sinnvoller wird, das Schwert fallen zu lassen. 
 
 
 
@@ -547,35 +547,25 @@ Umstand:
 - ferne Zukunft: +6 TP
 - Ultra-Tech: +12 TP
 
-
-
-
-
-
-
-
-
-
-
-
-
 #Heilung in "Realität" (Vergleich)
 - Kiefer gebrochen: 4 Wochen Krankenhaus. 
 - Armbruch: Etwa 6 Wochen. 
 
-Andere Schadensarten
+Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern. 
+
+
+##Spätfolgen
+In unserer Welt haben Wunden oft bleibende Folgen. Wenn es den Spielern gefällt, können sie daher wichtige Wunden notiert lassen, und sich schöne Effekte überlegen (z.B. Wetterfühligkeit).
+
+##Andere Schadensarten
 Charaktere können nicht nur körperliche terletzungenragen, sondern auch auf verschiedenste andere Arten Schaden nehmen. 
 
 Ein Beispiel ist mentaler Schaden (kurz): 
 Hier werden mentale Trefferpunkte aus Willenskraft x2 berechnet. 
 
-Wunden sind Psychosen, Schrecken, Panik, uvm., und sie schwächen wie körperliche Wunden (-3 auf Proben pro Wunde). 
+Wunden sind zeitweise Psychosen, Schrecken, Panik, uvm., und sie schwächen wie körperliche Wunden (-3 auf Proben pro Wunde). 
 
-Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-) (z.B. Phobie) und verschwindet dafür. 
-
-
-
-
+Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-) (z.B. Phobie) und verschwindet dafür.  
 
 
 
@@ -623,22 +613,15 @@ leichte Panz.²: 20
 
 
 #Deckung
-Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. 
-Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) Punkten vergeben. 
+Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben. 
 
 #Kombinieren von Kampftaktiken
-Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vorsichtig" und "Um Leben und Tod" zusammen beim Verlieren trotzdem den Tod nach sich ziehen. 
+Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vorsichtig" und "Um Leben und Tod" zusammen beim Verlieren trotzdem den Tod nach sich ziehen. Flucht und "Um Leben und Tod" heben sich allerdings gegenseitig auf.
 
 #Gewinnen ohne zu verletzen
 Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nur kampfunfähig zu machen, erhält dann aber 3 Punkte Malus. 
 
-
-
-
-
-
-
-
+Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf Schaden zu verzichten. 
 #Adressen mit SL-Tipps
 Es gibt im Netz eine Reihe Materialien für Spielleiterinnen. 
 
@@ -650,7 +633,7 @@ Die Seite hat sich einfachen und schnell einsetzbaren Tipps verschrieben.
 
 Falls du Seiten findest, die in der dortigen Linkliste noch fehlen, füg sie doch einfach hinzu. 
 
-Und falls du selbst noch Tipps weitergeben willst, kannst du ihnen dort ein neues Zuhause geben. 
+Und falls du selbst Tipps weitergeben willst, kannst du ihnen dort ein neues Zuhause geben. 
 
 
 
@@ -714,7 +697,6 @@ Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaft
 
 
 
-
 #Eigenschaften steigern, um Fertigkeiten zu verbessern
 Da im vobsy die Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spieler ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen. 
 
@@ -738,21 +720,20 @@ Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie 
 
 
 
-#Steigern von Spezialisierungen
-Spezialisierungen werden wie normale Fertigkeiten gesteigert, doch ein Plus gibt nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3. 
+#Spezialisierungen
+Spezialisierungen decken kleine Unterbereiche einer Fertigkeit ab. 
+
+Sie werden wie normale Fertigkeiten gesteigert, doch die ersten drei Striche geben nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3. 
 
 Die ersten drei Striche geben hier jeweils einen Punkt. 
 
-Eine Spezialisierung wird also gesteigert wie eine Eigenschaft, die statt einem Grundwert von 12 von dem effektiven Wert einer Fertigkeit ausgeht. 
+Wenn die Grundfertigkeit einer Spezialisierung gesteigert wird, dann steigt auch die Spezialisierung um den gleichen Wert. 
 
-Wenn die Grundfertigkeit einer Spezialisierung gesteigert wird, dann steigt auch die Spezialisierung. 
+Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der Grundfertigkeit vermerkt. 
 
 *Wollte Lazaro sich zum Beispiel in der "Kunst des Flirtens" auf "Damen von Adel" spezialisieren, würde ihn eine Steigerung dieser Spezialisierung um einen Punkt nur einen Strich kosten: 
 
 **Kunst des Flirtens (Damen von Adel): 13+2 = 15 (16) 
-
-
-
 
 
 #Punkte für gutes Rollenspiel?
@@ -780,7 +761,7 @@ Ich habe hier etwas Platz zum Erzählen, also möchte ich kurz von einem der Eff
 
 Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert des Charakters eine ganz eigene Chancenverteilung für die verschiedenen Mindestwürfe.  
 
-*Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte. 
+*Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte. 
 *Nach der Steigerung auf 15 schaffte er sie fast immer (83%) und witterte zum ersten Mal die Chance (17%) auch extreme Aufgaben zu bewältigen. 
 
 *Sonstige Chancen blieben erhalten, so dass er eine deutliche Verbesserung in zwei Bereichen hatte, trotzdem aber in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren.
@@ -888,7 +869,7 @@ leichte Panzerung²:
 
 Jede dieser Verletzungen bewirkt -3 auf alle Werte, bis die Wunde geheilt ist. 
 
-- Schnitt über das Gesicht, der grässliche Narben ierursachtn die Augen sickern lässt. 
+- Schnitt über das Gesicht, der grässliche Narben verursacht und Blut in die Augen sickern lässt. 
 
 - Schlag auf die Augen, führt kurzzeitig zur teilweisen Erblindung. 
 
@@ -903,7 +884,6 @@ Jede dieser Verletzungen bewirkt -3 auf alle Werte, bis die Wunde geheilt ist.
 - Messer schrammt über die Rippen und zerschneidet die Haut. Rippenbrüche. 
 
 - Messer in die Seite, Schmerzen beim Atmen, Messer reißt die Haut auf, Krallen fetzen Haut herunter.
-
 #Kritische Wunden: 
 
 Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletzungen bedeutet im Kampf einen Malus von 6 Punkten. Sobald der Kampf endet und das Adrenalin nachlässt, steigt der Malus auf -12. 

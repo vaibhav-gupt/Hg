@@ -435,7 +435,7 @@ Merkmale:
 
 - kleine Stärken (je 3 ergeben ein +): Unauffälligkeit, Alkoholtoleranz, Gemütsruhe, ...
 
-- kleine Schwächen (je 3 ergeben ein -, jede eann ine Stärke aus): Schulgleichendkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
+- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schulgleichendkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
 
 - weitere: 
 -> http://1w6.org/stichwort/merkmale
@@ -462,8 +462,7 @@ Hast du schon jemals gehört, "sowas kann doch Jede" oder "es kann doch gar nich
 
 Mancher hat Eltern, die gerne Heimwerkeln, mancher lernt schon in frühen Jahren kochen und Haushaltsführung, manche lernt Wissen über Politik, oder auch über klassische Musik. All das ist der Hintergrund der Person, und es sollte entsprechend gekauft werden. 
 
-Im EWS gibt es dafür den Wert "Hintergrund", der entsprechend benannt und auf einen entsprechenden Wert gesetzt werden sollte. 
-Denn manche hat das nicht und kann dafür vielleicht kämpfen. 
+Im EWS gibt es dafür den Wert "Hintergrund", der entsprechend benannt und auf einen entsprechenden Wert gesetzt werden sollte. Denn manche hat das nicht und kann dafür vielleicht kämpfen. 
 
 Berufe liefern dagegen eine Sammlung von Fertigkeiten, die in einem Beruf genutzt und gelernt werden. Auch hier wird eine Reihe von Fertigkeiten durch einen einzelnen Wert abgedeckt. 
 
@@ -489,7 +488,7 @@ Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Foku
 
 Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um seine Auswirkungen kümmern: Um Schaden, Wunden und Trefferpunkte. 
 
-
+<fuss>Modul: Fokusmodul Kampf (FoKa), Seite 39
 
 
 
@@ -578,7 +577,7 @@ Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall
 
 Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen (ansonsten wird der Charakter sich nicht lange Sorgen um den Schaden machen können). 
 
-**Im einfachen Heilungssystem heilen Charaktere pro Woche Ruhe eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
+**Charaktere heilen pro Woche Ruhe eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
 
 **Jede Wunde reduziert die Heilung um einen Punkt, jede kritische Wunde reduziert sie um zwei Punkte. 
 
@@ -586,7 +585,8 @@ Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche.
 
 Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. 
 
-Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18) also jede Woche Schaden nehmen. 
+Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS 6) also jede Woche Schaden nehmen. 
+
 
 
 
@@ -606,7 +606,7 @@ Er kann es sich also leisten, mit Wunde zu reisen.
 Mit überragender KO (18) regeneriert er ohne Wunde 12 TP pro Reisemonat, bzw. etwa 3 pro Woche, 1 TP alle zwei Tage. 
 Selbst mit kritischer Wunde heilt er noch 4 TP pro Monat auf Reisen. 
 
-In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2TP pro Woche und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
+In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
 
 Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
 
@@ -630,7 +630,8 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Sehr langsame Waffen (Armbrust, Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
 
-In diesen Kämpfen können verschiedene Taktiken genutzt werden, die diesem einfachen Konfrontationssystem größere Flexibilität geben. 
+In diesen Kämpfen können verschiedene Taktiken genutzt werden, die dem Ein Wurf System größere Flexibilität geben. 
+
 
 
 
@@ -695,7 +696,10 @@ Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskier
 
 In jedem Modul findest du eine kleine Einführung, welchen Einfluss das Modul wahrscheinlich auf den Spielfluss und die Stimmung deines Spiels haben wird. 
 
-Du findest Module auf 
+Einen Leitfaden zum Anpassen des EWS findest du auf 
+- http://anpassen.1w6.org
+
+Verschiedene Module stehen auf 
 - http://module.1w6.org
 und im Anhang des Regelwerks. 
 
@@ -717,9 +721,6 @@ Kampf:
 - Initiative Modul (Init)
 
 Um schnell ein Modul zu finden, kannst du einfach das 4 Zeichen lange Kürzel in das Suchfeld auf 1w6.org eingeben. 
-
-
-
 
 
 
@@ -858,7 +859,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 *Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht + (sehr gut: 15) und geht auf ++ zu (überragend: 18). 
 
-**Fertigkeiten kosten in der Steigerung je Punkt einen Strich mehr als Eigenschaften derselben Höhe, denn sie erhalten zusätzlich zu ihrem Grundwert die Boni durch zwei passende Eigenschaften. 
+**Fertigkeiten kosten damit in der Steigerung je Punkt einen Strich mehr als Eigenschaften derselben Höhe, denn sie erhalten zusätzlich zu ihrem Grundwert die Boni durch zwei passende Eigenschaften. 
 
 *Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 
@@ -1000,7 +1001,7 @@ Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etw
 
 **Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert die effektive Entfernung je nach Fernrohr um ein bis zwei Stufen. 
 
-Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für normale Situationen. 
+Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für ruhige Situationen, ein Straßenkämpfer die für den Kampf. 
 
 Zusätzlich werden die Mindestwürfe durch bestimmte Umstände modifiziert. 
 
