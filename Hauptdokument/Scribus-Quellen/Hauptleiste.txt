@@ -4,7 +4,7 @@ Das EWS ist ein schnelles und flexibles Regelsystem für Fantasy und Science Fic
 
 Dieses Heft liefert dafür ein stabiles, freies, flexibles und minimales Fundament, auf dem andere Werke aufbauen können. Seine Regeln sind direkt spielbar und unterstützen sowohl One-Shots als auch lange Kampagnen, richten sich allerdings an erfahrene Rollenspieler. Für Neueinsteiger sind Hefte in Arbeit, die das EWS jeweils auf einen bestimmten Hintergrund zuschneiden. 
 
-Um es schlank zu halten, ist das EWS in weiten Teilen kompatibel zu Gurps® und Fudge(tm), so dass bereits eine breite Palette an hervorragend ausgearbeiten Zusatzregeln, Vor- und Nachteilen, Magiesystemen, Wurfmodifikatoren u.ä. existiert. Quellenmaterial zu Gurps® und Fudge(tm) gibt es auf den offiziellen Seiten (sjgames.com und fudgerpg.com) und auf der Webseite des EWS: 1w6.org
+Um es schlank zu halten, ist das EWS in weiten Teilen kompatibel zu Gurps® und Fudge™, so dass bereits eine breite Palette an hervorragend ausgearbeiten Zusatzregeln, Vor- und Nachteilen, Magiesystemen, Wurfmodifikatoren u.ä. existiert. Quellenmaterial zu Gurps® und Fudge™ gibt es auf den offiziellen Seiten (sjgames.com und fudgerpg.com) und auf der Webseite des EWS: 1w6.org
 (gurps.1w6.org und fudge.1w6.org). 
 
 Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwerk schlank bleibt. Jedes Modul hat einen vollen Namen und eine vier Zeichen lange Abkürzung, so dass du deinen Spielern schnell zeigen kannst, welche Module du nutzt. Unter vielen Texten findest du auszerdem Tipps, welche Module für den jeweiligen Abschnitt interessant sind. 
@@ -12,12 +12,12 @@ Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwer
 Die meisten Module findest du auf 
 - http://module.1w6.org 
 
-<fuss>(Gurps® ist Markenzeichen von SJGames, Fudge(tm) von GreyGhostPress)
+<fuss>(Gurps® ist Markenzeichen von SJGames, Fudge™ von GreyGhostPress)
 
 
 #Grundlagen
 
-**Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die von den Spielerinnen frei gewählt werden können. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge(tm) übernommen werden.
+**Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die von den Spielerinnen frei gewählt werden können. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
 **Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (9 ist schwach, 12 durchschnitt und 15 sehr gut).
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
@@ -26,7 +26,7 @@ Die meisten Module findest du auf
 
 #Eigenschaften
 
-Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundkeit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
+Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
 
 
 
@@ -78,7 +78,7 @@ Sie lassen sich in etwa beschreiben als etwas, das man entweder hat oder nicht h
 
 Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen. 
 
-**Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge(tm) übernommen werden.
+**Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden.
 
 Ein paar Beispiele gibt es auf Seite 21. 
 
@@ -1126,7 +1126,7 @@ unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), A
 ...und vielen anderen: 
 - http://leute.1w6.org
 
-Außerdem mit Inspirationen aus DSA® (Fanpro), Shadowrun® (FASA), Gurps® (SJGames), Fudge(tm) (Grey Ghost Press), Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic), dem Weltenbuch (jccorporation) und vielen weiteren. 
+Außerdem mit Inspirationen aus DSA® (Fanpro), Shadowrun® (FASA), Gurps® (SJGames), Fudge™ (Grey Ghost Press), Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic), dem Weltenbuch (jccorporation) und vielen weiteren. 
 
 An dieser Stelle: Danke! 
 
