@@ -1617,4 +1617,23 @@ interessant zu spielen.
 
 ------ 
 
+Aus dem Xedity blog: http://xegity.ionflux.org/blog/design/systemgrundlagen_teil_2.flux
+
+* Ziele werden von Spielern vorgeschlagen, aber was sind sie wirklich? Sind sie Aufgaben, die die 
+Charaktere erfüllen ("Schnappt dem Kommando der Raumflotte das Wrack vor der Nase weg" -> der 
+Plotaufhänger des Abenteuers) oder sind sie langfristigere Ziele? 
+
+* Mir ist nicht ganz klar, wann ein Spieler einen Storypunkt erhält. Ich weiß aber, was mir aktuell 
+am praktischten erscheint: Spieler erhalten Storypunkte, wenn sie Ziele abschließen (also entweder 
+sie erreichen oder bei dem Versuch versagen). Die Anzahl der Storypunkte würde ich einfach nur davon 
+abhängig machen, wie groß das Ziel ist. 
+
+Ob ein Charakter scheitert oder Erfolg hat ist erstmal egal: Der Versuch das Ziel zu erreichen hat 
+ihn nachhaltig geprägt. 
+
+Ein Ziel ohne Not aufzugeben wäre damit übrigens die einzige Möglichkeit, keine Storypunkte zu 
+erhalten :) 
+
+------ 
+
 
