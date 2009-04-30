@@ -308,10 +308,10 @@ Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit aus
 
 Waffen und Rüstung
 (Kosten: Wert): 
-+: Bis 18 Punkte Schaden + Rüstung
-++: Bis 54 Punkte
-+++: Bis 108 Punkte
-++++: Bis 180 Punkte
++: Bis 9 Punkte Schaden + Rüstung
+++: Bis 27 Punkte
++++: Bis 54 Punkte
+++++: Bis 90 Punkte
 
 Besonderheiten erhöhen den Wert. Eine verborgene Waffe oder Rüstung zählt zweifach, Waffen mit Gift oder Waffen, die die Rüstung ignorieren, zählen dreifach. 
 
