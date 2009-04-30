@@ -2,5 +2,5 @@
 'ability': 14, # good
 'weapon': 6, # psi sword
 'armor': 6, # psi shield
-'wound': 4 # average wound threshold
+'wound': 3 # low wound threshold
 }
