@@ -1,0 +1,36 @@
+Das Regelwerk formt das Setting
+===============================
+
+Meiner Erfahrung nach formt das Regelwerk das Setting mit, während man spielt. 
+
+Erfahrung: Wir haben eineinhalb Jahre eine High-Fantasy Welt mit Gurps gespielt. Das Ergebnis war, dass die Runde immer weiter ins berechenbare driftete und einen Gutteil des Fantasy-Flairs verlor. 
+
+Jetzt spielen wir die gleiche Welt mit dem EWS, und sie driftet eher weiter ins High-Fantasy als sie ursprünglich geplant war. 
+
+Als Grund sehe ich vor allem, dass jedes Regelwerk nicht nur eine abstrakte Art liefert, wie Interaktion behandelt wird, sondern auch die Spielinterne Realität bestimmt. 
+
+Das Regelwerk legt zum Beispiel fest, wie heldenhaft ein anfangender Kämpfer ist. 
+
+- In DSA (3) trifft ein Anfangskrieger nur gut jedes zweite Mal, obwohl er jahrelang Schwertkampf gelernt hat, schließlich sind Kämpfe eine völlig andere Situation als das Schwerttraining. 
+- In Shadowrun (3) trifft ein anfangender Kämpfer einen ungeübten so gut wie immer und kann auch gegen 5 Gegner gleichzeitig bestehen. Nach der ersten Wunde sinken seine Chancen im Nahkampf allerdings massiv. 
+- In Gurps (4) wird die Anfangsfähigkeit eines Kriegers zum Großteil bei der Erschaffung durch die gewünschte Charakterstärke festgelegt und ist dann sehr gut planbar. Angehende Helden (Wert 13) treffen in etwa 83% der Fälle. Sie parieren aber nur in etwa 38% der Fälle (3 + halber Wert). 
+- Im EWS hängt die Trefferchance im Nahkampf v.a. von der Stärke des Gegners ab. Wenn ein Kämpfer 6 Punkte besser ist als sein (einzelner) Gegner (z.B. guter Krieger gegen Goblin), muss er sich um den Kampfausgang keine großen Sorgen mehr machen. Bei mehreren Gegnern sieht das schnell anders aus (Malus von 3 pro zusätzlichem Gegner - da sind die 6 Punkte schnell weg). 
+
+Die Geschichte "Krieger stürzt sich auf 20 Goblins, die gerade eine adlige Frau aus ihrer Sänfte zerren" würde also in den verschiedenen Systemen sehr unterschiedlich enden. 
+
+- DSA 3: Der Krieger wird nach heldenhaftem Kampf niedergerungen, nimmt aber viele Goblins mit in den Tod und kann der Frau die Zeit zur Flucht verschaffen. 
+- Shadowrun: Wenn der Krieger nicht das Pech hat, eine Wunde abzubekommen, richtet er ein fürchterliches Gemetzel an (Goblins->Ganger ohne Fernkampfwaffen). Sobald er aber die erste Wunde hat, sollte er sich zurückziehen, da er sonst schnell als schaschlik endet. 
+- Gurps: Da der Paradewert niedriger liegt als der Angriffswert, wird der Krieger immer wieder getroffen und bricht recht bald zusammen. 
+- EWS: Wenn der Krieger intelligent genug ist, den Wagen im Rücken zu haben, hat er realistische Chancen viele der Goblins mitzunehmen. Sonst wird er niedergemacht, sobald ihn vier Goblins von allen Seiten angreifen. 
+
+Deswegen greift das System direkt in den Hintergrund ein: Ein Shadowrunner wird sich viel eher einfach in die Mitte der Ganger/Goblins stürzen als ein Krieger im EWS, selbst wenn beide im Vergleich zu den Gangern/Goblins überragend sind. 
+
+Darüber hinaus haben die grundlegenden Regelmechanismen noch direkte Auswirkungen auf die Verteilung der Ergebnisse. Ein Poolsystem (xW6 gg MW, z.B. Shadowrun) hat völlig andere Wahrscheinlichkeiten als ein Unterwürfel-System (DSA, Gurps), oder ein ± System (EWS), und mehrere addierte Würfel (Gurps) geben eine viel stärker um den Erwartungswert zentrierte Verteilung als ein Würfel (DSA, Kampf). 
+
+Damit ist auch klar, dass ein DSA Krieger viel eher fürchten muss, dass ein Goblin mal Glück hat, aber auch viel häufiger von den glücklichen Fügungen des Schicksals berichten kann als z.B. ein Gurps Krieger, und dass in SR (6-er wiederwürfeln, viele Würfel) und im EWS (mit krits: 6-er Hochwürfeln, ein Würfel) die Ergebnisse nochmal sensationeller aussehen (weil die Spieler sehen, was damit sonst noch alles möglich gewesen wäre). Ein Shadowrunner (SR3!) hat die besten Chancen, auch härteste Mindestwürfe zu schaffen, also versuchen Shadowrunner eben doch noch, dem fliehenden Hubschrauber eine Minigranate durch das winzige Loch in der Scheibe zu feuern (hat bei uns geklappt - ich hatte lange nicht mehr so viele 6-er hintereinander gesehen :) ). Ein Gurps-Kämpfer würde das gar nicht erst versuchen, weil er viel weniger die Erfahrung macht, dass das Schicksal auf seiner Seite steht (dafür aber viel häufiger, dass gute Pläne auch gelingen - Boni machen deutlich mehr aus). 
+
+Fazit: Natürlich kann man jeden Hintergrund mit jedem System spielen, aber man verändert dadurch den Hintergrund, da viele InPlay-Geschichten nur mit bestimmten Regelsystemen wahrscheinlich (oder möglich) sind. 
+
+Ich verwende dabei für mich das Gleichnis: Das Regelwerk ist die (Mago-/Narrativo-/Pseudo-) Physik der Welt. 
+
+Als Ziel habe ich für mich: Wenn ich alle NSC Interaktionen mit dem Regelwerk ausspielen würde, sollten die Ergebnisse so aussehen, wie sie im Hintergrund beschrieben werden. 
