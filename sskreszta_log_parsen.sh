@@ -9,7 +9,7 @@ mkdir -p static
 
 echo "Sskreszta-Log statisch" > static/index.mdwn
 echo "======================" >> static/index.mdwn
-for i in Sskreszta-log*txt
+for i in Sskreszta-log*txt Stationen_unserer_Reise.txt
   do echo "[$i]($i.html)" >> static/index.mdwn
   echo "" >> static/index.mdwn
 done
@@ -20,9 +20,9 @@ echo "<html><head><meta http-equiv='Content-Type' content='text/html; charset=UT
 markdown.py -e utf-8 static/index.mdwn >> static/index.html
 echo "<p>- <a href='http://1w6.org'>zur Hauptseite</a> -</p></body></html>" >> static/index.html
 
-# And compiile every entry to html. 
+# And compile every entry to html. 
 
-for i in Sskreszta-log*
+for i in Sskreszta-log* Stationen_unserer_Reise.txt
   do echo "<html>" > static/$i.html
   echo "<head><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/></head>" >> static/$i.html
   echo "<body text='#903r09'>" >> static/$i.html
@@ -30,3 +30,7 @@ for i in Sskreszta-log*
   echo "<a href='index.html'>andere Logeinträge</></body></html>" >> static/$i.html
 done
 
+# Also turn the dot file into the travel diagram (png)
+./aufruf_dot_zu_png.sh
+# And copy the current dot file into static
+cp stationen_unserer_reise.dot static/

@@ -1,43 +1,45 @@
-Warum die Wertebereiche?
-========================
+Warum wir die Wertebereiche des EWS so gewählt haben
+====================================================
 
-Warum 3 bis 21 fuer Eigenschaften und Fertigkeiten?
+Warum 3 bis 21 für Eigenschaften und Fertigkeiten?
 ---------------------------------------------------
 
 Das EWS verwendet einen Wertebereich von 3 bis 21 (mickrig bis superb), mit 12 als 
-Durchschnitt, um eeine grundlegende Kompatibilitaet zu Gurps(R) und Fudge(tm) zu 
+Durchschnitt, um eine grundlegende Kompatibilität zu Gurps® und Fudge™ zu 
 erhalten: 
 
-* Der Spieltechnische Effekt eines um einen Punkt hoeheren Wertes entspricht in 
-etwa dem von Gurps(R), so dass Wertemodifikatoren aus Gurps direkt uebernommen 
-werden koennen und damit die riesige Sammlung von Vor- und Nachteilen aus Gurps 
-im EWS genutzt werden kann. Charakterwerte koennen entweder uebertragen werden, 
-indem sie einfach um 2 nach ben verschoben werden, oder indem die (exaktere) 
+* Der Spieltechnische Effekt eines um einen Punkt höheren Wertes entspricht in 
+etwa dem von Gurps®, so dass Wertemodifikatoren aus Gurps direkt übernommen 
+werden können und damit die riesige Sammlung von Vor- und Nachteilen aus Gurps 
+direkt im EWS genutzt werden kann. Charakterwerte können übertragen werden, 
+indem sie entweder einfach um 2 nach oben verschoben werden, oder indem die (exaktere) 
 Tabelle von [gurps.1w6.org][] genutzt wird. 
 
-* Um dagegen Fudge Regeln zu uebertragen, muessen sie meistens nur mit 3 
+* Um Fudge Regeln zu übertragen, müssen Werte darin meistens nur mit 3 
 multipliziert werden (mit 4 statt 0 als Mittelwert), so dass jegliche Werke aus 
-Fudge fuer das EWS einsetzbar sind. Allerdings unterscheidet sich hier der 
-Spieleffekt durch den Einsatz des +-W6, der im Bereich von -5 bis +6 eine lineare 
-Verteilung hat, so dass wir fuer 15 bereits "sehr gut" als Beschreibung gewaehlt 
-haben und legendaer schon bei 24 anfaengt. Der wirkliche Effekt ist im Zweifel 
-wichtiger als die Kompatibilitaet, weil Kompatibilitaet nur einmal wichtig wird 
-(beim Uebernehmen der Regeln) und der Spieltechnische Effekt waehrend jedem 
+Fudge für das EWS einsetzbar sind. Allerdings unterscheidet sich hier der 
+Spieleffekt etwas, weil wir den +-W6 nutzen, der im Bereich von -5 bis +6 eine lineare 
+Verteilung hat, statt den Großteil der Ergebnisse um die Mitte zu streuen, so dass wir für 15 bereits "sehr gut" als Beschreibung gewählt 
+haben und legendär schon bei 24 anfängt (um es skalierbar zu halten, muss außerdem der Unterschied zwischen 12 und 15 genauso groß sein, wie der zwischen 15 und 18, und auch die Namen sollten das widerspiegeln). Der Effekt im Spiel ist im Zweifel 
+wichtiger als die Kompatibilität, weil Kompatibilitaet nur einmal wichtig wird 
+(beim Übernehmen der Regeln) und der Spieltechnische Effekt während jedem 
 Spielabend auftritt (Details auf [fudge.1w6.org][]). 
 
-[gurps.1w6.org]: http://gurps.1w6.org "Gurps(R) Regeln und Charaktere ins EWS uebertragen."
+[gurps.1w6.org]: http://gurps.1w6.org "Gurps® Regeln und Charaktere ins EWS übertragen."
 
-[fudge.1w6.org]: http://fudge.1w6.org "Fudge(tm) Regeln und Charaktere ins EWS uebertragen."
+[fudge.1w6.org]: http://fudge.1w6.org "Fudge™ Regeln und Charaktere ins EWS übertragen."
 
 
 Warum Merkmale einfach in Plussen und Minussen?
 -----------------------------------------------
 
-Die Auswirkungen von Merkmalen sind so vielfaeltig, dass eine Darstellung im 
+Die Auswirkungen von Merkmalen sind so vielfältig, dass eine Darstellung im 
 gleichen Zahlenbereich wie Eigenschaften und Fertigkeiten einem Zusammenhang 
-implizieren wuerde, der nicht existieren muss (nur weil das Schwarmwesen fuer 
+implizieren würde, der nicht existieren muss. Nur weil z.B. das Schwarmwesen für 
 die Anzahl seiner Einzelwesen 3 Plusse hat, bedeutet das nicht, dass es 21 Wesen 
-sind (21 ist der Wert, den eine Eigenschaft durch 3 Plusse hat). 
+sind (21 ist der Wert, den eine Eigenschaft durch 3 Plusse erhält). 
 
-Daher werden ihre Werte individuell nach Merkmal vergeben und sind nur ueber die 
+Daher werden eventuell notwendige Werte individuell nach Merkmal vergeben und sind nur über die 
 Kosten mit den anderen Werten vergleichbar. 
+
+Außerdem können so wieder direkt die Vor- und Nachteile aus Gurps® und Fudge™ übernommen werden, ohne zusätzlich konvertieren zu müssen. 

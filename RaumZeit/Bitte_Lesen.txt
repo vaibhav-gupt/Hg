@@ -1,7 +1,7 @@
-Das RaumZeit Universum wird von Inside in einem [eigenen Mercurial 
+Das RaumZeit Universum wird in einem [eigenen Mercurial 
 Repository][RaumZeit_hg] entwickelt. 
 
-[RaumZeit_hg]: http://freehg.org/u/inside/raumzeit "Die Quelldateien des RaumZeit Universums."
+[RaumZeit_hg]: http://bitbucket.org/ArneBab/raumzeit "Die Quelldateien des RaumZeit Universums."
 
 Ihr könnt es einfach von dort klonen. Unter GNU/Linux und MacOSX via [Mercurial][] in 
 der shell mit 
