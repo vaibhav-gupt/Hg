@@ -1,15 +1,13 @@
 Das Regelwerk formt das Setting mit
 ===================================
 
-Meiner Erfahrung nach formt das Regelwerk das Setting mit, während man spielt. 
+Meiner Erfahrung nach formt das Regelwerk das Setting mit, während man spielt. Es liefert nicht nur eine abstrakte Art, wie Interaktionen behandelt werden, sondern bestimmt auch die spielinterne Realität. 
 
 Erfahrung: Wir haben eineinhalb Jahre eine High-Fantasy Welt mit Gurps gespielt. Das Ergebnis war, dass die Runde immer weiter ins berechenbare driftete und einen Gutteil des Fantasy-Flairs verlor. 
 
 Jetzt spielen wir die gleiche Welt mit dem EWS, und sie driftet eher weiter ins High-Fantasy als sie ursprünglich geplant war. 
 
-Als Grund sehe ich vor allem, dass jedes Regelwerk nicht nur eine abstrakte Art liefert, wie Interaktion behandelt wird, sondern auch die Spielinterne Realität bestimmt. 
-
-Das Regelwerk legt zum Beispiel fest, wie heldenhaft ein anfangender Kämpfer ist. 
+Das Regelwerk legt dabei zum Beispiel fest, wie heldenhaft ein anfangender Kämpfer ist. 
 
 - In DSA (3) trifft ein Anfangskrieger nur gut jedes zweite Mal, obwohl er jahrelang Schwertkampf gelernt hat, schließlich sind Kämpfe eine völlig andere Situation als das Schwerttraining. 
 - In Shadowrun (3) trifft ein anfangender Kämpfer einen ungeübten so gut wie immer und kann auch gegen 5 Gegner gleichzeitig bestehen. Nach der ersten Wunde sinken seine Chancen im Nahkampf allerdings massiv. 
@@ -29,10 +27,14 @@ Darüber hinaus haben die grundlegenden Regelmechanismen noch direkte Auswirkung
 
 Damit ist auch klar, dass ein DSA Krieger viel eher fürchten muss, dass ein Goblin mal Glück hat, aber auch viel häufiger von den glücklichen Fügungen des Schicksals berichten kann als z.B. ein Gurps Krieger, und dass in SR (6-er wiederwürfeln, viele Würfel) und im EWS (mit krits: 6-er Hochwürfeln, ein Würfel) die Ergebnisse nochmal sensationeller aussehen (weil die Spieler sehen, was damit sonst noch alles möglich gewesen wäre). Ein Shadowrunner (SR3!) hat die besten Chancen, auch härteste Mindestwürfe zu schaffen, also versuchen Shadowrunner eben doch noch, dem fliehenden Hubschrauber eine Minigranate durch das winzige Loch in der Scheibe zu feuern (hat bei uns geklappt - ich hatte lange nicht mehr so viele 6-er hintereinander gesehen :) ). Ein Gurps-Kämpfer würde das gar nicht erst versuchen, weil er viel weniger die Erfahrung macht, dass das Schicksal auf seiner Seite steht (dafür aber viel häufiger, dass gute Pläne auch gelingen - Boni machen deutlich mehr aus). 
 
-Fazit: Natürlich kann man jeden Hintergrund mit jedem System spielen, aber man verändert dadurch den Hintergrund, da viele InPlay-Geschichten nur mit bestimmten Regelsystemen wahrscheinlich (oder möglich) sind. 
+Kurz: Natürlich kann man jeden Hintergrund mit jedem System spielen, aber man verändert dadurch den Hintergrund, da viele InPlay-Geschichten nur mit bestimmten Regelsystemen wahrscheinlich (oder möglich) sind. 
 
 Ich verwende dabei für mich das Gleichnis: Das Regelwerk ist die (Mago-/Narrativo-/Pseudo-) Physik der Welt. 
 
 Als Ziel habe ich für mich: Wenn ich alle NSC Interaktionen mit dem Regelwerk ausspielen würde, sollten die Ergebnisse so aussehen, wie sie im Hintergrund beschrieben werden. 
 
-*PS: Auch gepostet [im Metstübchen](http://www.metstübchen.de/cgi-bin/metstuebchen.pl?thread=WarumSettingsnicht1241115176bbcaf;pnumber=11#actual), aber mal wieder ein Kommentar in Artikellänge, daher auch hier im Blog :)*
+Das ist ein Grund, warum wir das EWS anpassbar uns so flexibel wie möglich schreiben. Module sollen eine Anpassung an unterschiedliche Hintergründe ermöglichen, so dass Regelwerk und Hintergrund übereinstimmen, ohne dass sich der Hintergrund zu sehr ändert. 
+
+Einen gewissen Pulp-Einfluss werden aber vermutlich die meisten EWS Runden haben. Ich denke das ist ein Ergebnis der linearen Verteilung von Ergebnissen des ±W6 und der Glockenkurve bei krits: Handlungen klappen meist nicht nur "so'n bisschen", sondern gut oder gar nicht, und kritische Erfolge sind zwar selten, aber umso deutlicher zu spüren. 
+
+*PS: Auch gepostet [im Metstübchen](http://www.metstübchen.de/cgi-bin/metstuebchen.pl?thread=WarumSettingsnicht1241115176bbcaf;pnumber=11#actual), aber mal wieder ein Kommentar in Artikellänge, daher auch hier im Blog :) - im Metstübchen habe ich den EWS-Spezifischen Abschluss weggelassen.*
