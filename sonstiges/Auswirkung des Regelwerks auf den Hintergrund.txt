@@ -1,5 +1,5 @@
-Das Regelwerk formt das Setting
-===============================
+Das Regelwerk formt das Setting mit
+===================================
 
 Meiner Erfahrung nach formt das Regelwerk das Setting mit, während man spielt. 
 
@@ -19,7 +19,7 @@ Das Regelwerk legt zum Beispiel fest, wie heldenhaft ein anfangender Kämpfer is
 Die Geschichte "Krieger stürzt sich auf 20 Goblins, die gerade eine adlige Frau aus ihrer Sänfte zerren" würde also in den verschiedenen Systemen sehr unterschiedlich enden. 
 
 - DSA 3: Der Krieger wird nach heldenhaftem Kampf niedergerungen, nimmt aber viele Goblins mit in den Tod und kann der Frau die Zeit zur Flucht verschaffen. 
-- Shadowrun: Wenn der Krieger nicht das Pech hat, eine Wunde abzubekommen, richtet er ein fürchterliches Gemetzel an (Goblins->Ganger ohne Fernkampfwaffen). Sobald er aber die erste Wunde hat, sollte er sich zurückziehen, da er sonst schnell als schaschlik endet. 
+- Shadowrun: Wenn der Krieger nicht das Pech hat, eine Wunde abzubekommen, richtet er ein fürchterliches Gemetzel an (Goblins->Ganger ohne Fernkampfwaffen). Sobald er aber die erste Wunde hat, sollte er sich zurückziehen, da er sonst schnell als Schaschlik endet. 
 - Gurps: Da der Paradewert niedriger liegt als der Angriffswert, wird der Krieger immer wieder getroffen und bricht recht bald zusammen. 
 - EWS: Wenn der Krieger intelligent genug ist, den Wagen im Rücken zu haben, hat er realistische Chancen viele der Goblins mitzunehmen. Sonst wird er niedergemacht, sobald ihn vier Goblins von allen Seiten angreifen. 
 
@@ -34,3 +34,5 @@ Fazit: Natürlich kann man jeden Hintergrund mit jedem System spielen, aber man 
 Ich verwende dabei für mich das Gleichnis: Das Regelwerk ist die (Mago-/Narrativo-/Pseudo-) Physik der Welt. 
 
 Als Ziel habe ich für mich: Wenn ich alle NSC Interaktionen mit dem Regelwerk ausspielen würde, sollten die Ergebnisse so aussehen, wie sie im Hintergrund beschrieben werden. 
+
+*PS: Auch gepostet [im Metstübchen](http://www.metstübchen.de/cgi-bin/metstuebchen.pl?thread=WarumSettingsnicht1241115176bbcaf;pnumber=11#actual), aber mal wieder ein Kommentar in Artikellänge, daher auch hier im Blog :)*
