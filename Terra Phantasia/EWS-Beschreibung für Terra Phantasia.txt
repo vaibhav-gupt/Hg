@@ -1,0 +1,70 @@
+Hi, 
+
+Ich möchte hier eine Frage stellen, über die alle gemeinsam entscheiden sollten, und ich denke, hier im Forum ist der richtige Ort dazu (habe bereits mit Kalahan gesprochen, aber die Frage hat genug Tragweite, dass die Entscheidung in jedem Fall einstimmig sein sollte). 
+
+Kalahan hat mir erzählt, welche Besonderheiten das System haben soll, und wir haben herausgefunden, dass bisher die Planungen alle in Details liefen, dass aber die tiefsten Grundlagen (Wie werden Proben abgehandelt? Was ist der Durchschnittswert eines Charakters? und vieles mehr) noch völlig unberührt blieben. 
+
+Gleichzeitig habe ich ein Regelwerk entworfen, dass ich seitdem immer weiter entwickle, und das seit 2003 mit verschiedenen Gruppen im kontinuierlichen Spieltest ist (etwa eine runde alle 2 Wochen), wobei ich gut die Hälfte der Zeit selbst Spieler und nicht mehr Spielleiter bin. 
+
+In ihm sind genau diese Grundlagen entwickelt, allerdings detailliertere Fragen bisher fast völlig ausgespart (teilweise mit Absicht), so dass die beiden Teile direkt ineinandergreifen können. 
+
+Damit ihr die Entscheidung mit genügend Hintergrund treffen könnt, möchte ich euch kurz etwas zur Struktur und zu seinen Besonderheiten sagen. 
+
+[b]Zur Struktur[/b] (in Grundzügen): 
+Das System nutzt wie viele andere Systeme auch Eigenschaften (Attribute), Fertigkeiten und Merkmale (Vor- und Nachteile). 
+Eigenschafts- und Fertigkeitswerte liegen bei Menschen im allgemeinen zwischen 6 und 18 (die meisten nur zwischen 9 und 15), und jedem Wert ist auch eine Beschreibung zugeordnet (6 ist z.B. mickrig, 9 schwach, 10 mäßig, 12 durchschnitt, 14 gut, 15 sehr gut und 18 überragend, eine genaue Aufstellung, jeweils mit (wahrscheinlichkeitstheoretisch durchgerechneter) Bedeutung gibt es unter [url=http://basis.1w6.org/1w6/index.php/EWS:WerteBeschreibung]Wertebeschreibung[/url] auf der Webseite des Systems). 
+Eigenschaften und Fertigkeiten können vom Spieler völlig frei gewählt werden. Bei Eigenschaften wird dabei nur aufgeschrieben, worin der Charakter sich von dem Menschen auf der Straße unterscheidet. 
+
+Gewürfelt wird immer mit einem einzelnen W6, allerdings auf besondere Art: mit dem ±W6. Hier wird der Wert einer Fertigkeit oder Eigenschaft durch einen Würfelwurf modifiziert. Dabei würfelt der Spieler mit einem W6. Ist der Wurf ungerade, zieht er ihn von dem Fertigkeits- oder Eigenschaftswert ab, ist es gerade, dann addiert er ihn. Das Ergebnis kann entweder direkt den Ausgang der Handlung bestimmen (hervorragend, mäßig, gut, durchschnitt...) oder mit einem Mindestwurf verglichen werden (wurde er erreicht oder übertroffen, gelingt die Probe). 
+Bei Einzelfällen (z.B. Schaden von Nahkampfwaffen) kann auch einfach ein einzelner Würfel geworfen und mit einer Zahl multipliziert werden. Das nennt sich dann xW6.  
+
+Zur Erweiterung gibt es ein Modulsystem, mit dem das Spielgefühl und der Fokus des Systems beeinflusst werden können, so dass jedem Spielleiter die Entscheidung freisteht, was in seiner Runde am wichtigsten sein soll. Das Modulsystem ist der einzige Punkt, an dem noch wirkliche Veränderungen stattfinden. 
+
+Merkmale (Vor- und Nachteile) können direkt aus Gurps® und Fudge(tm) übernommen werden, so dass hier bereits eine große Zahl an direkt nutzbarem Material existiert. Und damit will ich gleich zum nächsten Punkt kommen: 
+
+[b]Besonderheiten des Systems[/b] (als kurze Liste): 
+- Es wird nur genau ein W6 pro Spieler benötigt. Jede Probe wird durch einen Wurf (teilweise pro Beteiligtem) entschieden (Ausnahme ist bisher das Kampfsystem, wo zur Schadensbestimmung ein zweites Mal geworfen wird). 
+- Jedem Wert und jedem Ausgang einer Probe ist ein beschreibender Name zugeordnet (z.B. ist 15 sehr gut, 9 schwach und 12 durchschnitt). Damit können Spieler ihre Charaktere und deren Handlungen zu jeder Zeit einschätzen (außerhalb eines bestimmten Bereiches werden je drei Werte zusammengefasst. Beispielsweise werden 17,18 und 19 überragend genannt, 5,6 und 7 mickrig). 
+- Diese Beschreibungen sind nachgerechnet und stimmen mit den Erwartungen der Spieler überein (was leider nicht in jedem System so ist). 
+- Ein Modulsystem sorgt dafür, dass das System einfach erweitert werden kann. Jedes Modul hat eine festgelegte Struktur: Einführung (Was das Modul bewirkt und Kurzbeschreibung), Grundlagen (Wie es funktioniert, Details), Beispiel(e) (eben das :) ), Weiteres (was ansonsten noch zu sagen ist, Nutzungsmöglichkeiten, Ideen, sonstiges). 
+- - Eins der Module, das Kategoriemodul, ermöglicht das Spielen von sehr großen oder kleinen Wesen ohne großes Zahlenchaos (zum Beispiel von Fliegen, Riesen, Raumschiffen, u.ä., die damit im vertrauten Bereich um die 12 liegen, nur in einer anderen Kategorie (statt einem Drachen eine Stärke von 50 oder so zu geben)). 
+- - Ein weiteres Modul, das FeMo (Beruf, Hintergrund und Spezialisierungen), ermöglicht es den Spielern ihren Charakteren Beruf und Hintergrund zu geben, die ihnen eine ganze Reihe Fertigkeiten zur Verfügung stellen, ohne das Charakterblatt unübersichtlich zu machen, und gleichzeitig auch Fertigkeiten auf einen Aspekt zu spezialisieren. Beispielsweise kann ein Jäger (Beruf Jäger sehr gut (15) alle Fertigkeiten sehr gut (15) die für Jäger wirklich wichtig sind, ohne sie aufschreiben zu müssen. 
+- Es ist kompatibel zu Quellmaterial aus Gurps® und Fudge(tm). Z.B. können Vor- und Nachteile aus Gurps® direkt als Merkmale übernommen werden, und jegliche Werke von Fudge(tm) können durch einfaches verdreifachen aller Zahlen genutzt werden. Auf diese Art ist bereits eine Fülle an nutzbarem Material verfügbar. 
+- Das Kampfsystem ist sehr direkt und schnell. Die meisten Zweikämpfe dauern inplay etwa 4 Runden, offplay mit Beschreibungen ein paar Minuten. Reine Regelzeit (Würfelzeit) ist je nach Erfahrung mit den Regeln etwa 30s bis 3 Minuten, bis einer der Charaktere zu Boden geht. Selbst bei größeren Kämpfen läuftd as Spiel damit noch flüssig und der Fokus bleibt auf den Beschreibungen. 
+- Als spaßigen Kommentar am Rand: Es kann im Notfall Regelkonform per "Schere, Stein, Papier" gespielt werden :) ([url=http://basis.1w6.org/1w6/index.php/EWS:Alternative_ZufallsSysteme#Schere-Stein-Papier]infos[/url]
+
+Tiefere Infos und auch das gesamte Regelwerk gibt es unter http://1w6.org . 
+
+[b]Was es Bedeuten würde, wenn das System genommen wird[/b]
+
+Ich habe einfach eine weitere Überschrift gestartet, damit die Beschreibung des Systems selbst abgeschlossen ist ;) 
+
+Als Erstes stände natürlich eine stabile und ausgiebig getestete Grundlage, aber das ist nicht worauf ich hier heraus will. 
+
+Wichtiger für das Projekt ist, dass das System unter einer offenen Lizenz steht (der [url=http://creativecommons.org/licenses/by-sa/2.5/deed.de]cc attribution-sharealike-Lizenz[/url]). Das ermöglicht zum Einen das Übernehmen des Systems für Terra Phantasia, zum Anderen gibt es dadurch aber auch ein paar Einschränkungen ([url=http://creativecommons.org/licenses/by-sa/2.5/deed.de]Details[/url]). 
+
+Durch die Lizenz müsste zumindest der Regelteil von Terra Phantasia unter der selben Offen Lizenz stehen. Das würde bedeuten, dass er
+a) von anderen weiterverwendet werden dürfte, und 
+b) in ein seperates Buch gesetzt werden müsste, es sei denn, das gesamte Werk würde unter der Lizenz stehen (allerdings hindert das nicht daran, beide Bücher in eine Verpackung zu packen (z.B. beide mit Plastikfolie zusammen, wie es schon bei anderen Rollenspielen oft mit Teilen des Systems gemacht wird). 
+
+Der Grund steht in der Lizenz, deshalb zitiere ich hier kurz einen Teil davon: 
+------
+Sie dürfen:
+- den Inhalt vervielfältigen, verbreiten und öffentlich aufführen
+- Bearbeitungen anfertigen
+- den Inhalt kommerziell nutzen
+Zu den folgenden Bedingungen:
+- by  Namensnennung. Sie müssen den Namen des Autors/Rechtsinhabers nennen.
+- sa  Weitergabe unter gleichen Bedingungen. Wenn Sie diesen Inhalt bearbeiten oder in anderer Weise umgestalten, verändern oder als Grundlage für einen anderen Inhalt verwenden, dann dürfen Sie den neu entstandenen Inhalt nur unter Verwendung identischer Lizenzbedingungen weitergeben.
+- Im Falle einer Verbreitung müssen Sie anderen die Lizenzbedingungen, unter die dieser Inhalt fällt, mitteilen.
+------
+
+Das Werk hat diese Lizenz, weil ich daran glaube, dass offene und freie Lizenzen sich langfristig durchsetzen werden, und dass gerade auf dem Rollenspielmarkt freie Systeme fehlen. 
+Frei heißt dabei nicht "kostenlos", sondern "frei verwendbar", so dass also beispielsweise wichtige Teile des Regelwerks für die Mitspieler kopiert werden dürfen (was sowieso normale Praxis ist, aber rechtlich gesehen bei den meisten anderen Systemen Fällen illegal).  ([url=http://basis.1w6.org/1w6/index.php/Hauptseite#Frei_wie_in_Freiheit]genauere Infos[/url])
+
+Dadurch wird das Regelwerk ein gemeinsamer Standard, auf dem verschiedene Welten aufbauen, und der auch von jedem Weltenentwickler weiterentwickelt werden kann (was genau das ist, dass ich damit anbieten kann: Gemeinsame Weiterentwicklung eines freien Systems). 
+
+Außerdem bekommt jeder Beteiligte die Sicherheit, dass sich nicht plötzlich Einer mit dem Ergebnis davonschleicht und es für alle Anderen unzugänglich macht. 
+
+Aber jetzt genug des Textes. Was denkt ihr? 
+Habt ihr noch Fragen oder Anregungen, bevor ihr eine Entscheidung treffen wollt? 
