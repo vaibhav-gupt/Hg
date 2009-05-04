@@ -1,0 +1,6 @@
+{'name': "Mitras 2", # charname
+'ability': 14, # good
+'weapon': 18, # psi sword
+'armor': 18, # psi shield
+'wound': 3 # average wound threshold
+}

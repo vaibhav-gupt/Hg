@@ -12,7 +12,7 @@ Er weiß immernoch nicht genau, warum er mitkommt.
 
 **Luja Tirbit**
 
-Eine Untote Assassinin, die in einem Auftrag zur Narell Ebene gekommen ist und sich für Höhlen interessiert. 
+Eine Untote Assassinin, die im Auftrag ihres Meisters zur Narell Ebene gekommen ist und sich für Höhlen interessiert. 
 
 Ihre Handlungen sind völlig unberechenbar, und sie hat wenig interesse an Hektik oder sonstigem Stress des menschlichen Lebens. Immerhin hat sie viel Zeit. 
 
@@ -29,7 +29,7 @@ Allerdings geht er das ganze mit der Mentalität eines Hausmeisters an: "Habt ih
 
 Er spricht mit Tieren und Pflanzen, ist klein und verschroben und kann es nicht leiden Zwerg genannt zu werden. 
 
-Und der Tod ist für ihn ein normaler Teil des Zyklus. Natürlich in erster Linie der Tod von anderen. 
+Der Tod ist für ihn ein normaler Teil des Zyklus. Natürlich in erster Linie der Tod von anderen. 
 
 
 **Kiran**
@@ -50,14 +50,24 @@ Der Umgangston in der Gruppe wird sofort fröhlicher, wenn er dabei ist.
 Vor kurzem hat er sich selbst das Hypnotisieren beigebracht, und damit _Marn_ vor der Korrumpierung durch _Kirans_ Dämon bewahrt. 
 
 
-Nichtspielrecharaktere
-----------------------
+Haupt-NSCs
+----------
 
 **Rouna**
 
-Ein Ulien, der die Charaktere in Schwern gefunden hat. Er hat ihnen die Legende erzählt und führt sie zu dem _Mondwasser Rudel_, seiner Familie. 
+Ein Ulien, der die Charaktere in _Schwern_ gefunden hat. Er hat ihnen die Legende erzählt und führt sie zu dem _Mondwasser Rudel_, seiner Familie. 
 
 Als die anderen Charaktere von den Wegelagerern angegriffen wurden, war er gerade mit _Luja_ tiefer im Unterholz. 
+
+**Lief**
+
+Eine Tochter _Rounas_, die mit den Charakteren gegen die Weisung ihres Vaters mit in die Höhlen gezogen ist. Sie kehrte zum Rudel zurück um _Gargamel_ in die Höhle des Ältesten zu bringen, nachdem er in einem Gebirgsfluss das Bewusstsein verloren hatte. 
+
+**Iuza**
+
+Eine Wölfin mit (mindestens) menschlicher Intelligez, die in den Nächten um den Vollmond menschliche Gestalt annehmen kann. 
+
+Sie hat sich in _Kiran_ verliebt, hält aber Abstand, seit sie erfahren hat, welchen Preis der für die Macht seines Vertrauten zu zahlen bereit ist. 
 
 **Marn**
 
@@ -74,3 +84,38 @@ Dank _Gargamels_ Hypnose erinnert sie sich nicht mehr daran, dass sie ein Teil d
 Eine Priesterin wie Marn, die Lebenslustiger war, bei der allerdings Gargamels Hypnose nicht funktionierte, so dass sie sich an alle Einzelheiten erinnerte. Sie verschwieg es und wurde am Ende von _Kiran_ getötet, als sie drohte, es den anderen Charakteren zu verraten. _Luja_ hat den Mord mitbekommen, jedoch _Kiran_ versprochen, dass sie schweigen wird. 
 
 _Marn_ glaubt, dass _Ejora_ besessen war und _Kiran_ keine andere Wahl hatte als sie zu töten. 
+
+**Das Mondwasser Rudel**
+
+Meschichte von *Merou*: 
+
+"Die Weisen aus unseren Legenden haben sich jedes Jahr im Licht des ersten vollen Mondes getroffen, um die Kraft ihrer Jugend zurückzugewinnen, und sie bewahrten das Wissen über hunderte von Jahren, bis sie den nächsten Schritt in's Ungewisse wagen wollten, um die Grenzen ihres Körpers abzulegen. Doch diese Zeiten sind seit Jahrtausenden vorbei, und heute verschwinden unsere Legenden. Wir sind die einzigen, die noch die alten Lieder singen und sich an den Ort der Zuflucht erinnern, und auch unser Wissen wurde im Fluss der Zeit abgeschliffen."
+
+Gegenspieler
+------------
+
+**Arwach**
+
+Der Anführer einer Bande von Wegelagerern. Wollte die Charaktere ausrauben. Hatte _Marn_, _Ejora_, _Nieswurz_ und _Gargamel_ gefangen, als _Kiran_ durch den Pakt mit seinem Vertrauten die Hälfte der Mitglieder seiner Bande von innen verbrennen ließ (15 Tote für zwei Opfer). Hat auf der Flucht _Nieswurz_ mit einem Ast niedergeschlagen. 
+
+Er jagt die Charaktere, um sich an ihnen zu rächen und hat von _Senraïs Togra_ _Kodon Chara_ erhalten, mit dem er _Tsark_ beschwören kann, die ihm dann dienen. 
+
+**Senraïs Togra**
+
+Ein Priester des Lichts, der die nicht-Kirchengebiete erkundet, um schwache Stellen zu finden. Er hat _Arwach_ den _Kodon Chara_ gegeben und verfolgt dessen Aktionen. 
+
+_Kiran_ hat ihn bei einem Flug auf die Hochebene gesehen. 
+
+_Senraïs_ kann in den Gedanken anderer Leute sprechen und Wesen durch den Erdboden schicken. Jegliche Skrupel hat er schon lange verloren, und die _Narell Ebene_ wirkt für ihn mit ihren Konflikten und der gerade um _Karagos_ massiv ansteigenden Magie wie ein ideales Ziel. Von den extremen Gefahren, die durch die Schwäche der Grenze zur Dimension der _Tsark_ für die _Kirche des Lichts_ entstehen, hat er zwar eine Vorahnung, ignoriert sie aber. 
+
+
+Nebencharaktere
+---------------
+
+**Lerre Besren**
+
+Händler, der aus Schwang Blumen mit Zwillingskelchen für die Priester der Zwillinge gebracht hat. In seinem Wagen waren Kohlebecken, um die BLumen vor dem erfrieden zu bewahren. Er hatte einen Zwischenstop in Karagos gemacht, und als er es verlassen hat, wären die Blumen zwei Tage lang fast gestorben. 
+
+_Lesre_ hat die Chars in das Gasthaus _Rorgas Wald_ eingeladen. 
+
+Seine Blumen sind dort in der Scheune verwelkt, als _Luja_ mehrfach um den Wagen gegangen ist. 

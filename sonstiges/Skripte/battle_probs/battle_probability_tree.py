@@ -13,6 +13,8 @@ Simplifications:
 - A char fights as long as his ability is above a certain threshold (MIN_ABILITY). 
 - A critical wound always ends the battle. 
 
+TODO: Change the Battle end to "when one char would always get an instant kill from his opponent" -> Diff > 20.
+
 """
 
 ### Help message ###
