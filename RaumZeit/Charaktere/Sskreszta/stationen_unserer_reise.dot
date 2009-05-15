@@ -6,9 +6,9 @@ digraph G {
     
     node [shape=""]
     // dazugestoßen 
-    Sskreszta -> Ekar
-    Kalem -> Ekar
-    Fox -> Ekar
+    Sskreszta -> Ek
+    Kalem -> Ek
+    Fox -> Ek
     Jack -> Ranos
     Ghost -> Zerginsel 
     Antov -> Styro
@@ -23,7 +23,7 @@ digraph G {
     Antov_wieder -> Remi
     
     // Der Weg
-    edge [label="Flucht vor Systemarmee"] Ekar -> P9X 
+    edge [label="Flucht vor Systemarmee"] Ek -> P9X 
     edge [label="Transport von Lel (Berobter)"] P9X -> Unwetterplanet
     edge [label=""]
     Unwetterplanet -> "zerstoerte Station" -> Ranos -> Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
@@ -34,9 +34,10 @@ digraph G {
     // Wie es weitergehen koennte. 
     edge [label="den Piraten folgen"] "Verborgene Sanduhrstation" -> "Hibiti"
     edge [style="dashed"]
-    edge [label="den Piraten folgen"] "Verborgene Sanduhrstation" -> "Hakus Paradies"
-    edge [label="uns um unseren eigenen Kram kuemmern"] "Verborgene Sanduhrstation" -> "Handelsstationen"
-    edge [label="???"] "Verborgene Sanduhrstation" -> "???"
+    edge [label="den Piraten folgen"] "Hibiti" -> "Hakus Paradies"
+    edge [label="uns um unseren eigenen Kram kuemmern"] "Hibiti" -> "Handelsstationen"
+    edge [label="Sorgen um Ek"] "Hibiti" -> "Ek"
+    edge [label="???"] "Hibiti" -> "???"
     
     edge [label="" style=""]
     // Beschreibungen
