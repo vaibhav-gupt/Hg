@@ -6,14 +6,14 @@ digraph G {
     
     node [shape=""]
     // dazugestoßen 
-    node [label="Vorgeschichte"]
+    edge [label="Vorgeschichte"]
     Sskreszta -> Llovara -> "Forschungsstation bei Ek"
     Kalem -> Ek
     Fox -> Ashar -> "Forschungsstation bei Ek"
     Jack -> Ranos
     Ghost -> Zatinsel 
     Antov -> Styro
-    node [label=""]
+    edge [label=""]
     
     // verlassen
     Zatinsel -> Ghost_geht
