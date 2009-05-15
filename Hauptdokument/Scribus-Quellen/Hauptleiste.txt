@@ -1119,9 +1119,7 @@ Wo immer es sinnvoll scheint, könnt ihr auch die Faustregel nutzen, dass 9 Punk
 
 Das EWS steht unter der GPLv3: http://lizenz.1w6.org
 
-In einem Satz: Die kleinere freie Textlizenz erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die VorautorInnen genannt werden und jeder Anderen die freie Nutzung des Regelbereiches erlaubt und ermöglicht wird. 
-
-Zusätzlich ist es unter der GNU FDL und weiteren freien Lizenzen verfügbar (einzusehen auf http://draketo.de/lizenzen ). 
+In einem Satz: Die GPLv3 erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die VorautorInnen genannt werden und jeder Anderen die freie Nutzung des Regelbereiches erlaubt und ermöglicht wird. 
 
 Quelldateien: http://quellen.1w6.org
 
