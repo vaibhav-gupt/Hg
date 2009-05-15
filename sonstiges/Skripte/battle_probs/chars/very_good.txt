@@ -1,0 +1,6 @@
+{'name': "Average Char", # charname
+'ability': 15, # average
+'weapon': 0, # sword
+'armor': 0, # leather armor
+'wound': 4 # average wound threshold
+}

@@ -1,0 +1,87 @@
+digraph G {
+    name = "RaumZeit Friedenszwang"
+    label = "RaumZeit Friedenszwang"
+    // Personen
+    node [shape="diamond"] Sskreszta; Kalem; Fox; Jack; Jack_geht; Ghost; Ghost_geht; Antov; Antov_geht; Antov_wieder
+    
+    node [shape=""]
+    // dazugestoßen 
+    Sskreszta -> Ekar
+    Kalem -> Ekar
+    Fox -> Ekar
+    Jack -> Ranos
+    Ghost -> Zerginsel 
+    Antov -> Styro
+    
+    // verlassen
+    Zerginsel -> Ghost_geht
+    Styro -> Jack_geht
+    "Abbaustation in Gasriese" -> Antov_geht
+
+    // wiedergekommen
+    edge [label="Kommt mit Kira von Synarchu zurueck"]
+    Antov_wieder -> Remi
+    
+    // Der Weg
+    edge [label="Flucht vor Systemarmee"] Ekar -> P9X 
+    edge [label="Transport von Lel (Berobter)"] P9X -> Unwetterplanet
+    edge [label=""]
+    Unwetterplanet -> "zerstoerte Station" -> Ranos -> Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
+
+    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> Remi
+    Remi -> "Hakus Paradies, Vorstation" -> "Randstation im Ashar System"
+
+    // Wie es weitergehen koennte. 
+    edge [style="dashed"]
+    edge [label="den Piraten folgen"] "Verborgene Sanduhrstation" -> "Hakus Paradies"
+    edge [label="uns um unseren eigenen Kram kuemmern"] "Verborgene Sanduhrstation" -> "Handelsstationen"
+    edge [label="???"] "Verborgene Sanduhrstation" -> "???"
+    
+    edge [label="" style=""]
+    // Beschreibungen
+        
+        // Ereignisse auf dem Unwetterplaneten
+        subgraph cluster0 {
+            name = Unwetterplanet
+            label = Unwetterplanet
+            Unwetterplanet -> "Hoehle des Mutierten" -> Unwetterplanet
+        }
+        
+        // Ereignisse in Ranos
+        subgraph cluster1 {
+            name = Ranos
+            label = Ranos
+            edge [label="Suchen Stress"]Ranos -> "Goldenes Licht"
+            edge [label="Auftrag"] "Goldenes Licht" -> Zerginsel
+            edge [label=""] Zerginsel -> "Paras Versteck (Hoehle)" -> Ranos -> Versorgungsstation -> Ranos
+        }
+        
+        // Ereignisse in Styro
+        subgraph cluster2 {
+            name = Styro
+            label = Styro
+            Styro -> "T373-8: Mine auf Styro" ->  "Hoehle auf Styro" -> Styro -> "Unterirdische Werft auf Styro" -> "Hochsicherheitstrakt auf Styro" -> Styro 
+        }
+        
+        // Ereignisse auf Remi
+        subgraph cluster3 { 
+            name = Remi
+            label = Remi
+            Remi -> "Synachu auf Remi" -> Remi -> "Kloster auf Remi" -> Remi
+        }
+
+        // Ereignisse bei Ashar
+        subgraph cluster4 { 
+            name = "Ashar System"
+            label = "Ashar System"
+            edge [label="den Piraten folgen"] "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" 
+            edge [label="Eskorte aus dem Kriegsgebiet"] Ashar -> "Mond der D'sol" -> "Verborgene Sanduhrstation"
+        }
+
+        // Ereignisse auf Ashar
+        subgraph cluster5 { 
+            name = "Ashar"
+            label = "Ashar"
+            edge [label="Auftrag, D'sol und Etaros"] Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
+        }
+}
