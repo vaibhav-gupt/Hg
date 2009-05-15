@@ -10,11 +10,11 @@ digraph G {
     Kalem -> Ek
     Fox -> Ek
     Jack -> Ranos
-    Ghost -> Zerginsel 
+    Ghost -> Zatinsel 
     Antov -> Styro
     
     // verlassen
-    Zerginsel -> Ghost_geht
+    Zatinsel -> Ghost_geht
     Styro -> Jack_geht
     "Abbaustation in Gasriese" -> Antov_geht
 
@@ -54,8 +54,8 @@ digraph G {
             name = Ranos
             label = Ranos
             edge [label="Suchen Stress"]Ranos -> "Goldenes Licht"
-            edge [label="Auftrag"] "Goldenes Licht" -> Zerginsel
-            edge [label=""] Zerginsel -> "Paras Versteck (Hoehle)" -> Ranos -> Versorgungsstation -> Ranos
+            edge [label="Auftrag"] "Goldenes Licht" -> Zatinsel
+            edge [label=""] Zatinsel -> "Paras Versteck (Hoehle)" -> Ranos -> Versorgungsstation -> Ranos
         }
         
         // Ereignisse in Styro
