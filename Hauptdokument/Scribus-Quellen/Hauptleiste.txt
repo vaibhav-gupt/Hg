@@ -512,7 +512,7 @@ Die Zeit, bis eine Wunde geheilt ist, hängt von der Wundschwelle des Charakters
 
 Das heißt, die Grundzeit in Wochen entsprecht dem Wert der Wundschwelle des Charakters. Für die effektive Heilungszeit wird die Grundzeit durch einen Wert geteilt. Der Wert besteht aus Wundschwelle minus 2, wird durch jede Wunde um 1 gesenkt und durch die Heilungsumstände modifiziert. Sollte dieser Wert 0 sein, dann heilt der Charakter gar nicht. Wenn er unter 0 fällt, bekommt er Wunden dazu. 
 
-*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 eine Wunde davonträgt, dauert die Heilung der Wunde in normaler Umgebung 4 / (4-2-1) = 4 Wochen. Trägt er zwei Wunden davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, weiter als Diplomat zu arbeiten statt sich Ruhe zu gönnen, dann erholt er sich nie. 
+*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde in normaler Umgebung 4 / (4-2-1) = 4 Wochen. Trägt er zwei Wunden davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, weiter als Diplomat zu arbeiten, statt sich Ruhe zu gönnen, dann erholt er sich nie. 
 
 Heilungsumstände leiten sich aus zwei Fragen her: "Was macht der Charakter?", und "Wie wird seine Heilung gefördert?" 
 
@@ -836,10 +836,6 @@ Um höhere Komplexität zu ermöglichen, nutzt es ein feiner aufgeteiltes Schade
 
 
 
-
-
-
-
 #Schaden: Wunden und Trefferpunkte
 
 Im Fokusmodul Kampf kann eine Verletzung zwei verschiedene Auswirkungen haben: Der Charakter kann einfach Schaden erhalten oder sich zusätzlich eine tiefe oder gar kritische Wunde zuziehen. 
@@ -880,11 +876,9 @@ Erhält ein Charakter mit einem Treffer weniger als seine Wundschwelle an Schade
 
 **Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
 
-**Erhält er gar Schaden in Höhe der gewählten Eigenschaft (halbe TP), dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. 
+**Erhält er gar Schaden in Höhe der gewählten Eigenschaft (halbe TP), dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
 
-**In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
- 
-**Von einer einzelnen Verletzung erhält ein Charakter nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde. Er erhält niemals zwei Wunden auf einmal. 
+**Ein Charakter erhält Von einer einzelnen Verletzung nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde, aber keine zwei Wunden. 
 
 Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
 
@@ -893,14 +887,12 @@ Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knoche
 Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken. 
 
 <fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46. 
-  
-
 
 #Heilung
 
-Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen (ansonsten wird der Charakter sich nicht lange Sorgen um den Schaden machen können). 
+Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen. 
 
-**Charaktere heilen im Fokusmodul Kampf pro Woche eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
+**Im Fokusmodul Kampf heilen Charaktere pro Woche eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
 
 **Jede Wunde reduziert die Heilung um einen Punkt, jede kritische Wunde reduziert sie um zwei Punkte. 
 
@@ -910,35 +902,15 @@ Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit.
 
 Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS 6) also jede Woche Schaden nehmen. 
 
-
-
-
-
-
-
-
-
-
 #Heilungszeiten
 
 Ein Charakter mit durchschnittlicher KO (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP. 
 
-Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (was genügt, um die Wunde in etwas über einem Monat Reisezeit zu heilen). 
-Er kann es sich also leisten, mit Wunde zu reisen. 
-
-Mit überragender KO (18) regeneriert er ohne Wunde 12 TP pro Reisemonat, bzw. etwa 3 pro Woche, 1 TP alle zwei Tage. 
-Selbst mit kritischer Wunde heilt er noch 4 TP pro Monat auf Reisen. 
+Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (die Wunde heilt in etwas über einem Monat Reisezeit). Er kann es sich also leisten, mit Wunde zu reisen. 
 
 In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
 
 Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
-
-Hiermit können wir nun zum wirklichen Kampf übergehen. 
-
-
-
-
-
 #Nahkampf
 
 Die Regeln des Fokusmoduls Kampf stehen für den normalen Kampf in unsicherer Umgebung und ohne Regeln jeglicher Art. 
@@ -959,11 +931,6 @@ Alles Kampferschwerende geht als Malus ein.
 
 **Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe (Schadenswürfe ausgenommen). 
 
-
-
-
-
-
 ##Beispielkampf, Nahkampf
 
 *In einer Kampfarena trifft Stahlkatze auf zwei Soldaten. Er lauert in einem Gang hinter einer Säule, während sie Schritt für Schritt näher kommen. Der Erste murmelt leise etwas, dann hört der Katzenmensch die etwas schwereren Schritte des Zweiten in Armreichweite der Säule kommen. Plötzlich huscht Stahlkatze hinter der Säule hervor, seine Bewegungen nur Schemen für den ungeübten Beobachter. 
@@ -974,14 +941,6 @@ Alles Kampferschwerende geht als Malus ein.
 **Stahlkatze ist ein überragender Kämpfer (Nahkampf 18) während sein Gegner seine Waffe noch nicht in Schussposition hat und daher auf seine ungeübten Nahkampffertigkeiten vertrauen muss (Nahkampf 9). Ein kurzer vergleichender Wurf (Stahlkatze wirft eine 4, der Soldat eine 2) kommt auf (18+4)=22 für Stahlkatze und (9+2)=11 für den Soldaten. Stahlkatze trifft und die Differenz von 11 wird auf den Schaden addiert. Zusätzlich verursachen Stahlkatzes Krallen 1W6 Schaden. Er wirft eine weitere 4. Da der Soldat keine nennenswerte Rüstung trägt, erhält er damit 11+4=15 Punkte Schaden. 
 
 *Während der erste Soldat sich von dem Anblick erholt, das Blut seines Kameraden auf Boden und Wände spritzen zu sehen, verschwindet Stahlkatze im Gang, um dem sicher folgenden Bleihagel zu entgehen.    
-
-
-
-
-
-
-
-
 
 #Fernkampf
 
@@ -999,11 +958,6 @@ Jede Waffe hat drei Reichweiten: Kurz, Mittel und Weit. Für jede dieser Reichwe
 Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt werden, wodurch der Mindestwurf allerdings um weitere 6 Punkte auf 24 im Kampf bzw. 21 in Ruhe steigt. 
 
 Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (83%). 
-
-
-
-
-
 
 **Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert die effektive Entfernung je nach Fernrohr um ein bis zwei Stufen. 
 
@@ -1026,8 +980,6 @@ Mehrere Ziele:
 **- Ziel ringt mit einem Ziel, das getroffen werden kann. MW±0, aber erneuter Wurf. Bei einer ungeraden Zahl wird das andere Ziel getroffen. 
 **- Nicht zu treffendes Ziel steht teilweise in Sichtlinie: MW+3
 
-
-
 Deckung: 
 **- Ziel in 1/3-Deckung (z.B. Beine gedeckt): MW+3
 **- Ziel in 2/3-Deckung (z.B. Nur Schultern und Kopf sichtbar): MW+6
@@ -1044,40 +996,16 @@ Einige lautlose Schritte bringen Stahlkatze zur Brüstung der Wand und dort auf 
 
 *Stahlkatze erstarrt für Momente. Der Fahrer reißt eine Stachelkeule vom Boden, tritt das Motorrad los und jagt mit heulendem Motor auf den chromglänzenden Katzenmenschen zu. 
 
-
-
-
-
 *Während die Silhouette des Motorrades immer weiter wächst und das Grollen des Motors selbst das Innere der Hochhäuser zu erreichen scheint, tritt Stahlkatze einen unmerklichen Schritt zur Seite. Seine Krallen streichen über den polierten Stahl eines Wurfsterns und entlocken ihm ein zartes, stählernes Singen. Sein Blick fixiert seinen Gegner über die Stacheln des Lenkrades hinweg. 
 
 *Als ihn das Motorrad fast erreicht hat, bringen Stahlkatze zwei schnelle Schritte aus der Reichweite der Keule, und die Wurfscheibe verlässt seine Krallen auf einer tödlichen Bahn. 
 
 **Technisches: 
 **- Grund-MW: Kurz im Kampf: MW 12
-**- Angreifer bewegt sich schnell: MW+3
-**- Ziel in 1/3 Deckung (Beine hinter dem Motorrad: MW+3)
-**(d.h. der MW ist jetzt 18)
+**- Angreifer bewegt sich schnell: MW+3 => MW 15
+**- Ziel in 1/3 Deckung (Beine hinter dem Motorrad): MW+3 => MW 18
 **- Fernkampfwert von Stahlkatze: 12. 
-
-*Um zu treffen muss er eine 6 werfen, ansonsten prallt die Scheibe harmlos an den Stacheln des Motorrads ab und Stahlkatze muss sich auf einen lebensgefährlichen Nahkampf einstellen. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Um zu treffen muss er eine 6 werfen, ansonsten prallt die Scheibe harmlos an den Stacheln des Motorrads ab. 
 
 ##Schüssen ausweichen
 
@@ -1088,10 +1016,6 @@ Bei Waffen mit schnellen Projektilen (Pistolen, Laserwaffen, Blaster) beträgt d
 Bei sehr langsamen Projektilen und Wurfwaffen, oder bei langsamen Projektilen auf große Distanz, beträgt der Mindestwurf 9. Nur hier ist wirkliches Ausweichen möglich, und wahrhaft geschickte Charaktere können die Waffe vielleicht sogar fangen (SL-Entscheidung. Als Richtlinie sollte er mindestens eine 9 Punkte höhere Differenz haben als der Schütze). 
 
 Außerhalb von Kampfsituationen sind diese Mindestwürfe sowohl für den Schützen als auch für den Ausweichenden um 3 Punkte niedriger. Das heißt, ob sie im Kampf oder außerhalb des Kampfes sind, ändert hier nichts. 
-
-
-
-
 
 
 
