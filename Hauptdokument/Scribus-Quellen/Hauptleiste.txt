@@ -1,0 +1,1132 @@
+#Vorgespräch
+
+Das EWS ist ein schnelles und flexibles Regelsystem für Fantasy und Science Fiction, Cyberpunk und Pulp Action und für viele weitere Hintergründe. 
+
+Dieses Heft liefert dafür ein stabiles, freies, flexibles und minimales Fundament, auf dem andere Werke aufbauen können. Seine Regeln sind direkt spielbar und unterstützen sowohl One-Shots als auch lange Kampagnen, richten sich allerdings an erfahrene Rollenspieler. Für Neueinsteiger sind Hefte in Arbeit, die das EWS jeweils auf einen bestimmten Hintergrund zuschneiden. 
+
+Um es schlank zu halten, ist das EWS in weiten Teilen kompatibel zu Gurps® und Fudge™, so dass bereits eine breite Palette an hervorragend ausgearbeiten Zusatzregeln, Vor- und Nachteilen, Magiesystemen, Wurfmodifikatoren u.ä. existiert. Quellenmaterial zu Gurps® und Fudge™ gibt es auf den offiziellen Seiten (sjgames.com und fudgerpg.com) und auf der Webseite des EWS: 1w6.org
+(gurps.1w6.org und fudge.1w6.org). 
+
+Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwerk schlank bleibt. Jedes Modul hat einen vollen Namen und eine vier Zeichen lange Abkürzung, so dass du deinen Spielern schnell zeigen kannst, welche Module du nutzt. Unter vielen Texten findest du auszerdem Tipps, welche Module für den jeweiligen Abschnitt interessant sind. 
+
+Die meisten Module findest du auf 
+- http://module.1w6.org 
+
+<fuss>(Gurps® ist Markenzeichen von SJGames, Fudge™ von GreyGhostPress)
+
+
+#Grundlagen
+
+**Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die von den Spielerinnen frei gewählt werden können. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
+**Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (6 ist mickrig, 9 schwach, 12 durchschnitt, 15 erfahren und 18 überragend).
+
+**Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
+
+**Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9) oder höher ist als das Ergebnis des Gegners. Mindestwürfe liegen auf der gleichen Skala wie die Eigenschaften und Fertigkeiten.
+
+**Die erzielte Differenz gibt an, wie gut die Handlung bestanden wurde.
+
+#Eigenschaften
+
+Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
+
+**Jede Eigenschaft hat Werte zwischen 3 und 21, wobei menschliche Werte zwischen 6 und 18 liegen (Eigenschaften über 21 sind der Stoff für Legenden). 
+
+**12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet. 
+
+<fuss>Module: Eigenschaftsskategorien und Untereigenschaften (EigM), Kategoriesystem (KaSy). 
+
+#Fertigkeiten
+
+Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die  ihren Charakter am schönsten beschreiben. 
+
+**Die Werte von Fertigkeiten liegen wie Eigenschaftswerte zwischen mickrig und überragend. Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird (dafür müsste er mickrig oder überragend sein). 
+
+**Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt. 
+
+Beispielsweise wird ein Koch, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt. 
+
+<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14.
+#Beruf und Hintergrund
+
+Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
+
+Entfernter verwandte Fertigkeiten kann er mit einem drei Punkte niedrigeren Wert nutzen. 
+
+**Ein Beruf oder Hintergrund kostet mehr als eine Fertigkeit. Im vobsy entsprechen die Kosten eines Berufes denen einer drei Punkte höheren Fertigkeit. 
+
+**Es gibt Berufe und Hintergründe, die eine sehr große Zahl an Fertigkeiten zur Verfügung stellen. Solche Berufe kosten soviel wie normale Berufe auf einem drei Punkte höheren Wert. 
+
+Wie Fertigkeiten sind auch Berufen Eigenschaften zugeordnet, die dem Charakter einen Bonus geben können. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei beliebig gewählte, sondern es ist eine einzelne zur aktuellen Situation passende Eigenschaft. 
+
+Auch hier können Ausnahmen natürlich mit der SL und der Gruppe abgesprochen werden, wenn es zum Charakter passt, oder die Gruppe aus anderen Gründen zustimmt.  
+
+
+
+
+
+
+
+
+#Merkmale
+
+Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter sind Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr. 
+
+Sie lassen sich in etwa beschreiben als etwas, das man entweder hat oder nicht hat, und das nicht einfach durch normales Üben gelernt werden kann. 
+
+Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen. 
+
+**Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden.
+
+Ein paar Beispiele gibt es auf Seite 21. 
+
+#Kampfwerte
+
+Für Kämpfe hat ein Charakter außerdem Trefferpunkte und eine Wundschwelle. 
+
+Beide werden im Abschnitt Kampf besprochen und sind hier nur kurz erwähnt, da sie bei der Charaktererschaffung bestimmt werden. 
+
+
+
+
+
+
+
+
+
+#Einfache Proben
+
+Einfache Proben werden meist dann nötig, wenn ein Charakter versucht, etwas zu schaffen, gegen das kein aktiver Widerstand geleistet wird; es sei denn, der Erfolg ist offensichtlich. 
+
+Solche Proben kommen zum Beispiel bei Stenographie, Kochen und Bogenschießen zur Anwendung. 
+
+**Um zu sehen, ob einer Handlung Erfolg beschieden ist, wirft die Spielerin einen W6 (einen einzelnen sechsseitigen Würfel). 
+
+**Ist die Augenzahl gerade, addiert die Spielerin sie zu ihrem  Wert (zum Beispiel dem Wert ihrer  Fertigkeit Stenographie, Kochen oder Bogenschießen). 
+**Ist die Augenzahl allerdings ungerade, zieht sie die Zahl von ihrem Wert ab. 
+
+**Diese Art zu würfeln wird von nun an als ±W6 bezeichnet. 
+
+Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit der Schwierigkeit der Probe verglichen (mit dem Mindestwurf (MW)). 
+
+**Erreicht der Wert die Schwierigkeit oder liegt er darüber, dann gelingt die Probe.    
+
+**Zusätzlich gibt das Ergebnis direkt die Qualität der Handlung an (6 ist also mickrig, 18 überragend, wie auf Seite 5 beschrieben). 
+
+**Liegen Eigenschaft oder Fertigkeit bereits 6 oder mehr Punkte über der Schwierigkeit, gelingt die Probe auch ohne Wurf automatisch (Ausnahmen bestimmt die Spielleiterin). 
+
+
+
+Hat die Spielerin keine passende Fertigkeit, kann sie auf einen Beruf oder den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen. 
+
+*Beispiel: Jana, Schülerin in der 9. Klasse, zieht als "Grok, Barbar!" durchs Land. 
+*Grok ist durchschnittlich im "Gekrakel entziffern" (12), und als er vor einem Straßenschild steht, verlangt die SL eine einfache Probe (9), um das mittelreichische Gekrakel zu verstehen. Jana würfelt eine 1. Damit erreicht sie 12 - 1 = 11. Das Ergebnis ist also höher (oder gleich) 9, und  Grok findet seinen Weg zum Wirtshaus. 
+
+<fuss>Modul: Kritische Erfolge und Patzer (krit)
+
+#Wettstreite
+
+Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft auf aktiven Widerstand trifft. 
+
+**Dazu würfeln beide Beteiligten wie bei einer einfachen Probe und ihre Ergebnisse werden verglichen. Diejenige mit dem höheren Ergebnis gewinnt den Wettstreit und die Differenz der Ergebnisse gibt an, wie deutlich sie gewinnt. 
+
+**Unabhängig davon, wer gewonnen hat, zeigt die Höhe der Ergebnisse an, wie gut der jeweilige Charakter sich geschlagen hat. 
+
+Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Konkurrent einfach ein Stückchen besser ist.   
+
+<fuss>Modul: Kritische Erfolge und Patzer (krit)
+
+
+#Charaktererschaffung
+
+Bevor es wirklich an die Erschaffung geht, besprechen wir auf der nächsten Seite kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. 
+
+<fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 23 enthält einfache Konvertierungsregeln für die Kosten. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Das Charakterheft
+
+Um es dir zu erleichtern, deinem Charakter mehr Stil zu verleihen, nutzt das EWS Charakterhefte anstelle normaler Charakterblätter, also Falthefte, die du nach deinem persönlichen Geschmack erweitern kannst. 
+
+Anfangs besteht ein Charakterheft aus einer einzelnen, gefalteten DinA4-Seite, wie du sie auch in der Mitte dieses Regelwerks findest, wenn du es gekauft hast, und unter http://charhefte.1w6.org herunterladen kannst. 
+
+Die Außenseiten des Charakterheftes tragen nur storytechnische Informationen, vorne kurze Beschreibungen und viel Platz für Charakterbilder, hinten eine leere Seite für Notizen. 
+
+Jegliches regeltechnisch Relevante wurde auf die Innenseiten gepackt. Auf der rechten Seite Ausrüstung und Kurzregeln, auf der Linken Eigenschaften, Fertigkeiten, Merkmale und Kampfwerte; zusätzlich noch Größe, Gewicht, Haarfarbe u.ä. deines Charakters. 
+
+Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charaktergeschichten, Mitschriebe und Donstigesu kannst sie aber auch einfach selbst erstellen (und wenndu Lust hast auf der Seite oder im Forum posten: 
+- Webseite: http://charhefte.1w6.org
+- Forum: http://forum.1w6.org. 
+
+Am stilvollsten ist aber doch ein vollständig handgeschriebenes Charakterheft. 
+
+
+
+
+
+
+#Das vobsy
+
+Falls du schnell Charaktere erschaffen willst, die nicht von Anfang an bis ins Kleinste ausgearbeitet sein müssen, wird das vobsy dir wohl die besten Dienste leisten: Das vereinfacht objektive System. 
+
+Der erste Schritt zur Charaktererschaffung im vobsy ist die Festlegung des Machtniveaus der Charaktere. 
+
+Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die anderen sollten klar sein. Es gibt vordefiniert die folgenden Machtstufen: 
+
+- 1: In der Gosse/Spiel ganz unten
+- 2: Normale Leute
+- 3: Angehende Helden
+- 4: Erfahrene Helden
+- 5: Beweger
+- 6: Mächtige unter den Mächtigen
+- 7: Halbgötter
+
+Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher Machtstufe ihr spielen wollt. 
+
+Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen). 
+Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Spielern und der Art des Abenteuers ab. 
+
+Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. 
+In der Seitenleiste findest du eine Tabelle, die für die verschiedenen Machtniveaus die jeweilige Anzahl von Eigenschaften, Fertigkeiten, Berufen und Merkmalen enthält, die du für deinen Charakter wählen kannst. 
+
+<fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
+
+Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden. 
+
+**Daten: Ein angehender Held kann 2 starke Eigenschaften, zwei Fertigkeiten, einen Beruf und zwei positive Merkmale haben. Die Punkte können verschoben werden, wobei jeweils eine Eigenschaft zu einer Fertigkeit, einem Beruf oder einem Merkmal werden kann (und umgekehrt). 
+
+*Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein und bei Frauen Erfolg haben soll. 
+
+*Er stellt ihn sich als gewandten Menschen vor, sowohl körperlich als auch in Sprache und Stil. Natürlich soll er auch kämpfen können, und die Kunst des Flirtens ist ein Muss. Seine starken Eigenschaften findet er direkt aus seiner Beschreibung: 
+Gewandtheit und persönlichen Stil. 
+
+*Auch die beiden Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
+
+<fuss>Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen. 
+
+
+
+
+*Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm sofort klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
+
+*Das zweite Merkmal ersetzt er nach einigem Nachdenken jedoch lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
+
+*Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder. 
+
+*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. Dabei ist hier jede der gewählten Eigenschaften sehr gut, also bei 15, jede Fertigkeit durchschnittlich, also bei 12, und der Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird. 
+
+Fertigkeiten und Berufe erhalten auf diese Grundwerte einen Bonus durch zu ihnen passende Eigenschaften. 
+
+Die Einzelheiten findest Du auf der nächsten Seite.
+
+
+
+
+
+
+
+
+
+
+
+*Für jede Fertigkeit wählt Sven nun zwei passende Eigenschaften. 
+
+*Für Nahkampf wählt er Gewandtheit und persönlichen Stil, die ihm als passende starke Eigenschaften jeweils einen Punkt Bonus auf seinen Wert geben (siehe Regelteil unten), so dass er insgesamt ein guter Kämpfer ist (er kommt von 12 auf 14). 
+
+*Für die Kunst des Flirtens wählt er persönlichen Stil und Charisma, erhält also erneut 2 Punkte Bonus und beherrscht so auch die Kunst des Flirtens gut (14). 
+
+*Für seinen Beruf nimmt er je nach Situation eine andere passende Eigenschaft, so dass er jeweils einen anderen effektiven Wert haben kann. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
+
+**Die den Fertigkeiten und Berufen zugeordneten Eigenschaften geben je nach ihrer Höhe Boni. Eigenschaften mit Werten um 15 (+: 14,15,16) geben einen Punkt Bonus. Eigenschaften mit Werten um 18 (++: 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
+
+Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro. 
+
+Und damit ist Svens Charakter beinahe spielfertig. 
+
+
+
+
+
+
+
+
+
+
+**Salamon Lazaro de Aicega, 
+**Diplomat, Degenfechter und Charmeur. 
+
+**Eigenschaften: 
+**- sehr gewandt (15)
+**- persönlicher  Stil (15)
+**- sehr charismatisch (15)
+
+**Fertigkeiten: 
+**- Nahkampf (Fechtkunst): 12+2 = 14
+**- Kunst des Flirtens: 12+2 = 14
+
+**Beruf: Diplomat: 9
+
+**Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann. 
+
+*Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Trefferpunkte (siehe S. 24: Schaden, Wunden und Trefferpunkte). Da er keine passende Eigenschaft hat, verdoppelt er einfach den Durchschnittswert von 12, erhält also 24 Trefferpunkte. Die Wundschwelle liegt bei 4 (12 durch 3). Seine Ausdauer liegt wie die Trefferpunkte bei 24 (12 verdoppelt), da er auch für sie keine passende Eigenschaft hat, und als Erschöpfungsschwelle trägt er 4 ein (12/3). Diese Werte und seine Waffe erhält Larzaro noch als Zusätze: 
+
+**Trefferpunkte: 24
+**Wundschwelle: 4
+**Ausdauer: 24
+**Erschöpfungsschwelle: 4
+**Waffe: Degen; Schaden: 4. 
+
+Und hiermit ist er fertig. 
+
+
+
+
+
+
+
+
+
+Die Erschaffung von Lazaro war die einfachste Möglichkeit das vobsy zu nutzen. Es sind allerdings auch bei weitem komplexere Charaktere möglich. 
+Dabei gelten die folgenden sechs Regeln: 
+
+##1) Werte von Eigenschaften und Merkmalen
+**Im vobsy werden während der Erschaffung Werte nur durch Plusse (+) und Minusse (-) ausgedrückt. 
+**Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18 (entsprechend der Tabelle "Namen und Werte" auf Seite 5). 
+**Jedes + erhöht also den durchschnittlichen Wert von 12 um drei Punkte, jedes Minus senkt ihn um drei Punkte. 
+**Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse. 
+
+##2) Werte von Fertigkeiten und Berufen
+**Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält. 
+**Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
+**Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. 
+**Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
+
+##3) Eigenschaftsboni
+**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils Boni aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+, also 14,15,16) geben dabei einen Punkt Bonus. 
+**Eigenschaften mit Werten um 18 (++, also 17,18,19) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
+**Proben werden immer auf den Wert mit Bonus gewürfelt. 
+
+##4) Kosten in Dreiecken
+**Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
+**+: 1 Dreieck (Δ) Kosten
+**++: 3 Dreiecke (Δ) Kosten
+**+++: 6 Dreiecke (Δ)
+**++++: 10 Dreiecke (Δ)
+
+##5) Dreiecke verschieben
+**Dreiecke können verschoben werden, um andere Bereiche zu steigern. 
+**Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (z.B. Schreiber) oder ein positives Merkmal (etwa Extremverdauung) nehmen. 
+
+##6) Stärken für Schwächen
+**Eine schwache Eigenschaft (auf -) oder ein negatives Merkmal (auf -) zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
+**Also kann ein ängstlicher Charakter mit mickrigem Mut (--) eine weitere überragende (++) Eigenschaft oder drei sehr gute Eigenschaften (+) nehmen, da er für das mickrig (--) drei Dreiecke (Δ) erhält (siehe Regel 4). 
+
+<fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
+#Beispiele für Eigenschaften, Fertigkeiten und Merkmale
+
+Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen. 
+Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen: 
+
+Eigenschaften: 
+- Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
+
+- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Geschwindigkeit, Finesse, Stärke, Behendigkeit... 
+
+- Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
+
+- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
+- Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
+- Okkultes/Magisches: Spiritualität, Magischer Fluss, Seelenstärke, Widerhall, Magieresistenz, Magiepotential, Magische Begabung, Macht, Rückhall der Klänge der Welten, Rückhall der Klänge der Macht... 
+
+- Sinne: Geruchssinn, Hören, Schmecken, Tastsinn, Orientierung, Wahrnehmung...
+
+- Andere: Rang, Status, Vermögen...
+
+
+Fertigkeiten: 
+- Körper: Akrobatik, Entfessellung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben... 
+
+- Soziales: Auftreten, Beobachten, Böse gucken, Con-Überleben, Erotische Künste, Etikette, Glücksspiel, Kochen, Leute beruhigen, Leute nerven, Rollenspiele leiten, Sich ablenken, Singen, Ungebührliches Verhalten, Verführen, Verhandeln, Verhören... 
+
+- Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien... 
+
+- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie... 
+
+
+
+
+
+
+
+
+
+
+
+
+Berufe: 
+- Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde... 
+
+- Jetzt-Zeit: Bauarbeiterin, Pilotin, Gesellschafter, Kriminologe, Mechanikerin, Künstler, Kammerjägerin, Angestellte... 
+
+- Horror/Mystery: Akademikerin, Autor, Mystiker, Predigerin, Kleinkriminelle, Cop, Unterhändler, reiche Schickse... 
+
+- Cyberpunk: Schattenläuferin, Konzerncop, Hackerin, Konzernschlips, Schmuggler, Otaku... 
+
+- Science-Fiction: Raumpilotin, Marinesoldat, Xenologin, Wissenschaftler, Kolonistin, Scout, Botschafter, Weltenspringerin... 
+
+
+Hintergründe: 
+- Fantasy: Jeweilige Rasse + Beruf (Orkin, Goblin, Trollin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft... 
+
+- Jetzt-Zeit: Klassische Hausfrau, Slumgöre, Klosterbengel, reicher Schnösel, Bande / Gang...
+
+- Horror/Mystery: Geheimgesellschaft, schottische Adelsfamilie, Erbin mit Familienfluch, Leben unter falschen Freunden, Mafia, Ex-Polizistin... 
+
+- Cyberpunk: Oberschicht, Konzerner, Unterschicht, Randgruppe/Freaks... 
+
+- Science-Fiction: Außenseiterin, Letzte einer ausgestorbenen Spezies, Kolonie, Zentralwelt... 
+
+
+
+
+
+
+Merkmale: 
+- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (+3): +, Schöne Stimme (+3): +, Unsichtbar: ++, Heilen (2TP/Punkt Erschöpfung): ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Schattengestalt: ++, Mit Pflanzen sprechen: +, Altert nicht: +
+
+- Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: --- 
+
+- kleine Stärken (je 3 ergeben ein +): Unauffälligkeit, Alkoholtoleranz, Gemütsruhe, ...
+
+- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schulgleichendkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
+
+- weitere: 
+-> http://1w6.org/stichwort/merkmale
+
+Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler"). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Was bieten Beruf und Hintergrund? 
+
+Hast du schon jemals gehört, "sowas kann doch Jede" oder "es kann doch gar nicht sein, dass jemand das nicht kann"? Solche Aussagen kommen oft daher, dass diese Fertigkeit in Beruf oder Hintergrund der Person angelegt ist. 
+
+Mancher hat Eltern, die gerne Heimwerkeln, mancher lernt schon in frühen Jahren kochen und Haushaltsführung, manche lernt Wissen über Politik, oder auch über klassische Musik. All das ist der Hintergrund der Person, und es sollte entsprechend gekauft werden. 
+
+Im EWS gibt es dafür den Wert "Hintergrund", der entsprechend benannt und auf einen entsprechenden Wert gesetzt werden sollte. Denn manche hat das nicht und kann dafür vielleicht kämpfen. 
+
+Berufe liefern dagegen eine Sammlung von Fertigkeiten, die in einem Beruf genutzt und gelernt werden. Auch hier wird eine Reihe von Fertigkeiten durch einen einzelnen Wert abgedeckt. 
+
+Auf diese Art bleibt das Charakterheft schlank und enthält nur Werte, die für den Charakter und die Geschichte wirklich relevant sind. 
+
+Anmerkung: Die Regeln für Beruf und Hintergrund sind gleich, daher verwenden wir meist nur die Bezeichnung Beruf. Sie unterscheiden sich nur in ihrer Bedeutung für den Charakter. 
+
+
+
+
+
+#Kampf
+
+Das EWS ermöglicht die Behandlung von Kämpfen auf zwei verschiedene Arten. 
+
+In den Grundregeln findet sich das "Ein Wurf System", das einfach eine schnelle Bestimmung des Ausgangs von Konfrontationen ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert. 
+
+Bei Verwendung des "Ein Wurf Systems" wird ein Kampf ebenso schnell und leicht abgehandelt wie ein kurzer Bardenwettstreit, da der Kampf nicht ins Rampenlicht rückt. 
+
+Es kann daher auch als Vorlage für Regeln von vielen anderen Arten von Konfrontationen genutzt werden. 
+
+Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Fokusmodul Kampf in den Anhang dieses Heftes aufgenommen, das den Kampf ein Stückweit ins Rampenlicht rückt und ihm mehr Regelzeit gibt. 
+
+Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um seine Auswirkungen kümmern: Um Schaden, Wunden und Trefferpunkte. 
+
+<fuss>Modul: Fokusmodul Kampf (FoKa), Seite 39
+
+
+
+
+
+
+
+
+
+
+
+#Schaden: Wunden und Trefferpunkte
+
+Falls dein Charakter in Kämpfe geraten sollte (und das passiert in vielen Runden ja bekanntlich recht leicht), und auf der falschen Seite der Waffe steht, kann das zwei verschiedene Auswirkungen haben: Er kann einfach Schaden erhalten oder sich zusätzlich eine tiefe oder gar kritische Wunde zuziehen. 
+
+Um zu bestimmen, was passiert, haben Charaktere Trefferpunkte und eine Wundschwelle. 
+
+Die Trefferpunkte sind das Maß dafür, wie gut es einem Charakter körperlich noch geht. 
+
+**Sie liegen bei dem Doppelten seiner Schadensresistenz (oder einer anderen passenden Eigenschaft). 
+
+Hat ein Charakter keine passende Eigenschaft, dann liegen seine Trefferpunkte bei 24 Punkten, dem Durchschnitt. 
+
+**Die Wundschwelle liegt bei einem Drittel der Schadensresistenz, bzw. bei einem Drittel der schon für die Trefferpunkte gewählten Eigenschaft. 
+
+Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4. 
+
+Beispiel: Lazaros Erschaffung auf S. 15. 
+
+
+
+
+
+
+
+
+
+
+##Niedrige Trefferpunkte
+
+**Wenn die verbleibenden Trefferpunkte eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
+
+**Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. 
+
+**Misslingt diese Probe, so wird er handlungsunfähig. 
+
+**Wenn sie gelingt, steigt sein Malus durch niedrige TP auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
+
+**Sinken seine TP auf den Wert seiner gewählten Eigenschaft im negativen (z.B. auf -KO, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner Eigenschaft gefallen ist. Bei -2xKO (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3xKO (-36) ist der Mindestwurf 18. 
+
+**Sinken die Trefferpunkte auf oder unter das Vierfache der gewählten Eigenschaft (z.B. auf -4xKO (-48)), dann ist er unwiederbringlich tot.
+
+Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
+
+
+
+
+
+
+
+##Wunden 
+
+Erhält ein Charakter mit einem Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab. 
+
+**Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
+
+**Erhält er gar Schaden in Höhe der gewählten Eigenschaft (halbe TP), dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. 
+
+**In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
+ 
+Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
+
+Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide u.ä.. 
+
+Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken. 
+
+<fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46. 
+  
+
+
+
+
+
+
+#Heilung
+
+Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen (ansonsten wird der Charakter sich nicht lange Sorgen um den Schaden machen können). 
+
+**Charaktere heilen pro Woche Ruhe eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
+
+**Jede Wunde reduziert die Heilung um einen Punkt, jede kritische Wunde reduziert sie um zwei Punkte. 
+
+Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt. 
+
+Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. 
+
+Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS 6) also jede Woche Schaden nehmen. 
+
+
+
+
+
+
+
+
+
+
+#Heilungszeiten
+
+Ein Charakter mit durchschnittlicher KO (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP. 
+
+Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (was genügt, um die Wunde in etwas über einem Monat Reisezeit zu heilen). 
+Er kann es sich also leisten, mit Wunde zu reisen. 
+
+Mit überragender KO (18) regeneriert er ohne Wunde 12 TP pro Reisemonat, bzw. etwa 3 pro Woche, 1 TP alle zwei Tage. 
+Selbst mit kritischer Wunde heilt er noch 4 TP pro Monat auf Reisen. 
+
+In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
+
+Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
+
+
+
+
+
+
+
+#Das Ein Wurf System
+
+Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf System abgehandelt. 
+
+Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen hier genau einmal, und das Ergebnis des Kampfes steht fest. 
+
+**Dazu addiert erst jede der Spielerinnen den Durchschnittsschaden ihrer Waffe und den Schutzwert ihrer Rüstung auf den Fertigkeitswert, mit dem sie kämpft. 
+
+**Jetzt würfeln beide. Diejenige mit dem höheren Ergebnis (Wert ± Wurf) gewinnt die Konfrontation. Ihre Gegnerin ist kampfunfähig und erhält drei Wunden plus eine weitere je drei Punkte Differenz ihrer Ergebnisse. Die Gewinnerin erhält dabei drei Wunden abzüglich einer Wunde für je drei Punkte Differenz. Wenn ihr Ergebnis also 6 Punkte höher war als das ihrer Kontrahentin, erhält sie nur eine Wunde. Wenn die Gewinnerin 9 oder mehr Punkte besser war als ihre Kontrahentin, geht sie unbeschadet aus der Konfrontation hervor. 
+
+**Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 3 Meter drei Punkte, bis 9 Metern 6 Punkte und bei über 9 Metern 9 Punkte.  
+
+**Sehr langsame Waffen (Armbrust, Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
+
+In diesen Kämpfen können verschiedene Taktiken genutzt werden, die dem Ein Wurf System größere Flexibilität geben. 
+
+
+
+
+##Beispiele für Kampftaktiken
+
+- Vorsichtiger Kampf: Hierdurch erhält der Charakter, wenn er verliert, nur eine Wunde für je 3 Punkte Differenz und keine, wenn er gewinnt. Dafür hat er allerdings einen Malus von 3 Punkten auf seinen FW (Gewinnchance 1/3  statt 1/2 bei gleichstarken Gegnern). 
+
+- Um Leben und Tod: Der Charakter kämpft bis zu seinem Tod. Dafür erhält er 6 Punkte Bonus auf seinen Wurf. Sollte er verlieren, ist er allerdings unwiederbringlich tot und nicht nur kampfunfähig (5/6 Chance auf Sieg, 1/6 tot). 
+
+- Reine Flucht: Hier versucht der Charakter vor seinem Kontrahenten zu fliehen. Sollte er gewinnen, entkommt er. Sein Kontrahent erhält dabei keinen Schaden, der Fliehende selbst aber trotzdem drei Wunden abzüglich einer Wunde je drei Punkte Differenz. Wer nur zu fliehen versucht erhält 6 Punkte Bonus auf seinen FW (5/6 Chance zu entkommen). 
+Besonders hier können auch unterstützende Fertigkeiten genutzt werden. 
+
+- Unterstützende Fertigkeiten: Fertigkeiten wie Rennen, Verstecken, Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jeweils 3 Punkte über 9 einen Punkt Bonus auf den FW (mit dem vobsy: 1 Punkt pro + ).   
+
+
+
+
+
+
+
+
+
+
+
+#Hinweise zum Leiten
+
+Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System statt mit Kampfunfähigkeit und Verletzung solange niemand auf Leben und Tod kämpft. 
+
+Für manche Spielerinnen ist nebenbei die Gefangenschaft ein viel schlimmeres Schicksal als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
+
+Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen. 
+
+<fuss>Wenn dir Kämpfe mit dem Ein Wurf System zu schnell sind oder nicht genug Spannung aufbauen, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen. Sie behandeln Kämpfe bei weitem ausführlicher. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Anpassung des EWS
+
+Über die verschiedenen Module kannst du das EWS an deinen Spielstil und die Geschmäcker deiner Gruppe anpassen. 
+
+In jedem Modul findest du eine kleine Einführung, welchen Einfluss das Modul wahrscheinlich auf den Spielfluss und die Stimmung deines Spiels haben wird. 
+
+Einen Leitfaden zum Anpassen des EWS findest du auf 
+- http://anpassen.1w6.org
+
+Verschiedene Module stehen auf 
+- http://module.1w6.org
+und im Anhang des Regelwerks. 
+
+Einige verfügbare Module
+Allgemein: 
+- Kritische Erfolge und Patzer (Krit)
+- Alternative Zufallssysteme (AZul)  
+- Konflikte statt Proben (Konf)
+
+Charaktererschaffung: 
+- Kategoriesystem (KaSy)
+- Ad-Hoc Magiesysteme (AHMa)
+- Steigerung im vobsy (vost)
+
+Kampf: 
+- Martial Arts Modul (MAMo)
+- Fokusmodul Kampf (FoKa)
+- Taktische Kämpfe (TakM)
+- Initiative Modul (Init)
+
+Um schnell ein Modul zu finden, kannst du einfach das 4 Zeichen lange Kürzel in das Suchfeld auf 1w6.org eingeben. 
+
+
+
+
+
+
+
+
+
+#Anhang
+
+Im Anhang sind zwei Module abgedruckt, die für die meisten Spielrunden interessant sind, und die daher direkt im Regelwerk stehen: 
+
+- Steigerung im vobsy (vost) und das
+- Fokusmodul Kampf (FoKa). 
+
+Verschiedene Spielwelten findest du auf der Webseite des Ein Würfel Systems: 
+- http://welten.1w6.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Modul: Steigerung im vobsy (vost)
+
+Während in One-Shots und sehr kurzen Runden die Weiterentwicklung von Charakteren meist weniger wichtig ist und einfach per Absprache gemacht werden kann, nimmt sie in langen Runden oft einen wichtigen Platz ein. 
+
+Mit diesem Modul kannst du der Steigerung von Charakteren mehr Raum geben, und sie kann ein zentraler Teil des Spiels werden. 
+
+Nach jedem Spielabend (und auch während dem Spiel) kann die Spielleiterin den Charakteren Entwicklungsmöglichkeiten eröffnen, die hier einfach in Strichen abgehandelt werden. 
+Dabei sind 1 bis 3 Striche pro Spielabend durchschnittlich für normale bis heldenhafte Runden. 
+
+Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt werden, um deren Werte zu steigern. 
+
+**Für die Steigerung von Eigenschaften müssen Spielerinnen dabei pro Punkt eine Anzahl von Strichen gleich der Plusse der nächsten Schwelle aufbringen, während bei Fertigkeiten ein Strich mehr benötigt wird (also so viele Striche wie sie bei einer drei Punkte höheren Eigenschaft brauchen würden, wie es auch bei der Erschaffung im vobsy gemacht wird). 
+
+**Zur Berechnung der Kosten von Fertigkeiten wird der Grundwert genommen. 
+
+<fuss>Ein Beispiel gibt es auf S. 36 bis 38. 
+
+
+
+
+Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusammengefügt, so dass drei Striche ein Dreieck ergeben: 
+
+ ´ : Ein Strich
+ ^ : Zwei Striche
+ Δ : Drei Striche: Dreieck
+
+**Sobald alle nötigen Dreiecke gezeichnet sind, steigt die Fertigkeit auf die nächste Schwelle, d.h. Die Dreiecke werden zu Plussen und die nächste Steigerung wird teurer. 
+
+#Striche pro Abend
+
+Die passendste Anzahl von Strichen pro Abend hängt von der Länge der Kampagne und von der geplanten Entwicklungsgeschwindigkeit ab. 
+
+Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Ecken zusammen. 
+
+Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. 
+Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. 
+
+Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten. 
+
+<fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37. 
+
+
+
+
+
+#Beispielsteigerung
+
+*Kehren wir noch einmal zu Lazaro zurück. 
+
+*Er hat gerade eine längere Seefahrt heendetievon der von den fnur über die prechen weden. 
+
+*Da er die Reise um einige sehr schöne Szenen bereichert hat (vor allem an dem Abend des Festes der Grafentochter) und mehrfach in Gefahr für Leben und Freiheit geriet (wenn auch nicht durch Piraten, sondern durch die Leibwachen der genannten Dame), hat die Spielleiterin zusammen mit der restlichen Runde entschieden, ihm 4 Striche zu geben (wie auch dem reisenden Mönch für seine ausdauernden und ideenreichen Versuche, Lazaro ins Gewissen zu reden, obwohl die letztendlich die Wachen auf den Plan riefen). 
+
+*Nachdem er in diesem Abenteuer regen Kontakt mit feinen Damen genießen konnte und aus schwierigen Lagen eher durch seine flinke Zunge und seine Freunde entkommen konnte, als durch seinen Degen, entscheidet sich Lazaros Spieler Sven, sowohl Charisma, als auch die Kunst des Flirtens zu steigern. 
+
+*Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Charisma ist eine Eigenschaft, also braucht er für die Steigerung um einen Punkt zwei Striche, nämlich einen für jedes Plus der nächsten Schwelle. 
+
+*Weil er das ganze Abenteuer über immer wieder Charisma genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Ecken nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt. 
+
+
+
+
+
+
+
+
+*Die verbleibenden Striche will er nutzen, um die "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist (damit ist er mit seinen Eigenschaftsboni effektiv gut: 12+2=14), er aber noch viel besser werden will. Da die nächste Schwelle in der Kunst der Flirtens + ist (sehr gut: 15), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
+
+
+
+
+
+*Drei Wochen später, nach einem weiteren bestandenen Abenteuer (und einer unangenehmen Bekanntschaft mit den Schlägern des Verlobten der Grafentochter), sitzt die gesamte Gruppe  wieder beisammen. 
+
+*Lazaro gibt in der Schenke Lauterbach ihre  Geschichte zum Besten, während sein Spieler sich über den spannenden Spielabend freut und darüber scherzt, dass sein Charakter sich wohl auf den Adelsfesten des Landes nur noch maskiert zeigen kann, und dass der nächste Maskenball den Anfang seiner Legende formen wird. 
+
+*Da hier ein Hauptabschnitt der Geschichte endet, gibt die Spielleiterin jedem von ihnen 4 Striche, die Sven vollständig auf die Kunst des Flirtens legt, so dass sein effektiver Wert von 13+2 auf 15+2 = 17 steigt. 
+
+
+
+
+
+
+
+*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht + (sehr gut: 15) und geht auf ++ zu (überragend: 18). 
+
+**Fertigkeiten kosten damit in der Steigerung je Punkt einen Strich mehr als Eigenschaften derselben Höhe, denn sie erhalten zusätzlich zu ihrem Grundwert die Boni durch zwei passende Eigenschaften. 
+
+*Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
+
+<fuss>Ein ausführlicheres Beispiel gibt es im Netz: 
+<fuss>-> http://1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Fokusmodul: Kampf (FoKa)
+
+Kämpfe sind in den meisten Runden die letzte und stärkste Eskalation von Konflikten, und damit nehmen sie in vielen Geschichten einigen Raum ein. 
+
+Wenn du ihnen in deinen Runden mehr Spielzeit geben willst, kannst du mit diesem Modul einen Fokus auf den Kampf legen. 
+
+Das Kampfsystem des EWS ist hier grundlegend in Nahkampf und Fernkampf geteilt, die unterschiedlich abgehandelt werden. 
+
+Vor allem der Nahkampf ist sehr schnell und recht tödlich, und dein Feind kann dich auch in deinem Angriff erwischen. 
+
+<fuss>Interessante Module: 
+<fuss>- Taktische Kämpfe (TakM)
+<fuss>- Initiative Modul (Init)
+<fuss>- Martial Arts Modul (MAMo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Nahkampf
+
+Die Regeln des Fokusmoduls Kampf stehen für den normalen Kampf in unsicherer Umgebung und ohne Regeln jeglicher Art. 
+
+In einer Kampfsituation würfeln beide Kontrahenten auf ihre Kampffertigkeit. Derjenige, der den höheren Wert erzielt, trifft seinen Gegner. Bei einem Patt trifft der Angreifer. 
+
+Der Getroffene erhält Schaden in Höhe der Differenz der erzielten Werte plus dem Schadenswert der benutzten Waffe  (Schadenswürfel) abzüglich seines Rüstungsschutzes. 
+Dieser Schaden wird von seinen Trefferpunkten abgezogen. 
+
+**Schaden = Differenz + Schadenswert - Rüstungsschutz.
+
+Für schöne Beschreibungen der Aktionen und kreatives Einbeziehen der Umgebung kann die Spielleiterin bis zu 3 Punkte Bonus vergeben. 
+Alles Kampferschwerende geht als Malus ein. 
+
+**Auf Schaden beim Gegner zu verzichten gibt 6 Punkte Bonus (reine Verteidigung). 
+
+**Wenn der Charakter sich dabei zurückzieht, erhält er weitere 3 Punkte, insgesamt also 9 Punkte Bonus. 
+
+**Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe (Schadenswürfe ausgenommen). 
+
+
+
+
+
+
+##Beispielkampf, Nahkampf
+
+*In einer Kampfarena trifft Stahlkatze auf zwei Soldaten. Er lauert in einem Gang hinter einer Säule, während sie Schritt für Schritt näher kommen. Der Erste murmelt leise etwas, dann hört der Katzenmensch die etwas schwereren Schritte des Zweiten in Armreichweite der Säule kommen. Plötzlich huscht Stahlkatze hinter der Säule hervor, seine Bewegungen nur Schemen für den ungeübten Beobachter. 
+
+*Während sein Gegner die Waffe hochreißt, zucken Stahlkatzes Krallen nach dessen Hals. 
+
+**Technisches: 
+**Stahlkatze ist ein überragender Kämpfer (Nahkampf 18) während sein Gegner seine Waffe noch nicht in Schussposition hat und daher auf seine ungeübten Nahkampffertigkeiten vertrauen muss (Nahkampf 9). Ein kurzer vergleichender Wurf (Stahlkatze wirft eine 4, der Soldat eine 2) kommt auf (18+4)=22 für Stahlkatze und (9+2)=11 für den Soldaten. Stahlkatze trifft und die Differenz von 11 wird auf den Schaden addiert. Zusätzlich verursachen Stahlkatzes Krallen 1W6 Schaden. Er wirft eine weitere 4. Da der Soldat keine nennenswerte Rüstung trägt, erhält er damit 11+4=15 Punkte Schaden. 
+
+*Während der erste Soldat sich von dem Anblick erholt, das Blut seines Kameraden auf Boden und Wände spritzen zu sehen, verschwindet Stahlkatze im Gang, um dem sicher folgenden Bleihagel zu entgehen.    
+
+
+
+
+
+
+
+
+
+#Fernkampf
+
+Der Fernkampf funktioniert ähnlich wie der Nahkampf, mit dem Unterschied, dass das Ziel nicht gegen den Angriff würfelt und es für den Schützen stattdessen einen Mindestwurf gibt, der erreicht oder übertroffen werden muss, um zu treffen. 
+Während im Nahkampf ein guter Kämpfer kaum von seinem (schwächeren) Gegner erwischt wird, hängt im Fernkampf die Wahrscheinlichkeit getroffen zu werden fast nur  von den Fähigkeiten des Schützen und der Deckung des Ziels ab (von Superfähigkeiten und extremen Reflexen mal abgesehen). Schon die Shaolin sind dem zum Opfer gefallen. 
+
+Jede Waffe hat drei Reichweiten: Kurz, Mittel und Weit. Für jede dieser Reichweiten gilt ein bestimmter Mindestwurf. In Kampfsituationen sind dabei die Mindestwürfe höher, als während stressfreien Übungen. 
+
+**Die Differenz zwischen Mindestwurf und Ergebnis des Angriffswurfes wird zum Schaden der Waffe addiert. 
+
+**Fernkampf, Mindestwürfe: 
+**Kampf: Kurz: 12; Mittel: 15; Weit: 18
+**Ruhe: Kurz: 9; Mittel: 12; Weit: 15
+
+Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt werden, wodurch der Mindestwurf allerdings um weitere 6 Punkte auf 24 im Kampf bzw. 21 in Ruhe steigt. 
+
+Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (83%). 
+
+
+
+
+
+
+**Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert die effektive Entfernung je nach Fernrohr um ein bis zwei Stufen. 
+
+Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für ruhige Situationen, ein Straßenkämpfer die für den Kampf. 
+
+Zusätzlich werden die Mindestwürfe durch bestimmte Umstände modifiziert. 
+
+##Modifikatoren, Beispiele
+
+Bewegung: 
+**- Ziel bewegt sich schnell oder bewegt sich quer zur Sichtlinie: MW+3
+**- Angreifer geht während des Schießens: MW+3
+**- Angreifer rennt: MW+6
+**- Schwieriger Untergrund: MW+3
+
+Mehrere Ziele: 
+**- Ziel ist im Nahkampf mit einem Ziel, das nicht getroffen werden soll: MW+3
+**- Ziel ringt mit einem Ziel, das nicht getroffen werden soll: MW+6
+**- Ziel ist im Nahkampf mit einem Ziel, das getroffen werden kann: MW±0, aber erneuter Wurf. Bei einer 5 wird das andere Ziel getroffen. 
+**- Ziel ringt mit einem Ziel, das getroffen werden kann. MW±0, aber erneuter Wurf. Bei einer ungeraden Zahl wird das andere Ziel getroffen. 
+**- Nicht zu treffendes Ziel steht teilweise in Sichtlinie: MW+3
+
+
+
+Deckung: 
+**- Ziel in 1/3-Deckung (z.B. Beine gedeckt): MW+3
+**- Ziel in 2/3-Deckung (z.B. Nur Schultern und Kopf sichtbar): MW+6
+**- Ziel in 90% Deckung (z.B. Nur Kopf oder nur Arm sichtbar): MW+9
+**- Schütze in 2/3 Deckung (oder mehr): MW+3
+**- Schütze in 90% oder mehr Deckung (Blindschuss): MW+9
+
+##Beispielkampf, Fernkampf
+
+*Stahlkatze streift über die leeren Dächer des Hochhausghettos. Dann und wann huschen Katzen zur Seite oder erstarren mit gesträubtem Fell, wenn sein Schatten auf sie fällt. Die einzigen Geräusche sind das ferne Brummen des Straßenverkehrs  in den belebteren Teilen der Stadt und das Knacken von Beton, der nach dem Verschwinden der Sonne langsam abkühlt. 
+Einige lautlose Schritte bringen Stahlkatze zur Brüstung der Wand und dort auf eine verrostete Feuerleiter. Auf halbem Weg sieht er einige Ratten, die sich in nichts von dem Kadaver eines verhungerten Hundes abbringen lassen, ihrem Essen in dieser Nacht. 
+
+*Dann berühren Stahlkatzes Krallen den erkalteten Beton des Gehsteigs unter den riesenhaften Silhouetten der Hochhäuser. Im gleichen Moment zerreißt ein Grollen die Stille, und Stahlkatzes Blick springt die Straße herunter, zur Quelle des Lärms. In der leeren Gasse steht ein monströses stachelbewehrtes Motorrad. 
+
+*Stahlkatze erstarrt für Momente. Der Fahrer reißt eine Stachelkeule vom Boden, tritt das Motorrad los und jagt mit heulendem Motor auf den chromglänzenden Katzenmenschen zu. 
+
+
+
+
+
+*Während die Silhouette des Motorrades immer weiter wächst und das Grollen des Motors selbst das Innere der Hochhäuser zu erreichen scheint, tritt Stahlkatze einen unmerklichen Schritt zur Seite. Seine Krallen streichen über den polierten Stahl eines Wurfsterns und entlocken ihm ein zartes, stählernes Singen. Sein Blick fixiert seinen Gegner über die Stacheln des Lenkrades hinweg. 
+
+*Als ihn das Motorrad fast erreicht hat, bringen Stahlkatze zwei schnelle Schritte aus der Reichweite der Keule, und die Wurfscheibe verlässt seine Krallen auf einer tödlichen Bahn. 
+
+**Technisches: 
+**- Grund-MW: Kurz im Kampf: MW 12
+**- Angreifer bewegt sich schnell: MW+3
+**- Ziel in 1/3 Deckung (Beine hinter dem Motorrad: MW+3)
+**(d.h. der MW ist jetzt 18)
+**- Fernkampfwert von Stahlkatze: 12. 
+
+*Um zu treffen muss er eine 6 werfen, ansonsten prallt die Scheibe harmlos an den Stacheln des Motorrads ab und Stahlkatze muss sich auf einen lebensgefährlichen Nahkampf einstellen. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Schüssen ausweichen
+
+Sieht im Kampf ein Charakter einen Schützen, und hat er in dieser Runde noch nicht gehandelt, kann er versuchen auszuweichen. Dazu würfelt er mit Geschicklichkeit oder einer anderen passenden Eigenschaft oder Fertigkeit gegen einen Mindestwurf von 12, modifiziert durch die Bodenbeschaffenheit (±3). Erzielt er dabei eine höhere Differenz als der Schütze, so gelingt es ihm auszuweichen. 
+
+Bei Waffen mit schnellen Projektilen (Pistolen, Laserwaffen, Blaster) beträgt der Mindestwurf 15. Ein Erfolg bedeutet, dass der Charakter zur Seite springt, bevor der Schütze feuert. 
+
+Bei sehr langsamen Projektilen und Wurfwaffen, oder bei langsamen Projektilen auf große Distanz, beträgt der Mindestwurf 9. Nur hier ist wirkliches Ausweichen möglich, und wahrhaft geschickte Charaktere können die Waffe vielleicht sogar fangen (SL-Entscheidung. Als Richtlinie sollte er mindestens eine 9 Punkte höhere Differenz haben als der Schütze). 
+
+Außerhalb von Kampfsituationen sind diese Mindestwürfe sowohl für den Schützen als auch für den Ausweichenden um 3 Punkte niedriger. Das heißt, ob sie im Kampf oder außerhalb des Kampfes sind, ändert hier nichts. 
+
+
+
+
+
+
+
+
+
+
+
+
+#Hinweise zum Leiten
+
+Der Kampf im EWS ist schnell und tödlich. Daher sollten Spielerinnen und SL immer an stilvolle Beschreibungen denken. Vor jeder Aktion sollten die Spielerinnen beschreiben, was sie zu tun beabsichtigen ("Ich tänzle zur Seite um seinem Axthieb zu entgehen und reiße das Schwert in die Höhe, um seinen Waffenarm abzutrennen"). Dabei beschreibt erst die Angreiferin ihre Handlung, und die Verteidigerin sagt danach, wie sie darauf reagieren will. 
+
+Sobald das Ergebnis feststeht, kann entweder die Spielleiterin beschreiben was passiert oder es der Spielerin überlassen (vor allem, wenn deren Handlung Erfolg hatte).
+
+##Beispiel (nach dem Würfeln)
+
+*Spielerin: "Nachdem ich seinem Axthieb um Haaresbreite entgangen bin, pfeift mein Schwert bogenförmig vor Asgak in die Höhe. Ein freudiges Grinsen überzieht mein Gesicht während die Klinge auf seinen Arm zusaust"
+
+*SL: "Asgak keucht, als dein Schwert seinen Arm aufreißt und Muskelfasern mit lauten Krachen reißen. Hellrotes Blut pulst aus der Wunde hervor, während er die Axt fallen lässt und seine Linke auf den Schnitt presst." 
+
+*Spielerin: "Ich drücke mein Schwert gegen seine Kehle: 'Das war's für dich, Asgak. Sag uns wo Leanis steckt, oder dein Leben endet hier und jetzt.'"
+
+Wo immer es sinnvoll scheint, könnt ihr auch die Faustregel nutzen, dass 9 Punkte Differenz den Kampf entscheiden. In diesem Fall kann die Gewinnerin sich entscheiden, die Verliererin nur kampfunfähig zu machen (auf welche Art auch immer), statt sie zu verletzen oder zu töten. 
+
+#Lizenz und Epilog
+
+Das EWS steht unter der GPLv3: http://lizenz.1w6.org
+
+In einem Satz: Die GPLv3 erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die VorautorInnen genannt werden und jeder Anderen die freie Nutzung des Regelbereiches erlaubt und ermöglicht wird. 
+
+Quelldateien: http://quellen.1w6.org
+
+Es wurde erstellt von 
+© 2003 - 2008 - Arne Babenhauserheide 
+unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), Andreas Jehle (Spieler), Jens Stengel (Spieler), Achim Zien (Konf, Programmierung), Gertrud Wenzel (Coverbild), 
+...und vielen anderen: 
+- http://leute.1w6.org
+
+Außerdem mit Inspirationen aus DSA® (Fanpro), Shadowrun® (FASA), Gurps® (SJGames), Fudge™ (Grey Ghost Press), Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic), dem Weltenbuch (jccorporation) und vielen weiteren. 
+
+An dieser Stelle: Danke! 
+
+Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt. 
+
+
+<fuss>PS: Vom Autor empfohlen ab 14 Jahren. 
