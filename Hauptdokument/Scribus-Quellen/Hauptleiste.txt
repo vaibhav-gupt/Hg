@@ -498,7 +498,8 @@ Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um die
 
 
 #Auswirkungen von Verletzungen
-Wenn das Ergebnis in einem Kampf im Ein Wurf System weniger als 9 Punkte über dem des Gegners liegt, erhält der Charakter eine oder mehrere Wunden. 
+
+Charaktere können aus verschiedenen Gründen Verletzungen davontragen. Im Grundsystem werden nur Verletzungen beachtet, die schwer genug sind, um den Charakter merklich zu behindern; wir nennen sie "Wunden". Alles andere sind nur Kratzer. 
 
 **Jede einzelne Wunde erschwert alle seine Handlungen um 3 Punkte, bis sie geheilt ist. 
 
@@ -511,11 +512,11 @@ Die Zeit, bis eine Wunde geheilt ist, hängt von der Wundschwelle (WS) des Chara
 
 Das heißt, die Grundzeit in Wochen entsprecht dem Wert der Wundschwelle. Um die effektive Heilunszeit zu berechnen, wird die Grundzeit durch einen Wert geteilt, der aus Wundschwelle minus 2 besteht, durch jede Wunde um 1 gesenkt und durch die Heilungsumstände modifiziert wird. Sollte dieser Wert 0 sein, dann heilt der Charakter gar nicht, und wenn er unter 0 fällt, bekommt er Wunden dazu. 
 
-*Wenn also Lazardo mit seiner durchschnittlichen Wundschwelle von 4 eine Wunde davonträgt, dauert die Heilung der Wunde in normaler Umgebung 4 / (4-2-1) = 4 Wochen. Trägt er zwei Wochen davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, als Diplomat zu arbeiten statt sich Ruhe zu gönnen, dann siecht er langsam dahin. Seine SL wird die Wunde dann wohl irgendwann chronisch werden lassen (gesunder Menschenverstand). 
+*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 eine Wunde davonträgt, dauert die Heilung der Wunde in normaler Umgebung 4 / (4-2-1) = 4 Wochen. Trägt er zwei Wochen davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, weiter als Diplomat zu arbeiten statt sich Ruhe zu gönnen, dann siecht er langsam dahin. Seine SL wird die Wunde irgendwann wohl chronisch werden lassen (gesunder Menschenverstand). 
 
 Heilungsumstände leiten sich aus zwei Fragen her: "Was macht der Charakter?", und "Wodurch wird seine Heilung gefördert?" 
 
-Wenn ein Charakter sich Ruhe gönnt und im Bett bleibt, erhält er einen Punkt Bonus. Wenn er dagegen auf Reisen geht, bekommt er einen Malus von 1. Auf einem gewaltmarsch steigt dieser Malus auf 4, so dass Charaktere mit einer Wundschwelle unter 6 regelmäßig neue Wunden erhalten. 
+Wenn ein Charakter sich Ruhe gönnt und im Bett bleibt, erhält er einen Punkt Bonus. Wenn er dagegen auf Reisen geht, bekommt er einen Malus von 1. Auf einem Gewaltmarsch steigt dieser Malus auf 4, so dass Charaktere mit einer Wundschwelle unter 6 regelmäßig neue Wunden erhalten. 
 
 *"Grok, Barbar" hat sich bei einem Fürsten als Söldner verdungen. Als der Fürst sich entscheidet, sich an seinem Nachbarn für eine Schmähung beim Ball zu rächen, schickt er Groks Einheit auf einen mehrwöchentlichen Gewaltmarsch, um den Wald in Brand zu stecken. Grok mit seiner überragenden Konstitution (18) hält den Gewaltmarsch gut durch (6/(6-2-4) = 6/0 = keine Heilung), doch die anderen in seiner Einheit (Wundschwelle 4) erhalten alle 2 Wochen eine Wunde (4 /(4-2-4) = -2). Als Grok nach 6 Wochen alleine ankommt (mit einem Malus von 9 marschiert es sich sehr schlecht), entscheidet er sich, den Wald zu ignorieren und in der Schenke nach neuen Aufgaben zu suchen. 
 
