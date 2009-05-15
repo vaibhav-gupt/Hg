@@ -484,7 +484,7 @@ Es kann daher auch als Vorlage für Regeln von vielen anderen Arten von Konfront
 
 Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Fokusmodul Kampf in den Anhang dieses Heftes aufgenommen, das den Kampf ein Stückweit ins Rampenlicht rückt und ihm mehr Regelzeit gibt. 
 
-Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um seine Auswirkungen kümmern: Um Schaden, Wunden und Trefferpunkte. 
+Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um die Auswirkungen von Verletzungen kümmern. 
 
 <fuss>Modul: Fokusmodul Kampf (FoKa), Seite 39
 
@@ -521,129 +521,7 @@ Wenn ein Charakter sich Ruhe gönnt und im Bett bleibt, erhält er einen Punkt B
 
 Fachkundliche Behandlung gibt Boni auf die Heilung. Einfache Kräuterkunde gibt dabei einen Bonus von 1, ein modernes Krankenhaus von 2, und Science Fiction Kliniken können Boni von 6 und mehr geben. Bleiben Wunden dagegen völlig unbehandelt, kann das Mali von -1 bis -3 geben; zusätzlich zu dem Malus von 1 pro Wunde. Selbst Grok sollte also seine Wunden zumindest verbinden. 
 
-<fuss>Das System ist eine auf Wunden reduzierte Version des Heilungssystems, das im Fokusmodul Kampf (FoKa) vorgestellt wird. 
-
-
-
-
-
-
-
-#Schaden: Wunden und Trefferpunkte
-
-Falls dein Charakter in Kämpfe geraten sollte (und das passiert in vielen Runden ja bekanntlich recht leicht), und auf der falschen Seite der Waffe steht, kann das zwei verschiedene Auswirkungen haben: Er kann einfach Schaden erhalten oder sich zusätzlich eine tiefe oder gar kritische Wunde zuziehen. 
-
-Um zu bestimmen, was passiert, haben Charaktere Trefferpunkte und eine Wundschwelle. 
-
-Die Trefferpunkte sind das Maß dafür, wie gut es einem Charakter körperlich noch geht. 
-
-**Sie liegen bei dem Doppelten seiner Schadensresistenz (oder einer anderen passenden Eigenschaft). 
-
-Hat ein Charakter keine passende Eigenschaft, dann liegen seine Trefferpunkte bei 24 Punkten, dem Durchschnitt. 
-
-**Die Wundschwelle liegt bei einem Drittel der Schadensresistenz, bzw. bei einem Drittel der schon für die Trefferpunkte gewählten Eigenschaft. 
-
-Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4. 
-
-Beispiel: Lazaros Erschaffung auf S. 15. 
-
-
-
-
-
-
-
-
-
-
-##Niedrige Trefferpunkte
-
-**Wenn die verbleibenden Trefferpunkte eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
-
-**Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. 
-
-**Misslingt diese Probe, so wird er handlungsunfähig. 
-
-**Wenn sie gelingt, steigt sein Malus durch niedrige TP auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
-
-**Sinken seine TP auf den Wert seiner gewählten Eigenschaft im negativen (z.B. auf -KO, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner Eigenschaft gefallen ist. Bei -2xKO (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3xKO (-36) ist der Mindestwurf 18. 
-
-**Sinken die Trefferpunkte auf oder unter das Vierfache der gewählten Eigenschaft (z.B. auf -4xKO (-48)), dann ist er unwiederbringlich tot.
-
-Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
-
-
-
-
-
-
-
-##Wunden 
-
-Erhält ein Charakter mit einem Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab. 
-
-**Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
-
-**Erhält er gar Schaden in Höhe der gewählten Eigenschaft (halbe TP), dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. 
-
-**In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
- 
-Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
-
-Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide u.ä.. 
-
-Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken. 
-
-<fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46. 
-  
-
-
-
-
-
-
-#Heilung
-
-Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen (ansonsten wird der Charakter sich nicht lange Sorgen um den Schaden machen können). 
-
-**Charaktere heilen pro Woche Ruhe eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
-
-**Jede Wunde reduziert die Heilung um einen Punkt, jede kritische Wunde reduziert sie um zwei Punkte. 
-
-Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt. 
-
-Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. 
-
-Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS 6) also jede Woche Schaden nehmen. 
-
-
-
-
-
-
-
-
-
-
-#Heilungszeiten
-
-Ein Charakter mit durchschnittlicher KO (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP. 
-
-Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (was genügt, um die Wunde in etwas über einem Monat Reisezeit zu heilen). 
-Er kann es sich also leisten, mit Wunde zu reisen. 
-
-Mit überragender KO (18) regeneriert er ohne Wunde 12 TP pro Reisemonat, bzw. etwa 3 pro Woche, 1 TP alle zwei Tage. 
-Selbst mit kritischer Wunde heilt er noch 4 TP pro Monat auf Reisen. 
-
-In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
-
-Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
-
-
-
-
-
-
+<fuss>Das Fokusmodul Kampf (FoKa) bietet ein komplexeres (aber vollständig kompatibles) Schadens- und Heilungssystem, in dem auch Kratzer relevant sind. 
 
 #Das Ein Wurf System
 
@@ -935,6 +813,8 @@ Das Kampfsystem des EWS ist hier grundlegend in Nahkampf und Fernkampf geteilt, 
 
 Vor allem der Nahkampf ist sehr schnell und recht tödlich, und dein Feind kann dich auch in deinem Angriff erwischen. 
 
+Um höhere Komplexität zu ermöglichen, nutzt es ein feiner aufgeteiltes Schadenssystem, das zusätzlich zu Wunden auch Trefferpunkte nutzt, die mit jeder Verletzung sinken. Dadurch können auch viele kleine Verletzungen einen Charakter irgendwann zu Fall bringen. 
+
 <fuss>Interessante Module: 
 <fuss>- Taktische Kämpfe (TakM)
 <fuss>- Initiative Modul (Init)
@@ -957,6 +837,101 @@ Vor allem der Nahkampf ist sehr schnell und recht tödlich, und dein Feind kann 
 
 
 
+
+#Schaden: Wunden und Trefferpunkte
+
+Im Fokusmodul Kampf kann eine Verletzung zwei verschiedene Auswirkungen haben: Der Charakter kann einfach Schaden erhalten oder sich zusätzlich eine tiefe oder gar kritische Wunde zuziehen. 
+
+Um zu bestimmen, was passiert, haben Charaktere Trefferpunkte und eine Wundschwelle. 
+
+Die Trefferpunkte sind das Maß dafür, wie gut es einem Charakter körperlich noch geht. 
+
+**Sie liegen bei dem Wert einer anderen passenden Eigenschaft, z.B. Konstitution. 
+
+Hat ein Charakter keine passende Eigenschaft, dann liegen seine Trefferpunkte bei 12 Punkten, dem Durchschnitt. 
+
+**Die Wundschwelle liegt bei einem Drittel der schon für die Trefferpunkte gewählten Eigenschaft. 
+
+Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4. 
+
+Beispiel: Lazaros Erschaffung auf S. 15. 
+
+##Niedrige Trefferpunkte
+
+**Wenn die verbleibenden Trefferpunkte eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
+
+**Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. 
+
+**Misslingt diese Probe, so wird er handlungsunfähig. 
+
+**Wenn sie gelingt, steigt sein Malus durch niedrige TP auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
+
+**Sinken seine TP auf den Wert seiner gewählten Eigenschaft im negativen (z.B. auf -KO, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner Eigenschaft gefallen ist. Bei -2xKO (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3xKO (-36) ist der Mindestwurf 18. 
+
+**Sinken die Trefferpunkte auf oder unter das Vierfache der gewählten Eigenschaft (z.B. auf -4xKO (-48)), dann ist er unwiederbringlich tot.
+
+Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
+
+##Wunden 
+
+Erhält ein Charakter mit einem Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab. 
+
+**Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
+
+**Erhält er gar Schaden in Höhe der gewählten Eigenschaft (halbe TP), dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. 
+
+**In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
+ 
+**Von einer einzelnen Verletzung erhält ein Charakter nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde. Er erhält niemals zwei Wunden auf einmal. 
+
+Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
+
+Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide u.ä.. 
+
+Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken. 
+
+<fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46. 
+  
+
+
+#Heilung
+
+Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen (ansonsten wird der Charakter sich nicht lange Sorgen um den Schaden machen können). 
+
+**Charaktere heilen im Fokusmodul Kampf pro Woche eine Anzahl von Trefferpunkten gleich ihrer Wundschwelle minus 2. 
+
+**Jede Wunde reduziert die Heilung um einen Punkt, jede kritische Wunde reduziert sie um zwei Punkte. 
+
+Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt. 
+
+Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. 
+
+Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS 6) also jede Woche Schaden nehmen. 
+
+
+
+
+
+
+
+
+
+
+#Heilungszeiten
+
+Ein Charakter mit durchschnittlicher KO (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP. 
+
+Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (was genügt, um die Wunde in etwas über einem Monat Reisezeit zu heilen). 
+Er kann es sich also leisten, mit Wunde zu reisen. 
+
+Mit überragender KO (18) regeneriert er ohne Wunde 12 TP pro Reisemonat, bzw. etwa 3 pro Woche, 1 TP alle zwei Tage. 
+Selbst mit kritischer Wunde heilt er noch 4 TP pro Monat auf Reisen. 
+
+In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
+
+Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
+
+Hiermit können wir nun zum wirklichen Kampf übergehen. 
 
 
 
