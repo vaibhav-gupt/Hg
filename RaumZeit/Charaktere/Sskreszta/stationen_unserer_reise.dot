@@ -44,7 +44,7 @@ digraph G {
     edge [style="dashed"]
     edge [label="den Piraten folgen"] "Hibiti" -> "Hakus Paradies"
     edge [label="uns um unseren eigenen Kram kuemmern"] "Hibiti" -> "Handelsstationen"
-    edge [label="Sorgen um Ek"] "Hibiti" -> "Ek"
+    edge [label="Sorgen um Ek"] "Hibiti" -> "Ek heute"
     edge [label="???"] "Hibiti" -> "???"
     
     edge [label="" style=""]
