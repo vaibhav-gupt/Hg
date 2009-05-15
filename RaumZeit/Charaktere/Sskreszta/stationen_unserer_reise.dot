@@ -26,7 +26,13 @@ digraph G {
     edge [label="Flucht vor Systemarmee"] Ek -> P9X 
     edge [label="Transport von Lel (Berobter)"] P9X -> Unwetterplanet
     edge [label=""]
-    Unwetterplanet -> "zerstoerte Station" -> Ranos -> Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
+    Unwetterplanet -> "zerstoerte Station" -> Ranos
+    
+    edge [label="Hieramel retten"]
+    Ranos -> Styro 
+    
+    edge [label=""]
+    Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
 
     edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> Remi
     Remi -> "Hibiti" -> "Randstation im Ashar System"
