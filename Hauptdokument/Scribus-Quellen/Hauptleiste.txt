@@ -510,7 +510,8 @@ Die Zeit, bis eine Wunde geheilt ist, hängt von der Wundschwelle des Charakters
 
 Das heißt, die Grundzeit in Wochen entsprecht dem Wert der Wundschwelle des Charakters. Für die effektive Heilungszeit wird die Grundzeit durch einen Wert geteilt. Der Wert besteht aus Wundschwelle minus 2, wird durch jede Wunde um 1 gesenkt und durch die Heilungsumstände modifiziert. Sollte dieser Wert 0 sein, dann heilt der Charakter gar nicht. Wenn er unter 0 fällt, bekommt er Wunden dazu. 
 
-*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde in normaler Umgebung 4 / (4-2-1) = 4 Wochen. Trägt er zwei Wunden davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, weiter als Diplomat zu arbeiten, statt sich Ruhe zu gönnen, dann erholt er sich nie. 
+*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde in normaler Umgebung 
+*4 / (4-2-1) = 4 Wochen. Trägt er zwei Wunden davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, weiter als Diplomat zu arbeiten, statt sich Ruhe zu gönnen, dann erholt er sich nie. 
 
 Heilungsumstände leiten sich aus zwei Fragen her: "Was macht der Charakter?", und "Wie wird seine Heilung gefördert?" 
 
