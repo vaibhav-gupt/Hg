@@ -8,7 +8,7 @@ digraph G {
     // dazugestoßen 
     edge [label="Vorgeschichte"]
     Sskreszta -> Llovara -> "Forschungsstation bei Ek"
-    Kalem -> Ek
+    Kalem -> Ek -> "Forschungsstation bei Ek"
     Fox -> Ashar -> "Forschungsstation bei Ek"
     Jack -> Ranos
     Ghost -> Zatinsel 
@@ -26,7 +26,6 @@ digraph G {
     
     // Der Weg
     edge [label=""]
-    Ek -> "Forschungsstation bei Ek"
     edge [label="Flucht vor Systemarmee"] "Forschungsstation bei Ek" -> P9X 
     edge [label="Transport von Lel (Berobter)"] P9X -> Unwetterplanet
     edge [label=""]
