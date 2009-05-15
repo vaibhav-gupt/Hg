@@ -6,9 +6,9 @@ digraph G {
     
     node [shape=""]
     // dazugestoßen 
-    Sskreszta -> Ek
+    Sskreszta -> "Forschungsstation bei Ek"
     Kalem -> Ek
-    Fox -> Ek
+    Fox -> "Forschungsstation bei Ek"
     Jack -> Ranos
     Ghost -> Zatinsel 
     Antov -> Styro
@@ -23,7 +23,9 @@ digraph G {
     Antov_wieder -> Remi
     
     // Der Weg
-    edge [label="Flucht vor Systemarmee"] Ek -> P9X 
+    edge [label=""]
+    Ek -> "Forschungsstation bei Ek"
+    edge [label="Flucht vor Systemarmee"] "Forschungsstation bei Ek" -> P9X 
     edge [label="Transport von Lel (Berobter)"] P9X -> Unwetterplanet
     edge [label=""]
     Unwetterplanet -> "zerstoerte Station" -> Ranos
