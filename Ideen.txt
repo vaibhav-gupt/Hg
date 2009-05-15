@@ -1287,6 +1287,8 @@ Schwierigkeit: Wie skaliert man nach oben oder unten? -> wird zwischen Kategorie
 
 Die Grundidee habe ich bei Alea Iacta Est gefunden :)
 
+(nicht bei Wunden durch das Ein Wurf System - da wird die Frage der Kampfunfähigkeit bereits im Kampfsystem selsbt geklärt). 
+
 ------ 
 
 In Abenteuern eine Beispielgruppe nutzen und die Hintergründe der Entscheidungen 
