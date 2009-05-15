@@ -504,8 +504,6 @@ Charaktere können aus verschiedenen Gründen Verletzungen davontragen. Im Grund
 
 **Jede einzelne Wunde erschwert dabei alle seine Handlungen um 3 Punkte, bis sie geheilt ist. 
 
-**Proben auf Fertigkeiten, die auf der für die Wundschwelle genutzten Eigenschaft aufbauen, werden zusätzlich um einen weiteren Punkt pro Wunde erschwert.
-
 Die Zeit, bis eine Wunde geheilt ist, hängt von der Wundschwelle des Charakters (WS: eine für Schaden passende Eigenschaft durch 3 geteilt; durchschnittlich 4), der Anzahl Wunden und den Heilungsumständen ab.  
 
 **Die Heilung einer Wunde dauert eine Anzahl von Wochen entsprechend WS / (WS - 2 - Anzahl Wunden + Mods). Mods werden durch die Heilungsumstände gegeben. 
@@ -525,6 +523,8 @@ Heilungsumstände leiten sich aus zwei Fragen her: "Was macht der Charakter?", u
 Selbst Grok sollte also seine Wunden zumindest verbinden. 
 
 <fuss>Das Fokusmodul Kampf (FoKa) bietet ein komplexeres (aber vollständig kompatibles) Schadens- und Heilungssystem, in dem auch Kratzer relevant sind. 
+
+
 #Das Ein Wurf System
 
 Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf System abgehandelt. 
