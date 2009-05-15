@@ -7,9 +7,9 @@ digraph G {
     node [shape=""]
     // dazugestoßen 
     edge [label="Vorgeschichte"]
-    Sskreszta -> Llovara -> "Forschungsstation bei Ek"
-    Kalem -> Ek -> "Forschungsstation bei Ek"
-    Fox -> Ashar -> "Forschungsstation bei Ek"
+    Sskreszta -> "Forschungsstation bei Ek"
+    Kalem -> "Forschungsstation bei Ek"
+    Fox -> "Forschungsstation bei Ek"
     Jack -> Ranos
     Ghost -> Zatinsel 
     Antov -> Styro
