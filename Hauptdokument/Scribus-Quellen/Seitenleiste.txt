@@ -91,6 +91,7 @@ Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich m
 Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich. 
 
 
+
 #Schwierigkeit von Proben
 Die Schwierigkeiten liegen auf der selben Skala wie die Eigenschafts- und Fertigkeitswerte. 
 
@@ -313,16 +314,13 @@ Waffen und Rüstung
 +++: Bis 54 Punkte
 ++++: Bis 90 Punkte
 
+Auf S. 26 und 27 gibt es eine Liste mit Beispielwaffen und Rüstungen. 
+
 Besonderheiten erhöhen den Wert. Eine verborgene Waffe oder Rüstung zählt zweifach, Waffen mit Gift oder Waffen, die die Rüstung ignorieren, zählen dreifach. 
 
 Flächenschaden zweifach (bis etwa 5 Personen) oder vierfach (über 5 Personen). 
 
 Betäubungswaffen zählen gleich, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 30, Seitenleiste). 
-
-
-
-
-
 
 
 
@@ -352,26 +350,23 @@ Merkmal: Kein sicheres Einkommen (-)
 
 
 
-#Erschaffen in Strichen
-Um die Erschaffung flexibler zu gestalten, können die Charaktere auch mit Strichen erschaffen werden, wobei je drei Striche ein Dreieck formen. 
+# Merkmale aus Gurps® übernehmen
+Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale. 
 
-Dabei solltest du beachten, dass bereits ein Eigenschaftswert von 14 einen Punkt Bonus für Fertigkeiten gibt, das Dreieck aber erst ab dem Wert 15 vollständig ist. 
+Um Vor- und Nachteile aus Gurps als Merkmale zu nutzen, existiert eine einfache Schematik, die Kosten in Gurps auf Plusse im vobsy überträgt. 
 
-Um dir das einfacher zu merken gibt es eine Eselsbrücke: 
+Dabei entspricht ein Δ etwa 18 CP aus Gurps, und es entstehen die folgenden Werte: 
+vobsy <-> Gurps® 
++ <-> bis 18 CP
+++ <-> bis 54 CP
++++ <-> bis 108 CP
+++++ <-> bis 180 CP
 
-Die Dreiecke geben einen Bonus, sobald die Dächer  stehen, also sobald jedes Dreieck mindestens zwei Striche hat. 
+Für Nachteile gilt das gleiche Schema, nur im Negativen. 
 
-Eine ausführlichere Beschreibung der Erschaffung in Strichen gibt es im Anhang in dem Modul  Steigerung im vobsy (vost). 
-
-
-
-
-
-
-
-
-
-
+# Merkmale aus Fudge™
+Aus Fudge™ könnt ihr Merkmale übernehmen, indem ihr einfach jedes Fudge "+" oder "-" als vobsy "+" oder "-" rechnet.
+Modifikatoren auf Proben oder Werte werden dabei verdreifacht. 
 #Welche Eigenschaften für welchen Charakter? 
 Die Eigenschaften des Charakters formen die Wahrnehmung, die andere von ihm erhalten, und entsprechend sollte schon der Klang der Eigenschaften das Bild des Charakters im Geist entstehen lassen. 
 
@@ -443,24 +438,7 @@ Noch zwei Schwellen mehr kostet "Alles".
 
 
 
-# Merkmale aus Gurps® übernehmen
-Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale. 
-
-Um Vor- und Nachteile aus Gurps als Merkmale zu nutzen, existiert eine einfache Schematik, die Kosten in Gurps auf Plusse im vobsy überträgt. 
-
-Dabei entspricht ein Δ etwa 18 CP aus Gurps, und es entstehen die folgenden Werte: 
-vobsy <-> Gurps® 
-+ <-> bis 18 CP
-++ <-> bis 54 CP
-+++ <-> bis 108 CP
-++++ <-> bis 180 CP
-
-Für Nachteile gilt das gleiche Schema, nur im Negativen. 
-
-# Merkmale aus Fudge™
-Aus Fudge™ könnt ihr Merkmale übernehmen, indem ihr einfach jedes Fudge "+" oder "-" als vobsy "+" oder "-" rechnet.
-Modifikatoren auf Proben oder Werte werden dabei verdreifacht. 
-#Vorgriff: Waffenloser Kampf
+#Waffenloser Kampf
 Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf seinen Wert. 
 
 Das Gleiche gilt für den Kampf mit sehr kurzer gegen sehr lange Waffe, z.B. Dolch gegen Schwert oder Schwert gegen Lanze. 
@@ -471,61 +449,6 @@ In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spiel
 
 
 
-
-
-
-
-#Erschöpfung
-Um die Ausdauer der Charaktere und ihr Durchhaltevermögen besser einschätzen zu können, und vor allem auch für Magie, Psi und ähnliches, kann Erschöpfung mit einbezogen werden. 
-Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer anderen Eigenschaft aufbauen (die verdoppelt wird, um die Ausdauer des Charakters zu erhalten). 
-
-Die Spielerin kann sich aussuchen, welche passende Eigenschaft sie für Erschöpfung nehmen will und welche für TP. 
-
-Abzüge durch niedrige Erschöpfung werden behandelt wie bei den TP, mit der Ausnahme, dass der Charakter schon bei erreichen seiner halben Erschöpfung einen Punkt Malus erhält.   
-
-
-
-
-
-
-
-
-
-
-#Regeneration von Erschöpfung
-Normale Charaktere regenerieren pro Stunde Erschöpfungspunkte in Höhe ihrer Erschöpfungsschwelle (1/3 der gewählten Eigenschaft), also durchschnittlich 4 Punkte, das heißt einen Punkt alle 15 Minuten. 
-
-Eine Nacht Schlaf heilt im allgemeinen die Erschöpfung vollständig. 
-
-#Schaden durch Erschöpfung
-Wenn ein Charakter   Erschöpfung in Höhe der Erschöpfungsschwelle auf einen Schlag erhält, z.B. im waffenlosen Kampf, bekommt er zusätzlich einen Punkt Schaden (auf TP).  
-
-Dieser Schaden entspricht Rippenbrüchen, Zerrungen und sonstigen Folgen von Überlastung. 
-
-
-
-
-
-
-
-
-
-
-
-
-#Wunden heilen
-Wunden gelten als geheilt, sobald der Schaden der Wunde geheilt ist. Dann behindern sie zumindest nicht mehr. 
-
-Konkret bedeutet das:
-- Hat der Charakter nur eine Wunde, gilt sie als geheilt, wenn all seine Trefferpunkte (TP) geheilt sind. 
-
-- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wundschwelle abgesunken ist. 
-
-- Bei einer kritischen und einer "normalen" Wunde wird die kritische zu einer "normalen", wenn der gesamte Schaden auf zwei Wundschwellen abgesunken ist. 
-
-- Alte Wunden heilen vor neueren. 
-  
-- Eine kritische heilt allerdings vor einer alten "normalen" Wunde, bis sie selbst zu einer "Normalen" geworden ist, für den Körper also nicht mehr gefährlicher scheint als andere Wunden. 
 
 
 
@@ -772,6 +695,104 @@ Die Langform gibt es auf der Webseite des EWS:
 
 
 
+#Erschöpfung
+Um die Ausdauer der Charaktere und ihr Durchhaltevermögen besser einschätzen zu können, und vor allem auch für Magie, Psi und ähnliches, kann Erschöpfung mit einbezogen werden. 
+Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer anderen Eigenschaft aufbauen (die verdoppelt wird, um die Ausdauer des Charakters zu erhalten). 
+
+Die Spielerin kann sich aussuchen, welche passende Eigenschaft sie für Erschöpfung nehmen will und welche für TP. 
+
+Abzüge durch niedrige Erschöpfung werden behandelt wie bei den TP, mit der Ausnahme, dass der Charakter schon bei erreichen seiner halben Erschöpfung einen Punkt Malus erhält.   
+
+
+
+
+
+
+
+
+
+
+#Regeneration von Erschöpfung
+Normale Charaktere regenerieren pro Stunde Erschöpfungspunkte in Höhe ihrer Erschöpfungsschwelle (1/3 der gewählten Eigenschaft), also durchschnittlich 4 Punkte, das heißt einen Punkt alle 15 Minuten. 
+
+Eine Nacht Schlaf heilt im allgemeinen die Erschöpfung vollständig. 
+
+#Schaden durch Erschöpfung
+Wenn ein Charakter   Erschöpfung in Höhe der Erschöpfungsschwelle auf einen Schlag erhält, z.B. im waffenlosen Kampf, bekommt er zusätzlich einen Punkt Schaden (auf TP).  
+
+Dieser Schaden entspricht Rippenbrüchen, Zerrungen und sonstigen Folgen von Überlastung. 
+
+
+
+
+
+
+
+
+
+
+
+
+#Wunden heilen
+Wunden gelten als geheilt, sobald der Schaden der Wunde geheilt ist. Dann behindern sie zumindest nicht mehr. 
+
+Konkret bedeutet das:
+- Hat der Charakter nur eine Wunde, gilt sie als geheilt, wenn all seine Trefferpunkte (TP) geheilt sind. 
+
+- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wundschwelle abgesunken ist. 
+
+- Bei einer kritischen und einer "normalen" Wunde wird die kritische zu einer "normalen", wenn der gesamte Schaden auf zwei Wundschwellen abgesunken ist. 
+
+- Alte Wunden heilen vor neueren. 
+  
+- Eine kritische heilt allerdings vor einer alten "normalen" Wunde, bis sie selbst zu einer "Normalen" geworden ist, für den Körper also nicht mehr gefährlicher scheint als andere Wunden. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Treffer einstecken
 Ein Kämpfer kann sich entscheiden, seine Verteidigung fallen zu lassen und einen Treffer einzustecken. 
 
@@ -791,74 +812,34 @@ Da es einen starken Willen benötigt, einfach Treffer einzustecken, kann die SL 
 
 
 
-#Beispielwaffen: 
-(2W6 sind 2*1W6, also der gewürfelte Wert verdoppelt)
+#Gezielte Angriffe
+Ein Charkter kann jederzeit entscheiden, auf eine bestimmte Körperregion zu zielen. 
 
-Nahkampf: 
-- Stab: 2W6-5
-- Dolch: 1W3
-- Schwert: 1W6
-- Kriegshammer: 2W6
-- Doppelaxt: 2W6+2
-- Laserschwert: 36±W6
+Im Fernkampf steigt dabei der Schaden um das Doppelte der Erschwernis. 
 
-Fernkampf: 
-- Bogen: 1W6
-- Pistole: 1W6
--> 9MM: 2W6
-- Jagdgewehr: 16±W6
-- Laserpistole¹: 4/Ladung ±W6
-- Blaster²: 16±W6
-- Blastergewehr (2): 24±W6
+Im Nahkampf steigt er um das Dreifache, da sich mit der Erschwernis auch das Risiko erhöht, selbst getroffen zu werden. 
 
-¹: Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Schuss in der Energiezelle. 
+Bauch/Nieren:
+- Erschwernis: -3
+- Fern: Schaden +6
+- Nah: Schaden +9
 
-²: Militärische Versionen verursachen 1,5-fachen Schaden. Hotshot-bar für Verdopplung des Schadens aber 5-facher Verbrauch. 20 Schuss.
+Bein¹/Arm¹: 
+- Erschwernis: - 6
+- Fern: Schaden: +12
+- Nah: Schaden: +18
 
+Hand¹/Kopf: 
+- Erschwernis: - 9
+- Fern: Schaden: +18
+- Nah: Schaden: +27
 
+Kehle/Auge: 
+- Erschwernis: - 12
+- Fern: Schaden: +24
+- Nah: Schaden: +36
 
-
-
-
-
-
-
-
-#Rüstungsbeispiele: 
-
-Ledermantel: 
-- Schutz: 1-2
-- Gewicht: 4-8kg
-
-Kettenhemd:
-- Schutz: 3-5
-- Gewicht: 8-30kg
-
-Gestechrüstung: 
-- Schutz: 7
-- Gewicht: 25-60kg
-
-Kugelsichere Weste¹:
-- Schutz: 8/2
-- Gewicht: 1kg
-
-leichte Panzerung²:
-- Schutz: 20
-- Gewicht: 15kg
-
-
-¹: Gegen Kugeln 8, sonst 2. 
-
-²: Von Space Marines, Raumpatrouille und ähnlichen Science-Fiction Truppen. 
-
-
-
-
-
-
-
-
-
+¹: Schaden über einer kritischen Wunde verfällt. Die Gliedmaße ist ab. 
 
 
 
@@ -918,34 +899,88 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 
 
 
-#Gezielte Angriffe
-Ein Charkter kann jederzeit entscheiden, auf eine bestimmte Körperregion zu zielen. 
+#-
 
-Im Fernkampf steigt dabei der Schaden um das Doppelte der Erschwernis. 
 
-Im Nahkampf steigt er um das Dreifache, da sich mit der Erschwernis auch das Risiko erhöht, selbst getroffen zu werden. 
 
-Bauch/Nieren:
-- Erschwernis: -3
-- Fern: Schaden +6
-- Nah: Schaden +9
 
-Bein¹/Arm¹: 
-- Erschwernis: - 6
-- Fern: Schaden: +12
-- Nah: Schaden: +18
 
-Hand¹/Kopf: 
-- Erschwernis: - 9
-- Fern: Schaden: +18
-- Nah: Schaden: +27
 
-Kehle/Auge: 
-- Erschwernis: - 12
-- Fern: Schaden: +24
-- Nah: Schaden: +36
 
-¹: Schaden über einer kritischen Wunde verfällt. Die Gliedmaße ist ab. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
