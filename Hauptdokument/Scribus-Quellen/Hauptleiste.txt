@@ -526,6 +526,8 @@ Selbst Grok sollte also seine Wunden zumindest verbinden.
 <fuss>Das Fokusmodul Kampf (FoKa) bietet ein komplexeres (aber vollständig kompatibles) Schadens- und Heilungssystem, in dem auch Kratzer relevant sind. 
 
 
+
+
 #Das Ein Wurf System
 
 Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf System abgehandelt. 
