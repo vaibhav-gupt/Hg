@@ -75,8 +75,8 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 12 Durchschnittlich
 13 Über Durchschnitt
 ------
-14 Routiniert
-15 Erfahren
+14 Routiniert/Gut
+15 Erfahren/Sehr Gut
 16 Extrem Gut
 ------
 17 Ausgezeichnet
@@ -97,7 +97,7 @@ Die Schwierigkeiten liegen auf der selben Skala wie die Eigenschafts- und Fertig
 
 Beschreibungen der Schwierigkeit für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12), also die effektive Schwierigkeit von Mindestwürfen, stehen in der Seitenspalte "Mindestwürfe" auf der nächsten Seite.
 
-Module zu Proben: Kritische Erfolge und Patzer (Krit). 
+<fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit). 
 
 
 
@@ -125,6 +125,7 @@ Schwierigkeiten und Erfolgswahrscheinlichkeiten für einen Charakter mit durchsc
 
 MW: Name (Chance)
 
+- 6: routine (100%)
 - 9: einfach (83%)
 - 12: fordernd (50%)
 - 15: schwer (33%)
@@ -133,7 +134,6 @@ MW: Name (Chance)
 Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9). 
 
 Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder haben recht niedrige Erfolgs- oder Überlebensraten.
-
 
 
 
