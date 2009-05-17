@@ -229,7 +229,7 @@ Die Charaktere sind schwächer als die Menschen, denen wir täglich begegnen.
 Es ist deutlich, dass sie das Zeug zum Helden (oder Schurken) haben, aber noch spielen sie in einer anderen Klasse. 
 
 - Erfahrene Helden: 
-Die Charaktere gehören zu den mächtigeren Personen in der Hintergrundwelt und können sich auch mit wirklich gefährlichen Personen anlegen. 
+Die Charaktere gehören zu den mächtigeren Personen in der Hintergrundwelt und haben meistens die Mittel und Wege, ihren Willen durchzusetzen. 
 
 - Beweger: 
 Die Charaktere können über das Schicksal ihres Landes mitentscheiden.
@@ -248,8 +248,8 @@ Schema:
 Eigenschaften, Fertigkeiten|Beruf /  Hintergrund, Merkmale. 
 (Eig, Fert|Ber, Merk)
 
-Δ ist eine Steigerung
-- ist eine Schwächung
+Δ ist ein starker Wert
+- ist eine Schwäche
 
 1: In der Gosse/Spiel ganz unten: 
 (1-, 1Δ, 1-)
@@ -299,16 +299,24 @@ Sind  die persönlichen Gegenstände Alltagsgegenstände, kann die SL mit den Sp
 
 Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächste Seitenleiste). 
 
-Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig. 
+Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persoenliche Gegenstaende gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig. 
 
 Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe. 
+
+
+
+
+
+
+
+
+
 
 
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird. 
 
-Waffen und Rüstung
-(Kosten: Wert): 
+Liste (Kosten: Wert): 
 +: Bis 9 Punkte Schaden + Rüstung
 ++: Bis 27 Punkte
 +++: Bis 54 Punkte
@@ -321,14 +329,6 @@ Besonderheiten erhöhen den Wert. Eine verborgene Waffe oder Rüstung zählt zwe
 Flächenschaden zweifach (bis etwa 5 Personen) oder vierfach (über 5 Personen). 
 
 Betäubungswaffen zählen gleich, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 30, Seitenleiste). 
-
-
-
-
-
-
-
-
 
 
 
@@ -404,7 +404,7 @@ Auf ähnliche Art kann nicht Jede Auto fahren oder Bogen schießen, doch da beid
 
 
 #Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
-Als Faustregel zur Unterscheidung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn fast durchschnittlich zu können (Effektivwert 11). 
+Als Faustregel zur Unterscheidung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn maeszig zu können (Effektivwert 10). 
 
 Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14). 
 
@@ -431,7 +431,7 @@ Beispiele sind Friedensstifter, Entwicklungshelfer und Geheimagent.
 Noch zwei Schwellen mehr kostet "Alles". 
 
 *Beispiel: Taban ist seit 5 Jahren Entwicklungshelferin im Heimatland ihrer Eltern. 
-*Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grund-legende Selbstverteidi-gung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut. 
+*Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grund-legende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut. 
 *All diese Fertigkeiten sind durch ihren breiten Beruf abgedeckt: 
 **+: Entwicklungshelferin: 
 **	6 (8)
