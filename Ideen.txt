@@ -1638,6 +1638,6 @@ erhalten :)
 
 ------ 
 
-Die langen Beispiele im Fokusmodul Kampf (FoKa) können vielleicht in die Seitenleiste.
+Die langen Beispiele im Fokusmodul Kampf (FoKa) kÃ¶nnen vielleicht in die Seitenleiste.
 
 ------ 
