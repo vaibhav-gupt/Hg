@@ -528,10 +528,13 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Sehr langsame Waffen (Armbrust, Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
 
+*"Grok, Barbar" steht dem Leibwaechter eines Haendlers gegenueber, der ihm verschimmeltes Essen verkauft hat. Grok greift an. 
+
+*Seine Spielerin Jana addiert also den Schaden seiner Waffe (Schwert: 4) und seine Ruestung (0) zu seiner Fertigkeit (Erfahren: 15) und erhaelt 19. Die SL addiert den Dolch (2) und die Straszenkleidung (0) des Leibwaechters (ein Straszenschlaeger) zu dessen Fertigkeit (Schwach: 9) und erhaelt 11. Nun wuerfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 19+4=23 und der Leibwaechter auf 11+2=13. Die Differenz ist 10, also bleibt Grok unverletzt und der Leibwaechter geht mit 6 Wunden zu Boden.
+
+*Dann wendet sich Grok dem Haendler zu. Er bekommt Rabatt.  
+
 In diesen Kämpfen können verschiedene Taktiken genutzt werden, die dem Ein Wurf System größere Flexibilität geben. 
-
-
-
 
 ##Beispiele für Kampftaktiken
 
@@ -545,15 +548,6 @@ Besonders hier können auch unterstützende Fertigkeiten genutzt werden.
 - Unterstützende Fertigkeiten: Fertigkeiten wie Rennen, Verstecken, Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jeweils 3 Punkte über 9 einen Punkt Bonus auf den FW (mit dem vobsy: 1 Punkt pro + ).   
 
 
-
-
-
-
-
-
-
-
-
 #Hinweise zum Leiten
 
 Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System statt mit Kampfunfähigkeit und Verletzung solange niemand auf Leben und Tod kämpft. 
@@ -562,30 +556,11 @@ Für manche Spielerinnen ist nebenbei die Gefangenschaft ein viel schlimmeres Sc
 
 Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen. 
 
+In einigen klassischen Abenteuergeschichten koennen die recht realistischen Heilungszeiten, und damit die lange Behinderung durch Wunden, die Handlung unnoetig aufhalten. 
+
+Sollte das bei euch so sein, kannst du entweder eine einfache Moeglichkeit der direkten Handlung einfuehren (z.B. Medkits oder Heilzauber) oder das Heilungssystem anpassen. Denk daran, dass es euer Spiel ist. Wenn euch irgendwas stoert, dann aendert es einfach. 
+
 <fuss>Wenn dir Kämpfe mit dem Ein Wurf System zu schnell sind oder nicht genug Spannung aufbauen, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen. Sie behandeln Kämpfe bei weitem ausführlicher. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #Anpassung des EWS
