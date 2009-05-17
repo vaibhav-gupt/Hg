@@ -140,7 +140,7 @@ Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messersteche
 
 Nachdem wir jetzt wissen, die das ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Die erschaffung der Charaktere. Auf der nächsten Seite besprechen wir dafür kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. Danach werden wir die Stärke der Charaktere wählen und ihnen Werte geben, um ihre Fähigkeiten festzulegen. 
 
-<fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 23 enthält einfache Konvertierungsregeln für die Kosten. 
+<fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 17 enthält einfache Konvertierungsregeln für die Kosten. 
 
 
 
@@ -174,11 +174,11 @@ Um es dir zu erleichtern, deinem Charakter mehr Stil zu verleihen, nutzt das EWS
 
 Anfangs besteht ein Charakterheft aus einer einzelnen, gefalteten DinA4-Seite, wie du sie auch in der Mitte dieses Regelwerks findest, wenn du es gekauft hast, und unter http://charhefte.1w6.org herunterladen kannst. 
 
-Die Außenseiten des Charakterheftes tragen nur storytechnische Informationen, vorne kurze Beschreibungen und viel Platz für Charakterbilder, hinten eine leere Seite für Notizen. 
+Die Außenseiten des Charakterheftes tragen nur storytechnische Informationen, vorne kurze Beschreibungen und viel Platz für Charakterbilder, hinten eine leere Seite für deine Notizen. 
 
 Jegliches regeltechnisch Relevante wurde auf die Innenseiten gepackt. Auf der rechten Seite Ausrüstung und Kurzregeln, auf der Linken Eigenschaften, Fertigkeiten, Merkmale und Kampfwerte; zusätzlich noch Größe, Gewicht, Haarfarbe u.ä. deines Charakters. 
 
-Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charaktergeschichten, Mitschriebe und Donstigesu kannst sie aber auch einfach selbst erstellen (und wenndu Lust hast auf der Seite oder im Forum posten: 
+Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charaktergeschichten, Mitschriebe und sonstiges geben. Du kannst sie aber auch einfach selbst erstellen und wenn du Lust hast auf der Seite oder im Forum posten: 
 - Webseite: http://charhefte.1w6.org
 - Forum: http://forum.1w6.org. 
 
@@ -189,28 +189,28 @@ Am stilvollsten ist aber doch ein vollständig handgeschriebenes Charakterheft.
 
 
 
-#Das vobsy
+#Die Erschaffung
 
-Falls du schnell Charaktere erschaffen willst, die nicht von Anfang an bis ins Kleinste ausgearbeitet sein müssen, wird das vobsy dir wohl die besten Dienste leisten: Das vereinfacht objektive System. 
-
-Der erste Schritt zur Charaktererschaffung im vobsy ist die Festlegung des Machtniveaus der Charaktere. 
+Der erste Schritt zur Charaktererschaffung ist die Festlegung des Machtniveaus der Charaktere. Dadurch legt ihr fest, wieviele Punkte ihr fuer die Erschaffung zur Verfuegung habt. 
 
 Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die anderen sollten klar sein. Es gibt vordefiniert die folgenden Machtstufen: 
 
-- 1: In der Gosse/Spiel ganz unten
-- 2: Normale Leute
-- 3: Angehende Helden
-- 4: Erfahrene Helden
-- 5: Beweger
-- 6: Mächtige unter den Mächtigen
-- 7: Halbgötter
+- In der Gosse/Spiel ganz unten (-1)
+- Normale Leute (4)
+- Angehende Helden (7)
+- Erfahrene Helden (11)
+- Beweger (16)
+- Mächtige unter den Mächtigen (24)
+- Halbgötter (40)
 
-Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher Machtstufe ihr spielen wollt. 
+Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher der Machtstufen ihr spielen wollt. 
 
 Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen). 
+
 Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Spielern und der Art des Abenteuers ab. 
 
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. 
+
 In der Seitenleiste findest du eine Tabelle, die für die verschiedenen Machtniveaus die jeweilige Anzahl von Eigenschaften, Fertigkeiten, Berufen und Merkmalen enthält, die du für deinen Charakter wählen kannst. 
 
 <fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
@@ -222,7 +222,7 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein und bei Frauen Erfolg haben soll. 
 
 *Er stellt ihn sich als gewandten Menschen vor, sowohl körperlich als auch in Sprache und Stil. Natürlich soll er auch kämpfen können, und die Kunst des Flirtens ist ein Muss. Seine starken Eigenschaften findet er direkt aus seiner Beschreibung: 
-Gewandtheit und persönlichen Stil. 
+*Gewandtheit und persönlichen Stil. 
 
 *Auch die beiden Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
 
@@ -231,37 +231,25 @@ Gewandtheit und persönlichen Stil.
 
 
 
-*Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm sofort klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
+*Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
 
 *Das zweite Merkmal ersetzt er nach einigem Nachdenken jedoch lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
 
 *Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder. 
 
-*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. Dabei ist hier jede der gewählten Eigenschaften sehr gut, also bei 15, jede Fertigkeit durchschnittlich, also bei 12, und der Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird. 
+*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. 
 
-Fertigkeiten und Berufe erhalten auf diese Grundwerte einen Bonus durch zu ihnen passende Eigenschaften. 
+In jeder der hier gewählten Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durchschnittlich, also bei 12, und im Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
 
-Die Einzelheiten findest Du auf der nächsten Seite.
+*Für jede der Fertigkeiten wählt Sven nun zwei passende Eigenschaften. 
 
+**Die den Fertigkeiten und Berufen zugeordneten Eigenschaften geben ihnen je nach ihrer Höhe Boni. Eigenschaften mit Werten um 15 (+: 14,15,16) geben einen Punkt Bonus. Eigenschaften mit Werten um 18 (++: 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
 
-
-
-
-
-
-
-
-
-
-*Für jede Fertigkeit wählt Sven nun zwei passende Eigenschaften. 
-
-*Für Nahkampf wählt er Gewandtheit und persönlichen Stil, die ihm als passende starke Eigenschaften jeweils einen Punkt Bonus auf seinen Wert geben (siehe Regelteil unten), so dass er insgesamt ein guter Kämpfer ist (er kommt von 12 auf 14). 
+*Für Nahkampf wählt er Gewandtheit und persönlichen Stil, die ihm als passende starke Eigenschaften jeweils einen Punkt Bonus auf seinen Wert geben, so dass er insgesamt ein guter Kämpfer ist (er kommt von 12 auf 14). 
 
 *Für die Kunst des Flirtens wählt er persönlichen Stil und Charisma, erhält also erneut 2 Punkte Bonus und beherrscht so auch die Kunst des Flirtens gut (14). 
 
 *Für seinen Beruf nimmt er je nach Situation eine andere passende Eigenschaft, so dass er jeweils einen anderen effektiven Wert haben kann. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
-
-**Die den Fertigkeiten und Berufen zugeordneten Eigenschaften geben je nach ihrer Höhe Boni. Eigenschaften mit Werten um 15 (+: 14,15,16) geben einen Punkt Bonus. Eigenschaften mit Werten um 18 (++: 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
 
 Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro. 
 
@@ -291,12 +279,9 @@ Und damit ist Svens Charakter beinahe spielfertig.
 
 **Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann. 
 
-*Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Trefferpunkte (siehe S. 24: Schaden, Wunden und Trefferpunkte). Da er keine passende Eigenschaft hat, verdoppelt er einfach den Durchschnittswert von 12, erhält also 24 Trefferpunkte. Die Wundschwelle liegt bei 4 (12 durch 3). Seine Ausdauer liegt wie die Trefferpunkte bei 24 (12 verdoppelt), da er auch für sie keine passende Eigenschaft hat, und als Erschöpfungsschwelle trägt er 4 ein (12/3). Diese Werte und seine Waffe erhält Larzaro noch als Zusätze: 
+*Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Wundschwelle. Da er keine passende Eigenschaft hat, nimmt er einfach ein drittel des Durchschnittswerts von 12, erhält also eine Wundschwelle von 4. Diesen Wert und seine Waffe erhält Larzaro noch als Zusätze: 
 
-**Trefferpunkte: 24
 **Wundschwelle: 4
-**Ausdauer: 24
-**Erschöpfungsschwelle: 4
 **Waffe: Degen; Schaden: 4. 
 
 Und hiermit ist er fertig. 
@@ -309,13 +294,18 @@ Und hiermit ist er fertig.
 
 
 
-Die Erschaffung von Lazaro war die einfachste Möglichkeit das vobsy zu nutzen. Es sind allerdings auch bei weitem komplexere Charaktere möglich. 
+
+
+
+
+
+Die Erschaffung von Lazaro war die einfachste Möglichkeit Charaktere zu erschaffen. Es sind allerdings auch bei weitem komplexere Charaktere möglich. 
 Dabei gelten die folgenden sechs Regeln: 
 
 ##1) Werte von Eigenschaften und Merkmalen
-**Im vobsy werden während der Erschaffung Werte nur durch Plusse (+) und Minusse (-) ausgedrückt. 
+**Während der Erschaffung werden Werte nur durch Plusse ("+") und Minusse ("-") ausgedrückt. 
 **Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18 (entsprechend der Tabelle "Namen und Werte" auf Seite 5). 
-**Jedes + erhöht also den durchschnittlichen Wert von 12 um drei Punkte, jedes Minus senkt ihn um drei Punkte. 
+**Jedes "+" erhöht also den durchschnittlichen Wert von 12 um drei Punkte, jedes Minus senkt ihn um drei Punkte. 
 **Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse. 
 
 ##2) Werte von Fertigkeiten und Berufen
@@ -325,12 +315,12 @@ Dabei gelten die folgenden sechs Regeln:
 **Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
 
 ##3) Eigenschaftsboni
-**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils Boni aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+, also 14,15,16) geben dabei einen Punkt Bonus. 
+**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+, also 14,15,16) geben dabei einen Punkt Bonus. 
 **Eigenschaften mit Werten um 18 (++, also 17,18,19) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
 **Proben werden immer auf den Wert mit Bonus gewürfelt. 
 
-##4) Kosten in Dreiecken
-**Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
+##4) Kosten
+**Kosten fuer Werte werden in Dreiecken ausgedrueckt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
 **+: 1 Dreieck (Δ) Kosten
 **++: 3 Dreiecke (Δ) Kosten
 **+++: 6 Dreiecke (Δ)
@@ -341,8 +331,8 @@ Dabei gelten die folgenden sechs Regeln:
 **Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (z.B. Schreiber) oder ein positives Merkmal (etwa Extremverdauung) nehmen. 
 
 ##6) Stärken für Schwächen
-**Eine schwache Eigenschaft (auf -) oder ein negatives Merkmal (auf -) zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
-**Also kann ein ängstlicher Charakter mit mickrigem Mut (--) eine weitere überragende (++) Eigenschaft oder drei sehr gute Eigenschaften (+) nehmen, da er für das mickrig (--) drei Dreiecke (Δ) erhält (siehe Regel 4). 
+**Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
+**Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine weitere überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Dreiecke (Δ) erhält (siehe Regel 4). 
 
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
@@ -350,7 +340,7 @@ Dabei gelten die folgenden sechs Regeln:
 Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen. 
 Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen: 
 
-Eigenschaften: 
+##Eigenschaften: 
 - Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
 
 - Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Geschwindigkeit, Finesse, Stärke, Behendigkeit... 
@@ -358,7 +348,12 @@ Eigenschaften:
 - Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
 
 - Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
+
+
+
+
 - Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
+
 - Okkultes/Magisches: Spiritualität, Magischer Fluss, Seelenstärke, Widerhall, Magieresistenz, Magiepotential, Magische Begabung, Macht, Rückhall der Klänge der Welten, Rückhall der Klänge der Macht... 
 
 - Sinne: Geruchssinn, Hören, Schmecken, Tastsinn, Orientierung, Wahrnehmung...
@@ -366,7 +361,7 @@ Eigenschaften:
 - Andere: Rang, Status, Vermögen...
 
 
-Fertigkeiten: 
+##Fertigkeiten: 
 - Körper: Akrobatik, Entfessellung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben... 
 
 - Soziales: Auftreten, Beobachten, Böse gucken, Con-Überleben, Erotische Künste, Etikette, Glücksspiel, Kochen, Leute beruhigen, Leute nerven, Rollenspiele leiten, Sich ablenken, Singen, Ungebührliches Verhalten, Verführen, Verhandeln, Verhören... 
@@ -386,7 +381,7 @@ Fertigkeiten:
 
 
 
-Berufe: 
+##Berufe: 
 - Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde... 
 
 - Jetzt-Zeit: Bauarbeiterin, Pilotin, Gesellschafter, Kriminologe, Mechanikerin, Künstler, Kammerjägerin, Angestellte... 
@@ -398,7 +393,7 @@ Berufe:
 - Science-Fiction: Raumpilotin, Marinesoldat, Xenologin, Wissenschaftler, Kolonistin, Scout, Botschafter, Weltenspringerin... 
 
 
-Hintergründe: 
+##Hintergründe: 
 - Fantasy: Jeweilige Rasse + Beruf (Orkin, Goblin, Trollin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft... 
 
 - Jetzt-Zeit: Klassische Hausfrau, Slumgöre, Klosterbengel, reicher Schnösel, Bande / Gang...
@@ -414,14 +409,14 @@ Hintergründe:
 
 
 
-Merkmale: 
-- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (+3): +, Schöne Stimme (+3): +, Unsichtbar: ++, Heilen (2TP/Punkt Erschöpfung): ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Schattengestalt: ++, Mit Pflanzen sprechen: +, Altert nicht: +
+##Merkmale: 
+- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (+3): +, Schöne Stimme (+3): +, Unsichtbar: ++, Heilen (2TP/Punkt Erschöpfung): ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Altert nicht: +
 
 - Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: --- 
 
 - kleine Stärken (je 3 ergeben ein +): Unauffälligkeit, Alkoholtoleranz, Gemütsruhe, ...
 
-- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schulgleichendkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
+- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schuldkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
 
 - weitere: 
 -> http://1w6.org/stichwort/merkmale
@@ -462,7 +457,9 @@ Anmerkung: Die Regeln für Beruf und Hintergrund sind gleich, daher verwenden wi
 
 #Kampf
 
-Das EWS ermöglicht die Behandlung von Kämpfen auf zwei verschiedene Arten. 
+Da ihr nun Charaktere habt, werdet ihr vermutlich auf Abenteuer ausziehen. Erfahrungsgemaesz wird es dabei nicht lange dauern, bis euch jemand gegenuebersteht, der sich nicht mit Worten ueberzeugen laesst (oder ihr wollt euch nicht ueberzeugen lassen). Wenn dann jemand zu anderen Mitteln greift, braucht ihr wohl Kampfregeln. 
+
+Das EWS ermöglicht das Ausspielen von Kämpfen auf zwei verschiedene Arten. 
 
 In den Grundregeln findet sich das "Ein Wurf System", das einfach eine schnelle Bestimmung des Ausgangs von Konfrontationen ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert. 
 
