@@ -45,7 +45,7 @@ digraph G {
     
     // Wie es weitergehen koennte. 
     edge [style="dashed"]
-    edge [label="uns um unseren eigenen Kram kuemmern"] "Hakus paradies" -> "Handelsstationen"
+    edge [label="uns um unseren eigenen Kram kuemmern"] "Hakus Paradies" -> "Handelsstationen"
     edge [label="Sorgen um Ek"] "Hakus Paradies" -> Ek
     edge [label="Schiff aufruesten"] "Hakus Paradies" -> Styro
     edge [label="???"] "Hakus Paradies" -> "???"
