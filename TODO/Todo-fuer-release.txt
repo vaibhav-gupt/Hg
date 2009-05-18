@@ -1,0 +1,38 @@
+2.4.0: 
+- bisher Korrekturen von Andi: 
+
+1.) kurz erklären was in den Seitenbereichen steht und wofür die verschiedenen Schriftarten stehen. --- fertig
+2.) eventuell kursive schrift für Beispiele --- wird mit *Beispiel* ausgedrückt. Regeln ab jetzt mit **Regel** (also fett; wenn da zu viel Fettdruck ist, dann ist die Regeldichte zu hoch :) )
+3.) Seite 5 vobsy wird ohne Erklärung verwendet - weglassen, erklären (eventuell mit Verweis) ---- entfernt
+4.) warum fehlt auf Seite 5 im seitlichen Bereich die Stufe 7,8, 19,20,22,23 ?  Die - bzw + müssen erklärt werden --- ich habe den Bereich auf 9 bis 18 beschränkt; das ist der Bereich, der im Spiel mit nur den Grundregeln wirklich wichtig werden sollte. Die + und - habe ich entfernt - sie lenken von der Hauptaussage ab: "Die Werte haben Namen". 
+5.) Warum wird die Rundung in EWS auf Seite 6 erklärt ? (ich sehe keinen Zusammenhang, würde es entweder später bei Trefferpunkten - wo man es braucht oder z.b. am Anfang in einem extra Bereich schreiben) --- stimmt. Rundung brauchen wir eigentlich nicht erklären, da immer echt gerundet wird. 
+6.) Kleinigkeit auf Seite 13 4. Abschnitt: "...Dabei ist hier jede Eigenschaft sehr gut,..." ich würde schreiben "...jede DER GEWÄHLTEN Eigenschaften sehr gut,..." --- klingt deutlich sauberer; ist drin. 
+7.) Seite 16 & 17 sind schwer verständlich. --- mit dem größeren Abstand den ich inzwischen habe merke ich das jetzt auch - ich habe versucht sie eifnacher verständlich zu machen. 
+
+7.1) Seite 16 zweiter absatz "Plusse..." würde ich z.b. "Abweichungen vom Grundwert 12 bei Eigenschaften und Ferigkeiten, werdem im vobsy..." schreiben. --- Ich habe den Bereich gleich komplett umstrukturiert. Ich hoffe er ist jetzt verständlicher. 
+7.2) eventuell wäre es hilfreich statt dem  Beruf / Einkommen text die Namen und Werte Tabelle von S.5 hier seitlich unterzubringen
+7.3) S.16 3.Absatz "Die Steigerung... kostet genau so viele Dreiecke, wie der erreichte Wert beträgt" ssehr verwirrend, denn Stufe 15 kostet nicht 15 Dreiecke. Wie viele es kostet wird nicht ganz klar, ich bin mir nicht sicher ob du 15 kostet 1 Dreieck meinst (ist ja in der Kategorie +) - dann wäre aber 16 gleichteuer ?! oder ob 15 zwei kostet, da ja jede Stufe im bereich (+) ein Dreieck kostet ?!Auf Seite 13 wird zwar gesagt ein Dreieck, aber warum darf ich dann nicht gleich 16 nehmen, hat ja auch nur (+) dahinter stehen ?! --- noch ein Grund warum die "+"e und "-"e aus der Tabelle "Namen und Werte" wegmüssen :) 
+7.4) Allgemein solltest DU vielleicht öfter den Begriff Schwelle (den du im Fertigkeitenabsatz benutzt) verwenden. --- versuche ich... 
+7.5) Seite 17 3.Absatz "...gibt ein zusätzliches + in diesem Bereich."Sollte meinem Verständnis nach entweder "...zusätzliches Dreieck in diesem Bereich." oder "...zusätzliche Eigenschaft auf (+) Niveau in diesem Bereich." lauten. --- habe das Dreieck übernommen. Ich glaube das zeigt die Kostenregel deutlicher. 
+
+
+2.0.9: 
+- Versionsnummer auf 2.2 erhöhen. 
+
+Erledigt: 
+
+- GPL Faltblatt überarbeiten: Anfangszeile, GPL Logo, Textstil unten. 
+
+2.0.9: 
+- Korrekturen von Achim Zien eingepflegt. 
+- Korrekturen von Jens Stengel eingepflegt. 
+- Korrekturen von Arne Babenhauserheide und Roland eingepflegt.
+- Korrekturlesen. 
+- Seitenleiste (farblich) hervorheben. 
+- Regelteile mit anderem Aussehen.
+- Statt Bilder zur Steigerung direkt die Scribus Elemente aus dem Charheft kopieren.
+- Infos zu Modulen mit dem Stil "Kleine Fußzeile". 
+- Manuelle Silbentrennung, Seitenleiste. 
+- Manuelle Silbentrennung, Haupttext. 
+- Release auf der Webseite (v2.1.9). -> http://1w6.org/deutsch/regeln/quellen/ews-v219-letzte-beta
+
