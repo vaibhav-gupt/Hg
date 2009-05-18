@@ -40,14 +40,15 @@ digraph G {
     edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> Remi
     Remi -> "Hibiti" -> "Randstation im Ashar System"
 
-    // Wie es weitergehen koennte. 
     edge [label="den Piraten folgen"] "Verborgene Sanduhrstation" -> "Hibiti"
-    edge [style="dashed"]
     edge [label="den Piraten folgen"] "Hibiti" -> "Hakus Paradies"
-    edge [label="uns um unseren eigenen Kram kuemmern"] "Hibiti" -> "Handelsstationen"
-    edge [label="Sorgen um Ek"] "Hibiti" -> Ek
-    edge [label="Schiff aufruesten"] "Hibiti" -> Styro
-    edge [label="???"] "Hibiti" -> "???"
+    
+    // Wie es weitergehen koennte. 
+    edge [style="dashed"]
+    edge [label="uns um unseren eigenen Kram kuemmern"] "Hakus paradies" -> "Handelsstationen"
+    edge [label="Sorgen um Ek"] "Hakus Paradies" -> Ek
+    edge [label="Schiff aufruesten"] "Hakus Paradies" -> Styro
+    edge [label="???"] "Hakus Paradies" -> "???"
     
     edge [label="" style=""]
     // Beschreibungen
