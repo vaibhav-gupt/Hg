@@ -191,7 +191,7 @@ Am stilvollsten ist aber doch ein vollständig handgeschriebenes Charakterheft.
 
 #Die Erschaffung
 
-Der erste Schritt zur Charaktererschaffung ist die Festlegung des Machtniveaus der Charaktere. Dadurch legt ihr fest, wieviele Punkte ihr fuer die Erschaffung zur Verfuegung habt. 
+Der erste Schritt zur Charaktererschaffung ist die Festlegung des Machtniveaus der Charaktere. Dadurch legt ihr fest, wieviele Punkte ihr für die Erschaffung zur Verfügung habt. 
 
 Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die anderen sollten klar sein. Es gibt vordefiniert die folgenden Machtstufen: 
 
@@ -320,7 +320,7 @@ Dabei gelten die folgenden sechs Regeln:
 **Proben werden immer auf den Wert mit Bonus gewürfelt. 
 
 ##4) Kosten
-**Kosten fuer Werte werden in Dreiecken ausgedrueckt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
+**Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
 **+: 1 Dreieck (Δ) Kosten
 **++: 3 Dreiecke (Δ) Kosten
 **+++: 6 Dreiecke (Δ)
@@ -457,7 +457,7 @@ Anmerkung: Die Regeln für Beruf und Hintergrund sind gleich, daher verwenden wi
 
 #Kampf
 
-Da ihr nun Charaktere habt, werdet ihr vermutlich auf Abenteuer ausziehen. Erfahrungsgemaesz wird es dabei nicht lange dauern, bis euch jemand gegenuebersteht, der sich nicht mit Worten ueberzeugen laesst (oder ihr wollt euch nicht ueberzeugen lassen). Wenn dann jemand zu anderen Mitteln greift, braucht ihr wohl Kampfregeln. 
+Da ihr nun Charaktere habt, werdet ihr vermutlich auf Abenteuer ausziehen. Erfahrungsgemäß wird es dabei nicht lange dauern, bis euch jemand gegenübersteht, der sich nicht mit Worten überzeugen lässt (oder ihr wollt euch nicht überzeugen lassen). Wenn dann jemand zu anderen Mitteln greift, braucht ihr wohl Kampfregeln. 
 
 Das EWS ermöglicht das Ausspielen von Kämpfen auf zwei verschiedene Arten. 
 
@@ -528,11 +528,11 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Sehr langsame Waffen (Armbrust, Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
 
-*"Grok, Barbar" steht dem Leibwaechter eines Haendlers gegenueber, der ihm verschimmeltes Essen verkauft hat. Grok greift an. 
+*"Grok, Barbar" steht dem Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an. 
 
-*Seine Spielerin Jana addiert also den Schaden seiner Waffe (Schwert: 4) und seine Ruestung (0) zu seiner Fertigkeit (Erfahren: 15) und erhaelt 19. Die SL addiert den Dolch (2) und die Straszenkleidung (0) des Leibwaechters (ein Straszenschlaeger) zu dessen Fertigkeit (Schwach: 9) und erhaelt 11. Nun wuerfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 19+4=23 und der Leibwaechter auf 11+2=13. Die Differenz ist 10, also bleibt Grok unverletzt und der Leibwaechter geht mit 6 Wunden zu Boden.
+*Seine Spielerin Jana addiert also den Schaden seiner Waffe (Schwert: 4) und seine Rüstung (0) zu seiner Fertigkeit (Erfahren: 15) und erhält 19. Die SL addiert den Dolch (2) und die Straßenkleidung (0) des Leibwächters (ein Straßenschläger) zu dessen Fertigkeit (Schwach: 9) und erhält 11. Nun würfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 19+4=23 und der Leibwächter auf 11+2=13. Die Differenz ist 10, also bleibt Grok unverletzt und der Leibwächter geht mit 6 Wunden zu Boden.
 
-*Dann wendet sich Grok dem Haendler zu. Er bekommt Rabatt.  
+*Dann wendet sich Grok dem Händler zu. Er bekommt Rabatt.  
 
 In diesen Kämpfen können verschiedene Taktiken genutzt werden, die dem Ein Wurf System größere Flexibilität geben. 
 
@@ -556,9 +556,9 @@ Für manche Spielerinnen ist nebenbei die Gefangenschaft ein viel schlimmeres Sc
 
 Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen. 
 
-In einigen klassischen Abenteuergeschichten koennen die recht realistischen Heilungszeiten, und damit die lange Behinderung durch Wunden, die Handlung unnoetig aufhalten. 
+In einigen klassischen Abenteuergeschichten können die recht realistischen Heilungszeiten, und damit die lange Behinderung durch Wunden, die Handlung unnötig aufhalten. 
 
-Sollte das bei euch so sein, kannst du entweder eine einfache Moeglichkeit der direkten Handlung einfuehren (z.B. Medkits oder Heilzauber) oder das Heilungssystem anpassen. Denk daran, dass es euer Spiel ist. Wenn euch irgendwas stoert, dann aendert es einfach. 
+Sollte das bei euch so sein, kannst du entweder eine einfache Möglichkeit der direkten Handlung einführen (z.B. Medkits oder Heilzauber) oder das Heilungssystem anpassen. Denk daran, dass es euer Spiel ist. Wenn euch irgendwas stört, dann ändert es einfach. 
 
 <fuss>Wenn dir Kämpfe mit dem Ein Wurf System zu schnell sind oder nicht genug Spannung aufbauen, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen. Sie behandeln Kämpfe bei weitem ausführlicher. 
 

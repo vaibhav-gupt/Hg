@@ -299,7 +299,7 @@ Sind  die persönlichen Gegenstände Alltagsgegenstände, kann die SL mit den Sp
 
 Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächste Seitenleiste). 
 
-Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persoenliche Gegenstaende gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig. 
+Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persönliche Gegenstände gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig. 
 
 Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe. 
 
@@ -404,7 +404,7 @@ Auf ähnliche Art kann nicht Jede Auto fahren oder Bogen schießen, doch da beid
 
 
 #Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
-Als Faustregel zur Unterscheidung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn maeszig zu können (Effektivwert 10). 
+Als Faustregel zur Unterscheidung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (Effektivwert 10). 
 
 Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14). 
 
