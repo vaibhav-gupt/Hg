@@ -28,7 +28,6 @@ Entsprechend solltest du mich zurückduzen.
 
 
 
-
 #Was du brauchst
 Für ein Spiel braucht deine Runde genau einen Würfel, ein Charakterblatt und einen Stift für jede Spielerin. In Zeiten der Not reichen also selbst die Würfel aus einem Monopoly-Spiel, ein paar Taschentücher und ein Stückchen Kohle. Alternativ ein Handtuch. 
 
@@ -98,6 +97,7 @@ Die Schwierigkeiten liegen auf der selben Skala wie die Eigenschafts- und Fertig
 Beschreibungen der Schwierigkeit für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12), also die effektive Schwierigkeit von Mindestwürfen, stehen in der Seitenspalte "Mindestwürfe" auf der nächsten Seite.
 
 <fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit). 
+
 
 
 
@@ -302,8 +302,6 @@ Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächs
 Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persönliche Gegenstände gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig. 
 
 Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe. 
-
-
 
 
 
@@ -657,7 +655,6 @@ Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der G
 *Wollte Lazaro sich zum Beispiel in der "Kunst des Flirtens" auf "Damen von Adel" spezialisieren, würde ihn eine Steigerung dieser Spezialisierung um einen Punkt nur einen Strich kosten: 
 
 **Kunst des Flirtens (Damen von Adel): 13+2 = 15 (16) 
-
 
 #Punkte für gutes Rollenspiel?
 Es hat sich in vielen Systemen eingebürgert, Punkte für gutes Rollenspiel zu vergeben. 
