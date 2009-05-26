@@ -1041,5 +1041,6 @@ An dieser Stelle: Danke!
 
 Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt. 
 
+<fuss>Die Grafiken stammen mit Ausnahme des Logos aus dem freien Strategiespiel "Battle for Wesnoth" (wesnoth.org). Falls du Lust hast, für das EWS eigene Bilder zu zeichnen, dann schreib uns bitte!
 
 <fuss>PS: Vom Autor empfohlen ab 14 Jahren. 
