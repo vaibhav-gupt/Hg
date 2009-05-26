@@ -2,6 +2,8 @@ All these images come from the free game "Battle for Wesnoth" and are licensed u
 GPLv2 or later. 
 - http://wesnoth.org
 
+You can see a listing of artists <-> images in the file ARTISTS. 
+
 For more details on the license see ../../sonstiges/gpl.txt
 
 Note that for artwork and
