@@ -479,7 +479,7 @@ Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern.
 In unserer Welt haben Wunden oft bleibende Folgen. Wenn es den Spielern gefällt, können sie daher wichtige Wunden notiert lassen, und sich schöne Effekte überlegen (z.B. Wetterfühligkeit).
 
 ##Andere Schadensarten
-Charaktere können nicht nur körperliche terletzungenragen, sondern auch auf verschiedenste andere Arten Schaden nehmen. 
+Charaktere können nicht nur körperliche Verletzungen davontragen, sondern auch auf verschiedenste andere Arten Schaden nehmen. 
 
 Ein Beispiel ist mentaler Schaden (kurz): 
 Hier werden mentale Trefferpunkte aus Willenskraft x2 berechnet. 
@@ -487,7 +487,6 @@ Hier werden mentale Trefferpunkte aus Willenskraft x2 berechnet.
 Wunden sind zeitweise Psychosen, Schrecken, Panik, uvm., und sie schwächen wie körperliche Wunden (-3 auf Proben pro Wunde). 
 
 Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-) (z.B. Phobie) und verschwindet dafür.  
-
 
 
 
