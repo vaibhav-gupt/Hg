@@ -1,0 +1,60 @@
+EWS 2.4.0 beta
+==============
+
+![chantal-druid](chantal-druid.png)
+
+Version 2.4.0 des EWS ist jetzt online. 
+
+Die wichtigsten ƒnderungen seit Version 2.2 sind: 
+
+- Berufe erhalten nur noch Boni von jeweils hˆchstens einer zur Situation passenden Eigenschaft. 
+- Das Grundsystem enth‰lt keine Trefferpunkte mehr - sie sind komplett ins Fokusmodul Kampf (FoKa) gewandert. 
+- Viele Texte sind lesbarer. 
+- Die Kosten von persˆnlichen Waffen und R¸stungen als Teil des Charakters wurden verdoppelt (nach einigen Statistikrechnungen, die eine deutliche Disbalance gezeigt haben)
+- Es gibt jetzt mehr Bilder, so dass das Heft schˆner zu lesen ist (dank [Battle for Wesnoth](http://wesnoth.org) und GPL)
+
+*Die Bilder auf dieser Seite sind nur unter der GPL verf¸gbar.*
+
+### Die ƒnderungen im Detail
+
+- EWS 2.3.2
+
+388: Ein paar Bilder aus Wesnoth integriert.
+381: Grundsystem korrigiert (umlaute noch kaputt) - fehlt nur noch der Anhang.
+371: Seitenleisten umsortiert. Wir haben jetzt 3 freie Seitenleisten, dafuer sind sie logischer und ich habe redundantes rausgestrichen. Heisst auch, dass wir mehr Platz f¸r Bilder haben :)
+358: Die Hauptleiste ist im FoKa etwas gedraengt, aber sie passt jetzt auch inklusive neuem (vereinfachten) Wundsystem wieder rein.
+356: Copyright-Datum auf bis 2009 ersetzt und Feinschliff.
+354: Der Epilog nennt jetzt korrekt die GPLv3 als Lizenz.
+352: Trefferpunkte und komplexe Heilung zum Fokusmodul Kampf verschoben.
+351: Text zur Auswirkung von Verletzungen. 
+338: Kosten f¸r Waffen und R√ºstung angepasst (verdoppelt).
+335: Eig geben Bonus auf Fert.
+334: 'legend‰r' im Haupttext nicht erw?hnen.
+331: Kurzbeschreibung nennt jetzt auch 'G¸te = Differenz'
+327: Neue Namen f√ºr Werte unter 9 - und hohe Werte nochmal √ºberarbeitet.
+
+- EWS 2.3.0
+
+324: Letzte Korrekturen, bevor die neue Version an die Beta-Leser geht.
+323: Fix: Neue Fertigkeiten und Berufe mit Strichen kaufen - erster Strich gibt 9, zweiter 11, dritter 12 (aus dem Modul Schwache Charaktere (SwaC)).
+317: ews-dok: Feinschliff der Drak Intro.
+316: merge: ews-dok auf neuen Arbeitsfluss umgestellt und Andis √nderungen eingef¸gt.
+315: ews-dok: Neue Struktur vollst√§ndig integriert. Die Texte werden jetzt nur noch mit 'Text laden' importiert und m√ºssen in Scribus nicht mehr nachbearbeitet werden.
+304: ews-dok: Seitenleiste komplett in's Layout ¸bernommen. Jetzt kˆnnen wir die Seitenleiste vollst‰ndig in einem Plain-Text Dokument bearbeiten und m¸ssen sie erst wenn wir eine neue Version verˆffentlichen wollen in Scribus importieren (mit dem Text-Filter 'Seitenleiste', der automatisch die richtigen Stile f¸r die Abs‰tze ¸bernimmt).
+299: ews-dok: Fuﬂnoten sind jetzt Grˆﬂe 8pt.
+298: ews-dok: Seitenleiste: Vorrede etwas klarer.
+292: Hauptdokument: Seitenleiste und Hauptleiste in Scribus importiert - es fehlt nur noch die Anpassung der Seitenumbr√ºche und der Feinschliff.
+291: Hauptdokument: Grundlegende Markup in die Seitenleiste eingef¸gt.
+290: Hauptdokument: Grundlegende Markup in die Hauptleiste eingef¸gt.
+288: Hauptdokument: Seitenleiste informiert jetzt korrekt ¸ber Markup zu Regelteilen und Beispielen.
+281: ƒnderungen von Andi in das Scribus Dokument kopiert - wie erwartet ist das Design erstmal zerschossen -> Angefangen einen Eingabefilter f√ºr die Textdateien zu entwerfen: Abwandlung von Markdown: '*' leitet kursiven Absatz ein, '**' leitet Regelabsatz ein, '#' leitet √úberschrift ein.
+260: Hauptdokument: Sauberere (aber etwas l√§ngere) Kurzbeschreibung der Regeln am Anfang.
+258: Grundregeln: Zielsetzung des Heftes eingef√ºgt.
+226: Anfang des ‹bergangs zur GPlv3: Hauptdokument: Epilog: Lizenzinfo.
+191: Die Beschreibung von Proben nutzt nun 'Augenzahl' zur Beschreibung des Ergebnisses des Wurfes.
+189: Korrekturen von Andi.
+188: ToDo 2.4.0: 1.) kurz erkl√§ren was in den Seitenbereichen steht und wof√ºr die verschiedenen Schriftarten stehen.
+186: Info: An Texten nur in den Scribus Quellen arbeiten.
+167: "...Jedes Modul hat einen vollen Namen und eine vier Ziffern lange
+126: Etwas Arbeit an den Textdateien zum Hauptdokument.
+
