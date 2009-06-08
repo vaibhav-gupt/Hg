@@ -1,18 +1,19 @@
 EWS 2.3.2 (2. beta für v2.4)
 ============================
 
-![chantal-druid](/files/chantal-druid.png)
+<img alt="chantal-druid" src="/files/chantal-druid.png" align="left" width="200" />
 
-Version 2.3.2 des EWS ist jetzt [online](/releases/ews-dok-2.3.2.pdf). 
+*Version 2.3.2 des EWS ist jetzt [online](/releases/ews-dok-2.3.2.pdf).*
 
-Ich habe mir an meinem Geburtstag auch ein eigenes Geschenk gemacht und die 
-nächste Version des EWS fertig gemacht. 
+Ich habe mir an meinem Geburtstag auch ein eigenes Geschenk gemacht und die nächste Version des EWS fertig gemacht. 
 
 Es ist die zweite Testversion für v2.4, und wir suchen Beta-Leser! 
 
-Denn fertig heißt hier allerdings nur, dass ich denke, dass sie fertig ist, und 
+Denn fertig heißt hier nur, dass ich denke, dass sie fertig ist, und 
 selbst keine weiteren Fehler gefunden habe. Die Chance, dass wirklich keine da 
 sind, geht natürlich gegen null :)
+
+Bitte [lade es dir herunter](/releases/ews-2.3.2.pdf) und schreib' uns, was dir auffällt! 
 
 Die wichtigsten Änderungen seit Version 2.2 sind: 
 
@@ -24,46 +25,82 @@ Die wichtigsten Änderungen seit Version 2.2 sind:
 
 *Lizenzinfo: Die Bilder auf dieser Seite sind nur unter der GPL verfügbar.*
 
+------ 
+
 ### Die Änderungen im Detail
 
 - EWS 2.3.2
 
 388: Ein paar Bilder aus Wesnoth integriert.
+
 381: Grundsystem korrigiert (umlaute noch kaputt) - fehlt nur noch der Anhang.
+
 371: Seitenleisten umsortiert. Wir haben jetzt 3 freie Seitenleisten, dafuer sind sie logischer und ich habe redundantes rausgestrichen. Heisst auch, dass wir mehr Platz für Bilder haben :)
+
 358: Die Hauptleiste ist im FoKa etwas gedraengt, aber sie passt jetzt auch inklusive neuem (vereinfachten) Wundsystem wieder rein.
+
 356: Copyright-Datum auf bis 2009 ersetzt und Feinschliff.
+
 354: Der Epilog nennt jetzt korrekt die GPLv3 als Lizenz.
+
 352: Trefferpunkte und komplexe Heilung zum Fokusmodul Kampf verschoben.
+
 351: Text zur Auswirkung von Verletzungen. 
-338: Kosten für Waffen und RÃŒstung angepasst (verdoppelt).
+
+338: Kosten für Waffen und Rüstung angepasst (verdoppelt).
+
 335: Eig geben Bonus auf Fert.
-334: 'legendär' im Haupttext nicht erw?hnen.
+
+334: 'legendär' im Haupttext nicht erwähnen.
+
 331: Kurzbeschreibung nennt jetzt auch 'Güte = Differenz'
-327: Neue Namen fÃŒr Werte unter 9 - und hohe Werte nochmal ÃŒberarbeitet.
+
+327: Neue Namen für Werte unter 9 - und hohe Werte nochmal ÃŒberarbeitet.
 
 - EWS 2.3.0
 
 324: Letzte Korrekturen, bevor die neue Version an die Beta-Leser geht.
+
 323: Fix: Neue Fertigkeiten und Berufe mit Strichen kaufen - erster Strich gibt 9, zweiter 11, dritter 12 (aus dem Modul Schwache Charaktere (SwaC)).
+
 317: ews-dok: Feinschliff der Drak Intro.
-316: merge: ews-dok auf neuen Arbeitsfluss umgestellt und Andis Ãnderungen eingefügt.
-315: ews-dok: Neue Struktur vollstÃ€ndig integriert. Die Texte werden jetzt nur noch mit 'Text laden' importiert und mÃŒssen in Scribus nicht mehr nachbearbeitet werden.
+
+316: merge: ews-dok auf neuen Arbeitsfluss umgestellt und Andis Änderungen eingefügt.
+
+315: ews-dok: Neue Struktur vollständig integriert. Die Texte werden jetzt nur noch mit 'Text laden' importiert und müssen in Scribus nicht mehr nachbearbeitet werden.
+
 304: ews-dok: Seitenleiste komplett in's Layout übernommen. Jetzt können wir die Seitenleiste vollständig in einem Plain-Text Dokument bearbeiten und müssen sie erst wenn wir eine neue Version veröffentlichen wollen in Scribus importieren (mit dem Text-Filter 'Seitenleiste', der automatisch die richtigen Stile für die Absätze übernimmt).
+
 299: ews-dok: Fußnoten sind jetzt Größe 8pt.
+
 298: ews-dok: Seitenleiste: Vorrede etwas klarer.
-292: Hauptdokument: Seitenleiste und Hauptleiste in Scribus importiert - es fehlt nur noch die Anpassung der SeitenumbrÃŒche und der Feinschliff.
+
+292: Hauptdokument: Seitenleiste und Hauptleiste in Scribus importiert - es fehlt nur noch die Anpassung der Seitenumbrüche und der Feinschliff.
+
 291: Hauptdokument: Grundlegende Markup in die Seitenleiste eingefügt.
+
 290: Hauptdokument: Grundlegende Markup in die Hauptleiste eingefügt.
+
 288: Hauptdokument: Seitenleiste informiert jetzt korrekt über Markup zu Regelteilen und Beispielen.
-281: Änderungen von Andi in das Scribus Dokument kopiert - wie erwartet ist das Design erstmal zerschossen -> Angefangen einen Eingabefilter fÃŒr die Textdateien zu entwerfen: Abwandlung von Markdown: '*' leitet kursiven Absatz ein, '**' leitet Regelabsatz ein, '#' leitet Ãberschrift ein.
-260: Hauptdokument: Sauberere (aber etwas lÃ€ngere) Kurzbeschreibung der Regeln am Anfang.
-258: Grundregeln: Zielsetzung des Heftes eingefÃŒgt.
+
+281: Änderungen von Andi in das Scribus Dokument kopiert - wie erwartet ist das Design erstmal zerschossen -> Angefangen einen Eingabefilter für die Textdateien zu entwerfen: Abwandlung von Markdown: '*' leitet kursiven Absatz ein, '**' leitet Regelabsatz ein, '#' leitet Überschrift ein.
+
+260: Hauptdokument: Sauberere (aber etwas längere) Kurzbeschreibung der Regeln am Anfang.
+
+258: Grundregeln: Zielsetzung des Heftes eingefügt.
+
 226: Anfang des Übergangs zur GPlv3: Hauptdokument: Epilog: Lizenzinfo.
+
 191: Die Beschreibung von Proben nutzt nun 'Augenzahl' zur Beschreibung des Ergebnisses des Wurfes.
+
 189: Korrekturen von Andi.
-188: ToDo 2.4.0: 1.) kurz erklÃ€ren was in den Seitenbereichen steht und wofÃŒr die verschiedenen Schriftarten stehen.
+
+188: ToDo 2.4.0: 1.) kurz erklären was in den Seitenbereichen steht und wofür die verschiedenen Schriftarten stehen.
+
 186: Info: An Texten nur in den Scribus Quellen arbeiten.
+
 167: "...Jedes Modul hat einen vollen Namen und eine vier Ziffern lange
+
 126: Etwas Arbeit an den Textdateien zum Hauptdokument.
 
+-> [noch mehr Details](http://bitbucket.org/ArneBab/1w6/)
