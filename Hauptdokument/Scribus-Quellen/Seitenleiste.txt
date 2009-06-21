@@ -33,31 +33,10 @@ Für ein Spiel braucht deine Runde genau einen Würfel, ein Charakterblatt und e
 
 <fuss>Modul dazu: Alternative Zufallssysteme (AZul). 
 
+#Boni auf Fertigkeitswerte
+Jede Fertigkeit erhält Boni aus bis zu zwei passenden Eigenschaften. Welche Eigenschaften das sind legt die Spielerin jeweils bei der Erschaffung fest. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Hat ein Charakter zum Beispiel die Fertigkeit Kochen und die Eigenschaften sehr guter Geruchssinn (15) und sehr gute Intuition (15), könnte die Spielerin entscheiden, dass ihr Charakter vor allem nach seiner Nase und seiner Intuition kocht und daher diese beiden Eigenschaften Boni auf seinen Wert in Kochen geben. 
 
 
 #Namen und Werte
@@ -70,9 +49,9 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 9 Schwach
 10 Mäßig
 ------
-11 Unter Durchschnitt
+11 Unterdurchschnittlich
 12 Durchschnittlich
-13 Über Durchschnitt
+13 Überdurchschnittlich
 ------
 14 Routiniert/Gut
 15 Erfahren/Sehr Gut
@@ -84,6 +63,7 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 <fuss>Beschreibungen findest du auf
 <fuss>- http://werte.1w6.org
 
+
 #Die Namen stimmen
 Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen. 
 
@@ -91,10 +71,33 @@ Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefähr
 
 
 
-#Schwierigkeit von Proben
-Die Schwierigkeiten liegen auf der selben Skala wie die Eigenschafts- und Fertigkeitswerte. 
 
-Beschreibungen der Schwierigkeit für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12), also die effektive Schwierigkeit von Mindestwürfen, stehen in der Seitenspalte "Mindestwürfe" auf der nächsten Seite.
+
+
+
+
+
+
+
+
+
+
+
+
+#Mindestwürfe
+Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens ein Vielfaches von 3. Wie deren Werte tragen auch die verschiedenen Mindestwürfe Namen. Für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12) ergeben sich die folgenden Erfolgswahrscheinlichkeiten:
+
+MW: Name (Chance)
+
+- 6: routine (100%)
+- 9: einfach (83%)
+- 12: fordernd (50%)
+- 15: schwer (33%)
+- 18: heikel (17%)  
+
+Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9), so dass nur jeder 6. Versuch fehlschlägt. 
+
+Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder haben recht niedrige Erfolgs- oder Überlebensraten.
 
 <fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit). 
 
@@ -117,23 +120,6 @@ Beschreibungen der Schwierigkeit für einen Charakter mit durchschnittlicher Fer
 
 
 
-
-
-
-#Mindestwürfe
-Schwierigkeiten und Erfolgswahrscheinlichkeiten für einen Charakter mit durchschnittlicher Fertigkeit oder durchschnittlicher Eigenschaft (12) für bestimmte Mindestwürfe:
-
-MW: Name (Chance)
-
-- 6: routine (100%)
-- 9: einfach (83%)
-- 12: fordernd (50%)
-- 15: schwer (33%)
-- 18: heikel (17%)  
-
-Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9). 
-
-Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder haben recht niedrige Erfolgs- oder Überlebensraten.
 
 
 
