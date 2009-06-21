@@ -24,7 +24,7 @@ Die meisten Module findest du auf
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
 
-**Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9) oder höher ist als das Ergebnis des Gegners. Mindestwürfe liegen auf der gleichen Skala wie die Eigenschaften und Fertigkeiten.
+**Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9: einfach) oder höher ist als das Ergebnis des Gegners. Wie die Werte von Eigenschaftem und Fertigkeiten haben auch Mindestwürfe Namen. Beispielsweise ist 12 fordernd, 15 schwer und 18 heikel. 
 
 **Die erzielte Differenz gibt an, wie gut die Handlung bestanden wurde.
 
@@ -32,50 +32,44 @@ Die meisten Module findest du auf
 
 Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
 
-**Jede Eigenschaft hat Werte zwischen 3 und 21, wobei menschliche Werte zwischen 6 und 18 liegen (Eigenschaften über 21 sind der Stoff für Legenden). 
+Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet. 
+
+**Eigenschaften von Menschen haben Werte zwischen 6 und 18. Was darüber hinausgeht ist der Stoff für Legenden. 
 
 **12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet. 
+
+<fuss>Ein paar Beispiele für Eigenschaften gibt es ab Seite 18. 
 
 <fuss>Module: Kategoriesystem (KaSy). 
 
 #Fertigkeiten
 
-Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die  ihren Charakter am schönsten beschreiben. 
+Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die ihren Charakter am schönsten beschreiben. 
 
-**Die Werte von Fertigkeiten liegen wie Eigenschaftswerte zwischen mickrig (3) und superb (21). Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird. 
+**Die Werte von Fertigkeiten liegen wie Eigenschaftswerte meist zwischen armselig (6) und überragend (18). Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird. 
 
 **Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt. 
 
-Beispielsweise wird ein Koch, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt. 
+Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt. 
 
 <fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14.
+
+<fuss>Für Fertigkeiten gibt es Beispiele ab Seite 19. 
+
 #Beruf und Hintergrund
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
 
 Entfernter verwandte Fertigkeiten kann er mit einem drei Punkte niedrigeren Wert nutzen. 
 
-**Ein Beruf oder Hintergrund kostet mehr als eine Fertigkeit. Im vobsy entsprechen die Kosten eines Berufes denen einer drei Punkte höheren Fertigkeit. 
+**Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei festgelegte Eigenschaften, sondern eine einzelne zur aktuellen Situation passende Eigenschaft. 
 
-Wie den Fertigkeiten sind auch Berufen Eigenschaften zugeordnet, die dem Charakter einen Bonus geben können. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei beliebig gewählte, sondern es ist eine einzelne zur aktuellen Situation passende Eigenschaft. 
-
-Auch hier können Ausnahmen natürlich mit der SL und der Gruppe abgesprochen werden, wenn es zum Charakter passt, oder die Gruppe aus anderen Gründen zustimmt.  
-
-
-
-
-
-
-
-
-
-
-
+*Beispiel: Niels, 26 Jahre alt und gelernter Schlosser, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Niels auf den Beruf "Gerber" würfeln, um die Besten zu finden. Er beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt ihm die SL, dass er bei diesem Wurf Boni aus seiner Eigenschaft "Dreistigkeit" erhält. 
 
 
 #Merkmale
 
-Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter sind Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr. 
+Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter zählen Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr. 
 
 Sie lassen sich in etwa beschreiben als etwas, das man entweder hat oder nicht hat, und das nicht einfach durch normales Üben gelernt werden kann. 
 
@@ -83,13 +77,15 @@ Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein 
 
 **Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden.
 
-Ein paar Beispiele gibt es auf Seite 21. 
+<fuss>Die Beispiele für Merkmale stehen auf Seite 21. 
 
 #Kampfwerte
 
 Für Kämpfe hat ein Charakter außerdem eine Wundschwelle. 
 
-**Die Wunschwelle bestimmt, wie schnell ein Charakter eine Wunde erhält und wie schnell seine Wunden heilen. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. 
+**Die Wunschwelle bestimmt, wie schnell ein Charakter eine Wunde erhält und wie schnell seine Verletzungen heilen. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. 
+
+<fuss>Einzelheiten zu Wunden findest du ab Seite 24 unter "Auswirkungen von Verletzungen". 
 
 
 
@@ -483,7 +479,7 @@ Da ihr nun Charaktere habt, werdet ihr vermutlich auf Abenteuer ausziehen. Erfah
 
 Das EWS ermöglicht das Ausspielen von Kämpfen auf zwei verschiedene Arten. 
 
-In den Grundregeln findet sich das "Ein Wurf System", das einfach eine schnelle Bestimmung des Ausgangs von Konfrontationen ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert. 
+In den Grundregeln findet sich das "Ein Wurf System", das einfach eine schnelle Bestimmung des Ausgangs eines Kampfes ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert. 
 
 Bei Verwendung des "Ein Wurf Systems" wird ein Kampf ebenso schnell und leicht abgehandelt wie ein kurzer Bardenwettstreit, da der Kampf nicht ins Rampenlicht rückt. 
 

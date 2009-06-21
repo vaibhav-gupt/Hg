@@ -1,0 +1,30 @@
+Julians Korrektur: 
+
+# MW auf Skala der Eigenschaften
+
+Ich habe versucht, sie etwas sauberer zu beschreiben. Bitte sag' mir, ob es geklappt hat :)
+
+# Schwierigkeiten od. Mindestwürfe
+
+Ich habe mich jetzt für "Mindestwürfe" entscheiden. Das ist leichter zu beschreiben: Es ist der Wert, den du mindestens würfeln musst :) 
+
+# Eigenschaften
+
+Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet. 
+
+**Eigenschaften von Menschen haben normalerweise Werte zwischen 6 und 18. Werte die darüber hinausgehen sind der Stoff für Legenden. 
+
+# Berufe
+
+Ich habe den Absatz mit den Kosten einfach rausgestrichen. Er gehört hier wirklich noch nicht hin. 
+
+Die Ausnahme braucht es nicht mehr. Die war nur für "die drei höchsten Eigenschaften als Bonus" wichtig... Regression-Test failing... :) 
+
+*Beispiel: Niels, 26 Jahre alt und gelernter Schlosser, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat er sich vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Niels auf den Beruf "Gerber" würfeln, um die Besten zu finden. Er beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dorthinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt ihm die SL, dass er bei diesem Wurf Boni aus seiner Eigenschaft "Dreistigkeit" erhält. 
+
+Die Seitenleisten habe ich gerade nochmal etwas entschlackt - wir haben noch eine weitere Seitenleiste frei, leider aber nicht an der richtigen Stelle... 
+
+# Merkmale
+
+"darunter zählen" ist toll! :) 
+
