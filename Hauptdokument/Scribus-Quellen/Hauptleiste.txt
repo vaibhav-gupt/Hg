@@ -64,7 +64,7 @@ Entfernter verwandte Fertigkeiten kann er mit einem drei Punkte niedrigeren Wert
 
 **Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei festgelegte Eigenschaften, sondern eine einzelne zur aktuellen Situation passende Eigenschaft. 
 
-*Beispiel: Niels, 26 Jahre alt und gelernter Schlosser, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Niels auf den Beruf "Gerber" würfeln, um die Besten zu finden. Er beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt ihm die SL, dass er bei diesem Wurf Boni aus seiner Eigenschaft "Dreistigkeit" erhält. 
+*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Er beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt ihr die SL, dass sie bei diesem Wurf Boni aus seiner Eigenschaft "Dreistigkeit" erhält. 
 
 
 #Merkmale
@@ -83,7 +83,7 @@ Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein 
 
 Für Kämpfe hat ein Charakter außerdem eine Wundschwelle. 
 
-**Die Wunschwelle bestimmt, wie schnell ein Charakter eine Wunde erhält und wie schnell seine Verletzungen heilen. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. 
+**Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durchschnittswert ist daher 4. 
 
 <fuss>Einzelheiten zu Wunden findest du ab Seite 24 unter "Auswirkungen von Verletzungen". 
 
@@ -91,11 +91,9 @@ Für Kämpfe hat ein Charakter außerdem eine Wundschwelle.
 
 
 
-
-
 #Einfache Proben
 
-Wenn ein Charakter versucht, etwas zu schaffen, gegen das kein aktiver Widerstand geleistet wird, muss die Spielerin eine einfache Probe würfeln; es sei denn, der Erfolg ist offensichtlich. 
+Wenn ein Charakter versucht, etwas zu schaffen, gegen das kein aktiver Widerstand geleistet wird, muss die Spielerin eine einfache Probe auf eine passende Fertigkeit oder einen passenden Beruf würfeln; es sei denn, der Erfolg ist offensichtlich. 
 
 Solche Proben kommen zum Beispiel bei Stenographie, Kochen und Bogenschießen zur Anwendung. 
 
@@ -106,16 +104,16 @@ Solche Proben kommen zum Beispiel bei Stenographie, Kochen und Bogenschießen zu
 
 **Diese Art zu würfeln wird von nun an als ±W6 bezeichnet. 
 
-Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit der Schwierigkeit der Probe verglichen (mit dem Mindestwurf (MW)). 
+Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit dem Mindestwurf der Probe verglichen. Der Mindestwurf (Kürzel: MW) gibt die Schwierigkeit der Probe an. 
 
-**Erreicht der Wert die Schwierigkeit oder liegt er darüber, dann gelingt die Probe.    
+**Erreicht der Wert den Mindestwurf oder liegt er darüber, dann gelingt die Probe.    
 
 **Zusätzlich gibt das Ergebnis direkt die Qualität der Handlung an (6 ist also armselig, 18 überragend). 
 
 **Liegen Eigenschaft oder Fertigkeit bereits 6 oder mehr Punkte über der Schwierigkeit, gelingt die Probe auch ohne Wurf automatisch (Ausnahmen bestimmt die Spielleiterin). 
 
-Schwierigkeiten sind immer ein Vielfaches von 3. Typische Schwierigkeiten sind 9 (einfach), 12 (fordernd) und 15 (schwer). 
-Hat die Spielerin keine passende Fertigkeit, kann sie auf einen Beruf oder den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen. 
+Mindestwürfe sind immer ein Vielfaches von 3. Typische Mindestwürfe sind 9 (einfach), 12 (fordernd) und 15 (schwer). 
+Hat die Spielerin keine passende Fertigkeit, kann sie auf den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen. 
 
 *Beispiel: Jana, Schülerin in der 9. Klasse, zieht als "Grok, Barbar!" durchs Land. 
 *Grok ist durchschnittlich im "Gekrakel entziffern" (12), und als er vor einem Straßenschild steht, verlangt die SL eine einfache Probe (9), um das mittelreichische Gekrakel zu verstehen. Jana würfelt eine 1. Damit erreicht sie 12 - 1 = 11. Das Ergebnis ist also höher (oder gleich) 9, und  Grok findet seinen Weg zum Wirtshaus. 
@@ -126,7 +124,7 @@ Hat die Spielerin keine passende Fertigkeit, kann sie auf einen Beruf oder den W
 
 Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft auf aktiven Widerstand trifft. 
 
-**Dazu würfeln beide Beteiligten wie bei einer einfachen Probe, und ihre Ergebnisse werden verglichen. Diejenige mit dem höheren Ergebnis gewinnt den Wettstreit und die Differenz der Ergebnisse gibt an, wie deutlich sie gewinnt. Haben sie gleiche Ergebnisse, dann gewinnt der, der angefangen hat. 
+**Dazu würfeln beide Beteiligten wie bei einer einfachen Probe, und ihre Ergebnisse werden verglichen. Diejenige mit dem höheren Ergebnis gewinnt den Wettstreit und die Differenz der Ergebnisse gibt an, wie deutlich sie gewinnt. Haben sie gleiche Ergebnisse, dann gewinnt diejenige, die angefangen hat. 
 
 **Unabhängig davon, wer gewinnt, zeigt die absolute Höhe der Ergebnisse an, wie gut der jeweilige Charakter sich geschlagen hat. 
 
@@ -135,9 +133,9 @@ Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messersteche
 <fuss>Modul: Kritische Erfolge und Patzer (krit)
 #Charaktererschaffung
 
-Nachdem wir jetzt wissen, die das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Die erschaffung der Charaktere. 
+Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Die Erschaffung der Charaktere. 
 
-Auf der nächsten Seite besprechen wir dafür kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. Danach werden wir die Stärke der Charaktere wählen und ihnen Werte geben, um ihre Fähigkeiten festzulegen. 
+Auf der nächsten Seite besprechen wir dafür kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. Danach werden wir die Machtstufe der Charaktere wählen und ihnen Werte geben, um ihre Fähigkeiten festzulegen. 
 
 <fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 17 enthält einfache Konvertierungsregeln für die Kosten. 
 
@@ -174,7 +172,7 @@ Auf der nächsten Seite besprechen wir dafür kurz die Charakterhefte, in denen 
 
 Um es dir zu erleichtern, deinem Charakter mehr Stil zu verleihen, nutzt das EWS Charakterhefte anstelle normaler Charakterblätter, also Falthefte, die du nach deinem persönlichen Geschmack erweitern kannst. 
 
-Anfangs besteht ein Charakterheft aus einer einzelnen, gefalteten DinA4-Seite, wie du sie auch in der Mitte dieses Regelwerks findest, wenn du es gekauft hast, und unter http://charhefte.1w6.org herunterladen kannst. 
+Anfangs besteht ein Charakterheft aus einer einzelnen, gefalteten DinA4-Seite, wie du sie auch in der Mitte dieses Regelwerks findest (auf dem letzten Blatt, wenn du es selbst gedruckt hast) und unter http://charhefte.1w6.org herunterladen kannst. 
 
 Die Außenseiten des Charakterheftes tragen nur storytechnische Informationen, vorne kurze Beschreibungen und viel Platz für Charakterbilder, hinten eine leere Seite für deine Notizen. 
 
@@ -184,7 +182,9 @@ Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charakterge
 - Webseite: http://charhefte.1w6.org
 - Forum: http://forum.1w6.org. 
 
-Am stilvollsten ist aber doch ein vollständig handgeschriebenes Charakterheft. 
+
+
+
 
 
 
@@ -196,7 +196,7 @@ Am stilvollsten ist aber doch ein vollständig handgeschriebenes Charakterheft.
 
 Der erste Schritt zur Charaktererschaffung ist die Festlegung des Machtniveaus der Charaktere. Dadurch legt ihr fest, wieviele Punkte ihr für die Erschaffung zur Verfügung habt. 
 
-Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die anderen sollten klar sein. Es gibt vordefiniert die folgenden Machtstufen: 
+Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die anderen sollten klar sein. Es gibt vordefiniert die folgenden Machtstufen (in Klammer stehen jeweils die Punkte): 
 
 - In der Gosse/Spiel ganz unten (-1)
 - Normale Leute (4)
@@ -224,7 +224,7 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 **Daten: Ein angehender Held kann 2 starke Eigenschaften, zwei Fertigkeiten, einen Beruf und zwei positive Merkmale haben. Die Punkte können verschoben werden, wobei jeweils eine Eigenschaft zu einer Fertigkeit, einem Beruf oder einem Merkmal werden kann (und umgekehrt). 
 
-*Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein und bei Frauen Erfolg haben soll. 
+*Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll. 
 
 *Er stellt ihn sich als gewandten Menschen vor, sowohl körperlich als auch in Sprache und Stil. Natürlich soll er auch kämpfen können, und die Kunst des Flirtens ist ein Muss. Seine starken Eigenschaften findet er direkt aus seiner Beschreibung: 
 *Gewandtheit und persönlichen Stil. 
@@ -242,7 +242,7 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 *Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder. 
 
-*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf Fertigkeiten und Berufe zu wählen. 
+*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf seine Fertigkeiten zu wählen. 
 
 In jeder der hier gewählten Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durchschnittlich, also bei 12, und im Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
 
@@ -262,13 +262,19 @@ In jeder der hier gewählten Eigenschaften ist er sehr gut, also bei 15, in jede
 
 *Für jede der Fertigkeiten wählt Sven nun zwei passende Eigenschaften. 
 
-**Die den Fertigkeiten und Berufen zugeordneten Eigenschaften geben ihnen je nach ihrer Höhe Boni. Eigenschaften mit Werten um 15 (+: 14,15,16) geben einen Punkt Bonus. Eigenschaften mit Werten um 18 (++: 17,18,19) geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
+**Die den Fertigkeiten und Berufen zugeordneten Eigenschaften geben ihnen je nach ihrer Höhe Boni. Eigenschaften mit Werten um 15 geben einen Punkt Bonus. Eigenschaften mit Werten um 18 geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
+
+**Boni durch Eigenschaften (Werte: Bonus): 
+**-  8, 9,10: -
+**- 11,12,13: 0
+**- 14,15,16: +
+**- 17,18,19: ++
 
 *Für Nahkampf wählt er Gewandtheit und persönlichen Stil, die ihm als passende starke Eigenschaften jeweils einen Punkt Bonus auf seinen Wert geben, so dass er insgesamt ein guter Kämpfer ist (er kommt von 12 auf 14). 
 
 *Für die Kunst des Flirtens wählt er persönlichen Stil und Charisma, erhält also erneut 2 Punkte Bonus und beherrscht so auch die Kunst des Flirtens gut (14). 
 
-*Für seinen Beruf nimmt er je nach Situation eine andere passende Eigenschaft, so dass er jeweils einen anderen effektiven Wert haben kann. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
+*Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
 
 Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro. 
 

@@ -135,7 +135,7 @@ Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder hab
 
 
 #Wann würfeln?
-Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als auch unklar sind. 
+Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als auch noch nicht entschieden sind. 
 
 Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine Horde Wildschweine heranrennt. 
 
@@ -172,9 +172,9 @@ In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ic
 
 Und wo wir gerade am Vorstellen sind: 
 
-*Sven - Ein Spieler in einer EWS-Runde. Der Spieler von Lazaro. 
+*Gudrun - Eine Spielerin in einer EWS-Runde. Die Spielerin von Lazaro. 
 
-Anmerkung: Sven ist genau wie Lazaro ein rein fiktiver Charakter, der dabei hilft, das System zu veranschaulichen. 
+Anmerkung: Doris ist genau wie Lazaro eine Schöpfung unserer Fantasie, die dabei hilft, das System zu veranschaulichen. 
 
 Stahlkatze gibt es dagegen wirklich (als SC). 
 
@@ -206,7 +206,7 @@ Ansonsten ignorier' die Punkteschinderei einfach. Sie scheint der Spielerin schl
 
 
 #Machtniveaus
-Im vobsy kann deine Spielrunde zwischen verschiedenen Machtniveaus wählen. Hier sind vier davon beschrieben: 
+Bei der Erschaffung kann deine Spielrunde zwischen verschiedenen Machtniveaus wählen. Hier sind vier davon beschrieben: 
 
 - Spiel ganz unten: 
 Die Charaktere sind schwächer als die Menschen, denen wir täglich begegnen. 

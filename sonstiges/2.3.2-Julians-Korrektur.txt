@@ -6,7 +6,7 @@ Ich habe versucht, sie etwas sauberer zu beschreiben. Bitte sag' mir, ob es gekl
 
 # Schwierigkeiten od. Mindestwürfe
 
-Ich habe mich jetzt für "Mindestwürfe" entscheiden. Das ist leichter zu beschreiben: Es ist der Wert, den du mindestens würfeln musst :) 
+Ich habe mich jetzt für "Mindestwürfe" entscheiden. Das ist leichter zu beschreiben: "Es ist der Wert, den du mindestens würfeln musst, um die Probe zu schaffen" :) 
 
 # Eigenschaften
 
@@ -28,3 +28,45 @@ Die Seitenleisten habe ich gerade nochmal etwas entschlackt - wir haben noch ein
 
 "darunter zählen" ist toll! :) 
 
+# Wundschwelle
+
+**Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durchschnittswert ist daher 4. 
+
+# Erschaffung
+
+Stärke war wohl unklar... ich meinte Machtstufe (habe das jetzt auch geschrieben). Danke! 
+
+# Weiblich bei Beispielen
+
+Eigentlich hast du Recht... Ich wollte mich bei Beispielen rausmogeln, um mehr Leute anzusprechen, aber vermutlich wird das besser durch ein klares Konzept erreicht... 
+
+# Plusse, Minusse und Dreiecke
+
+Ich habe als einzige Lösung bisher die Möglichkeit gefunden, Dreiecke rauszustreichen und nur noch von Punkten zu sprechen. Damit fällt leider auch die schöne Eselsbrücke weg, "sobald die Dächer stehen", aber was sich nicht beschreiben lässt, muss aus den Grudnregeln raus, selbst wenn es einer meiner Lieblinge ist. Dreiecke werden eigentlich erst für die Steigerung gebraucht. 
+
+Was in den Grundregeln Punkte sind wird dann zu Dreiecken, also jeweils drei Strichen. 
+
+# Beschreibung der Machtstufen
+
+Ich habe einmal "sie" eingefügt, damit es keine zu monotone Aufzählung wird. 
+
+# Klein nach Doppelpunkt
+
+Im Deutschen auch? Ich kannte das nur vom Englischen her... 
+
+Habe gerade nachgeschaut: Geht jetzt beides :-) 
+
+- http://de.wikipedia.org/wiki/Neuerungen_der_deutschen_Rechtschreibreform_von_1996#Doppelpunkt
+
+# Boni durch Eigenschaften
+
+Ich habe es jetzt als Text-Tabelle eingefügt und dafür die expliziten Zahlenbereiche aus dem Regeltext entfernt. Sieht so deutlich klarer aus. 
+
+Für den beruf habe ich das Beispiel abgewandelt: 
+
+*Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
+
+
+
+
+TODO: Sven überall durch "Gudrun" ersetzen. 
