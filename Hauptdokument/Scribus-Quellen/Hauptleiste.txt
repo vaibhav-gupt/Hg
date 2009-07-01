@@ -821,22 +821,20 @@ Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4.
 Beispiel: Lazaros Erschaffung auf S. 15. 
 
 ##Niedrige Trefferpunkte
-**Wenn die verbleibenden Trefferpunkte eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
+**Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
 
-**Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. 
-**Misslingt diese Probe, so wird er handlungsunfähig. 
-
+**Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. 
 **Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
 
-**Sinken seine Trefferpunkte auf den Wert seiner gewählten Eigenschaft im negativen (z.B. auf -Konstitution, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner Eigenschaft gefallen ist. Bei -2x Konstitution (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x Konstitution (-36) ist der Mindestwurf 18, und bei -4x Konstitution (-48) ist er 21. 
+**Sinken seine aktuellen Trefferpunkte auf den Wert seiner Trefferpunkte im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x TP (-36) ist der Mindestwurf 18, und bei -4x TP (-48) ist er 21. 
 
-**Sinken die Trefferpunkte auf oder unter das fünffache der gewählten Eigenschaft (z.B. auf -5x Konstitution (-60)), dann ist er unwiederbringlich tot.
+**Sinken die Trefferpunkte auf oder unter das fünffache der Trefferpunkte (z.B. auf -5x TP (-60)), dann ist er unwiederbringlich tot.
 
 Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
 
 ##Wunden 
 
-Erhält ein Charakter mit einem Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab. 
+Erhält ein Charakter durch einen Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab. 
 
 **Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
 
@@ -897,6 +895,7 @@ Alles Kampferschwerende geht als Malus ein.
 
 **Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe (Schadenswürfe ausgenommen). 
 
+
 ##Beispielkampf, Nahkampf
 
 *In einer Kampfarena trifft Stahlkatze auf zwei Soldaten. Er lauert in einem Gang hinter einer Säule, während sie Schritt für Schritt näher kommen. Der Erste murmelt leise etwas, dann hört der Katzenmensch die etwas schwereren Schritte des Zweiten in Armreichweite der Säule kommen. Plötzlich huscht Stahlkatze hinter der Säule hervor, seine Bewegungen nur Schemen für den ungeübten Beobachter. 
@@ -953,6 +952,8 @@ Deckung:
 
 
 
+
+
 ##Beispielkampf, Fernkampf
 
 *Stahlkatze streift über die leeren Dächer des Hochhausghettos. Dann und wann huschen Katzen zur Seite oder erstarren mit gesträubtem Fell, wenn sein Schatten auf sie fällt. Die einzigen Geräusche sind das ferne Brummen des Straßenverkehrs  in den belebteren Teilen der Stadt und das Knacken von Beton, der nach dem Verschwinden der Sonne langsam abkühlt. 
@@ -965,7 +966,6 @@ Deckung:
 *Während die Silhouette des Motorrades immer weiter wächst und das Grollen des Motors selbst das Innere der Hochhäuser zu erreichen scheint, tritt Stahlkatze einen unmerklichen Schritt zur Seite. Seine Krallen streichen über den polierten Stahl eines Wurfsterns und entlocken ihm ein zartes, stählernes Singen. Sein Blick fixiert seinen Gegner über die Stacheln des Lenkrades hinweg. 
 
 *Als ihn das Motorrad fast erreicht hat, bringen Stahlkatze zwei schnelle Schritte aus der Reichweite der Keule, und die Wurfscheibe verlässt seine Krallen auf einer tödlichen Bahn. 
-
 **Technisches: 
 **- Grund-MW: Kurz im Kampf: MW 12
 **- Angreifer bewegt sich schnell: MW+3 => MW 15
@@ -973,6 +973,7 @@ Deckung:
 **- Fernkampfwert von Stahlkatze: 12. 
 
 *Um zu treffen muss er eine 6 werfen, ansonsten prallt die Scheibe harmlos an den Stacheln des Motorrads ab. 
+
 ##Schüssen ausweichen
 
 Sieht im Kampf ein Charakter einen Schützen, und hat er in dieser Runde noch nicht gehandelt, kann er versuchen auszuweichen. Dazu würfelt er mit Geschicklichkeit oder einer anderen passenden Eigenschaft oder Fertigkeit gegen einen Mindestwurf von 12, modifiziert durch die Bodenbeschaffenheit (±3). Erzielt er dabei eine höhere Differenz als der Schütze, so gelingt es ihm auszuweichen. 
@@ -982,17 +983,6 @@ Bei Waffen mit schnellen Projektilen (Pistolen, Laserwaffen, Blaster) beträgt d
 Bei sehr langsamen Projektilen und Wurfwaffen, oder bei langsamen Projektilen auf große Distanz, beträgt der Mindestwurf 9. Nur hier ist wirkliches Ausweichen möglich, und wahrhaft geschickte Charaktere können die Waffe vielleicht sogar fangen (SL-Entscheidung. Als Richtlinie sollte er mindestens eine 9 Punkte höhere Differenz haben als der Schütze). 
 
 Außerhalb von Kampfsituationen sind diese Mindestwürfe sowohl für den Schützen als auch für den Ausweichenden um 3 Punkte niedriger. Das heißt, ob sie im Kampf oder außerhalb des Kampfes sind, ändert hier nichts. 
-
-
-
-
-
-
-
-
-
-
-
 
 #Hinweise zum Leiten
 
