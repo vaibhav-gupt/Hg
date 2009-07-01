@@ -300,30 +300,31 @@ Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe.
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird. 
 
-Liste (Kosten: Wert): 
-+: Bis 9 Punkte Schaden + Rüstung
-++: Bis 27 Punkte
-+++: Bis 54 Punkte
-++++: Bis 90 Punkte
+**Sie kosten einen Punkt je angefangene 9 Punkte Rüstung + Schaden. 
+
+Eine Lederrüstug (Schutz 3) und ein Schwert (Schaden 4) kosten also einen Punkt, da sie zusammen nicht über 9 kommen. Ein Blaster (16) dagegen kostet schon alleine 2 Punkte. 
 
 Auf S. 26 und 27 gibt es eine Liste mit Beispielwaffen und Rüstungen. 
 
-Besonderheiten erhöhen den Wert. Eine verborgene Waffe oder Rüstung zählt zweifach, Waffen mit Gift oder Waffen, die die Rüstung ignorieren, zählen dreifach. 
+Besonderheiten erhöhen die Kosten: 
 
-Flächenschaden zweifach (bis etwa 5 Personen) oder vierfach (über 5 Personen). 
+Eine verborgene Waffe oder Rüstung kostet doppelt, Waffen mit Gift oder Waffen, die die Rüstung ignorieren, kosten dreimal so viel wie normale Waffen. 
 
-Betäubungswaffen zählen gleich, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 30, Seitenleiste). 
+Waffen mit Flächenschaden haben bis 5 Personen doppelte Kosten. Wenn sie normalerweise über 5 Personen treffen, kosten sie viermal so viel. 
 
+Betäubungswaffen kosten gleich viel, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 30, Seitenleiste). 
 
 
 #Beruf und Einkommen
 Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt (sonst wäre er wohl nicht am Leben), egal ob das nun ein Job ist, oder die Suche nach Schätzen in Gebieten, die normalerweise genug abwerfen. Ob der Job ausgespielt wird ist dabei nebensächlich. 
 
-Er verdient Geld entsprechend dem Wert im Beruf und nach seiner Berufswahl. Beruf 12 ist Durchschnitt und bringt für normale Bürger in normalen Berufen den Durchschnittslohn der Spielwelt. 
+Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersezt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen. 
+
+Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal "Vermögend" wählen, das ihm das dreifache Durchschnittseinkommen beschert. 
 
 Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird. 
 
-Merkmal: Kein sicheres Einkommen (-)
+Merkmale: Vermögend (+), Kein sicheres Einkommen (-)
 
 
 
@@ -382,7 +383,7 @@ Fertigkeiten dagegen sind erarbeitetes Können, das all denen zur Verfügung ste
 
 Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat. 
 
-Auf ähnliche Art kann nicht Jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten gewählt. 
+Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten gewählt. 
 
 
 
@@ -408,22 +409,19 @@ Detaillierter auf der nächsten Seite.
 #Breite Berufe
 Manche Berufe geben ein riesiges Spektrum an Fertigkeiten. 
 
-Diese Berufe kosten soviel wie ein Beruf eine Schwelle darüber. 
+Diese Berufe kosten soviel wie ein drei Punkte höherer normaler Beruf. 
 
 Beispiele sind Friedensstifter, Entwicklungshelfer und Geheimagent. 
 
-Noch zwei Schwellen mehr kostet "Alles". 
-
-*Beispiel: Taban ist seit 5 Jahren Entwicklungshelferin im Heimatland ihrer Eltern. 
-*Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grund-legende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut. 
+*Beispiel: Taban ist seit 3 Jahren Entwicklungshelferin im Heimatland ihrer Eltern. 
+*Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grundlegende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut. 
 *All diese Fertigkeiten sind durch ihren breiten Beruf abgedeckt: 
-**+: Entwicklungshelferin: 
-**	6 (8)
+**+: Unerfahrene Entwicklungshelferin: 6
 
 
 
 #Waffenloser Kampf
-Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf seinen Wert. 
+Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf den Wert seiner Kampffertigkeit. 
 
 Das Gleiche gilt für den Kampf mit sehr kurzer gegen sehr lange Waffe, z.B. Dolch gegen Schwert oder Schwert gegen Lanze. 
 
@@ -468,7 +466,7 @@ In unserer Welt haben Wunden oft bleibende Folgen. Wenn es den Spielern gefällt
 Charaktere können nicht nur körperliche Verletzungen davontragen, sondern auch auf verschiedenste andere Arten Schaden nehmen. 
 
 Ein Beispiel ist mentaler Schaden (kurz): 
-Hier werden mentale Trefferpunkte aus Willenskraft x2 berechnet. 
+Die mentale Wundschwelle berechnet sich hier aus dem Drittel einer passenden Eigenschaft (z.B. Willenskraft durch 3). Durchschnittlich ist sie 4. 
 
 Wunden sind zeitweise Psychosen, Schrecken, Panik, uvm., und sie schwächen wie körperliche Wunden (-3 auf Proben pro Wunde). 
 
@@ -480,7 +478,7 @@ Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-
 
 
 #Beispielwaffen: 
-Nahkampf: 
+Nahkampfwaffe: Schaden
 - Stab: 3
 - Dolch: 2
 - Schwert: 4
@@ -488,7 +486,7 @@ Nahkampf:
 - Doppelaxt: 10
 - Laserschwert: 36
 
-Fernkampf: 
+Fernkampfwaffe: Schaden
 - Bogen: 4
 - Pistole: 4
 -> 9MM: 8
@@ -527,7 +525,7 @@ Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vo
 #Gewinnen ohne zu verletzen
 Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nur kampfunfähig zu machen, erhält dann aber 3 Punkte Malus. 
 
-Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf Schaden zu verzichten. 
+Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf den zugefügten Schaden verzichten. 
 #Adressen mit SL-Tipps
 Es gibt im Netz eine Reihe Materialien für Spielleiterinnen. 
 
@@ -592,7 +590,7 @@ Wenn eine Spielerin einem Charakter eine neue Fertigkeit oder Eigenschaft geben 
 
 Bei Eigenschaften wird einfach von 12 aufwärts gesteigert (d.h. mit einem Strich pro Punkt bis zum ersten Plus).
  
-12 kostet hier nichts, da sas det Wert einer durchschnittlichen tigenschaft . 
+12 kostet hier nichts, da das der Wert einer durchschnittlichen Eigenschaft ist. 
 
 Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (unterdurchschnittlich), und der dritte erhöht den Wert auf 12 (durchschnittlich). 
 
@@ -604,7 +602,7 @@ Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaft
 
 
 #Eigenschaften steigern, um Fertigkeiten zu verbessern
-Da im vobsy die Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spieler ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen. 
+Da im vobsy die Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spielerinnen ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen. 
 
 Zur Berechnung der Kosten einer Fertigkeits-Steigerung wird immer der Grundwert ohne Eigenschaftsboni genommen, so dass es bei hohen Fertigkeitswerten und niedrigen Eigenschaften oft ratsam ist, erst die Eigenschaften zu steigern, vor allem weil eine Eigenschaft ohne Schwierigkeiten als Basis für viele unterschiedliche Fertigkeiten dienen kann. 
 
@@ -618,7 +616,7 @@ Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie 
 #Ein Beispiel für die Strichvergabe 
 *In der Kampagne von Lazaro hat die SL eine Heldenrunde geplant, die über ein Jahr laufen soll (realistisch gerechnet etwa 12 Spielabende). 
 
-*Nach der Kampagne sollen die Charaktere die Geschichte ihrer Welt mitbestimmen, also Beweger sein (16 Ecken), und sie starten als angehende Helden (7 Ecken). Die Differenz (16-7=9) mal drei ergibt 27 Striche. 
+*Nach der Kampagne sollen die Charaktere die Geschichte ihrer Welt mitbestimmen, also Beweger sein (16 Dreiecke), und sie starten als angehende Helden (7 Dreiecke). Die Differenz (16-7=9) mal drei ergibt 27 Striche. 
 
 *Also erhält jeder Charakter pro Abend etwa 2 Striche, bei besonders schönen Spielabenden auch mal 3. 
 
@@ -667,23 +665,23 @@ Ich habe hier etwas Platz zum Erzählen, also möchte ich kurz von einem der Eff
 Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert des Charakters eine ganz eigene Chancenverteilung für die verschiedenen Mindestwürfe.  
 
 *Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte. 
-*Nach der Steigerung auf 15 schaffte er sie fast immer (83%) und witterte zum ersten Mal die Chance (17%) auch extreme Aufgaben zu bewältigen. 
+*Nach der Steigerung auf 15 schaffte er sie fast immer (83%) und witterte zum ersten Mal die Chance (17%) auch extrem schwere Aufgaben zu bestehen (MW: 21). 
 
-*Sonstige Chancen blieben erhalten, so dass er eine deutliche Verbesserung in zwei Bereichen hatte, trotzdem aber in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren.
+*Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte (fordernde und extreme Aufgaben), trotzdem aber in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren. Um dir das zu vergegenwärtigen, schau dir einfach mal an, was Spielerinnen bei den verschiedenen Werten mindestens würfeln müssen, um Proben mit bestimmten Mindestwürfen zu bestehen. 
 
-Die Langform gibt es auf der Webseite des EWS:
-- http://werte.1w6.org
+<fuss>Die Langform gibt es auf der Webseite des EWS:
+<fuss>- http://werte.1w6.org
 
 
 
 
 #Erschöpfung
 Um die Ausdauer der Charaktere und ihr Durchhaltevermögen besser einschätzen zu können, und vor allem auch für Magie, Psi und ähnliches, kann Erschöpfung mit einbezogen werden. 
-Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer anderen Eigenschaft aufbauen (die verdoppelt wird, um die Ausdauer des Charakters zu erhalten). 
+Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer anderen Eigenschaft aufbauen (deren Wert die Ausdauer des Charakters ergibt). 
 
-Die Spielerin kann sich aussuchen, welche passende Eigenschaft sie für Erschöpfung nehmen will und welche für TP. 
+Die Spielerin kann sich selbst aussuchen, welche passende Eigenschaft sie für Erschöpfung nehmen will und welche für Trefferpunkte. 
 
-Abzüge durch niedrige Erschöpfung werden behandelt wie bei den TP, mit der Ausnahme, dass der Charakter schon bei erreichen seiner halben Erschöpfung einen Punkt Malus erhält.   
+Abzüge durch niedrige Erschöpfung werden behandelt wie bei den Trefferpunkten, mit der Ausnahme, dass der Charakter schon bei erreichen seiner halben Erschöpfung einen Punkt Malus erhält.   
 
 
 
@@ -727,7 +725,7 @@ Konkret bedeutet das:
 
 - Alte Wunden heilen vor neueren. 
   
-- Eine kritische heilt allerdings vor einer alten "normalen" Wunde, bis sie selbst zu einer "Normalen" geworden ist, für den Körper also nicht mehr gefährlicher scheint als andere Wunden. 
+- Eine kritische Wunde heilt allerdings vor einer alten normalen Wunde, bis sie selbst zu einer normalen geworden ist, für den Körper also nicht mehr gefährlicher ist als andere Wunden. 
 
 
 
