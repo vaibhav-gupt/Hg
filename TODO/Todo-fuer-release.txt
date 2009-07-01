@@ -1,4 +1,10 @@
 2.4.0: 
+
+- Korrekturen Von Julian: 
+
+Prüfen, ob lieber nur Punkte oder nur Dreiecke. 
+Charheft auch im PDF mitliefern. 
+
 - bisher Korrekturen von Andi: 
 
 1.) kurz erklären was in den Seitenbereichen steht und wofür die verschiedenen Schriftarten stehen. --- fertig

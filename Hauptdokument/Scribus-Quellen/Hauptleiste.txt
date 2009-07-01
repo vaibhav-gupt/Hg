@@ -333,8 +333,8 @@ Dabei gelten die folgenden sechs Regeln:
 
 ##1) Werte von Eigenschaften und Merkmalen
 **Während der Erschaffung werden Werte nur durch Plusse ("+") und Minusse ("-") ausgedrückt. 
-**Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18 (entsprechend der Tabelle "Namen und Werte" auf Seite 5). 
-**Jedes "+" erhöht also den durchschnittlichen Wert von 12 um drei Punkte, jedes Minus senkt ihn um drei Punkte. 
+**Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18. 
+**Jedes weitere "+" erhöht den Wert um drei Punkte, jedes weitere Minus senkt ihn um drei Punkte. 
 **Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse. 
 
 ##2) Werte von Fertigkeiten und Berufen
@@ -342,25 +342,26 @@ Dabei gelten die folgenden sechs Regeln:
 **Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
 **Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. 
 **Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
+**Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht. 
 
-##3) Eigenschaftsboni
-**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Char nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+, also 14,15,16) geben dabei einen Punkt Bonus. 
-**Eigenschaften mit Werten um 18 (++, also 17,18,19) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
-
-##4) Kosten
+##3) Kosten
 **Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
 **+: 1 Dreieck (Δ) Kosten
 **++: 3 Dreiecke (Δ) Kosten
 **+++: 6 Dreiecke (Δ)
 **++++: 10 Dreiecke (Δ)
 
-##5) Dreiecke verschieben
+##4) Dreiecke verschieben
 **Dreiecke können verschoben werden, um andere Bereiche zu steigern. 
 **Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (Schreiber) oder ein positives Merkmal (z.B. Extremverdauung) nehmen. 
 
-##6) Stärken für Schwächen
+##5) Stärken für Schwächen
 **Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
 **Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Dreiecke (Δ) erhält (siehe Regel 4). 
+
+##6) Eigenschaftsboni
+**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. 
+**Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
 
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
@@ -433,7 +434,7 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 
 
 ##Merkmale: 
-- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (+3): +, Schöne Stimme (+3): +, Unsichtbar: ++, Heilen (2TP/Punkt Erschöpfung): ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Altert nicht: +
+- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Altert nicht: +
 
 - Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: --- 
 
@@ -466,7 +467,7 @@ Hast du schon jemals gehört, "sowas kann doch Jede" oder "es kann doch gar nich
 
 Mancher hat Eltern, die gerne Heimwerkeln, mancher lernt schon in frühen Jahren kochen und Haushaltsführung, manche lernt Wissen über Politik, oder auch über klassische Musik. All das ist der Hintergrund der Person, und es sollte entsprechend gekauft werden. 
 
-Im EWS gibt es dafür den Wert "Hintergrund", der entsprechend benannt und auf einen entsprechenden Wert gesetzt werden sollte. Denn manche hat das nicht und kann dafür vielleicht kämpfen. 
+Im EWS gibt es dafür den Wert "Hintergrund", der entsprechend benannt und auf einen entsprechenden Wert gesetzt werden sollte. Denn manch andere hat den Hintergrund nicht, kann dafür aber vielleicht besser kämpfen. 
 
 Berufe liefern dagegen eine Sammlung von Fertigkeiten, die in einem Beruf genutzt und gelernt werden. Auch hier wird eine Reihe von Fertigkeiten durch einen einzelnen Wert abgedeckt. 
 
@@ -541,7 +542,13 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 3 Meter drei Punkte, bis 9 Metern 6 Punkte und bei über 9 Metern 9 Punkte.  
 
-**Sehr langsame Waffen (Armbrust, Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
+**Abstand: 	Bonus
+**Bis 1m: 	1
+**Bis 3m: 	3
+**Bis 9m:	6
+**Über 9m:	9
+
+**Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
 
 *"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an. 
 
@@ -560,15 +567,15 @@ In diesen Kämpfen können verschiedene Taktiken genutzt werden, die dem Ein Wur
 - Unterstützende Fertigkeiten: Fertigkeiten wie Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jeweils 3 Punkte, die ihr Wert über 9 liegt, einen Punkt Bonus auf den FW (1 Punkt pro + ).   
 #Hinweise zum Leiten
 
-Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System statt mit Kampfunfähigkeit und Verletzung solange niemand auf Leben und Tod kämpft. 
+Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System mit Kampfunfähigkeit und Verletzung statt mit dem Tod, solange niemand auf Leben und Tod kämpft. 
 
-Für manche Spielerinnen ist nebenbei die Gefangenschaft ein viel schlimmeres Schicksal als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
+Nebenbei ist für manche Spielerinnen die Gefangenschaft ein viel schlimmeres Schicksal als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
 
 Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen. 
 
 In einigen klassischen Abenteuergeschichten können die recht realistischen Heilungszeiten, und damit die lange Behinderung durch Wunden, die Handlung unnötig aufhalten. 
 
-Sollte das bei euch so sein, kannst du entweder eine einfache Möglichkeit der direkten Handlung einführen (z.B. Medkits oder Heilzauber) oder das Heilungssystem anpassen. Denk daran, dass es euer Spiel ist. Wenn euch irgendwas stört, dann ändert es einfach. 
+Sollte das bei euch so sein, kannst du entweder eine einfache Möglichkeit der direkten Heilung einführen (z.B. Medkits oder Heilzauber) oder das Heilungssystem anpassen. Denk daran, dass es euer Spiel ist. Wenn euch irgendwas stört, dann ändert es einfach. 
 
 <fuss>Wenn dir Kämpfe mit dem Ein Wurf System zu schnell sind oder nicht genug Spannung aufbauen, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen. Sie behandeln Kämpfe bei weitem ausführlicher. 
 
@@ -586,7 +593,7 @@ Sollte das bei euch so sein, kannst du entweder eine einfache Möglichkeit der d
 
 Über die verschiedenen Module kannst du das EWS an deinen Spielstil und die Geschmäcker deiner Gruppe anpassen. 
 
-In jedem Modul findest du eine kleine Einführung, welchen Einfluss das Modul wahrscheinlich auf den Spielfluss und die Stimmung deines Spiels haben wird. 
+In jedem Modul findest du eine kleine Einführung, die den (wahrscheinlichen) Einfluss des Moduls auf Spielfluss und Stimmung deines Spiels beschreibt. 
 
 Einen Leitfaden zum Anpassen des EWS findest du auf 
 - http://anpassen.1w6.org
@@ -676,7 +683,7 @@ Dabei sind 1 bis 3 Striche pro Spielabend durchschnittlich für normale bis held
 
 Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt werden, um deren Werte zu steigern. 
 
-**Für die Steigerung von Eigenschaften müssen Spielerinnen dabei pro Punkt eine Anzahl von Strichen gleich der Plusse der nächsten Schwelle aufbringen, während bei Fertigkeiten ein Strich mehr benötigt wird (also so viele Striche wie sie bei einer drei Punkte höheren Eigenschaft brauchen würden, wie es auch bei der Erschaffung im vobsy gemacht wird). 
+**Für die Steigerung von Eigenschaften müssen Spielerinnen dabei pro Punkt eine Anzahl von Strichen gleich der Plusse der nächsten Schwelle aufbringen, während bei Fertigkeiten pro Punkt ein Strich mehr benötigt wird (also so viele Striche wie sie bei einer drei Punkte höheren Eigenschaft brauchen würden, ähnlich wie bei der Erschaffung im vobsy). 
 
 **Zur Berechnung der Kosten von Fertigkeiten wird der Grundwert genommen. 
 
@@ -697,7 +704,7 @@ Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusamme
 
 Die passendste Anzahl von Strichen pro Abend hängt von der Länge der Kampagne und von der geplanten Entwicklungsgeschwindigkeit ab. 
 
-Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Ecken zusammen. 
+Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. 
 
 Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. 
 Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. 
@@ -714,7 +721,8 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 *Kehren wir noch einmal zu Lazaro zurück. 
 
-*Er hat gerade eine längere Seefahrt heendetievon der von den fnur über die prechen weden. 
+*Er hat gerade eine längere Seefahrt beendet, von der wir nur über für die Steigerung relevante Teile sprechen werden. 
+
 
 *Da er die Reise um einige sehr schöne Szenen bereichert hat (vor allem an dem Abend des Festes der Grafentochter) und mehrfach in Gefahr für Leben und Freiheit geriet (wenn auch nicht durch Piraten, sondern durch die Leibwachen der genannten Dame), hat die Spielleiterin zusammen mit der restlichen Runde entschieden, ihm 4 Striche zu geben (wie auch dem reisenden Mönch für seine ausdauernden und ideenreichen Versuche, Lazaro ins Gewissen zu reden, obwohl die letztendlich die Wachen auf den Plan riefen). 
 
@@ -722,7 +730,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 *Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Charisma ist eine Eigenschaft, also braucht er für die Steigerung um einen Punkt zwei Striche, nämlich einen für jedes Plus der nächsten Schwelle. 
 
-*Weil er das ganze Abenteuer über immer wieder Charisma genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Ecken nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt. 
+*Weil er das ganze Abenteuer über immer wieder Charisma genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Dreiecke nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt. 
 
 
 
@@ -731,7 +739,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 
 
-*Die verbleibenden Striche will er nutzen, um die "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist (damit ist er mit seinen Eigenschaftsboni effektiv gut: 12+2=14), er aber noch viel besser werden will. Da die nächste Schwelle in der Kunst der Flirtens + ist (sehr gut: 15), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
+*Die verbleibenden Striche will er nutzen, um die "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens + ist (sehr gut: 15), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
 
 
 
@@ -838,17 +846,16 @@ Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4.
 Beispiel: Lazaros Erschaffung auf S. 15. 
 
 ##Niedrige Trefferpunkte
-
 **Wenn die verbleibenden Trefferpunkte eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
 
 **Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. 
 **Misslingt diese Probe, so wird er handlungsunfähig. 
 
-**Wenn sie gelingt, steigt sein Malus durch niedrige TP auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
+**Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
 
-**Sinken seine TP auf den Wert seiner gewählten Eigenschaft im negativen (z.B. auf -KO, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner Eigenschaft gefallen ist. Bei -2xKO (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3xKO (-36) ist der Mindestwurf 18. 
+**Sinken seine Trefferpunkte auf den Wert seiner gewählten Eigenschaft im negativen (z.B. auf -Konstitution, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner Eigenschaft gefallen ist. Bei -2x Konstitution (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x Konstitution (-36) ist der Mindestwurf 18, und bei -4x Konstitution (-48) ist er 21. 
 
-**Sinken die Trefferpunkte auf oder unter das Vierfache der gewählten Eigenschaft (z.B. auf -4xKO (-48)), dann ist er unwiederbringlich tot.
+**Sinken die Trefferpunkte auf oder unter das fünffache der gewählten Eigenschaft (z.B. auf -5x Konstitution (-60)), dann ist er unwiederbringlich tot.
 
 Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
 
@@ -858,9 +865,9 @@ Erhält ein Charakter mit einem Treffer weniger als seine Wundschwelle an Schade
 
 **Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
 
-**Erhält er gar Schaden in Höhe der gewählten Eigenschaft (halbe TP), dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
+**Erhält er gar Schaden in Höhe der gewählten Eigenschaft, dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
 
-**Ein Charakter erhält Von einer einzelnen Verletzung nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde, aber keine zwei Wunden. 
+**Ein Charakter erhält von einer einzelnen Verletzung nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde, aber keine zwei Wunden. 
 
 Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
 
@@ -882,17 +889,19 @@ Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche.
 
 Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. 
 
-Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS 6) also jede Woche Schaden nehmen. 
+Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen. 
+
+<fuss>Weitere Modifikatoren stehen in der Seitenleiste auf Seite 24: Einfluss der Heilungsumstände.
 
 #Heilungszeiten
 
-Ein Charakter mit durchschnittlicher KO (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP. 
+Ein Charakter mit durchschnittlicher Konstitution (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP. 
 
 Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (die Wunde heilt in etwas über einem Monat Reisezeit). Er kann es sich also leisten, mit Wunde zu reisen. 
 
-In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
+In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2 TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert. 
 
-Ein schwacher Charakter (KO: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1TP pro Woche und 3 Monate Krankenhaus. 
+Ein schwacher Charakter (Konstitution: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2 TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1 TP pro Woche und 3 Monate Krankenhaus. 
 #Nahkampf
 
 Die Regeln des Fokusmoduls Kampf stehen für den normalen Kampf in unsicherer Umgebung und ohne Regeln jeglicher Art. 

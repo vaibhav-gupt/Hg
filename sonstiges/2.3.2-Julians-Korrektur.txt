@@ -46,6 +46,8 @@ Ich habe als einzige Lösung bisher die Möglichkeit gefunden, Dreiecke rauszust
 
 Was in den Grundregeln Punkte sind wird dann zu Dreiecken, also jeweils drei Strichen. 
 
+Alternativ können wir auch riskieren, am Anfang von dreiecken zu sprechen und konsequent dabei zu bleiben. 
+
 # Beschreibung der Machtstufen
 
 Ich habe einmal "sie" eingefügt, damit es keine zu monotone Aufzählung wird. 
@@ -62,11 +64,69 @@ Habe gerade nachgeschaut: Geht jetzt beides :-)
 
 Ich habe es jetzt als Text-Tabelle eingefügt und dafür die expliziten Zahlenbereiche aus dem Regeltext entfernt. Sieht so deutlich klarer aus. 
 
-Für den beruf habe ich das Beispiel abgewandelt: 
+Für den Beruf habe ich das Beispiel abgewandelt: 
 
-*Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
+"Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss."
 
 
+# Beruf und Geld
+
+Stimmt natürlich - eine weitere Regression :) 
+
+War auch nicht ganz sauber, daher habe ich es jetzt klarer gemacht und Fertigkeit und Verdienst komplett getrennt: 
+
+"Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersezt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen. 
+
+Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal "Vermögend" wählen, das ihm das dreifache Durchschnittseinkommen beschert."
+
+
+# 6 Regeln der Erschaffung
+
+Ich habe sie jetzt mal umsortiert - ich hoffe, das macht es etws klarer: 
+
+* Eigenschaften und Merkmale
+* Fertigkeiten und Berufe
+* Kosten
+
+* Dreiecke verschieben
+* Stärken für Schwächen
+* Eigenschaftsboni
+
+Damit sind die Punkte, die man zusammen braucht auch eher zusammen. 
+
+
+# Merkmale: "Kampfreflexe" hat jetzt als Beschreibung "Als Erste dran" und Heilen ist raus (kriege ich nicht in 3 Worten erklärt). 
+
+
+# Breite Berufe
+
+Hier habe ich "Alles" rausgestrichen und "Schwelle" wieder durch "3 Punkte höher" ersetzt. 
+
+
+# Wirkung des ±W6
+
+Bei einer Steigerung um einen Punkt erhöhen sich nur die Chancen für zwei bestimmte Mindestwürfe. Alle anderen bleiben gleich. 
+
+Ich hab's jetztmal so probiert: 
+
+"Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte, trotzdem aber in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren."
+
+
+# Erschöpfung
+
+Wird natürlich nicht verdoppelt - war nicht aktualisiert. Refaktorierung ist Arbeit :) 
+
+
+# Abkürzungen
+
+Verdammte Gewohnheit :) 
+
+Die sollten raus, denke ich. Abkürzungen machen nur bei einem festen Kanon an Namen Sinn, und den hat das EWS absichtlich nicht. 
+
+
+# Ab 6-fach tot
+
+da müssen wir bis -5x Eigenschaft runtergehen, also -60; sieht auch klarer aus, dank Dezimalsystem :) 
 
 
 TODO: Sven überall durch "Gudrun" ersetzen. 
