@@ -684,7 +684,9 @@ Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer and
 
 Die Spielerin kann sich selbst aussuchen, welche passende Eigenschaft sie für Erschöpfung nehmen will und welche für Trefferpunkte. 
 
-Abzüge durch niedrige Erschöpfung werden behandelt wie bei den Trefferpunkten, mit der Ausnahme, dass der Charakter schon bei erreichen seiner halben Erschöpfung einen Punkt Malus erhält.   
+Abzüge durch niedrige Erschöpfung werden behandelt wie bei den Trefferpunkten.   
+
+
 
 
 
