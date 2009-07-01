@@ -39,6 +39,9 @@ Jede Fertigkeit erhält Boni aus bis zu zwei passenden Eigenschaften. Welche Eig
 *Hat ein Charakter zum Beispiel die Fertigkeit Kochen und die Eigenschaften sehr guter Geruchssinn (15) und sehr gute Intuition (15), könnte die Spielerin entscheiden, dass ihr Charakter vor allem nach seiner Nase und seiner Intuition kocht und daher diese beiden Eigenschaften Boni auf seinen Wert in Kochen geben. 
 
 
+
+
+
 #Namen und Werte
 Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet. 
 

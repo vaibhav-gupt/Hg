@@ -30,8 +30,7 @@ Die meisten Module findest du auf
 
 #Eigenschaften
 
-Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Erscheinungsbild, Stärke, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit, Disziplin oder Geistesschärfe), Soziales (wie Charme, Ego, Stil, Coolness oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jeder zu einem gewissen Grad hat. 
-
+Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Aussehen, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jede zu einem gewissen Grad hat. 
 Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet. 
 
 **Eigenschaften von Menschen haben Werte zwischen 6 und 18. Was darüber hinausgeht ist der Stoff für Legenden. 
@@ -50,17 +49,14 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 
 **Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt. 
 
-Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt. 
 
-<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14.
+*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.*
 
-<fuss>Für Fertigkeiten gibt es Beispiele ab Seite 19. 
+<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14. Beispiele für Fertigkeiten gibt es ab Seite 19. 
 
 #Beruf und Hintergrund
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
-
-Entfernter verwandte Fertigkeiten kann er mit einem drei Punkte niedrigeren Wert nutzen. 
 
 **Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei festgelegte Eigenschaften, sondern eine einzelne zur aktuellen Situation passende Eigenschaft. 
 
@@ -86,9 +82,6 @@ Für Kämpfe hat ein Charakter außerdem eine Wundschwelle.
 **Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durchschnittswert ist daher 4. 
 
 <fuss>Einzelheiten zu Wunden findest du ab Seite 24 unter "Auswirkungen von Verletzungen". 
-
-
-
 
 
 #Einfache Proben
@@ -130,7 +123,6 @@ Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft
 
 Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Konkurrent einfach ein Stückchen besser ist.   
 
-<fuss>Modul: Kritische Erfolge und Patzer (krit)
 #Charaktererschaffung
 
 Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Die Erschaffung der Charaktere. 
