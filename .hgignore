@@ -1,1 +1,3 @@
 glob:*~
+glob:*/static/*.html
+.directory
