@@ -13,7 +13,7 @@ Denn fertig heißt hier nur, dass ich denke, dass sie fertig ist, und
 selbst keine weiteren Fehler gefunden habe. Die Chance, dass wirklich keine da 
 sind, geht natürlich gegen null :)
 
-Bitte [lade es dir herunter](/releases/ews-2.3.2.pdf) und schreib' uns, was dir auffällt! 
+Bitte [lade es dir herunter](/releases/ews-dok-2.3.2.pdf) und schreib' uns, was dir auffällt! 
 
 Die wichtigsten Änderungen seit Version 2.2 sind: 
 
