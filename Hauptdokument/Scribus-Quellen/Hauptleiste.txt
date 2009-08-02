@@ -187,13 +187,13 @@ Der erste Schritt zur Charaktererschaffung ist die Festlegung des Machtniveaus d
 
 Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die anderen sollten klar sein. Es gibt vordefiniert die folgenden Machtstufen (in Klammer stehen jeweils die Punkte): 
 
-- In der Gosse/Spiel ganz unten (-1)
-- Normale Leute (4)
-- Angehende Helden (7)
-- Erfahrene Helden (11)
-- Beweger (16)
-- Mächtige unter den Mächtigen (24)
-- Halbgötter (40)
+- In der Gosse/Spiel ganz unten (-1Δ)
+- Normale Leute (4Δ)
+- Angehende Helden (7Δ)
+- Erfahrene Helden (11Δ)
+- Beweger (16Δ)
+- Mächtige unter den Mächtigen (24Δ)
+- Halbgötter (40Δ)
 
 Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher der Machtstufen ihr spielen wollt. 
 
