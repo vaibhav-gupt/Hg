@@ -233,11 +233,11 @@ Schema:
 Eigenschaften, Fertigkeiten|Beruf /  Hintergrund, Merkmale. 
 (Eig, Fert|Ber, Merk)
 
-Δ ist ein starker Wert
-- ist eine Schwäche
+1Δ ist ein starker Wert
+-1Δ ist eine Schwäche
 
 1: In der Gosse/Spiel ganz unten: 
-(1-, 1Δ, 1-)
+(-1Δ, 1Δ, -1Δ)
 
 2: Normale Leute: 
 (1Δ, 1Δ|1Δ, 1Δ)
