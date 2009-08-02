@@ -1672,7 +1672,7 @@ Gegenstaende so laden.
 
 ------ 
 
-Kampagnenidee: 
+Kampagnenidee: Von Kindern zu Helden. 
 
 Erstes Abenteuer als Kinder, formt die Fähigkeiten schonmal - schon hier ihre Hauptfähigkeiten. 
 
@@ -1681,3 +1681,28 @@ Danach erstmal Auszeit, in der sich die Chars weiterentwickeln.
 Sobald sie Erwachsen sind (und gesteigert), kommen die alten ereignisse zurück. 
 
 ------ 
+
+Kampagnenidee: Die Idee weitertragen. 
+
+Charaktere haben etwas wichtiges zu tun, können aber leichter mal verschwinden. Daher geben 
+sie das Abenteuer weiter. Ideen dafür: 
+
+- Verfluchtes Artefakt, das sich an jemand neuen bindet
+- Details über eine Verschwörung
+- Besondere Fähigkeiten, die weitergegeben werden ("Er hat dir seine Kraft übertragen, und 
+große Kraft bringt große Verantwortung")
+
+Am einfachsten sind möglicherweise die Antagonisten als Motivator. 
+
+Muss etwas sein, das man nicht einfach an die Öffentlichkeit geben kann (zu unglaubwürdig, 
+zu gefährlich, ...), das aber gleichzeitig im privaten Rahmen bewiesen oder zumindest klar 
+belegt werden kann. 
+
+Bsp. Verluchtes Artefakt: etzt bist du besessen, und deine Freunde glauben dir, aber du 
+würdest nur in einer Irrenanstalt landen, wenn du es vberbreiten wolltest. 
+
+Idee (teils aus Fringe): Char landet in einer Irrenanstalt. Kampagne geht 20 Jahre später 
+weiter. 
+
+------ 
+
