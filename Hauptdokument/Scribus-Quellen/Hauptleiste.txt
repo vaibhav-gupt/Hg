@@ -199,7 +199,7 @@ Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher der 
 
 Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen). 
 
-Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Spielern und der Art des Abenteuers ab. 
+Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspielern und der Art des Abenteuers ab. 
 
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. 
 
@@ -284,7 +284,7 @@ Und damit ist Svens Charakter beinahe spielfertig.
 
 **Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann. 
 
-*Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Wundschwelle. Da er keine passende Eigenschaft hat, nimmt er einfach ein drittel des Durchschnittswerts von 12, erhält also eine Wundschwelle von 4. Diesen Wert und seine Waffe erhält Larzaro noch als Zusätze: 
+*Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Wundschwelle. Da er keine passende Eigenschaft hat, nimmt er einfach ein Drittel des Durchschnittswerts von 12, erhält also eine Wundschwelle von 4. Diesen Wert und seine Waffe erhält Larzaro noch als Zusätze: 
 
 **Wundschwelle: 4
 **Waffe: Degen; Schaden: 4. 
@@ -463,7 +463,7 @@ Anmerkung: Die Regeln für Beruf und Hintergrund sind gleich, daher verwenden wi
 
 #Kampf
 
-Da ihr nun Charaktere habt, werdet ihr vermutlich auf Abenteuer ausziehen. Erfahrungsgemäß wird es dabei nicht lange dauern, bis euch jemand gegenübersteht, der sich nicht mit Worten überzeugen lässt (oder ihr wollt euch nicht überzeugen lassen). Wenn dann jemand zu anderen Mitteln greift, braucht ihr wohl Kampfregeln. 
+Da ihr nun Charaktere habt, werdet ihr vermutlich auf Abenteuer ausziehen. Erfahrungsgemäß wird es dabei nicht lange dauern, bis euch jemand gegenübersteht, der sich nicht mit Worten überzeugen lässt (oder von dem ihr euch nicht überzeugen lassen wollt). Wenn dann jemand zu anderen Mitteln greift, braucht ihr wohl Kampfregeln. 
 
 Das EWS ermöglicht das Ausspielen von Kämpfen auf zwei verschiedene Arten. 
 
