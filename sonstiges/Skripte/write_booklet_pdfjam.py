@@ -12,7 +12,7 @@ Requirements:
 
 """
 
-__copyright__ = """Turn pdf file into a booklet. 
+__copyright__ = """write booklet - Turn a pdf file into a booklet for printing. 
 
     Copyright © 2009 Arne Babenhauserheide
  
