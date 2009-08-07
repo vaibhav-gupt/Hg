@@ -10,6 +10,9 @@ Requirements:
    - pyPdf (http://pybrary.net/pyPdf/)
    - pdfjam (http://www.warwick.ac.uk/go/pdfjam)
 
+Ideas: 
+   - rename to pdf2booklet.py
+
 """
 
 __copyright__ = """write booklet - Turn a pdf file into a booklet for printing. 
