@@ -1,0 +1,1708 @@
+Aus dem Wiki: 
+
+## Vor-/Nachteile/Besonderheiten: 
+
+### Ideen
+
+Differenzierung zwischen Männdern und Frauen
+* Menschl. Frau: Stärke -1, Gesundheit +1, Willenskraft +1, kann schwanger werden. 
+* Menschl. Mann: Stärke +1, Willenskraft -1, Lebenserwartung -5 Jahre. 
+
+( http://www.strangeminds.de/fera/viewtopic.php?t=292&sid=b30c05fd60e7ca39181176c11dbea45e: 
+* Kraft: Mann 100% Frau 90% 
+* Intelligenz: Mann 100%, Frau 100% 
+* Willenskraft: Mann 95%, Frau 100% 
+* EQ: Mann 90%, Frau 100% 
+* Geschick: Mann 100%, Frau 100% 
+* Fingerfertigkeit: Mann 95%, Frau 100% 
+* Vitalität: Mann 95%, Frau 100% 
+* Gesundheit: Mann 90%, Frau 100% (Männer sterben im Ø 7 Jahre, oder würdet Ihr das eher als Folge von niedrigerer Vitalität sehen?) 
+)
+
+------ 
+
+House of Elegance (von Kayan von Star Spirit)
+
+Kreaturen aus der Welt herrufen (Summon Beast), die dann gehorchen müssen. 
+
+Langfristige Auswirkungen von Magie (großflächig, mit begrenzten Raum, mit begrenzter Zeit, oder langfristitg). 
+
+Zauber erzeugen ein Diffuses Potential. Ein Feuerball z.B. erzeugt das Potential, dass etwas Feuer fängt, erhöht also die Gefahr von zufälligen Verbrennungen (Finger an der Pfanne), Waldbränden, etc. 
+
+Elementarmagie erzeugt ein entgegengesetztes/gegenläufiges Potential. Feuerelementarzauber bewirken, dass später Feuer schwerer zu entzünden sind, Wasserzauber können dafür sorgen, dass am nächsten Morgen der Tau fehlt oder weniger ist, etc. 
+
+2 Arten von Elementarmagie: Kurze Reichweite, schöpferisch, erschaffend und lange Reichweite, modifizierend, verstärkend/schwächend, skalierend, 
+
+Auch schöpferische Elementarmagie erzeugt keine Feuerbälle, sondern lässt stattdessen vielleicht den eigenen Stab brennen, oder gleich das Ziel. Extrem kurze Reichweite. 
+
+------ 
+
+### Das Attribut "Innere Kraft"
+
+Innere Kraft wird benutzt um Mana zu manipulieren. Je mehr Innere Kraft, desto mehr Mana, Magiebegabung als Multiplikator. 
+Innere Kraft auch um Mana im eigenen Körper zu speichern, oder direkt Effekte hervorzurufen. 
+
+Jeder kann Innere Kreft nutzen. Pro mod-punkt (die Plusse) kann bei Proben ein W4 zusätzlich geworfen werden. Die geworfene Zahl wird zum Ergebnis der Probe addiert. 
+
+Innere Kraft zu nutzen hat Kosten. IK ist ein Attribut. Die Anzahl der positiven Mods kann als Würfel geworfen werden. Diese Punkte einzusetzen kostet pro Würfel 5 Punkte Ausdauer, allerdings erst nach der Aktion. Zusätzlich können 4 weitere Würfel geworfen werden (12/3), die jedoch 5LP pro Würfel kosten (einige Zeit nach der Aktion), weil tief liegende Notreserven aktiviert werden. Außerdem gibt es die Möglichkeit von Langzeitschäden (permanenten Attributs- oder Fertigkeitseinbußen). Wird das Wundensystem benutzt, gilt jeder verwendete Würfel als leichte Wunde, mit allen Fertigkeitseinbußen. 
+Wenn das noch nicht reicht, können nochmal soviele Würfel geworfen werden ({doppelter IK-Wert}/3), wodurch der Charakter nach der Aktion dem Tod nahe ist. Im Todeskampf nutzen die meisten Wesen diese Reserven. 
+Jeder W4 gibt einen durchschnittlichen bonus von +2,5 auf das Ergebnis. 
+Nach dem Einsatz können die mod-Würfel erst wieder benutzt werden, wenn die Ausdauer regeneriert ist. Dasselbe gilt für die Würfel, die Lebensenergie kosten. Erst nach regeneration der LP können die Punkte wieder eingesetzt werden. Das folgende Szenario ist allerdings möglich: 
+
+Asgil, Diplomat, hat seine zwei IK-Würfel aufgebraucht, um den Botschafter des Tekray-Städtebundes von den Lauteren Absichten seines Imperiums zu überzeugen. Leider kommt in diesem Moment ein Bote herein und berichtet von der Armee, die im Anmarsch auf die Stadt ist, und Asgil muss flüchten. Als ein Krieger Tekrays ihn stellt, schleudert er ihn mit übermenschlicher Kraft beiseite (er nutzt 3 weitere Würfel, in der nächsten Szene wird er die Beeinträchtigungen durch mehrere Muskelzerrungen und Muskelfaerrisse, schmerzende Gelenke, etc spüren: 15LP), und flieht. Als er in der Nacht von einem weiteren Soldaten aufgespürt und durch dessen Ungeschicklichkeit geweckt wird, springt er, alle Verletzungen ignoriernd (dafür drei weitere Würfel auswendend: 2 IK Würfel und einen zusätzlichen) auf und schlägt den Wächter nieder. schwer Atmend steht er über ihm, und spürt die unendliche Erschöpfung, die sich in ihm breit macht. Er fällt auf sein Lager und schläft bis in den Morgen. Die nächsten Wochen wird er stark beeinträchtigende Muskel- und Gelenkschmerzen haben, und seine Bewegungen sind seitde nicht mehr so geschmeidig wie früher (Er muss vier Proben auf seine Stärke würfeln (4 eingesetzte zusätzliche Würfel). Jeder kritische Fehler dabei kostet ihn permanent einen Punkt Stärke). 
+
+Die Würfel können auch verwendet werden, um bei eigentlich tödlicher Verletzung noch weiterkämpfen zu können. Dabei wird für jeden eingesetzten Punkt der Schaden virtuell um 5LP verringert (was die Modifikationen verringert), allerdings nur in der Szene, in der der Punkt eingesetzt wird. In der nächsten Szene ist der Schaden wieder voll da, und der Charakter leidet zusätzlich an den Kosten des Einsatzes der Inneren Kraft (entweder 5 verlorene AU-Punkte, oder 5 zusätzlich verlorene LP). 
+
+------ 
+
+### Vorteil: Status (Glaubwürdigkeit, Stand, Beruf)
+* 1: arbeitsloser Penner
+* 2: Lehrling
+* 3: Geselle
+* 4: Berufstätig
+* 5: angesehener Beruf
+* 6: Stadtbekannt, wohlhabend, Stadtrat, o.ä.
+* 7: Über die Stadt hinaus bekannt für xy, Stadtherr, ö.ä.
+* 8: berühmt für xy, reich, bekannt im ganzen Land, 
+König, Prinz, beliebter Militäroffizier, landbekannter Barde, jemand dessen Gunst man sich nicht verscherzt, ö.ä.
+
+------ 
+
+### Detaillierter Kampf: 
+
+Schadenssystem: Reines Wundensystem. 7 Kästchen plus unverletzt. Leichte Wunde streicht ein Kästchen, schwere streicht vier, bei 7 besteht Todesgefahr (KO-Probe (18) für jede weitere Wunde, maximal KO/6 weitere leichte Wunden (echt runden) oder eine schwere Wunde)). Abzüge: für jede Wunde -1 auf At und PA. 
+Z.B.: Acht Kästchen untereinander und vier weitere daneben, von unten her. Dazu einen Kasten um die Verwundungsschwelle einzutragen und einen für die Konstitution. 
+
+Detaillierteres System: 
+* At: 6+x
+* PA: 6+ (FW-x)
+* -> FW aufteilen. 
+* MW: 12
+
+(=> bei FW12 (durchschnitt) AT: 12, PA: 12, 50% Chance; bei FW 18 (hervorragend) AT: 15, PA: 15, 82% Chance; bei FW 6 (schwach) AT: 9, PA: 9, 33% Chance)
+
+Modifikatoren: Unsichtbarer Gegner: FW -6/MW +6
+
+------ 
+
+### Steigerung der Charaktere: 
+
+Ohne Lehrmeister kostet jede Stufensteigerung die doppelten GeP. 
+Bestimmte Erfahrungen können einen Lehrmeister unnötig machen (Gebirgsüberquerung für Überleben (Gebirge), Ein Monat auf dem Schlachtfeld für Nahkampf)
+
+------ 
+
+## Kategoriesystem
+
+Zwischen zwei Kategorien wird normalerweise nicht gewürfelt. 18/3=0/4, 21/3=3/4, 24/3=6/4. Stufe 21 einer Kategorie kann grob Stufe 3 der eins höheren Kategorie zugeordnet werden. 
+Jedes Menschliche Attribut liegt normalerweise auf Stufe 4. Jedes einzelne der Attribute kann wie Stärke in anderen Kategorien liegen, wobei die Kosten dafür bei der Charaktererschaffung pro Attribut, das über der Standard-Kategorie für die Kampagne liegt, 250 GeP betragen. 
+
+### Spezies: Größe
+
+* 1: Ameise, Käfer, Nanobot
+* 2: Frettchen, Fee, Windling (>5cm)
+* 3: Zwerg, Halbling (~0,5x) (>50cm)
+* 4: Mensch (~ 1,50m bis 2,30m)
+* 5: Troll, kleiner Baum (~2x)(bis 5m)
+* 6: Riese, Drache, Scoutschiff (~20x)(bis 50m)
+* 7: Weltenschiff, Weltraumwesen, Planet, Kontinent
+
+### Spezies: Magie
+
+Mit langwierigen Ritualen könnte es möglich sein, Kräfte aus einer höheren Kategorie/Ebene zu nutzen. 
+
+* 1: Total "kopfblind", nichts, gar keine Magie
+* 2: Empfänglich, kann gerade noch mächtiges wahrnehmen (Gefahreninstinkt, Intuition, Haare stellen sich auf)
+* 3: Mini-Kinet, Glückspilz, Pechvogel, Kerzenanzünder (Pfeife anzünden)
+* 4: Magier, Telepath (Feuerball, bei einem Gedanken lesen, Gedankliche  Verschmelzung)
+* 5: Hive-Mind, Sidhe, Rohal (Ein Häuserblock-Inferno, Tore zu fremden Dimensionen/Welten, Massentelepathie)
+* 6: Dämon, griechischer Gott (Stadt verfluchen, Zeit umkehren, lökale Dimensionen lokal verschmelzen)
+* 7: Gaia, Galaxie (Raumschiff oder Land heimsuchen/verfluchen, zerstören)
+
+### Spezies: Stärke
+
+* 1: Ameise, Nanobot, Fliege
+* 2: Fee, Maus (> 2,5g) (>Geldstückchen) (Nach St:### 4g)
+* 3: Kind, Windling, Ratte (>200g) (nach St:### 400g)
+* 4: Mensch (10-250kg)
+* 5: Troll (bis 10 Tonnen) (Nach St: bis 5t)
+* 6: Scoutschiff, schwerer Panzer, schwerer Battlemech (bis 40kt) (Nach St: bis 500t)
+* 7: Planet, Weltenschiff, Raumzerstörer, Raumstation, Kontinent
+
+### Spezies: Masse
+
+* 1: Fliege, Ameise, Nanobot
+* 2: Fee, Maus, große Käfer(>0,5g)
+* 3: Kind, Halbsling, Windling, Ratte (>100g)
+* 4: Mensch (20-300gk)
+* 5: Troll, Oger, Bulle, Triceratops, Tyrannosaurus (bis 20t)
+* 6: Panzer, Scoutschiff, Haus, Seezerstörer (bis 100kt)
+* 7: Planet, Weltenschiff, kontinent
+
+### Spezies: Zeitablauf (Reaktionszeit)
+
+* 7: Plasmawese, Elektron, Blitz
+* 6: Virus, Computer
+* 5: Fliege (>20ms)(auf 20m einer Kugel ausweichen, mit zusehen des Anderen)
+* 4: Mensch (0,2-5s)
+* 3: Blume (bis 15min)
+* 2: Baum, Wald (Tage, Wochen)
+* 1: Planeten, ganze Ökosysteme, Gebirge, Sonnensysteme, Galaxien
+
+------ 
+
+## Umsteigen
+
+### GURPS Charaktere konvertieren
+
+Um GURPS Charaktere zu konvertieren, können die besonderen Attribute übernommen werden (alle, die nicht 9, 10 oder 11 sind). Weitere Attribute können aus den Vorteilen übernommen werden (z.B. Aussehen und Charisma). 
+
+Dabei wird 10 als 12 gerechnet, 
+* Gurps => EWS
+* 11=13, 
+* 12=14, 
+* 13=15, 
+* 14=15
+* 15=16
+* 16=17
+* 17=18
+* 18=19
+* 19=20
+* 20=21
+* ;
+* 9=11
+* 8=10
+* 7=9
+* 6=7
+* 5=6
+* 4=5
+* 3=4
+* 2=3
+* 1=2
+* 0=0
+
+------ 
+
+## Kampf
+
+### Duelle, Idee 1
+
+Parade erschwerenum einen Bonus auf den Angriff zu haben od. dem anderen die Parade zu erschweren (entweder mehr Schaden oder eher treffen). 
+
+Angriff mit Malus für Parade. Malus des Gegners oder mehr Schaden. 
+
+Bei Misslingen in der Runde danach Pa Malus. 
+
+
+### Duelle, Idee 2: 
+
+Mit virtuellem Schild. Normaler Kampf, aber 3 bis 9 Punkte Schild (der Wert des Gegners muss um 3 bis 9 Punkte übertroffen werden, um zu treffen (der Angegriffende muss nach Abzug des Schildwertes (SW) noch um mindestens einen Punkt übertreffen). 
+
+### Schildideen
+
+Wenn der Stärkeunterschied zwischen Schildträger und Angreifer größer als die Schildstärke ist, würfeln beide bei jedem Treffer auf den Schild (Angriff hätte getroffen, wenn der Getroffene keinen Schild gehabt hätte) einen Stärkewettstreit, wobei der Getroffene 1/3 seines Schildwerts als Bonus hat (Behinderung den Schild fällt hier weg). 
+
+Gewinnt der Angreifer, wird der Verteidiger je nach Situation entweder zurückgeworfen (schwierige Geschicklichkeitsprobe mit der Differenz als Malus) oder der Schild wird ihm vom Arm gerissen. 
+
+Ein Angreifer kann auch den Schild als Ziel nehmen. Trifft sein Angriff, wird eine vergleichende Stärkeprobe zwischen Angreifer und Verteidiger gewürfelt, wobei der Verteidiger einen Bonus gleich 1/3 des Schildwerts hat (Behinderung durch den Schild fällt hier weg). Optional: Der Schild bekommt dadurch Schaden in Höhe des Schadenswerts der Waffe plus der Differenz im Angriff. 
+
+------ 
+
+### Schaden über Kategoriegrenzen
+
+Wenn eine Kreatur/ein Wesen/ein Gegenstand aus einer anderen Kategorie Schaden durch etwas aus einer niedrigeren Kategorie nimmt, wird der Schaden durch drei geteilt. Kommt der Schaden von einem Wesen aus einer höheren Kategorie, wird er verdreifacht. 
+Diese Regel gilt immer dort, wo das betreffende Attribut in einer anderen Kategorie liegt. Verursacht ein Troll (Stärke Kategorie 5) im Nahkampf einem Menschen Schaden (Konstitution Kategorie 4) wird dieser Schaden verdreifacht, wobei die Werte einer Trollaxt dieselben sind wie die einer Menschlichen Axt (etwa 2W-2). Die verdreifachung des Schadens stellt den Größenunterschied dar. Durch dieses System wird viel unnötiges Rechnnen vermieden, so dass die Aufmerksamkeit eher ins Spielen fließen kann. 
+Nach dem selben System wird der Schaden eines für Menschen ausgelegten Lasergewehrs (Kategorie 4) bei einem Treffer auf ein kleines Scoutschiff (Größe, Kategorie 6) durch 9 geteilt. 
+
+------ 
+
+## Charaktererschaffung
+
+### Nach dem Chinesischen Horoskop
+
+Um den Charakter in einer Welt die China ähnelt zu erschaffen, wird sen Geburthoroskop festgelegt, um Boni auf die Attribute und einige Grundfertigkeiten zu finden. Dann wird ein Lebensweg festgelegt, der weitere Modifikationen bringt. Dann die Familie und als letztes kann der Spieler noch vollständig individuelle Änderungen vornehmen. 
+
+### Verhaltend es Charakters darstellen
+
+Instinkt, Vernunft und Werte als Attribute, um Charakterreaktionen festzulegen. Worauf verlässt sich der Charakter eher? (Aus Aera: Codexwerte (Da aber Instinkt, Vernunft und Glaube)). 
+
+------ 
+
+## Charakterentwicklung
+
+Nach jedem Spielabend bekommen die Charaktere EP, Entwicklungspunkte, die für Steigerungen von Fertigkeiten, Attributen, Vorteilen und sonstigen veränderlichen Charakterwerten ausgegeben werden können. 
+Ein EP entspricht in den meisten Fällen einem GeP und aufgebrauchte EP werden zu den GeP des Charakters addiert. 
+
+Pro Spielabend sollte für je 2 Stunden Spiel pauschal etwa 1 EP vergeben werden. Außerdem sollten Charaktere für besondere Aktionen, gutes Charakterspiel (des Spielers) und gefährliche Situationen bis zu drei zusätzliche EP erhalten. 
+Der Abschluss epischer Kampagnen und legendäre Taten können mit weiteren Punkten belohnt werden. Je nach Ausmaß etwa jeweils 3 bis 12 GeP für alle Beteiligten, da sich Charaktere durch diese Situationen oft stark weiterentwickeln und sich nicht selten deutich verändern. 
+
+------ 
+
+## Attributs-/Eigenschaftsideen
+
+### Aus Aera: 
+
+* Geist: Disziplin, Intellekt, Wahrnehmung
+* Körper: Konstitution, Kraft, Geschicklichkeit
+* Seele: Präsenz, Corona, Disziplin
+
+## Kampf
+### Schiffskampf, Space
+
+* Ähnlich wie normaler Kampf
+* Werte für Schiffe: 
+* Rumpf/Kategorie(Bruchschwelle)
+* Panzerung(Kat)
+* Manöver/Kategorie
+* Sensoren
+
+Bei Kämpfen über große Distanz erst ein Sensoren Wurf (Pilot oder Computer mit einem Punkt Bonus für jede drei Punkte, die der Wert über 12 liegt, bzw. 1 Punkt Malus pro drei unter 12). Über kurze Distanz kann dieser Wurf ignoriert werden. 
+Dann einen Manöver-Wurf auf Pilotenfähigkeit mit einem Punkt Bonus oder Malus für jede 3 Punkte die der Manöverwert des Schiffes über oder unter dem Durchschnitt liegt (12). Bei kleinen Schiffen ohne unabhängig bewegliche Geschütze wird das Ergebnis direkt als Angriffswurf gewertet. Der Mindestwurf ist das Ergebnis des Gegners. Beim Kampf gegen Schiffe mit einem Manöverwert aus einer anderen Kategorie kommen 6 Punkte Bonus oder Malus pro Kategoriedifferenz dazu (Weswegen Jäger und Kleinstschiffe für Großgeschütze kaum zu treffen sind, und weswegen große Schiffe oft noch Kleinstgeschütze tragen). 
+Bei großen Schiffen geben je drei Punkte über dem Ergebnis des Gegners einen Punkt Bonus für die Schützen an den Bordwaffen, oder entsprechend Mali, wenn der Wurf niedriger war. Wenn der kleine Jäger also trifft, ist die Chance geringer, dass er auch selbst getroffen wird, allerdings kann er eben doch noch  getroffen werden, wenn sein Gegner gute Schützen hat. 
+Als Konstitution dient der Rumpfwert. 
+
+Schiffe mit festgestellten Waffen (meistens Kleinstschiffe) können auch auf Kampfmanöver verzichten. Dadurch erleichtern sie sich den Mindestwurf, aber der Gegner kann schießen wie auf ein nur schwach manövrierendes Ziel (Je nach Entfernung MW 12, 15 oder 18, wobei 18 für Reichweiten am Maximum der Sensoren gilt). Verzichten beide auf Ausweichmanöver, gelten diese Mindestwürfe für beide. Beim Kampf gegen größere Schiffe ist das absolut nicht zu empfehlen, da deren Geschütze dann sehr gute Trefferchancen haben. 
+
+ Waffen: 
+Waffen haben einen Kategoriewert (ein menschliches Lasergewehr hat 4, die kleinen Waffen eines normalen Scoutschiffes 5 und die Waffen von größeren Schiffen 6. Kategorie 7 sind Planeten oder Raumstationgestützte Waffen im Kaliber von Raumzerstörern bis zum Todesstern). 
+ Rumpf: 
+Auch die Hülle (Rumpf) hat einen Kategoriewert (Leicht gepanzerte winzige Schiffe bis 5 Meter haben 5, Schiffe mit stabilisierten Hüllen und militärischer Panzerung (die die Hülle nochmal stabilisiert) bis 50m haben Kategorie 6, auch Kategorie 6 sind größere Schiffe, die eigentlich nicht für den Kampf ausgelegt sind (Wie riesige Transportschiffe ohne Panzerung). 
+Um es einfacher zu machen sind Jäger Kategorie 5, größere Schiffe kategorie 6 und wirkliche Großschiffe, die auch für Planeten zur Bedrohung werden können (Zerstörer etc.) Kategorie 7. Ein Jäger kann landen, ein Scout kann handeln, ein Zerstörer kann bombardieren. 
+ Schnelligkeit: 
+Auch die Manövrierfähigkeit und die Schnelligkeit der Geschütze haben einen kategoriewert. Je überschrittener Kategorie bekommt der Schütze einen Malus bzw. Bonus von 6 Punkten, um seinen Gegner zu treffen. 
+
+Jede Stufe, die der Kategoriewert der Waffen über der Kategorie des Rumpfes liegt verdreifacht den Schaden auf das Schiff, jede Stufe die er darunter liegt drittelt den Schaden, bevor die panzerung abgezogen wird (spezielle panzerung kann eine andere Kategorie haben als der Rumpf, was extra bei der Panzerung vermerkt werden muss. Dann wird die Panzerung für jede Stufe, die ihre Kategorie über der des Rumpfes liegt verdreifacht, bzw für jede Stufe darunter durch drei geteilt). 
+
+### Alternatives Schadensmodell für Space
+
+Bei Schaden werden Schiffssysteme beschädigt. "Schwere Wunden" aka schwere Schäden zerstören zentrale Systeme (Waffen, Lebenserhaltung, Antrieb, Elektronik, Hülle (=> Hüllenbruch => Vakuum oder Schotts schließen, Bereich abriegeln), etc.) während leichte Wunden diese Systeme beschädigen (Abzüge bei Benutzung) oder unwichtigere Systeme außer Kraft setzen (Teile der Elektronik (Scan, Zielerfassung, Außenkmeras, Schwerkraftgeneratoren, etc.). 
+"Schwere Wunden" können außerdem zu Verletzungen bei der Besatzung führen. Je nach Situation wird entweder ein schwerer Wurf auf KO, Ge, Reaktion oder sonstige passende Attribute notwendig (MW 15). Jeder Punkt, um den dieser Wert unterschritten wird bedeutet einen Punkt Schaden. Bei Charakteren in kritischen Bereichen oder bei unvorbereiteten Charakteren (die Beispielsweise gerade einen Gang entlanglaufen) kann der Mindeswurf erhöht werden, in extra gesicherten, gedämpften, oder sonstwie geschützten Bereichen kann er gesenkt werden. Meistens wird die Brücke zusätzlich gedämpft sein und gute Pilotensitze bieten Schutz gegen Erschütterungen. 
+Leichte Schäden bedeuten nur für Charaktere im betroffenen Bereich eine Gefahr. 
+
+### Schiffskampf für Fantasy (Seeschiffe)
+
+Beispiele: 
+Seeschiffahrt (einfach, weil das gerade in meinem Kopf ist Smile ): Bewegungsarten (Ruder vs. Segel), Rammen, Kampfvermeidung, Verschiedene Kämpfe gleichzeitig (Magie, Stellung, Nahkämpfe), "Schaden" für Besatzung. 
+ 
+Teilweise macht es mehr Sinn, statt von Schaden eher von bestimmten Schäden zu reden. Ob ein Schiff jetzt noch 50% oder 40% Trefferpunkte hat mag zwar für die Statistik interessant sein, aber die Besatzugn interessiert dann doch eher, ob es noch dicht ist, ob die Steuerung funktioniert und ob gerader der Mast am Brechen ist und auf sie runter kommt. 
+
+------ 
+
+## mentaler Schaden
+
+Angst, Horror, schreckliche Erlebnisse und Telepathische Angriffe verursachen psychischen Schaden. Psychischer Schaden wird wie physischer abgehandelt, entsteht aber in anderen Situationen. 
+Die Basis für den mentalen schaden, den ein Charakter einstecken kann ist die Mentale Stabilität oder alternativ die Willenskraft. 
+Diese wird verdoppelt um die mentalen TP festzulegen. 
+
+Mentaler Schaden darf nicht mit Erschöpfung verwechselt werden. Erschöpfung erhält ein Charakter wenn er sichlängere Zeit Angestrengt hat, mentalen Schaden dagegen in Situationen, die die Integrität der Persönlichkeit, der Emotionen, also der Psyche angreifen. Dazu gehört es beispielsweise, Freunde grausam sterben zu sehen, den eigenen Vater von der Decke baumeltn zu sehen, wo er sich erhängt hat, oder eben psychische Angriffe von Psionikern abzubekommen. 
+
+Wirklich schreckliche und/oder einschneidende Ereignisse erzeugen nicht nur mentalen Schaden, sondern können mentale Narben hinterlassen (Spielleiterentscheidung). 
+
+Oft passiert das bei schweren mentalen Wunden, allerdings nicht immer (Spielleiterentscheidung). Narben können auch entstehen, wenn regeltechnisch kein mentaler Schaden entsteht (nicht aller Schaden wird regeltechnisch erfasst, und manche Erlebnisse hinterlassen aufgrund der Vorgeschichte des Charakters auf jeden Fall Narben). 
+
+Psychische Narben können als eine Quelle der Kraft erscheinen, weil sie dem Charakter eine sehr starke Motivation geben, aber sie schwächen ihn immer. Manche Aufgaben lassen sich ohne mentale Narben kaum erfüllen, da die Narben es ermöglichen, alle Kraft nur auf ein Ziel zu konzentrieren, wodurch aber viele andere Gebiete vernachlässigt werden. 
+
+Psychische Narben verringern effektiv die Lernfähigkeit von Charakteren und erzeugen Schwachstellen, über die der Charakter leicht angegriffen werden kann. 
+
+Wird ein Charakter in irgendeiner Situation mit seiner psychischen Narbe konfrontiert, was meistens verbal passiert, aber auch (und sehr effizient) psionisch herbei geführt werden kann, bekommt er Abzüge als ob er (je nach Tiefe der Narbe) eine Wunde oder schwere Wunde bekommen hätte. 
+
+Dafür geben psychische Narben ihm eine erhöhte Stabilität gegenüber den meisten schrecklichen Erlebnissen. Durch die Abstumpfung bekommt er drei zusätzliche Punkte auf seine mentale Wundschwelle, solange nicht die Schwachstelle angegriffen wird. Für jeglichen mentalen Schaden gegen seine Schwachstelle wird seine Wundschwelle allerdings um 3 reduziert. 
+
+Diese Schwachstelle führt, wenn sie von anderen getroffen wird, zu irrationalen und vom Charakter nicht kontrollierbaren Reaktionen. Das wird durch einen Nachteil ausgedrückt, der nur aktiviert wird, wenn die Narbe gtroffen wird (alles von Stummheit bis Berserker). 
+
+Eine psychische Narbe wird als 15GeP-Nachteil betrachtet. Ein Charakter mit einer Mentalen Narbe erhält jeden Spielabend 1/3 weniger EP, die von seiner Narbe absorbiert werden, bis sie 15GeP aufgenommen hat. 
+
+Gleichzeitig erzeugt eine Narbe einen psychischen Nachteil, der von Fanatismus bis Schüchternheit alles sein kann und etwa 15 GeP betragen sollte und die Auswirkungen des Schocks auf die Psyche des Charakters zeigt. 
+
+Beim Auflösen der Narbe nimmt der Charakter noch einmal den psychischen Schaden, der sie verursacht hat. Je nach Art der Behandlung bekommt er ihn auf einmal (was zu einer neuen Narbe führen kann) oder in kleinen Häppchen. 
+
+Die 15GeP fließen dabei zurück und können entweder zum Auflösen des Nachteils, der durch die Narbe kam, oder zum Erwerb neuer Fertigkeiten oder Vorteile genutzt werden, was heißt, dass der Charakter dann in den nächsten Wochen einen starken Entwicklungssprung macht. 
+
+Wird die also Narbe kuriert, werden die gespeicherten Punkte frei und können während den nächsten 2 Wochen (InPlay) ausgegeben werden. Das repräsentiert begeistertes Lernen, das die Lücke, die die Narbe hinterlassen hat, ausfüllt. 
+
+Mit diesen Punkten kann auch der durch die Narbe entstandene Nachteil weggekauft werden
+
+
+### Psychische Integrität
+
+Ein Attribut, das anzeigt, wie sehr der Charakter korrumpiert wurde, bzw. wie weit er seinen eigenen Idealen treu bleibt und bleiben kann. Ein Attribut, das Selbstbeherrschung bedeutet, aber auch, wie weit der Charakter auf dem Pfad der psychischen Selbszerstörung geht. 
+
+Niedrige psychische Integrität bedeutet, dass der Charakter immer wieder Anfälle von Selbsthass oder Anwandlungen der Selbstzerstörung zeigen kann, dass er mit der Zeit an sich selbst kaputt geht, dass er seinen dunkleren Antrieben immer weniger Widerstand entgegen setzen kann. 
+
+Eine sehr hohe psychische Integrität haben wirklich unschuldige, holde Prinzessinnen, wahrhaft gutherzige, ehrliche und das gute und Schöne Verteidigende Ritter. 
+
+Sinken kann sie durch Erfahrungen betrogen zu werden, wie auch durch alles, das den Glauben des Charakters in seine Weltsicht (die ihm hilft sich zu kontrollieren) ins Wanken bringt. 
+
+Auch sehr "böse" Charaktere können hohe psychische Integrität haben, denn auch sie kontrollieren sich, haben aber eine andere Weltsicht. Bei ihnen bedeutet der Verlust der Selbstkontrolle, dass sie entgegen ihren eigenen Idealen handeln (was meistens passiert, wenn sie auf jemanden mit höherer Integrität treffen, und sei es als Gefangenen (oder Gefangene)). Das kann zum Beispiel bedeuten, dass sie Gefangene verschonen und versuchen herauszufinden, woher der Vertrauen in das Gute in der Welt kommt, den sie nicht verstehen. Umgekehrt kann dasselbe einem "guten" (also für eine Gesellschaft förderlichen Charakter passieren, der einen sehr "bösen" Charakter mit hoher Integrität als Gefangenen nimmt, statt ihn zu töten, weil er "interessant" ist. 
+
+Sie könnte auch als eine Art mentale Langzeit-TP angenommen werden, die durch lange angenehme Phasen wieder steigen (wodurch aber Narben nicht heilen...)
+
+Böse Charaktere mit niedriger psychischer Integrität handeln vielleicht nicht einmal nach Überzeugungen, sondern einfach nach ihren aggressiven Trieben und Leidenschaften (was nicht heißt, dass sie dumm sein müssen, sie werden nur leichter "abgelenkt" oder töten auch mal gegen besseres Wissen).  
+
+### Idee für mentale Narben
+
+Nach dem Gespräch gestern habe ich (später) gemerkt, dass Erfahrungspunkteverlust doch sehr heftig ist, vor allem für den Charakter mit den mentalen Narben. Deswegen habe ich mir überlegt, dass stattdessen die Narbe EP "transferieren" könnte. Damit würde bei einer Narbe jeder 9. EP, bei 2 jeder 6., bei 3 oder mehr jeder 3. EP stattdessen in Vorteile fließen. Das können Vorteile wie Sturheit sein, oder eine Art mentaler Schild, der mentale Schäden abschwächt. Allerdings muss jeder Vorteil der durch die Punkte genommen wird natürlich mit dem Spielleiter abgesprochen werden. 
+
+Die EP gehen so lange verloren, bis mindestens 15EP in die Narbe geflossen sind. Dann ist sie wirklich vernarbt (Ansonsten schwächt sie Charaktere in langen Kampagnen zu stark). 
+
+Alternativ können nach 15EP die zusätzlichen EP zwar auch in die Narbe fließen, aber wieder frei werden, wenn die Narbe gelöst wird, was heißt, dass der Charakter dann in den nächsten Wochen einen starken Entwicklungssprung macht. 
+Gleichzeitig erzeugt eine Narbe einen psychischen Nachteil, der von Fanatismus bis Schüchternheit alles sein kann. 
+
+Narben bewirken auch, dass der Charakter eine Schwachstelle hat, die von anderen getroffen werden kann und dann zu irrationalen und vom Charakter nicht kontrollierbaren Reaktionen führt. Das wird durch einen Nachteil ausgedrückt, der nur aktiviert wird, wenn die Narbe gtroffen wird (alles von Stummheit bis Berserker). 
+
+### Mentale Narben für RaumZeit
+
+Mentale Narben können Charaktere bei einschneidenden Erlebnissen erhalten. 
+Oft passiert das bei schweren mentalen Wunden, allerdings nicht immer (Spielleiterentscheidung). Narben können auch entstehen, wenn regeltechnisch kein mentaler Schaden entsteht (nicht aller Schaden wird regeltechnisch erfasst, und manche erlebnisse hinterlassen aufgrund der Vorgeschichte des Charakters auf jeden Fall Narben). 
+
+Eine mentale Narbe erhöht die Wundschwelle um 3 Punkte. Jeder Charakter der eine mentale Narbe erhält bekommt gleichzeitig einen Gurps 10 Punkte Nachteil,  vorzugsweise aber nicht ausschließlich geistig. 
+
+Gleichzeitig bekommt der Charakter 1/9 weniger Erfahrungpunkte für Spielabende, die in der Narbe "gespeichert" werden. 
+
+Wird die Narbe irgendwann kuriert, werden die gespeicherten Punkte frei und können während den nächsten 2 Wochen (InPlay) ausgegeben werden. Das repräsentiert begeistertes Lernen, das die Lücke, die die Narbe hinterlassen hat, ausfüllt. Mit diesen Punkten kann auch der durch die Narbe entstandene Nachteil weggekauft werden. 
+
+### Mentaler Schaden und Heilung
+
+Mentaler Schaden heilt langsam. Wunden heilen erst, wenn der mentale Schaden auf 0 gesunken ist. 
+Bleibt der mentale Schaden für längere Zeit bestehen, können die Wunden vernarben und bleibende Psychosen hinterlassen. Wenn der Charakter wieder mentalen Schaden erhält während eine Wunde heilt, wird der Heilungsprozess unterbochen, und die Heilung der Wunde beginnt erst wieder von vorne, wenn der Schaden geheilt ist. 
+Normale mentale Wunden können bei verzögerter Heilung vernarben und Marotten oder Nachteile bis zu 5 Punkte zur Folge haben. Schwere Wunden können Nachteile bis 30 Punkte nach sich ziehen. 
+Normalerweise heilt in drei Tagen ein Punkt mentaler Schaden, in drei Wochen heilen damit 7 Punkte und ein Charakter, der völlig fertig mit den Nerven war (durch dauernden Stress, ohne Wunden eingesteckt zu haben, mTP auf 0) heilt binnen etwa 9 Wochen fast völlig aus. Hat er eine mentale Wunde, verdoppelt sich die Heilungszeit (1 Punkt in 6 Tagen, völlige Heilung nach Nervenzusammenbruch nach 20 Wochen aka 4 Monaten), hat er eine schwere Wunde, vervierfacht sie sich (1 Punkt in 12 Tagen, 7 Punkte in 12 Wochen, völlige Heilung nach 41 Wochen aka 9 Monaten). 
+Die Heilung einer Wunde dauert eine Woche, die der Charakter in ruhiger und größtenteils stressfreier Umgebung verbringen muss. 
+Die Heilung einer schweren Wunde dauert unter denselben Bedingungen einen Monat. 
+
+Vernarbt eine mentale Wunde, so kostet sie bis zu 15EP (nach den bereits beschriebenen Regeln) und zieht die hier beschriebenen Nachteile nach sich. 
+
+------ 
+
+## Regeln
+
+### Tragkraft
+
+Für Kategorie 4: 
+
+Exaktes System: 
+* - Ohne Belastung bis (ST*ST)/10 in kg (GURPS)
+* - maximale Kraft: (ST*ST) in kg (GURPS)
+
+Vereinfachtes System: 
+
+* - Ohne Belastung bis (ST/3)*(ST/3) in kg
+* - maximale Kraft: (ST*ST) in kg. 
+
+Für eine Kategorie drunter oder drüber: zehnteln oder verzehnfachen. 
+
+Für 2 Kategorien drüber oder drunter: tausendsteln oder vertausendfachen. 
+
+Für 3 Kat. drüber od. drunter: lass den maßstab "Stärke" und "Kilogramm" fallen. 
+
+------ 
+
+### Attributsliste
+
+Körper:  Geschicklichkeit, Zielgenauigkeit, Erscheinungsbild, Balance, Körperbau, Konstitution, Koordination, Gewandtheit,  Fingerfertigkeit, Ausdauer, Ermüdung, Fitneß, Gesundheit, Trefferpunkte, Muskeln, Behendigkeit, Schnelligkeit, Körperlich, Reflexe,  Größe, Geruchssinn, Geschwindigkeit, Stärke, Wundresistenz, Schwung usw.   
+
+Geist: Schläue, Bildung, Intelligenz, Wissen, Lernen, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Wahrnehmung, Vernunft,  Logik, Mechanisches Verständnis, Technisches Verständnis, Witz usw.   
+
+Seele: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Veranlagung, Trieb, Ego, Empathie, Schicksal, Ehre,  Intuition, Glück, Magieresistenz, Magiepotential, Magische Begabung, Macht, Gegenwart, Psyche, Zurechnungsfähigkeit, Geistige  Gesundheit, Selbstdisziplin, Sozial, Spirituell, Stil, Willenskraft, Weisheit usw.   
+
+Andere: Rang, Status, Vermögen  
+
+------ 
+
+### Beschreibung der Attributs- und Fertigkeitsstufen
+
+Unterdurchschnittlich (11): 
+
+Durchschnittlich (12): Du kannst deinen Lebensunterhalt mit deinen Fähigkeiten bestreiten. In Herausforderungen von anderen Praktizierenden gewinnst du etwa so oft, wie du verlierst, aber du weißt, dass du deinen Fertigkeiten vertrauen kannst. Vielleicht jeder 5. Versuch geht mal etwas schief. 
+
+Überdurchschnittlich (13): Du schaffst schwerere Aufgaben meistens (Chance für MW12: 66%), und sehr schwere gehen die inzwischen leichter von der Hand (Chance für MW 15: 50%). 
+
+Routiniert (14): Deine Erfahrung macht dich den meisten deiner Kollegen überlegen und du vertraust auch in schwierigeren Situationen auf deine Fähigkeiten. Nur manchmal spürst du in Schwierigeren Situationen den Stress aufsteigen und wünscht dir, du wärst doch  noch diese kleine Nuance besser, die du bei deinen Lehrern kennst. 
+Du schaffst normale Aufgaben fast immer (Chance auf MW9: 97% Chance), und große herausforderungen kommen in den Bereich des Möglichen (Chance auf MW18: 33%). 
+
+Gut/Erfahren (15): Du hast Erfahrung und lange trainiert. Die bist besser als die meisten und nur die Besten sind dir noch überlegen. Ebenbürtige findest du in den oberen 10% deiner Kunst. Vielleicht lehrst du bereits andere, während du daran arbeitest noch besser zu werden, denn du weißt, dass du noch einen weiten Weg gehen kannst. 
+
+Hevorragend: Du gehörst zu den Besten und kaum jemand ist dir noch überlegen. Um ebenbüßrtige Gegner zu finden, musst du von Stadt zu Stadt ziehen oder große Wettkämpfe besuchen. 
+
+Superb: Selbst die Besten deines Landes sehen in dir noch ein Vorbild. Du hast möglicherweise bei Olympia teilgenommen, vielleicht sogar Medallien gewonnen, und es war einer der größten Momente deines Lebens. Vielleicht schreibst du aber auch geniale Bücher, die ihre Leser noch Jahre später begeistern. 
+
+Legendär: Geschichten über deine Fähigkeiten kursieren in allen informierten Kreisen. Wenn von deiner Fertigkeit gesprochen wird, ist es nur ein kleiner Schritt, bis dein Name fällt. Ebenbürtige findesst du nur mit viel Mühe. Wenn du bei Olympia teilnimmst, versuchst du immer wieder deine eigenen Rekorde zu überbieten. Vielleicht bist du auch der wirkliche Autor des Herrn der Ringe, der Dune-Trilogie oder die Wiedergeburt von Arthur C Clarke. 
+"Erst nachher habe ich gemerkt, dass er mir die Beine weggezogen hat, aber erst habe ich mich nur gewundert, wieso ich plötzlich auf dem Boden liege. Dann habe ich meine Kameraden neben mir liegen gesehen."
+Beispiele aus unserer Welt: Muhammed Ali, 
+Beispiele aus Filmen: Conan, Bruce Lee, Gandalf, 
+
+------ 
+
+## Kampf
+
+Nutzung von Fernkampfwaffe im Nahkampf statt Gegenangriff: Malus von -3 sowohl für Fern- als auch für Nahkampf, weil durch den Fernkampf dem Gegner eine exklusive Aktion zugestanden wird (er wird nicht angegriffen, hat also sozusagen mehr Zeit als der zwischenschießende) und weil der Schießende von gleich kommenden Angriff auf ihn abgelenkt ist. 
+
+### Schlachten
+
+Eine Schlacht wird, bei ungefähr gleich eng stehenden Schlachtreihen, als Einzelkämpfe abgehandelt, in denen es manchmal Modifikationen für einen weiterenn Gegner gibt, manchmal die Gegner Mali bekommen, die aber generell Mann gegen Mann geführt werden. 
+
+Stehen auf einer Seite die Kämpfer sehr viel enger, oder hat eine Seite Kämpfer mit langen und kurzen Waffen so positioniert, dass sie zu zweit angreifen können, bekommt die andere Seite für jeden Kämpfer "Überzahl" in der jeweiligen "Paarung" einen Malus von 3. 
+
+### Deckung
+
+Ein Charakter in 3/4 oder besserer Deckung hat einen Malus von -3 auf seine Fernkampfangriffe (weil er aus der Deckung nicht so gezielt schießen kann). Auf einen Charakter in Deckung zu schießen bedeutet einen Malus von -6 Punkten. 
+Zwei Charaktere, die beide in Deckung sind, haben also einen Malus von -9 um sich zu treffen, so dass Treffer sehr selten vorkommen (Gegner muss getroffen werden, wenn er gerade aus der Deckung sieht um zu schießen, o.ä.). 
+In voller Ddeckung ist ein Charakter nicht zu treffen. 
+
+Schüsse auf Charaktere in weniger als 3/4 Deckung kann der Spielleiter nach Wahl mit ±0 bis -6 Punkten Malus belegen. -3 ist empfehlenswert :-) 
+
+Aus dieser Deckung zu schießen gibt keinen Malus. 
+
+> EWS Martial Arts Modul
+
+Im Nahkampf bekommt ein Kämpfer Boni, je nachdem welche Attribute er für die Fertigkeit nutzt. Das MAM kommt in zwei Stufen: 
+- Realistisches Martial Art
+- Cinematisches Martial Art
+
+Im Realistischen Martial Art geben je 3 Punkte über 9 in dem Attribut ihm einen Punkt Bonus. 
+Im Cinematischen Martial Art geben je 3 Punkte über 9 in dem Attribut ihm 2 Punkt Bonus: 
+
+
+* Gewandheit: "Schild" (Gegner müssen eine Anzahl von Punkten gleich dem Bonus an Differenz haben um den Charakter zu treffen.)
+* Stärke: Schadensbonus (+1 Punkt Schaden / Punkt Bonus)
+* Wahrnehmung: negative Modifikatoren werden verringert, erst für die Wahrnehmungs-erschwernisse (Dunkelheit, Nebel, Blindheit => Blinder Kampf, etc.) dann für die Position des Gegners (von Seite, im Rücken). 
+* Geschicklichkeit/Fingerfertigkeit: Reduziert Mali für gezielte Angriffe
+* Reaktion oder Ment. Flexibilität: Reduziert Mali durch mehrere Gegner
+* Konstitution: Vervielfacht die Zeit, bis Erschöpfung eintritt. Reduzierung des Schadens von Waffen (wie Rüstung). 
+* Intuition: Geringere Erschwernisse durch Überraschung. 
+* Magie: Zauber anwendbar alle (4-Bonus) Runden, bei Misslungenem Angriff in dieser Runde geht der Zauber auch fehl (Zauberdauer muss sofort sein). 
+* Willenskraft: Geringere Wund- und Schadensabzüge
+* Einfühlungsvermögen: Die Ängste des Gegners finden (=> Mentale Narben ausnutzen)
+* Coolness: reduziert die Abzüge durch ungünstige Ausgangssituationen nach coolen Aktionen. 
+
+------ 
+
+## Magie
+
+### Kraftkosten
+
+Kurzfristige und langfristige Erschöpfung. 
+Erschöpfung nicht notwendigerweise nach einem Tag regeneriert. Teilweise ein paar Tage bis Wochen, um wieder die gesamte Kraft zu haben. 
+Seine Größe langsam reduzierender Ausdauerpool, der immer wieder geleert werden kann, seine Größe aber nur langsam regeneriert. 
+Langfristige Erschöpfung regeneriert sich nur mit Schlaf. 
+
+------ 
+
+##  Psi
+
+### Psi-Schild
+
+Gilt als Rüstung mit der Psychokinese-Kraft als RS. 
+Kann nur begrenzte Zeit aufrechterhalten werden. Alle 10s Probe auf Psi-Schild (9), bei Misslingen 1 Punkt Erschöpfung pro angefangene 3 Punkte Differenz und Schild fällt. 
+
+Bei längerer Aktivierung (außerhalb der Kämpfe): 
+* Jede min Probe auf MW 12
+* Alle 10min Probe mit MW 15
+* Jede Stunde Probe mit MW 18. Bei Misslingen fällt der Schild nach Zeit/Differenz. 
+Ab ESP 5 (aka Gurps ESP 10 = Kampfsinn) bei Angriff Probe auf ESP od. Präkog, bei Gelingen ist der Schild automatisch oben. Mit Kampfreflexen ist auch eine Probe auf Reaktion bei erkennbaren Angriffen möglich (nicht bei Schüssen aus dem Hinterhalt etc.). 
+
+Bei einem Treffer auf den Schild bekommt der Charakter Erschöpfung: 
+* Bei weniger als 1/3 des Schilds (aufgerundet) an Schaden aufgefangen: keine Erschöpfung
+* ab 1/3 des Schilds, weniger als 2/3 (aufgerundet): 3 Punkte Erschöpfung
+* ab 2/3 des Schilds: 6 Punkte erschöpfung
+* bei durchbrechen des Schilds: 9 Punkte Erschöpfung. 
+
+### Zusätzliche Anstrengung
+
+Psi Fähigkeiten können über ihrer Kraft genutzt werden, was aber zusätzliche Anstreg?ngung kostet. 
+Pro Punkt, um den die Kraft temporär (für eine Aktion) gesteigert werden soll, bekommt der Charakter 3 Punkte Erschöpfung. Bei nutzung von zusätzlicher Anstrengung sinkt auch pro Punkt Steigerung der FW um 1 Punkt.
+
+------ 
+
+## Charaktererschaffung
+### Hintergrund
+
+Fragen: 
+* Wie verhältsts du dich in Panik? 
+
+------ 
+
+## Magie
+### Erschöpfung überziehen
+
+Erschöpfung wird beim Zaubern und bei Psi wie regulärer Schaden gehandhabt, da sie sich erst nach dem Spruch einstellt. 
+Sobald sie auf 0 abgesunken sind, Willensprobe zum Wachbleiben. 
+
+Ab -ST/-Erschöpfung Wi-PRobe für je 5 weitere entsprechend. 
+
+Je 3 Punkte unter 0 bedeuten 1TP. 
+
+Sinkt die Ersch. unter -ST/-Ersch., muss ein ST-Wurf gegen MW 12 + Anzahl der Punkte unter -ST gemacht werden. Misslingt dieser, verliert der Charakter permanent einen Punkt Erschöpfung (nur für Zwecke  der Magie/des Psi) pro 3 Punkte, die er unter dem MW war. 
+
+Verkrüppelungen können durch sehr starke Zauber auftreten. Sie gelten als immer auftretende Neben- oder Spezialeffekte oder Fert-Malus für alle ähnlichen Zauber (oder die ganze Kategorie)(SL-Entscheidung). 
+
+------ 
+
+## Charaktererschaffung
+
+### Psi-Marotten
+
+Jede Marotte gibt einen GeP, max. 10 Marotten. Eine tolle Idee aus Gurps. 
+Beispiele für Marotten: 
+
+Psi-Effekte (von Jodi-Crown, RaumZeit Charakter): 
+* ESP: Die Geflechte in seinen Händen bewegen sich (wie kleine Tentakel oder Ranken) und leuchten schwach, 
+* Psychokinese (außerhalb seines Schiffes): Die Geflechte in seinen Händen bewegen sich und leuchten schwach, Chitinplatte auf der rechten Hand leuchtet schwach. 
+* PK (im Schiff): Geflechte in den Händen bewege sich und leuchten stark, lösen sich an der Außenseite von der Handfläche ab, dehnen sich etwas aus (ca. 1cm), ziehen sich aber  nach abbrechen der Verbindung mit dem Verstärker wieder zurück, Chitinlatte an rechter Hand leuchtet stark, Iris der Augen leuchtet  schwach und verändert sich fließend (sehr viel schneller als normal). 
+* Telepathie: Iris der Augen verändert sich schneller (jetzt im deutlich sichtbaren Bereich). 
+
+------ 
+
+## Kampagnen
+### Innere Stärke
+
+Geistige Stabilität, Festigkeit im Glauben, Seelische Stärke, Innere Kraft, Innere Überzeugung, Glauben an sich Selbst, Vertrauen in das Leben, Vertrauen auf Gott. 
+
+Die Kraft, die einen Menschen aufrecht erhält, die uns dazu bringt, immer weiter zu gehen. Die uns davon abhält zu verzweifeln. 
+
+Diese Kraft, die einen Gutteil dessen ausmacht, was wir Held nennen, auch wenn sie manchmal durch schwere Opfer gewonnen wird. 
+
+Der Spruch "lass dich nicht unterkriegen" wird dadurch zu einem zentralen Leitmotiv. 
+
+Ein Spiel, in dem die Charaktere immer wieder schwere Schläge für ihre Psyche hinnehmen müssen, und in dem es auch darum geht, ob sie sie überstehen und weitermachen können, oder ob sie sich der Hoffnungslosigkeit hingeben und aufgeben. 
+
+Ein Wert, der durch schlimme Ereignisse gesenkt werden kann. Ein Attribut, geistiger Schaden, wo Narben zu Attributsverlust führen können, wo aber neue Ziele das Attribut wieder stärken können. Ein temporärer Wert, der von dem Attribut abhängt, der normalerweise auf der Attributsstufe liegt und bis zum doppelten steigen oder auf Null oder tiefer sinken kann. 
+
+Ein Sinken auf Null oder darunter bedeutet den Verlust der Motivation, ein dröges durch's Leben taumeln, und kann je nach Person zur Selbstzerstörung durch Alkohol und Drogen, zu Selbstverstümmellung oder zum Selbstmord führen. 
+
+Was hält dich aufrecht? Überzeugungen? Werte der Eltern? Die Liebe? Vertrauen auf einen Gott? Eine Ideologie? Hass? 
+
+Dies ist etwas aus dem wirklichen Leben. Unsere Zeit. Was zerstört uns? Was stärkt uns? 
+
+Wie können wir eine neue Grundlage aufbauen, wenn die Andere verloren gegangen ist? 
+
+Welche Rituale halten uns stark? 
+
+Es gibt etwas in Menschen, das ganze Welten verändern kann. In einer Welt, in der Motivation rar ist, können Menschen, die sich aktiv halten die ganze Welt umkrempeln, wenn sie sich nicht unterkriegen lassen und auch in jeder schlimmen Situation wieder auf die Beine kommen und weitermachen. 
+
+ToDo: **** fragen, wie er es geschafft hat wieder zu sich zu finden und vom Alkohol loszukommen. 
+=> Einfach machen, manchmal einfach weitermachen. 
+(Einfach weitermachen ist an sich auch ein Ritual)
+
+Feedback von Olli: 
+
+Jemand, der fertig ist, Lebenswille genommen, sieht ein kleines Kind, dem es schlecht geht, hilft ihm und kriegt dadurch neuen Lebensiwllen. 
+
+- Manchmal bleibt er, manchmal verschwindet er wieder. 
+
+Von Tag zu Tag unterschiedlich. 
+
+Manche sind nicht fertig zu machen. 
+
+Bestimmte Situationen, die fertigmachen oder Kraft geben festlegen. 
+
+Regeneration. 
+Verdrängung. 
+
+Wenn Olli sich wieder hochzieht, "können mich doch alle mal". 
+
+Wie schaffe ich es, die Motivation zu behalten, wenn es mir gut geht? 
+
+- Ziel setzen? 
+
+Für Abenteuer: 
+Es gibt mindestens eine/n, der/die nicht unterzukriegen ist, aber manchmal körperlich in Gefahr gerät (teurer Vorteil). Vielleicht auch von Krankheiten geschlagen. Vielleicht ein Magnet von Pech  und  Unfällen, gebrochene Füße, etc. aber nie stehen geblieben (die "Welt" wehrt sich). 
+
+Es gibt Leute, die die Motivation immer weiter sterben sehen wollen, weil sie gerade an der Macht sind und keine Veränderungen ertragen können oder Angst vor Veränderungen haben. 
+
+------ 
+
+## Charaktererschaffung
+### Vorteil: Führungskraft/Schicksalswandler/Glücksbringer
+
+Gegenstück von "verhext". 
+Große Geschehnisse begleiten diese Charaktere. 
+Sie geben allen in ihrer Umgebung +1 bis +3 auf jegliche Handlungen (allerdings auch gegen sie selbst). 
+
+### Reinkarnierende Charaktere
+
+Kampagnen über viele Inkarnationen. Wichtige Ereignisse, lange Dauer, immer wieder neuer Charakter, zurückkehrende Erinnerung, Fähigkeiten mitnehmen, Pakte kosten eine (oder mehrere) Inkarnationen, Risiko nicht zurückzukehren, große Macht, aber Versuchung bei Rückkehr, Element-/Charakterzug-geneigt. 
+
+### Marskolonien
+
+Marskolonien trennen sich ab, Leidenschaften der Menschen, Macht und Versuchung (nach dem alten Bild des Mars, wirkt auf die Menschen). 
+
+------ 
+
+## Magie
+### Notizen zu Geistermagie (2002-07): 
+
+* Die sich die Kräfte der Geister zu nutze machen, 
+* Reisen in fremde Welten, um Kräfte weit außerhalb der Reichweite der Weltlichen zu erlangen. 
+* Macht über Geister durch Autorität oder Zwang (oder Pakte, die der Schließende teuer bezahlt). 
+* Arbeiten am eigenen Selbst, um die Macht auszuweiten. 
+* Die Herrschaft über Geister (oder der Dienst für Geister). 
+* Gebieten über die Macht eines Geistes durch Macht über den Geist. 
+* Geistern helfen, um einen teil ihrer Macht zu erlangen oder nutzen zu können (sd3)
+* Die Macht der Wahrheit, die Gabe der Sich, das Wissen über Tiere, das Wüten des Sturms, die Kraft der Magie, die Tiefen des Wassers, das Feuer spüren, Leben finden, das Windlesen. 
+* Ein leises Flüstern, das Wogen des Wassers, das Wissen der Namen, Wellen der Füsse, Weben der Wellen, Fluss des Wassers der Tiefen, Weisschweifen/Weisschwingen. 
+
+------ 
+
+## Kampf
+### In Kämpfe anderer eingreifen (interrupt): 
+
+Wenn ein Charakter sieht, dass ein Nahkampf für einen anderen Charakter schlecht ausgeht (bzw. wann er will), kann er, wenn er in dieser Runde noch nicht gehandelt hat, versuchen in den Kampf einzugreifen, verliert dadurch aber jegliche weiteren Aktionen in dieser Runde. 
+Dabei wirft er sich zwischen die beiden Kontrahenten und würfelt gegen den Gegner, während der Wurf des Gegners bestehen bleibt. Der eingreifende Charakter erhält dabei allerdings je nach Entfernung zum Kampfgeschehen 3 bis 9 Punkte Malus. Daher eignet sich diese Technik mehr, um für einen Freund zu parieren (bei Erfolg auf Schaden verzichten, dafür 6 Punkte Bonus), als um den Gegner ernsthaft zu verletzen.  
+3 Punkte Malus wären es, wenn die beiden bereits gegen den selben Gegner kämpfen. 
+6 Punkte, wenn sie nebeneinander stehen, aber mit unterschiedlichen Gegnern kämpfen. 
+9, wenn sie bis zu zwei Armlängen auseinander sind. 
+Bei noch größeren Entfernungen kann der Spielleiter ein Eingreifen je nach Situation (und Beziehung der Charaktere untereinander) erlauben. Einen Geliebten kann man je nach Hintergrundwelt (z.B. in heroischer Fantasy oder Space Opera) manchmal auch auf 10 Meter noch verteidigen, allerdings liegt diese Entscheidung alleine beim Spielleiter und der Art und dem Spielgefühl der Kampagne. 
+
+------ 
+
+## Charaktererschaffung
+### Ruhm, Resourcen, Fähigkeiten
+
+Drei Charakteristika, die addiert vielleicht den gleichen Wert ergeben sollten.
+
+------ 
+
+## Kampf
+### Ringen (enger Nahkampf)
+
+Braucht noch Regeln. Handgemenge, u.ä., wieviele Gegner gleichzeitig? Solange am Ringen höchstens 2, wenn einer der Beiden anderen den Kämpfer aus dem Ringen rausbringen kann werden es wieder die üblichen 4 eines normalen waffenlosen Nahkampfes.
+
+------ 
+
+Aus dem Fera: 
+
+ Vielleicht eine Abwandlung von FitM, "Zeitlupenmmodus": 
+ 1.Aktion beschreiben, ohne Ergebniss auszugeben("Mit ein paar FlikFlaks springe ich auf den Gegner zu und aus dem Schwung des letzten Sprungs heraus, rast mein Fuß auf sein Gesicht zu.") Beginn der Zeitlupe. 
+ 
+ 2. Probe (gemäß des Systems) durchführen, aber dies von der Beschreibung beeinflussen (Regel: Gezielter Angriff! Beinflussung: Gute Beschreibung! Probe um 2 erleichtert.). 
+ 
+ 3. Zeitlupenende. Die Beschreibung behält ihre Richtigkeit, aber der Ausgang wird von den Würfeln bestimmt(z.B. Fehlschlag:"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochnellt und auf deinen Magen zurast").
+- ragnarok, 17. Feb 2004
+
+Für's EWS: 
+*"Im letzten Moment taucht dein Gegner zur Seite weg, während seine Faust hochschnellt und sich in deinen Magen gräbt"*
+
+---
+
+Weltenideen: 
+
+Berührte: Charaktere, die von einem Element oder Wesen berührt wurden. Sie können eins mit ihrem Element werden, fangen jedoch als "normale" Charaktere an. 
+Mit der Zeit können sie immer mehr zu dem werden, was sie in ihrem Innersten sind. 
+Drachenmenschen, Feuermenschen, Erynnias Wächter, Engelkinder, Feenträumer, Schattentänzer, Schattenläufer, Phoenixe. 
+
+-----
+
+Rollenspiel auf Basis all der schönen alten Konsolen-RPGs. 
+Chrono-Trigger, Shining Force, Breath of Fire, Seiken Densetsu 3, Suikoden, Final Fantasy, Lufia, Secret of Mana, Tales of Phantasia, Fire Emblem, Arc the Lad, Grandia, Phantasy Star, Valkyre Profile, Vandal Hearts, Zelda, Skies of Arcadia, Tactics Ogre, Harvest Moon, Earthbound, Summoner,... (Shenmue, Wild Arms, Kartia?, Spellcaster (MasterSystem), Wesnoth (neu und freie Software))
+
+- Standard-Aktionen fuer Charaktere (war als Zeitsparer fuer PbEMs vorgeschlagen) => Coole Nebenbeschreibungen, in denen Spieler und Spielleiter einfach Spaß am Monsterplätten haben können, ohne wuerfeln oder etwas fuerchten zu muessen. 
+
+-----
+
+Vorteil: Spüren, wann und wo man gebraucht wird. Kann auch tiefer gehen und
+ein Gespür für das ganze Land oder die ganze Umgebung mit sich bringen. Kann
+unscharf sein, Dunkelheit, die  man spuert, oder ein Ruf der Götter, den man
+hört, oder ein erbeben in dem Fluss in der Umgebung (oder in der Macht). 
+
+-----
+
+EWS tödlicher machen: Trefferpunkte = Konstitution oder passend (ews 3.0).
+
+-----
+
+Hintergrundidee: Die Guten und die Bösen
+
+Ihr seid die Guten, und ihr kämpft für das Gute.  
+
+(Ob das am Ende wirklich immer gut ist, bleibt herauszufinden... )
+
+-----
+
+Magie, bei der zu frühes Abbrechen weh tut. Wenn man in der Technik ist, muss man sie zu Ende führen oder erhält Schaden. 
+
+-----
+
+Die Welt von "Ninja Scroll", die Fähigkeiten davon ins EWS. 
+
+-----
+
+Textentwurf: 
+Fokus
+
+Fuer verschiedene Charaktere sind unterschiedliche Bereiche des Lebens wichtig. 
+
+Um das auch in den Regeln widerzuspiegeln, nutzt das EWS Fokusregeln. 
+
+Sie können am leichtesten an einem Beispiel erklärt werden: 
+
+Allgemeine Fertigkeiten sind sehr breit, also zum Beispiel Auftreten, Athletik, Heimlichkeit oder Nahkampf. 
+
+Wenn ein Charakter nun einen Fokus hat, dann 
+
+... Fokusfertigkeiten kosten den Wert des Fokusses weniger. (bsp: Fokus bei + (15): Fert. bei 15 gratis. Erst darüber kosten. Fokus bei +++ (21): Fert. bei +++ kosten jeweils nur ein Plus. 
+
+(durch Beruf, auf Beruf aufbauende Fertigkeiten und Spezialisierung ersetzt)
+
+-----
+
+- Reputationsschaden
+Auch die Reputation kann über das Schadenssystem geregelt werden. Wirklich schwere Schäden reduzieren allerdings die Eigenschaft Reputation dauerhaft. 
+
+-----
+
+Modul: Den Pfad wählen (Pfad)
+
+Charaktere können sich einem bestimmten Pfad verschreiben. Dabei legt der Spieler die Handlungen der Charaktere für die nächste Zeit in groben Umrissen fest. 
+Je nachdem wie stark dadurch das Verhalten des Charakters eingeschränkt wird (wie krass die Einschränkung ist, wie hart der Pfad ist) und wie lange dieser Pfad wahrscheinlich brauchen wird, erhält der Charakter Bonuspunkte auf alle seine mit dem Pfad verbundenen Handlungen. 
+
+Sollte der Glauben des Charakters an seinen Pfad erschüttert werden, erhält er die gleichen Punkte als Abzug auf alle Proben, bis er einen neuen Pfad für sich gefunden hat. 
+
+Soll wiederspiegeln, dass Charaktere oft eher durch den Verlust an ihre eigenen Werte und ihre eigenen Handlungen verlieren als durch reine Kampfkraft, und dass Charaktere, die sich exakt einem Ziel verschrieben und dieses Ziel mit all ihrem Wesen leben, in der Literatur und Comics so gut wie unstoppbar sind, solange sie ihrem Ziel treu bleiben.
+
+Höchstmöglicher Bonus: Willenstkraft / 3 oder ähnlich passendes. 
+
+Mindestdauer, bis ein neuer Pfad gefunden werden kann: Wurf auf geistige Flexibilität o.ä. (wahrscheinlich nicht Wille). 
+- Erfolg: 1 Stunde,  / 3 pro 3 Punkte Diff. 
+- Misserfolg: 1 Tag,  * 3 pro 3 Punkte Diff. 
+
+
+-----
+
+Der Fokus sein: Ein Charakter erhält Boni durch viele andere, die ihn unterstützen. -> Psi, Magie oder auch Vertrauen: Boni durch Leute, die an einen glauben. 
+
+Beispiel: Naruto: Der Hokage erhält einen Teil seiner Macht von der Unterstützung und dem Glauben jedes einzelnen (loyalen) Bürgers seines Dorfes. 
+
+-----
+
+Naruto Ninja-Kämpfe (Naru)
+ 
+- Charaktere würfeln, ob es ihnen gelingt, anderen Charaktere in die Irre zu führen. Vielleicht auch eine Karte (od. 2 Karten): "Ich will ihn in die Irre führen". Wird erst aufgedeckt, wenn der andere seine Aktion ausführt -> Überraschung für Spieler und Char. 
+
+- Viele Techniken. 
+
+- Bestimmte Einzigartige Techniken (Herkunft) und grundlegende Techniken, die jeder lernen kann. 
+
+- Einzigartig: Insekten gebunden, die zwei besonderen Augenarten, Sandherrschaft, In sich gebundene Monster (Naruto-9-Schw. Fuchs), 
+
+- Charaktere, die (fast) jeder eine besondere Begabung haben. 
+
+- Chakra formen, kontrollieren und die Chakramenge. 
+
+- Vielleicht auch Schachähnliche Strategien: Technik gegen Technik, um Stück für Stück Vorteile rauszuholen. Konfrontationsmodul? Technik gegen Technik, um am Ende eine einzelne Technik durchzubekommen. 
+
+- Mischung aus der Macht des Charakters und seiner Findigkeit. Größere Macht ermöglicht es, andere leichter in die Irre zu leiten und Techniken auszuführen, die andere nicht können, Findigkeit deckt die Intelligente Nutzung der Techniken ab. 
+
+- Eine Kraftbasis, mit der deine grundlegenden Techniken ausgeführt werden (Stil). Bsp.: Replika mit Käfern, Sand, o.ä. erstellen. 
+
+- Die Fähigkeiten des Charakters entscheiden, mit wievielen ineinander geschachtelten oder nebeneinander liegenden "Ebenen" der Spieler arbeiten kann. Effektiv, "wie viele Asse er im Ärmel haben kann". Er muss sie dann auch noch so sinnvoll einsetzen, dass sie wirklich zum tragen kommen. Dafür hat jedes einen Auslöser und einen Effekt. Wer gut vorhersehen kann, was der andere machen wird, kann dadurch mit recht wenigen Ebenen weit vorausplanen, mit viel Kraft kann er viele unterschiedliche Aktionen des Gegners abdecken. 
+
+- Merkmal: Vorhersehen der Aktionen des Gegners: Effektiv mehrere Auslöser für eine Ebene, oder Joker (greift bei jeder Aktion des Gegners). 
+
+- Machtunterschiede: In Naruto sind die Unterschiede in der Macht der Charaktere extrem groß. Schon in einer Stufe (z.B. Genin) gibt es Charaktere, gegen die die anderen so gut wie nie eine Chance haben, und nur die mächstigsten in einer Klasse können mit denen der nächsten Klasse mithalten. Kakashi hat alleine Naruto und die beiden anderen in Schach gehalten, und er hätte es mit min. 6 von ihnen aufnehmen können. Um diese Verhältnisse widerzuspiegeln, würde ich die Klassen als jeweils etwa 12 Punkte auseinander einschätzen (Fertigkeit: 12: Genin, 24: ..., 36: Kakashi, 48: Hokage). Außerdem entwickeln sich die Charaktere recht schnell, daher würde ich etwa 3 bis 6 Striche pro Spielabend ansetzen (3 Striche: 10 Spielabende für die Entwicklung vom Genin zur eins höhreren Stufe. 26 Spielabende bis zum Level von Kakashi und 41 weitere bis zum Hokage, wenn nur die Kampffähigkeit gesteigert würde - insgesamt also mindestens 77 Spielabende, was selbst bei einer Runde pro Woche noch eineinhalb Jahre sind). Dazu sollten die Merkmale steigerbar sein, so dass nicht von Anfang an gleich der volle Preis gezahlt werden muss, sondern das Merkmal am Anfang nur einen möglichen Lebensweg aufzeigt und vielleicht ein paar anfängliche Fähigkeiten gibt. 
+
+- Techniken als Spezialisierungen der Kampf-Feritgkeit mit einem Malus. Sobald die Spezialisierung hoch genug ist, um den Malus auszugleichen, gilt die Technik als gemeistert. 
+
+- Eigenschaften, die jeder haben sollte: Chakra und "Antrieb" (oder "Traum"): Die Grundlage seiner Kräfte (was ihn von den Fähigkeiten her von anderen Menschen unterscheidet), und das was ihn am kämpfen hält (was ihn von der Psyche her von anderen Menschen utnerscheidet). 
+
+- TP bauen auf Chakra auf. Daher können Ninja soviel mehr einstecken als andere. Es gibt auch Techniken, die direkt Wunde verursachen. 
+
+- Chakra-Unterschiede bewegen sich wie die Fertigkeiten in einem riesigen Bereich, der mehrere Kategorien überspannen kann. 
+
+- Wenn die TP eines Chars auf oder unter 0 gehen, würfelt er wie üblich, aber mit Abzügen: -3 je bisherigem Wurf (effektiv: -3, wenn seine TP auf -Eig sind, -6 bei -2xEig, -9 bei -3xEig). Damit können nur die stärksten Chars ihr Potential voll ausnutzen. Statt auf Chakra kann hier auch auf den Traum/Antrieb gewürfelt werden. Vielleicht sollte nur auf den nAtrieb gewürfelt werden, denn er ist für die Chars der Grund, warum sie weitermachen. 
+
+- Vielleicht können mit einem Wurf auf den Traum/Antrieb bisherige Mali teilweise ignoriert werden (und er steht doch wieder auf...). 
+
+- Vielleicht hängt die Anzahl der Karten, die man gleichzeitig auf der Hand haben und in einer Runde einsetzen kann von der Stärke des Chars ab (wenn es bei Karten auf der Hand und Karaten pro Runde eine einschränkung gibt). 
+
+- Vielleicht kann er nur eine bestimme Anzahl Techniken als Karten einsetzen und erst beim nächsten Zug eine neue Auswahl treffen. Karten können andere Karten kontern. Wenn er keine konternde Karte hat, wird er getroffen. So verlieren auch Spieler mit vielen Karten bei schlechter Auswahl gegen Spieler mit wenigen. 
+
+- Vielleicht würfeln -> 12 gibt 4 Karten, 15 gibt 5, 18 gibt 6, usw. 
+
+- Vielleicht gemeisterte Techniken als Auswahl der Karten und allgemeine Ninjafertigkeit als Anzahl der Karten (darauf würfeln, um die genaue Anzahl festzulegen). 
+
+-----
+
+Planung für Taktiker und Aktionliebhaber: Mit Simulationen planen. 
+
+- "Was könnte passieren?"
+- Simulator springt an. SL übernimmt die Rolle des Simulators. 
+- Ergebnis des Simulation. 
+- "Was könnte sonst noch passieren?" 
+- ... 
+
+Zu ähnliches einfach überspringen oder mit ein, zwei Würfel abhandeln. 
+
+- Wirkliches ausspielen. Wenn der SL keine Komplikationen einfallen, wird das Abenteuer glatt gelöst. 
+
+Damit es spannender wird, können Simulationen Folgen haben. Ideen: 
+
+- Psychische Schäden könnten möglich sein. 
+
+- Es ist ein öffentlicher Simulator, an dem gewettet werden kann, oder der Unterhaltung liefert. -> Die Spieler können in der Simulation Geld verdienen, aber die Gegner könnten es auch sehen! 
+
+- Wenn das Risiko zu gering ist, weicht der Simulator stärker von der Realität ab. -> Desto höher das Risiko desto mehr lässt die SL ihre wirklichen Pläne einfließen. 
+
+---
+
+Berufe und Fertigkeiten sind nicht ganz balanciert. Eigentlich muesste ein Beruf 
+immer dreimal soviel kosten wie die entsprechende Fertigkeit, und eine Steigerung 
+um 3 Punkte muesste die Kosten immer verdoppeln. 
+
+Das aktuelle System ist allerdings schoener handhabbar. 
+
+Moelichkeit: Kosten der Steigerung immer aktuelle Plusse od. immer aktuelle Plusse 
+plus 1 (fuer Eig.), was aber weit weniger elegant ist. 
+
+Mit dem aktuellen System brauchen wir noch eine Regelung, die zuegelloses 
+Steigern von Berufen verhindert, z.B. "Ein Beruf darf nie hoeher sein als die 
+hoechste Fertigkeit -3", oder "Zu jedem seiner Berufe (abgesehn von Berufen auf 
+Grundwert 9) braucht ein Char eine Fertigkeit, die mindestens 3 Punkte hoeher ist als sein Beruf und seine 
+Spezialisierung im Beruf zeigt. Der Beruf darf nie hoeher werden als die 
+entsprechende Fertigkeit." 
+
+Oder so. Aber das klingt noch alles zu sehr nach "Wir zwingen deinen Char dazu, 
+weil wir das halt brauchen". 
+
+Alternativ: "Benutzt den gesunden Menschenverstand. Wenn ein Beruf hoeher wird als 
+alle Fertigkeiten, sollte der Char ihn spezialisieren." 
+
+Oder Fertgkeiten, die den Beruf als Grundwert nutzen, um das Problem ganz zu 
+umgehen. => Spezialisierungen von Berufen sind Fertigkeiten. Gibt es keinen 
+passenden Beruf, greift ine Sonderrregelung. 
+
+Einfachere Lösung: 
+
+* Berufe kosten wie bisher
+* Boni kommen nur von einer Eigenschaft, und zwar immer einer zur Situation passenden. 
+
+Dadurch erhalten Berufe in höheren Stufen (wo ihre Kosten im Vergleich zu Fertigkeiten zu niedrig werden) weniger Boni und auch weniger berechenbare Boni, da in höheren Stufen Eigenschaftsboni meist höher sind. 
+
+Das schützt nicht perfekt gegen Minmaxing, aber da ab einer bestimmten Differenz zwischen Eig und Fert die Steigerung der Eigenschaften günstiger wird als die Steigerung der von ihnen gestärkten Fertigkeiten können die Kosten für einen Minmaxer wieder höher ausfallen. 
+
+Fertigkeit von 15 auf 16 kostet soviel wie Eigenschaft von 12 auf 15 (gleicher Effekt). 
+
+------
+
+Die Erschaffung braucht eigentlich noch keine Dreiecke. Es genügt von 
+- Punkten (= Dreiecke), 
+- Plussen und 
+- Werten 
+zu reden. 
+
+Dadurch wird der Einstieg deutlich einfacher. 
+
+Oder nur mit Strichen (=Punkte) Dreiecke bauen, die dann zu Plussen werden. 
+
+------
+
+Von Everworld Engine: 
+- Battle Angel Alita
+Entscheidungen treffen: Sobald eine Entscheidung getroffen ist: Bonus. Wenn sie ins Wanken gerät: Das gleiche als Malus, bis neue Entscheidung. Dauer bis neue Entscheidung: Würfelwurf. 
+
+(wie in den Pfad wählen)
+
+------
+
+Abgesehen von der echt tollen Runde, in der <a href="/uzanto/inside">Inside</a> uns 
+mit vermutlich nur einem oder zwei Protektoren konfrontiert hat - es waren nämlich 
+all die hunderte Protektoren weg, nachdem wir zwei erschossen hatten. 
+
+Selbst ohne Präkognition sind die schon übel, aber mit Präkognition muss man selbst 
+entweder tiefer in die Zukunft sehen oder tiefer in die Zukunft planen können als sie 
+- eine Schachpartie inmitten eines Feuergefechtes :)
+
+Wenn man tiefer in die Zukunft sieht, ist es natürlich einfach: Man schaut einfach, 
+wie man ihn trifft. 
+
+Wenn man nicht in die Zukunft sieht, muss man dagegen alle möglichen Züge des 
+Protektors vorrausplanen, um zu wissen, wie man ihn überhaupt treffen kann. 
+
+Wir haben uns für die erste Variante entschieden :) 
+
+Idee für das Ausspielen der virtuellen Schachpartie: Eine kleinere Runde Schach 
+(weniger Figuren für kürzeres Spiel). Mit einem erfolgreichen Wettstreit kann der 
+Verlierer gezwungen werden, einen Zug ohne Wissen um die Aktionen des Gewinners zu 
+spielen. Sobald der bisherige Gewinner einmal verliert, muss er alle bisher 
+versteckten Züge nachholen und einen weiteren ohne Vorwissen machen. Falls der 
+Verlierer (ohne Vorwissen) eine Figur schlagen will, wird der freie Wettstreit 
+abgebrochen, und der Gewinner muss seine Züge machen (begrenzt die Reichweite - 
+sobald es bleibende Folgen gibt, werden beide wieder zusammengezogen und die Züge 
+laufen wieder gleichzeitig). Das gleiche gilt, wenn der Gewinner in einem Zug eine 
+Figur des Verlierers beeinträchtigen will - der Vorteil kann also nur bessere 
+Stellungen bringen, z.B. sofortiges Schach Matt :) )
+
+z.B. könnte eine Schachfigur pro Spieler gewählt werden. 
+
+------
+
+Idee für eine Spezies: Geflügelte, die in den Wolken leben. 
+
+Ihre Haut absorbiert Wasser aus den Wolken, so dass sie zum trinken nicht auf den 
+Boden müssen. 
+
+Die Wolkenbewohner spüren schwache Änderungen des Luftdrucks und bemerken andere 
+ihrer Spezies dadurch auf große Entfernung.  
+
+Schreckliche unter ihnen leben in Gewitterwolken (die Ladung in der Wolke könnte sie 
+aggressiver machen, oder stärker, vor allem aber verbirgt sie sie). 
+
+Wenn ein Flugobjekt ankommt und sie darauf landen wollen, steigen sie weit auf, um im 
+Sturzflug die Geschwindigkeit des Flugobjektes zu erreichen. 
+
+*"Siehst du das Volkenvolk über uns? Wenn sie so hoch fliegen, kommen sie um mit uns 
+zu sprechen."*
+
+Ihre Körper sind leicht und fragil, aber Menschengroß. 
+
+Sie brauchen außerhalb der Wolken deutlich mehr Wasser als andere - können aber 
+weniger tragen. Kleidung könnte das abmildern, und feuchte Kleidung könnte ihnen ein 
+Leben außerhalb der Wolken ermöglichen. 
+
+Wenn sich Wolken rasch auflösen, könnten ganze Schwärme von ihnen in Gefahr sein. 
+
+Vielleicht findet man dann und wann erfrorene oder vertrocknete Wolkenleute. 
+
+Sie ernähren sich von Vögeln, in Zeiten des Hungers aber auch mal von kleinen 
+Bodenbewohnern. 
+
+Wie Zugvögel wandern sie von Ort zu Ort, aber viele betreten den festen Boden nur 
+zweimal im Jahr für längere Zeit. 
+
+Ihre Bewegungen richten sich nach den Wolken, so dass sie zwar schnell sind, aber 
+selten Nachrichten übermitteln. Manchmal könnte ein Bote von ihnen ausgesandt werden, 
+um wichtige Nachrichten zu transportieren - was für diesen ähnlich ist wie für einen 
+Menschen eine Reise durch die Wüste. 
+
+
+Weitere Ideen dazu: 
+
+* Ihr Aussehen kann Menschenähnlich sein, oder sehr fremdartig, mit blauer 
+Haut, transparenten Schwingen und großen irisierenden Augen. 
+
+* Genauso könnten sie auch gefederte Schwingen haben -> effizienter für schnelles 
+Fliegen (Auftrieb durch daran entlangstreichende Luft statt nur durch die 
+Muskelkraft). 
+
+* Vielleicht können sie die Wolken nur für begrenzte Zeit verlassen, oder 
+wollen es einfach nicht, weil es in den WOlken viel angenehmer ist. 
+
+* Vielleicht trocknet ihre Haut schnell, wenn sie nicht mehr in den Wolken sind, so 
+dass sie nicht nur viel trinken, sondern ihre Haut auch regelmäßig benetzen müssen. 
+
+* Ihre Körpertemperatur könnte niedriger sein. 
+
+* In den Wolken verdunstet so viel Wasser auf ihrer Haut wie kondensiert, so dass ein 
+Temperaturgleichgewicht gewahrt bleibt. Sie könnten außerhalb der Wolken also trotz
+höheren Temperaturen erfrieren. 
+
+------ 
+
+Stimm- und Beschreibungstraining für Rollenspieler: 
+
+* Sammlung schöner Ausdrücke: 
+    - Kampf
+    - Personenbeschreibung
+    - Landschaften
+    - Ausrüstung
+
+* Situationen üben (spezifische Situationen zum üben aufschreiben)
+
+* Stimmung halten (z.B. *Beschreibung* ... was tust du?)
+
+* Körperhaltungen, Mimik und Gestik für NSCs (mit Skizzen, Inspiration z.B. von Zeichnerpuppen. Stehend (die Person) und sitzend (wie du den NSC spielst).)
+
+
+"Lies viele Geschichten und hör' dir Hörbücher an. Schreib' dir schöne Ausdrücke raus." 
+
+"Üb' wichtige Teile vorher, das hilft auch den weniger wichtigen." 
+
+"Sprich dir Teile in Gedanken vor, und dann sprich sie auch mit deinem Mund (und deinem Körper)."
+
+"Wenn in einem Film jemand interessant spricht, notier es dir und sprich ihn nach, imitiere ihn, auch wenn es anfangs doof klingt, und schau dir auch seine Körpersprache an, die macht sowohl für deine Stimme, als auch für deine Wirkung auf deine Spieler einen deutlichen Unterschied."
+
+"Hör' dir an, wie Leute auf der Straße sprechen. Rede mit Leuten in Bus und Straßenbahn."
+
+"Trink' genug Wasser."
+
+"Nimm' dich auf Tonband auf. Dann entspann' dich. Es klingt für jeden so grausig, wenn er sich das erste Mal selbst hört. Jetzt such' nach Verbesserungsmöglichkeiten."
+
+------ 
+
+Gemeinsame Kampagnen - jeder trägt seine eigenen Verzweigungen ein, die Wege in die seine Kampagne gegangen ist und auch die, an die er gedacht hatte, die aber nicht passiert sind. 
+
+Damit könnten vollständig nichtlineare Abenteuer entstehen. 
+
+Aus diesen Aufschrieben können dann riesige Flussdiagramme werden. 
+
+(gibt es schon bei DnD)
+
+------ 
+
+Erschaffen in Geschichten: 
+
+- Jedes Lebensjahr des Chars erzählen. 
+- Jedes Jahr ein Strich. -> mit 21 Jahren 21 Striche = 7 Dreiecke = angehende Helden. 
+- Ab 21 jedes Jahr einen Strich aber jedes dritte Jahr auch einen Strich (woanders) entfernen - mit 30 hat er 9 Dreiecke. 
+- Ab 30 jedes Jahr einen Strich umlegen, jedes dritte Jahr einen Strich dazu -> mit 60 hat er 12 Dreiecke und 1 Strich. 
+- Ab 60 nur noch Striche umlegen + langsamer Verfall. 
+
+=> Startalter für Charaktere -> Jedes Jahr erzählen, pro Jahr steigern. 
+
+In 6-Jahren-Abschnitten durchgehen -> bis 18 sind es 3 Abschnitte mit Ereignissen 
+in der Umgebung. Das fuehrt zu uebersichtlicheren Charaktergeschichten und damit 
+klareren Motivationen. 
+
+------ 
+
+Merkmale, die von der Staerke des Chars abhängen -> reduzieren 
+Erfahrungspunkte. Gilt für Merkmale, die eine spezielle Fähigkeit freischalten, 
+die es sonst gar nicht gibt (z.B. Unsterblichkeit u.ä.), weil durch die 
+Fähigkeit Chars in höheren Bereichen größere Vorteile haben, d.h. der 
+Unterschied zwischen Chars hängt z.B. nur von der Differenz ihrer Werte ab, nicht 
+von dem absoluten Wert, das Merkmal gibt aber einen absoluten Vorteil. 
+
+Vielleicht auch abhängige Steigerung: "Darf maximal so hoch sein, wie ... "
+
+Oder "muss aufrechterhalten werden": Muss immer (mindestens) den gleichen Prozentsatz an Punkten des Chars haben. Ein Char, der mit 12 Strichen erschaffen wird und ein stärkeabhängiges 3-Strich Merkmal erhält, muss immer 1/4 seiner Punkte in dieses Merkmal investieren. 
+
+------
+
+Eckenkosten fuer besondere Gegenstaende ausarbeiten, z.B. fuer Psi-Verstaerker. 
+
+------ 
+
+Merkmal: "Behaelt den Ueberblick"
+
+------
+
+Ideen aus Star Wars
+-------------------
+
+Prinzipien für Wächter: 
+
+* Halte dir immer einen unabhängigen Rückzugsweg offen. 
+	- Pferd. 
+	- Überlichtfähiges Schiff, selbst wenn es teurer ist. 
+
+Eine Republik mit starken Jedi: 
+
+* Kampfverbände durch persönliche Freundschaft verbunden statt durch Hierarchie - 
+niemals zu viele direkte Kontakte von einem, damit nichts an einem Einzelnen hängt, 
+denn auch mit idealer Ausbildung ist ein einzelner immer fehlbar. Wenn die 
+Verantwortung und das Verständnis bei vielen liegt, ist dieses Risiko geringer. 
+
+
+------
+
+Konflikte: 
+
+Jeden Punkt "Dauer" eine andere Szene / ein anderer Hintergrund. 
+
+Beispiel: Jedi Kampf Obi Wan Kenobi vs. Annikan/Darth Vader auf der Lavastation. 
+
+Szenen: 
+
+1. Verbal: Padme und Obi Wan gg Annikan -> Der einfache Weg steht nicht offen, Annikan bleibt bei der dunklen Seite -> Annikan eskaliert den Konflikt: Er erkennt den Verlust durch die Ohnmacht Padmes nicht an. 
+2. Auf der Landeplattform. Verbal: Obi Wan verliert den Konflikt um Annikans Weg. Auch er eskaliert. 
+3. In dem Raum der Seperatisten. Eigentliche Dauer des Konfliktes beendet. Beide entscheiden sich zu eskalieren. 
+3. Auf der Brücke über dem Lavastrom. 
+4. Auf dem versinkenden Steg, dann an Seilen hängend. 
+5. Auf den schwebenden Plattformen, Obi Wan hat die größere Plattform, da er im Konflikt weit voran gekommen ist. Verbal, Obi Wan gibt Annikan eine Chance den Konflitk zu beenden ohne den ultimativen Preis zu bezahlen ("Palpatine is evil!" - ja, ich habe es auf englisch geguckt :) ). 
+6. Auf dem schwebenden Plattformen, Annikan eskaliert weiter, nachdem Obi Wan verbal gewinnt, geht tiefer in die Dunkelheit und springt auf Obi Wans Plattform. 
+7. Obi Wan hat in Punkten gewonnen. Annikan eskaliert nicht weiter, Obi Wan muss den Konflikt beenden oder aufgeben. 
+8. Beide zahlen den emotionalen Preis ihres Kampfes und ihrer Eskalationen. Annikan zahlt den körperlichen und den storytechnischen Preis des verlorenen Konfliktes: Sein Körper wird fast zerstört, Padme stirbt. 
+
+Preise zu zahlen: 
+
+- Obi Wan: 
+	* Eskalation auf der Landeplattform, da er Annikan nicht zurück holen kann, emotional: "Mein Schüler ist verloren -> Ich bin kein guter Lehrer -> Luke wird von Joda ausgebildet."
+	* Eskalation im Raum der Seperatisten, storytechnisch: Verliert seinen Schüler. Er könnte noch zurück. "Annikan, warte! Ich werde dich unterstützen" würde den Konflikt hier beenden. 
+- Annikan: 
+	* Eskalation bei der Ohnmacht von Padme, emotional: "Alle stehen gegen mich!"
+	* Eskalation im Raum der Seperatisten, storytechnisch: Verliert seinen Lehrer für immer. Hier könnte er noch aufgeben, aber er hätte seinen Lehrer verloren. Er könnte kein Jedi Meister mehr werden, aber er könnte den dunklen Wegen abschwören, oder zumindest Gefangener werden. 
+	* Eskalation auf den Plattformen, körperlich: Wird der Darth Vader, den wir kennen und lieben :) 
+
+-> Fundamentale Schwächen des bisherigen Konfliktsystems: Es funktioniert nur mit 
+"Charaktere gegen die Welt" aber nicht mit "Charaktere gegen Charaktere". Dafür 
+braucht es eine leichte Abwandlung: Beide würfeln gegeneinander und es muss eine 
+Mindestdifferenz erzielt werden. Wer verliert kann eskalieren und erhöht damit sein 
+Risiko (vielleicht: "setzt aber die Punkte zurück"). Für jede Eskalation ist ein 
+Preis zu zahlen. 
+
+Wenn die Punkte zurück gesetzt werden wenn eskaliert wird, kann der vorherige 
+Gewinner noch häufiger eskalieren als der Verlierer -> beim Eskalieren sollten die Punkte zurück 
+gesetzt werden. 
+
+Für EWS: 9 Punkte ansammeln beendet den Konflikt, es sei denn, der Verlierer 
+eskaliert. 
+Außerdem beendet das Erreichen der Maximaldauer den Konflikt, es sei denn einer von beiden eskaliert. 
+
+Spezifische Kapazität von Charakteren zum Eskalieren aufbauend auf ihrer 
+Storytechnischen Wichtigkeit; unterscheidet so automatisch zwischen Statisten, 
+Nebencharakteren und Helden/Schurken. Wer seine Fähigkeit zum Eskalieren ausreizt, 
+zahlt den höchten Preis: Seine Geschichte endet. Passiert bei Statisten schon beim 
+ersten verlorenen Konflikt und bei Helden erst sehr spät. 
+
+-> Annikan hat nicht bis zum bitteren Ende eskaliert. Seine Geschichte ging weiter, 
+aber er hat alles verloren, das ihm wichtig war, d.h. er hatte nur noch eine 
+Eskalation übrig. 
+
+Padme war eine Statistin, daher war sie nach dem ersten verlorenen Konflikt draußen. 
+
+Das ganze lässt sich auf Gruppen erweitern, wobei da alle Mitglieder der Gruppe 
+gleichzeitig eskalieren müssen - wer nicht mehr eskalieren kann (z.B. Statisten) oder 
+nicht mehr will (weil es zu riskant wird) fällt raus und nimmt nicht am Rest des 
+Konfliktes teil. 
+
+Da in Gruppen 9 Punkte sehr schnell erreicht wären, kann die Gruppe sich entscheiden 
+zu eskalieren, sobald einer 9 Punkte erreicht hat, oder sie warten, bis alle 9 
+erreicht haben (und die die bereits 9 haben setzen solange aus). Wer 9 hat kann sich 
+an jedem Punkt entscheiden zu eskalieren, aber wenn die Gruppe nicht mitgeht steht er 
+alleine da, und wenn die Gruppe mitgeht, bringt er die anderen vielleicht unnötig in 
+Gefahr (durch die Eskalation erhöht sich der zu zahlende Preis). 
+
+Zu spät zu eskalieren bedeutet wiederum allerdings, dass die Gruppe gegenüber den Gegnern ins Hintertreffen gerät, weil die mit mehr Leuten würfeln. 
+
+MW ohne Gegner: 12 - Konflikte sind _immer_ fordernd, sonst wären sie irrelevant. 
+Ansonsten Wurf gegeneinander. 
+
+------ 
+
+Modulnamen: 
+- Allgemeine Module: 4 Zeichen
+- Weltenspezifische Module: 2 Zeichen Präfix (=> 576 Welten) + "_" + 4 Zeichen. 
+
+=> RZ_PsiM , Er_MagM
+
+------ 
+
+
+Die Schwesternschaft der Wissenden
+----------------------------------
+
+Ein alter Zusammenschluss von Frauen, die nach Wissen suchen. 
+
+Sie lernen aus Rätseln, und es heißt, dass in den tiefen Kellern ihrer Burgen 
+alle Geheimnisse der Welt verborgen sind, angeblich sogar das Geheimnis der 
+Unsterblichkeit, denn einige ihrer Besucher erzählen, dass die Oberen ihres Ordens 
+auch nach 20 Jahren keinen Tag älter wirkten als bei ihrem letzten Besuch. 
+
+Mit der Zeit verinnerlichen die Wissenden die Kunst der Rätsel immer mehr, und sie 
+entwickeln den unwiderstehlichen Drang, all ihr Wissen in Rätsel und Verse zu kleiden 
+und weiterzugeben. 
+
+Wenn sie nach Abschluss ihrer Lehrzeit, die je nach Begabung 5 bis 30 Jahre dauern 
+kann, auf Reisen gehen, um neues Wissen zu sammeln, wie es die Regeln des Ordens 
+fordern, kehren sie meist mit Bänden voller Gedichte und Rätseltexte zurück, die dann 
+von ihren Schwestern gelesen werden, um die Texte zu verfeinern und die wichtigsten 
+Erkenntnisse dem Kanon des Ordens hinzuzufügen. 
+
+Allerdings ist nicht alles Wissen der Schwesternschaft harmlos, und manch eine 
+begabte Sucherin hat bereits den Verstand verloren, weil sie sich zu schnell an die 
+tiefsten Geheimnisse gewagt hat und das Pech hatte, die Rätsel zu verstehen, bevor 
+sie für deren Erkenntnisse bereit war. Die meisten dieser Bedauernswerten bleiben in den 
+Burgen der Schwesternschaft, doch von Zeit zu Zeit geschieht es, dass sie die 
+Schwesternschaft verlassen, bevor ihr Wahnsinn erkannt wird, und manche von ihnen 
+tragen schreckliche Geheimnisse aus dem Orden. Ganze Landstriche wurden bereits von 
+wahnsinnigen Wissenden unterjocht. Doch mit dem Wissen tragen die Wahnsinnigen 
+den Drang in sich, all ihre Geheimnisse in Verse udn Rätsel zu kleiden, und 
+während ihre Rätselkünste außerhalb des Ordens langsam verfallen, bleibt der 
+Dran. Meist endet der Wahnsinn, indem die Schwesternschaft eine Wissende ausschickt, 
+die sich Begleiterinnen außerhalb der Burg sucht und die Abtrünnige stellt. Alle
+Abtrünnigen, die bisher mehr als ein paar Jahre außerhalb des Ordens lebten, versahen 
+sich zwar noch auf ihr Wissen, doch ihr Drang zwang sie, ihre Geheimnisse in Versen 
+und Rätseln so aufzuzeichnen, dass jeder Besucher sie lesen konnte, und ihre 
+Rätselkünste waren so geschwächt, dass selbst junge Wissende und teilweise gar 
+ungeschulte Geister ihre Texte verstanden und mit deren Hilfe jeden Schutz um die 
+Wahnsinnige überwinden, sie stellen und zurück in den Orden bringen konnten. 
+
+------ 
+
+"Wir werden Helden" - Buchidee
+
+Ein Buch, das sich mit der typischen "Wir werden Helden" Kampagne beschaeftigt und 
+Ideen dafuer liefert. 
+
+* Was sind Helden? - Aus irgendeinem Grund versuchen sie gegen alle Widerstaende 
+das fuer sie richtige zu tun. 
+
+* Wie wird man zum Helden? 
+	- Klein anfangen und den (gerechten) Kampf gegen eine riesige Uebermacht 
+wagen. 
+	- Grosze Entscheidungen trotz massiver Risiken treffen. 
+	- Eigene Schwaechen ueberwinden (das ist der groeszte der Kaempfe)
+	- Der Sieg ist keine Vorraussetzung. Der wirkliche Konflikt geht darum, 
+ob man seiner Sache treu bleibt. Das kann beinhalten , dass man realisiert, 
+dassdie eigenen Ziele nur Schatten von tieferliegenden Zelen waren, so dass man 
+nun die tieferliegenden Ziele verfolgt. 
+	- Voller Einsatz ist wichtig, darf aber komplexer sein (ein immer 
+hungriger Halbling hat einen anderen vollen Einsatz als ein Schlachterprobter 
+Soeldner; zumindest anfangs). 
+	- Am Ende durch die eigenen Ideale zu fallen kann einen Heledn formen. 
+
+* Regelideen: Modul "Den Weg waehlen", die Macht der Ueberzeugung (wir wollen 
+nicht irgendwen spielen, sondern vor alle diejenigen, die den Weg zum Helden 
+wagen, daher sollten die auch Vorteile haben, und auch ihre Gegenspieler 
+sollten starke Ueberzeugungen haben, damit diese Ueberzeugungen zum Thema werden). 
+Helden werden durch Abenteuer besser, oder durch die Vorberitung darauf. 
+
+* Herausforderungen stellen die Ideale der Helden auf die Probe -> ihnen nicht zu 
+folgen kann z.B. grosze Vorteile bringen, bedeutte aber den Weg zu verlireen und 
+oft langfristig den Ultimativen Fall. Gefallene Helden sind tolle Gegenspieler. 
+
+* Helden klarer definieren: "Was bin ich?" (Siehe Belkar: "I'm a sexy shoeless god 
+of war!")
+
+* Muss ein direkt spielbares Beispiel enthalten. 
+
+------ 
+Unterstützende Fertigkeiten auch zwischen Gruppenmitgliedern. 
+
+* MW gleich der Fertigkeit des anderen Chars. 
+* Bei Gelingen 1 Punkt Bonus + 1 Punkt je 3 Punkte über dem MW. 
+* Ein überragender Char kann so einem durchschnittlichen Char 
+normalerweise etwa 3 Punkte Bonus geben. 
+* Braucht eine Handlung (für erklären, Tipps geben, beruhigen, etc.)
+
+------
+
+Fähigkeit: Substanzanalyse und Kräuterkunde verbunden.
+
+------ 
+
+Idee: Buch: "Elfen, Orks und Zwerge"
+
+------ 
+
+Ganz auf Lebenspunkte verzichten: Bei jeder Wunde würfeln, ob man noch steht. Abzüge 
+durch bisherige Wunden zählen => z.B. Mindestwurf = Anzahl Wunden * 3 + Kritische * 9. 
+
+Vll. Bei 9 Punkten unter dem Wert Todesgefahr. => Meist erst Ohnmacht, von der man 
+sich wieder erholt. 
+
+Vll. auch erst bei dem Versuch der Erholung prüfen, ob man stirbt. 
+
+Schwierigkeit: Wie skaliert man nach oben oder unten? -> wird zwischen Kategorien schon durch den Waffenschaden erledigt. 
+
+Die Grundidee habe ich bei Alea Iacta Est gefunden :)
+
+(nicht bei Wunden durch das Ein Wurf System - da wird die Frage der Kampfunfähigkeit bereits im Kampfsystem selsbt geklärt). 
+
+------ 
+
+In Abenteuern eine Beispielgruppe nutzen und die Hintergründe der Entscheidungen 
+des SL für diese Gruppe beleuchten. Dazu Stichworte für weitere Ideen bei anderen 
+Charakteren schreiben, damit SLs das Abenteuer einfacher an ihre Gruppe anpassen 
+können. 
+
+Damit wird der Prozess des Anpassens klarer, und das Abenteuer liest sich 
+interessanter. 
+
+------ 
+
+Merkmal: Kein sozialer Rückhalt. 
+
+Das kann z.B. bedeuten, dass jemand keine Freunde hat, von seiner Familie ausgestoßen wurde oder ihm Leute aus bestimmten Gründen nicht helfen wollen (er könnte einer unerwünschten oder verrufenen Spezies ode rBevölkerungsgruppe angehören oder sich unterbewusst auf eine Art verhalten, die ihn nicht vertrauenswürdig erscheinen lässt, o.ä.). 
+
+------ 
+
+Kampagnen, in denen jeder Spieler drei oder vier Charaktere hat, die jeweils einen 
+anderen Platz in der Gruppe einnehmen: 
+- http://de.wikipedia.org/wiki/Gruppendynamik#Rollen
+
+Rollen: Anführer, Spezialist, Arbeiter, Sündenbock. 
+
+Im Verlauf der Kampagne sollte jeder Spieler mindestens einmal die Rolle des Anführers 
+und einmal die des Sündenbocks erleben. 
+
+=> drei Gruppen mit "Sozialpunkten". Entscheide, wo du toll, wo mittelmäßig und wo 
+schlecht angesehen sein willst. 
+
+Am Ende eine letzte Runde, in der sich die Rollen erst rauskristallieren; z.B. 
+Leute, die sich noch nicht kennen und deren Rollen durch ihre Fähigkeiten nicht 
+klar definiert sind. 
+
+Nach jedem Teil vielleicht Reflektion, z.B. durch Punkteverteilung o.ä. - darf aber 
+nicht zum Selbstzweck werden. 
+
+Der Grundlegende Sinn des Spiels ist Spaß zu haben, und das muss immer im 
+Vordergrund stehen.
+
+Vielleicht auch möglich, indem Archetypen vorgegeben werden, bei denen jeweils in bestimmten Situationen bestimmte Rollen passen -> Anführer z.B. in der eigenen Region, oder im eigenen Metier (Dieb in den Schatten, Ritter im Königshof, ...), das gleiche für Sündenbock und Spezialist. 
+
+Wie kann eine völlige Überdeckung von Spezialist und Anführer vermieden werden? Sollte sie vermieden werden? 
+
+------ 
+
+Interaktionen abstrakt: 
+
+*Einzelinteraktionen:*
+
+Beide Beteiligten würfeln. Diff = Ergebnis. 
+
+Je 3 Punkte Diff Grundeffekt ± 1. 
+Falls es eineen Angreifer gibt, gewinnt der bei einem Gleichstand. 
+
+*Gruppeninteraktionen:*
+
+Aufteilen in einzelne Handlungen, die voneinander abhängen. 
+
+Erst die abhandeln, die von keinen anderen abhängen (wenn niemand, dann alle gleichzeitig, die nur voneinander abhängen od. SL entscheiden lassen). Aus deren Eregebnis erhalten die späteren Boni: Je ± 1 pro Punkt Grundeffekt aus der Einzelinteraktion. 
+
+Dann die Kette runter gehen. 
+
+Beispiel: Raumschiffkampf: Erst die Piloten gegeneinander, dann die Geschützleute. 
+
+Gruppen bilden, von deren Fähigkeiten der Durchschnitt genommen wird, mit herausragenden einzeln + Mods für Überzahl, etc. (Überzahl: (3 * (Anzahl größere / Anzahl kleinere) - 3), max durch Situation gegeben, z.B. 9 bei Nahkampf: 4 auf einen)
+
+Beispiel: Die 20 durchschnittlichen Kanoniere der unterbeschäftigten Raumflotte von _Garad_ gegen 5 hochmotivierte, überragende Piraten mit ihrem legendären Kapitän. 
+
+=> Ohne Kapitän: Je 4 gegen einen -> Malus von 9 für Piraten. 
+
+* Werte Raumflotte: 12
+* Werte Piraten: 9
+
+Es wird effektiv für einen Piraten gewürfelt und das Ergebnis für alle genommen. 
+
+Da sich die Ergebnisse rausmitteln sollten, wird bei extremen Ergebnissen (min. zweimal 5 od. 6) das Erg. _nicht_ verallg., sondern für den Rest nochmal gewürfelt. Gilt als Einzelereignis. 
+
+Als erstes Piloten: 
+
+* Pirat: 18
+* Flotte: 12
+
+=> Durchschnittsbonus +2 für Piraten
+
+Nun greift der Kapitän ein: 
+* Kap: 24; bindet 5 Kanoniere. 
+
+=> Flotte 12, Kap 12 + 2, Piraten (bei 15 gg 5) 12 + 2, Flotte 12, aber die Flotte hat bessere Panzerung (+2). 
+
+=> der Kampf wird spannend. Vermutlich wird die Flotte wegen der Überzahl gewinnen (mehr Kanonen). Wenn jede Kanone allerdings auch zur Abwehr genutzt werden kann (und zwar beliebig oft in der Runde), stehen die Chancen für die Piraten gut. 
+
+------ 
+
+Proben, die das (notwendige) Ergebnis nicht aufhalten: Der Char nimmt Schaden in 
+Höhe der Punkte, um die er die Probe nicht geschafft hat - je nach Wundschwelle ist 
+das sehr schnell eine Wunde. 
+
+Beispiel: *Corrisande* aus *Das Obsidianherz* (Ju Honisch) Klettert an der Fassade 
+und versucht an einen Balkon zu springen. Der Wurf ist verdammt schwer, und wenn sie 
+abstürzen sollte, wäre sie tot - das darf also nicht passieren, wenn die Geschichte 
+weitergehen soll. 
+
+Sie schafft es, sich festzuhalten, reißt sich aber das Gesicht auf (was für eine 
+Dame von Stand sehr unangenehm ist). 
+
+Natürlich kann Schaden auch nicht-körperlich sein. Gerade Reputation und Vermögen, 
+aber auch Selbstbewusstsein bieten sich an. 
+
+Alternativ kann eine misslungene Probe auch einfach Zeitverlust bedeuten, z.B. 
+3-fache Zeit, pro 3 Punkte unter MW nochmal verdreifacht. 
+
+Oder auch ganz allgemein: Eine negative Folge plus eine weitere je 3 Punkte, um die 
+der MW verfehlt wurde. 
+
+------ 
+
+Ideen aus dem Workshop Action im Rollenspiel von 8t88: 
+
+Fun with Failure: Stuntpunkte für jeden wichtigen Patzer/jedes wichtige Versagen, die später Boni geben können, oder sogar automatischen Erfolg (vll. nur, wenn sie schön beschrieben werden). 
+
+Flashbacks: Wenn du jemanden kennst, erzähl uns einen Flashback, woher du ihn kennst (eine kurze Szene aus der Vergangenheit - sie sollte spannend sein). 
+
+Schlüsselszenen (lines of experience): Wenn eine spezielle (spannende) Szene bestanden wird, schreiben sich die Spieler einen Stichsatz dazu auf. Wenn sie wieder in eine ähnliche Situation kommen, erhalten sie Boni. Merkmal: Besondere Erfahrungen (drei Schlüsselszenen schon erlebt - müssen durch Flashback beschrieben werden, wenn sie auftreten, d.h. sie müssen zum Hintergrund des Charakters passen). 
+
+Beschreiben: Erst die "niederen" (und direkt ankommenden) Sinne (Geruch, Gehör) beschreiben, dann was man sieht. Genauso erst die weniger wichtigen aber stilvollen Teile, dann die geschichtstechnisch relevanten. 
+
+------ 
+
+### (Psychischer) Schaden und spannende Geschichten
+
+Schaden kann einen Char leicht mal schachmatt setzen, psychischer genauso (und oft stärker als) körperlicher. 
+
+Die akuten Folgen von Schaden sollten Chars für langfristige Folgen eintauschen können. 
+* Wenn ein Char Panik hat, kann er sie überwinden, indem er sich den Nachteil "Ich bin eiskalt" nimmt. 
+* Zu heftige aktuelle Erschöpfung kann kurzfristig ignoriert werden, wenn der Spieler sich entscheidet, stattdessen eine Wunde oder ähnliche bleibende Folgen in Kauf zu nehmen. 
+* Um die Wunde zu ignorieren, kann er langfristige Folgen akzeptieren - "Es ist mir egal, ob das mein Knie für immer ruinieren könnte; Ich gehe jetzt weiter!". 
+
+Möglichkeit dazu: Keine zwingenden Folgen, sondern die Gefahr von Folgen: Würfle, ob du bleibende Schäden beibehältst. Wenn du jetzt eiskalt bist, musst du nachher würfeln, ob das bleibt und ein Nachteil wird; 
+
+Idee: Alle möglichen Folgen auf Zettel und zum Charakter legen; in passenden Situationen (Zeit für Charakterentwicklung, vll. Interaktion) oder am Ende der Runde würfeln, ob sie bleiben => Charaktere sammeln mögliche Folgen, wenn sie zu viel riskieren. Vll. wird die Probe für jede zusätzliche mögliche Folge schwerer. Vll. auch direkt nach der Szene würfeln, wenn die Spannung nachlässt => kann direkt zu mehr Interaktion führen, schließlich hat sich gerade was geändert. 
+
+Auf die Art können auch "normalere" Charaktere mehr reißen und Helden gehen langsam kaputt. 
+
+Außerdem werden alle neuen Nachteile zu "coolen Narben". 
+
+Genauso könnte das bewusste Annehmen von Risiken Boni geben - "Ist mir egal, ob ich getroffen werde, ich erwische ihn" -> Wenn der Char dann getroffen wird, behält er Narben zurück, denn die Aktion war wichtig und kann echte Folgen haben - und Narben sind direkt Nachteile oder mindestens Marotten; sie könnten auch bedeuten, dass bestehende Marotten oder Nachteile heftiger werden. 
+
+------ 
+
+### Schildregeln (Sire)
+
+*Da sie anscheinend bisher nirgendwo richtig aufgeschrieben waren*
+
+Schilde haben einen Schildwert  zwischen 1 (Buckler) und 6 (Turmschild). 
+
+*(Die genauen Werte müssen noch in der Praxis erprobt und/oder durchgerechnet werden)*
+
+Wenn ein Charakter mit Schild im Kampf getroffen wird und die Differenz zwischen beiden Proben niedriger als sein Schildwert ist, trifft der Schlag nur den Schild, verursacht also keinen Schaden. Die Stärke der Waffe ist dabei egal, solange der Schild stark genug ist, die Waffe zu stoppen. 
+
+Beispiel: *Jodrik Marrings*, ein Meister von Schwert und Schild (Wert 21), wird auf dem Weg vom Trainingsplatz von einem einem Nebenbuhler um die Hand der seiner Liebsten angegriffen. Sein Gegner dringt mit der Axt auf ihn ein, während *Jodrik* noch Schwert und Schild bei sich hat. Bevor er sich allerdings bereit machen kann, reißt ihm der erste Axthieb das Bein auf (kritische Wunde, Malus von 6) und macht einen Rückzug unmöglich. Er packt seinen Halbschild (Schildwert 3) und sein Schwert (Schaden 4). Beim nächsten Angriff würfeln beide. *Jodrik* kommt inklusive Verletzung auf einen Wert von 12 (er hat eine 3 gewürfelt), sein Gegner auf 15. Da die Differenz von 3 Punkten nicht höher ist als *Jodriks* Schildwert, erwischt sein Gegner nur den Schild - die 10 Punkte Schaden seiner schweren Axt haben keinen Effekt. 
+
+Hätte *Jodrik* keinen Schild getragen, wäre der Angriff durchgekommen und hätte ihm eine zweite kritische Wunde geschlagen, den Kampf also vermutlich entschieden. 
+
+
+#### Statistische Auswirkung von Schilden
+
+Ein Turmschild mit 6 Punkten Schildwert reduziert bei Gleichstarken die Chance getroffen zu werden von 50% auf 18% (1/6). Wenn man aber getroffen wird, ist der Treffer dafür immer heftig/auf Verwundbare Stellen. 
+
+Ein Schild mit 3 Punkten Schildwert senkt die Chance getroffen zu werden genauso wie ein um 3 höherer Fertigkeitswert, erhöht aber nicht die Chance selbst zu treffen. 
+
+Im Gegensatz zum Kampf ohne Schild ist ein Gleichstand kein Treffer, wenn der Verteidiger einen Schild trägt, selbst wenn der Schild einen Wert von 0 hat. 
+
+
+#### Option: Schild als Bonus, der nur gilt, wenn man getroffen wird. 
+
+Schilde werden noch etwas stärker und vermutlich realistischer, wenn der Schildwert immer von der Differenz abgezogen wird, selbst wenn der Schlag durchkommt. 
+
+
+#### Option: Malus durch den Schild
+
+Schilde können je nach Handlichkeit einen Malus auf den Fertigkeitswert geben. 
+
+Vorsicht: Schild 5, Malus 1 ist schwächer als Schild 4, Malus 0, bei Schild 4, Malus 0 die Chance höher ist, selbst zu treffen, die Chance getroffen zu werden allerdings gleich groß bleibt (weil der Gegner bei Malus 1 effektiv durchschnittlich eien um 1 erhöhte Differenz erzielt). 
+
+Faustregel: Pro (volle) 3 Punkte Schildwert kann der Charakter einen Malus von 1 auf seinen Fertigkeitswert erhalten. Dadurch werden Schilde etwas schwächer, weil der Kämpfer mit Schild dann auch seltener trifft. Schilde mit Wert 2 und 5 sollten dann weggelassen werden. 
+
+------ 
+
+### Starcraft Ideen
+
+#### Als Grundsystem Nur Wunden nutzen
+
+Grund: Ein Rollenspiel kann die Schadenskomplexität etwas reduzieren
+
+-> Terraner: Leichte Rüstung erhöht einfach die Wundschwelle. 
+
+Unterschied der Waffen: Wie groß ist die Chance eine Wunde oder eine kritische Wunde zu schlagen. 
+
+Für Gebäude und besonders große Einheiten das normale Schadenssystem. 
+
+#### Für Terraner, Zerg und Protos unterschiedliche Schadenssysteme
+
+Terraner: 
+
+* Fahrzeuge: Eigene Werte. Bei Zerstörung des Fahrzeugs können die Insassen überleben. 
+* Rüstungen: Erhöhen die Wundschwelle und vll. Eigenschaften. 
+
+Zerg: 
+
+* Massiv höhere Eigenschaften und interne Panzerung (WS + x)
+* Regeneration von Wunden
+
+Protos: 
+
+* Schild mit eigenen Werten. 
+* Unter Schild extrem verwundbar. 
+* Anders als bei Terranern regeneriert der Schild. 
+
+#### Balancing
+
+Schauen, welche Waffe wieviele Schüsse braucht, um eine Einheit zu erledigen und daran die Wahrscheinlichkeit festmachen, eine Wunde oder schwere Wunde zu verursachen. 
+
+Massive Rüstungsunterscheide zwischen Helden und normalen Soldaten. 
+
+#### Nahkampf
+
+Immer gegen 12 würfeln statt gegeneinander, um Starcraft Kämpfe besser wiederzuspiegeln. 
+
+#### Storyideen
+
+Infiltrationen. 
+
+Diplomatische Missionen: Abweichler. 
+
+Infragestellen des Systems, aber auch der Verbündeten. 
+
+Quellen: 
+- http://starcraft2.4players.de/index.php
+
+#### Sonstiges
+
+Telepathen + Cloak -> Ghost
+
+------ 
+
+Psi: ESP: Kampf-Präkognition
+
+Unterschied: Gefühl für die Zukunft - Konzentrieren um Visionen zu haben - klare Bilder sehen - 
+Kampf.PSI. 
+
+Nur Notizensammlung!! Ideen aus "Vergangenheit 12/4: Ein Menschenleben". Klarer im Notizheft 2008-02-04
+
+    12/3 in Vergangenheit: Erinnerung an ein Jahr - Visionen der letzten 3 Tage (1/100) - klare Bilder der letzten 45 Minuten (1/100). 
+
+    12/3 in Zukunft: Schemenhafte Wahrnehmungen der nächsten 3 Tage (an relevanten Orten) - Visionen der nächsten 5 Minuten (1/1000) - Kampf-PSI die nächsten 30 Millisekunden. 
+
+    12/4 in Vergangenheit: Erinnerung an ein Menschenleben - Visionen des letzten Jahres (1/100) - klare Bilder der letzten 3 Tage (1/100). 
+
+    12/4 in Zukunft: Schemenhafte Wahrnehmungen des nächsten Jahres (an relevanten Orten) - Visionen der nächsten 9 Stunden (1/1000) - Kampf-PSI die nächsten 3 Sekunden (ab wann ist die Handlung des anderen entscheiden - reine Reflexe: Ab wann kann er sie nicht mehr aufhalten? eigentlich 1s: Eig^2 * 10ms) (1/10.000). 
+
+    12/5 in Vergangenheit: Erinnerung an die letzten 10.000 Jahre - Visionen eines Menschenlebens (Viel klarer als Erinnerungen -> Kino!) (1/100) - klare Bilder des letzten Jahres (1/100). 
+
+    12/5 in Zukunft: Schemenhafte Wahrnehmungen der nächsten 100 Jahre (an relevanten Orten) - Visionen des nächstens Monats (1/1000) - Kampf-PSI die nächsten 5 Minuten (1/10.000). 
+
+
+ESP auf 12/4 gibt einen Bonus von 3, plus 1 pro 3 Punkte über 12, weil der Nutzer die Handlungen seines Gegners vorhersieht. 
+
+ESP auf 12/5 gibt damit 9 Punkte Bonus, 12/6 und 12/7 muss nicht mehr kämpfen, weil er die nächsten Monate der Handlungen des Gegners, bzw. deren Auswirkungen auf die nächsten 3000 Generationen schon vor dem inneren Auge ablaufen lassen kann. 
+
+------ 
+
+Psi: Notizen zu ESP
+
+Auf 12/4: 
+
+### Die Umgebung spüren
+
+10 m scharf, 1 km unscharf, 100 km schwaches Gefühl (eine Erschütterung der Macht). 
+
+### Zeitwahrnehmung, Vergangenheit
+
+* Allgemeine Ereignisse: Kurzzeitgedächtnis: mehrere Stunden
+* Unwichtiges: Ultrakurzzeit: ~1min
+* Wichtiges: Wochen
+* Besonderes (das für das Leben / die Existenz eine Bedeutung hatte): ~ 1 Jahr "da war etwas" + unterschiedliche Eindrücke
+* Lebensveränderndes: bis 100 Jahre, z.B. "Eine Plasmawolke hat dieses Haus zerschmolzen. 
+* Das Schicksal änderndes (Ahnungen): 10.000 Jahre, bzw. fast beliebig. "Dieses Schwert hat großes vollbracht", Bilder von Bedeutung. 
+
+### Zeitwahrnehmung, Zukunft
+
+- Präzise
+- Vorahnung (auch und besonders eigentlich unwichtige Details)
+
+Was wir für Ahnungen wollen: 
+
+* Kat 1: Ein paar mal im Leben eine kurze Vorahnung
+* Kat 2: Eine Stunde im Vorraus ein komisches Gefühl
+* Kat 3: Ein Jahr im Vorraus - "Ich will nicht in dieses Haus ziehen"
+* Kat 4: 100 Jahre - "Hier wird etwas wichtiges geschehen"
+* Kat 5: 10.000 Jahre "Lasst uns hier verschwinden! Ich ertrage das nicht länger! Millionen werden sterben!"
+
+-> Idee: Fertigkeit auch notwendig, um Ahnungen zu ignorieren. Zu niedrige Fertigkeit bedeutet unkontrollierte Vorahnungen. 
+
+
+----- 
+
+Geschichtenidee: Helden in einer Untergrundtruppe, die außerhalb der Gesetze operiert. Sie finden 
+irgendwann heraus, dass ihre Anführer die ursprünglichen Ziele aus den Augen verloren haben und nur 
+noch für ihre eigene Ideologie kämpfen, aber nicht mehr für die Menschen im Staat. 
+
+------ 
+
+Spaß in Computerspielen ist stärker, wenn die Spieler Entscheidungskraft haben, weil sie dann mehr 
+bewirken können, bzw. wichtiger sind. Entsprechend sind mächtige Charaktere auch in PnB RPGs 
+interessant zu spielen. 
+
+-> http://blogs.cloneworks.de/herzlich/?p=348
+
+------ 
+
+### Namen für Werte unter 9
+
+6: armselig
+7: lausig
+8: dürftig
+9: schwach
+
+------ 
+
+Aus dem Xedity blog: http://xegity.ionflux.org/blog/design/systemgrundlagen_teil_2.flux
+
+* Ziele werden von Spielern vorgeschlagen, aber was sind sie wirklich? Sind sie Aufgaben, die die 
+Charaktere erfüllen ("Schnappt dem Kommando der Raumflotte das Wrack vor der Nase weg" -> der 
+Plotaufhänger des Abenteuers) oder sind sie langfristigere Ziele? 
+
+* Mir ist nicht ganz klar, wann ein Spieler einen Storypunkt erhält. Ich weiß aber, was mir aktuell 
+am praktischten erscheint: Spieler erhalten Storypunkte, wenn sie Ziele abschließen (also entweder 
+sie erreichen oder bei dem Versuch versagen). Die Anzahl der Storypunkte würde ich einfach nur davon 
+abhängig machen, wie groß das Ziel ist. 
+
+Ob ein Charakter scheitert oder Erfolg hat ist erstmal egal: Der Versuch das Ziel zu erreichen hat 
+ihn nachhaltig geprägt. 
+
+Ein Ziel ohne Not aufzugeben wäre damit übrigens die einzige Möglichkeit, keine Storypunkte zu 
+erhalten :) 
+
+------ 
+
+Die langen Beispiele im Fokusmodul Kampf (FoKa) können vielleicht in die Seitenleiste.
+
+------ 
+
+### Die Welt hinter der Welt
+
+Eine Runde in unserer Welt, in der Magie subtil wirkt und die Charaktere sie 
+nutzen koennen, aber auch die Freiheit haben, sie anzuzweifeln. 
+
+Magie, in der Zweifel von anderen den Effekt schwaecht. 
+
+Verschiedene Systeme der Magie, die alle irgendwie wirken, aber verschiedene 
+Moeglichkeiten und Beschraenkungen haben (durch das Glaubenssystem dahinter). 
+
+Viele Handlungen haben auch magische Effekte, oft ohne dass die Handelnden es 
+wissen, aber es gibt auch einige, die sich die Effekte bewusst zu nutze machen. 
+Einige davon sind die Charaktere, andere sind Gegenspieler. 
+
+Magie kann von sensitiven Personen ueber grosze Distanzen gespuert werden - einige 
+koennen ganze Staedte ueberwachen. Das genaue Auffinden ist allerdings 
+kompliziert. 
+
+Orte an denen Magie gewirkt wurde klingen noch lange nach. Es ist allerdings 
+moeglich, die Kraft aufzuloesen oder an bestimmte Personen zu binden, so dass sie 
+schwerer aufzuspueren ist. Die Nachklaenge geben allerdings auch ein gewisses Masz 
+an Kraft - oder koennen anderes beeinflussen. Artefakte koennen entweder bewusst 
+erschaffen werden oder durch Jahrzehntelange Nutzung durch den Nachhall entstehen 
+(und dann oft "feiner" sein, aber nicht unbedingt staerker). 
+
+Auch nichtmagische Handlungen koennen durch unterbewusste Magie Orte und 
+Gegenstaende so laden. 
+
+------ 
+
+Kampagnenidee: Von Kindern zu Helden. 
+
+Erstes Abenteuer als Kinder, formt die Fähigkeiten schonmal - schon hier ihre Hauptfähigkeiten. 
+
+Danach erstmal Auszeit, in der sich die Chars weiterentwickeln. 
+
+Sobald sie Erwachsen sind (und gesteigert), kommen die alten ereignisse zurück. 
+
+------ 
+
+Kampagnenidee: Die Idee weitertragen. 
+
+Charaktere haben etwas wichtiges zu tun, können aber leichter mal verschwinden. Daher geben 
+sie das Abenteuer weiter. Ideen dafür: 
+
+- Verfluchtes Artefakt, das sich an jemand neuen bindet
+- Details über eine Verschwörung
+- Besondere Fähigkeiten, die weitergegeben werden ("Er hat dir seine Kraft übertragen, und 
+große Kraft bringt große Verantwortung")
+
+Am einfachsten sind möglicherweise die Antagonisten als Motivator. 
+
+Muss etwas sein, das man nicht einfach an die Öffentlichkeit geben kann (zu unglaubwürdig, 
+zu gefährlich, ...), das aber gleichzeitig im privaten Rahmen bewiesen oder zumindest klar 
+belegt werden kann. 
+
+Bsp. Verluchtes Artefakt: etzt bist du besessen, und deine Freunde glauben dir, aber du 
+würdest nur in einer Irrenanstalt landen, wenn du es vberbreiten wolltest. 
+
+Idee (teils aus Fringe): Char landet in einer Irrenanstalt. Kampagne geht 20 Jahre später 
+weiter. 
+
+------ 
+
