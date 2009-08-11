@@ -1636,6 +1636,8 @@ ihn nachhaltig geprägt.
 Ein Ziel ohne Not aufzugeben wäre damit übrigens die einzige Möglichkeit, keine Storypunkte zu 
 erhalten :) 
 
+=> "nö, ist doch nicht interessant" kostet Storypunkte (vll. auch, weil es die SL Vorbereitungszeit kostet? :) ). 
+
 ------ 
 
 Die langen Beispiele im Fokusmodul Kampf (FoKa) können vielleicht in die Seitenleiste.
@@ -1679,6 +1681,16 @@ Erstes Abenteuer als Kinder, formt die Fähigkeiten schonmal - schon hier ihre H
 Danach erstmal Auszeit, in der sich die Chars weiterentwickeln. 
 
 Sobald sie Erwachsen sind (und gesteigert), kommen die alten ereignisse zurück. 
+
+<!--nochmal, weil ich nicht daran gedacht habe zu schauen, ob ich es schonmal geschrieben habe)
+
+Anfangs spielen die Chars eine Gruppe von Kindern und erleben ein Abenteuer. 
+
+Dann wird ein Cut gemacht und weitergespielt, sobald die Kinder erwachsen sind. 
+
+Als Helden haben wir die Kinder, einige möglicherweise gezeichnet von den Erlebnissen, vielleicht auch ein oder zwei Fremde dabei (wenn der Spieler den Kindchar doch nicht weiterspielen wollte). Durch das Abenteuer können die Charaktere natürlich komplett andere Wege nehmen als vorher zu erwarten gewesen wäre. Diejenigen, die vorher "nichts besonderes" waren, könnten dadurch etwas besonderes werden. 
+
+Mit den erwachsenen Chars wird dann eine Kampagne gespielt, die auf dem Abenteuer als Kinder aufbaut. 
 
 ------ 
 
