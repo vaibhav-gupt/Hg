@@ -1718,3 +1718,11 @@ weiter.
 
 ------ 
 
+In jedes EWS eine Liste mit lokalen Cons (der Gegend) legen. 
+
+=> Bringt EWS-Nutzer zusammen und hilft Cons, die gerade für neue Systeme wichtig sind. 
+
+-> braucht ein Template für die Liste
+
+------ 
+
