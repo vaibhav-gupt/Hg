@@ -1710,10 +1710,10 @@ Muss etwas sein, das man nicht einfach an die Öffentlichkeit geben kann (zu ung
 zu gefährlich, ...), das aber gleichzeitig im privaten Rahmen bewiesen oder zumindest klar 
 belegt werden kann. 
 
-Bsp. Verluchtes Artefakt: etzt bist du besessen, und deine Freunde glauben dir, aber du 
-würdest nur in einer Irrenanstalt landen, wenn du es vberbreiten wolltest. 
+Bsp. Verfluchtes Artefakt: etzt bist du besessen, und deine Freunde glauben dir, aber du 
+würdest nur in einer Irrenanstalt landen, wenn du es verbreiten wolltest. 
 
-Idee (teils aus Fringe): Char landet in einer Irrenanstalt. Kampagne geht 20 Jahre später 
+Idee (aus Fringe): Char landet in einer Irrenanstalt. Kampagne geht 20 Jahre später 
 weiter. 
 
 ------ 
