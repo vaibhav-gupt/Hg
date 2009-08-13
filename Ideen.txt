@@ -1647,30 +1647,30 @@ Die langen Beispiele im Fokusmodul Kampf (FoKa) können vielleicht in die Seiten
 ### Die Welt hinter der Welt
 
 Eine Runde in unserer Welt, in der Magie subtil wirkt und die Charaktere sie 
-nutzen koennen, aber auch die Freiheit haben, sie anzuzweifeln. 
+nutzen können, aber auch die Freiheit haben, sie anzuzweifeln. 
 
-Magie, in der Zweifel von anderen den Effekt schwaecht. 
+Magie, in der Zweifel von anderen den Effekt schwächt (ähnlich Magus). 
 
 Verschiedene Systeme der Magie, die alle irgendwie wirken, aber verschiedene 
-Moeglichkeiten und Beschraenkungen haben (durch das Glaubenssystem dahinter). 
+Möglichkeiten und Beschränkungen haben (durch das Glaubenssystem dahinter). 
 
 Viele Handlungen haben auch magische Effekte, oft ohne dass die Handelnden es 
 wissen, aber es gibt auch einige, die sich die Effekte bewusst zu nutze machen. 
 Einige davon sind die Charaktere, andere sind Gegenspieler. 
 
-Magie kann von sensitiven Personen ueber grosze Distanzen gespuert werden - einige 
-koennen ganze Staedte ueberwachen. Das genaue Auffinden ist allerdings 
+Magie kann von sensitiven Personen über große Distanzen gespürt werden - einige 
+können ganze Städte überwachen. Das genaue Auffinden ist allerdings 
 kompliziert. 
 
 Orte an denen Magie gewirkt wurde klingen noch lange nach. Es ist allerdings 
-moeglich, die Kraft aufzuloesen oder an bestimmte Personen zu binden, so dass sie 
-schwerer aufzuspueren ist. Die Nachklaenge geben allerdings auch ein gewisses Masz 
-an Kraft - oder koennen anderes beeinflussen. Artefakte koennen entweder bewusst 
+möglich, die Kraft aufzulösen oder an bestimmte Personen zu binden, so dass sie 
+schwerer aufzuspüren ist. Die Nachklänge geben allerdings auch ein gewisses Maß 
+an Kraft - oder können anderes beeinflussen. Artefakte können entweder bewusst 
 erschaffen werden oder durch Jahrzehntelange Nutzung durch den Nachhall entstehen 
-(und dann oft "feiner" sein, aber nicht unbedingt staerker). 
+(und dann oft "feiner" sein, aber nicht unbedingt stärker). 
 
-Auch nichtmagische Handlungen koennen durch unterbewusste Magie Orte und 
-Gegenstaende so laden. 
+Auch nichtmagische Handlungen können durch unterbewusste Magie Orte und 
+Gegenstände so laden. 
 
 ------ 
 
