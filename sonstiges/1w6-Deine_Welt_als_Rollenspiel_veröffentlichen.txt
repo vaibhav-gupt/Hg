@@ -1,0 +1,169 @@
+Deine Welt als Rollenspiel veröffentlichen (mit dem EWS)
+========================================================
+
+Dieser Artikel soll dir helfen, deine Welt als Rollenspiel zu veröffentlichen.  
+
+Die erste wichtige Frage ist allerdings: Was bringt es dir eigentlich, deine Welt mit dem EWS zu veröffentlichen?  Warum solltest du deine Zeit dafür nutzen (und für wen ist es sinnvoll)?  
+
+## Warum? 
+
+Die Frage lässt sich am einfachsten in drei Schritten beantworten: 
+
+### Warum überhaupt als RPG? 
+
+Wenn du sie als Rollenspiel veröffentlichst und andere darin spielen, wird deine Welt lebendiger, weil sich deine Visionen mit denen der anderen Spieler verweben.  Es gibt zwar auch andere Möglichkeiten, deine Welt anderen Leuten zu zeigen, wie z.B. Bücher, Bilder, Computerspiele und vieles mehr, aber Papier-und-Bleistift Rollenspiele sind die lebendigste Form, weil die Spieler hier am einfachsten ihre eigenen träume einbringen können.  Deine Welt inspiriert direkt die Spiele anderer Leute und lebt in ihren Geschichten, und so leben ihre Geschichten auch in deiner Welt.  
+
+Wenn du deine Welt also durch die Kreativität anderer befruchten lassen willst, kann die veröffwentlichung als Rollenspiel der richtige Weg für dch sein.  
+
+Das gleiche gilt, wenn du deine Welt gemeinsam mt Freunden erleben willst.  
+
+### Warum ein bestehendes Regelwerk verwenden? 
+
+Wenn du ein bestehendes Regelwerk nutzt, sparst du die Entwicklungszeit, die notwendig ist, um ein konsistentes und gut funktionierendes Rollenspielsystem zu schaffen.  Du kannst dich auf deine Welt konzentrieren, statt zusätzlich noch viel Zeit in Regelentwicklung stecken zu müssen.  Auf die Art kannst du deine Welt schneller veröffentlichen und schneller Spieler finden.  Außerdem kannst du schneller anfangen, mit deinen Freunden in Rollenspielen in deine Welt einzutauchen.  
+
+Ein Regelwerk sauber auszuarbeiten kann nach unserer Erfahrung leicht 5 Jahre (Hobbyzeit) verschlingen, und diese Zeit ist nur dann sinnvoll genutzt, wenn dir Regeldesign Spaß macht.  
+
+### Warum das EWS als Regelwerk? 
+
+Du kannst das EWS direkt nutzen und ändern, ohne irgendjemanden um Erlaubnis bitten zu müssen.  Du bist an niemanden gebunden und musst niemandem Lizenzkosten zahlen, egal, was du damit machst.  Die einzige Einschränkung ist, dass du deine Verbessungen an den *Regeln* auch anderen wieder nutzbar machen musst.  Deine Welt und die Bilder und Texte über sie sind und bleiben dabei deine.  Das EWS zu verwenden ändert daran nichts.  
+
+Gleichzeitig ist das EWS leicht anzupassen, und sehr flexibel in der Beschreibung von Charakteren und Regeln.  
+
+Zusätzlich sind die Grundregeln Fokusneutral, so dass standardmäßig alle Handlungen die gleiche (geringe) Regelzeit benötigen.  Mit Modulen kannst du sehr einfach in den Regeln die Teile wichtig werden lassen (so dass es mehr Regelzeit hat), die auch in deiner Welt wichtig sind.  
+
+Bevor du allerdings eine endgültige Entscheidung triffst, lies am Besten den Artikel [Für welchen Runden eignet sich das EWS]().  Er beschreibt, für welche Stimmungen sich das EWS nach unserer Erfahrung am besten eignet.  
+
+## Erste Schritte
+
+### Testen, welches Spielgefühl das EWS unverändert bietet
+
+Der erste Schritt, um deine Welt mit dem EWS zu veröffentlichen ist sehr einfach: Probier einfach aus, ob das EWS bereits das Spielgefühl liefert, das du willst.  Ideal ist es, wenn du bereits eine Rollenspielrunde hast, mit der du in deiner Welt spielen kannst.  Auf die Art findest du auch am einfachsten heraus, welche Aspekte deiner Welt andere am stärksten ansprechen.  
+
+Solltest du keine Spielrunde haben, kannst du stattdessen ein Emailspiel starten (PbEM), in einem Forum eine Runde beginnen (z.B. im [Forum von 1w6.org]()), Chatrunden organisieren o.ä.
+
+Geht all das nicht, kannst du das EWS natürlich auch einfach lesen und das Spielgefühl abschätzen.  Einen Hinweis dazu kann dir auch der Artikel [für welche Runden eignet sich das EWS]() geben. 
+
+### Das EWS an deine Welt anpassen
+
+Wenn du dann ein Gefühl dafür hast, wie das normale Spielgefühl des EWS ist, kannst du es so anpassen, dass es deine Welt besser widerspiegelt.  Eine grundlegende Vorgehensweise dazu gibt es im Artikel [Das EWS an deine Welt anpassen]().  
+
+Ideal wäre es wieder, wenn du deine Anpassungen immer wieder mit deiner Runde testen kannst, so dass ihr direkt set, wie gut sie ihr Ziel erreichen.  Damit ihr dabei die Vision der Welt im Auge behaltet, ist es meist sinnvoll, diese Vision für das Spielgefühl in einem oder ein paar wenigen Sätzen so klar wie möglich aufzuschreiben, damit ihr später immer wieder zurück schauen könnt, ob eure Änderungen euch wirklich deiner Vision näherbringen.  Allerdings funktioniert nicht jede Vision mit jeder Spielrunde.  Falls du merkst, dass Vision und Spielrunde nicht zusammenpassen, leite doch einfach ein paar Mal auf einer [Con](), um zu prüfen, ob du die Vision mit anderen Gruppen eher verwirklichen kannst.  
+
+Falls ihr merkt, dass euch eine andere Vision mehr Spaß macht, spricht natürlich auch wenig dagegen, die Vision später noch abzuwandeln.  Wenn ihr sie vorher aufschreibt ist euch die Änderung allerdings später eher bewusst.  
+
+### Deine Welt als Rollenspiel veröffentlichen
+
+Wenn du das EWS dann soweit angepasst hast, dass es das Spielgefühl widerspiegelt, das du willst, wird es Zeit, deine Welt als Rollenspiel zu veröffentlichen.  
+
+Bevor du jetzt ein großes Grundregelwerk beginnst (das vermutlich erst nach jahren fertig wird - oder wie so viele andere große Projekte irgendwann versackt), ist es allerdings meist sinnvoller, erst ein kleines Heft zu schreiben, mit dem Leute ein bestimmtes Szenario in deiner Welt erleben können.  Das Szenario bietet dann einen Grundplot, mit dem Leute leicht einsteigen können.  
+
+Das Szenario ist damit sozusagen dein Teaser: Mit ihm gewinnst du Spieler, die tiefer in deine Welt eintauchen wollen. 
+
+Wenn du dein Szenario im 1w6-Stil schreiben willst, schau einfach, ob es auf 48 Din-A5 Seiten passt.  
+
+Auch wenn deine Welt sehr komplex sein kann, sollte das grundlegende Szenario sehr leicht zu erfassen sein, damit Spieler schnell erfassen können, was es ihnen bietet (und warum sie in deiner Welt spielen sollten, und nicht in einer der anderen da draußen).  Wenn du allerdings mehr als ein paar Sätze brauchst, um es zu beschreiben, solltest du für das erste Heft vielleicht ein einfacheres Szenario nutzen, sonst besteht die Gefahr, dass deine potenziellen Spieler eher ein leichter zu erfassendes Spiel ausprobieren.  
+
+Um dieses Szenario zu finden, kannst du dir z.B. die Frage stellen "Was sind die coolsten Geschichten, die Leute in meiner Welt erleben können?" oder "Welche (spannend zu spielenden) Geschichten spiegeln die Besonderheiten meiner Welt am besten wieder?".  Wenn du diese Geschichten gefunden hast, musst du nur noch sicherstellen, dass sie genug Material für viele unterschiedliche Kampagnen bieten, um sicherzugehen, dass deine Welt die Leute auch gefesselt hält.  
+
+Beispiele für Grundplots in verbreiteten Regelwerken (schau mal, ob du die Systeme erkennst :) ): 
+
+* "Coole Cyberpunks und Fantasy-Rassen machen die Drecksarbeit für Konzerne."
+* "Helden aus Tolkiens Fantasy töten Monster in Verliesen und rauben ihre Schätze."
+* "Torwaler, Krieger, Gaukler, Elfen, Zwerge und Magier vollbringen Heldentaten im Mittelreich."
+* "Vampire intrigieren gegeneinander und kämpfen einen aussichtslosen Kampf um ihre Menschlichkeit." (OK, das war einfach :) )
+* "Werwölfe kämpfen gegen die Zerstörung der Erde." (OK, auch einfach - aber was wäre mit "Anarcho-Werwölfe als Ökoterroristen."? ;) )
+* "Nerds versuchen ihr Leben zu meistern." (wenn du es nicht kennst, solltest du es lesen! :) )
+* "Wir versuchen cool (und loyal und glücklich!) auszusehen, während wir von einem paranoiden Computer im Kampf gegen mutierte Kommiverräter verheizt werden." (um das durchzuziehen, brauchst du schon einiges an schriftstellerischen Fähigkeiten und Sinn für Humor)
+
+
+Jetzt wo du (hoffentlich) das Grundszenario gefunden hast, kannst du anfangen, genau den Teil deiner Welt in einem Rollenspielheft zu beschreiben, der für dieses Szenario am spannendsten ist; alle anderen Teile kommen später (aber es kann nicht schaden, dann und wann ein paar Hinweise auf weiteres auszustreuen, um den Leuten Lust auf mehr zu machen).  
+
+Was du dafür an Informationen brauchst ist recht überschaubar: 
+
+1. Welche Arten von Charakteren eignen sich, und wie werden sie erstellt? -> Charaktererschaffung.
+2. Was können die Charaktere machen? -> Grundplot + Spielleiterinfos, kann auch teilweise in Prosa sein.
+3. Wo spielen die Geschichten? -> Hintergrund = Weltenbeschreibung!
+4. Welches Gefühl vermittelt die Welt? -> Geschichten, Bilder, etc. die zum Grundplot passen.
+5. Wie funktioniert das Spiel? -> Regeln (hier kannst du dich beim EWS und allen anderen mit dem EWS veröffentlichten Welten bedienen).
+
+Den ersten und letzten Punkt hiervon nimmt dir das EWS bereits zum Gutteil ab.  Du musst die Erschaffung nur noch so umschreiben, dass sie für deine Welt richtig klingt und die richtigen Vorlagen als Beispielcharaktere liefern.  Die Beschreibung der Regeln kannst du zur Not sogar auf ein "schau in's EWS" beschränken (schließlich können Leute das einfach herunterladen) oder einfach einen Kurzabriss bieten, damit Leute direkt anfangen können zu spielen.  
+
+Der zweite Punkt ist der Bereich, der es Leuten leicht macht, in deiner Welt zu spielen.  Diesen teil musst du möglicherweise noch entwickeln.  
+
+Den dritten und vierten Punkt hast du allerdings vermutlich bereits schon vollständig (im Kopf oder bereits geschrieben), musst ihn also nur noch in eine möglichst leicht zu erfassende Form bringen.  
+
+
+Was dann noch fehlt ist ein packendes Design des Heftes (das fehlt leider auch dem Grundregelwerk des EWS, da wir keinen Designer in der Runde haben), und schon ist dein Rollenspiel bereit, auf Testspieler losgelassen zu werden.  
+
+Das kannst du entweder machen, indem du selbst leitest, oder indem du deine erste Version ins Netz stellst (und klar dazu schreibst, dass es eine erste Version ist, damit Leute das im Kopf behalten, wenn sie es lesen).  
+
+Sobald du es dann in mehreren unterschiedlichen Runden gestestet und die Rückmeldung in das Heft eingearbeitet hast (es gibt immer Sachen, die nur neue Leute sehen), ist dein Heft soweit, wirklich verbreitet zu werden.  
+
+## Wie weiter? 
+
+Jetzt hast du eine erste Version deines Rollenspiels ins Netz gestellt, und die ersten leute probieren es aus.  Aber damit hast du dein Rollenspiel natürlich nicht über Nacht zum Volksport gemacht (es sei denn, du bist wirklich legendär :) ).  Der erste Schritt ist getan, und nun kommen viele weitere.  
+
+Erstmal will das Heft verbreitet werden.  Dafür gibt es so viele Möglichkeiten, dass wir hier nur die Auswahl nennen können, die wir selbst genutzt haben oder von Bekannten kennen:  
+
+* Es selbst den verschiedensten [Seiten mit Rollenspiellinks]() vorschlagen. 
+* Deine Welt bei [Projekt Odyssee]() und [freie-rollenspiele.de](http://freie-rollenspiele.de) (und anderen Rollenspielseiten) anmelden. 
+* Sie [Online- und Fanzeitschriften zu Rollenspielen]() oder der [SpielXpress]() zur Rezension vorschlagen (aber Vorsicht, im Envoyer, der nun in der SpielXpress aufgegangen ist, hatten wir mit dem EWS bei der Rezension leider Pech - das EWS wurde vom Autor von "Ratten" zerrissen).  
+* Testspiele auf [Cons]() und in deinen lokalen Rollenspielläden leiten (wenn du gut leiten kannst oder Freunde hast, die das gut können, ist das einer der schnellsten Wege, um neue Spieler zu gewinnen, denn eigenes Antesten zählt meist deutlich mehr als Lesen).  
+* Ein Weblog zu deiner Welt aufmachen (du kannst auch gerne eins auf 1w6.org bekommen) und regelmäßig neue Informationen zu deiner Welt zu schreiben - seien es nun Infos dazu woran du gerade arbeitest, Berichte über deine Runden, oder direkt Informationen zur Welt.  
+
+Ganz wichtig ist dabei, immer neues Material zu liefern.  Sobald du Leute für deine Welt begeistern kannst, musst du ihre Aufmerksamkeit halten, und dafür musst du ihnen immer wieder neues Material geben.  
+
+Was dabei meistens gut laufen dürfte (und nicht zu schwer zu erschaffen ist) sind Listen immer neuer Gimmicks, die Leute ihren Charakteren geben können.  Neue Psi-Fähigkeiten, Waffen, Kampftechniken, Fahrzeuge, Körperverbesserungen oder Zauber ermöglichen es Leuten, immer wieder in deine Welt einzutauchen und immer neue Ideen für ihre eigenen Charaktere oder Kampagnen zu finden (um es mit Robins Laws zu sagen: Sie ermöglichen es Leuten, auch außerhalb der Runden zu spielen).  
+
+Ein tolles Beispiel dafür, dass solche Listen nicht immer gleich sein müssen, sondern die Spieler tief in deine Welt hineinziehen können, bietet Mechanical Dream.  Es hat ein "Magiesystem", das Fähigkeiten bietet, die bis ins Tiefste mit der Welt und den Konzepten darunter verzahnt sind.  
+
+Ein weiteres Beispiel für viele tolle Gimmicks ist Shadowrun, das aus dem Fundus der Cyberpunk-Literatur schöpft und immer neue Cyberware, Drohnen, Waffen und Zauber liefert.  
+
+Aber ungeschlagen ist noch immer D&D, das durch das Klassensystem mit fest definierten Entwicklugnspfaden die größten Möglichkeiten hat, Spielern immer neue Gimmicks zu geben, da jede neue Klasse offiziell definiert und diese Definition dann verkauft werden kann (wenn du ein ähnliches System nutzen willst, kannst du einfach Entwicklungspfade und Klassen für deine Welt definieren, die deine Spieler dann bei der Steigerung und Erschaffung "kaufen" können.  Wenn du deine Klassen mit den Standardsystem entwirfst, können Spieler dann zusätzlich neue Klassen schaffen und bestehende abwandeln und dank dem konsistenten Kostensystem fast automatisch kompatibel zu und ausgeglichen gegenüber den "offiziellen Klassen" bleiben).  
+
+Denk dabei allerdings daran, dass jedes Gimmick deine Welt klarer formt.  Wenn es nicht ganz in deine Welt passt, lass es lieber weg und beschreib ein anderes, das besser passt.  
+
+Was DSA deutlich zeigt ist, dass auch Abenteuer und Bücher diese Rollen erfüllen können.  Allerdings wird es für dich alleine schwierig sein, regelmäßig komplette Abenteuer herauszubringen.  Vielleicht kannst du ja stattdessen Ideen für Abenteuer ausarbeiten, oder kurze Regionalbände herausbringen, die du später erweitern kannst.  Selbst wenn an diesem Punkt bereits eine kleine Gruppe an deiner Welt arbeitet, wird es schwierig, mit den Veröffentlichungszyklen der großen Spiele mitzuhalten (in denen Vollzeitautoren arbeiten), daher ist es vermutlich sinnvoll, wenn du dir Alternativwege überlegst.  
+
+Es muss z.B. nicht gleich ein ganzes Cyberwarebuch sein.  Ein wöchentlicher Artikel zu neuen Entwicklungen, gewürzt mit etwas Regeln und ein oder zwei neuen Spielzeugen kann schon viel bewirken.  Falls du diesen Weg gehen willst, musst du allerdings darauf achten, wirklich regelmäßig neues Material zu liefern.  Wöchentlich Neues zu bringen ist eine tolle Methode, um Leute interessiert zu halten, denn deine Fans können sich darauf einstellen und dich in ihre Wochenplanung aufnehmen.  Gleichzeitig werden so immer neue Leute auf deine Welt aufmerksam, und du kannst Stück für Stück eine immer größere Fanbasis aufbauen.  Allerdings ist das damit auch ein Versprechen an deine Fans, und wenn du das Versprechen nicht halten kannst, werden einige sich enttäuscht abwenden (enttäuschte Hoffnungen sind was Übles).  
+
+Ein weiterer Vorteil an wöchentlichen Artikeln ist, dass du Stück für Stück Material erarbeitest, dass du später in Bücher fassen kannst.  
+
+Natürlich muss es nicht bei wöchentlich bleiben. Wenn du täglich ein kleines neues Gimmick liefern kannst (klein genug, dass Leute es in der Kaffeepause erfassen können), wird deine Welt noch mehr Teil der Leben deiner Spieler und du kannst deine Fanbasis festigen.  
+
+Und wenn Leute regelmäßig dein Material lesen, sind sie auch viel schneller dabei, etwas von dir zu kaufen, solange du darin noch ein paar Boni liefern kannst, z.B. eine konsistente Struktur und schöne Aufmachung.  Eine Erfolgsgeschichte dazu ist der Webcomic [Schlock Mercenary](http://schlockmercenary.com).  Alle Webcomics stehen täglich gratis im Netz, und trotzdem (oder gerade deshalb) verkauft sein Autor (Howard Taylor) genug Comics (und verdient genug Geld mit der Werbung auf der Seite), dass er mit seinem Webcomic genug geld für sich, seine Frau und seine Kinder verdient.  
+
+Wenn du den Weg der wöchentlichen Artikel gehen willst, wird dir eine Funktion wie der "scheduler" von Drupal gute Dienste leisten: Du kannst Artikel zu einem beliebigem Zeitpunkt einstellen und festlegen, wann sie auftauchen sollen.  Auf die Art ist dann auch in deinem Urlaub das regelmäßige Gimmick gesichert :) 
+
+Wirklich professionell wird es, wenn du mit Puffer arbeitest.  Dabei schreibst du Artikel bereits mehrere Wochen vorher und stellst sie direkt ein (in den "scheduler"), so dass du immer einen Puffer von drei bis vier Wochen hast, selbst wenn du mal einen Unfall haben solltest.  Egal was passiert, solange es dich nicht für mehr als drei Wochen ausschaltet, kommen deine Neuigkeiten weiterhin.  Sollte deine Zeitplanung so sprunghaft sein wie die von [Drak](/uzanto/drak), wird ein Puffer fast schon zur Pflicht, wenn du irgendwas regelmäßiges liefern willst :) 
+
+Kreativität (und freie Zeit) kommt gerne in Schüben, aber gleichzeitig lässt sich Neues am besten in regelmäßigen Happen aufnehmen.  Ein "scheduler" vermittelt dann dazwischen.  Beispielsweise wurde dieser Artikel zusammen mit zwei weiteren im Urlaub geschrieben.  Hätten wir alle drei gleichzeitig eingestellt, hätten wir die meisten Leser überfordert (so viel Zeit hat kaum jemand direkt zur Verfügung).  Die meisten hätten einen gelesen und sich die anderen für später (=nie) aufgehoben.  Daher haben wir sie stattdessen so eingestellt, dass sie im Abstand von mindestens drei Tagen kommen, so dass Leute Zeit haben, jeden einzelnen Artikel zu lesen.  
+
+
+Damit es in so viel "wir ihr online Tolles tun könnt" nicht untergeht: Der schnellste Weg, um neue Spieler zu finden, sind Testrunden auf Cons und in Rollenspielläden.  Allerdings ist das auch der Zeitintensivste.  Die Leute von [...]() haben ihn optimiert, indem sie jeweils 2-Stunden-Abenteuer leiten, so dass sie in der gleichen Zeit 4-mal so viele Spieler haben wie Leute, die 8-Stunden Abenteuer leiten.  
+
+
+### Abschluss: Mit Negativrezensionen umgehen
+
+Zum Abschluss noch ein paar Erfahrungswerte: 
+
+Wenn du die Geschichte des EWS verfolgt hast, wirst du vermutlich mitbekommen haben, dass es einige Male recht heftig kritisiert wurde - teils berechtigt (die Kritik hat es besser gemacht), teils unberechtigt ("Ich habe bei X aufgehört zu lesen, weil mir das Design nicht gefallen hat, aber die Regeln...").  
+
+Wenn du eine coole Welt entwickelst, die viele Leute schön finden, wird sie zwangsweise auch Leuten auffallen, die deine Grundkonzepte nicht mögen, und einige dieser Leute werden sich die Zeit nehmen, deine Welt zu kritisieren.  Mit dieser Kritik umzugehen ist nicht immer leicht, aber du kannst aus fast jeder Kritik etwas positives für dich gewinnen (und wenn jemand schon Zeit investiert, um etwas über deine Welt zu schreiben, sollte es dir ja auch was bringen :) ).  
+
+Falls du ähnlich wie das EWS vor allem auf Texte baust, denk daran, dass viele Leute sehr grafisch denken.  Wenn du Negativrezensionen von leuten vermeiden willst, die vor allem auf das Äußere achten, musst du dein Heft auch grafisch ansprechend machen.  
+
+Sollten trotz gutem Design Leute deine Welt nicht wirklich erfassen, kann es sein, dass du noch an deinen Beschreibungen feilen musst.  Eine tolle Welt entwickeln, in der Leute viele schöne Geschichten erleben können, und sie in einem Heft sauber vermitteln sind leider zwei unterschiedliche Dinge.  Es kann aber auch einfach sein, dass Leute negatives schreiben, weil sie keinen Cyberpunk/keine Fantasy/kein düsteres Mittelalter/... mögen.  In dem Fall weißt du zumindest, dass deine Welt bereits außerhalb des Kreises der Fans deines genres bekannt wird :) 
+
+Nimm dir wenn du harsche Kritik bekommen solltest auf jeden Fall als erstes ein paar Tage Pause bevor du antwortest.  Kritik am eigenen Werk kann sehr verletzen, und verletzt zu antworten wirft in fast jedem Fall ein schlechtes Licht auf deine Welt (und bestätigt so die Kritik).  Lies die Kritik lieber mehrfach und such nach Punkten, die wirklich zutreffen.  Das sind die Punkte, mit denen die Kritik dir helfen kann, deine Welt zu verbessern.  Dann schau dir an, welchen Hintergrund der Kritisierende hat.  Wenn z.B. ein etablierter Autor deinen Schreibstil als "unter aller Sau" bezeichnet, dann kann es sein, dass er vergessen hat, wie er selbst angefangen hat, oder dass er selbst oft genug Kritik einstecken musste und gar nicht merkt, dass er jetzt auf die gleiche Art austeilt.  
+
+Schlussworte
+------------
+
+Bedenk bei all den Infos hier, dass auch wir keine perfekten Menschen sind und all diese Tipps daher wirklich nur Erfahrungswerte von Hobbyrollenspielbastlern sind.  Falls irgendwas davon für dich wie Humbug klingt, ignorier es einfach, oder besser noch: Schreib es uns!  
+
+Wir sind auch einfach Hobbyrollenspieler und freuen uns über jede Rückmeldung.  
+
+Nun aber viel Spaß beim Schreiben! 
+
+Wir hoffen, wir können deine Welt irgendwann mit dem EWS spielen.  Vielleicht sehen wir uns ja mal auf einer Con.  
