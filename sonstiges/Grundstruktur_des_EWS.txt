@@ -40,7 +40,7 @@ Auf die Gleiche Art wie Merkmale werden auch Berufe eingebunden:  Sie liefern ei
 
 ### Waffen und Rüstungen
 
-Eine Waffe oder Rüstung kostet soviel, dass die Kosten gerade dem Spieltechnischen Effekt der Waffe durch durchschnitliche Charaktere entsprechen (mit [Statistikscript]() nachgerechnet). 
+Eine Waffe oder Rüstung kostet soviel, dass die Kosten gerade dem Spieltechnischen Effekt der Waffe durch durchschnitliche Charaktere entsprechen (mit [Statistikscript](http://bitbucket.org/ArneBab/1w6/src/tip/sonstiges/Skripte/battle_probs/battle_probability_tree.py) nachgerechnet). 
 
 ## Was bringt diese Struktur noch? 
 
