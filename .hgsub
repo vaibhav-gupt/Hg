@@ -1,4 +1,4 @@
-RaumZeit/welt = https://bitbucket.org/ArneBab/raumzeit/
-RaumZeit/Kleine_Schiffe = https://bitbucket.org/ArneBab/raumzeit-kleine_schiffe/
-RaumZeit/Heft_1 = https://bitbucket.org/ArneBab/raumzeit-heft_1/
+RaumZeit/welt = ssh://hg@bitbucket.org/ArneBab/raumzeit/
+RaumZeit/Kleine_Schiffe = ssh://hg@bitbucket.org/ArneBab/raumzeit-kleine_schiffe/
+RaumZeit/Heft_1 = ssh://hg@bitbucket.org/ArneBab/raumzeit-heft_1/
 
