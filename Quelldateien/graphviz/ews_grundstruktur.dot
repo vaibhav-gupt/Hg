@@ -1,7 +1,7 @@
 digraph G {
+  edge [dir="both"]
   Repräsentation -> "Namen für Werte"
   Kosten -> "Namen für Werte"
-  edge [dir="back"]
   "Namen für Werte" -> Interaktion
 
 } 
