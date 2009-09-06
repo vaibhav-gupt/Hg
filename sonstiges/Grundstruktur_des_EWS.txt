@@ -1,0 +1,53 @@
+Grundstruktur des EWS
+=====================
+
+Das Grundsystem des EWS baut auf drei hauptsächlichen Prinzipien auf, die jgrößtenteils unabhängig voneinander funktionieren.  Sie sind die Charakterbeschreibung mit Eigenschaften, Fertigkeiten und Merkmalen (und Ausrüstung, Beschreibung u.ä.) (*Repräsentation von Charakteren*), die Erschaffung und Steigerung in Minussen und Plussen, die mit Dreiecken gekauft werden (die aus jeweils drei Strichen bestehen) (*Kostensystem*) und Wertebereiche und Würfelsystem mit 12 als Durchschnitt und dem +-W6 (*Interaktionssystem*).  
+
+Die Systeme sind dabei durch ein grundlegendes "Versprechen" aneinander gekoppelt: 
+
+Beschreibungen der Werte mit Namen legen Fest, was die Bedeutung eines Wertes im Spiel sein muss.  "Sehr gut" muss im Interaktionssystem (im Spiel) auch sehr gut sein.  Das Kostensystem muss sicherstellen, dass zwei Charaktere, die eine bestimmte Sammlung an Fähigkeiten auf unterschiedlichen Wegen erreichen, in etwa das gleiche Zahlen, und die Repräsentation muss sicherstellen, dass jeder Charakter des jeweiligen Hintergrundes durch Werte mit diesen Namen ausgedrückt werden kann.  
+
+Auch die Kosten von Merkmalen, die selbst keine Werte haben, sind durch dieses Versprechen in das System eingebunden:  Ihr spieltechnischer Effekt muss so groß sein, wie der Effekt eines passenden Wertes mit gleichen Kosten.  Und dieser Wert hat wieder einen Namen, durch den das Merkmal in das Gesamtsystem eingebunden wird.  
+
+Allerdings gibt es zwischen Kosten und Interaktion eine etwas stärkere Kopplung, da ein Wert durch eine passende Eigenschaft, einen passenden Beruf oder eine passende Fertigkeit einen Bonus in Höhe der Kosten des jeweiligen Wertes in Plussen erhält.  Der Grund ist, dass dieses System einfach schön und elegant ist und ein Minimum an Komplexität bietet.  Es ersetzt ein früheres komplizierteres System, das effektiv den gleichen Effekt hatte :) 
+
+![Bild der drei Prinzipien, verbunden durch Namen für Werte]()
+
+Auf die Gleiche Art wie Merkmale werden auch Berufe eingebunden:  Sie liefern eine sammlung an Fertigkeiten, und ein Charakter, der die davon für ihn relevanten fertigkeiten einzeln kauft soll (in etwa) die gleichen Fähigkeiten haben wie einer, der den Beruf nimmt (z.B. sehr guter Schwertkampf, sehr gute Taktik, sehr gut Lanzenkampf für einen überragenden Ritter). 
+
+## Beispiele
+
+### Legendärer Magier
+
+1. Beschreibung: Er hat das Merkmal legendärer Magier
+2. Kosten: legendär kostet normalerweise ++++
+3. Interaktion: Mit seinem Spezialgebiet sollte er einem legendären Krieger ebenbürtig sein. Ist er effektiv in mehreren Bereichen legendär, sind das effektiv mehrere legendäre Werte, oder er ist deutlich mehr als legendär. 
+4. Kosten: Aufteilen des Merkmals in Unterbereiche oder Kosten des einzelnen Merkmals erhöhen. 
+5. Beschreibung: Magie durch mehrere Einzelmerkmale darstellen, die jeweils legendär sind, oder durch ein sehr allgemeines Merkmal (orientiert an Berufen oder breiten Berufen). 
+6. Interaktion erneut prüfen. 
+
+### Legendärer Krieger
+
+1. Beschreibung: Beruf Krieger legendär
+2. Kosten: Er hat den Beruf Krieger auf ++++
+3. Interaktion: Dadurch ist er in Schwertkampf etwas mehr als überragend (18 + Boni aus einer passenden Eigenschaft), und im Lanzenkampf und in Taktik (und einigem mehr).  Nutzt er all seine Fähigkeiten, ist er einem legendären Schwertkämpfer (21 + Boni aus zwei Eigenschaften) ebenbürtig, auch wenn er im direkten Kampf verlieren würde. 
+
+### Legendärer Schwertkämpfer
+
+1. Beschreibung: Fertigkeit Schwertkampf legendär 
+2. Kosten: Schwertkampf ++++
+3. Interaktion: Mit Boni in etwa Schwertkampf 24 (21 + Boni aus zwei passenden Eigenschaften). 
+
+### Waffen und Rüstungen
+
+Eine Waffe oder Rüstung kostet soviel, dass die Kosten gerade dem Spieltechnischen Effekt der Waffe durch durchschnitliche Charaktere entsprechen (mit [Statistikscript]() nachgerechnet). 
+
+## Was bringt diese Struktur noch? 
+
+Da im EWS die drei Grundbestandteile (fast) nur durch das Grundlegende Versprechen verbunden sind, dass die Namen der Werte mit ihrem Spieltechnischen Effekt übereinstimmen, können die Bestandteile einserseits leicht ausgetauscht werden (der Ersatz muss nur das Versprechen erfüllen), so dass zum Beispiel die Beschreibung angepasst werden könnte, um Charaktere nur mit Fertigkeiten und Berufen zu beschreiben, oder um sie nur durch Eigenschaften auszudrücken.  Genauso könnte auch die Interaktion angepasst werden, um alternative Würfelmechanismen zu verwenden.  Andererseits können auch neue (anders funktionierende) Bestandteile einfach eingebunden werden.  Dafür müssen sie nur definieren, was die Namen für Werte in ihnen bedeuten.  Z.B. können Interaktionssysteme (wie Magie durch Münzwürfe oder durch Karten) direkt das Kostensystem und die Charakterbeschreibung nutzen und so sauber integriert werden.  
+
+Wir verwenden diese Freiheit z.B. auch, um spezielle Vorteile auszubalancieren.  
+
+## Fazit
+
+Die dreigeteilte Grundstruktur des EWS erleichtert es uns, Werte auszubalancieren und Merkmale ins Gesamtsystem zu integrieren.  Außerdem ermöglicht sie es, die einzelnen Bestandteile einfach auszutauschen und die Struktur mit Spezialregeln zu erweitern.  
