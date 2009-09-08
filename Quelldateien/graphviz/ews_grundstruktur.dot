@@ -3,5 +3,7 @@ digraph G {
   Repräsentation -> "Namen für Werte"
   Kosten -> "Namen für Werte"
   "Namen für Werte" -> Interaktion
+/*  edge [dir=default, label="Boni"]
+  Kosten -> Interaktion */
 
 } 
