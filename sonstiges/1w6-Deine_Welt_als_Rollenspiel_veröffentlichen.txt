@@ -31,7 +31,7 @@ Gleichzeitig ist das EWS leicht anzupassen, und sehr flexibel in der Beschreibun
 
 Zusätzlich sind die Grundregeln Fokusneutral, so dass standardmäßig alle Handlungen die gleiche (geringe) Regelzeit benötigen.  Mit Modulen kannst du sehr einfach in den Regeln die Teile wichtig werden lassen (so dass es mehr Regelzeit hat), die auch in deiner Welt wichtig sind.  
 
-Bevor du allerdings eine endgültige Entscheidung triffst, lies am Besten den Artikel [Für welchen Runden eignet sich das EWS]().  Er beschreibt, für welche Stimmungen sich das EWS nach unserer Erfahrung am besten eignet.  
+Bevor du allerdings eine endgültige Entscheidung triffst, lies am Besten den Artikel [Für welchen Runden eignet sich das EWS](/deutsch/regeln/hintergr-nde/f-r-welche-runden-eignet-sich-das-ews).  Er beschreibt, für welche Stimmungen sich das EWS nach unserer Erfahrung am besten eignet.  
 
 ## Erste Schritte
 
@@ -39,15 +39,15 @@ Bevor du allerdings eine endgültige Entscheidung triffst, lies am Besten den Ar
 
 Der erste Schritt, um deine Welt mit dem EWS zu veröffentlichen ist sehr einfach: Probier einfach aus, ob das EWS bereits das Spielgefühl liefert, das du willst.  Ideal ist es, wenn du bereits eine Rollenspielrunde hast, mit der du in deiner Welt spielen kannst.  Auf die Art findest du auch am einfachsten heraus, welche Aspekte deiner Welt andere am stärksten ansprechen.  
 
-Solltest du keine Spielrunde haben, kannst du stattdessen ein Emailspiel starten (PbEM), in einem Forum eine Runde beginnen (z.B. im [Forum von 1w6.org]()), Chatrunden organisieren o.ä.
+Solltest du keine Spielrunde haben, kannst du stattdessen ein Emailspiel starten (PbEM), in einem Forum eine Runde beginnen (z.B. im [Forum von 1w6.org](/forum/)), Chatrunden organisieren o.ä.
 
-Geht all das nicht, kannst du das EWS natürlich auch einfach lesen und das Spielgefühl abschätzen.  Einen Hinweis dazu kann dir auch der Artikel [für welche Runden eignet sich das EWS]() geben. 
+Geht all das nicht, kannst du das EWS natürlich auch einfach lesen und das Spielgefühl abschätzen.  Einen Hinweis dazu kann dir auch der Artikel [für welche Runden eignet sich das EWS](/deutsch/regeln/hintergr-nde/f-r-welche-runden-eignet-sich-das-ews) geben. 
 
 ### Das EWS an deine Welt anpassen
 
-Wenn du dann ein Gefühl dafür hast, wie das normale Spielgefühl des EWS ist, kannst du es so anpassen, dass es deine Welt besser widerspiegelt.  Eine grundlegende Vorgehensweise dazu gibt es im Artikel [Das EWS an deine Welt anpassen]().  
+Wenn du dann ein Gefühl dafür hast, wie das normale Spielgefühl des EWS ist, kannst du es so anpassen, dass es deine Welt besser widerspiegelt.  Eine grundlegende Vorgehensweise dazu gibt es im Artikel [Das EWS an deine Bedürfnisse anpassen](/deutsch/regeln/das-ews-deine-bed-rfnisse-anpassen).  
 
-Ideal wäre es wieder, wenn du deine Anpassungen immer wieder mit deiner Runde testen kannst, so dass ihr direkt set, wie gut sie ihr Ziel erreichen.  Damit ihr dabei die Vision der Welt im Auge behaltet, ist es meist sinnvoll, diese Vision für das Spielgefühl in einem oder ein paar wenigen Sätzen so klar wie möglich aufzuschreiben, damit ihr später immer wieder zurück schauen könnt, ob eure Änderungen euch wirklich deiner Vision näherbringen.  Allerdings funktioniert nicht jede Vision mit jeder Spielrunde.  Falls du merkst, dass Vision und Spielrunde nicht zusammenpassen, leite doch einfach ein paar Mal auf einer [Con](), um zu prüfen, ob du die Vision mit anderen Gruppen eher verwirklichen kannst.  
+Ideal wäre es wieder, wenn du deine Anpassungen immer wieder mit deiner Runde testen kannst, so dass ihr direkt set, wie gut sie ihr Ziel erreichen.  Damit ihr dabei die Vision der Welt im Auge behaltet, ist es meist sinnvoll, diese Vision für das Spielgefühl in einem oder ein paar wenigen Sätzen so klar wie möglich aufzuschreiben, damit ihr später immer wieder zurück schauen könnt, ob eure Änderungen euch wirklich deiner Vision näherbringen.  Allerdings funktioniert nicht jede Vision mit jeder Spielrunde.  Falls du merkst, dass Vision und Spielrunde nicht zusammenpassen, leite doch einfach ein paar Mal auf einer [Con](http://www.rollenspiel-cons.info/), um zu prüfen, ob du die Vision mit anderen Gruppen eher verwirklichen kannst.  
 
 Falls ihr merkt, dass euch eine andere Vision mehr Spaß macht, spricht natürlich auch wenig dagegen, die Vision später noch abzuwandeln.  Wenn ihr sie vorher aufschreibt ist euch die Änderung allerdings später eher bewusst.  
 
@@ -105,10 +105,10 @@ Jetzt hast du eine erste Version deines Rollenspiels ins Netz gestellt, und die 
 
 Erstmal will das Heft verbreitet werden.  Dafür gibt es so viele Möglichkeiten, dass wir hier nur die Auswahl nennen können, die wir selbst genutzt haben oder von Bekannten kennen:  
 
-* Es selbst den verschiedensten [Seiten mit Rollenspiellinks]() vorschlagen. 
-* Deine Welt bei [Projekt Odyssee]() und [freie-rollenspiele.de](http://freie-rollenspiele.de) (und anderen Rollenspielseiten) anmelden. 
-* Sie [Online- und Fanzeitschriften zu Rollenspielen]() oder der [SpielXpress]() zur Rezension vorschlagen (aber Vorsicht, im Envoyer, der nun in der SpielXpress aufgegangen ist, hatten wir mit dem EWS bei der Rezension leider Pech - das EWS wurde vom Autor von "Ratten" zerrissen).  
-* Testspiele auf [Cons]() und in deinen lokalen Rollenspielläden leiten (wenn du gut leiten kannst oder Freunde hast, die das gut können, ist das einer der schnellsten Wege, um neue Spieler zu gewinnen, denn eigenes Antesten zählt meist deutlich mehr als Lesen).  
+* Es selbst den verschiedensten Seiten mit Rollenspiellinks (in den [Links](/deutsch/links/)) vorschlagen. 
+* Deine Welt bei [Projekt Odyssee](http://www.projekt-odyssee.de/) und [freie-rollenspiele.de](http://freie-rollenspiele.de) (und anderen Rollenspielseiten) anmelden. 
+* Sie Online- und Fanzeitschriften zu Rollenspielen oder der SpielXpress (in den [Links](/deutsch/links/)) zur Rezension vorschlagen (aber Vorsicht, im Envoyer, der nun in der SpielXpress aufgegangen ist, hatten wir mit dem EWS bei der Rezension leider Pech - das EWS wurde vom Autor von "Ratten" zerrissen).  
+* Testspiele auf [Cons](http://rollenspiel-cons.info) und in deinen lokalen Rollenspielläden leiten (wenn du gut leiten kannst oder Freunde hast, die das gut können, ist das einer der schnellsten Wege, um neue Spieler zu gewinnen, denn eigenes Antesten zählt meist deutlich mehr als Lesen).  
 * Ein Weblog zu deiner Welt aufmachen (du kannst auch gerne eins auf 1w6.org bekommen) und regelmäßig neue Informationen zu deiner Welt zu schreiben - seien es nun Infos dazu woran du gerade arbeitest, Berichte über deine Runden, oder direkt Informationen zur Welt.  
 
 Ganz wichtig ist dabei, immer neues Material zu liefern.  Sobald du Leute für deine Welt begeistern kannst, musst du ihre Aufmerksamkeit halten, und dafür musst du ihnen immer wieder neues Material geben.  
@@ -140,7 +140,7 @@ Wirklich professionell wird es, wenn du mit Puffer arbeitest.  Dabei schreibst d
 Kreativität (und freie Zeit) kommt gerne in Schüben, aber gleichzeitig lässt sich Neues am besten in regelmäßigen Happen aufnehmen.  Ein "scheduler" vermittelt dann dazwischen.  Beispielsweise wurde dieser Artikel zusammen mit zwei weiteren im Urlaub geschrieben.  Hätten wir alle drei gleichzeitig eingestellt, hätten wir die meisten Leser überfordert (so viel Zeit hat kaum jemand direkt zur Verfügung).  Die meisten hätten einen gelesen und sich die anderen für später (=nie) aufgehoben.  Daher haben wir sie stattdessen so eingestellt, dass sie im Abstand von mindestens drei Tagen kommen, so dass Leute Zeit haben, jeden einzelnen Artikel zu lesen.  
 
 
-Damit es in so viel "wir ihr online Tolles tun könnt" nicht untergeht: Der schnellste Weg, um neue Spieler zu finden, sind Testrunden auf Cons und in Rollenspielläden.  Allerdings ist das auch der Zeitintensivste.  Die Leute von [...]() haben ihn optimiert, indem sie jeweils 2-Stunden-Abenteuer leiten, so dass sie in der gleichen Zeit 4-mal so viele Spieler haben wie Leute, die 8-Stunden Abenteuer leiten.  
+Damit es in so viel "wir ihr online Tolles tun könnt" nicht untergeht: Der schnellste Weg, um neue Spieler zu finden, sind Testrunden auf Cons und in Rollenspielläden.  Allerdings ist das auch der Zeitintensivste.  Die Leute von [Nova](http://www.nova-rpg.de) haben ihn optimiert, indem sie jeweils 2-Stunden-Abenteuer leiten, so dass sie in der gleichen Zeit 4-mal so viele Spieler haben wie Leute, die 8-Stunden Abenteuer leiten.  
 
 
 ### Abschluss: Mit Negativrezensionen umgehen
