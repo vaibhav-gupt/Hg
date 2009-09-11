@@ -487,14 +487,16 @@ Charaktere können aus verschiedenen Gründen Verletzungen davontragen. Im Grund
 
 **Jede einzelne Wunde erschwert dabei alle seine Handlungen um 3 Punkte, bis sie geheilt ist. 
 
-Die Zeit, bis eine Wunde geheilt ist, hängt von der Wundschwelle des Charakters (WS: eine für Schaden passende Eigenschaft durch 3 geteilt; durchschnittlich 4), der Anzahl Wunden und den Heilungsumständen ab.  
+Die Zeit, bis eine Wunde geheilt ist, hängt von der Wundschwelle des Charakters (WS), der Anzahl Wunden und den Heilungsumständen ab. 
+
+**Um die Wundschwelle zu erhalten wird eine passende Eigenschaft durch 3 geteilt. Durchschnittlich (und wenn der Charakter keine passende Eigenschaft hat) ist sie 4. 
 
 **Die Heilung einer Wunde dauert eine Anzahl von Wochen entsprechend WS / (WS - 2 - Anzahl Wunden + Mods). Mods werden durch die Heilungsumstände gegeben. 
 
-Das heißt, die Grundzeit in Wochen entsprecht dem Wert der Wundschwelle des Charakters. Für die effektive Heilungszeit wird die Grundzeit durch einen Wert geteilt. Der Wert besteht aus Wundschwelle minus 2, wird durch jede Wunde um 1 gesenkt und durch die Heilungsumstände modifiziert. Sollte dieser Wert 0 sein, dann heilt der Charakter gar nicht. Wenn er unter 0 fällt, bekommt er Wunden dazu. 
+Das heißt, die Grundzeit in Wochen entsprecht dem Wert der Wundschwelle des Charakters. Für die effektive Heilungszeit wird die Wundschwelle durch einen Wert geteilt. Dieser Wert besteht aus Wundschwelle minus 2 und wird durch jede Wunde um 1 gesenkt und durch die Heilungsumstände modifiziert. Sollte dieser Wert 0 sein, dann heilt der Charakter gar nicht. Wenn er unter 0 fällt, bekommt er Wunden dazu. 
 
 *Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde in normaler Umgebung 
-*4 / (4-2-1) = 4 Wochen. Trägt er zwei Wunden davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, weiter als Diplomat zu arbeiten, statt sich Ruhe zu gönnen, dann erholt er sich nie. 
+*4 / (4-2-1) = 4 / 1 = 4 Wochen. Trägt er zwei Wunden davon, heilt er in normaler Umgebung nichts mehr. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, statt sich Ruhe zu gönnen, dann erholt er sich nie. 
 Heilungsumstände leiten sich aus zwei Fragen her: "Was macht der Charakter?", und "Wie wird seine Heilung gefördert?" 
 
 **Wenn ein Charakter sich Ruhe gönnt und im Bett bleibt, erhält er einen Punkt Bonus. Wenn er dagegen auf Reisen geht, bekommt er einen Malus von 1 oder mehr. Auf einem Gewaltmarsch steigt dieser Malus beispielsweise auf 4, so dass Charaktere mit einer Wundschwelle unter 6 regelmäßig neue Wunden erhalten. 

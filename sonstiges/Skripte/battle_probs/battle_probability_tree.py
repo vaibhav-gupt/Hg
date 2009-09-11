@@ -17,6 +17,11 @@ TODO: Change the Battle end to "when one char would always get an instant kill f
 
 """
 
+__copyright__ = """2008 - 2009 © Arne Babenhauserheide
+
+License: GPLv3
+"""
+
 ### Help message ###
 
 def help(): 
