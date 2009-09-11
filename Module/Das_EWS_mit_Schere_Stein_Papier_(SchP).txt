@@ -7,13 +7,11 @@ Das EWS mit Schere-Stein-Papier (SchP)
 
 Wenn mal kein W6 (oder kein Tisch) zur Hand ist, oder Würfeln einfach gerade nicht passt, kann das EWS auch einfach mit Schere-Stein-Papier gespielt werden.  Dafür wird jede Probe als Wettstreit in Schere-Stein-Papier gehandhabt; echte Wettstreite gegen die Gegenspielerin, einfache Proben gegen die SL.  
 
-Beide Kontrahenden wählen ihr Symbol (Schere, Stein oder Papier :) ).  Haben beide das gleiche Zeichen, gilt das als +-0 und der Wettstreit endet unentschieden.  
-Ansonsten erhält der Gewinner einen Bonus von +3 auf seinen entsprechenden Wert und der Wettstreit geht weiter, bis der jetzige Gewinner einmal *nicht gewinnt*.  
-Bei einer einfachen Probe gilt ein Bonus der SL entsprechend als Malus auf den Wert der Spielerin.  
+Wettstreit in Schere-Stein-Papier bedeutet hier: Beide Kontrahenden wählen ihr Symbol (Schere, Stein oder Papier :) ).  Haben beide das gleiche Zeichen, gilt das als ±0 und der Wettstreit endet unentschieden.  Ansonsten erhält der Gewinner einen Bonus von +3 auf seinen entsprechenden Wert und der Wettstreit geht weiter, bis der jetzige Gewinner einmal *nicht gewinnt*.  Bei einer einfachen Probe gilt ein Bonus der SL entsprechend als Malus auf den Wert der Spielerin.  
 
-Wenn ihr Schere-Stein-Papier verwendet, bleiben die Wahrscheinlichkeiten von Proben weitgehend erhalten, aber die feinen Unterschiede zwischen Einzelwerten fallen weg, da es nur Dreier-Boni oder -Mali gibt.  Gleichzeitig dauern Proben etwas länger (weil sehr oft mehrfach Schere-Stein-Papier gespielt werden muss, bis das Ergebnis feststeht).  Außerdem fällt bei Wettstreiten der Absolutwert weg, der bei normalen +-W6-Würfen unabhänig von Erfolg oder Misserfolg angibt, wie gut sich der Charakter geschlagen hat (bei normalen Proben bleibt er allerdings erhalten).  
+Wenn ihr Schere-Stein-Papier verwendet, bleiben die Wahrscheinlichkeiten von Proben weitgehend erhalten, aber die feinen Unterschiede zwischen Einzelwerten fallen weg, da es nur Dreier-Boni oder -Mali gibt.  Gleichzeitig dauern Proben etwas länger (weil sehr oft mehrfach Schere-Stein-Papier gespielt werden muss, bis das Ergebnis feststeht).  Außerdem fällt bei Wettstreiten der Absolutwert weg, der bei normalen ±W6-Würfen unabhänig von Erfolg oder Misserfolg angibt, wie gut sich der Charakter geschlagen hat (bei normalen Proben bleibt er allerdings erhalten).  
 
-Dafür sind Erfolg und Misserfolg bei einer Probe mit Schere-Stein-Papier nochmal deutlicher als bei einem Wurf mit dem +-W6, und es gibt auch bei eifnachen Proben das Nullergebnis: Eine Probe kann mit genau dem Wert des Charakters enden (der +-W6 ändert den Wert immer).  
+Dafür sind Erfolg und Misserfolg bei einer Probe mit Schere-Stein-Papier nochmal deutlicher als bei einem Wurf mit dem ±W6, und es gibt auch bei einfachen Proben das Nullergebnis: Eine Probe kann mit genau dem Wert des Charakters enden (der ±W6 ändert den Wert immer).  
 
 Und man kann Schere-Stein-Papier in so gut wie jeder Situation nutzen - sogar ohne dass es besonders auffällt.  
 
@@ -33,14 +31,14 @@ Nun werden die erreichten Boni auf ihren Wert addiert und das Ergebnis mit dem M
 Ein Wettstreit läuft fast genauso wie eine einfache Probe.  Beide Kontrahentinnen spielen gegeneinander Schere-Stein-Papier.  Geht das Spiel unentschieden aus, bleiben beide Werte gleich und werden verglichen.  Wenn allerdings eine von ihnen gewinnt, erhält sie drei Punkte Bonus und es wird erneut gespielt.  Gewinnt sie wieder, erhält sie weitere drei Punkte Bonus und es wird so lange erneut gespielt, wie sie jedes Spiel gewinnt.  Verliert sie aber oder geht das Spiel unentschieden aus, dann endet die Probe und die Werte werden verglichen, um festzustellen, wer den Wettstreit gewonnen hat.  Auch wenn sie die zweite Probe verliert, erhält sie dabei keinen Malus, d.h.  der erspielte Bonus bleibt bestehen.  
 
 
-Die Bedeutung von Werten (und Werteunterschieden) bleibt bei Verwendung von Schere-Stein-Papier statt dem +-W6 fast gleich, da die Wahrscheinlichkeiten in ähnlichen bereichen liegen.  Bei Wettstreiten werden Werteunterschiede dabei etwas wichtiger, bei normalen Proben etwas wengier wichtig, da mit Schere-Stein-Papier bei beidem die gleichen Wahrscheinlichkeiten gelten.  Wahrscheinlichkeiten auf Erfolg (Rechnungen ohne Gewähr, da bisher nur von mir selbst geprüft :) ): 
+Die Bedeutung von Werten (und Werteunterschieden) bleibt bei Verwendung von Schere-Stein-Papier statt dem ±W6 fast gleich, da die Wahrscheinlichkeiten in ähnlichen Bereichen liegen.  Bei Wettstreiten werden Werteunterschiede dabei etwas wichtiger, bei normalen Proben etwas weniger wichtig, da mit Schere-Stein-Papier bei beidem die gleichen Wahrscheinlichkeiten gelten.  Wahrscheinlichkeiten auf Erfolg (Rechnungen ohne Gewähr, da bisher nur von mir selbst geprüft :) ): 
 
 ### Probe, Wahrscheinlichkeit zu bestehen
 
 (Wenn der Mindestwurf erreicht wird, gilt die Probe als bestanden)
 
 <table>
-<tr><th>Differenz zum Mindestwurf (MW - Wert)</th><th>Wahrscheinlichkeit, +-W6</th><th>Wahrscheinlichkeit Schere-Stein-Papier</th></tr>
+<tr><th>Differenz zum Mindestwurf (MW - Wert)</th><th>Wahrscheinlichkeit, ±W6</th><th>Wahrscheinlichkeit Schere-Stein-Papier</th></tr>
 <tr><td>9</td><td>1/36 = 2,78%</td><td>1/27 = 3,7%</td></tr>
 <tr><td>6</td><td>1/6 = 16,7%</td><td>1/9 = 11,1%</td></tr>
 <tr><td>3</td><td>1/3 = 33,3%</td><td>1/3 = 33,3%</td></tr>
@@ -52,10 +50,10 @@ Die Bedeutung von Werten (und Werteunterschieden) bleibt bei Verwendung von Sche
 
 ### Wettstreit, Selbst fängt an, Wahrscheinlichkeit zu gewinnen
 
-(Wenn der Wert des anderen erreicht wird, gilt der Wettstreit als gewonnen => leichte verschiebung zugunsten des "Angreifers")
+(Wenn der Wert des anderen erreicht wird, gilt der Wettstreit als gewonnen => leichte Verschiebung zugunsten des "Angreifers")
 
 <table>
-<tr><th>Differenz zum Wert des Anderen (Anderer - Selbst)</th><th>Wahrscheinlichkeit, +-W6</th><th>Wahrscheinlichkeit, Schere-Stein-Papier</th></tr>
+<tr><th>Differenz zum Wert des Anderen (Anderer - Selbst)</th><th>Wahrscheinlichkeit, ±W6</th><th>Wahrscheinlichkeit, Schere-Stein-Papier</th></tr>
 <tr><td>12</td><td>1/216 = 0,46%</td><td>1/81 = 1,23%</td></tr>
 <tr><td>9</td><td>1/13 = 7,7%</td><td>1/27 = 3,7%</td></tr>
 <tr><td>6</td><td>1/6 = 16,7%</td><td>1/9 = 11,1%</td></tr>
@@ -74,7 +72,7 @@ Die Idee dazu, Schere-Stein-Papier zu nutzen kommt übrigens von Berichten über
 
 ## Beispiel
 
-Die RaumZeit-Runde um Sven ([Techplot]()) ist gerade Döner kaufen gegangen, und *Sven* und *Ines* wollen auf dem Weg noch den Hack in den Computer der Systemstation abhandeln.  
+Die RaumZeit-Runde um Sven ([Techplot](http://rakjar.de/raumzeit-heft1/regeln.html)) ist gerade Döner kaufen gegangen, und *Sven* und *Ines* wollen auf dem Weg noch den Hack in den Computer der Systemstation abhandeln.  
 
 Sven: "Mit dem geklauten Zugang der Sekretärin öffnet sich dir der Rechner.  Du kommst an ihre Dateien, aber 
 
@@ -102,7 +100,7 @@ Sven: "Also bist du 6 Punkte unter dem Mindestwurf, sieht nicht gut aus.  Du beo
 
 Ines: "Ich tauche unter den Schreibtisch ab.  Gibt es Ritzen, durch die ich sehen kann, wer da kommt?" 
 
-Sven: "Der untere Rand schließt nicht ganz am Boden ab.  Du duckst dich also tief und siehst Hochhackige Schuhe durch die Tür treten.  Dann schließt sich die Tür langsam.  Als du noch etwas näher an die Ritze herankriechst, siehst du die Sekretärin mit einer Reihe Datenkristallen in der Hand zum Schreibtisch gehen.  Wenn sie um ihn herum geht, sieht sie dich sicher."
+Sven: "Der untere Rand schließt nicht ganz am Boden ab.  Du duckst dich also tief und siehst hochhackige Schuhe durch die Tür treten.  Dann schließt sich die Tür langsam.  Als du noch etwas näher an die Ritze herankriechst, siehst du die Sekretärin mit einer Reihe Datenkristallen in der Hand zum Schreibtisch gehen.  Wenn sie um ihn herum geht, sieht sie dich sicher."
 
 Ines: "Dann kann sie mir gleich erklären, wie sie ihre Dateien sortiert hat.  Ich warte bis sie neben dem Schreibtisch ist, dann springe ich vor und packe sie."
 
@@ -114,4 +112,4 @@ Sven: "Papier!  Also keine Boni.  Du hast direkt deinen überragenden Nahkampfwe
 
 Ines: "Ich springe hoch, packe die Ecke des Schreibtischs, um meinen Schwung umzulenken und wirbele hinter sie.  Noch im Sprung drehe ich ihren arm auf den Rücken und halte ihr den Mund zu.  'Also Kleine, wir haben etwas zu besprechen.  Schrei, und ich breche die alle Knochen.'"
 
-Sven: "Während die Datenkristalle klirrend auf dem Boden aufschlagen, steht die Sekretären regunslos im Raum.  Ihr freier Arm zittert leicht und ihre Lippen beben unter deiner Hand."
+Sven: "Während die Datenkristalle klirrend auf dem Boden aufschlagen, steht die Sekretären regungslos im Raum.  Ihr freier Arm zittert leicht und ihre Lippen beben unter deiner Hand."
