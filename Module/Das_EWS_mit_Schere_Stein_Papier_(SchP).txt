@@ -1,7 +1,7 @@
 Das EWS mit Schere-Stein-Papier (SchP)
 ======================================
 
-*(was bisher im AZul-Modul versteckt war)
+*(was bisher im AZul-Modul versteckt war)*
 
 ## Einführung
 
