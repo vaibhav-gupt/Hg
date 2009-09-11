@@ -65,7 +65,7 @@ Eine Tochter _Rounas_, die mit den Charakteren gegen die Weisung ihres Vaters mi
 
 **Iuza**
 
-Eine Wölfin mit (mindestens) menschlicher Intelligez, die in den Nächten um den Vollmond menschliche Gestalt annehmen kann. 
+Eine Wölfin mit (mindestens) menschlicher Intelligenz, die in den Nächten um den Vollmond menschliche Gestalt annehmen kann. 
 
 Sie hat sich in _Kiran_ verliebt, hält aber Abstand, seit sie erfahren hat, welchen Preis der für die Macht seines Vertrauten zu zahlen bereit ist. 
 
@@ -81,7 +81,7 @@ Dank _Gargamels_ Hypnose erinnert sie sich nicht mehr daran, dass sie ein Teil d
 
 **Ejora**
 
-Eine Priesterin wie Marn, die Lebenslustiger war, bei der allerdings Gargamels Hypnose nicht funktionierte, so dass sie sich an alle Einzelheiten erinnerte. Sie verschwieg es und wurde am Ende von _Kiran_ getötet, als sie drohte, es den anderen Charakteren zu verraten. _Luja_ hat den Mord mitbekommen, jedoch _Kiran_ versprochen, dass sie schweigen wird. 
+Eine Priesterin wie Marn, die Lebenslustiger war, bei der allerdings Gargamels Hypnose nicht funktionierte, so dass sie sich an alle Einzelheiten erinnerte. Sie verschwieg es und wurde am Ende von _Kiran_ getötet, als sie drohte, es den anderen Charakteren zu verraten. _Luja_ hat den Mord mitbekommen, jedoch _Kiran_ versprochen, dass sie schweigen wird. Auch _Iuzal_ hat es mitbekommen, schweigt aber aus Liebe. 
 
 _Marn_ glaubt, dass _Ejora_ besessen war und _Kiran_ keine andere Wahl hatte als sie zu töten. 
 
@@ -100,6 +100,8 @@ Der Anführer einer Bande von Wegelagerern. Wollte die Charaktere ausrauben. Hat
 
 Er jagt die Charaktere, um sich an ihnen zu rächen und hat von _Senraïs Togra_ _Kodon Chara_ erhalten, mit dem er _Tsark_ beschwören kann, die ihm dann dienen. 
 
+Er wurde von den Charakteren im Gang des Dornenmooses besiegt und getötet. 
+
 **Senraïs Togra**
 
 Ein Priester des Lichts, der die nicht-Kirchengebiete erkundet, um schwache Stellen zu finden. Er hat _Arwach_ den _Kodon Chara_ gegeben und verfolgt dessen Aktionen. 
@@ -114,7 +116,7 @@ Nebencharaktere
 
 **Lerre Besren**
 
-Händler, der aus Schwang Blumen mit Zwillingskelchen für die Priester der Zwillinge gebracht hat. In seinem Wagen waren Kohlebecken, um die BLumen vor dem erfrieden zu bewahren. Er hatte einen Zwischenstop in Karagos gemacht, und als er es verlassen hat, wären die Blumen zwei Tage lang fast gestorben. 
+Händler, der aus Schwang Blumen mit Zwillingskelchen für die Priester der Zwillinge gebracht hat. In seinem Wagen waren Kohlebecken, um die Blumen vor dem erfrieden zu bewahren. Er hatte einen Zwischenstop in Karagos gemacht, und als er es verlassen hat, wären die Blumen zwei Tage lang fast gestorben. 
 
 _Lesre_ hat die Chars in das Gasthaus _Rorgas Wald_ eingeladen. 
 
