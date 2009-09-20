@@ -24,7 +24,7 @@ Die meisten Module findest du auf
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
 
-**Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9: einfach) oder höher ist als das Ergebnis des Gegners. Wie die Werte von Eigenschaftem und Fertigkeiten haben auch Mindestwürfe Namen. Beispielsweise ist 12 fordernd, 15 schwer und 18 heikel. 
+**Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9: einfach) oder höher ist als das Ergebnis des Gegners. Wie die Werte von Eigenschaften und Fertigkeiten haben auch Mindestwürfe Namen. Beispielsweise ist 12 fordernd, 15 schwer und 18 heikel. 
 
 **Die erzielte Differenz gibt an, wie gut die Handlung bestanden wurde.
 
