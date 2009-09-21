@@ -183,7 +183,7 @@ Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charakterge
 
 #Die Erschaffung
 
-Der erste Schritt zur Charaktererschaffung ist die Festlegung des Machtniveaus der Charaktere. Dadurch legt ihr fest, wieviele Punkte ihr für die Erschaffung zur Verfügung habt. 
+Der erste Schritt zur Charaktererschaffung ist die Festlegung des Machtniveaus der Charaktere. Dadurch legt ihr fest, wieviele Punkte (Δ) ihr für die Erschaffung zur Verfügung habt. 
 
 Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die anderen sollten klar sein. Es gibt vordefiniert die folgenden Machtstufen (in Klammer stehen jeweils die Punkte): 
 
@@ -234,10 +234,7 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 In jeder der hier gewählten Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durchschnittlich, also bei 12, und im Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
 
-
-
-
-
+Für jeden der Werte notiert er außerdem ein Plus ("+"), das den Wert als starken Wert kennzeichnet und für die Bestimmung der Boni durch Eigenschaften genutzt wird. 
 
 
 
@@ -250,19 +247,13 @@ In jeder der hier gewählten Eigenschaften ist er sehr gut, also bei 15, in jede
 
 *Für jede der Fertigkeiten wählt Sven nun zwei passende Eigenschaften. 
 
-**Die den Fertigkeiten und Berufen zugeordneten Eigenschaften geben ihnen je nach ihrer Höhe Boni. Eigenschaften mit Werten um 15 geben einen Punkt Bonus. Eigenschaften mit Werten um 18 geben 2 Punkte, Eigenschaften mit Werten um 21 geben 3, usw. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. 
-
-**Boni durch Eigenschaften (Werte: Bonus): 
-**-  8, 9,10: -
-**- 11,12,13: 0
-**- 14,15,16: +
-**- 17,18,19: ++
+**Die den Fertigkeiten zugeordneten Eigenschaften geben für jedes Plus ("+") einen Punkt Bonus. Da Lazaros Eigenschaften bisher jeweils nur ein Plus haben, gibt jede zugeordnete Eigenschaft einen Punkt. 
 
 *Für Nahkampf wählt er Gewandtheit und persönlichen Stil, die ihm als passende starke Eigenschaften jeweils einen Punkt Bonus auf seinen Wert geben, so dass er insgesamt ein guter Kämpfer ist (er kommt von 12 auf 14). 
 
 *Für die Kunst des Flirtens wählt er persönlichen Stil und Charisma, erhält also erneut 2 Punkte Bonus und beherrscht so auch die Kunst des Flirtens gut (14). 
 
-*Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. 
+*Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. Auch hier bekommt er pro Plus ("+") der jeweiligen Eigenschaft einen Punkt Bonus. 
 
 Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro. 
 
@@ -272,15 +263,15 @@ Und damit ist Svens Charakter beinahe spielfertig.
 **Diplomat, Degenfechter und Charmeur. 
 
 **Eigenschaften: 
-**- sehr gewandt (15)
-**- persönlicher  Stil (15)
-**- sehr charismatisch (15)
+**- sehr gewandt: + (15)
+**- persönlicher  Stil: + (15)
+**- sehr charismatisch: + (15)
 
 **Fertigkeiten: 
-**- Nahkampf (Fechtkunst): 12+2 = 14
-**- Kunst des Flirtens: 12+2 = 14
+**- Nahkampf (Fechtkunst): + (12+2 = 14)
+**- Kunst des Flirtens: + (12+2 = 14)
 
-**Beruf: Diplomat: 9
+**Beruf: Diplomat: + (9)
 
 **Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann. 
 
