@@ -30,7 +30,7 @@ Die meisten Module findest du auf
 
 #Eigenschaften
 
-Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Aussehen, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber jede zu einem gewissen Grad hat. 
+Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Aussehen, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber Jede zu einem gewissen Grad hat. 
 Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet. 
 
 **Eigenschaften von Menschen haben Werte zwischen 6 und 18. Was darüber hinausgeht ist der Stoff für Legenden. 
@@ -58,9 +58,9 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
 
-**Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings sind das im Gegensatz zu Fertigkeiten nicht zwei festgelegte Eigenschaften, sondern eine einzelne zur aktuellen Situation passende Eigenschaft. 
+**Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
 
-*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Er beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt ihr die SL, dass sie bei diesem Wurf Boni aus seiner Eigenschaft "Dreistigkeit" erhält. 
+*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
 
 
 #Merkmale
@@ -73,7 +73,7 @@ Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein 
 
 **Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden.
 
-<fuss>Die Beispiele für Merkmale stehen auf Seite 21. 
+<fuss>Beispiele für Merkmale stehen auf Seite 21. 
 
 #Kampfwerte
 
@@ -92,7 +92,7 @@ Solche Proben kommen zum Beispiel bei Stenographie, Kochen und Bogenschießen zu
 
 **Um zu sehen, ob einer Handlung Erfolg beschieden ist, wirft die Spielerin einen W6 (einen einzelnen sechsseitigen Würfel). 
 
-**Ist die Augenzahl gerade, addiert die Spielerin sie zu ihrem  Wert (zum Beispiel dem Wert ihrer  Fertigkeit Stenographie, Kochen oder Bogenschießen). 
+**Ist die Augenzahl gerade, addiert die Spielerin sie zu ihrem  Wert (zum Beispiel dem Wert ihrer Fertigkeit Stenographie, Kochen oder Bogenschießen). 
 **Ist die Augenzahl allerdings ungerade, zieht sie die Zahl von ihrem Wert ab. 
 
 **Diese Art zu würfeln wird von nun an als ±W6 bezeichnet. 
@@ -105,13 +105,14 @@ Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit dem Mindest
 
 **Liegen Eigenschaft oder Fertigkeit bereits 6 oder mehr Punkte über der Schwierigkeit, gelingt die Probe auch ohne Wurf automatisch (Ausnahmen bestimmt die Spielleiterin). 
 
-Mindestwürfe sind immer ein Vielfaches von 3. Typische Mindestwürfe sind 9 (einfach), 12 (fordernd) und 15 (schwer). 
+
+Mindestwürfe (MW) sind immer ein Vielfaches von 3. Typische Mindestwürfe sind 9 (einfach), 12 (fordernd) und 15 (schwer). 
 Hat die Spielerin keine passende Fertigkeit, kann sie auf den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen. 
 
 *Beispiel: Jana, Schülerin in der 9. Klasse, zieht als "Grok, Barbar!" durchs Land. 
-*Grok ist durchschnittlich im "Gekrakel entziffern" (12), und als er vor einem Straßenschild steht, verlangt die SL eine einfache Probe (9), um das mittelreichische Gekrakel zu verstehen. Jana würfelt eine 1. Damit erreicht sie 12 - 1 = 11. Das Ergebnis ist also höher (oder gleich) 9, und  Grok findet seinen Weg zum Wirtshaus. 
+*Grok ist durchschnittlich im "Gekrakel entziffern" (12). Als er vor einem Straßenschild steht, verlangt die SL eine einfache Probe (9), um das mittelreichische Gekrakel zu verstehen. Jana würfelt eine 1. Damit erreicht sie 12 - 1 = 11. Das Ergebnis ist also höher (oder gleich) 9 und Grok findet seinen Weg zum Wirtshaus. 
 
-<fuss>Modul: Kritische Erfolge und Patzer (krit)
+<fuss>Module: Kritische Erfolge und Patzer (krit), Schere-Stein-Papier (SchP)
 
 #Wettstreite
 
@@ -119,10 +120,9 @@ Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft
 
 **Dazu würfeln beide Beteiligten wie bei einer einfachen Probe, und ihre Ergebnisse werden verglichen. Diejenige mit dem höheren Ergebnis gewinnt den Wettstreit und die Differenz der Ergebnisse gibt an, wie deutlich sie gewinnt. Haben sie gleiche Ergebnisse, dann gewinnt diejenige, die angefangen hat. 
 
-**Unabhängig davon, wer gewinnt, zeigt die absolute Höhe der Ergebnisse an, wie gut der jeweilige Charakter sich geschlagen hat. 
+**Unabhängig davon, wer gewinnt, zeigt die absolute Höhe der Ergebnisse, wie gut der jeweilige Charakter sich geschlagen hat. 
 
 Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Konkurrent einfach ein Stückchen besser ist.   
-
 #Charaktererschaffung
 
 Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Die Erschaffung der Charaktere. 
