@@ -232,10 +232,9 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 *Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf seine Fertigkeiten zu wählen. 
 
-In jeder der hier gewählten Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durchschnittlich, also bei 12, und im Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
+Für jeden der Werte notiert er dafür als erstes ein Plus ("+"), das den Wert als starken Wert kennzeichnet und für die Bestimmung der Boni durch Eigenschaften und im Modul Charaktersteigerung (im Anhang) genutzt wird. 
 
-Für jeden der Werte notiert er außerdem ein Plus ("+"), das den Wert als starken Wert kennzeichnet und für die Bestimmung der Boni durch Eigenschaften genutzt wird. 
-
+Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durchschnittlich, also bei 12, und im Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
 
 
 
@@ -273,7 +272,7 @@ Und damit ist Svens Charakter beinahe spielfertig.
 
 **Beruf: Diplomat: + (9)
 
-**Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann. 
+**Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann: +
 
 *Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Wundschwelle. Da er keine passende Eigenschaft hat, nimmt er einfach ein Drittel des Durchschnittswerts von 12, erhält also eine Wundschwelle von 4. Diesen Wert und seine Waffe erhält Larzaro noch als Zusätze: 
 
@@ -328,7 +327,7 @@ Dabei gelten die folgenden sechs Regeln:
 **Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (Schreiber) oder ein positives Merkmal (z.B. Extremverdauung) nehmen. 
 
 ##5) Stärken für Schwächen
-**Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele  Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
+**Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
 **Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Dreiecke (Δ) erhält (siehe Regel 4). 
 
 ##6) Eigenschaftsboni
