@@ -5,7 +5,7 @@
 echo "entering folder RaumZeit/Charaktere/Sskreszta/"
 cd RaumZeit/Charaktere/Sskreszta/
 
-# First create the markdown content of the index page. 
+echo "parsing all files to html via pymarkdown_minisite" 
 parse_and_list_markdown_files.py "Sskreszta-Log statisch" . http://1w6.org
 
 # Also turn the dot file into the travel diagram (png)
