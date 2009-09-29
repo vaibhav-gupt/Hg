@@ -1,0 +1,22 @@
+Runen mit Verb und Subjekt
+==========================
+
+Grundsystem
+-----------
+
+1. Eigenschaft Chi: Sinkt um ein + je gesprochenem Zauber. 
+2. Fertigkeit Meditieren: Wurf gegen 9. Bei Erfolg ein + Chi zurückm pro 3 Punkte über 9 ein weiteres +.
+3. Fertigkeit Formen: Mindestwurf = Schwierigkeit des Zaubers (Stärke und Komplexität) 
+4. Fertigkeit Aktivieren: Mindestwurf = Widerstand des Ziels
+5. Merkmal Runen-Verben: Je + eine Rune
+6. Merkmal Runen-Subjekte: Je + eine Rune
+7. Merkmal Zauber: Je + ein Zauber
+8. Punkte zwischen Formen / Aktivieren Shiften ; je 3 Punkte freiwilliger Malus geben einen Punkt Bonus.
+9. Merkmal Zauber haben einen Bonus von 3 auf Formen und Aktivieren. Als Formen wird der Fertigkeitswert genommen - es muss nur auf Aktivieren gewürfelt werden (brauchen nur eine Runde). 
+10. Mehrere Ziele: Pro Ziel eines Zaubers -3 auf Formen. Aktivieren einmal; alle gegner würfeln dagegen, wirkt auf die, die schwächer sind. 
+(11. da Verlust an Chi: Je gesprochenem Zauber ein Puntk Malus auf alle späteren -> der gleiche Malus wie auch Chi)
+
+Beispiele für Zauber
+--------------------
+
+TODO: Zauberbeispiele mit MW für Formen sammeln. 
