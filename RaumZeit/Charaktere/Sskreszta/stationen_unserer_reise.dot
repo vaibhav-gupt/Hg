@@ -35,10 +35,12 @@ digraph G {
     Ranos -> Styro 
     
     edge [label=""]
-    Styro -> "Verbotene Zone" -> "Piraten im Asteroidenfeld" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
+    Styro -> "Verbotene Zone" -> "Xynoc Schiff" -> Llovara -> Remi -> "Piratenstation am Nebel" -> Remi
+    // Piraten und Zat
+    "Verbotene Zone" -> "Piraten und Zat (Nebenplot)"
 
-    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> Remi
-    Remi -> "Hibiti" -> "Randstation im Ashar System"
+    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> "Zeitstation im Nebel" -> "Piraten im Asteroidenfeld" -> Hibiti
+    "Hibiti" -> "Randstation im Ashar System"
 
     edge [label="den Piraten folgen"] "Verborgene Sanduhrstation" -> "Hibiti"
     edge [label="den Piraten folgen"] "Hibiti" -> "Hakus Paradies"
