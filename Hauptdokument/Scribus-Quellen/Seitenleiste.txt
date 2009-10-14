@@ -230,7 +230,7 @@ Die Charaktere können über das Schicksal ihres Landes mitentscheiden.
 
 #Machtniveaus mit Werten
 Schema: 
-Eigenschaften, Fertigkeiten|Beruf /  Hintergrund, Merkmale. 
+Eigenschaften, Fertigkeiten|Beruf / Hintergrund, Merkmale. 
 (Eig, Fert|Ber, Merk)
 
 1Δ ist ein starker Wert
@@ -403,8 +403,9 @@ Beispiele sind Friedensstifter, Entwicklungshelfer und Geheimagent.
 *Beispiel: Taban ist seit 3 Jahren Entwicklungshelferin im Heimatland ihrer Eltern. 
 *Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grundlegende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut. 
 *All diese Fertigkeiten sind durch ihren breiten Beruf abgedeckt: 
-**+: Unerfahrene Entwicklungshelferin: 6
 
+**+: Unerfahrene Entwicklungs-
+**helferin: 6
 
 
 
@@ -455,7 +456,7 @@ In unserer Welt haben Wunden oft bleibende Folgen. Wenn es den Spielern gefällt
 Charaktere können nicht nur körperliche Verletzungen davontragen, sondern auch auf verschiedenste andere Arten Schaden nehmen. 
 
 Ein Beispiel ist mentaler Schaden (kurz): 
-Die mentale Wundschwelle berechnet sich hier aus dem Drittel einer passenden Eigenschaft (z.B. Willenskraft durch 3). Durchschnittlich ist sie 4. 
+Die mentale Wundschwelle berechnet sich hier aus dem Drittel einer passenden Eigenschaft (z.B. Willenskraft). Durchschnittlich ist sie 4. 
 
 Wunden sind zeitweise Psychosen, Schrecken, Panik, uvm., und sie schwächen wie körperliche Wunden (-3 auf Proben pro Wunde). 
 
