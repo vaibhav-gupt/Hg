@@ -122,7 +122,7 @@ Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft
 
 **Unabhängig davon, wer gewinnt, zeigt die absolute Höhe der Ergebnisse, wie gut der jeweilige Charakter sich geschlagen hat. 
 
-Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Konkurrent einfach ein Stückchen besser ist.   
+Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Gegner einfach etwas besser ist.
 #Charaktererschaffung
 
 Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Die Erschaffung der Charaktere. 
@@ -242,8 +242,6 @@ Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften 
 
 
 
-
-
 *Für jede der Fertigkeiten wählt Sven nun zwei passende Eigenschaften. 
 
 **Die den Fertigkeiten zugeordneten Eigenschaften geben für jedes Plus ("+") einen Punkt Bonus. Da Lazaros Eigenschaften bisher jeweils nur ein Plus haben, gibt jede zugeordnete Eigenschaft einen Punkt. 
@@ -257,6 +255,13 @@ Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften 
 Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro. 
 
 Und damit ist Svens Charakter beinahe spielfertig. 
+
+
+
+
+
+
+
 
 **Salamon Lazaro de Aicega, 
 **Diplomat, Degenfechter und Charmeur. 
@@ -280,7 +285,6 @@ Und damit ist Svens Charakter beinahe spielfertig.
 **Waffe: Degen; Schaden: 4. 
 
 Und hiermit ist er fertig. 
-
 
 
 
