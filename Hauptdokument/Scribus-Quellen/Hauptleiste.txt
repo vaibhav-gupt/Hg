@@ -19,7 +19,7 @@ Die meisten Module findest du auf
 
 #Grundlagen
 
-**Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die jede Spielerin frei wählen kann. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
+**Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die jede Spielerin frei wählen kann. Alternativ können sie von der Spielleiterin (SL) vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
 **Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (6 ist armselig, 9 schwach, 12 durchschnitt, 15 erfahren und 18 überragend).
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
@@ -60,7 +60,7 @@ Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter eine
 
 **Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
 
-*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
+*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
 
 
 #Merkmale
@@ -204,29 +204,27 @@ Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspiele
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. 
 
 
-In der Seitenleiste findest du eine Tabelle, die für die verschiedenen Machtniveaus die jeweilige Anzahl von Eigenschaften, Fertigkeiten, Berufen und Merkmalen enthält, die du für deinen Charakter wählen kannst. 
-
 <fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
 
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden. 
 
-**Daten: Ein angehender Held kann 2 starke Eigenschaften, zwei Fertigkeiten, einen Beruf und zwei positive Merkmale haben. Die Punkte können verschoben werden, wobei jeweils eine Eigenschaft zu einer Fertigkeit, einem Beruf oder einem Merkmal werden kann (und umgekehrt). 
+**Daten: Ein angehender Held kann 7 starke Werte (Δ). 
 
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll. 
 
 *Er stellt ihn sich als gewandten Menschen vor, sowohl körperlich als auch in Sprache und Stil. Natürlich soll er auch kämpfen können, und die Kunst des Flirtens ist ein Muss. Seine starken Eigenschaften findet er direkt aus seiner Beschreibung: 
 *Gewandtheit und persönlichen Stil. 
 
-*Auch die beiden Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
+*Auch die Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
 
 <fuss>Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen. 
 
 
 
 
-*Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
+*Nur bei Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
 
-*Das zweite Merkmal ersetzt er nach einigem Nachdenken jedoch lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
+*Statt einem weiteren Merkmal wählt er nach einigem Nachdenken lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
 
 *Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder. 
 
