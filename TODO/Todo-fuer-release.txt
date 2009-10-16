@@ -1,10 +1,14 @@
 2.4.0: 
 
+- Händische Worttrennung. 
+- Korrekturen von Achim: Leere Teile der Seitenleisten überdecken (weiß).
+
+2.3.5: 
+
 Todo: 
 
-- Korrekturen von Julian. Seitenleisten prüfen + in Scribus. 
-- Korrekturen von Achim: Leere Teile der Seitenleisten überdecken.
-- Händische Worttrennung. 
+- Korrekturen von Julian. Seitenleisten prüfen + in Scribus integrieren. 
+- Korrekturen von Achim: Prüfen ob wir noch was für die halbleeren Seitenleisten haben, z.B. Bilder. 
 - Charheft auch im PDF mitliefern (via Script anfügen). 
 
 Erledigt: 
@@ -36,6 +40,7 @@ Prüfen, ob lieber nur Punkte oder nur Dreiecke.
 
 
 2.0.9: 
+
 - Versionsnummer auf 2.2 erhöhen. 
 
 Erledigt: 
@@ -43,6 +48,7 @@ Erledigt:
 - GPL Faltblatt überarbeiten: Anfangszeile, GPL Logo, Textstil unten. 
 
 2.0.9: 
+
 - Korrekturen von Achim Zien eingepflegt. 
 - Korrekturen von Jens Stengel eingepflegt. 
 - Korrekturen von Arne Babenhauserheide und Roland eingepflegt.
