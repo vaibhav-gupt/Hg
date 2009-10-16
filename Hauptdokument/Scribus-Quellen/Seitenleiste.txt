@@ -228,45 +228,6 @@ Die Charaktere können über das Schicksal ihres Landes mitentscheiden.
 
 
 
-#Machtniveaus mit Werten
-Schema: 
-Eigenschaften, Fertigkeiten|Beruf / Hintergrund, Merkmale. 
-(Eig, Fert|Ber, Merk)
-
-1Δ ist ein starker Wert
--1Δ ist eine Schwäche
-
-1: In der Gosse/Spiel ganz unten: 
-(-1Δ, 1Δ, -1Δ)
-
-2: Normale Leute: 
-(1Δ, 1Δ|1Δ, 1Δ)
-
-3: Angehende Helden: 
-(2Δ, 2Δ|1Δ, 2Δ)
-
-4: Erfahrene Helden:
-(3Δ, 3Δ|2Δ, 3Δ)
-
-5: Beweger: 
-(4Δ, 4Δ|4Δ, 4Δ)
-
-6: Mächtige unter den Mächtigen: 
-(6Δ, 6Δ|6Δ, 6Δ)
-
-7: Halbgötter: 
-(10Δ, 10Δ|10Δ, 10Δ)
-
-
-
-
-
-
-
-
-
-
-
 #Persönliche Gegenstände
 Im EWS gibt es zwei Arten von Ausrüstung: Normalen Besitz und persönliche Gegenstände. 
 
