@@ -1,12 +1,18 @@
 2.4.0: 
 
+Todo: 
+
 - Korrekturen von Julian. Seitenleisten prüfen + in Scribus. 
 - Korrekturen von Achim: Leere Teile der Seitenleisten überdecken.
 - Händische Worttrennung. 
 - Charheft auch im PDF mitliefern (via Script anfügen). 
 
+Erledigt: 
+
 
 2.3.4: 
+
+Erledigt: 
 
 - Korrekturen Von Julian: 
 
