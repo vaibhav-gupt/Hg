@@ -1,5 +1,11 @@
 2.4.0: 
 
+- Korrekturen von Julian. Seitenleisten prüfen
+- Korrekturen von Achim: Leere Teile der Seitenleisten überdecken.
+- Händische Worttrennung. 
+
+2.3.4: 
+
 - Korrekturen Von Julian: 
 
 Prüfen, ob lieber nur Punkte oder nur Dreiecke. 
