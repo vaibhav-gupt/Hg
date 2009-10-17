@@ -56,9 +56,9 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 
 #Beruf und Hintergrund
 
-Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
+Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf oder Hintergrund gehören, mit dessen jeweiligem Wert.  
 
-**Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
+**Wie Fertigkeiten erhalten auch Beruf und Hintergrund Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
 
 *Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
 
@@ -302,39 +302,53 @@ Und hiermit ist er fertig.
 
 
 Die Erschaffung von Lazaro war die einfachste Möglichkeit Charaktere zu erschaffen. Es sind allerdings auch bei weitem komplexere Charaktere möglich. 
-Dabei gelten die folgenden sechs Regeln: 
+Dabei gelten die folgenden fünf Regeln: 
 
 ##1) Werte von Eigenschaften und Merkmalen
 **Während der Erschaffung werden Werte nur durch Plusse ("+") und Minusse ("-") ausgedrückt. 
 **Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18. 
 **Jedes weitere "+" erhöht den Wert um drei Punkte, jedes weitere Minus senkt ihn um drei Punkte. 
 **Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse. 
+**Für Eigenschaften gilt also: 
+
+**- = 9
+**± = 12 (wird nicht aufgeschrieben)
+**+ = 15
+**++ = 18
 
 ##2) Werte von Fertigkeiten und Berufen
 **Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält. 
 **Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
 **Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. 
 **Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
-**Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht. 
+**Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht.
+**Für Fertigkeiten gilt damit (Berufe sind 3 Punkte niedriger): 
+
+**+ = 12 (plus Boni aus Regel 5)
+**++ = 15 (plus Boni)
+**+++ = 18 (plus Boni)
 
 ##3) Kosten
-**Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
+**Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um auf den entsprechenden Wert zu kommen: 
 **+: 1 Dreieck (Δ) Kosten
 **++: 3 Dreiecke (Δ) Kosten
 **+++: 6 Dreiecke (Δ)
 **++++: 10 Dreiecke (Δ)
 
-##4) Dreiecke verschieben
-**Dreiecke können verschoben werden, um andere Bereiche zu steigern. 
-**Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (Schreiber) oder ein positives Merkmal (z.B. Extremverdauung) nehmen. 
-
-##5) Stärken für Schwächen
-**Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
+##4) Stärken für Schwächen
+**Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ). Stärker negative Werte geben genauso viele Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
 **Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Dreiecke (Δ) erhält (siehe Regel 4). 
+**Damit gilt: 
 
-##6) Eigenschaftsboni
+**-: gibt 1 Dreieck (Δ)
+**--: gibt 3 Dreiecke (Δ)
+**---: gibt 6 Dreiecke (Δ)
+
+##5) Eigenschaftsboni
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. 
 **Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
+
+**Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften. Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft. 
 
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
@@ -647,11 +661,19 @@ Dabei sind 1 bis 3 Striche pro Spielabend durchschnittlich für normale bis held
 
 Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt werden, um deren Werte zu steigern. 
 
-**Für die Steigerung von Eigenschaften müssen Spielerinnen dabei pro Punkt eine Anzahl von Strichen gleich der Plusse der nächsten Schwelle aufbringen, während bei Fertigkeiten pro Punkt ein Strich mehr benötigt wird (also so viele Striche wie sie bei einer drei Punkte höheren Eigenschaft brauchen würden, ähnlich wie bei der Erschaffung im vobsy). 
+**Für die Steigerung von Eigenschaften oder Fertigkeiten müssen Spielerinnen dabei pro Punkt eine Anzahl von Strichen gleich der Anzahl der Plusse der nächsten Schwelle aufbringen. 
 
 **Zur Berechnung der Kosten von Fertigkeiten wird der Grundwert genommen. 
 
-<fuss>Ein Beispiel gibt es auf S. 36 bis 38. 
+**Beispiel: 
+**Kochen 12 (+)
+**1. Strich: Kochen 12 (+)
+**2. Strich: Kochen 13 (+)
+**...
+**6. Strich: Kochen 15 (++)
+**9. Strich: Kochen 16 (++)
+
+<fuss>Ein längeres Beispiel gibt es auf S. 36 bis 38. 
 
 
 
@@ -662,7 +684,13 @@ Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusamme
  ^ : Zwei Striche
  Δ : Drei Striche: Dreieck
 
-**Sobald alle nötigen Dreiecke gezeichnet sind, steigt die Fertigkeit auf die nächste Schwelle, d.h. Die Dreiecke werden zu Plussen und die nächste Steigerung wird teurer. 
+**Sobald du eine Anzahl von Dreiecken gleich der Plusse der nächsten Schwelle gezeichnet hast, fängst du wieder von vorne an (musst aber ein Dreieck mehr zeichnen, da du die nächste Schwelle erreicht hast). Dein Wert steigt um einen Punkt, wenn du für alle nötigen Dreiecke eine weitere Seite gezeichnet hast. Bei Eigenschaften gilt damit z.B.: 
+
+*+: 15
+*+,´´: 16
+*+,^^: 17
+*+,ΔΔ: 18 = ++
+*++,´´´: 19
 
 #Striche pro Abend
 
@@ -692,7 +720,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 *Nachdem er in diesem Abenteuer regen Kontakt mit feinen Damen genießen konnte und aus schwierigen Lagen eher durch seine flinke Zunge und seine Freunde entkommen konnte, als durch seinen Degen, entscheidet sich Lazaros Spieler Sven, sowohl Charisma, als auch die Kunst des Flirtens zu steigern. 
 
-*Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Charisma ist eine Eigenschaft, also braucht er für die Steigerung um einen Punkt zwei Striche, nämlich einen für jedes Plus der nächsten Schwelle. 
+*Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Für die Steigerung um einen Punkt braucht er also zwei Striche: Einen für jedes Plus der nächsten Schwelle. 
 
 *Weil er das ganze Abenteuer über immer wieder Charisma genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Dreiecke nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt. 
 
@@ -703,7 +731,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 
 
-*Die verbleibenden Striche will er nutzen, um die "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens + ist (sehr gut: 15), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
+*Die verbleibenden Striche will er nutzen, um die Fertigkeit "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens ++ ist (15: sehr gut), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
 
 
 
@@ -721,9 +749,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 
 
-*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht + (sehr gut: 15) und geht auf ++ zu (überragend: 18). 
-
-**Fertigkeiten kosten damit in der Steigerung je Punkt einen Strich mehr als Eigenschaften derselben Höhe, denn sie erhalten zusätzlich zu ihrem Grundwert die Boni durch zwei passende Eigenschaften. 
+*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht ++ (15: sehr gut) und geht auf +++ zu (18: überragend). 
 
 *Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 
