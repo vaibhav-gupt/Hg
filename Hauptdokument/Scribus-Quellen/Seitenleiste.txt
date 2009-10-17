@@ -264,7 +264,7 @@ Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit aus
 
 Auf S. 26 und 27 gibt es eine Liste mit Beispielwaffen und Rüstungen. 
 
-Besonderheiten erhöhen die effektiven Punkte: 
+Besonderheiten erhöhen die effektiven Kosten: 
 
 Eine verborgenen Waffe oder Rüstung kostet doppelt, Waffen mit Gift oder Waffen, die die Rüstung ignorieren, kosten dreifach. 
 
