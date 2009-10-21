@@ -55,9 +55,30 @@ Beispiele für Formen/Zauber
 
 ### Materie beherrschen
 
-*Die Aktivieren-Probe hat einen Malus durch Gewicht.*
+* Die Aktivieren-Probe hat einen Malus durch Gewicht • Geschwindigkeit
+* Die Formen-Probe legt die Komplexität der Bewegung fest, inklusive Beschleunigung und Dauer. 
 
-#### Einfach (Einfache Bewegungen)
+#### Aktivieren-Schwierigkeit durch Gewicht
+
+* Routine (6): Leere Tasse (200g)
+* Einfach (9): Faustgroßer Stein (~5kg)
+* Fordernd (12): Mensch (100kg)
+* Schwer (15): Pferd (250kg)
+* Überragend (18): Kutsche ohne Pferde (500kg)
+
+Wenn jemand gegenwürfelt gilt die Differenz zwischen 12 und dem Mindestwurf als Bonus/Malus für den Magier. 
+
+#### Modifikation des Aktivieren-MW durch Geschwindigkeit
+
+* Sehr langsam: -3
+* Langsam: ±0
+* Etwas schneller: +3
+* Schnell (Kampftauglich): +6
+* Sehr schnell (Pfeil): +9
+
+#### Beispiele für Formen
+
+##### Routine (Einfache Bewegungen)
 
 - Ding holen (Lässt ein Ding auf den Mönch zufliegen)
 - Ding schweben lassen (Lässt ein Ding nach oben schweben)
@@ -65,32 +86,40 @@ Beispiele für Formen/Zauber
 - Ziehen (Zieht an einem Ding)
 - Werfen (Lässt ein Ding in einer geraden Bahn fliegen)
 
-#### Mittel (Ding entlang eines Pfades bewegen)
+##### Einfach (Ding entlang eines Pfades bewegen)
 
-- Fliegen (Dinge fliegen lassen und dabei beeinflussen)
-- Hindernis (Dinge aus der Umgebung werden angezogen und    
-bombardieren das Ziel)
+- Fliegen (Ein Ding fliegen lassen und dabei beeinflussen)
 - Schweben und bewegen (Lässt ein Ding Schweben und sich dabei bewegen)
-- Telekinetische Wand erzeugen die eine Barriere dastellt und diese 
-bewegen
-- Telekinetische Kugel (Das Ziel wird in einer unsichtbaren Kugel 
-eingeschlossen
-- Reflektierende Kugel (Eine unsichtbare Kugel welche Geschosse 
-reflektiert)
 
-#### Stark (Die Zauber werden "intelligent")
+##### Fordernd
+
+- Hindernis (Dinge aus der Umgebung werden angezogen und bombardieren das Ziel)
+- Telekinetische Wand erzeugen die eine Barriere dastellt und diese bewegen
+- Telekinetische Kugel (Das Ziel wird in einer unsichtbaren Kugel eingeschlossen
+- Reflektierende Kugel (Eine unsichtbare Kugel welche Geschosse reflektiert)
+
+##### Stark (Die Zauber werden "intelligent")
 
 - Ding kämpfen lassen
-- Fliegen (Lässt den Mönch fliegen und seinen Flug steuern)
 - Splatter (Lässt ein Ding von innen heraus zerplatzen)
 
-#### Sehr Stark (Sehr kleine Dinge genau kontrollieren)
+##### Sehr Stark (Sehr kleine Dinge genau kontrollieren)
 
-- Die Blutversorgung zum Gehirn unterbrechen indem die Schlagader 
-zugedrückt wird
+- Die Blutversorgung zum Gehirn unterbrechen indem die Schlagader zugedrückt wird
 - Das Herz seines Gegners aus der Brust reißen
 - Luft beeinflussen um einen Sturm zu erzeugen
 
+
+#### Kombiniert
+
+* Schwert kämpfen lassen (<5kg): Formen 15, Aktivieren 15
+* Telekinetische Wand (Menschen müssen Stärke gegen Aktivieren-Ergebnis würfeln): Formen 12, Aktivieren 12
+* Blutversorgung kappen: Formen 18, Aktivieren 6
+* Kräftiger Luftstoß (8 Liter Luft): Formen 9, Aktiveren 15
+
+#### Schaden verursachen
+
+Bei Techniken, die direkt einen Gegner schädigen, würfelt der Gegner gegen das Ergebnis des Mönches.  Der Mönch erhält dabei einen Bonus von (12 - Mindestwurf).  Gewinnt der Mönch, so erhält der Gegner Schaden in Höhe der Differenz + 6 Punkte.  Wenn genug Schaden verursacht wird, kann der Mönch dem Gegner zufügen, was er vorhatte, sonst gelingt nur ein Teil, und er muss erneut angreifen, bis der Schaden ausreicht.  
 
 Notizen
 -------
