@@ -55,6 +55,8 @@ Beispiele für Formen/Zauber
 
 ### Materie beherrschen
 
+*Die Aktivieren-Probe hat einen Malus durch Gewicht.*
+
 #### Einfach (Einfache Bewegungen)
 
 - Ding holen (Lässt ein Ding auf den Mönch zufliegen)
