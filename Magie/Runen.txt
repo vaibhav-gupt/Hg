@@ -5,9 +5,9 @@ Grundsystem
 -----------
 
 1. Eigenschaft Chi: Sinkt um ein + je gesprochenem Zauber. 
-2. Fertigkeit Meditieren: Wurf gegen 9. Bei Erfolg ein + Chi zurückm pro 3 Punkte über 9 ein weiteres +.
-3. Fertigkeit Formen: Mindestwurf = Schwierigkeit des Zaubers (Stärke und Komplexität) 
-4. Fertigkeit Aktivieren: Mindestwurf = Widerstand des Ziels
+2. Fertigkeit Meditieren: Wurf gegen 9. Bei Erfolg ein + Chi zurück, pro 3 Punkte über 9 ein weiteres +.
+3. Fertigkeit Formen: Mindestwurf = Schwierigkeit des Zaubers (Tiefe des Einflusses und Komplexität) 
+4. Fertigkeit Aktivieren: Mindestwurf = Widerstand des Ziels. Bei willigem Ziel 3 bis 6 Punkte Bonus. Bei starkem Widerstand Mali (z.B. "Töte deine Frau" -> 9 Punkte Malus)
 5. Merkmal Runen-Verben: Je + eine Rune
 6. Merkmal Runen-Subjekte: Je + eine Rune
 7. Merkmal Zauber: Je + ein Zauber
@@ -16,10 +16,78 @@ Grundsystem
 10. Mehrere Ziele: Pro Ziel eines Zaubers -3 auf Formen. Aktivieren einmal; alle gegner würfeln dagegen, wirkt auf die, die schwächer sind. 
 (11. da Verlust an Chi: Je gesprochenem Zauber ein Puntk Malus auf alle späteren -> der gleiche Malus wie auch Chi)
 
-Beispiele für Zauber
---------------------
+Beispiele für Formen/Zauber
+---------------------------
 
-TODO: Zauberbeispiele mit MW für Formen sammeln. 
+*Mit Mindestwürfen für den Formen-Wurf: Die Komplexität + Tiefe des Einflusses - danach muss noch ein Aktivieren-Wurf gegen das Ziel gelingen!*
+
+### Subjekt Geist + Verb beherrschen
+
+#### Routine
+
+- Eigene Emotionen verstärken / schwächen (Hilft bei der Meditation)
+- Eigene Emotionen lesen
+
+#### Einfach (Emotionen)
+
+- Emotionen verstärken / schwächen (Eine schon vorhandene vielleicht auch unterdrückte Emotion ausbrechen lassen)
+- Emotionen lesen (Erkennen welche Emotionen vorherrschend im Geist des Gegenüber vorhanden sind)
+- Eigenen Geist härten
+
+#### Fordernd (Momentane Gedanken)
+
+- Geist härten
+- Emotion erzeugen (Erzeugt eine Emotion die noch nicht vorhanden ist)
+- Gedanken eingeben (Gibt einen Gedanken in den Geist ein welcher die Oberhand gewinnt)
+- Gedanken lesen (Liest die momentanen Gedanken des Ziels)
+- (Obere Mittelklasse) Emotion nehmen (Nimmt dem Gegenüber für eine bestimmte Zeit eine Emotion wie z.B. Hass)
+
+#### Schwer (Bis zum Unterbewusstsein)
+
+- Koma verursachen (Trennt den Geist des Gegenüber von seinem Körper und versetzt diesen in einen komatösen Zustand)
+- Erinnerungen manipulieren / löschen
+- Gedächtnis lesen (Liest das komplette Gedächtnis der Person und lässt den Mönch gezielt nach Erinnerungen suchen)
+
+#### Überragend und höher (Alles :-])
+
+- Neue Persönlichkeit erzeugen (Die alte Persönlichkeit des Gegenüber wird ins Unterbewusstsein verschoben und durch die neue Pesönlichkeit ersetzt diese verliert alle Erinnerungen an den Eingriff.
+
+
+### Materie beherrschen
+
+#### Einfach (Einfache Bewegungen)
+
+- Ding holen (Lässt ein Ding auf den Mönch zufliegen)
+- Ding schweben lassen (Lässt ein Ding nach oben schweben)
+- Drücken (Drückt gegen ein Ding)
+- Ziehen (Zieht an einem Ding)
+- Werfen (Lässt ein Ding in einer geraden Bahn fliegen)
+
+#### Mittel (Ding entlang eines Pfades bewegen)
+
+- Fliegen (Dinge fliegen lassen und dabei beeinflussen)
+- Hindernis (Dinge aus der Umgebung werden angezogen und    
+bombardieren das Ziel)
+- Schweben und bewegen (Lässt ein Ding Schweben und sich dabei bewegen)
+- Telekinetische Wand erzeugen die eine Barriere dastellt und diese 
+bewegen
+- Telekinetische Kugel (Das Ziel wird in einer unsichtbaren Kugel 
+eingeschlossen
+- Reflektierende Kugel (Eine unsichtbare Kugel welche Geschosse 
+reflektiert)
+
+#### Stark (Die Zauber werden "intelligent")
+
+- Ding kämpfen lassen
+- Fliegen (Lässt den Mönch fliegen und seinen Flug steuern)
+- Splatter (Lässt ein Ding von innen heraus zerplatzen)
+
+#### Sehr Stark (Sehr kleine Dinge genau kontrollieren)
+
+- Die Blutversorgung zum Gehirn unterbrechen indem die Schlagader 
+zugedrückt wird
+- Das Herz seines Gegners aus der Brust reißen
+- Luft beeinflussen um einen Sturm zu erzeugen
 
 
 Notizen
@@ -28,3 +96,6 @@ Notizen
 Formen wäre dann "Ich lasse Schweben" oder "ich lassen den Oger die Waffe des Gardehauptmanns packen und in einem graziösen Schwerttanz die gesamte Waffe niedermetzeln"
 
 Aktivieren ist: Ich zwinge einen Bleistift zum Schweben oder ich zwinge einen oger zum Schweben. 
+
+
+
