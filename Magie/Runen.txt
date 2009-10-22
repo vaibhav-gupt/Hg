@@ -80,11 +80,13 @@ Wenn jemand gegenwürfelt gilt die Differenz zwischen 12 und dem Mindestwurf als
 
 ##### Routine (Einfache Bewegungen)
 
-- Ding holen (Lässt ein Ding auf den Mönch zufliegen)
+- Ding holen (Lässt ein Ding auf den Mönch zufliegen - ungelenkt => Fang es auf!)
 - Ding schweben lassen (Lässt ein Ding nach oben schweben)
 - Drücken (Drückt gegen ein Ding)
 - Ziehen (Zieht an einem Ding)
 - Werfen (Lässt ein Ding in einer geraden Bahn fliegen)
+
+*Mehrere Objekte zu manipulieren erhöht den Mindestwuwrf um 3 Punkte. Bei aktivem Widerstand würfelt der Magier einmal und dann würfelt jedes Ziel dagegen. Jedes Ziel, das nicht über den Wert das Magiers kommt, wird beeinflusst.*
 
 ##### Einfach (Ding entlang eines Pfades bewegen)
 
@@ -93,40 +95,221 @@ Wenn jemand gegenwürfelt gilt die Differenz zwischen 12 und dem Mindestwurf als
 
 ##### Fordernd
 
+- Mehrere Dinge fliegen lassen
 - Hindernis (Dinge aus der Umgebung werden angezogen und bombardieren das Ziel)
 - Telekinetische Wand erzeugen die eine Barriere dastellt und diese bewegen
 - Telekinetische Kugel (Das Ziel wird in einer unsichtbaren Kugel eingeschlossen
 - Reflektierende Kugel (Eine unsichtbare Kugel welche Geschosse reflektiert)
 
-##### Stark (Die Zauber werden "intelligent")
+##### Sehr Schwer (Die Zauber werden "intelligent")
 
+- Sehr viele Dinge fliegen lassen
 - Ding kämpfen lassen
 - Splatter (Lässt ein Ding von innen heraus zerplatzen)
+- Kleines Steinchen als Geschoss verwenden
 
-##### Sehr Stark (Sehr kleine Dinge genau kontrollieren)
+##### Überragend (Sehr kleine Dinge genau kontrollieren)
 
 - Die Blutversorgung zum Gehirn unterbrechen indem die Schlagader zugedrückt wird
 - Das Herz seines Gegners aus der Brust reißen
-- Luft beeinflussen um einen Sturm zu erzeugen
+- Luft beeinflussen um einen Wirbelsturm zu erzeugen
+- Mehrere kleine Steinchen (3-5) sehr exakt beschleunigen (Gewehrkugeln)
+
+##### Superb
+
+- Kugelhagel aus Steinchen (Trommelfeuer)
+
+##### Legendär
+
+- Disintegrieren: Etwas in seine Moleküle auflösen
 
 
-#### Kombiniert
+#### Kombiniert -> fertige Aktionen
 
-* Schwert kämpfen lassen (<5kg): Formen 15, Aktivieren 15
+* Schwert kämpfen lassen (<5kg): Formen 15, Aktivieren 15 (Schwert hat Fertigkeit = Formen-Ergebnis - 3 und Eigenschaften = Aktivieren-Ergebnis - 3)
 * Telekinetische Wand (Menschen müssen Stärke gegen Aktivieren-Ergebnis würfeln): Formen 12, Aktivieren 12
-* Blutversorgung kappen: Formen 18, Aktivieren 6
+* Blutversorgung kappen: Formen 18, Aktivieren 6 (also Bonus von 6 gegen das Ziel, dafür nur Betäubungsschaden)
 * Kräftiger Luftstoß (8 Liter Luft): Formen 9, Aktiveren 15
 
 #### Schaden verursachen
 
 Bei Techniken, die direkt einen Gegner schädigen, würfelt der Gegner gegen das Ergebnis des Mönches.  Der Mönch erhält dabei einen Bonus von (12 - Mindestwurf).  Gewinnt der Mönch, so erhält der Gegner Schaden in Höhe der Differenz + 6 Punkte.  Wenn genug Schaden verursacht wird, kann der Mönch dem Gegner zufügen, was er vorhatte, sonst gelingt nur ein Teil, und er muss erneut angreifen, bis der Schaden ausreicht.  
 
+Geschosse verursachen Schaden entsprechend ihrem Gegenstück bei Waffen: Steinchen wie Pistole: 4 plus Differenz (Formen-Wurf!) pro Steinchen. 
+
+
+#### Wahrscheinlichkeiten
+
+*Für verschiedene Beispiele*
+
+##### Novize
+
+*Nur Beruf "Mönch" auf 6 => Formen 6, Aktivieren 6*
+
+* Tasse schweben lassen
+    - MW: Formen 6, Aktivieren 6/3 (langsam/sehr langsam)
+    - Chance: 25% / 41,6% (langsam/sehr langsam)
+
+* Stein hochschweben und jemandem auf den Kopf fallen lassen
+    - MW: Formen 6, Aktivieren 9
+    - Chance: 16,6%
+
+* Eine Tasse kreisen lassen
+    - MW: Formen 9, Aktivieren 6
+    - Chance: 16,6%
+
+* Schwacher Windstoß (170 Liter Luft)
+    - MW: Formen 9, Aktivieren 6 (200g, langsam)
+    - Chance: 16,6%
+
+* Drei Tassen Jonglieren (ein paar Gegenstände, einfach => fordernd)
+    - MW: Formen 12, Aktivieren 6
+    - Chance: 8,3%
+
+*Novizen brauchen meist etwa 2 Versuche, um eine Tasse schweben zu lassen. Alles andere ist Glückssache.*
+
+##### Durchschnittlicher Mönch, ohne Spezialisierung auf Magie
+
+*Beruf Mönch auf 9, mit einer passenden Eigenschaft => Wert 10 (Formen/Aktivieren).*
+
+* Tasse schweben lassen
+    - MW: Formen 6, Aktivieren 6/3 (langsam/sehr langsam)
+    - Chance: 69,4% / 83% (langsam/sehr langsam)
+
+* Stein hochschweben und jemandem auf den Kopf fallen lassen
+    - MW: Formen 6, Aktivieren 9
+    - Chance: 55,5%
+
+* Eine Tasse kreisen lassen
+    - MW: Formen 9, Aktivieren 6
+    - Chance: 55,5%
+
+* Schwacher Windstoß (170 Liter Luft)
+    - MW: Formen 9, Aktivieren 6 (200g, langsam)
+    - Chance: 55,5%
+
+* Drei Tassen Jonglieren (ein paar Gegenstände, einfach => fordernd)
+    - MW: Formen 12, Aktivieren 6
+    - Chance: 41,6%
+
+* Waffe heranziehen
+    - MW: Formen 6, Aktivieren 12 (5kg, etwa schneller)
+    - Chance: 41,6%
+
+* Telekinetische Wand (Menschen müssen Stärke gegen Aktivieren-Ergebnis würfeln)
+    - MW: Formen 12, Aktivieren 12
+    - Chance: 25%
+
+* Schwert kämpfen lassen (<5kg) 
+    - MW: Formen 15, Aktivieren 15 (Schwert hat Fertigkeit = Formen-Ergebnis - 3 und Eigenschaften = Aktivieren-Ergebnis - 3)
+    - Chance: 2,7%
+
+*Normale Mönche mit den Runen Materie und beherrschen können Tassen und leichtere Gegenstände meist direkt schweben lassen. Sie brauchen normalerweise etwa 4 Versuche, um eine Wand zu errichten (also etwas weniger als 8s, da wenn schon der erste Wurf fehlschlägt nur eine Runde benötigt wird).*
+
+##### Magier-Mönch
+
+*Fertigkeit Formen und Aktivieren jeweils auf 12 (+), mit Eigenschaftsboni auf 14*
+
+* 100% (=> ohne kritische Treffer (Modul krit) kein Wurf nötig)
+    - Tasse schweben lassen
+    - Stein hochschweben und jemandem auf den Kopf fallen lassen
+    - Eine Tasse kreisen lassen
+    - Schwacher Windstoß (170 Liter Luft)
+
+* Drei Tassen Jonglieren (ein paar Gegenstände, einfach => fordernd)
+    - MW: Formen 12, Aktivieren 6
+    - Chance: 66,6%
+
+* Waffe heranziehen
+    - MW: Formen 6, Aktivieren 12 (5kg, etwa schneller)
+    - Chance: 66,6%
+
+* Mensch schweben lassen
+    - MW: Formen 6, Aktivieren 12
+    - Chance: 66,6%
+
+* Telekinetische Wand (Menschen müssen Stärke gegen Aktivieren-Ergebnis würfeln)
+    - MW: Formen 12, Aktivieren 12
+    - Chance: 44,4%
+
+* Kräftiger Windstoß (170 Liter Luft)
+    - MW: Formen 9, Aktivieren 15 (sehr schnell)
+    - Chance: 50%
+
+* Schwert kämpfen lassen
+    - MW: Formen 15, Aktivieren 15
+    - Chance: 25%
+
+* Ein Steinchen als Geschoss
+    - MW: Formen 15, Aktivieren 15
+    - Chance: 25%
+
+*Magier-Mönche können Standard-Aktionen jederzeit (brauchen trotzdem 2s). Sie brauchen häufiger mehr als einen Versuch, um ihre Waffe schnell heranzuziehen oder eine Wand zu errichten.*
+
+##### Erfahrener Magier-Mönch
+
+*Formen und Aktivieren auf 15 (++), mit Eigenschaftsboni (durchschnittlich wohl +3) auf 18*
+
+* 100% (=> kein Wurf nötig)
+    - Tasse schweben lassen
+    - Stein hochschweben und jemandem auf den Kopf fallen lassen
+    - Eine Tasse kreisen lassen
+    - Schwacher Windstoß (8 Liter Luft)
+    - Drei Tassen Jonglieren
+    - Waffe heranziehen
+    - Mensch schweben lassen
+    - Telekinetische Wand (Menschen müssen Stärke gegen Aktivieren-Ergebnis würfeln)
+
+* Kräftiger Windstoß (8 Liter Luft)
+    - MW: Formen 9, Aktivieren 15 (schnell)
+    - Chance: 83%
+
+* Schwert kämpfen lassen
+    - MW: Formen 15, Aktivieren 15
+    - Chance: 69%
+
+* Ein Steinchen als Geschoss
+    - MW: Formen 15, Aktivieren 15
+    - Chance: 69,4%%
+
+* Blutversorgung kappen
+    - MW: Formen 18, Aktivieren 6 (also Bonus von 6 gegen das Ziel, dafür nur Betäubungsschaden)
+    - Chance: 50%
+
+* 3 bis 5 Steinchen als Geschosse
+    - MW: Formen 18, Aktivieren 15
+    - Chance: 41,6%
+
+* Kleiner Wirbelsturm
+    - MW: Formen 18, Aktivieren 21 (sehr schnell, 100kg ~ 86 m³ Luft ~ 2 Zimmer voll Luft)
+    - Chance: 16,6%
+
+*Erfahrene Magier-Mönche können ihre Fähigkeiten sehr frei einsetzen. Nur bei komplexerem oder stärkeren Aktionen müssen sie noch würfeln.*
+
+##### Überragende Magier-Mönche
+
+*Fertigkeit 18 (+++), durch Eigenschaftsboni 22*
+
+* Blutversorgung kappen: 83%
+* 3-5 Steinchan als Geschosse: 83%
+* Mensch kämpfen lassen: 83%
+* Kleiner Wirbelsturm: 55,5%
+* Kugelhagel: 66,6%
+* Mensch disintegrieren
+    - MW: Formen 24, Aktivieren: 15 (100kg, langsam - entspricht 3 Punkten Malus beim Wurf gegen eine passene Eigenschaft des Gegners, muss insgesamt Schaden in Höhe von 6*Eigenschaft verursachen, bis der Gegner ganz disintegriert ist)
+    - Chance: 33,3%
+
+Offene Fragen
+-------------
+
+* Maximalhöhe für Schweben? 
+* Maximaldauer für Aktionen? 
+* Spielbalance? 
+
 Notizen
 -------
 
-Formen wäre dann "Ich lasse Schweben" oder "ich lassen den Oger die Waffe des Gardehauptmanns packen und in einem graziösen Schwerttanz die gesamte Waffe niedermetzeln"
+Der Unterschied in Formen wäre dann "Ich lasse den Oger Schweben" oder "ich lassen den Oger die Waffe des Gardehauptmanns packen und in einem graziösen Schwerttanz die gesamte Wache niedermetzeln"
 
-Aktivieren ist: Ich zwinge einen Bleistift zum Schweben oder ich zwinge einen oger zum Schweben. 
-
-
+Der Unterschied in Aktivieren ist: Ich zwinge einen Bleistift zum Schweben oder ich zwinge einen Oger zum Schweben. 
 
