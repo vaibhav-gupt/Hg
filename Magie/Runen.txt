@@ -303,9 +303,9 @@ Geschosse verursachen Schaden entsprechend ihrem Gegenstück bei Waffen: Steinch
 Offene Fragen
 -------------
 
-* Maximalhöhe für Schweben? 
-* Maximaldauer für Aktionen? 
-* Spielbalance? 
+* Maximalhöhe für Schweben? -> 1/2 m
+* Maximaldauer für Aktionen? -> Siehe Regel 12: aufrechterhalten
+* Spielbalance? -> Testen! :)
 
 Notizen
 -------
