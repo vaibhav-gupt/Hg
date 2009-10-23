@@ -1,7 +1,6 @@
 Standardabweichung beim Würfeln (Binomialverteilung)
 ====================================================
 
-
 Wie Unwahrscheinlich ist es, bei N Würfen n 6-er zu würfeln. 
 
 * Wahrscheinlichkeit für 6: p = 1/6 
@@ -95,7 +94,14 @@ Ziel: Schauen wie viele 6-er als eine deutliche Abweichung zählen (6 Standardab
 
 Das entspricht 14 Standardabweichungen. Wenn ihr das also schon einmal geschafft haben solltet, habt ihr entweder belegt, dass euer Würfel sehr unbalanciert ist, dass die statistische Physik noch etwas zu lernen hat, oder dass ihr einfach Glück hattet (es gibt sehr viele Shadowrunner da draußen - bei 100.000 Spielern sollten etwa 500 das geschafft haben). 
 
-Und da ich gerade dabei bin: Nehmen wir mal optimistisch an, dass weltweit nicht 100.000, sondern eine Million Spieler Shadowrun spielen. Sollte auch nur einer von denen **17 Sechser hintereinander** gewürfelt haben, sind das schon 7 Standardabweichungen - das heißt, 
+Und da ich gerade dabei bin: Nehmen wir mal optimistisch an, dass weltweit nicht 100.000, sondern eine Million Spieler Shadowrun spielen. Sollte auch nur einer von denen **17 Sechser hintereinander** gewürfelt haben, sind das schon 7 Standardabweichungen - also ein Beleg für statistisches Artefakt von Industrieller Signifikanz. 
+
+(ihr könnt das prüfen, indem ihr das hier in einen Python-Interpreter eingebt - Es gibt an, wie oft 17 Sechser bei 6 Standard-Abweichungen klappen sollten (0,816 mal): 
+
+     from __future__ import division
+     from math import sqrt
+     (sqrt((1/6)**17 * (1 - (1/6)**17) * 300000000000))*6 + (1/6)**17 * 300000000000
+)
 
 Wenn ihr also die statistische Physik in Schwierigkeiten bringen wollt, schaut euch doch mal um, ob ihr jemanden kennt, der glaubwürdig mindestens einmal in seinem Shadowrun-Leben einen Mindestwurf von 102 geknackt hat (100 reicht nicht!) :) 
 
