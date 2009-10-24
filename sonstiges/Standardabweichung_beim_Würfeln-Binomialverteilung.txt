@@ -127,3 +127,8 @@ Das aber bei beiden seiner Angriffe auf den Endgegner zu erreichen (das waren di
 => 40 Standardabweichungen. Autsch. Der Spieler kann sich sehr wohl was darauf einbilden :) 
 
 [^4]: genaue Rechnung: (1 - (1/6)**5 * 600) / (sqrt((1/6)**5 * (1 - (1/6)**5) * 600)) = 3.3224358630842956 (via Python 3)
+
+Anmerkung2
+----------
+
+Eigentlich sollten wir einiges hier mit Poisson rechnen stattt mit Gauss - ist also mit Vorsicht zu genießen!
