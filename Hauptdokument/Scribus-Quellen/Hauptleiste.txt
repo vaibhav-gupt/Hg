@@ -208,7 +208,7 @@ Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die 
 
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden. 
 
-**Daten: Ein angehender Held kann 7 starke Werte (Δ). 
+**Daten: Ein angehender Held kann 7 starke Werte (Δ) wählen. 
 
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll. 
 
