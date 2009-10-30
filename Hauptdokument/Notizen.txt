@@ -1,4 +1,6 @@
 Notizen
 =======
 
-Eine Seitenleiste hat aktuell (v2.3.4) 41 Zeilen. 
+* Eine Seitenleiste hat aktuell (v2.3.4) 43 Zeilen.
+
+* ews-dok.sla aktualisieren: Rechtsklick auf ersten Frame der Seitenleiste -> Text Laden -> Textfilter -> "Seitenleiste" wählen -> ersten Eintrag durch "EWS Fluss" ersetzen (workaround) -> OK. Das gleiche für Hauptleiste mit Textfilder "Hauptleiste". 

@@ -222,6 +222,18 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 *Nur bei Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
 
 *Statt einem weiteren Merkmal wählt er nach einigem Nachdenken lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
@@ -319,17 +331,19 @@ Dabei gelten die folgenden fünf Regeln:
 ##2) Werte von Fertigkeiten und Berufen
 **Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält. 
 **Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
-**Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. 
-**Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
-**Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht.
-**Für Fertigkeiten gilt damit (Berufe sind 3 Punkte niedriger): 
+**Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
+**Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht. Für Fertigkeiten gilt damit (Berufe sind 3 Punkte niedriger): 
 
 **+ = 12 (plus Boni aus Regel 5)
 **++ = 15 (plus Boni)
 **+++ = 18 (plus Boni)
 
+
+
+
 ##3) Kosten
 **Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um auf den entsprechenden Wert zu kommen: 
+
 **+: 1 Dreieck (Δ) Kosten
 **++: 3 Dreiecke (Δ) Kosten
 **+++: 6 Dreiecke (Δ)
@@ -345,12 +359,11 @@ Dabei gelten die folgenden fünf Regeln:
 **---: gibt 6 Dreiecke (Δ)
 
 ##5) Eigenschaftsboni
-**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. 
-**Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
-
+**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
 **Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften. Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft. 
 
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
+
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
 
 Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen. 
@@ -359,14 +372,10 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 ##Eigenschaften: 
 - Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
 
-- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Geschwindigkeit, Finesse, Stärke, Behendigkeit... 
+- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behendigkeit... 
 
 - Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
-
 - Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
-
-
-
 
 - Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
 
@@ -376,7 +385,6 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 
 - Andere: Rang, Status, Vermögen...
 
-
 ##Fertigkeiten: 
 - Körper: Akrobatik, Entfessellung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben... 
 
@@ -385,13 +393,6 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 - Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien... 
 
 - Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie... 
-
-
-
-
-
-
-
 ##Berufe: 
 - Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde... 
 

@@ -228,6 +228,49 @@ Die Charaktere können über das Schicksal ihres Landes mitentscheiden.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Persönliche Gegenstände
 Im EWS gibt es zwei Arten von Ausrüstung: Normalen Besitz und persönliche Gegenstände. 
 
