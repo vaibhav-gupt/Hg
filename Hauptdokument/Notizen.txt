@@ -1,0 +1,4 @@
+Notizen
+=======
+
+Eine Seitenleiste hat aktuell (v2.3.4) 41 Zeilen. 
