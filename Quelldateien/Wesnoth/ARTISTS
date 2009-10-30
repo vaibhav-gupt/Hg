@@ -5,11 +5,19 @@ Portraits
 ---------
 
 From Wesnoth Core: 
+- Ancient Wose: thespaceinvader/Philip Barber
 - Archer female: Kitty/Kathrin Polikeit
 - Marksman female: Kitty/Kathrin Polikeit
 - Druid: Kitty/Kathrin Polikeit
 - Shaman: Kitty/Kathrin Polikeit
 - Marshal: LordBob/Emilien Rotival
+- Merfolk Enchantress: Kitty/Kathrin Polikeit
+- Fencer: LordBob/Emilien Rotival
+- Naga Fighter: Kitty/Kathrin Polikeit
+- Mage Female: Kitty/Kathrin Polikeit
+- Dwarven Runemaster: thespaceinvader/Philip Barber
+- Thief Female: Kitty/Kathrin Polikeit
+- Troll: Kitty/Kathrin Polikeit
 
 Part of Campaigns: 
 - Li'sar: Jetryl/Richard Kettering, tutorial
@@ -30,12 +38,14 @@ from data/core/items:
 - ball-magenta.png    eleazar                                
 - brazier-lit2.png    shadowmaster                                   
 - brazier-lit3.png    shadowmaster
+- book1.png           cedricd, eleazar, jetryl
 
 from data/core/scenery: 
 - dwarven-doors-closed.png uid68803 fmunoz hogne soliton Pekka eleazar 
 - fire1.png           zookeeper eleazar
 - nest-full.png       Eleazar Sirp uid68803 
 - shipwreck-1.png     battlestar
+- tent-ruin-1.png     battlestar, 
 
 
 Get the source-repository via: svn co svn://svn.gna.org/svn/wesnoth/trunk/data
