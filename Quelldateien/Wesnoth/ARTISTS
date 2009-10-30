@@ -1,4 +1,8 @@
-Authors of the images: 
+Authors of the images 
+=====================
+
+Portraits
+---------
 
 From Wesnoth Core: 
 - Archer female: Kitty/Kathrin Polikeit
@@ -11,3 +15,28 @@ Part of Campaigns:
 - Li'sar: Jetryl/Richard Kettering, tutorial
 - Chantal-druid: Kitty/Kathrin Polikeit, Delfadors Memoirs
 - Stalrag: Jetryl/Richard Kettering, Northern Rebirth
+- Gryphon: Alex Jarocha-Ernst
+- Assassin+female: Kitty/Kathrin Polikeit
+- Glider: Alex Jarocha-Ernst
+- Mermaid Initiate: Sleepwalker/Marcus Rosén
+- Necromancer: Kitty/Kathrin
+
+Game Data / Icons
+-----------------
+
+(data gleaned from `svn log`, until rev 35888)
+
+from data/core/items: 
+- ball-magenta.png    eleazar                                
+- brazier-lit2.png    shadowmaster                                   
+- brazier-lit3.png    shadowmaster
+
+from data/core/scenery: 
+- dwarven-doors-closed.png uid68803 fmunoz hogne soliton Pekka eleazar 
+- fire1.png           zookeeper eleazar
+- nest-full.png       Eleazar Sirp uid68803 
+- shipwreck-1.png     battlestar
+
+
+Get the source-repository via: svn co svn://svn.gna.org/svn/wesnoth/trunk/data
+More artist info: svn://svn.gna.org/svn/wesnoth/trunk/data/core/images/portraits/ARTISTS
