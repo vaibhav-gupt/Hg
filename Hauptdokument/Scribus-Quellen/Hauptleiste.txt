@@ -420,7 +420,7 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 
 
 ##Merkmale: 
-- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Altert nicht: +
+- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Unter Wasser atmen: +, Altert nicht: +
 
 - Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: --- 
 
@@ -432,7 +432,6 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 -> http://1w6.org/stichwort/merkmale
 
 Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler"). 
-
 
 
 
