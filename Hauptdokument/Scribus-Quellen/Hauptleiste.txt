@@ -61,8 +61,6 @@ Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter eine
 **Wie Fertigkeiten erhalten auch Beruf und Hintergrund Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
 
 *Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
-
-
 #Merkmale
 
 Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter zählen Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr. 
@@ -204,8 +202,6 @@ Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspiele
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. 
 
 
-<fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
-
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden. 
 
 **Daten: Ein angehender Held kann 7 starke Werte (Δ) wählen. 
@@ -218,6 +214,9 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 *Auch die Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
 
 <fuss>Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen. 
+
+<fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den fünf Regeln der Erschaffung. 
+
 
 
 
@@ -337,7 +336,6 @@ Dabei gelten die folgenden fünf Regeln:
 **+ = 12 (plus Boni aus Regel 5)
 **++ = 15 (plus Boni)
 **+++ = 18 (plus Boni)
-
 
 
 
@@ -527,7 +525,7 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 3 Meter drei Punkte, bis 9 Metern 6 Punkte und bei über 9 Metern 9 Punkte.  
 
-**Abstand: 	Bonus
+**Abstand: 	Bonus für Fernkämpfer
 **Bis 1m: 	1
 **Bis 3m: 	3
 **Bis 9m:	6
@@ -651,7 +649,8 @@ Verschiedene Spielwelten findest du auf der Webseite des Ein Würfel Systems:
 
 
 
-#Modul: Steigerung im vobsy (vost)
+
+#Steigerung (SteM)
 
 Während in One-Shots und sehr kurzen Runden die Weiterentwicklung von Charakteren meist weniger wichtig ist und einfach per Absprache gemacht werden kann, nimmt sie in langen Runden oft einen wichtigen Platz ein. 
 
@@ -697,19 +696,9 @@ Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusamme
 
 Die passendste Anzahl von Strichen pro Abend hängt von der Länge der Kampagne und von der geplanten Entwicklungsgeschwindigkeit ab. 
 
-Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. 
-
-Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. 
-Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. 
-
-Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten. 
+Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten. 
 
 <fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37. 
-
-
-
-
-
 #Beispielsteigerung
 
 *Kehren wir noch einmal zu Lazaro zurück. 
@@ -787,7 +776,13 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 
 
-#Fokusmodul: Kampf (FoKa)
+
+
+
+
+
+
+#Fokus: Kampf (FoKa)
 
 Kämpfe sind in den meisten Runden die letzte und stärkste Eskalation von Konflikten, und damit nehmen sie in vielen Geschichten einigen Raum ein. 
 
@@ -838,12 +833,9 @@ Beispiel: Lazaros Erschaffung auf S. 15.
 
 ##Niedrige Trefferpunkte
 **Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
-
 **Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. 
 **Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
-
 **Sinken seine aktuellen Trefferpunkte auf den Wert seiner Trefferpunkte im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x TP (-36) ist der Mindestwurf 18, und bei -4x TP (-48) ist er 21. 
-
 **Sinken die Trefferpunkte auf oder unter das fünffache der Trefferpunkte (z.B. auf -5x TP (-60)), dann ist er unwiederbringlich tot.
 
 Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
@@ -855,7 +847,6 @@ Erhält ein Charakter durch einen Treffer weniger als seine Wundschwelle an Scha
 **Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
 
 **Erhält er gar Schaden in Höhe der gewählten Eigenschaft, dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
-
 **Ein Charakter erhält von einer einzelnen Verletzung nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde, aber keine zwei Wunden. 
 
 Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
@@ -910,6 +901,9 @@ Alles Kampferschwerende geht als Malus ein.
 **Wenn der Charakter sich dabei zurückzieht, erhält er weitere 3 Punkte, insgesamt also 9 Punkte Bonus. 
 
 **Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe (Schadenswürfe ausgenommen). 
+
+
+
 
 
 ##Beispielkampf, Nahkampf
