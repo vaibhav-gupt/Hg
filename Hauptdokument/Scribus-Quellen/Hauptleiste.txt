@@ -360,7 +360,7 @@ Dabei gelten die folgenden fünf Regeln:
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
 **Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften. Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft. 
 
-<fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
+<fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
 
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
 
@@ -482,7 +482,7 @@ Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Foku
 
 Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um die Auswirkungen von Verletzungen kümmern. 
 
-<fuss>Modul: Fokusmodul Kampf (FoKa), Seite 39
+<fuss>Modul: Fokus: Kampf (FoKa), Seite 36
 
 
 
@@ -673,7 +673,7 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 **6. Strich: Kochen 15 (++)
 **9. Strich: Kochen 16 (++)
 
-<fuss>Ein längeres Beispiel gibt es auf S. 36 bis 38. 
+<fuss>Ein längeres Beispiel gibt es auf S. 33 bis 35.
 
 
 
@@ -698,7 +698,7 @@ Die passendste Anzahl von Strichen pro Abend hängt von der Länge der Kampagne 
 
 Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten. 
 
-<fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37. 
+<fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 33. 
 #Beispielsteigerung
 
 *Kehren wir noch einmal zu Lazaro zurück. 
@@ -829,7 +829,7 @@ Hat ein Charakter keine passende Eigenschaft, dann liegen seine Trefferpunkte be
 
 Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4. 
 
-Beispiel: Lazaros Erschaffung auf S. 15. 
+Beispiel: Lazaros Erschaffung auf S. 12. 
 
 ##Niedrige Trefferpunkte
 **Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
