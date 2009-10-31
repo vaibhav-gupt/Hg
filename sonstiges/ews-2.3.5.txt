@@ -3,7 +3,7 @@ EWS 2.3.5 - "Ein Hoch auf Wesnoth!"
 
 <img alt="thief-female" src="/files/thief-female.png" align="left" width="200" />
 
-*Version 2.3.5 des EWS, Codename "Ein Hoch auf Wesnoth!" ist jetzt [online](/releases/ews-dok-2.3.5.pdf).*
+*Version 2.3.5 des EWS, Codename "Ein Hoch auf Wesnoth!" ist jetzt [online](/files/ews-dok-2.3.5.pdf).*
 
 Änderungen: Viele Detailänderungen, um den Text leichter verständlich zu machen, und *viele neue Bilder* aus [Battle for Wesnoth](http://wesnoth.org). 
 
@@ -37,6 +37,12 @@ Wenn jetzt keine größeren Korrekturen mehr auftauchen, fehlen für Version 2.4
 
 - Eine saubere Sibentrennung von Hand, und
 - Unten abgeschnittene Seitenleisten, damit wir keine leeren gelben Kästen haben. 
+
+Aber wo ich grade so viel von den Wesnoth-Bildern geschwärmt habe: Wir schreiben gerade an dem [ersten Heft](http://rakjar.de/raumzeit-heft1/) zum Science-Fiction Setting [RaumZeit](http://raumzeit.1w6.org), und dafür brauchen wir noch passende Bilder. Falls Du also gerne zeichnest und deine Bilder wie die von Wesnoth unter die GPL stellen willst, dann [schreib uns bitte](http://1w6.org/user/1/contact)!
+
+Jetzt wünsche ich erstmal viel Spaß beim Lesen! 
+
+[EWS v2.3.5: "Ein Hoch aus Wesnoth!"](/files/ews-dok-2.3.5.pdf)
 
 ------ 
 
