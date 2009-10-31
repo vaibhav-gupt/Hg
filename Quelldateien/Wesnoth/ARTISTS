@@ -34,6 +34,11 @@ Game Data / Icons
 
 (data gleaned from `svn log`, until rev 35888)
 
+from data/core/attacks
+- fist-human.png/.xcf jetryl, Arne Babenhauserheide (mask)
+- dagger-thrown-human.png jetryl, 
+- gaze.png            cedricd, isaac, jetryl, 
+
 from data/core/items: 
 - ball-magenta.png    eleazar                                
 - brazier-lit2.png    shadowmaster                                   
@@ -45,7 +50,9 @@ from data/core/scenery:
 - fire1.png           zookeeper eleazar
 - nest-full.png       Eleazar Sirp uid68803 
 - shipwreck-1.png     battlestar
-- tent-ruin-1.png     battlestar, 
+- tent-ruin-1.png     battlestar
+- oak-leaning.png     eleazar
+- well.png            cedricd, eleazar, shadowmaster
 
 
 Get the source-repository via: svn co svn://svn.gna.org/svn/wesnoth/trunk/data

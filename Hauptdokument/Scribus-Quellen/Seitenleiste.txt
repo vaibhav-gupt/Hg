@@ -480,6 +480,7 @@ Nahkampfwaffe: Schaden
 - Laserschwert: 36
 
 Fernkampfwaffe: Schaden
+- Wurfmesser: 2
 - Bogen: 4
 - Pistole: 4
 -> 9MM: 8
@@ -501,7 +502,6 @@ leichte Panz.²: 20
 
 ¹: 8 gegen Kugeln, sonst 2
 ²: Space Marines
-
 
 
 
