@@ -1,0 +1,60 @@
+EWS 2.3.5 - "Ein Hoch auf Wesnoth!"
+===================================
+
+<img alt="chantal-druid" src="/files/thief-female.png" align="left" width="200" />
+
+*Version 2.3.5 des EWS, Codename "Ein Hoch auf Wesnoth!" ist jetzt [online](/releases/ews-dok-2.3.5.pdf).*
+
+Änderungen: Viele Detailänderungen, um den Text leichter verständlich zu machen, und *viele neue Bilder* aus [Battle for Wesnoth](http://wesnoth.org). 
+
+Da Battle for Wesnoth under der *GPLv2 or later* steht, können wir deren Bilder nutzen, und so das EWS ohne riesigen Aufwand durch wundervolle Grafiken bereichern. 
+
+Weiter unten gibt es wie üblich die Änderungen im Detail, aber da uns die Leute von Battle For Wesnoth einen riesigen Schatz an Bildern geben, ohne mehr dafür zu verlangen, als dass wir unser Werk auch unter der GPL veröffentlichen (was wir [bereits seit längerem tun]()), will ich an dieser Stelle einen Stab für sie brechen: 
+
+*Battle for Wesnoth ist ein riesiges, freies, rundenbasiertes 2D Fantasy-Strategiespiel mit einer Vielzahl spannender Missionen, sowohl direkt vom Kernteam als auch aus der Community (inklusive Star-Wars Parodie ;) ). Über die normalen "diese Einheit hat schon 20 andere getötet"-Zähler hinaus enthält es Charakterentwicklung (Stufenaufstieg) und gibt jedem Charakter einen eigens generierten Namen - und ich habe mich schon mehrfach bei "Nein, nicht der! Den lass' ich nicht sterben! Neuladen!" ertappt :)*
+
+*Die aktuelle Version läuft unter Windows, MacOSX und GNU/Linux. Es ist sowohl im Multiplayer als auch im Einzelspiel gratis (zumindest habe ich außer dem Spenden-Link noch nirgends eine Möglichkeit gesehen, ihnen Geld zu geben :) ).* 
+
+*Und wenn mein Gebrabbel für euch nicht völlig sinnfrei klang, dann [probiert es doch mal aus]().*
+
+*Habe ich schon gesagt, dass die Musik auch klasse ist? :)*
+
+*Und damit zurück zum EWS 2.3.5 ;)* 
+
+Was es seit Version 2.3.4 neues gibt: 
+
+- Neue Bilder. Viele neue Bilder :) 
+- (Endlich) angepasstes Inhaltsverzeichnis - die Grundregeln brauchen drei Seiten weniger Platz :). 
+- Erschaffungsregeln etwas klarer -> Eine der 6 Regeln der Erschaffung ist nicht mehr nötig. 
+- Korrektur von Julian (alias inside): Wir haben jetzt noch einS tück verständlichere Texte und mehr Beispiele. 
+
+Wenn jetzt keine größeren Korrekturen mehr auftauchen bleibt fehlen für Version 2.4 nur noch 
+
+- Eine saubere Sibentrennung von Hand, und
+- Unten abgeschnittene Seitenleisten, damit wir keine leeren gelben Kästen haben. 
+
+------ 
+
+Die Änderungen im Detail
+------------------------
+
+534 - ews-dok: Weitere Wesnoth-Bilder für die Seitenleiste eingebunden (und angepasst - Masken).
+533 - ews-dok: Bilder aus Wesnoth (+ coypright ) für Seitenleiten rüberkopiert.
+532 - ews-dok: Standardversion ohne dpi-Änderung der Bilder. Grund: Gerade Linien im Logo wurden bei 144dpi unsauber. 
+531 - ews-dok: Quellen in Scribus + 144dpi-Version                                    
+530 - ews-dok: Regel: Boni für Fertigkeiten: Kurzinfo hat jetzt auch '(1 pro +)'      
+529 - ews-dok: Inhaltsverzeichnis angepasst.                                          
+528 - ews-dok: Feinschliff an Formulierung: Nutzung -> Einführung.                    
+527 - ews-dok: scribus: S.35: necromancer blasser -> Hintergrund.                      
+526 - ews-dok: Scribus mit Bildern                                                    
+525 - ews-dok: Vorteil: Unter Wasser atmen eingefügt, da ich darunter das merfolk Bild will :) .
+523 - Korrekturen in Seitenleiste und Hauptleiste in Scribus eingepflegt - fehlen nur noch zusätzliche Bilder.
+522 - ews-dok: Verweise auf andere Seiten angepasst.                                  
+521 - ews-dok: Hauptleiste komplett in Scribus.                                       
+520 - Hauptleiste bis S. 31  an Scribus angepasst, Seitenleiste ganz (eine ist jetzt leer).
+519 - Notizen zum Hauptdokument eingefügt - bisher nur Anzahl der Zeilen einer Seitenleiste (damit ich nicht ständig nachzählen muss :) ).
+517 - ews-dok: Wort fehlte.
+516 - Das ews-dok kann nun automatisiert in HTML geparst werden.
+500 - Korrekturen von Julian - müssen noch in Scribus eingepflegt werden.
+494 - Einen Teil der Korrektur von Julian in den Textdateien.
+
