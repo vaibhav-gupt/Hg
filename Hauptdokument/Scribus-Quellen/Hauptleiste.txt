@@ -358,7 +358,7 @@ Dabei gelten die folgenden fünf Regeln:
 
 ##5) Eigenschaftsboni
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
-**Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften. Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft. 
+**Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften (1 pro +). Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft. 
 
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
 
