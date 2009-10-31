@@ -31,8 +31,9 @@ Was es seit Version 2.3.4 neues gibt
 - (Endlich) angepasstes Inhaltsverzeichnis - die Grundregeln brauchen drei Seiten weniger Platz :). 
 - Erschaffungsregeln etwas klarer -> Eine der 6 Regeln der Erschaffung ist nicht mehr nötig. 
 - Korrektur von Julian (alias inside): Wir haben jetzt noch einS tück verständlichere Texte und mehr Beispiele. 
+- Das PDF belegt dank kleinen Optimierungen nur noch 3,8 MiB Plattenplatz - kann also endlich mit einem Web.de Free-Account verschickt werden ;) 
 
-Wenn jetzt keine größeren Korrekturen mehr auftauchen bleibt fehlen für Version 2.4 nur noch 
+Wenn jetzt keine größeren Korrekturen mehr auftauchen, fehlen für Version 2.4 nur noch 
 
 - Eine saubere Sibentrennung von Hand, und
 - Unten abgeschnittene Seitenleisten, damit wir keine leeren gelben Kästen haben. 
