@@ -1,7 +1,7 @@
 EWS 2.3.5 - "Ein Hoch auf Wesnoth!"
 ===================================
 
-<img alt="chantal-druid" src="/files/thief-female.png" align="left" width="200" />
+<img alt="thief-female" src="/files/thief-female.png" align="left" width="200" />
 
 *Version 2.3.5 des EWS, Codename "Ein Hoch auf Wesnoth!" ist jetzt [online](/releases/ews-dok-2.3.5.pdf).*
 
