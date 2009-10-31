@@ -36,8 +36,8 @@ Game Data / Icons
 
 from data/core/attacks
 - fist-human.png/.xcf jetryl, Arne Babenhauserheide (mask)
-- dagger-thrown-human.png jetryl, 
-- gaze.png            cedricd, isaac, jetryl, 
+- dagger-thrown-human.png/.xcf jetryl, Arne Babenhauserheide (mask)
+- gaze.png            cedricd, isaac, jetryl
 
 from data/core/items: 
 - ball-magenta.png    eleazar                                
