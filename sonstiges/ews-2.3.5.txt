@@ -9,13 +9,13 @@ EWS 2.3.5 - "Ein Hoch auf Wesnoth!"
 
 Da Battle for Wesnoth under der *GPLv2 or later* steht, können wir deren Bilder nutzen, und so das EWS ohne riesigen Aufwand durch wundervolle Grafiken bereichern. 
 
-Weiter unten gibt es wie üblich die Änderungen im Detail, aber da uns die Leute von Battle For Wesnoth einen riesigen Schatz an Bildern geben, ohne mehr dafür zu verlangen, als dass wir unser Werk auch unter der GPL veröffentlichen (was wir [bereits seit längerem tun]()), will ich an dieser Stelle einen Stab für sie brechen: 
+Weiter unten gibt es wie üblich die Änderungen im Detail, aber da uns die Leute von Battle For Wesnoth einen riesigen Schatz an Bildern geben, ohne mehr dafür zu verlangen, als dass wir unser Werk auch unter der GPL veröffentlichen (was wir [bereits seit längerem tun](/deutsch/anhang/das-ein-w-rfel-system-jetzt-unter-der-gplv3)), will ich an dieser Stelle einen Stab für sie brechen: 
 
 *Battle for Wesnoth ist ein riesiges, freies, rundenbasiertes 2D Fantasy-Strategiespiel mit einer Vielzahl spannender Missionen, sowohl direkt vom Kernteam als auch aus der Community (inklusive Star-Wars Parodie ;) ). Über die normalen "diese Einheit hat schon 20 andere getötet"-Zähler hinaus enthält es Charakterentwicklung (Stufenaufstieg) und gibt jedem Charakter einen eigens generierten Namen - und ich habe mich schon mehrfach bei "Nein, nicht der! Den lass' ich nicht sterben! Neuladen!" ertappt :)*
 
 *Die aktuelle Version läuft unter Windows, MacOSX und GNU/Linux. Es ist sowohl im Multiplayer als auch im Einzelspiel gratis (zumindest habe ich außer dem Spenden-Link noch nirgends eine Möglichkeit gesehen, ihnen Geld zu geben :) ).* 
 
-*Und wenn mein Gebrabbel für euch nicht völlig sinnfrei klang, dann [probiert es doch mal aus]().*
+*Und wenn mein Gebrabbel für euch nicht völlig sinnfrei klang, dann [probiert es doch mal aus](http://wesnoth.org/).*
 
 *Habe ich schon gesagt, dass die Musik auch klasse ist? :)*
 
@@ -38,6 +38,7 @@ Wenn jetzt keine größeren Korrekturen mehr auftauchen bleibt fehlen für Versi
 Die Änderungen im Detail
 ------------------------
 
+536 - ews-dok: Einige Bildgrößen halbiert - wir brauchen bei jedem Bild mindestens 144dpi, da vermutlich viele Leute das DinA5 PDF auf doppelter Größe lesen werden.c
 534 - ews-dok: Weitere Wesnoth-Bilder für die Seitenleiste eingebunden (und angepasst - Masken).
 533 - ews-dok: Bilder aus Wesnoth (+ coypright ) für Seitenleiten rüberkopiert.
 532 - ews-dok: Standardversion ohne dpi-Änderung der Bilder. Grund: Gerade Linien im Logo wurden bei 144dpi unsauber. 
