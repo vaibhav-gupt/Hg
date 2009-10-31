@@ -572,7 +572,7 @@ Drei davon sind:
 - Es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite). 
 Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund-prinzipien auf und nutzt Module für Erweiterungen.
 
-- Es vermeidet Überladung der Charakterhefte durch  die Nutzung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben. 
+- Es vermeidet Überladung der Charakterhefte durch  die Einführung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben. 
 
 - Und es braucht nur einen 6-seitigen Würfel.
 
