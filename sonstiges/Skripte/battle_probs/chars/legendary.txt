@@ -1,6 +1,0 @@
-{'name': "Legendary Char", # charname
-'ability': 24, # average
-'weapon': 0, # None
-'armor': 0, # None
-'wound': 4 # average wound threshold
-}

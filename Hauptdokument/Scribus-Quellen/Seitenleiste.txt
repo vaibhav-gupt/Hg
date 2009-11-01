@@ -228,34 +228,38 @@ Die Charaktere können über das Schicksal ihres Landes mitentscheiden.
 
 
 
-#Machtniveaus mit Werten
-Schema: 
-Eigenschaften, Fertigkeiten|Beruf / Hintergrund, Merkmale. 
-(Eig, Fert|Ber, Merk)
 
-1Δ ist ein starker Wert
--1Δ ist eine Schwäche
 
-1: In der Gosse/Spiel ganz unten: 
-(-1Δ, 1Δ, -1Δ)
 
-2: Normale Leute: 
-(1Δ, 1Δ|1Δ, 1Δ)
 
-3: Angehende Helden: 
-(2Δ, 2Δ|1Δ, 2Δ)
 
-4: Erfahrene Helden:
-(3Δ, 3Δ|2Δ, 3Δ)
 
-5: Beweger: 
-(4Δ, 4Δ|4Δ, 4Δ)
 
-6: Mächtige unter den Mächtigen: 
-(6Δ, 6Δ|6Δ, 6Δ)
 
-7: Halbgötter: 
-(10Δ, 10Δ|10Δ, 10Δ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -301,15 +305,16 @@ Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit aus
 
 **Sie kosten einen Punkt je angefangene 9 Punkte Rüstung + Schaden. 
 
-Auf S. 26 und 27 gibt es eine Liste mit Beispielwaffen und Rüstungen. 
+Auf S. 26 gibt es eine Liste mit Beispielwaffen und Rüstungen. 
 
-Besonderheiten erhöhen die effektiven Punkte: 
+Besonderheiten erhöhen die effektiven Kosten: 
 
 Eine verborgenen Waffe oder Rüstung kostet doppelt, Waffen mit Gift oder Waffen, die die Rüstung ignorieren, kosten dreifach. 
 
 Waffen mit Flächenschaden kosten bis 5 Personen doppelt. Wenn sie normalerweise über 5 Personen treffen, kosten sie viermal so viel. 
 
-Betäubungswaffen kosten gleich viel, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 30, Seitenleiste). 
+Betäubungswaffen kosten gleich viel, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 27, Seitenleiste). 
+
 
 #Beruf und Einkommen
 Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt (sonst wäre er wohl nicht am Leben), egal ob das nun ein Job ist, oder die Suche nach Schätzen in Gebieten, die normalerweise genug abwerfen. Ob der Job ausgespielt wird ist dabei nebensächlich. 
@@ -475,6 +480,7 @@ Nahkampfwaffe: Schaden
 - Laserschwert: 36
 
 Fernkampfwaffe: Schaden
+- Wurfmesser: 2
 - Bogen: 4
 - Pistole: 4
 -> 9MM: 8
@@ -496,7 +502,6 @@ leichte Panz.²: 20
 
 ¹: 8 gegen Kugeln, sonst 2
 ²: Space Marines
-
 
 
 
@@ -563,10 +568,11 @@ Ein Modul für das EWS muss unter der selben freien Lizenz stehen (siehe Epilog 
 Es gibt schon viele Rollenspiele auf dem Markt und im Netz, doch ein paar Punkte heben das EWS von ihnen ab. Sie sind für mich ein Grund, es immer weiter zu entwickeln. 
 
 Drei davon sind: 
-- Es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite). 
-Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund-prinzipien auf und nutzt Module für Erweiterungen.  
 
-- Es vermeidet Überladung der Charakterhefte durch  die Nutzung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben. 
+- Es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite). 
+Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund-prinzipien auf und nutzt Module für Erweiterungen.
+
+- Es vermeidet Überladung der Charakterhefte durch  die Einführung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben. 
 
 - Und es braucht nur einen 6-seitigen Würfel.
 

@@ -1,6 +1,0 @@
-{'name': "Exceptional Char", # charname
-'ability': 18, # average
-'weapon': 0, # sword
-'armor': 0, # leather armor
-'wound': 4 # average wound threshold
-}

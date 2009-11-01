@@ -1,6 +1,0 @@
-{'name': "Mitras 1", # charname
-'ability': 14, # good
-'weapon': 6, # psi sword
-'armor': 6, # psi shield
-'wound': 3 # low wound threshold
-}
