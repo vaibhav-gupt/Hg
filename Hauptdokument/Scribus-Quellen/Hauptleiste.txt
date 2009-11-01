@@ -19,7 +19,7 @@ Die meisten Module findest du auf
 
 #Grundlagen
 
-**Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die jede Spielerin frei wählen kann. Alternativ können sie von der SL vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
+**Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die jede Spielerin frei wählen kann. Alternativ können sie von der Spielleiterin (SL) vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
 **Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (6 ist armselig, 9 schwach, 12 durchschnitt, 15 erfahren und 18 überragend).
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
@@ -50,19 +50,17 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 **Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt. 
 
 
-*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.*
+*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.
 
 <fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14. Beispiele für Fertigkeiten gibt es ab Seite 19. 
 
 #Beruf und Hintergrund
 
-Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf gehören, mit dem Wert des Berufes.  
+Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf oder Hintergrund gehören, mit dessen jeweiligem Wert.  
 
-**Wie Fertigkeiten erhalten auch Berufe Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
+**Wie Fertigkeiten erhalten auch Beruf und Hintergrund Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
 
-*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
-
-
+*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Sara auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
 #Merkmale
 
 Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter zählen Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr. 
@@ -204,29 +202,40 @@ Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspiele
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe. 
 
 
-In der Seitenleiste findest du eine Tabelle, die für die verschiedenen Machtniveaus die jeweilige Anzahl von Eigenschaften, Fertigkeiten, Berufen und Merkmalen enthält, die du für deinen Charakter wählen kannst. 
-
-<fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den sechs Regeln der Erschaffung. 
-
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden. 
 
-**Daten: Ein angehender Held kann 2 starke Eigenschaften, zwei Fertigkeiten, einen Beruf und zwei positive Merkmale haben. Die Punkte können verschoben werden, wobei jeweils eine Eigenschaft zu einer Fertigkeit, einem Beruf oder einem Merkmal werden kann (und umgekehrt). 
+**Daten: Ein angehender Held kann 7 starke Werte (Δ) wählen. 
 
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll. 
 
 *Er stellt ihn sich als gewandten Menschen vor, sowohl körperlich als auch in Sprache und Stil. Natürlich soll er auch kämpfen können, und die Kunst des Flirtens ist ein Muss. Seine starken Eigenschaften findet er direkt aus seiner Beschreibung: 
 *Gewandtheit und persönlichen Stil. 
 
-*Auch die beiden Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
+*Auch die Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens". 
 
 <fuss>Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen. 
 
+<fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den fünf Regeln der Erschaffung. 
 
 
 
-*Nur bei den Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
 
-*Das zweite Merkmal ersetzt er nach einigem Nachdenken jedoch lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Nur bei Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist. 
+
+*Statt einem weiteren Merkmal wählt er nach einigem Nachdenken lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma. 
 
 *Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder. 
 
@@ -304,41 +313,55 @@ Und hiermit ist er fertig.
 
 
 Die Erschaffung von Lazaro war die einfachste Möglichkeit Charaktere zu erschaffen. Es sind allerdings auch bei weitem komplexere Charaktere möglich. 
-Dabei gelten die folgenden sechs Regeln: 
+Dabei gelten die folgenden fünf Regeln: 
 
 ##1) Werte von Eigenschaften und Merkmalen
 **Während der Erschaffung werden Werte nur durch Plusse ("+") und Minusse ("-") ausgedrückt. 
 **Bei Eigenschaften entspricht "-" einem Wert von 9, "+" einem Wert von 15 und "++" einem Wert von 18. 
 **Jedes weitere "+" erhöht den Wert um drei Punkte, jedes weitere Minus senkt ihn um drei Punkte. 
 **Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse. 
+**Für Eigenschaften gilt also: 
+
+**- = 9
+**± = 12 (wird nicht aufgeschrieben)
+**+ = 15
+**++ = 18
 
 ##2) Werte von Fertigkeiten und Berufen
 **Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält. 
 **Damit ist eine Fertigkeit mit "+" auf einem Grundwert von 12 und mit "++" auf einem Grundwert von 15. 
-**Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. 
-**Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
-**Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht. 
+**Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12. 
+**Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht. Für Fertigkeiten gilt damit (Berufe sind 3 Punkte niedriger): 
+
+**+ = 12 (plus Boni aus Regel 5)
+**++ = 15 (plus Boni)
+**+++ = 18 (plus Boni)
+
+
 
 ##3) Kosten
-**Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um von ± auf den entsprechenden Wert zu kommen: 
+**Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um auf den entsprechenden Wert zu kommen: 
+
 **+: 1 Dreieck (Δ) Kosten
 **++: 3 Dreiecke (Δ) Kosten
 **+++: 6 Dreiecke (Δ)
 **++++: 10 Dreiecke (Δ)
 
-##4) Dreiecke verschieben
-**Dreiecke können verschoben werden, um andere Bereiche zu steigern. 
-**Statt einer durchschnittlichen Fertigkeit (z.B. Kochen) kann ein Charakter also eine sehr gute Eigenschaft (wie Wahrnehmung), einen schwachen Beruf (Schreiber) oder ein positives Merkmal (z.B. Extremverdauung) nehmen. 
-
-##5) Stärken für Schwächen
-**Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ) in diesem Bereich. Stärker negative Werte geben genauso viele Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
+##4) Stärken für Schwächen
+**Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ). Stärker negative Werte geben genauso viele Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
 **Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Dreiecke (Δ) erhält (siehe Regel 4). 
+**Damit gilt: 
 
-##6) Eigenschaftsboni
-**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. 
-**Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
+**-: gibt 1 Dreieck (Δ)
+**--: gibt 3 Dreiecke (Δ)
+**---: gibt 6 Dreiecke (Δ)
 
-<fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 35 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung im vobsy (vost)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
+##5) Eigenschaftsboni
+**Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
+**Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften (1 pro +). Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft. 
+
+<fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich. 
+
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
 
 Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen. 
@@ -347,14 +370,10 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 ##Eigenschaften: 
 - Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
 
-- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Geschwindigkeit, Finesse, Stärke, Behendigkeit... 
+- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behendigkeit... 
 
 - Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
-
 - Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
-
-
-
 
 - Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
 
@@ -364,7 +383,6 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 
 - Andere: Rang, Status, Vermögen...
 
-
 ##Fertigkeiten: 
 - Körper: Akrobatik, Entfessellung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben... 
 
@@ -373,13 +391,6 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 - Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien... 
 
 - Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie... 
-
-
-
-
-
-
-
 ##Berufe: 
 - Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde... 
 
@@ -409,7 +420,7 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 
 
 ##Merkmale: 
-- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Altert nicht: +
+- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Unter Wasser atmen: +, Altert nicht: +
 
 - Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: --- 
 
@@ -421,7 +432,6 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 -> http://1w6.org/stichwort/merkmale
 
 Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler"). 
-
 
 
 
@@ -471,7 +481,7 @@ Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Foku
 
 Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um die Auswirkungen von Verletzungen kümmern. 
 
-<fuss>Modul: Fokusmodul Kampf (FoKa), Seite 39
+<fuss>Modul: Fokus: Kampf (FoKa), Seite 36
 
 
 
@@ -514,7 +524,7 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 3 Meter drei Punkte, bis 9 Metern 6 Punkte und bei über 9 Metern 9 Punkte.  
 
-**Abstand: 	Bonus
+**Abstand: 	Bonus für Fernkämpfer
 **Bis 1m: 	1
 **Bis 3m: 	3
 **Bis 9m:	6
@@ -638,7 +648,8 @@ Verschiedene Spielwelten findest du auf der Webseite des Ein Würfel Systems:
 
 
 
-#Modul: Steigerung im vobsy (vost)
+
+#Steigerung (SteM)
 
 Während in One-Shots und sehr kurzen Runden die Weiterentwicklung von Charakteren meist weniger wichtig ist und einfach per Absprache gemacht werden kann, nimmt sie in langen Runden oft einen wichtigen Platz ein. 
 
@@ -649,11 +660,19 @@ Dabei sind 1 bis 3 Striche pro Spielabend durchschnittlich für normale bis held
 
 Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt werden, um deren Werte zu steigern. 
 
-**Für die Steigerung von Eigenschaften müssen Spielerinnen dabei pro Punkt eine Anzahl von Strichen gleich der Plusse der nächsten Schwelle aufbringen, während bei Fertigkeiten pro Punkt ein Strich mehr benötigt wird (also so viele Striche wie sie bei einer drei Punkte höheren Eigenschaft brauchen würden, ähnlich wie bei der Erschaffung im vobsy). 
+**Für die Steigerung von Eigenschaften oder Fertigkeiten müssen Spielerinnen dabei pro Punkt eine Anzahl von Strichen gleich der Anzahl der Plusse der nächsten Schwelle aufbringen. 
 
 **Zur Berechnung der Kosten von Fertigkeiten wird der Grundwert genommen. 
 
-<fuss>Ein Beispiel gibt es auf S. 36 bis 38. 
+**Beispiel: 
+**Kochen 12 (+)
+**1. Strich: Kochen 12 (+)
+**2. Strich: Kochen 13 (+)
+**...
+**6. Strich: Kochen 15 (++)
+**9. Strich: Kochen 16 (++)
+
+<fuss>Ein längeres Beispiel gibt es auf S. 33 bis 35.
 
 
 
@@ -664,25 +683,21 @@ Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusamme
  ^ : Zwei Striche
  Δ : Drei Striche: Dreieck
 
-**Sobald alle nötigen Dreiecke gezeichnet sind, steigt die Fertigkeit auf die nächste Schwelle, d.h. Die Dreiecke werden zu Plussen und die nächste Steigerung wird teurer. 
+**Sobald du eine Anzahl von Dreiecken gleich der Plusse der nächsten Schwelle gezeichnet hast, fängst du wieder von vorne an (musst aber ein Dreieck mehr zeichnen, da du die nächste Schwelle erreicht hast). Dein Wert steigt um einen Punkt, wenn du für alle nötigen Dreiecke eine weitere Seite gezeichnet hast. Bei Eigenschaften gilt damit z.B.: 
+
+*+: 15
+*+,´´: 16
+*+,^^: 17
+*+,ΔΔ: 18 = ++
+*++,´´´: 19
 
 #Striche pro Abend
 
 Die passendste Anzahl von Strichen pro Abend hängt von der Länge der Kampagne und von der geplanten Entwicklungsgeschwindigkeit ab. 
 
-Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. 
+Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten. 
 
-Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. 
-Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. 
-
-Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten. 
-
-<fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 37. 
-
-
-
-
-
+<fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 33. 
 #Beispielsteigerung
 
 *Kehren wir noch einmal zu Lazaro zurück. 
@@ -694,7 +709,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 *Nachdem er in diesem Abenteuer regen Kontakt mit feinen Damen genießen konnte und aus schwierigen Lagen eher durch seine flinke Zunge und seine Freunde entkommen konnte, als durch seinen Degen, entscheidet sich Lazaros Spieler Sven, sowohl Charisma, als auch die Kunst des Flirtens zu steigern. 
 
-*Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Charisma ist eine Eigenschaft, also braucht er für die Steigerung um einen Punkt zwei Striche, nämlich einen für jedes Plus der nächsten Schwelle. 
+*Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Für die Steigerung um einen Punkt braucht er also zwei Striche: Einen für jedes Plus der nächsten Schwelle. 
 
 *Weil er das ganze Abenteuer über immer wieder Charisma genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Dreiecke nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt. 
 
@@ -705,7 +720,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 
 
-*Die verbleibenden Striche will er nutzen, um die "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens + ist (sehr gut: 15), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
+*Die verbleibenden Striche will er nutzen, um die Fertigkeit "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens ++ ist (15: sehr gut), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
 
 
 
@@ -723,9 +738,7 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 
 
-*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht + (sehr gut: 15) und geht auf ++ zu (überragend: 18). 
-
-**Fertigkeiten kosten damit in der Steigerung je Punkt einen Strich mehr als Eigenschaften derselben Höhe, denn sie erhalten zusätzlich zu ihrem Grundwert die Boni durch zwei passende Eigenschaften. 
+*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht ++ (15: sehr gut) und geht auf +++ zu (18: überragend). 
 
 *Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 
@@ -762,7 +775,13 @@ Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie fü
 
 
 
-#Fokusmodul: Kampf (FoKa)
+
+
+
+
+
+
+#Fokus: Kampf (FoKa)
 
 Kämpfe sind in den meisten Runden die letzte und stärkste Eskalation von Konflikten, und damit nehmen sie in vielen Geschichten einigen Raum ein. 
 
@@ -809,16 +828,13 @@ Hat ein Charakter keine passende Eigenschaft, dann liegen seine Trefferpunkte be
 
 Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4. 
 
-Beispiel: Lazaros Erschaffung auf S. 15. 
+Beispiel: Lazaros Erschaffung auf S. 12. 
 
 ##Niedrige Trefferpunkte
 **Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. 
-
 **Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. 
 **Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
-
 **Sinken seine aktuellen Trefferpunkte auf den Wert seiner Trefferpunkte im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x TP (-36) ist der Mindestwurf 18, und bei -4x TP (-48) ist er 21. 
-
 **Sinken die Trefferpunkte auf oder unter das fünffache der Trefferpunkte (z.B. auf -5x TP (-60)), dann ist er unwiederbringlich tot.
 
 Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.    
@@ -830,7 +846,6 @@ Erhält ein Charakter durch einen Treffer weniger als seine Wundschwelle an Scha
 **Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist. 
 
 **Erhält er gar Schaden in Höhe der gewählten Eigenschaft, dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht. 
-
 **Ein Charakter erhält von einer einzelnen Verletzung nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde, aber keine zwei Wunden. 
 
 Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt). 
@@ -885,6 +900,9 @@ Alles Kampferschwerende geht als Malus ein.
 **Wenn der Charakter sich dabei zurückzieht, erhält er weitere 3 Punkte, insgesamt also 9 Punkte Bonus. 
 
 **Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe (Schadenswürfe ausgenommen). 
+
+
+
 
 
 ##Beispielkampf, Nahkampf

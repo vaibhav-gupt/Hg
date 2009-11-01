@@ -1,6 +1,0 @@
-{'name': "Space Marine", # charname
-'ability': 15, # legendary
-'weapon': 36, # light saber
-'armor': 30, # light battle suit
-'wound': 5 # high wound threshold
-}
