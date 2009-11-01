@@ -22,6 +22,13 @@ Battle for Wesnoth
 
 *Habe ich schon gesagt, dass die Musik auch klasse ist? :)*
 
+Wenn du selbst ein Rollenspiel [unter der GPL veröffentlichen](/deutsch/anhang/das-ein-w-rfel-system-jetzt-unter-der-gplv3) willst, kannst du die Bilder von Wesnoth in deren Quellcodeverzeichnis finden. Benutzer von GNU/Linux (z.B. von [Ubuntu](http://ubuntu.com)) kommen da sehr einfach ran: 
+
+* Installier dir subversion, falls du es nicht schon hast: *apt-get install subversion*
+* Hol dir den Ordner mit den Bildern: *svn co svn://svn.gna.org/svn/wesnoth/trunk/data/core/images wesnoth-images*
+* Schau dir die Bilder in dem jetzt neuen Ordner *wesnoth-images* an und kopier dir interessante heraus. 
+* Übertrag alle Copyright-Hinweise zu den interessanten Bildern in deinen eigenen Rollenspiel-Ordner; du brauchst sie als Nachweis (sie sind in der Datei *ARTISTS* und in der Datei *Copying.txt* ). 
+
 *Und damit zurück zum EWS 2.3.5 ;)* 
 
 Was es seit Version 2.3.4 neues gibt
