@@ -56,7 +56,7 @@
        sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="669"
+     inkscape:window-height="700"
      inkscape:window-width="900"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -68,7 +68,7 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.05"
+     inkscape:zoom="1.025"
      inkscape:cx="179.01175"
      inkscape:cy="51.835297"
      inkscape:window-x="193"
@@ -80,17 +80,18 @@
      width="103"
      height="99"
      id="image2497"
-     x="104"
-     y="0"
-     style="opacity:0.5"
+     x="-0.43902433"
+     y="-1.0731707"
+     style="opacity:0.8"
      inkscape:export-xdpi="27.959999"
      inkscape:export-ydpi="27.959999" />
   <g
      id="g2487"
-     transform="matrix(1.4411829,0,0,1.4411829,-260.77446,-54.705849)"
+     transform="matrix(1.4411829,0,0,1.4411829,-364.21371,-55.77902)"
      inkscape:export-xdpi="16.176971"
      inkscape:export-ydpi="16.176971"
-     inkscape:export-filename="/home/arne/Dokumente/eigenes/RPG/ews/Das EWS verbreiten/1w6-favicon-16.png">
+     inkscape:export-filename="/home/arne/Dokumente/eigenes/RPG/ews/Das EWS verbreiten/1w6-favicon-16.png"
+     style="opacity:0.85">
     <text
        sodipodi:linespacing="100%"
        id="text2581"
