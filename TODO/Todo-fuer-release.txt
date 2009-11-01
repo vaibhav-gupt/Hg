@@ -2,17 +2,22 @@
 
 - Händische Worttrennung. 
 - Korrekturen von Achim: Leere Teile der Seitenleisten überdecken (weiß).
+- Charheft auch im PDF mitliefern (via Script anfügen). 
+
+Erledigt: 
+
 - S. 12: Bild auf die Höhe des unteren Randes der *Seitenleiste*
+
 
 2.3.5: 
 
 Todo: 
 
-- Korrekturen von Julian. Seitenleisten prüfen + in Scribus integrieren. 
-- Korrekturen von Achim: Prüfen ob wir noch was für die halbleeren Seitenleisten haben, z.B. Bilder. 
-- Charheft auch im PDF mitliefern (via Script anfügen). 
 
 Erledigt: 
+
+- Korrekturen von Julian. Seitenleisten prüfen + in Scribus integrieren. 
+- Korrekturen von Achim: Prüfen ob wir noch was für die halbleeren Seitenleisten haben, z.B. Bilder. 
 
 
 2.3.4: 
