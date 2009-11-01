@@ -2,6 +2,7 @@
 
 - Händische Worttrennung. 
 - Korrekturen von Achim: Leere Teile der Seitenleisten überdecken (weiß).
+- S. 12: Bild auf die Höhe des unteren Randes der *Seitenleiste*
 
 2.3.5: 
 
