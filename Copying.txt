@@ -4,4 +4,6 @@ Wenn Battle for Wesnoth auf die GPLv3 wechselt, sind alle Inhalte hier nur noch 
 
 Eine Kopie der GPL findest du unter sonstiges/gpl-2.0.txt (Version 2) und sonstiges/gpl.txt (Version 3). 
 
+Das gilt auch für alle Inhalte hier von Arne Babenhauserheide, die als GPLv3 oder GPLv3 or later gekennzeichnet sind mit Ausnahme der fertien Releases des EWS (die einfach aus Scribus erneut erzeugt werden können). 
+
 - Drak alias Arne Babenhauserheide
