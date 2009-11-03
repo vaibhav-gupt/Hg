@@ -2,11 +2,11 @@
 
 - Händische Worttrennung. 
 - Korrekturen von Achim: Leere Teile der Seitenleisten überdecken (weiß).
-- Charheft auch im PDF mitliefern (via Script anfügen). 
 
 Erledigt: 
 
 - S. 12: Bild auf die Höhe des unteren Randes der *Seitenleiste*
+- Charheft auch im PDF mitliefern (via Script anfügen). 
 
 
 2.3.5: 
