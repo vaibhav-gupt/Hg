@@ -1,11 +1,11 @@
 2.4.0: 
 
-- Händische Worttrennung. 
 - Korrekturen von Achim: Leere Teile der Seitenleisten überdecken (weiß).
 - Charheft auch im PDF mitliefern (via Script anfügen). 
 
 Erledigt: 
 
+- Händische Silbentrennung. 
 - S. 12: Bild auf die Höhe des unteren Randes der *Seitenleiste*
 
 
