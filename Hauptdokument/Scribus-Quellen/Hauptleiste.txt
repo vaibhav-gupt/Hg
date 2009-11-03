@@ -899,7 +899,7 @@ Alles Kampferschwerende geht als Malus ein.
 
 **Wenn der Charakter sich dabei zurückzieht, erhält er weitere 3 Punkte, insgesamt also 9 Punkte Bonus. 
 
-**Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe (Schadenswürfe ausgenommen). 
+**Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe. 
 
 
 
@@ -912,7 +912,7 @@ Alles Kampferschwerende geht als Malus ein.
 *Während sein Gegner die Waffe hochreißt, zucken Stahlkatzes Krallen nach dessen Hals. 
 
 **Technisches: 
-**Stahlkatze ist ein überragender Kämpfer (Nahkampf 18) während sein Gegner seine Waffe noch nicht in Schussposition hat und daher auf seine ungeübten Nahkampffertigkeiten vertrauen muss (Nahkampf 9). Ein kurzer vergleichender Wurf (Stahlkatze wirft eine 4, der Soldat eine 2) kommt auf (18+4)=22 für Stahlkatze und (9+2)=11 für den Soldaten. Stahlkatze trifft und die Differenz von 11 wird auf den Schaden addiert. Zusätzlich verursachen Stahlkatzes Krallen 1W6 Schaden. Er wirft eine weitere 4. Da der Soldat keine nennenswerte Rüstung trägt, erhält er damit 11+4=15 Punkte Schaden. 
+**Stahlkatze ist ein überragender Kämpfer (Nahkampf 18) während sein Gegner seine Waffe noch nicht in Schussposition hat und daher auf seine ungeübten Nahkampffertigkeiten vertrauen muss (Nahkampf 9). Ein kurzer vergleichender Wurf (Stahlkatze wirft eine 4, der Soldat eine 2) kommt auf (18+4)=22 für Stahlkatze und (9+2)=11 für den Soldaten. Stahlkatze trifft und die Differenz von 11 wird auf den Schaden addiert. Zusätzlich verursachen Stahlkatzes Krallen 4 weitere Punkte Schaden. Da der Soldat keine nennenswerte Rüstung trägt, erhält er damit 11+4=15 Punkte Schaden. 
 
 *Während der erste Soldat sich von dem Anblick erholt, das Blut seines Kameraden auf Boden und Wände spritzen zu sehen, verschwindet Stahlkatze im Gang, um dem sicher folgenden Bleihagel zu entgehen.    
 
