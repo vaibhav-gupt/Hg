@@ -1,0 +1,21 @@
+Funktionsweise: Wähle dir eine positive Eigenschaft, die deinen Charakter auszeichnet. Falls du noch eine weitere willst, musst du auch eine schwache nehmen oder deinem Charakter einen Nachteil geben (negatives Merkmal). 
+
+Dann wähle drei Fertigkeiten, in denen du herausstichst. 
+
+Als nächstes wähle für deinen Charakter zwei der folgenden drei Möglichkeiten: 
+1) Einen Vorteil (positives Merkmal)
+2) Einen wichtigen Ausrüstungsgegenstand (Hut, Rüstung, Waffe, Peitsche, ...), der zu deinem Charakter gehört. 
+3) Einen Beruf oder Hintergrund, der ihm eine ganze Reihe Fertigkeiten zur Verfügung stellt. 
+
+Statt dem Vorteil kannst du auch ein weiteres starkes Attribut oder zwei weitere Fertigkeiten wählen.
+
+Nun hast du deine freien Punkte verbraucht. Jegliche weiteren Veränderungen müssen aufgewogen werden. 
+
+Jeder weitere Beruf oder Hintergrund, jeder Vorteil oder Ausrüstungsgegenstand und jede weitere starke Eigenschaft muss mit einer Schwachen Eigenschaft oder einem Nachteil aufgewogen werden. Je zwei Fertigkeiten müssen mit einem Nachteil oder einer schwachen Eigenschaft aufgewogen werden. 
+
+Abschluss: Jede gewähle Eigenschaft und Fertigkeit beherrscht du sehr gut (auf 15). Deinen Beruf beherrscht du durchschnittlich (12). In jeder schwachen Eigenschaft bist du schwach (9). Trage die Daten auf dem Charakterblatt ein. 
+An die Stelle "Trefferpunkte" trägst du das Doppelte deines Konstiutionswertes oder einer anderen dazu passenen Eigenschaft ein (wahrscheinlich 24). In Klammer dahinter ein Drittel dieses Wertes (wahrscheinlich 4). Das ist deine Wundschwelle. 
+
+Das war das vereinfachte System für One-Shots und schnelle Runden :)
+
+(zweiten Standard-Weg: Mit Beruf anfangen)

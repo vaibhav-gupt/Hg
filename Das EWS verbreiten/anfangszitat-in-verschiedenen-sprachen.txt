@@ -1,0 +1,89 @@
+<div align=right>
+- <a href="/deutsch/regeln/quellen" title="Das Ein Würfel System herunterladen">Download</a> - &nbsp;&nbsp;<br />
+<a href="/deutsch/regeln/quellen" title="Das Ein Würfel System herunterladen"><img src="/bilder/EWS_farbe_logo_klein.jpg" alt="Cover_concept" title="Das Cover des EWS, gezeichnet von Gertrud Wenzel" align="right" width="103" height="113"></a>
+</div>
+<p><a href="/deutsch/" title="Ein Würfel System"><img src="/bilder/flaggen/deutsche-flagge-public-domain-wikipedia.png" alt="Deutsche Flagge" align="left" /></a> &nbsp;Kurzlinks: 
+
+~ <a href="/deutsch/regeln">Regeln</a> - <a href="/deutsch/module">Module</a> - <a href="/deutsch/welten">Welten</a> (<a href="/deutsch/welten/raumzeit">RaumZeit</a>) - <a href="/forum" title="Forum des Ein Würfel Systems, über Welten, Rollenspiel und Python Programmierung.">Forum</a> - <a href="/deutsch/sl-tipps" title="Tipps für Spielleiter.">Tipps für Spielleiter</a> - <a href="/deutsch/anhang/leute" title="Am EWS Beteiligte">Leute</a> - <a href="#neues">Neuigkeiten</a> - Links ~</p>
+
+<p>&nbsp; </p>
+
+<table><tr><td width="33%" valign="top">
+<div align="center"><h2><a href="/deutsch/" title="Ein Würfel System">Ein Würfel System</a></h2>
+<h3><a href="/deutsch/" title="Ein Würfel System">Einfach saubere Regeln</a></h3>
+
+<p><a href="/deutsch/" title="Ein Würfel System"><img src="/bilder/flaggen/deutsche-flagge-public-domain-wikipedia.png" alt="Deutsche Flagge" align="middle" /></a><a href="/deutsch/" title="Ein Würfel System">Deutsch</a></p>
+
+</div><div align="justify">
+
+<p><em>"Ich will, dass Weltenbastler und Spielleiter nicht mehr denken müssen 'wie schaffe ich funktionierende (Rollenspiel-) Regeln für meine Welt oder Kampagne<a title="damit ich sie als Rollenspiel spielen und veröffentlichen kann">*</a>?', sondern nur noch 'wie passe ich die Regeln so an, dass sie das Gefühl meiner Welt oder Kampagne vermitteln?', und ich will, dass sie es einfach dabei haben."</em> - <a href="/uzanto/drak">Arne</a></p>
+
+<ul>
+<li>Frei wählbare Eigenschaften, Fertigkeiten und Merkmale. 
+<li>Saubere, durchgerechnete <a href="/deutsch/regeln">Regeln</a>. 
+<li><a href="http://module.1w6.org">Module</a> erleichtern die Anpassung. 
+<li>Werke aus <a href="http://gurps.1w6.org">Gurps®</a> und <a href="http://fudge.1w6.org">Fudge(tm)</a> können genutzt werden. 
+<li>Es ist <a href="http://lizenz.1w6.org">frei lizenziert</a>. 
+<li><a href="http://mitmachen.1w6.org">Mach doch mit!</a>
+</ul>
+
+</div></td><td width="33%" valign="top"><div align="center">
+<h2><a href="/esperanto/" title="Unu kubo kodo">Unu kubo kodo</a></h2>
+<h3><a href="/esperanto/" title="Unu kubo kodo">Simple propraj reguloj</a></h3>
+
+<p><a href="/esperanto/" title="Unu kubo kodo"><img src="/bilder/flaggen/esperanta.png" alt="Esperanta flago" align="middle" /></a>
+
+<a href="/esperanto/" title="Unu kubo kodo">Esperanto</a></p>
+
+</div><div align="justify">
+
+<p><em>"Mi volas ke mondkreantoj and reĝisoroj ne plu devas pensi 'kiel fari funkciatan (rollud-) regulojn por mian mondon aŭ kampanjon<a title="por ludi aŭ publici ĝin kiel rolludo">*</a>?', sed nur 'kiel adapti la regulojn por peri la sentumon de mia mondo aŭ kampanjo?', kaj mi volas, ke ĝi estas facila por ilin."</em> - <a href="/uzanto/drak">Arne</a></p>
+
+
+</div></td><td width="33%" valign="top"><div align="center">
+<h2><a href="/english/" title="One Die System">One Die System</a></h2>
+<h3><a href="/english/" title="One Die System">Simply Clean Rules</a></h3>
+
+<p><a href="/english/" title="One Die System"><img src="/bilder/flaggen/vereinigtes-koenigreich-flagge-public-domain-wikipedia.png" alt="Flag of the UK" align="middle" /></a>
+
+<a href="/english/" title="One Die System">English</a></p>
+
+</div><div align="justify">
+
+<p><em>"I want to help worldbuilders to stop worrying 'how can I create working (rolplaying) rules for my world or campaign<a title="to be able to play and publish it as roleplaying game">*</a>?', and to be able just think 'how can I modify the rules to make them mirror the feeling of my world or campaign?', and I want that to be easy."</em> - <a href="/uzanto/drak">Arne</a></p>
+</div></td></tr></table> 
+
+
+-- Aktuell werden die Inhalte aus dem <a href="http://1d6.eu">Wiki</a> hierher migriert, daher sind viele Inhalte noch unvollständig. --
+
+<p>&nbsp;</p>
+
+<hr>
+<table><tr><td width="33%" align="left"><h2><a name="neues">Neuigkeiten</a></h2></td><td width="33%" align="center"><h2><a name="neues">Novaĵoj</a></h2></td><td width="33%" align="right"><h2><a name="neues">News</a></h2></td></tr></table>
+<hr>
+
+
+------
+
+Rest der Startseite, den ich entfernt habe, um die Webseite mehrsprachig zu machen: 
+=====
+<p>~ <a href="/deutsch/regeln">Regeln</a> - <a href="/deutsch/module">Module</a> - <a href="/deutsch/welten">Welten</a> (<a href="/deutsch/welten/raumzeit">RaumZeit</a>) - <a href="/forum" title="Forum des Ein Würfel Systems, über Welten, Rollenspiel und Python Programmierung.">Forum</a> - <a href="/deutsch/sl-tipps" title="Tipps für Spielleiter.">Tipps für Spielleiter</a> - <a href="/deutsch/anhang/leute" title="Am EWS Beteiligte">Leute</a> - <a href="#neues">Neuigkeiten</a> - Links ~</p>
+
+<p>Kurzbeschreibung des Ein Würfel Systems: 
+<ul>
+<li>Das Ein Würfel System ist ein kleines, selbstentwickeltes und recht schnelles Rollenspielsystem. <!-- mir fehlt noch, dass Eigenschaften, Fertigkeiten und Merkmale frei wählbar sind, vielleicht durch einen Link "mit einigen Besonderheiten" -->
+<li>Es liefert saubere und durchgerechnete <a href="/deutsch/regeln">Regeln</a>. 
+<li>Durch <a href="http://module.1w6.org">Module</a> soll es für jede Welt und verschiedene Spielstile anpassbar sein (Es ist noch in Arbeit und seit Mitte 2003 im Spieltest). 
+<li>Sein Aufbau ermöglicht es, Werke sowohl aus <a href="http://gurps.1w6.org">Gurps®</a> als auch aus <a href="http://fudge.1w6.org">Fudge(tm)</a> zu verwenden, so dass bereits eine umfassende Sammlung von für das EWS nutzbarem Quellmaterial existiert. 
+<li>Es wird bereits in verschiedenen <a href="/deutsch/welten">Welten</a> verwendet. 
+<li>Seine <a href="http://lizenz.1w6.org">freie Lizenz</a> ermöglicht die Nutzung der Regeln in jeglichen Welten, sowohl kommerziellen als auch freien, und verlangt dabei nur, dass der Regelteil frei bleibt. Da es frei ist, möchten wir natürlich auch Dich einladen, bei der Entwicklung <a href="http://mitmachen.1w6.org">mitzumachen</a>.
+</ul></p>
+
+<p>Die aktuelle Version des Ein Würfel Systems ist als freier Download verfügbar: <a href="http://dateien.1w6.org/ews-dok-v1.9.8-r4.pdf" title="Das Ein Würfel System in DinA5 zum direkten Lesen am Computer">DinA5 PDF</a> - <a href="http://dateien.1w6.org/ews-dok-v1.9.8-heft-r4.pdf" title="Die Version zum beidseitigen Druck als Faltheft">Druck-Version</a> - <a href="http://dateien.1w6.org/ews-dok-v1.9.8-r4.odt" title="Die Quelldateien zum selbst Bearbeiten des Regelwerks mit KOffice">Quelldatei</a> <br />
+Die PDF-Version ist unter der <a href="http://kft.1w6.org">Kleineren Freien Textlizenz</a> freigegeben. 
+</p>
+
+<p><em>*Krude Gedankenspiele* Der Name kommt übrigens daher, dass es schlicht ein Würfelsystem ist, aber auch das Ein-Würfel System, denn es braucht nur einen Würfel und ein Wurf entscheidet die meisten Handlungen, und zugleich ist es das Ein-Würfel-System, wie sein Name geschrieben würde, wenn man die zusätzlichen Bedeutungen weglassen wollte. <br />Wer jetzt "Deppenleerzeichen" schreit, möge bitte einen Bleistift zur Hand nehmen, und selbst Bindestriche einziehen *Krude Gedankenspiele Ende* :-)</em> - <a href="uzanto/drak">Arne</a></p>
+
+<p>Wenn du über Ereignisse und Entwicklungen rund um das EWS informiert werden willst, <a href="/user/register">registriere dich</a> einfach oder <a href="/user/login">melde dich an</a> und abonnier' dann unseren <a href="/subscriptions/taxonomy">Newsletter</a>. Alternativ haben wir auch einen <a href="http://1w6.org/rss.xml">RSS-Feed</a>.</p>
+=====
