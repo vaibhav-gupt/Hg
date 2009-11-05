@@ -665,12 +665,12 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 **Zur Berechnung der Kosten von Fertigkeiten wird der Grundwert genommen. 
 
 **Beispiel: 
-**Kochen 12 (+)
-**1. Strich: Kochen 12 (+)
-**2. Strich: Kochen 13 (+)
+**Startwert: Kochen: + (12)
+**1. Strich: Kochen: + (12)
+**2. Strich: Kochen: + (13)
 **...
-**6. Strich: Kochen 15 (++)
-**9. Strich: Kochen 16 (++)
+**6. Strich: Kochen: ++ (15)
+**9. Strich: Kochen: ++ (16)
 
 <fuss>Ein längeres Beispiel gibt es auf S. 33 bis 35.
 
@@ -685,11 +685,12 @@ Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusamme
 
 **Sobald du eine Anzahl von Dreiecken gleich der Plusse der nächsten Schwelle gezeichnet hast, fängst du wieder von vorne an (musst aber ein Dreieck mehr zeichnen, da du die nächste Schwelle erreicht hast). Dein Wert steigt um einen Punkt, wenn du für alle nötigen Dreiecke eine weitere Seite gezeichnet hast. Bei Eigenschaften gilt damit z.B.: 
 
-*+: 15
-*+,´´: 16
-*+,^^: 17
-*+,ΔΔ: 18 = ++
-*++,´´´: 19
+*Fitness: +      (15)
+*Fitness: +,´    (15)
+*Fitness: +,´´   (16)
+*Fitness: +,^^   (17)
+*Fitness: +,ΔΔ   (18) = ++
+*Fitness: ++,´´´ (19)
 
 #Striche pro Abend
 
