@@ -717,7 +717,7 @@ Konkret bedeutet das:
 
 - Alte Wunden heilen vor neueren. 
   
-- Eine kritische Wunde heilt allerdings vor einer alten normalen Wunde, bis sie selbst zu einer normalen geworden ist, für den Körper also nicht mehr gefährlicher ist als andere Wunden. 
+- Eine kritische Wunde heilt allerdings vor einer alten normalen Wunde, bis sie selbst zu einer normalen geworden ist, für den Körper also nicht mehr gefährlicher wirkt als andere Wunden. 
 
 
 
