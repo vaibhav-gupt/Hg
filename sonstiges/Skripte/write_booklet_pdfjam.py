@@ -16,7 +16,7 @@ Ideas:
 	* add the license and the charsheet to the PDF as online-release
 	* add the license and charsheet into the middle of the PDF and turn it into a booklet
 
-current prcess for creating a release booklet: 
+current process for creating a release booklet: 
     pdfnup ../../releases/ews-dok-2.3.6.pdf --nup 1x1 --pages 1-24 --outfile part1.pdf ; pdfnup ../../releases/ews-dok-2.3.6.pdf --nup 1x1 --pages 25-48 --outfile part2.pdf ; pdfnup ../GPLv3.pdf --nup 1x1 --pages 1-2 --outfile gpl-1.pdf; pdfnup ../GPLv3.pdf --nup 1x1 --pages 3-4 --outfile gpl-2.pdf; pdfnup ../../releases/charheft-vobsy.pdf --nup 1x1 --pages 2,3,4,1 --outfile charheft.pdf ; pdfjoin part1.pdf gpl-1.pdf charheft.pdf gpl-2.pdf part2.pdf --outfile test.pdf
     
     ./write_booklet_pdfjam.py test.pdf booklet.pdf
