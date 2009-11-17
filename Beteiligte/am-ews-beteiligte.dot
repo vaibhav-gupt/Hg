@@ -6,7 +6,7 @@ graph G {
         
 	// Leute
         //Spieler und/oder Spielleiter
-	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; 
+	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; "Dani";
         // Sonstige
 	"Gertrud Wenzel"   
 
@@ -14,7 +14,7 @@ graph G {
 	node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"; "Die Hoehlen der Woelfe"; 
     
 	// kurze Runden
-	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Katzhulu Einzelknaller"
+	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zat";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Katzhulu Einzelknaller"; "Kleine Schiffe";
     
 	// Mitarbeit
 	node [shape=box]; Schlachtfeld; "1w6.org"; "RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Martial Arts Modul"; "RaumZeit Psi"; "Nexus Welt"; "Grundregeln"; "Cover"; "TextRPG"; "Konfliktmodul"; 
@@ -58,7 +58,7 @@ graph G {
 	{"Rettet die Weltenkristalle";"Seminar";} -- Crossover
 	"Wächter der Zeit" -- "RaumZeit Maschinenkrieg"
 	{"Auf der Flucht";"Erstkontakt";"Schattenspiele";} -- "Totenwache"
-	{"Totenwache";"Schattenspiele";"Piraten und Zat";} -- "RaumZeit Friedenszwang"
+	{"Totenwache";"Schattenspiele";"Piraten und Zat";"Kleine Schiffe";} -- "RaumZeit Friedenszwang"
 	{"Motivation"} -- "Eine stabile Gesellschaft"
 	{"Nexus"} -- "Nexus-Welt"
 	{"Gefangen zwischen den Welten"} -- "Die Stadt zwischen den Welten"
@@ -88,7 +88,7 @@ graph G {
 	// Nach Ort
         edge [color="0.3 0.5 0.7"]
 
-	Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";}
+        Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";"Dani";}
         
         Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"; "Nele Mueller"; }
         
@@ -125,13 +125,16 @@ graph G {
 
 
     // Erste Runde    
-    edge [color="0.2 0.5 0.7"];	"Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene"; }
+    edge [color="0.2 0.5 0.7"];	"Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene"; "Kleine Schiffe";}
     "Benjamin Gepart" -- {"Wächter der Zeit";}
     "Arne Babenhauserheide" -- {"Auf der Flucht";"Erstkontakt";"Wächter der Zeit";"Schattenspiele";"Piraten und Zat";"Nexus";"Gefangen zwischen den Welten"; "Greise Helden"}
-    "Oliver Jahnel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Wächter der Zeit";"Schattenspiele";"Piraten und Zat";"Gefangen zwischen den Welten"; "Die Krallenmaske"; "SR mit dem EWS" }
+    "Oliver Jahnel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Wächter der Zeit";"Schattenspiele";"Piraten und Zat";"Gefangen zwischen den Welten"; "Die Krallenmaske"; "SR mit dem EWS" "Kleine Schiffe";}
     "Luca Kracke" -- "Erstkontakt"
-    "Andreas Jehle" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Gefangen zwischen den Welten";}
-    "Jens Stengel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Die Krallenmaske"}
+    "Andreas Jehle" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Gefangen zwischen den Welten";"Kleine Schiffe";}
+    "Jens Stengel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Die Krallenmaske";"Kleine Schiffe";}
+
+    // Karlsruhe
+    "Dani" -- "Kleine Schiffe"
     
     // Zwischenrunden
     edge [color="0.3 0.5 0.7"];	"Verónica" -- {"Seminar";"Erstkontakt";"Schattenspiele";"Gefangen zwischen den Welten"}
@@ -176,7 +179,7 @@ graph G {
 	edge [label="SL",color="1.0 0.5 0.7"]
 
 	"Julian Groß" -- {"Auf der Flucht";"Erstkontakt";"Rettet die Weltenkristalle";"Wächter der Zeit";"Piraten und Zat";}
-	"Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS" }	
+	"Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Die Hoehlen der Woelfe"; "Kleine Schiffe";}	
 	"Moritz Herrmann" -- "Nexus";     
         "Achim Zien" -- "Katzhulu Einzelknaller";
 
