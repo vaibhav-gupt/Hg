@@ -58,7 +58,7 @@ graph G {
 	{"Rettet die Weltenkristalle";"Seminar";} -- Crossover
 	"Wächter der Zeit" -- "RaumZeit Maschinenkrieg"
 	{"Auf der Flucht";"Erstkontakt";"Schattenspiele";} -- "Totenwache"
-	{"Totenwache";"Schattenspiele";"Piraten und Zerg";} -- "RaumZeit Friedenszwang"
+	{"Totenwache";"Schattenspiele";"Piraten und Zat";} -- "RaumZeit Friedenszwang"
 	{"Motivation"} -- "Eine stabile Gesellschaft"
 	{"Nexus"} -- "Nexus-Welt"
 	{"Gefangen zwischen den Welten"} -- "Die Stadt zwischen den Welten"
@@ -127,8 +127,8 @@ graph G {
     // Erste Runde    
     edge [color="0.2 0.5 0.7"];	"Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene"; }
     "Benjamin Gepart" -- {"Wächter der Zeit";}
-    "Arne Babenhauserheide" -- {"Auf der Flucht";"Erstkontakt";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";"Nexus";"Gefangen zwischen den Welten"; "Greise Helden"}
-    "Oliver Jahnel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";"Gefangen zwischen den Welten"; "Die Krallenmaske"; "SR mit dem EWS" }
+    "Arne Babenhauserheide" -- {"Auf der Flucht";"Erstkontakt";"Wächter der Zeit";"Schattenspiele";"Piraten und Zat";"Nexus";"Gefangen zwischen den Welten"; "Greise Helden"}
+    "Oliver Jahnel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Wächter der Zeit";"Schattenspiele";"Piraten und Zat";"Gefangen zwischen den Welten"; "Die Krallenmaske"; "SR mit dem EWS" }
     "Luca Kracke" -- "Erstkontakt"
     "Andreas Jehle" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Gefangen zwischen den Welten";}
     "Jens Stengel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Die Krallenmaske"}
@@ -175,7 +175,7 @@ graph G {
 	// Nach Runde
 	edge [label="SL",color="1.0 0.5 0.7"]
 
-	"Julian Groß" -- {"Auf der Flucht";"Erstkontakt";"Rettet die Weltenkristalle";"Wächter der Zeit";"Piraten und Zerg";}
+	"Julian Groß" -- {"Auf der Flucht";"Erstkontakt";"Rettet die Weltenkristalle";"Wächter der Zeit";"Piraten und Zat";}
 	"Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS" }	
 	"Moritz Herrmann" -- "Nexus";     
         "Achim Zien" -- "Katzhulu Einzelknaller";
