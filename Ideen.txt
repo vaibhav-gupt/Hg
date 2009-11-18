@@ -1744,3 +1744,24 @@ alle Beteiligten völlig natürlich, als würden sie sich im freien Raum laufen
 und nicht in einer eng gepackten Kampftruppe.
 
 ------ 
+
+Beschreibung von NSCs durch grundlegende Persönlichkeitsmerkmale: 
+
+Wesentliche Charakterzüge, Gewichtung "Big Five" (jeweils 4 Stufen)
+
+* Neurotizismus: unsicher, nervös, ängstlich -- ruhig, ausgeglichen, sorgenfrei
+* Introversion: zurückhaltend, konzentriert, unabhängig -- gesellig, aktiv, gesprächig
+* Offenheit für Erfahrungen: wissbegierig, phantasievoll, experimentierfreudig --  konventionell, konservativ, vorsichtig
+* Verträglichkeit: wohlwollend, hilfsbereit, verständnisvoll -- antagonistisch, egozentrisch, misstrauisch
+* Gewissenhaftigkeit: organisiert, sorgfältig, zuverlässig -- sorglos, unachtsam, ungenau
+
+Wenn wir eine größere Anzahl Beispiel-NSCs erschaffen, sollten sie sich in den 
+Big Five möglichst unterscheiden, damit sie leichter auseinander gehalten werden können. 
+
+Ein oder zwei der Stichworte reichen dabei wahrscheinlich aus. 
+
+(Idee von http://www.edalon.de/sl-hilfen/rollenspiel-charakter.htm und 
+http://de.wikipedia.org/wiki/Big_Five_(Psychologie) )
+
+------ 
+
