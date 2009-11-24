@@ -1,4 +1,4 @@
-Nur Fertigkeiten Modul (NurE)
+Nur Fertigkeiten Modul (NurF)
 =============================
 
 *Charaktere nur mit Fertigkeiten beschreiben*
