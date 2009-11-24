@@ -1,0 +1,17 @@
+Nur Fertigkeiten Modul (NurE)
+=============================
+
+*Charaktere nur mit Fertigkeiten beschreiben*
+
+Einführung
+----------
+
+In manchen Spielstilen ist die Beschreibung des Charakters mit Eigenschaften, Fertigkeiten und Merkmalen zu umständlich. Um das 1w6 system noch schlanker zu machen, können Charaktere nur mit Fertigkeiten beschrieben werden. 
+
+Durch diese schlankere Beschreibung wird es regeltechnisch etwas weniger wichtig, "wie ein Charakter ist" und dafür tritt stärker in den Vordergrund, "was ein Charakter kann".
+
+Wenn für deine Runde also am wichtigsten ist, was die Charaktere direkt tun (und weniger, wie sie es tun), dann könnte das Modul "Nur Fertigkeiten" für euch praktisch sein. 
+
+Grundlagen
+----------
+
