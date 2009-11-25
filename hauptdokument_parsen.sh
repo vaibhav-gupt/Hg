@@ -36,4 +36,4 @@ for l in lines:
   _l = '<small>' + _l[6:-2] + '</small>  '
  lines[lines.index(l)] = _l
 markdown_data = '\n'.join(lines)
-" "Unu Kubo Kodo" Esperanto/Hauptdokument/Scribus-fontoj http://1w6.org/esperanto/
+" "Unu Kubo Kodo" Esperanto/ĉefdokumento/Scribus-fontoj http://1w6.org/esperanto/
