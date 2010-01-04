@@ -1,0 +1,22 @@
+Eigenschaften, Berufe und Fertigkeiten, Bedeutung und Abgrenzung
+===================================================================
+
+Im EWS sind Eigenschaften, Berufe und Fertigkeiten klar abgenrenzt. Deutlich wird das in ihrer [Bedeutung für den Charakter](#char), in [Auswirkungen und Nutzung im Spiel](#spiel) und in ihrer [Regeltechnischen Ausgestaltung](#regeln).
+
+*(der Text enthält bereits die für das ews 3.0 geplanten Regeländerungen)*
+
+TODO: Wo immer möglich mit Zitat. 
+
+<a name="char"></a>
+Für den Charakter (Beschreibung)
+--------------------------------
+
+Die Bedeutung von Eigenschaften, Berufen und Fertigkeiten für den Char utnerscheidet sich deutlich. Ich versuche das am Beispiel von *Lazaro* zu verdeutlichen. 
+
+* Eigenschaften sind die Grundlage seines Wesens. Sie beschreiben, was und wie er *ist*. Außerdem zeigen sie an, wie es ihm gerade geht.  
+Egal, ob Lazaro versucht, ungesehen über den Marktplatz zu kommen, während einem Ballabend reiche Damen zum Plaudern zu bringen oder einer Rasenden Wache in Vollplatte zu entkommen, seine Gewandheit wird sich zeigen, auch wenn sie ihm vielleicht nichts bringt.  
+Beispiel aus Filmen: "Speedy" in "Die sieben Zwerge" ist immer daran erkennbar, dass er langsam ist - egal, was er tut (den Film habe ich vorletzte Woche gesehen :) ).  
+Zitat: "Er bewegt sich mit katzenhafter Eleganz" 
+
+* Berufe geben ihm die Grundausrichtung und leben sein allgemeines Tätigkeitsfeld fest. Auf die Art geben sie einen Hinweis auf die Rolle des Charakters in der Gruppe.  
+Außerdem können sie eine Grundlage für Fertigkeiten bieten, die dann wie Spezialisierungen vom Wert des Berufes aus gesteigert werden.  
