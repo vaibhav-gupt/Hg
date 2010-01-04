@@ -1797,3 +1797,6 @@ Die Dauer war meist etwa 4 bis 8 Stunden, so dass im Bestfall jeder mal SL und m
 
 ------ 
 
+Merkmale der SL: wandelbare oder unberechenbare Merkmale, von denen der Char nur einen Teil zahlen muss, da die SL sie an die jeweiligen erfordernisse der Geschichte anpassen kann. Z.B. kann die SL plötzlich neue Begrenzungen einführen, oder neue seltsame Reaktionen der Fähigkeiten auf die Umgebung bestimmen. 
+
+------ 
