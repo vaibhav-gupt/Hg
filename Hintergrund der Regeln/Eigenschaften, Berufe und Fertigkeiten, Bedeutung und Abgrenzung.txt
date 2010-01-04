@@ -31,3 +31,25 @@ Auswirkung und Nutzung im Spiel (Interaktion + Werte)
 -----------------------------------------------------
 
 
+Eigenschaften, Berufe und Fertigkeiten haben auch im Spiel selbst unterschiedliche Auswirkungen. 
+
+*(Während im EWS 2.2 und früher Berufe nur eine einfache Möglichkeit waren, das Charakterheft übersichtlich zu halten, ist der Unterschied seit 2.4 sehr viel klarer, da sie variable Boni von je einer passenden Eigenschaft erhalten und nicht mehr nur echte Berufe sein können, sondern alles, aus dem sich enthaltene Fertigkeiten ableiten lassen)*
+
+* Eigenschaften geben einem Charakter seine Grundwerte, v.a. seine Werte und Wundschwelle für verschiedene ARten von Interaktionen. Aus sie wird nur gewürfelt, wenn es um eine Grundeigenschaft des Charakters geht.  
+Beispielsweise sinkt der positive Effekt von Lazaros persönlichem Stil, wenn er soziale Auseinandersetzungen verliert, und seine gewandheit und Grazie lassen nach, wenn er im Kampf verletzt wird.  
+Auf Charaisma würfelt er meist nur, wenn die Sl wissen will, ob eine Frau Interesse an ihm gewinnt, ohne dass Lazaro Gelegenheit (oder den Wunsch) hat, bewusst seinen Charme spielen zu lassen (zum Beispiel, wenn er nichts von ihrer Anwesenheit ahnt). Ebenso würfelt er auf Gewandheit, um zu sehen, ob er sich auf einem schwankenden Schiff auf den Beinen hält.  
+Wenn es um Proben geht, die eigentlich mit einer Fertigkeit gewürfelt werden, sind die entsprechenden Proben auf Eigenschaften um 9 Punkte erschwert.  
+Wollte sich z.B. Lazaro nur mit seiner Gewandheit (15) an Seiltanz versuchen, hätte er eine Erschwernis von 9 Punkten. Selbst bei einem einfachen Seil (MW: 9) bräuchte er mit seinem effektiven Wert von 6 (15-9) eine 4 oder 6, um nicht abzustürzen. 
+
+* Berufe bieten ein breites Einsatzfeld für Proben, v.a. zur Vorbereitung von Situationen. Im Spiel sind die meisten Situationen von mindestens einem Beruf der Gruppe abgedeckt, so dass sie auch das "schwachte Rampenlicht" mitsteuern. Durch geschicktes anspielen der Berufe kann die SL recht einfach den Spielern Zeit im Mittelpunkt der Handlung geben.  
+Oftmals liefern die Berufe auch Grundannahmen über den Charakter und seinen Stand in der Gesellschaft.  In zentralen Situationen gibt es aber meist Charaktere mit Fertigkeiten, die für die Situation passen und höher sind.  
+Z.B. nutzt Lazaro seinen Beruf als Diplomat, um eine Schiffsreise zu organisieren, aber es passiert selten, dass ein zentraler Konflikt ihn eher als Diplomaten fordert denn als Degenfechter oder Charmeur, denn im Fechten und FLirten ist er einfach deutlich besser.  
+Gleichzeitig gibt ihm sein Beruf als Diplomat oft Zugang zu Orten, an die andere nicht kommen würden, ohne dass er zwingend würfeln muss (effektiv einfach ein sehr niedriger Mindestwurf - wenn der Mindestwurf 6 Punkte niedriger ist als der Wert, muss die Spielerin nicht würfeln). 
+
+* Fertigkeiten werden meist im Hauptkonflikt genutzt. Sie haben ein recht klares Einsatzgebiet und geben Charakteren die stärksten Werte für Proben.  
+Eine von Lazaros Fertigkeiten ist z.B. die Kunst des Flirtens, die er auch ausgiebig nutzt (und sich damit regelmäßig in Schwierigkeiten bringt). Zusammen mit Fechten ist sie seine Spezialität und zeigt damit die Aktivität, bei der er das stärkste Rampenlicht erhält. 
+
+Regeltechnische Ausgestaltung (Boni und Kosten)
+-----------------------------------------------
+
+
