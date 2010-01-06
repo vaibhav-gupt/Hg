@@ -1,74 +1,77 @@
 Eigenschaften, Berufe und Fertigkeiten, Bedeutung und Abgrenzung
 ===================================================================
 
-*Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben die Grundrolle des Chars und der Gruppe ("Was kann ich?") und Fertigkeiten geben seine Hauptstärken ("Was kann ich, und wie?").*
+*Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben einen Hinweis auf und Hintergrund für die Rolle des Chars in der Gruppe ("Was kann ich?") und Fertigkeiten zeigen seine Hauptstärken ("Was kann ich, und wie?").*
 
 Im EWS sind Eigenschaften, Berufe und Fertigkeiten klar abgenrenzt. Deutlich wird das in ihrer [Bedeutung für den Charakter](#char), in [Auswirkungen und Nutzung im Spiel](#spiel) und in ihrer [Regeltechnischen Ausgestaltung](#regeln).
 
-*(der Text enthält bereits die für das ews 3.0 geplanten Regeländerungen)*
-
-TODO: Wo immer möglich mit Zitat. 
+*(der Text enthält bereits die für das EWS 3.0 geplanten Regeländerungen)*
 
 <a name="char"></a>
 Für den Charakter (Beschreibung)
 --------------------------------
 
-Die Bedeutung von Eigenschaften, Berufen und Fertigkeiten für den Char utnerscheidet sich deutlich. Ich versuche das am Beispiel von *Lazaro* zu verdeutlichen. 
+Die Bedeutung von Eigenschaften, Berufen und Fertigkeiten für den Char unterscheidet sich deutlich. Ich versuche das am Beispiel von *Lazaro* zu verdeutlichen. 
 
 * Eigenschaften sind die Grundlage seines Wesens. Sie beschreiben, was und wie er *ist*. Außerdem zeigen sie an, wie es ihm gerade geht.  
-Egal, ob Lazaro versucht, ungesehen über den Marktplatz zu kommen, während einem Ballabend reiche Damen zum Plaudern zu bringen oder einer Rasenden Wache in Vollplatte zu entkommen, seine Gewandheit wird sich zeigen, auch wenn sie ihm vielleicht nichts bringt.  
+Egal, ob Lazaro versucht, ungesehen über den Marktplatz zu kommen, bei einem Ballabend reiche Damen zum Plaudern zu bringen oder einer rasenden Wache in Vollplatte zu entkommen, seine Gewandheit wird sich zeigen, auch wenn sie ihm vielleicht nicht immer etwas bringt.  
 Beispiel aus Filmen: "Speedy" in "Die sieben Zwerge" ist immer daran erkennbar, dass er langsam ist - egal, was er tut (den Film habe ich vorletzte Woche gesehen :) ).  
 Zitat: "Er bewegt sich mit katzenhafter Eleganz" 
 
 * Berufe geben ihm die Grundausrichtung und leben sein allgemeines Tätigkeitsfeld fest. Auf die Art geben sie einen Hinweis auf die Rolle des Charakters in der Gruppe.  
 Außerdem können sie eine Grundlage für Fertigkeiten bieten, die dann wie Spezialisierungen vom Wert des Berufes aus gesteigert werden.  
 Lazaro kann als Diplomat mit Menschen umgehen und die Gruppe durch viele der Schwierigkeiten einer aristokratischen Gesellschaft manövrieren. Wenn sie auf neue Leute treffen, ist er meistens der erste, der sie anspricht, und er übernimmt auc Papierkram und die Beschaffung von Einreisepapieren und Einladungen in Fürstenhäuser - oder zum Ball.  
-Wenn er sich mit bestimmten Aspekten der DIplomatie besonders beschäftigt, kann er die Aspekte zu Fertigkeiten auf Grundlage des Berufes machen. 
+Wenn er sich mit bestimmten Aspekten der DIplomatie besonders beschäftigt, kann er die Aspekte zu Fertigkeiten auf Grundlage des Berufes machen.  
+Zitat: "Klar komm ich ins Rathaus. Immerhin bin ich Diplomat."
 
 * Fertigkeiten zeigen die direkten Einflussfelder des Charakters und geben ihnen Farbe. Sie sind die Antwort auf die Frage, "Was kannst du, und wie machst du es?"  
-Beispielsweise beherrscht Lazaro die "Kunst des Flirtens" und verlässt sich dabei auf sein natürliches Charisma und seinen persönlichen Stil, den er seit Jahren kultiviert. 
+Beispielsweise beherrscht Lazaro die "Kunst des Flirtens" und verlässt sich dabei auf sein natürliches Charisma und seinen persönlichen Stil, den er seit Jahren kultiviert.  
+Zitat: "Siehst du mit welchem Können und welcher Gewandheit er seinen Degen führt?"
 
-
+<a name="spiel"></a>
 Auswirkung und Nutzung im Spiel (Interaktion + Werte)
 -----------------------------------------------------
 
+Eigenschaften, Berufe und Fertigkeiten haben auch für die Spielwerte der Charaktere und für Proben deutlich unterschiedliche Auswirkungen. 
 
-Eigenschaften, Berufe und Fertigkeiten haben auch im Spiel selbst unterschiedliche Auswirkungen. 
+*(Während in Versionen des EWS bis 2.2 Berufe nur eine einfache Möglichkeit waren, das Charakterheft übersichtlich zu halten, ist der Unterschied seit 2.4 sehr viel klarer, da sie variable Boni von je einer passenden Eigenschaft erhalten, und weil sie nicht mehr nur echte Berufe sein können, sondern alles, aus dem sich enthaltene Fertigkeiten ableiten lassen)*
 
-*(Während im EWS 2.2 und früher Berufe nur eine einfache Möglichkeit waren, das Charakterheft übersichtlich zu halten, ist der Unterschied seit 2.4 sehr viel klarer, da sie variable Boni von je einer passenden Eigenschaft erhalten und nicht mehr nur echte Berufe sein können, sondern alles, aus dem sich enthaltene Fertigkeiten ableiten lassen)*
-
-* Eigenschaften geben einem Charakter seine Grundwerte, v.a. seine Werte und Wundschwelle für verschiedene ARten von Interaktionen. Aus sie wird nur gewürfelt, wenn es um eine Grundeigenschaft des Charakters geht.  
-Beispielsweise sinkt der positive Effekt von Lazaros persönlichem Stil, wenn er soziale Auseinandersetzungen verliert, und seine gewandheit und Grazie lassen nach, wenn er im Kampf verletzt wird.  
-Auf Charaisma würfelt er meist nur, wenn die Sl wissen will, ob eine Frau Interesse an ihm gewinnt, ohne dass Lazaro Gelegenheit (oder den Wunsch) hat, bewusst seinen Charme spielen zu lassen (zum Beispiel, wenn er nichts von ihrer Anwesenheit ahnt). Ebenso würfelt er auf Gewandheit, um zu sehen, ob er sich auf einem schwankenden Schiff auf den Beinen hält.  
+* Eigenschaften geben einem Charakter seine Grundwerte, v.a. seine Werte und Wundschwelle für verschiedene Arten von Interaktionen. Auf sie wird nur gewürfelt, wenn es um eine Grundeigenschaft des Charakters geht.  
+Beispielsweise sinkt der positive Effekt von Lazaros persönlichem Stil, wenn er soziale Auseinandersetzungen verliert, und seine Gewandheit und Grazie lassen nach, wenn er im Kampf verletzt wird.  
+Auf Charisma würfelt er meist nur, wenn die SL wissen will, ob eine Frau Interesse an ihm gewinnt, ohne dass Lazaro Gelegenheit (oder den Wunsch) hat, bewusst seinen Charme spielen zu lassen (zum Beispiel, wenn er nichts von ihrer Anwesenheit ahnt). Ebenso würfelt er auf Gewandheit, um zu sehen, ob er sich auf einem schwankenden Schiff auf den Beinen hält.  
 Wenn es um Proben geht, die eigentlich mit einer Fertigkeit gewürfelt werden, sind die entsprechenden Proben auf Eigenschaften um 9 Punkte erschwert.  
-Wollte sich z.B. Lazaro nur mit seiner Gewandheit (15) an Seiltanz versuchen, hätte er eine Erschwernis von 9 Punkten. Selbst bei einem einfachen Seil (MW: 9) bräuchte er mit seinem effektiven Wert von 6 (15-9) eine 4 oder 6, um nicht abzustürzen. 
+Wollte sich z.B. Lazaro nur mit seiner Gewandheit (15) an Seiltanz versuchen, hätte er eine Erschwernis von 9 Punkten. Selbst bei einem einfachen Seil (MW: 9) bräuchte er mit seinem effektiven Wert von 6 (15-9) eine 4 oder 6, um nicht abzustürzen.  
+Zitate: "Dafür bin ich gewandt genug", "ich bin viel zu stur, um mich von so einem Stupser umwerfen zu lassen"
 
 * Berufe bieten ein breites Einsatzfeld für Proben, v.a. zur Vorbereitung von Situationen. Im Spiel sind die meisten Situationen von mindestens einem Beruf der Gruppe abgedeckt, so dass sie auch das "schwachte Rampenlicht" mitsteuern. Durch geschicktes anspielen der Berufe kann die SL recht einfach den Spielern Zeit im Mittelpunkt der Handlung geben.  
 Oftmals liefern die Berufe auch Grundannahmen über den Charakter und seinen Stand in der Gesellschaft.  In zentralen Situationen gibt es aber meist Charaktere mit Fertigkeiten, die für die Situation passen und höher sind.  
-Z.B. nutzt Lazaro seinen Beruf als Diplomat, um eine Schiffsreise zu organisieren, aber es passiert selten, dass ein zentraler Konflikt ihn eher als Diplomaten fordert denn als Degenfechter oder Charmeur, denn im Fechten und FLirten ist er einfach deutlich besser.  
-Gleichzeitig gibt ihm sein Beruf als Diplomat oft Zugang zu Orten, an die andere nicht kommen würden, ohne dass er zwingend würfeln muss (effektiv einfach ein sehr niedriger Mindestwurf - wenn der Mindestwurf 6 Punkte niedriger ist als der Wert, muss die Spielerin nicht würfeln). 
+Lazaro nutzt z.B. seinen Beruf als Diplomat, um eine Schiffsreise zu organisieren, aber es passiert selten, dass ein zentraler Konflikt ihn eher als Diplomaten fordert denn als Degenfechter oder Charmeur, denn im Fechten und Flirten ist er einfach deutlich besser.  
+Gleichzeitig gibt ihm sein Beruf als Diplomat oft Zugang zu Orten, an die andere nicht kommen würden, ohne dass er zwingend würfeln muss (effektiv einfach ein sehr niedriger Mindestwurf - wenn der Mindestwurf 6 Punkte niedriger ist als der Wert, muss die Spielerin nicht würfeln).  
+Zitate: "Klar kann ich Schlösser knacken, ich bin ein Dieb!", "Macht euch keine Gedanken, jeder Jäger der dunklen Wälder kann die Schleichwege der Elben finden. Ich hoffe, ihr habt euch gut überlegt, was ihr ihnen sagen wollt."
 
 * Fertigkeiten werden meist im Hauptkonflikt genutzt. Sie haben ein recht klares Einsatzgebiet und geben Charakteren die stärksten Werte für Proben.  
-Eine von Lazaros Fertigkeiten ist z.B. die Kunst des Flirtens, die er auch ausgiebig nutzt (und sich damit regelmäßig in Schwierigkeiten bringt). Zusammen mit Fechten ist sie seine Spezialität und zeigt damit die Aktivität, bei der er das stärkste Rampenlicht erhält. 
+Eine von Lazaros Fertigkeiten ist z.B. die Kunst des Flirtens, die er auch ausgiebig nutzt (und sich damit regelmäßig in Schwierigkeiten bringt). Zusammen mit Fechten ist sie seine Spezialität und zeigt damit die Aktivität, bei der er das stärkste Rampenlicht erhält.  
+Zitate: "Lasst mich mal ran. Mich hat noch kein Passwort länger als ein paar Stunden aufgehalten.", "Direkt ins Schwarze! Kann ich nun Bogenschießen?", "*Hey Bürschchen. Ein Wort zur Wache, und du kannst dich von deinem Haus verabschieden!* 15 bei Einschüchtern!"
 
+<a name="regeln"></a>
 Regeltechnische Ausgestaltung (Boni und Kosten)
 -----------------------------------------------
 
-Auch von der technischen Gestaltung her unterscheiden sich Eigenschaften, Berufe und Fertigkeiten deutlich. Die davon noch nicht bei [Charakter](#char) und [Spiel](#spiel) genannten Unterschiede zeigen sich v.a. bei den kosten für effektive Werte (auf die Spieler würfeln) und bei den Boni, die sie Eigenschaften, Berufe und Fertigkeiten erhalten und geben. 
+Auch von der technischen Gestaltung her unterscheiden sich Eigenschaften, Berufe und Fertigkeiten deutlich. Die davon noch nicht bei [Charakter](#char) und [Spiel](#spiel) genannten Unterschiede zeigen sich v.a. bei den Kosten für effektive Werte (auf die die Spielerinnen würfeln) und bei den Boni, die Eigenschaften, Berufe und Fertigkeiten erhalten und geben. 
 
-* Eigenschaften geben sowohl berufen als auch Fertigkeiten Boni (1 pro +), erhalten allerdings keine.  
+* Eigenschaften geben sowohl Berufen als auch Fertigkeiten Boni (1 pro +), erhalten allerdings selbst keine.  
 Ihr effektiver Würfelwert für Proben, für die es auch Fertigkeiten gibt, liegt im Durchschnitt etwa 9 Punkte unter einer Fertigkeit, die gleich viel kostet (und Boni von Eigenschaften erhält).  
-Eine legendäre Eigenschaft (24) entspricht damit mehreren passenden Fertigkeiten mit sehr gutem Effektivwert (15), also in etwa durchschnittlichem Grundwert, die jeweils ein Dreieck kosten. Die legendäre Eigenschaft kostet 10 Dreiecke. 
+Eine legendäre Eigenschaft (24) entspricht damit mehreren passenden Fertigkeiten mit sehr gutem Effektivwert (15), also in etwa durchschnittlichem Grundwert (12), die jeweils ein Dreieck kosten. Die legendäre Eigenschaft kostet 10 Dreiecke.  
 
 * Berufe erhalten variable Boni von jeweils einer zur Situation passenden Eigenschaft und geben in passenden Situationen Boni für Fertigkeiten, die nicht direkt auf ihnen aufbauen (also keine Spezialisierungen des Berufes sind). Außerdem können Fertigkeiten auf Berufen aufbauen, was einem festen Bonus gleich der dreifachen Anzahl der Plusse entspricht.  
-In einem Beruf den gleichen Wert wie entsprechenden Fertigkeiten zu erreichen kostet deutlich mehr; in niedrigen Wertebereichen weil der Grundwert bei gleichen Kosten 3 Punkte niedriger ist, als der einer gleich teuren Fertigkeit, in hohen Wertebereichen, weil Berufe nur aus einer variablen Eigenschaft Boni erhalten und Fertigkeiten aus zwei festen. 
+In einem Beruf den gleichen Wert wie in einer Fertigkeit zu erreichen kostet deutlich mehr; in niedrigen Wertebereichen weil der Grundwert bei gleichen Kosten 3 Punkte niedriger ist, als der einer gleich teuren Fertigkeit, in hohen Wertebereichen, weil Berufe nur aus einer variablen Eigenschaft Boni erhalten und Fertigkeiten aus zwei festen Eigenschaften und dazu aus passenden Berufen und Fertigkeiten (von denen ein Charakter in höheren Machtleveln meist mehr hat). 
 
-* Fertigkeiten erhalten feste Boni aus zwei Eigenschaften, aus passenden berufen und passenden Fertigkeiten. Sie geben anderen Fertigkeiten Boni.  
-Hohe Effektivwerte sind günstiger zu erreichen als bei Berufen und Eigenschaften, v.a. wenn die Fertigkeiten jeweils auf Berufen aufbauen. Außerdem können sie spezialisiert werden und so noch günstiger auf hohe Werte kommen. Dann gibt allerdings nur die Fertigkeit anderen Werten Boni, die Spezialisierung nicht; entweder sie passen zur Situation oder sie passen nicht (das ist der Unterschied zwischen Fertigkeiten, die auf einem Beruf aufbauen und anderen Boni geben und Spezialisierungen, die auf einer Fertigkeit aufbauen und anderen eigenen Werten keine Boni geben).  
+* Fertigkeiten erhalten feste Boni aus zwei Eigenschaften, aus passenden Berufen und passenden Fertigkeiten. Sie geben anderen Fertigkeiten Boni.  
+Hohe Effektivwerte sind günstiger zu erreichen als bei Berufen und Eigenschaften, v.a. wenn die Fertigkeiten jeweils auf Berufen aufbauen. Außerdem können sie spezialisiert werden und so noch günstiger auf hohe Werte kommen. Spezialisierungen haben allerdings ein sehr viel schmaleres Einsatzfeld und geben auch in deutlich weniger Situationen Boni.   
 Die Eigenschaften, die Boni geben, können nur bei Steigerungen der Fertigkeit geändert werden (was dann dem Lernen eines veränderten Stils entspricht). 
 
 Fazit
 -----
 
-Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben die Grundrolle des Chars und der Gruppe ("Was kann ich?") und Fertigkeiten geben seine Hauptstärken ("Was kann ich, und wie?").
+Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben einen Hinweis auf und Hintergrund für die Rolle des Chars in der Gruppe ("Was kann ich?") und Fertigkeiten zeigen seine Hauptstärken ("Was kann ich, und wie?").
 
