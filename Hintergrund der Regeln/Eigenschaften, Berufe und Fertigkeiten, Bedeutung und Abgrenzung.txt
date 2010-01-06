@@ -1,9 +1,9 @@
 Eigenschaften, Berufe und Fertigkeiten, Bedeutung und Abgrenzung
 ===================================================================
 
-*Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben einen Hinweis auf und Hintergrund für die Rolle des Chars in der Gruppe ("Was kann ich?") und Fertigkeiten zeigen seine Hauptstärken ("Was kann ich, und wie?").*
+*Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben einen Hinweis auf die Rolle des Chars in der Gruppe und Hintergrund dafür ("Was kann ich?") und Fertigkeiten zeigen seine Hauptstärken ("Was kann ich, und wie mache ich es?").*
 
-Im EWS sind Eigenschaften, Berufe und Fertigkeiten klar abgenrenzt. Deutlich wird das in ihrer [Bedeutung für den Charakter](#char), in [Auswirkungen und Nutzung im Spiel](#spiel) und in ihrer [Regeltechnischen Ausgestaltung](#regeln).
+Im EWS sind Eigenschaften, Berufe und Fertigkeiten klar abgegrenzt. Deutlich wird das in ihrer [Bedeutung für den Charakter](#char), in [Auswirkungen und Nutzung im Spiel](#spiel) und in ihrer [Regeltechnischen Ausgestaltung](#regeln).
 
 *(der Text enthält bereits die für das EWS 3.0 geplanten Regeländerungen)*
 
@@ -21,7 +21,7 @@ Zitat: "Er bewegt sich mit katzenhafter Eleganz"
 * Berufe geben ihm die Grundausrichtung und leben sein allgemeines Tätigkeitsfeld fest. Auf die Art geben sie einen Hinweis auf die Rolle des Charakters in der Gruppe.  
 Außerdem können sie eine Grundlage für Fertigkeiten bieten, die dann wie Spezialisierungen vom Wert des Berufes aus gesteigert werden.  
 Lazaro kann als Diplomat mit Menschen umgehen und die Gruppe durch viele der Schwierigkeiten einer aristokratischen Gesellschaft manövrieren. Wenn sie auf neue Leute treffen, ist er meistens der erste, der sie anspricht, und er übernimmt auc Papierkram und die Beschaffung von Einreisepapieren und Einladungen in Fürstenhäuser - oder zum Ball.  
-Wenn er sich mit bestimmten Aspekten der DIplomatie besonders beschäftigt, kann er die Aspekte zu Fertigkeiten auf Grundlage des Berufes machen.  
+Wenn er sich mit bestimmten Aspekten der Diplomatie besonders beschäftigt, kann er die Aspekte zu Fertigkeiten auf Grundlage des Berufes machen.  
 Zitat: "Klar komm ich ins Rathaus. Immerhin bin ich Diplomat."
 
 * Fertigkeiten zeigen die direkten Einflussfelder des Charakters und geben ihnen Farbe. Sie sind die Antwort auf die Frage, "Was kannst du, und wie machst du es?"  
@@ -73,5 +73,4 @@ Die Eigenschaften, die Boni geben, können nur bei Steigerungen der Fertigkeit g
 Fazit
 -----
 
-Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben einen Hinweis auf und Hintergrund für die Rolle des Chars in der Gruppe ("Was kann ich?") und Fertigkeiten zeigen seine Hauptstärken ("Was kann ich, und wie?").
-
+Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben einen Hinweis auf die Rolle des Chars in der Gruppe und Hintergrund dafür ("Was kann ich?") und Fertigkeiten zeigen seine Hauptstärken ("Was kann ich, und wie mache ich es?").
