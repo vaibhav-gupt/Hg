@@ -18,15 +18,14 @@ Egal, ob Lazaro versucht, ungesehen über den Marktplatz zu kommen, bei einem Ba
 Beispiel aus Filmen: "Speedy" in "Die sieben Zwerge" ist immer daran erkennbar, dass er langsam ist - egal, was er tut (den Film habe ich vorletzte Woche gesehen :) ).  
 Zitat: "Er bewegt sich mit katzenhafter Eleganz" 
 
-* Berufe geben ihm die Grundausrichtung und leben sein allgemeines Tätigkeitsfeld fest. Auf die Art geben sie einen Hinweis auf die Rolle des Charakters in der Gruppe.  
-Außerdem können sie eine Grundlage für Fertigkeiten bieten, die dann wie Spezialisierungen vom Wert des Berufes aus gesteigert werden.  
+* Berufe geben ihm die Grundausrichtung und leben sein allgemeines Tätigkeitsfeld fest. Auf die Art geben sie einen Hinweis auf die Rolle des Charakters in der Gruppe. Außerdem können sie eine Grundlage für Fertigkeiten bieten, die dann wie Spezialisierungen vom Wert des Berufes aus gesteigert werden.  
 Lazaro kann als Diplomat mit Menschen umgehen und die Gruppe durch viele der Schwierigkeiten einer aristokratischen Gesellschaft manövrieren. Wenn sie auf neue Leute treffen, ist er meistens der erste, der sie anspricht, und er übernimmt auc Papierkram und die Beschaffung von Einreisepapieren und Einladungen in Fürstenhäuser - oder zum Ball.  
 Wenn er sich mit bestimmten Aspekten der Diplomatie besonders beschäftigt, kann er die Aspekte zu Fertigkeiten auf Grundlage des Berufes machen.  
 Zitat: "Klar komm ich ins Rathaus. Immerhin bin ich Diplomat."
 
 * Fertigkeiten zeigen die direkten Einflussfelder des Charakters und geben ihnen Farbe. Sie sind die Antwort auf die Frage, "Was kannst du, und wie machst du es?"  
 Beispielsweise beherrscht Lazaro die "Kunst des Flirtens" und verlässt sich dabei auf sein natürliches Charisma und seinen persönlichen Stil, den er seit Jahren kultiviert.  
-Zitat: "Siehst du mit welchem Können und welcher Gewandheit er seinen Degen führt?"
+Zitat: "Siehst du wie elegant und gekonnt er seinen Degen führt?"
 
 <a name="spiel"></a>
 Auswirkung und Nutzung im Spiel (Interaktion + Werte)
@@ -43,7 +42,7 @@ Wenn es um Proben geht, die eigentlich mit einer Fertigkeit gewürfelt werden, s
 Wollte sich z.B. Lazaro nur mit seiner Gewandheit (15) an Seiltanz versuchen, hätte er eine Erschwernis von 9 Punkten. Selbst bei einem einfachen Seil (MW: 9) bräuchte er mit seinem effektiven Wert von 6 (15-9) eine 4 oder 6, um nicht abzustürzen.  
 Zitate: "Dafür bin ich gewandt genug", "ich bin viel zu stur, um mich von so einem Stupser umwerfen zu lassen"
 
-* Berufe bieten ein breites Einsatzfeld für Proben, v.a. zur Vorbereitung von Situationen. Im Spiel sind die meisten Situationen von mindestens einem Beruf der Gruppe abgedeckt, so dass sie auch das "schwachte Rampenlicht" mitsteuern. Durch geschicktes anspielen der Berufe kann die SL recht einfach den Spielern Zeit im Mittelpunkt der Handlung geben.  
+* Berufe bieten ein breites Einsatzfeld für Proben, v.a. zur Vorbereitung von Situationen. Im Spiel sind die meisten Situationen von mindestens einem Beruf der Gruppe abgedeckt, so dass sie auch das "schwache Rampenlicht" mitsteuern. Durch geschicktes anspielen der Berufe kann die SL recht einfach den Spielern Zeit im Mittelpunkt der Handlung geben.  
 Oftmals liefern die Berufe auch Grundannahmen über den Charakter und seinen Stand in der Gesellschaft.  In zentralen Situationen gibt es aber meist Charaktere mit Fertigkeiten, die für die Situation passen und höher sind.  
 Lazaro nutzt z.B. seinen Beruf als Diplomat, um eine Schiffsreise zu organisieren, aber es passiert selten, dass ein zentraler Konflikt ihn eher als Diplomaten fordert denn als Degenfechter oder Charmeur, denn im Fechten und Flirten ist er einfach deutlich besser.  
 Gleichzeitig gibt ihm sein Beruf als Diplomat oft Zugang zu Orten, an die andere nicht kommen würden, ohne dass er zwingend würfeln muss (effektiv einfach ein sehr niedriger Mindestwurf - wenn der Mindestwurf 6 Punkte niedriger ist als der Wert, muss die Spielerin nicht würfeln).  
@@ -51,7 +50,7 @@ Zitate: "Klar kann ich Schlösser knacken, ich bin ein Dieb!", "Macht euch keine
 
 * Fertigkeiten werden meist im Hauptkonflikt genutzt. Sie haben ein recht klares Einsatzgebiet und geben Charakteren die stärksten Werte für Proben.  
 Eine von Lazaros Fertigkeiten ist z.B. die Kunst des Flirtens, die er auch ausgiebig nutzt (und sich damit regelmäßig in Schwierigkeiten bringt). Zusammen mit Fechten ist sie seine Spezialität und zeigt damit die Aktivität, bei der er das stärkste Rampenlicht erhält.  
-Zitate: "Lasst mich mal ran. Mich hat noch kein Passwort länger als ein paar Stunden aufgehalten.", "Direkt ins Schwarze! Kann ich nun Bogenschießen?", "*Hey Bürschchen. Ein Wort zur Wache, und du kannst dich von deinem Haus verabschieden!* 15 bei Einschüchtern!"
+Zitate: "Lasst mich mal ran. Mich hat noch kein Passwort länger als ein paar Stunden aufgehalten.", "Direkt ins Schwarze! Kann ich nun Bogenschießen?!", "*Hey Bürschchen. Ein Wort zur Wache, und du kannst dich von deinem Haus verabschieden!* 15 bei Einschüchtern!"
 
 <a name="regeln"></a>
 Regeltechnische Ausgestaltung (Boni und Kosten)
@@ -64,13 +63,15 @@ Ihr effektiver Würfelwert für Proben, für die es auch Fertigkeiten gibt, lieg
 Eine legendäre Eigenschaft (24) entspricht damit mehreren passenden Fertigkeiten mit sehr gutem Effektivwert (15), also in etwa durchschnittlichem Grundwert (12), die jeweils ein Dreieck kosten. Die legendäre Eigenschaft kostet 10 Dreiecke.  
 
 * Berufe erhalten variable Boni von jeweils einer zur Situation passenden Eigenschaft und geben in passenden Situationen Boni für Fertigkeiten, die nicht direkt auf ihnen aufbauen (also keine Spezialisierungen des Berufes sind). Außerdem können Fertigkeiten auf Berufen aufbauen, was einem festen Bonus gleich der dreifachen Anzahl der Plusse entspricht.  
-In einem Beruf den gleichen Wert wie in einer Fertigkeit zu erreichen kostet deutlich mehr; in niedrigen Wertebereichen weil der Grundwert bei gleichen Kosten 3 Punkte niedriger ist, als der einer gleich teuren Fertigkeit, in hohen Wertebereichen, weil Berufe nur aus einer variablen Eigenschaft Boni erhalten und Fertigkeiten aus zwei festen Eigenschaften und dazu aus passenden Berufen und Fertigkeiten (von denen ein Charakter in höheren Machtleveln meist mehr hat). 
+In einem Beruf den gleichen Wert wie in einer Fertigkeit zu erreichen kostet deutlich mehr; in niedrigen Wertebereichen weil der Grundwert bei gleichen Kosten 3 Punkte niedriger ist, als der einer gleich teuren Fertigkeit, in hohen Wertebereichen, weil Berufe nur aus einer variablen Eigenschaft Boni erhalten und Fertigkeiten aus zwei festen Eigenschaften und dazu aus passenden Berufen und Fertigkeiten (von denen ein mächtiger Charakter meist mehr hat als ein schwacher). 
 
-* Fertigkeiten erhalten feste Boni aus zwei Eigenschaften, aus passenden Berufen und passenden Fertigkeiten. Sie geben anderen Fertigkeiten Boni.  
-Hohe Effektivwerte sind günstiger zu erreichen als bei Berufen und Eigenschaften, v.a. wenn die Fertigkeiten jeweils auf Berufen aufbauen. Außerdem können sie spezialisiert werden und so noch günstiger auf hohe Werte kommen. Spezialisierungen haben allerdings ein sehr viel schmaleres Einsatzfeld und geben auch in deutlich weniger Situationen Boni.   
+* Fertigkeiten erhalten feste Boni aus zwei Eigenschaften, aus passenden Berufen und aus passenden Fertigkeiten. Sie geben anderen Fertigkeiten Boni.  
+Hohe Effektivwerte sind günstiger zu erreichen als bei Berufen und Eigenschaften, v.a. wenn die Fertigkeiten jeweils auf Berufen aufbauen. Außerdem können sie spezialisiert werden und so noch günstiger auf hohe Werte gebracht werden. Spezialisierungen haben allerdings ein sehr viel schmaleres Einsatzfeld und geben anderen Fertigkeiten auch in deutlich weniger Situationen Boni.   
 Die Eigenschaften, die Boni geben, können nur bei Steigerungen der Fertigkeit geändert werden (was dann dem Lernen eines veränderten Stils entspricht). 
 
 Fazit
 -----
 
 Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben einen Hinweis auf die Rolle des Chars in der Gruppe und Hintergrund dafür ("Was kann ich?") und Fertigkeiten zeigen seine Hauptstärken ("Was kann ich, und wie mache ich es?").
+
+*(Ja, das ist die Wiederholung des ersten Absatzes, weil eine Zusammenfassung am Ende oft hilft, die Informationen nochmal zu verknüpfen)*
