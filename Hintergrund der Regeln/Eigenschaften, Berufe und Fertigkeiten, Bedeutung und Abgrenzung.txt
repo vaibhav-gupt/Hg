@@ -1,6 +1,8 @@
 Eigenschaften, Berufe und Fertigkeiten, Bedeutung und Abgrenzung
 ===================================================================
 
+*Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben die Grundrolle des Chars und der Gruppe ("Was kann ich?") und Fertigkeiten geben seine Hauptstärken ("Was kann ich, und wie?").*
+
 Im EWS sind Eigenschaften, Berufe und Fertigkeiten klar abgenrenzt. Deutlich wird das in ihrer [Bedeutung für den Charakter](#char), in [Auswirkungen und Nutzung im Spiel](#spiel) und in ihrer [Regeltechnischen Ausgestaltung](#regeln).
 
 *(der Text enthält bereits die für das ews 3.0 geplanten Regeländerungen)*
@@ -52,4 +54,21 @@ Eine von Lazaros Fertigkeiten ist z.B. die Kunst des Flirtens, die er auch ausgi
 Regeltechnische Ausgestaltung (Boni und Kosten)
 -----------------------------------------------
 
+Auch von der technischen Gestaltung her unterscheiden sich Eigenschaften, Berufe und Fertigkeiten deutlich. Die davon noch nicht bei [Charakter](#char) und [Spiel](#spiel) genannten Unterschiede zeigen sich v.a. bei den kosten für effektive Werte (auf die Spieler würfeln) und bei den Boni, die sie Eigenschaften, Berufe und Fertigkeiten erhalten und geben. 
+
+* Eigenschaften geben sowohl berufen als auch Fertigkeiten Boni (1 pro +), erhalten allerdings keine.  
+Ihr effektiver Würfelwert für Proben, für die es auch Fertigkeiten gibt, liegt im Durchschnitt etwa 9 Punkte unter einer Fertigkeit, die gleich viel kostet (und Boni von Eigenschaften erhält).  
+Eine legendäre Eigenschaft (24) entspricht damit mehreren passenden Fertigkeiten mit sehr gutem Effektivwert (15), also in etwa durchschnittlichem Grundwert, die jeweils ein Dreieck kosten. Die legendäre Eigenschaft kostet 10 Dreiecke. 
+
+* Berufe erhalten variable Boni von jeweils einer zur Situation passenden Eigenschaft und geben in passenden Situationen Boni für Fertigkeiten, die nicht direkt auf ihnen aufbauen (also keine Spezialisierungen des Berufes sind). Außerdem können Fertigkeiten auf Berufen aufbauen, was einem festen Bonus gleich der dreifachen Anzahl der Plusse entspricht.  
+In einem Beruf den gleichen Wert wie entsprechenden Fertigkeiten zu erreichen kostet deutlich mehr; in niedrigen Wertebereichen weil der Grundwert bei gleichen Kosten 3 Punkte niedriger ist, als der einer gleich teuren Fertigkeit, in hohen Wertebereichen, weil Berufe nur aus einer variablen Eigenschaft Boni erhalten und Fertigkeiten aus zwei festen. 
+
+* Fertigkeiten erhalten feste Boni aus zwei Eigenschaften, aus passenden berufen und passenden Fertigkeiten. Sie geben anderen Fertigkeiten Boni.  
+Hohe Effektivwerte sind günstiger zu erreichen als bei Berufen und Eigenschaften, v.a. wenn die Fertigkeiten jeweils auf Berufen aufbauen. Außerdem können sie spezialisiert werden und so noch günstiger auf hohe Werte kommen. Dann gibt allerdings nur die Fertigkeit anderen Werten Boni, die Spezialisierung nicht; entweder sie passen zur Situation oder sie passen nicht (das ist der Unterschied zwischen Fertigkeiten, die auf einem Beruf aufbauen und anderen Boni geben und Spezialisierungen, die auf einer Fertigkeit aufbauen und anderen eigenen Werten keine Boni geben).  
+Die Eigenschaften, die Boni geben, können nur bei Steigerungen der Fertigkeit geändert werden (was dann dem Lernen eines veränderten Stils entspricht). 
+
+Fazit
+-----
+
+Eigenschaften sind grundlegende Charaktermerkmale ("Wie bin ich?"), Berufe geben die Grundrolle des Chars und der Gruppe ("Was kann ich?") und Fertigkeiten geben seine Hauptstärken ("Was kann ich, und wie?").
 
