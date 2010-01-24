@@ -4,11 +4,11 @@ Schwache Charaktere (SwaC)
 Einführung
 ----------
 
-Dieses Modul erleichtert es deutlich, schwache Charaktere detailliert zu erschaffen. Dafür unterteilt es jeden Steigerungs-Strich in weitere 3 Punkte und bricht die Kosten für Fertigkeits-Steigerungen in niedrigen Stufen wetier auf. 
+Dieses Modul erleichtert es deutlich, schwache Charaktere detailliert zu erschaffen. Dafür unterteilt es jeden Steigerungs-Strich in weitere 3 Punkte und bricht die Kosten für Fertigkeits-Steigerungen in niedrigen Stufen auf. 
 
-In Bereichen über "+" ändert sich nichts (es sei denn in der optionalen Verallgemeinerung). 
+In Bereichen über "+" ändert sich nichts. 
 
-Die Nutzung dieses Moduls führt dazu, dass Charaktere leichter eine Reihe niedriger Fertigkeiten haben können, so dass die Erschaffung etwas mehr Zeit in Anspruch nimmt, gerade schwache Charaktere aber auch mehr Farbe bekommen. 
+Die Nutzung dieses Moduls führt dazu, dass Charaktere leichter eine Reihe niedriger Fertigkeiten haben können, so dass die Erschaffung etwas mehr Zeit in Anspruch nimmt, gerade schwache Charaktere aber auch mehr Farbe bekommen können. 
 
 Grundlagen
 ----------
@@ -30,23 +30,12 @@ TODO: Beschreiben + Gründe
 
 (eigentlich müsste es sein 0 1-2-3 5-7-9 12-15-18 ... aber 7 ist ungerade, also hätten wir keinen genauen Punkt für 2 Striche)
 
+Berufe sind bei gleichen Kosten wie gehabt im Wert 3 Punkte unter einer gleich teuren Fertigkeit. 
+
 ### Eigenschaften
 
-Eigenschaften geben Teilboni: 2 Eig auf 13 geben zusammen 1 Punkt Bonus (gelten als eine auf 14), so dass es sich auch lohnt, auf überdurchschnittlichen Eigenschaften aufzubauen. 
+Eigenschaften geben Teilboni: 2 Eig auf 13 geben zusammen 1 Punkt Bonus (gelten als eine auf 14), so dass es sich auch lohnt, auf überdurchschnittlichen Eigenschaften aufzubauen.
 
-### Verallgemeinerung
-
-#### Kosten, Grob: 
-
-(n = Anzahl Plusse)
-
-Kosten (n) = 3**n
-
-#### Steigerung in einen Bereich: 
-
-(n = Anzahl Plusse des Bereiches, den man erreicht)
-
-Kosten (n=0) = 1 (um ±) (Eigenschaften) oder komplexer (Fertigkeiten: Übergang von niedrigen Werten auf durchschnittliche Werte)
-
-Kosten (n) = 3**(n-1)
+Beispiel
+--------
 
