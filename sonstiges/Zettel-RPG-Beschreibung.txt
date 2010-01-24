@@ -1,0 +1,44 @@
+Zettel-RPG
+==========
+
+*Ein Rollenspiel auf 29 kleinen Notizzetteln.*
+
+*Liebe Kara,*
+
+*Noch bist du zu jung, um mein Ge-
+schreibe zu verstehen, doch ich 
+muss morgen vor Sonnenaufgang
+verschwunden sein, und ich will 
+dir das hinterlassen, was nach 
+dir und deiner Mutter mein Leben
+am meisten bereicherte.*
+
+*Ich hoffe, es hilft dir, wie es mir geholfen hat.*
+
+Das Zettel-RPG ist ein Minimal-RPG für Zeiten, in denen schon ein 
+DinA4-Blatt schwer aufzutreiben ist. Charaktere und Regeln sind 
+minimiert, so dass jeder Spieler nur einen etwa DinA6 bis DinA8 
+Notizzettel (für den Charakter), einen Stift und einen Würfel braucht. 
+
+Es nutzt eine etwas reduzierte Version des Ein Würfel Systems mit dem 
+[Nur Fertigkeiten Modul (NurF)](/deutsch/module/nur-fertigkeiten-nurf). 
+
+Das gesamte System passt auf zwei DinA4-Seiten: 
+
+* [Seite 1]()
+* [Seite 2]()
+
+Zusätzlich gibt es eine von Hand gewendete (experimentelle) Version, die 
+du einfach auf zwei Seiten eines Blattes drucken kannst, so dass du nach 
+dem Ausschneiden 15 doppelseitig beschriebene Zettel hast. Wichtig dabei: 
+An der Längsseite wenden. 
+
+* [Seite 1]()
+* [Seite 2 (gespiegelt)]()
+
+Die Quelldateien sind einfach zwei SVG-Dateien (für inkscape) ([beide 
+Seiten aufrecht](), [Seite 2 gespiegelt]()). 
+
+Da es ein Subset des EWS verwendet, kann eine Runde mit dem Zettel-RPG 
+einfach mit dem Ein Würfel System weitergespielt werden, wenn ihr 
+irgendwann doch komplexere Regeln wollt. 

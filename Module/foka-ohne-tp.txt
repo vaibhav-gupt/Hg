@@ -1,0 +1,30 @@
+Das Fokusmodul Kampf (FoKa) ohne Trefferpunkte 
+==============================================
+
+Ihr koennt auch in komplexeren Kaempfen auf Trefferpunkte verzichten und 
+stattdessen nur mit Wunden spielen. Um festzulegen, wann ein Charakter 
+kampfunfaehig wird, wuerfelt seine Spielerin dann einfach jedesmal, wenn der 
+Charakter eine Wunde erhaelt, mit einer passenden Eigenschaft (z.B. Konstitution) 
+gegen einen Mindestwurf von 3 plus Wundmali. 
+
+Bei der ersten Wunde wuerfelt sie also gegen 3+3=6, bei der zweiten gegen 9, bei 
+der dritten gegen 12, usw. 
+
+Kritische Wunden bedeuten auch hier im Kampf einen Malus von 6 und auszerhalb von 
+Kaempfen von 12 (weniger Adrenalin). 
+
+Wenn die erste Wunde eine kritische ist, wuerfelt die Spielerin also gegen 9. 
+
+Misslingt der Wurf, wird der Charakter kampfunfaehig und ist seinem Gegner 
+ausgeliefert (der ihn dann auch toeten kann). 
+
+Durchschnittliche Charaktere sollten so etwa 3 Wunden aushalten. 
+
+Eine Wunde erhaelt ein Charakter auch hier, wenn der Schaden seine Wundschwelle 
+erreicht. Schaden darunter ist allerdings nur ein Kratzer und wird ignoriert. 
+
+[ist effektiv schon ews 3.0]
+
+[dank an alea iacta est fuer diese Idee!]
+
+[Idee: Fertigkeit: Stehvermoegen]
