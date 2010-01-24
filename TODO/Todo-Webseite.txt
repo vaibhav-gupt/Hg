@@ -1,13 +1,12 @@
 Was für die Webseite noch zu tun ist. 
 
-* Initiative-Modul braucht ein Beispiel
-* Das Modul Steigerung im vobsy muss auf die gedruckte Version aktualisiert werden. 
-* Charaktererschaffung muss auf die gedruckte Version aktualisiert werden. 
+* Das Modul Steigerung im vobsy muss auf die gedruckte Version aktualisiert werden. http://1w6.org/deutsch/module/steigerung-im-vobsy-vost - vll. auch  Steigerung der Charaktere (SteM) raus. 
 * Die Kampagne Wächter der Zeit braucht etwas mehr Beschreibung. 
 
 * Freie Magie braucht Regeln
 * Schadenstypen braucht Prüfung. 
+* Kategoriesystem skalieren lassen (pro kat *= x)
 
 * Ungeteste Module wollen getestet werden :) 
-
+* RaumZeit PSI (PsiM) schreiben
 - Drak
