@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
-   height="744.09448"
+   height="1488.189"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.47 r22583"
@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="686.45044"
-     inkscape:cy="721.26726"
+     inkscape:zoom="2"
+     inkscape:cx="88.950439"
+     inkscape:cy="155.58188"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,7 +102,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,-744.09445)">
+     transform="translate(0,6.3760765e-5)">
     <g
        id="g10139"
        style="opacity:0.2">
@@ -8522,7 +8522,7 @@
          sodipodi:role="line"
          x="17.000046"
          y="1248.2495"
-         id="tspan9641">Solange du Wunde nhast, sind </tspan><tspan
+         id="tspan9641">Solange du Wunden hast, sind </tspan><tspan
          sodipodi:role="line"
          x="17.000046"
          y="1263.2495"
