@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
-   height="744.09448"
+   height="1488.189"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.47 r22583"
@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="686.45044"
-     inkscape:cy="721.26726"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="850.91757"
+     inkscape:cy="897.28855"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,7 +102,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,-744.09445)">
+     transform="translate(0,6.3760765e-5)">
     <g
        id="g10139"
        style="opacity:0.2">
@@ -8176,7 +8176,7 @@
          sodipodi:role="line"
          x="677.09375"
          y="685.68652"
-         id="tspan9575">Was sie fordernd, dann brauchst </tspan><tspan
+         id="tspan9575">War sie fordernd, dann brauchst </tspan><tspan
          sodipodi:role="line"
          x="677.09375"
          y="700.68652"
@@ -8302,15 +8302,15 @@
          sodipodi:role="line"
          x="895.66211"
          y="1398.2458"
-         id="tspan9281">habe wieder Beispiele. Eins von</tspan><tspan
+         id="tspan9281">habe ich wieder Beispiele. </tspan><tspan
          sodipodi:role="line"
          x="895.66211"
          y="1413.2458"
-         id="tspan9283">mir, und dann das der anderen</tspan><tspan
+         id="tspan9283">Eins von mir, und dann das </tspan><tspan
          sodipodi:role="line"
          x="895.66211"
          y="1428.2458"
-         id="tspan9285">in meiner Runde. </tspan></text>
+         id="tspan9285">der anderen in meiner Runde. </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Vn URW Chancery L;-inkscape-font-specification:Vn URW Chancery L Bold Italic"
@@ -8497,7 +8497,7 @@
          sodipodi:role="line"
          x="235.13287"
          y="1352.0411"
-         id="tspan9601">Was es niedriger, gewinnt er. </tspan><tspan
+         id="tspan9601">War es niedriger, gewinnt er. </tspan><tspan
          sodipodi:role="line"
          x="235.13287"
          y="1367.0411"
@@ -8522,7 +8522,7 @@
          sodipodi:role="line"
          x="17.000046"
          y="1248.2495"
-         id="tspan9641">Solange du Wunde nhast, sind </tspan><tspan
+         id="tspan9641">Solange du Wunden hast, sind </tspan><tspan
          sodipodi:role="line"
          x="17.000046"
          y="1263.2495"
@@ -8613,5 +8613,15 @@
        inkscape:export-filename="/home/arne/Projekte/EWS/sonstiges/Zettel-RPG-Blatt1.png"
        inkscape:export-xdpi="300.0047"
        inkscape:export-ydpi="300.0047" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Vn URW Chancery L;-inkscape-font-specification:Vn URW Chancery L Bold Italic"
+       x="127.48022"
+       y="218.08299"
+       id="text4644"><tspan
+         sodipodi:role="line"
+         id="tspan4646"
+         x="127.48022"
+         y="218.08299">0.1.0</tspan></text>
   </g>
 </svg>
