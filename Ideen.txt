@@ -1808,4 +1808,24 @@ Wut, Angst, Ekel, Freude, Trauer, Überraschung und Neugierde
 
 ------
 
+### Welt der Archetypen
+
+Eine Welt, um möglichst viele Archertypen zu integrieren, so dass Leute möglichst einfach einsteigen können: 
+
+1. Archetypen sammeln. z.B. über eine Anfrage in rsp-blogs „Was sind eure meistverwendeten oder liebsten Archetypen?” 
+2. Eine konsistente Welt schaffen, die möglichst viele von ihnen integriert. 
+3. Prüfen, ob die Welt auch für sich alleine stehend interessant ist. Wenn nicht: Neu entwerfen. 
+4. Alle Entwürfe behalten und am Ende eine Zusammenstellung schreiben. 
+5. Prüfen, ob die Welt / Region zu spielen Spaß macht (auch PiHalbe fragen: OEK test?). 
+6. Eine Welt mit nur maximal interessanten Archetypen („welche leitet ihr am Liebsten?). 
+
+=> testen wie wichtig direkt zugängliche Archetypen sind. 
+
+Hypothese: Der Anfang wird viel leichter, und auch später bleiben die Spiele intensiver, weil es klarere Identifikationspunkte für Neben-NSCs gibt. Einige der Haupt-NSCs dürften platter werden. In der Welt mit maximal interessanten Archetypen dürfte der letzte Effekt schwächer sein, weil sie mehr dazu anregen dürfte, eigene interessante Charaktere zu schaffen. 
+
+Idee: Archetypen einteilen in allgemeine (sind in der Normalgesellschaft verbreitet) und Rolleespielerspezifische. Zwei verschiedene Welten: Eine für Einsteiger, eine für Rollenspieler (wobei DS teilweise schon die für Rollenspieler ist). 
+
+=> Bewusstes Weltendesign, statt rein „evolutionär” zu arbeiten. 
+
+------
 
