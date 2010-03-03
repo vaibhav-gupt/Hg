@@ -1,0 +1,8 @@
+In diesem Ordner finden sich Dateien, die nicht unter Versionsverwaltung stehen, z.B. releases. 
+
+Diese Info-Datei ist übrigens unter Versionsverwaltung, da sie mit zur
+Grundstruktur gehört. 
+
+Viel Spaß mit dem EWS! 
+
+- Drak
