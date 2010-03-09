@@ -1,0 +1,74 @@
+Elementarmagie
+==============
+
+*Die Macht verschiedener Elemente nutzen, um flexible Effekte zu erzielen. Mit 4 Elementen ähnlich der Magie aus dem Rad der Zeit(tm) (die Buchreihe war die ursprüngliche Inspiration).*
+
+Einführung
+----------
+
+Elementarmagier können auf eine bestimmte Anzahl Elemente zurückgreifen, um die Wirklichkeit zu verändern. Theoretisch ist die Anzahl und Art der Elemende nicht beschränkt, solange sich aus den Elementen bestimmte abgegrenzte Einflussbereiche ableiten lassen. Je mehr Elemente es dabei gibt, desto beschränkter ist der Einflussbereich jedes einzelnen Elements. Die zwei Extreme dabei sind: „Nur ein Element: Magie” und „jeder Zauber ist ein eigenes Element”. Zwischenstufen beinhalten Yin und Yang, Die vier Elemente (Feuer, Wesser , Erde, Luft) + Magie, 6 Elemente + Magie (aus DSA(R)), die 11 Fußball-Legenden, die 12 Götter und vieles mehr. 
+
+Effekte zu bewirken erschöpft. Die Erschöpfung für ein und den selben Effekt ist allerdings niedriger, je besser der Magier das entsprechende Element beherrscht. 
+
+Wenn Magier in deiner Runde darauf zurückgreifen können, musst du dich auf kreative Nutzungen der Elemente einstellen, die leicht unerwartete Lösungsmöglichkeiten bringen können. Innerhalb der Grenzen von Magie allgemein ist der Magier nur durch seine Kraft in den jeweiligen Elementen und die Phantasie seines Spielers eingeschränkt. 
+
+Magie wird so leicht zu einem integralen Bestandteil deiner Runde. 
+
+Grundlagen
+----------
+
+Um den Text einfach zu halten, fange ich aber mit den klassischen 4 Elementen + Magie an und beschreibe später, wie sich das Konzept veralgemeinern lässt. 
+
+Es gibt die Elemente Feuer, Wasser, Erde, Luft und Magie.  Jeder Magier hat in den Elementen jeweils unterschiedliche Kraft und Geschick. Die Kraft wird dabei durch ein Merkmal ausgedrückt, das Geschick durch ein Fertigkeit. 
+
+Gleichzeitig haben Effekte eine Schwierigkeit (für den Wurf auf die Fertigkeit) und einen Energiebedarf. 
+
+Die Energie, die ein Effekt braucht erschöpft den Magier, und zwar umso mehr, je schwächer er in dem Merkmal des Elements ist. Ist er ein Anfänger (+), braucht er pro Punkt Energie 4 Punkte Erschöpfung[^erschoepfungsschaden]. Hat er mehr Erfahrung (++), braucht er pro Punkt Energie nur noch 3 Punkte Erschöpfung, ist er superb (+++), braucht er nur noch 2 Punkte pro Punkt, und Legenden (++++) brauchen nur noch einen Punkt. Wer darüber hinaus kommt (+++++), braucht nur noch einen Punkt Erschöpfung je 2 Punkte Enegie, usw. 
+
+[^erschoepfungsschaden]: Was schon eine Erschöpfungswunde sein kann, wenn es mindestens ein Drittel seiner für Erschöpfung zuständigen Eigenschaft ist. Dann erhält er zusätzlich einen Punkt Schaden, der deutlich langsamer heilt als Erschöpfung. Bei einem Feuerzauber könnten das z.B. leichte Verbrennungen durch unkontrollierte Feuermagie sein. 
+
+### Tabelle: Element: Erschöpfung für Energie
+
+*+: 4/1P  
+*++: 3/1P  
+*+++: 2/1P  
+*++++: 1/1P
+*+++++: 1/2P
+*++++++: 1/3P
+*+++++++: 1/4P
+
+Die Fertigkeit für ein Element kann dabei auf einen bestimmten Aspekt spezialisiert werden, und auf der Spezialisierung können spezifische Zauber aufbauen *(wie im Modul Steigerung der Charaktere (SteM) für sonstige Fertigkeiten beschrieben)*. 
+
+Die Grundschwierigkeit des einfachsten Effektes eines Elementes ist 9. Komplexere Effekte werden schnell schwerer, so dass Spezialisierungen die einzig sinnvolle Möglichkeit bieten, in schwereren Zaubern sicher zu werden. 
+
+Liegt die Schwierigkeit eines Effektes mindestens 6 Punkte unter dem entsprechenden Wert in der Fertigkeit, der Spezialisierung oder dem Zauber, kann der Magier den Effekt auch ohne würfeln bewirken (muss aber nicht). Der Effekt ist für ihn zur Routine geworden, und würfeln lohnt sich nur, wenn der exakte Wert wirklich wichtig ist (z.B. für Schadenszauber). 
+
+
+### Ablauf
+
+Am nun einen Zauber zu warken, beschreibt die Spielerin der SL, welchen Effekt sie bewirken will, und die SL legt (anhand der Beispieleffekte weiter unten) die Schwierigkeit und die Kosten fest. 
+
+Die Spielerin kann dann die Kosten in Erschöpfung umrechnen und sich entscheiden, ob sie den Effekt wirklich will. Falls sie sich dafür entscheidet, würfelt sie auf ihre Fertigkeit in dem Element. Erreicht sie die Schwierigkeit, dann gelingt der Zauber, der Effekt tritt ein und ihr Charakter erhält die dafür nötige Erschöpfung. 
+
+#### Elemente kombinieren
+
+Manche Effekte lassen sich nicht klar einem Element zuweisen. Für diese Effekte muss ein Magier die Punkte aus den verschiedenen Elementen zahlen. 
+
+Ein kleiner Flammenstoß benötigt z.B. Feuer und Wind (Feuer für die Flammen, Wind um sie auf das Ziel zu schleudern). Ist eine Magierin überragend mit Feuermagie (++), aber „nur” erfahren mit Windmagie (+), dann muss sie für jeden Punkt Windenergie 4 Punkte Erschöpfung zahlen, für jeden Punkt Feuerenergie aber nur 3. 
+
+… auf beide würfeln => geringere Erfolgswahrscheinlichkeit als mit nur einem …
+
+### Beispieleffekte
+
+### Andere Elemente
+
+Für andere Elementarsysteme werden die Kosten der Effekte angepasst. Mehr Elemente zu haben verringert die Kosten für Effekte (bis Max 30 Elemente oder so, darüber machen weitere Elemente nicht mehr viel aus), weniger Elemente zu haben erhöht sie. 
+
+Die Umrechnung von Erschöpfung in Kosten bleibt dagegen gleich. 
+
+Als Faustregel, teil einfach die Kosten durch ein fünftel der Anzahl der Elemente. 
+
+### Reichweite
+
+### Grenzen
+
