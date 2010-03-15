@@ -1,0 +1,37 @@
+Erfahrungen mit dem Konfliktmodul (konf)
+========================================
+
+Wir haben jetzt einen ersten Test mit dem Konfliktmodul gemacht, und er lief klasse! 
+
+Wir hatten nur eine Situation, in der wir es wirklich gebraucht haben, und da hat es etwas ergeben, das ich sonst noch nicht kannte. 
+
+Die Charaktere sahen sich einigen Gossenpunks gegenüber, die sie ausnehmen wollten. 
+
+Statt wie sonst die Waffen zu ziehen, haben sie sich entschieden, erst auf emotionaler Ebene zu bleiben (da sind die Folgen weniger drastisch, wenn sie verlieren). 
+
+Sie haben also jeweils ihre Probe gegen einen der Punks geworfen und alle Erfolge erzielt, einige ganz ordentlich. 
+
+Die Erfolge reichten schon aus, um die Punks zu besiegen. 
+
+Dann habe ich ihnen gesagt: Für jeden Erfolg (je 3 Punkte über dem Wert des Punks) habt ihr eine echt coole Aktion frei, und die Spieler haben angefangen zu beschreiben. 
+
+Sie haben die Punks angebrüllt, und ihnen mit vollem Einsatz gezeigt, dass hier sie die Kings sind, und während sie riesigen Spaß daran hatten, einfach beschreiben zu können, wie sie die Punks verjagen, hatte ich riesigen Spaß daran zu beschreiben, wie bei jeder Aktion der betreffende Gegner zurückweicht und mehr und mehr Panik kriegt, bis er bei der letzten dann schreiend geflohen ist. 
+
+Einfach coole Aktionen beschreiben zu können, bei denen man schon weiß, dass sie klappen, macht offensichtlich viel Spaß - sowohl den Spielern als auch der SL. 
+
+Und das, obwohl wir nur einen Teil der Freiheiten genutzt haben, die das Konfliktmodul liefert. 
+
+Langfristig könnten wir das ausweiten, so dass Spieler auch die Reaktionen der NSCs beschreiben können, aber ich bin mir nicht ganz sicher, ob ich das als SL nicht lieber selbst mache, um die Stimmung der Umgebung besser lenken zu können. 
+
+Wir werden sehen, wie es weiter geht. Ich halte euch (Leser) auf dem Laufenden! 
+
+Nebenbei: Das Konfliktsystem, das wir genutzt haben, war das [Konfliktmodul](/deutsch/module/konfliktmodul-konf) mit den folgenden Anpassungen: 
+
+* Konflikte können auf verschiedenen Ebenen laufen (emotional, physisch, storytechnisch, ...)
+* Wer auf einer Ebene verliert, zahlt dort den Preis. Er kann entweder den Konflikt beenden/aufgeben, oder auf eine andere Ebene eskalieren und den Konflikt dort wiederaufnehmen (und auch dort den Preis riskieren). 
+* Jeder kann nur eine begrenzte Anzahl von Malen eskalieren. 
+    - Statisten gar nicht. Wenn sie einen Konflikt verlieren, werden sie aus der Geschichte entfernt. 
+    - Nebencharaktere einmal. Sie sollten nur eskalieren, wenn sie sich opfern, sonst riskieren sie, die Geschichte zu verlassen. Sie entsprechen damit Statisten, tauchen aber immer wieder auf. 
+    - Hauptcharaktere zweimal. Sie können sich ein eskalieren leisten. 
+    - Helden und Erzfeinde dreimal. Sie können zweimal eskalieren. z.B. können sie erst den emotionalen Preis zahlen ("Mein Meister hält mich für ein Monster!"), dann eskalieren und beim Verlieren den storytechnischen zahlen ("Ab heute bin ich ein Todfeind der Jedi - ich werde nie ein Jedi-Meister. Alle, die mir wichtig sind verlassen mich, inklusive meiner Padme und meiner Kinder."), danach den physischen ("Mein Körper verbrennt und ich muss ab jetzt diese coole schwarze Körperpanzerung tragen und mache Atemgeräusche, bei denen im ganzen Kino Jubel ausbricht.") bevor sie bei der dritten Eskalation riskieren, die Geschichte für immer zu verlassen. 
+* Dieser Preis kann auch als Schaden auf eine passende Eigenschaft ausgedrückt werden (ews 3.0). 
