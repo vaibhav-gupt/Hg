@@ -72,3 +72,19 @@ Als Faustregel, teil einfach die Kosten durch ein fünftel der Anzahl der Elemen
 
 ### Grenzen
 
+### Verallgemeinerte Regelgrundlagen kurz
+
+1. Kosten: Pro Dreick 12/Anzahl der Elemente an Strichen (=> bei 4 Elementen kostet ++ 9 Striche, bei 12 Elementen nur 3 Striche, bei einem Element (Magie) 36 Striche). 
+
+2. Erschöpfung: Siehe oben (immer der Tabelle entsprechend - nur die Kosten, um ++(…) zu haben ändern sich. 
+
+3. Konzept: Fertigkeit Magie. Jedes Element kann eine Spezialisierung sein. 1 Merkmal pro Element. Bei Nutzung von mehr als einem Element muss für jedes Element einmal gewürfelt werden (mehrere Elemente nutzen ist schwerer als nur eins => mehr spezialisierung). 
+
+4. Schwierigkeit[^zauber=element]: 9+3/Abhängigkeit in Gurps (kürzester Pfad zum Basiszauber). 
+
+5. Kosten: Punkte aus Gurps. Erschöpfung durch den Wert im Element ermittelt (siehe 2.). 
+
+6. Fertigkeit Magie kann auf Element spezialisiert werden und dann das Element nochmal auf festgelegte Zauber (außer wenn Element = Zauber[^zauber=element]). Beispiel: Feuerball: 4 Schaden / Punkt Energie + Differenz. 2 Abhängigkeiten => MW: 9 + 3 + 3 = 15. Magie 12 -> Feuer 15 -> Feuerball 18 => 86% Erfolgschance. 
+
+[^zauber=element]: Wenn jedes Element genau ein Zauber ist, zählt der Erste Zauber nicht für die Schwierigkeitsberechnung, weil er schon durch das Kaufen des Elements selbst abgedeckt ist. Dafür kann die Fertigkeit Magie nur einmal Spezialisiert werden. 
+
