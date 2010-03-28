@@ -1,0 +1,7 @@
+Versionsschema des EWS: 
+
+- Erstes abgeschlossen veröffentlichtes PDF: EWSv1.0
+- Zweite Version in arbeit: EWSv1.9.x
+- Zweite Version nach Abschluss: EWSv2.0
+
+Ansonsten: x.y.z: Wenn y gerade: "Stabile" Version der Regeln, wenn y ungerade: Arbeitsversion. z sind nur kleine Updates. 
