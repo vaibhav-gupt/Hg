@@ -1,0 +1,42 @@
+<h2><a href="/deutsch/" title="Ein Würfel System">Was ist das Ein Würfel System?</a></h2>
+
+<p style="text-align: justify;">Ein kleines, <a href="/deutsch/anhang/freies-rollenspiel/">freie lizensiertes</a>, universelles <a href="http://de.wikipedia.org/wiki/Pen-&-Paper-Rollenspiel#Regelsysteme">Rollenspielregelwerk</a>, das es dir erleichtern soll, <a href="/deutsch/regeln/das-ews-deine-beduerfnisse-anpassen/deine-welt-als-rollenspiel-veroeffentlichen" title="Wie du das EWS für deine Welt anpassen kannst">deine Welt als Rollenspiel zu veröffentlichen</a>. </p>
+
+<p style="text-align: justify;">Die Grundregeln passen auf weniger als 32 DinA5-Seiten, werden seit 2004 von verschiedenen Runden knapp einmal die Woche getestet und du kannst (<em><a href="http://lizenz.1w6.org">und darfst!</a></em>) sie direkt für deine Welt verwenden.</p>
+
+<p style="text-align: justify;"><a href="/deutsch/regeln/hintergr-nde/f-r-welche-runden-eignet-sich-das-ews">Nach unserer Erfahrung</a> eignet sich das <em>Ein Würfel System</em> am Besten für Runden in denen schnelle, klare Ergebnisse von Handlungen und plastische Charaktere mit deutlichen Erkennungsmerkmalen gewünscht sind.</p>
+
+<div align="right" style="float:right; width: 130; height: 130; text-align: right;">
+- <a href="/deutsch/regeln/quellen" title="Das Ein Würfel System herunterladen">Download</a> - <br />
+<a href="/deutsch/regeln/quellen" title="Das Ein Würfel System herunterladen"><img style="float: right;" align="right" src="/bilder/EWS_farbe_logo_klein.jpg" alt="Cover" title="Das Cover, gezeichnet von Gertrud Wenzel" width="103" height="113" /></a>
+</div>
+
+<h2><a href="/deutsch/anhang/anmeldung-fuer-projekt-odyssee/" title="Ausführliche Beschreibung des Ein Würfel Systems">Merkmale</a>&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0; width: 80px; height: 15px;" width="80" height="15" src="http://i.creativecommons.org/l/by-nc-sa/3.0/de/80x15.png" /></a>&nbsp;<a rel="license" href="http://gnu.org/licenses/gpl.html"><img alt="GNU General Public License v3" style="border-width:0; width: 60px; height: 30px;" width="60" height="30" src="/bilder/gpl-v3.png" /></a></h2>
+
+<ul>
+<li>Frei wählbare Eigenschaften, Fertigkeiten und Merkmale geben Flexibilität. </li>
+<li>Saubere, durchgerechnete <a href="/deutsch/regeln">Regeln</a> liefern eine stabile Grundlage. </li>
+<li><a href="http://module.1w6.org">Module</a> erleichtern die Anpassung und Erweiterung. </li>
+<li>Werke aus <a href="http://gurps.1w6.org">Gurps®</a> und <a href="http://fudge.1w6.org">Fudge(tm)</a> können genutzt werden. </li>
+<li>Verschiedene <a href="/deutsch/welten">Welten</a> verwenden es. <br />&nbsp;</li>
+</ul>
+
+<h2><a href="/deutsch/regeln/" title="Wie funktioniert es?">Klingt interessant?</a></h2>
+
+Dann <a href="/deutsch/regeln/quellen" title="Das Ein Würfel System herunterladen">schau es dir einfach an</a> und probier es aus, oder <a href="http://mitmachen.1w6.org" title="Dich an der Entwicklung des Ein Würfel Systems beteiligen">beteilige dich</a> an der Entwicklung des Ein Würfel Systems. 
+
+<p>Und wenn dich etwas berührt, schreib' es uns bitte! Fast jede Seite hier hat dafür ein Kommentarfeld und fast jeder Benutzer hat einen Kontaktlink (<em>hier ist z.B. <a href="/user/1/contact/">der von Drak</a></em>). </p>
+
+<p><em>- Kurzlinks</em>: 
+
+~ <a href="/deutsch/regeln/">Regeln</a> - <a href="/deutsch/module/">Module</a> - <a href="/deutsch/welten/">Welten</a> (<em><a href="/deutsch/welten/raumzeit/">RaumZeit</a> -&gt; <a href="/stichwort/netfed/" title="Neuigkeiten aus dem RaumZeit Universum">Netfeed (In-Play News)</a></em>) -  <a href="/deutsch/kampagnen/">Kampagnen</a> - <a href="/forum/" title="Forum des Ein Würfel Systems, über Welten, Rollenspiel und Python Programmierung.">Forum</a> - <a href="/deutsch/sl-tipps/" title="Tipps für Spielleiter.">Tipps für Spielleiter</a> - <a href="/programme/" title="Programme, die das Ein Würfel System nutzen">Programme</a> - <a href="/deutsch/anhang/leute/" title="Am EWS Beteiligte">Leute</a> - <a href="#neues">Neuigkeiten</a> - <a href="/deutsch/links/" title="Verweise zu anderen deutschen Webseiten">Links</a> ~<br />&nbsp;<br /></p>
+
+
+<h2><a href="/deutsch/anhang/freies-rollenspiel/" title="Was bedeutet freie Lizensierung bei Rollenspielregelwerken?">Freies Rollenspiel</a></h2>
+
+<p>Die Grundregeln und alle <a href="/deutsch/regeln/quellen#kaufen">gekauften</a> Regeltexte des Ein Würfel Systems stehen unter der <a href="http://gnu.org/licenses/gpl.html" title="Die verbreitetste Lizenz für freie Software">GPLv3</a> (der verbreitetsten Lizenz für <a href="http://de.wikipedia.org/wiki/Freie_Software" title="Informationen zu freier Software">freie Software</a>). Das heißt, du darfst sie <a href="/deutsch/anhang/das-ein-w-rfel-system-jetzt-unter-der-gplv3" title="Was die GPLv3 für Rollenspiele bedeutet">frei nutzen, ändern, weitergeben und sogar verkaufen</a>, solange deine Änderungen unter der gleichen Lizenz stehen. Wenn du die Regeln für eine eigene Welt verwendest, musst du <em>nur den Regelteil freigeben</em>. Für alle sonstigen Texte auf dieser Seite, bei denen nichts anderes steht, gilt das gleiche, allerdings mit der Einschränkung, dass kein Geld damit verdient werden darf ( <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/">cc by-nc-sa</a> ). Details stehen auf der <a href="http://lizenz.1w6.org">Lizenz-Seite</a>.</p>
+
+<p>-- Aktuell werden die Inhalte aus dem <a href="http://1d6.eu">Wiki</a> hierher migriert, daher ist einiges noch unvollständig. --</p>
+
+<p><em>Unsere Neuigkeiten (unten) gibt es auch in den folgenden Sammlern: </em><br /><a href="http://rsp-blogs.de/" title="RSP-Blogs.de Newsfeed: Neuigkeiten aus Rollenspiel-Blogs"><img src="/bilder/feed-rsp-blogsde.png" alt="rsp-blogs.de newsfeed badge" width="80" height="15"  /></a>&nbsp;<a href="/aggre
+
