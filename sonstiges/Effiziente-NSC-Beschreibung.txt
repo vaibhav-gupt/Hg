@@ -1,7 +1,7 @@
 Effiziente Beschreibung von NSCs
 ================================
 
-Ich habe häufiger das Problem, dass ich von NSCs alle möflichen Details ausarbeite, aber ein paar wirklich wichtige übersehe und dann beim Leiten drüber stolpere. Deswegen habe ich mir hier eine Liste geschrieben - effektiv ein allgemeines Kurzcharakterblatt für NSCs. 
+Ich habe häufiger das Problem, dass ich von NSCs alle möglichen Details ausarbeite, aber ein paar wirklich wichtige übersehe und dann beim Leiten drüber stolpere. Deswegen habe ich mir hier eine Liste geschrieben - effektiv ein allgemeines Kurzcharakterblatt für NSCs. 
 
 Ich will versuchen ab jetzt für jeden mehr als einmal auftauchenden NSC dieses Minimalblatt zu nutzen, unabhängig vom Regelwerk, weil ich denke, dass damit die NSCs für die Spieler plastischer werden (und ich spiele sie eher konsistent). 
 
@@ -32,7 +32,7 @@ Beispiel
 Als Beispiel nehme ich *Valeri Bran*, weil die morgen in der Runde auftauchen wird. 
 
 * Name: Valeri Bran
-* Zitat: Das ist meine Werft. Ich werde dafür sorgen, dass Teros und Hieri stoltz wären, auch wenn ich mir dafür die Nägel abbreche! 
+* Zitat: Das ist meine Werft. Ich werde dafür sorgen, dass Teros und Hieri stolz wären, auch wenn ich mir dafür die Nägel abbreche! 
 * Darstellung: 
 
     - Immer wieder nach den Nägeln schauen und dann sauer über sich selbst wegschauen („alte Gewohnheiten sind schwer abzulegen“). 
