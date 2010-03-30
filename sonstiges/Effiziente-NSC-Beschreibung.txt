@@ -1,0 +1,55 @@
+Effiziente Beschreibung von NSCs
+================================
+
+Ich habe häufiger das Problem, dass ich von NSCs alle möglichen Details ausarbeite, aber ein paar wirklich wichtige übersehe und dann beim Leiten drüber stolpere. Deswegen habe ich mir hier eine Liste geschrieben - effektiv ein allgemeines Kurzcharakterblatt für NSCs. 
+
+Ich will versuchen ab jetzt für jeden mehr als einmal auftauchenden NSC dieses Minimalblatt zu nutzen, unabhängig vom Regelwerk, weil ich denke, dass damit die NSCs für die Spieler plastischer werden (und ich spiele sie eher konsistent). 
+
+Charakterblatt
+--------------
+
+* Name: 
+* Zitat: 
+* Darstellung (Stimme, typische Bewegungen, Gimmicks, …)
+
+    - 
+    - 
+
+* Wichtige Hintergründe (Warum ist sie wichtig, Kontakte, …)
+
+    - 
+    - 
+
+* Wichtige Regeldaten
+
+    - 
+    - 
+
+
+Beispiel
+--------
+
+Als Beispiel nehme ich *Valeri Bran*, weil die morgen in der Runde auftauchen wird. 
+
+* Name: Valeri Bran
+* Zitat: Das ist meine Werft. Ich werde dafür sorgen, dass Teros und Hieri stolz wären, auch wenn ich mir dafür die Nägel abbreche! 
+* Darstellung: 
+
+    - Immer wieder nach den Nägeln schauen und dann sauer über sich selbst wegschauen („alte Gewohnheiten sind schwer abzulegen“). 
+    - Im Notizbuch ihrer Schwester Sachen nachschlagen. 
+    - Immer auf Achse. Gespräche enden mit „Tut mir Leid, ich muss jetzt noch {die aktuelle Reparatur überwachen, mit den Arbeitern planen, die Spezifikationen von Frachtkapseln/Remis Andockmodulen/fluktuierenden Hitzeschirmen/… nachlesen, …}.“
+    
+Wichtige Hintergründe: 
+
+    - Sie ist besessen davon, die Werft am Laufen zu halten und größer zu machen als früher. 
+    - Sie muss sich den Respekt der Arbeiter hart erarbeiten, weil die sie noch als Modepüppchen kennen, die nur Sinn für schöne Kleidung hat. 
+    - Den ersten großen Schritt hat sie getan, indem sie allen ihren Arbeitern gut gefälschte IDs angeboten hat. 
+    - Sie hat eigentlich gute Chancen, die Werft zu stärken, weil sie im Gegensatz zu ihrem Vater (Teros) und ihrer Schwesten (Hieri) gerne mit höhergestellten Leuten redet. 
+    - Ihre Werft liegt „rechts” von den Docks und fasst über 20 kleine oder 5 große Schiffe. Sie hat ein großes Schott als Eingang. 
+    - Die Charaktere haben ihr das Leben gerettet, als sie mit ihrem Vater und ihrer Schwester von Piraten angegriffen wurde. Nur sie hat überlebt. 
+    - Sie gibt den Chars Sonderkonditionen und kann zusammen mit Kjeol fast alles besorgen. Sie geht allerdings nicht unter Einkaufspreis. 
+    - Askar hat bei der Rettung ihre persönlichen Sachen gestohlen. 
+
+Wichtige Regeldaten: 
+
+    - (Aktuell keine)
