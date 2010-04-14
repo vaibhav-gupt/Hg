@@ -1,20 +1,22 @@
 Vorabinfo: Robin Laws Gutes Spielleiten auf der HSpielt
 -------------------------------------------------------
 
-„Robins Laws of Good Game Mastering“ wird, wenn alles klappt, am 19.6. auf der [HSpielt]() auf Deutsch veröffentlicht werden. Noch steht das nicht im Netz, aber Jan von [Pegasus Press]() hat mir erlaubt, schon jetzt darüber zu schreiben. 
+„Robins Laws of Good Game Mastering“ wird, wenn alles klappt, am 19.6. zur [HSpielt]() auf Deutsch veröffentlicht werden. Noch steht das nicht im Netz, aber Jan von [Pegasus Press]() hat mir erlaubt, schon jetzt darüber zu schreiben. 
 
-Woher ich es weiß, wenn es noch nirgendwo sonst steht? 
+Woher ich es weiß, wenn es sonst noch nirgendwo steht? 
 
 Ich habe es übersetzt *\*freu\**. 
 
 Werdegang, bzw. Wie es dazu kam
 -------------------------------
 
-Ich habe Robin’s Laws vor etwa 6 Jahren gekauft und regelrecht verschlungen. Nach dem ersten Lesen wusste ich schon „das muss es auf Deutsch geben!“. Als ich es dann das dritte Mal gelesen und bei jedem Lesen noch mehr gelernt habe wusste ich: „Ich will es übersetzen!“
+Ich habe Robin’s Laws vor etwa 6 Jahren gekauft und regelrecht verschlungen. Nach dem ersten Lesen wusste ich schon *„das muss es auf Deutsch geben!“*. Als ich es dann das dritte Mal gelesen und bei jedem Lesen noch mehr gelernt und verstanden hatte, wusste ich: *„Ich will es übersetzen!“*
 
-Also habe ich mich dran gesetzt und drei Jahre lang immer wieder an der Übersetzung geschrieben. Als ich dann einen ersten Entwurf fertig hatte, habe ich direkt Steve Jackson von [S.J. Games](http://sjgames.com) angeschrieben (per Mail) und gefragt, ob sie die Übersetzung wollen. Der hat mich dann an [Pegasus Press]() verwiesen (deutscher Vertriebspartner). Pegasus Press fand meine Übersetzung veröffentlichungswürdig (logischerweise, sonst hätten sie sie nicht angenommen :) – ich habe die Übersetzung allerdings zwischen der ersten Mail an Steve Jackson und der Zusage von Pegasus Press etwa zweimal vollständig überarbeitet – der erste Entwurf war definitiv nicht geschliffen genug, um gedruckt zu werden), und da es Firmenpolitik ist, jedeN MitarbeitendeN[^N] zu bezahlen, bekomme ich auch Geld dafür :)
+Also habe ich mich dran gesetzt und drei Jahre lang immer wieder an der Übersetzung geschrieben. Als ich dann einen ersten Entwurf fertig hatte, habe ich direkt Steve Jackson von [S.J. Games](http://sjgames.com) angeschrieben (per Mail) und gefragt, ob sie die Übersetzung wollen. Der hat mich dann an [Pegasus Press]() verwiesen (deutscher Vertriebspartner). Pegasus Press fand meine Übersetzung veröffentlichungswürdig (logischerweise, sonst hätten sie sie nicht angenommen :) – ich habe die Übersetzung allerdings zwischen der ersten Mail an Steve Jackson und der Zusage von Pegasus Press etwa zweimal vollständig überarbeitet, zusätzlich zu der Überarbeitung von meinen handschriftlichen Notizen beim Abtippen – der erste Entwurf war definitiv nicht geschliffen genug, um gedruckt zu werden), und da es Firmenpolitik ist, jedeN MitarbeitendeN[^N] zu bezahlen, bekomme ich auch Geld dafür :)
 
 Ein riesiges Dankeschön dafür gebührt auch meinen TestleserInnen. Ohne ihre Rückmeldung und Unterstützung hätte ich es vermutlich nicht geschafft, die Übersetzung fertig abzutippen, mehrfach zu korrigieren (nach meinen eigenen Standards) und jahrelang dranzubleiben. 
+
+Danke! Und danke auch, dass ihr es mit den diffs als Versandformat aufgenommen habt :)
 
 [^N]: Das große -N ist meine persönliche Variante des Binnen-I für in der Grundform feminine Worte. Ich schreibe „einE LeserIn“, und da finde ich es nur konsequent auch „einE GrüneR“ zu schreiben :) – Leider habe ich das in der Übersetzung noch nicht konsequent gemacht, sondern nur bei den Beispielcherekteren darauf geachtet, obwohl ich es auf meiner ToDo-Liste hatte… (ich hätte diesen Beitrag viel früher schreiben sollen). Pegasus Press schreibt einen Disclaimer dazu (habe sie gerade angerufen). 
 
@@ -23,15 +25,14 @@ Warum gerade Robin’s Laws?
 
 Ich habe ja schon geschrieben, dass es mich sofort gepackt hat, aber natürlich habe ich mir Gedanken dazu gemacht, was das Buch denn eigentlich so verdammt gut macht. 
 
-Einerseits ist es für mich der **Schreibstil**: Robin D. Laws schreibt in einer Mischung aus Filmsprache, Halb-Slang und Rollenspielerlingo, so dass das Buch einfacht klasse zu lesen ist (aber richtig böse zu übersetzen – ich kann schon lange nicht mehr nachzählen, wie oft ich beim Übersetzen über seinen Stil geflucht habe und trotzdem völlig in seinem Bann war). 
+Einerseits ist es für mich der **Schreibstil**: Robin D. Laws schreibt in einer Mischung aus Filmsprache, Halb-Slang und Rollenspielerlingo, so dass das Buch einfach klasse zu lesen ist (aber richtig böse zu übersetzen – ich kann schon lange nicht mehr nachzählen, wie oft ich beim Übersetzen über seinen Stil geflucht habe und trotzdem völlig in seinem Bann war). 
 
 Dann ist da noch der Punkt, dass er mit riesigem **Respekt vor jeder einzelnen Spielleiterin** schreibt. Das fängt schon im ersten Kapitel an: *„Wer wirklich über Erfolg und Misserfolg einer Rollenspielrunde entscheidet, das bist Du“* und zieht sich durch das gesamte Buch, bis hin zu dem letzten Kapitel: *„Wenn deine Runde gut läuft, ignorier' alles, was ich dir gerade erzählt habe“*. 
 
-Aber was meiner Ansicht nach am meisten ausmacht, ist dass das Buch **Fokus** hat. Es ist mehr als eine Sammlung von Tipps und viel mehr als ein Traktat dazu, wie ein guter Spieleiter zu leiten hat. Durch das gesamte Buch zieht sich vielmehr ein roter Faden: *„Wenn mindestens 70% des Erfolges oder Misserfolges einer Spielrunde von Interaktionen zwischen den Teilnehmern abhängen, muss jede Arbeit an deinem SL-Stil mit einem Blick auf die Leute beginnen, mit denen du spielen wirst“* und *„Es gibt nur eine richtige Art zu Spielen: Die Art, die die beste Balance zwischen den verschiedenen Geschmäckern deiner aktuellen Gruppe erzielt“*. 
+Aber was meiner Ansicht nach am meisten ausmacht ist, dass das Buch **Fokus** hat. Es ist mehr als eine Sammlung von Tipps und viel mehr als ein Traktat dazu, wie eine gute SpieleiterIn zu leiten hat. Durch das gesamte Buch zieht sich vielmehr ein roter Faden: *„Wenn mindestens 70% des Erfolges oder Misserfolges einer Spielrunde von Interaktionen zwischen den Teilnehmern abhängen, muss jede Arbeit an deinem SL-Stil mit einem Blick auf die Leute beginnen, mit denen du spielen wirst“* und *„Es gibt nur eine richtige Art zu Spielen: Die Art, die die beste Balance zwischen den verschiedenen Geschmäckern deiner aktuellen Gruppe erzielt“*. 
 
-Mit dieser Grundprämisse als Fokus baut er ein wundervolles Werk auf, das das gesamte Spektrum von der Auswahl des Regelwerks über Kampagnenentwurf bis hin zu Improvisation und Charaktergetriebenem Spiel abdeckt und dabei immer wieder darauf zurückkommt, was das für jede einzelne Runde in der Praxis bedeutet. 
+Mit dieser Grundprämisse als Fokus baut er ein wundervolles Werk auf, das auf gerade mal 36 Seiten (englische Version) das gesamte Spektrum von der Auswahl des Regelwerks über Kampagnenentwurf bis hin zu Improvisation und charaktergetriebenem Spiel abdeckt und dabei immer wieder darauf zurückkommt, was das für jede einzelne Runde in der Praxis bedeutet. 
 
 Und man sieht an jeder Zeile, dass er Rollenspielen liebt: *„Es ist eure aktive Teilnahme, die Mischung aus dem Spiel zwischen euren Gedanken und eurer Vorstellungskraft, die Rollenspielen zu etwas so Lebendigem und Besonderem macht.“*
 
 Mir stehen Tränen in der Augen, wenn ich diesen Satz lese, obwohl ich nicht mehr weiß, wie oft ich ihn schon gelesen habe, und ich hoffe, dass ihn noch viele Generationen von RollenspielerInnen lesen werden. 
-
