@@ -1,7 +1,7 @@
 Vorabinfo: Robin Laws Gutes Spielleiten auf der HSpielt
 -------------------------------------------------------
 
-„Robins Laws of Good Game Mastering“ wird, wenn alles klappt, am 19.6. zur [HSpielt]() auf Deutsch veröffentlicht werden. Noch steht das nicht im Netz, aber Jan von [Pegasus Press]() hat mir erlaubt, schon jetzt darüber zu schreiben. 
+„Robin’s Laws of Good Game Mastering“ wird, wenn alles klappt, am 19.6. zur [Hannover spielt!](http://www.hspielt.de/) auf Deutsch veröffentlicht werden. Noch steht das nicht im Netz, aber Jan von [Pegasus Spiele](http://www.pegasus.de/) hat mir erlaubt, schon jetzt darüber zu schreiben. 
 
 Woher ich es weiß, wenn es sonst noch nirgendwo steht? 
 
@@ -12,13 +12,13 @@ Werdegang, bzw. Wie es dazu kam
 
 Ich habe Robin’s Laws vor etwa 6 Jahren gekauft und regelrecht verschlungen. Nach dem ersten Lesen wusste ich schon *„das muss es auf Deutsch geben!“*. Als ich es dann das dritte Mal gelesen und bei jedem Lesen noch mehr gelernt und verstanden hatte, wusste ich: *„Ich will es übersetzen!“*
 
-Also habe ich mich dran gesetzt und drei Jahre lang immer wieder an der Übersetzung geschrieben. Als ich dann einen ersten Entwurf fertig hatte, habe ich direkt Steve Jackson von [S.J. Games](http://sjgames.com) angeschrieben (per Mail) und gefragt, ob sie die Übersetzung wollen. Der hat mich dann an [Pegasus Press]() verwiesen (deutscher Vertriebspartner). Pegasus Press fand meine Übersetzung veröffentlichungswürdig (logischerweise, sonst hätten sie sie nicht angenommen :) – ich habe die Übersetzung allerdings zwischen der ersten Mail an Steve Jackson und der Zusage von Pegasus Press etwa zweimal vollständig überarbeitet, zusätzlich zu der Überarbeitung von meinen handschriftlichen Notizen beim Abtippen – der erste Entwurf war definitiv nicht geschliffen genug, um gedruckt zu werden), und da es Firmenpolitik ist, jedeN MitarbeitendeN[^N] zu bezahlen, bekomme ich auch Geld dafür :)
+Also habe ich mich dran gesetzt und drei Jahre lang immer wieder an der Übersetzung geschrieben. Als ich dann einen ersten Entwurf fertig hatte, habe ich direkt Steve Jackson von [S.J. Games](http://sjgames.com) angeschrieben (per Mail) und gefragt, ob sie die Übersetzung wollen. Der hat mich dann an [Pegasus Spiele]() verwiesen (deutscher Vertriebspartner). Pegasus fand meine Übersetzung veröffentlichungswürdig *(logischerweise, sonst hätten sie sie nicht angenommen :) – ich habe die Übersetzung allerdings zwischen der ersten Mail an Steve Jackson und der Zusage von Pegasus etwa zweimal vollständig überarbeitet, zusätzlich zu der Überarbeitung von meinen handschriftlichen Notizen beim Abtippen – der erste Entwurf war definitiv nicht geschliffen genug, um gedruckt zu werden)*, und da es Firmenpolitik ist, jedeN MitarbeitendeN[^N] zu bezahlen, bekomme ich auch Geld dafür :)
 
 Ein riesiges Dankeschön dafür gebührt auch meinen TestleserInnen. Ohne ihre Rückmeldung und Unterstützung hätte ich es vermutlich nicht geschafft, die Übersetzung fertig abzutippen, mehrfach zu korrigieren (nach meinen eigenen Standards) und jahrelang dranzubleiben. 
 
 Danke! Und danke auch, dass ihr es mit den diffs als Versandformat aufgenommen habt :)
 
-[^N]: Das große -N ist meine persönliche Variante des Binnen-I für in der Grundform feminine Worte. Ich schreibe „einE LeserIn“, und da finde ich es nur konsequent auch „einE GrüneR“ zu schreiben :) – Leider habe ich das in der Übersetzung noch nicht konsequent gemacht, sondern nur bei den Beispielcherekteren darauf geachtet, obwohl ich es auf meiner ToDo-Liste hatte… (ich hätte diesen Beitrag viel früher schreiben sollen). Pegasus Press schreibt einen Disclaimer dazu (habe sie gerade angerufen). 
+[^N]: Das große -N ist meine persönliche Variante des Binnen-I für in der Grundform feminine Worte. Ich schreibe „einE LeserIn“, und da finde ich es nur konsequent auch „einE GrüneR“ zu schreiben :) – Leider habe ich das in der Übersetzung noch nicht konsequent gemacht, sondern nur bei den Beispielcherekteren darauf geachtet, obwohl ich es auf meiner ToDo-Liste hatte… (ich hätte diesen Beitrag viel früher schreiben sollen). Pegasus Spiele schreibt einen Disclaimer dazu (habe sie gerade angerufen). 
 
 Warum gerade Robin’s Laws?
 --------------------------
