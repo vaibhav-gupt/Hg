@@ -1831,3 +1831,19 @@ Idee: Archetypen einteilen in allgemeine (sind in der Normalgesellschaft verbrei
 
 ------
 
+### Kategoriesystem skalierbar
+
+Kategorieunterschiede nur noch identifizieren über 
+
+* Die Wirkung auf andere Charaktere/etwas eine Kategorie drunter wird verdreifacht und die Wirkung auf Chars/etwas eine drüber wird gedrittelt. 
+* Messbare Skalen (Stärke, Gewicht, …) werden verzehnfacht (eigentlich verneunfacht, 3², aber 10 lässt sich besser rechnen). 
+* Wahrnehmung u.ä. werden verhundertfacht (3⁴), weil sie keine direkte Außenwirkung haben. 
+* Der messbare Wert (z.B. Stärke) auf 30/+- entspricht dem messbaren Wert auf 6/+1. Hier muss gekoppelt werden. 
+* Stärke auf Kategorie 4 ist unbelastet (Stärke/3)² in Kilogramm (also bis 16 kg zum Wandern bei Stärke 12) und maximal Stärke² in Kilogramm. 
+
+Auf die Art ist es egal, ob sich ein Proton und ein Elektron, ein Panzer und ein Hase oder ein Stern und ein Planet gegenüberstehen. Die Chancen sind ähnlich. 
+
+Vorsicht: Physikalische Effekte skalieren meist nicht (zumindest nicht einfach so). Ein größeres Wesen muss anders gebaut sein, um die gleichen Bewegungen zu beherrschen wie ein kleineres. 
+
+------ 
+
