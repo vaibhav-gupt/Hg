@@ -15,3 +15,19 @@ Vision:
 * Magie und Technologie vertragen sich nicht immer. 
 * Magie fällt Magiern auf. Schutzkreise helfen sie zu verbergen, sind aber nicht perfekt und vor allem langsam. 
 * Magische Kraft ist eine tolle Unterstützung für alle möglichen Situationen, weil Magie automatisch den Zufall beugt. 
+
+Grundlagende Technik
+--------------------
+
+Das grundlegendste Element sind Verschiebungen von Zufallsverteilungen. 
+
+Spieltechnisch bedeutet das, vor einem Wirf ein +- 1 bis +- 3 für das Ergebnis anzusagen. 
+
+Alternativ kann auch das Ereigniss *nur* krasser oder routinierter (=näher am Durchschnittswert) gemacht werden: +-1 bis +-3 *bevor geschaut wird, ob die Zahl gerade oder ungerade ist*. 
+
+Bei diesen Manipulationen gilt aber, dass sie irgendwoher kommen müssen. Eine beliebte Quelle ist die Umgebungsluft. Die Wahrscheinlichkeiten des Chars verschieben sich und im Gegenzug ändert die Luft ihre Bewegungsrichtung (=Luftzug, Kerzen flackern, …). Die Aktion wird krasser, dafür wird die Luft unbewegter und leicht stickig, oder die Aktion wird routiniert, dafür scheint die Luft unruhig zu werden und iiiiies gibt immer wieder kleine aber spürbare Luftbewegungen, die auch mal die Haare bewegen können o.ä.. 
+
+Viele andere Quellen sind auch denkbar. Wichtig dafür: Sehr viele, leicht beeinflussbare Zufallsbewegungen. Das Wetter ist auch eine gute Quelle, und für einige auch große Flüsse. 
+
+Große Menschenmengen, die sich der Manipulation nicht bewusst sind, könnten auch eine gute Quelle sein, aber ebenso ein gutes Ziel. 
+
