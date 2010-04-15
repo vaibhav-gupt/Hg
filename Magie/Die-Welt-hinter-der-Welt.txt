@@ -16,14 +16,14 @@ Vision:
 * Magie fällt Magiern auf. Schutzkreise helfen sie zu verbergen, sind aber nicht perfekt und vor allem langsam. 
 * Magische Kraft ist eine tolle Unterstützung für alle möglichen Situationen, weil Magie automatisch den Zufall beugt. 
 
-Grundlagende Technik
---------------------
+Grundlegende Technik: Zufälle
+-----------------------------
 
 Das grundlegendste Element sind Verschiebungen von Zufallsverteilungen. 
 
-Spieltechnisch bedeutet das, vor einem Wirf ein +- 1 bis +- 3 für das Ergebnis anzusagen. 
+Spieltechnisch bedeutet das, vor einem Wurf ein +- 1 bis +- 3 für das Ergebnis anzusagen (oder auch mehr). Beispiel: Normalerweise muss ein Autofahrer lächerlichen Situationen nicht würfeln (Wert 9 (Beruf), Mindestwurf 0), auch nicht, wenn er durch Müdigkeit einen Malus von 3 hat. Aber erschwer’ ihm seinen Wurf um 3, schon gibt es eine 18% Wahrscheinlichkeit, dass er genau jetzt einen Fehler macht, der zu einem Unfall führen kann. Mächtigere Magier erschweren den Wurf um 6, so dass die Unfallswahrscheinlichkeit bei 50% liegt. Um sie noch weiter zu erhöhen, nehmen sie einen nicht nur übermüdeten, sondern auch noch leicht angeheiterten Fahrer (nochmal -3), dann kommen sie auf 82%. Und erschweren auch den anderen Fahrern ihre Würfe, um den Unfall zu vermeiden. 
 
-Alternativ kann auch das Ereigniss *nur* krasser oder routinierter (=näher am Durchschnittswert) gemacht werden: +-1 bis +-3 *bevor geschaut wird, ob die Zahl gerade oder ungerade ist*. 
+Alternativ kann auch das Ereigniss *nur* krasser oder routinierter (=näher am Durchschnittswert) gemacht werden: +-1 bis +-3 *bevor geschaut wird, ob die Zahl gerade oder ungerade ist*. Dadurch kommt dann entweder mehr Spannung in die Situation (entweder *besonders* gut, oder *besonders* schlecht). 
 
 Bei diesen Manipulationen gilt aber, dass sie irgendwoher kommen müssen. Eine beliebte Quelle ist die Umgebungsluft. Die Wahrscheinlichkeiten des Chars verschieben sich und im Gegenzug ändert die Luft ihre Bewegungsrichtung (=Luftzug, Kerzen flackern, …). Die Aktion wird krasser, dafür wird die Luft unbewegter und leicht stickig, oder die Aktion wird routiniert, dafür scheint die Luft unruhig zu werden und iiiiies gibt immer wieder kleine aber spürbare Luftbewegungen, die auch mal die Haare bewegen können o.ä.. 
 
@@ -31,7 +31,10 @@ Viele andere Quellen sind auch denkbar. Wichtig dafür: Sehr viele, leicht beein
 
 Große Menschenmengen, die sich der Manipulation nicht bewusst sind, könnten auch eine gute Quelle sein, aber ebenso ein gutes Ziel. 
 
+Rationalisierbarkeit
+--------------------
+
 Für jeden Zauber die Frage stellen: Wie könnte der Zauber mit den normalen Naturgesetzen erklärt werden (auch wenn man die Logik etwas strecken müsste)? Wie kann ihn jemand rationalisieren? Mindestens bei den kleinen und mittleren sollte es gehen. „swamp gas…they said it was swamp gas though there’s no swamp in a hundred miles“ – Leslie Fish
 
-Wer tief genug in Magie einsteigt, merkt schnell, dass sie Leuten Angst macht, und dass weit verbreitetes *Wissen*, dass die existiert und wer sie beherrscht schnell zu einer neuen Hexenjagd führen würde. „Wir haben aus der Geschichte gelernt. Heute shorgen wir auch ohne große Organisation dafür, dass niemand zu lange über die Stränge schlägt. Wenn einer von uns merkt, dass jemand anders gefährlich wird, kümmert er sich drum. Wenn das nicht klappt, fragt er Freunde um Hilfe. Und zur Not ruft er einfach die Polizei. Aber meistens werden wir gar nicht gebraucht. Wer öffentlich von Magie spricht, verliert die Achtung bei den Entscheidungsträgern und auch leicht seinen Job. Diejenigen unter uns, die das ändern wollen, wissen, dass sie sehr behutsam vorgehen müssen, um eine neue Hexenjagd zu vermeiden.“
+Wer tief genug in Magie einsteigt, merkt schnell, dass sie Leuten Angst macht, und dass ein weit verbreitetes *Wissen*, dass die existiert, was sie kann und wer sie beherrscht schnell zu einer neuen Hexenjagd führen würde. „Wir haben aus der Geschichte gelernt. Heute sorgen wir auch ohne große Organisation dafür, dass niemand zu lange über die Stränge schlägt. Wenn einer von uns merkt, dass jemand anders gefährlich wird, kümmert er sich drum. Wenn das nicht klappt, fragt er Freunde um Hilfe. Und zur Not ruft er einfach die Polizei. Aber meistens werden wir gar nicht gebraucht. Wer öffentlich von Magie spricht, verliert die Achtung bei den Entscheidungsträgern und auch leicht seinen Job. Diejenigen unter uns, die das ändern wollen, wissen, dass sie sehr behutsam vorgehen müssen, um eine neue Hexenjagd zu vermeiden.“
 
