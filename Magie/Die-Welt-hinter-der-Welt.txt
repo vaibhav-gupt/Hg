@@ -15,6 +15,7 @@ Vision:
 * Magie und Technologie vertragen sich nicht immer. 
 * Magie fällt Magiern auf. Schutzkreise helfen sie zu verbergen, sind aber nicht perfekt und vor allem langsam. 
 * Magische Kraft ist eine tolle Unterstützung für alle möglichen Situationen, weil Magie automatisch den Zufall beugt. 
+* Verletzungen sind für die meisten Magier gefährlich. Eine sauber gezielte Kugel, *die trifft*, schaltet einen Magier leicht aus, oder sorgt zumindest dafür, dass er lange Zeit Probleme hat. Ein Magier braucht seine Kraft, um sich zu heilen. Verletzungen schwächen diese Kraft. 
 
 Grundlegende Technik: Zufälle
 -----------------------------
