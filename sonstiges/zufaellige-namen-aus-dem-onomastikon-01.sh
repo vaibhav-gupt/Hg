@@ -19,11 +19,11 @@ def is_good_line(l):
         )
     
     
-    with open("alle-namen.txt") as namen: 
+with open("alle-namen.txt") as namen: 
         names = [(j,i) for i,j in [line.split(":")  
                  for line in namen if is_good_line(line)]]
     
-    with open("alle-namen-vorne.txt", "w") as f:  
+with open("alle-namen-vorne.txt", "w") as f:  
         for i,j in names:  
             k = i[:-2] + "      " + j + "\n"  
             f.write(k.lstrip())
