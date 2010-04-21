@@ -6,7 +6,7 @@ Einleitung
 
 Das Schild-Modul ermöglicht es, dass in Kämpfen keiner der Beteiligten getroffen wird. 
 
-Wenn ein Charakter getroffen wird, aber die Differenz zwischen beiden Ergebnissen nicht *höher* ist als der Schildwert des getroffenen, geht der Treffer in den Schild und verursacht keinen Schaden. 
+Wenn ein Charakter getroffen wird, aber die Differenz zwischen beiden Ergebnissen nicht *höher* als der Schildwert des Getroffenen ist, geht der Treffer in den Schild und verursacht keinen Schaden. 
 
 Dadurch werden Kämpfe etwas länger, die tödlichkeit ändert sich aber kaum. Außerdem haben die Kämpfer eine weitere Möglichkeit im Kampf, so dass Kämpfe etwas mehr Rampenlicht erhalten. 
 
@@ -25,9 +25,9 @@ Darin liegt auch der Unterschied zu einer Rüstung: Eine Rüstung wird bei jedem
 
 Wenn in einem Kampf der Verteidiger einen Schild nutzt, trifft bei einem Gleichstand nicht mehr der Angreifer, sondern es wird niemand getroffen, selbst wenn der Schild nur einen Schildwert von Null hat. 
 
-Eine Begrenzung der Schildregeln ist, dass wenn ein Kämpfer einen Schild hat, er zwar seltener getroffen wird, wenn aber ein Treffer durchgeht, eine Wunde fast sicher ist. Um das aufzulösen, können Schilde auch einen gewissen zusätzlichen Rüstungsschutz bieten (Option: Schild bietet Schutz). 
+Eine Begrenzung der Schildregeln ist, dass wenn ein Kämpfer einen Schild hat, er zwar seltener getroffen wird, ein durchgehender Treffer aber fast sicher eine Wunde verursacht. Um das aufzulösen, können Schilde auch einen gewissen zusätzlichen Rüstungsschutz bieten (Option: Schild bietet Schutz). 
 
-Normalerweise wird angenommen, dass ein Kämpfer mit einer Nahkampffertigkeit einen Schild führen kann. Wer sich zusätzlich die Fertigkeit „Schild“ nimmt, kann sie als unterstützende Fertigkeit nutzen, so dass jedes + in Schild einen Punkt Bonus auf die Nahkampffertigkeit gibt (hier ist auch Optional Behinderung durch Schilde interessant). 
+Normalerweise wird angenommen, dass ein Kämpfer mit einer Nahkampffertigkeit einen Schild führen kann. Wer sich zusätzlich die Fertigkeit „Schild“ nimmt, kann sie als unterstützende Fertigkeit nutzen, so dass jedes + in der Schildfertigkeit einen Punkt Bonus auf die Nahkampffertigkeit gibt (hier ist auch die Option Behinderung durch Schilde interessant). 
 
 ### Schildwerte
 
@@ -41,11 +41,25 @@ Ein paar Beispiele für Schildwerte
 
 Höher sollten die Schildwerte nur in Ausnahmefällen gehen, weil sie sonst Kämpfe extrem langwierig machen können (es sei denn, es wird die Option Behinderung durch Schild genutzt). 
 
+### Kosten des Schildes als persönliche Ausrüstung
+
+Da ein Schild effektiv den Fertigkeitswert für die Hälfte der Fälle um seinen Wert erhöht (wenn der Kämpfer getroffen würde), kostet er einen Strich pro 2 Punkte Schildwert (und damit 50% mehr als eine Waffe oder Rüstung, die einen Strich pro 3 Punkte kosten). 
+
+Ein Faustschild mit Schild 0 kostet nichts, aber er bedeutet, dass der Kämpfer nur eine Hand frei hat und schränkt so seine Freiheit im Kampf ein. 
+
+Für ein Dreieck kann ein Kämpfer also 
+
+* einen Holzschild (2), ein Kurzschwert (3) und eine gehärtete Lederrüstung (3) haben, oder 
+* den Holzschild (2), ein Schwert (4) und eine leichte Lederrüstung (2). Oder 
+* einen mittleren Turmschild (4), einen Dolch (2) und feste Lederkleidung (1). 
+
 ### Option: Schaden am Schild
 
-Um zu berücksichtigen, dass Schilde beschädigt werden, wenn sie getroffen werden, kann ein Schild bei jedem Treffer durch eine Waffe, deren Schaden über dem Schildwert liegt, beschädigt werden und einen Punkt Schildwert verlieren (bei extremen Unterschieden, z.B. Faktor 3, wird der Schild einfach zertrümmert). 
+Um zu berücksichtigen, dass Schilde beschädigt werden, wenn sie getroffen werden, kann ein Schild bei jedem Treffer durch eine Waffe, deren Schaden über dem Schildwert liegt, beschädigt werden und einen Punkt Schildwert verlieren. Bei extremen Unterschieden, z.B. Faktor 3, wird der Schild einfach zertrümmert. Wer versucht, mit einem Faustschild (1) eine Streitaxt (6) aufzuhalten, kann den Schild genau einmal nutzen. 
 
-Um miteinzubeziehen, dass ein zu schwacher Schild von sehr schweren Waffen einfach zertrümmert wird, kann bei stärkeren Waffen die Differenz zwischen Waffenschaden und Schildwert als Schaden durchgehen, wenn der Schild getroffen wird (Arm gebrochen o.ä.). 
+Bei stärkeren Waffen kann die Differenz zwischen Waffenschaden und Schildwert als Schaden durchgehen, wenn der Schild getroffen wird (Arm gebrochen o.ä.). Hinter dem Schild ist dabei allerdings noch die Rüstung, so dass meist wenig Schaden bleiben wird. 
+
+#### Beispiel
 
 Eine Streitaxt (Schaden 6), die einen stabilen Holzschild erwischt (Schild 3), verursacht dann 3 Punkte Schaden (von denen nochmal die Rüstung abgezogen wird). Der Schild verliert einen Punkt Schildwert. 
 
@@ -65,13 +79,25 @@ Falls euch Schilde zu mächtig erscheinen, könnt ihr festlegen, dass sie Mali a
 
 ### Option: Schild bietet Schutz
 
-Um zu berücksichtigen, dass ein Schild meist die verletzlichsten Bereiche unerreichbar macht, kann er auch einen gewissen Rüstungsschutz bieten. Auch hier haben wir zwei Mööglichkeiten: 
+Um zu berücksichtigen, dass ein Schild meist die verletzlichsten Bereiche unerreichbar macht, kann er auch einen gewissen Rüstungsschutz bieten. 
 
-* *Durchgehende Treffer sind stark*: Dabei bekommt der Schildnutzer ein Drittel des Schildwertes als Schutz, wenn sein Gegner den Schild umgeht (also die Differenz über dem Schildwert liegt). 
+Hierbei gilt der gesamte Schildwert als zusätzlicher Schutz. Damit sind Schilde wie Rüstungen, die wenn die Differenz niedriger ist als die Differenz den Treffer ganz schlucken. Hier sollte Behinderung durch den Schild eingerechnet werden, um zu verhindern, dass Schilde zu stark werden. 
 
-* *Durchgehende Treffer sind schwach*: Schild = Zusatzrüstung. 
+Hiermit verlängern Schilde den Kampf deutlich. 
 
-Nehmen wir noch einmal den 
+#### Beispiel
+
+Nehmen wir noch einmal den Holzschild (Schild 3) und die Streitaxt (Schaden 6). Wenn der Angreifer mit 4 Punkten Differenz trifft, verursacht er 7 Punkte Schaden, was bei einem langen Kettenhemd (Schutz 4) keine Wunde bedeutet (es gehen nur 3 durch). 
+
+Gibt der Schild keine Rüstung, verursacht der Treffer 10 Punkte Schaden. 
+
+### Option: Komplettrüstungen: Harmonisierung von Rüstung und Schild
+
+Wenn Schilde bei einem Treffer auch Schutz bieten, kann eine weitere Art Rüstung eingeführt werden: Wenn der Schutz der Rüstung über dem Schaden der waffe liegt, bleibt der Treffer vollständig in der Rüstung stecken, egal wie gut der Treffer war. 
+
+Eine Rüstung kann auch einfach einen Teil ihres Schutzes als Komplettschutz haben (Beispiel: Schutz 4/1: Ein kleines Messer mit Schaden 1 kann diese Rüstung nie durchdringen). 
+
+Wenn mit Trefferzonen gearbeitet wird, kann das auch allgemein für Rüstungen gelten. Wer sie umgehen will, muss auf eine ungerüstete Stelle zielen (Malus aus dem Fokusmodul Kampf, z.B. 3 für Arm oder Bein), umgeht dafür die Rüstung, erhält aber nicht den Schadensbonus, den er nach dem Fokusmodul Kampf normalerweise erhalten würde. 
 
 Beispiel
 --------
