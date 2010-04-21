@@ -37,23 +37,41 @@ Ein paar Beispiele für Schildwerte
 
 * Armschild: 2 oder 3 – wird am Arm festgeschnallt, bzw. der Arm wird durch eine Schlaufe gezogen. Oft mit Wappen verziert. Meist aus Holz, Plastik oder Metall. 
 
-* Turmschild: 3 bis 6 – Komplettschild so groß wie der Kämpfer. Wurde z.B. von römischen Legionären genutzt („Schildkröte“, für Asterix-Leser :) ). 
+* Turmschild: 3 bis 6 – So groß wie der Kämpfer. Wurde z.B. von römischen Legionären genutzt („Schildkröte“, für Asterix-Leser – zeigt auch deutlich, was passiert, wenn Schaden am Schild miteinbezogen wird :) ). 
 
 Höher sollten die Schildwerte nur in Ausnahmefällen gehen, weil sie sonst Kämpfe extrem langwierig machen können (es sei denn, es wird die Option Behinderung durch Schild genutzt). 
 
 ### Option: Schaden am Schild
 
-Um zu berücksichtigen, dass Schilde beschädigt werden, wenn sie getroffen werden, kann ein Schild bei jedem Treffer durch eine Waffe, deren Schaden über dem Schildwert liegt, beschädigt werden und einen Punkt Schildwert verlieren (bei extremen Unterschieden, z.B. Faktor 3, auch mehr). 
+Um zu berücksichtigen, dass Schilde beschädigt werden, wenn sie getroffen werden, kann ein Schild bei jedem Treffer durch eine Waffe, deren Schaden über dem Schildwert liegt, beschädigt werden und einen Punkt Schildwert verlieren (bei extremen Unterschieden, z.B. Faktor 3, wird der Schild einfach zertrümmert). 
+
+Um miteinzubeziehen, dass ein zu schwacher Schild von sehr schweren Waffen einfach zertrümmert wird, kann bei stärkeren Waffen die Differenz zwischen Waffenschaden und Schildwert als Schaden durchgehen, wenn der Schild getroffen wird (Arm gebrochen o.ä.). 
+
+Eine Streitaxt (Schaden 6), die einen stabilen Holzschild erwischt (Schild 3), verursacht dann 3 Punkte Schaden (von denen nochmal die Rüstung abgezogen wird). Der Schild verliert einen Punkt Schildwert. 
+
+Ohne Schild wären es 6 Punkte Schaden plus Differenz, also hier bis zu 9 Punkte (ansonsten wäre der Schlag um den Schild herum gegangen). 
+
+Ein Laserschwert (Schaden 36), das einen schweren Legionärsschild erwischt (Schild 6), zerschneidet den Schild glatt und verursacht zusätzlich 30 Punkte Schaden. 
+
+In dem Fall macht der Schild für den Legionär also nicht mehr wirklich viel aus. Er hat in jedem Fall eine schwere Wunde, wenn ihn das Laserschwert irgendwie erwischt. 
 
 ### Option: Behinderung durch Schilde
 
-Falls euch Schilde zu mächtig erscheinen, könnt ihr festlegen, dass sie pro angefangene 3 Punkte Schildwert einen Punkt Malus auf den Fertigkeitswert bringen. Ein Schild mit Wert 1 bekirkt damit effektiv nur noch als Vorteil, dass bei einem Gleichstand der Verteidiger nicht getroffen wird (egal wer verteidigt, denn der Schildträger hat einen um 1 gesenkten Wert, der Kämpfer ohne Schild dagegen muss mindestens 2 Punkte Differenz erreichen, um zu treffen). 
+Falls euch Schilde zu mächtig erscheinen, könnt ihr festlegen, dass sie Mali auf den Fertigkeitswert geben. Es gibt grundlegend zwei Möglichkeiten: 
 
-Alternativ könnt ihr auch eine Behinderung gleich dem Schildwert festlegen, die durch den Bonus teilweise ausgeglichen wird, den die Schildfertigkeit als unterstützende Fertigkeit geben kann. 
+* *Viele sollen Schilde nutzen*: Der Schildnutzer erhält ein Drittel des Schildwertes als Malus auf den Fertigkeitswert. Ein Schild mit Wert 1 bewirkt damit effektiv nur noch als Vorteil, dass bei einem Gleichstand der Verteidiger nicht getroffen wird (egal wer verteidigt, denn der Schildträger hat einen um 1 gesenkten Wert, der Kämpfer ohne Schild dagegen muss mindestens 2 Punkte Differenz erreichen, um zu treffen). Die Option macht es für jeden sinnvoll, einen Schild zu nutzen, solange er an einen herankommt. Schilde mit Wert 2 oder 5 sind hier weniger sinnvoll als mit Wert 1 oder 4, also wird es sie nicht geben. 
+
+* *Schilde sollen nur für diejenigen sinnvoll sein, die damit umgehen können*: Alternativ könnt ihr auch eine Behinderung gleich dem Schildwert festlegen, die durch den Bonus teilweise ausgeglichen wird, den die Schildfertigkeit als unterstützende Fertigkeit geben kann. Hiermit ist ein Schild nur noch für diejenigen nützlich, die eine Schildfertigkeit haben, und ein Schild der mehr als doppelt so stark ist wie der Charakter Plusse in der Schildfertigkeit hat, behindert mehr als er nutzt (weil mit der Fertigkeit auch die Chance sinkt, dass man seinen Gegner trifft). 
 
 ### Option: Schild bietet Schutz
 
-Um zu berücksichtigen, dass ein Schild meist die verletzlichsten Bereiche unerreichbar macht, kann er auch einen gewissen Rüstungsschutz bieten. Als Faustregel sollte der nicht über dem Schildwert liegen. 
+Um zu berücksichtigen, dass ein Schild meist die verletzlichsten Bereiche unerreichbar macht, kann er auch einen gewissen Rüstungsschutz bieten. Auch hier haben wir zwei Mööglichkeiten: 
+
+* *Durchgehende Treffer sind stark*: Dabei bekommt der Schildnutzer ein Drittel des Schildwertes als Schutz, wenn sein Gegner den Schild umgeht (also die Differenz über dem Schildwert liegt). 
+
+* *Durchgehende Treffer sind schwach*: Schild = Zusatzrüstung. 
+
+Nehmen wir noch einmal den 
 
 Beispiel
 --------
