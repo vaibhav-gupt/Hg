@@ -73,9 +73,9 @@ In dem Fall macht der Schild für den Legionär also nicht mehr wirklich viel au
 
 Falls euch Schilde zu mächtig erscheinen, könnt ihr festlegen, dass sie Mali auf den Fertigkeitswert geben. Es gibt grundlegend zwei Möglichkeiten: 
 
-* *Viele sollen Schilde nutzen*: Der Schildnutzer erhält ein Drittel des Schildwertes als Malus auf den Fertigkeitswert. Ein Schild mit Wert 1 bewirkt damit effektiv nur noch als Vorteil, dass bei einem Gleichstand der Verteidiger nicht getroffen wird (egal wer verteidigt, denn der Schildträger hat einen um 1 gesenkten Wert, der Kämpfer ohne Schild dagegen muss mindestens 2 Punkte Differenz erreichen, um zu treffen). Die Option macht es für jeden sinnvoll, einen Schild zu nutzen, solange er an einen herankommt. Schilde mit Wert 2 oder 5 sind hier weniger sinnvoll als mit Wert 1 oder 4, also wird es sie nicht geben. 
+* *Viele sollen Schilde nutzen*: Der Schildnutzer erhält ein Drittel des Schildwertes als Malus auf den Fertigkeitswert. Die Option macht es für jeden sinnvoll, einen Schild zu nutzen, solange er an einen herankommt. Schilde mit Wert 2 oder 5 sind hier weniger sinnvoll als mit Wert 1 oder 4, also wird es sie nicht geben. Der einzige wirkliche Nachteil eines Schildes ist hier, dass die zweite Hand belegt ist. 
 
-* *Schilde sollen nur für diejenigen sinnvoll sein, die damit umgehen können*: Alternativ könnt ihr auch eine Behinderung gleich dem Schildwert festlegen, die durch den Bonus teilweise ausgeglichen wird, den die Schildfertigkeit als unterstützende Fertigkeit geben kann. Hiermit ist ein Schild nur noch für diejenigen nützlich, die eine Schildfertigkeit haben, und ein Schild der mehr als doppelt so stark ist wie der Charakter Plusse in der Schildfertigkeit hat, behindert mehr als er nutzt (weil mit der Fertigkeit auch die Chance sinkt, dass man seinen Gegner trifft). 
+* *Schilde sollen nur für diejenigen sinnvoll sein, die damit umgehen können*: Um das zu erreichen, könnt ihr eine Behinderung gleich dem Schildwert festlegen, die durch den Bonus teilweise ausgeglichen wird, den die Schildfertigkeit als unterstützende Fertigkeit geben kann. Hiermit ist ein Schild nur noch für diejenigen nützlich, die eine Schildfertigkeit haben, und ein Schild der mehr als doppelt so stark ist wie der Charakter Plusse in der Schildfertigkeit hat, behindert mehr als er nutzt (weil mit der Fertigkeit auch die Chance sinkt, dass man seinen Gegner trifft). 
 
 ### Option: Schild bietet Schutz
 
@@ -83,7 +83,7 @@ Um zu berücksichtigen, dass ein Schild meist die verletzlichsten Bereiche unerr
 
 Hierbei gilt der gesamte Schildwert als zusätzlicher Schutz. Damit sind Schilde wie Rüstungen, die wenn die Differenz niedriger ist als die Differenz den Treffer ganz schlucken. Hier sollte Behinderung durch den Schild eingerechnet werden, um zu verhindern, dass Schilde zu stark werden. 
 
-Hiermit verlängern Schilde den Kampf deutlich. 
+Wenn ihr die Option nutzt, verlängern Schilde den Kampf deutlich. 
 
 #### Beispiel
 
@@ -102,3 +102,28 @@ Wenn mit Trefferzonen gearbeitet wird, kann das auch allgemein für Rüstungen g
 Beispiel
 --------
 
+### Nur die Grundlagen
+
+Während die Marines sich für die Schlacht bereit machten, waren die Medics bei ihrer letzten Einsatzbesprechung. Nachdem jegliche Vollautomatischen Systeme seit dem letzten Sturm der Zat ausgefallen waren, legten sie sich gegenseitig ihre Rüstungen und Schilde an. 
+
+„Mach ja, dass du zurückkommst, Mark“ flüsterte Dorna ihrem Gefährten ins Ohr, während sie den Rückenpanzer festzog. „Ich will dich heute Nacht wohlbehalten bei mir wissen“. Ihr Gefährte schnaubte nur. Als seine Panzerung fertig war, warf er ihr ihren Schild zu. „Pass lieber selbst auf dich auf. Wäre eine riesen Verschwendung, wenn irgendeins von diesen mutierten Viechern seine Krallen in dich stecken würde!“
+
+Minuten später verflog die gute Laune schlagartig, als die Reihe Bodentruppen um die Meds von wie aus dem Nichts erscheinenden Monstern niedergemacht wurde und nach Augenblicken kaum mehr 10  Soldaten standen – zusammen mit den 5 Meds. Dorna packte ihren Schild fester, und 
+
+### Mit allen Optionen und vollem Malus
+
+Gallum Misbonum führt seine Einheit gegen einige verbleibende Axtschwingende Gallier. Mitten in einem schönen Gemetzel bricht plötzlich seine vordere Schlachtreihe zusammen, und er sieht sich alleine einem dieser Wilden gegenüber. 
+
+Seine Legionäre um ihn werden plötzlich unwichtig, als ein ihm brüllender Wilder entgegenstürmt, die Axt zum Schlag erhoben und eine Wut in den Augen, die keiner der Sklaven in der Arena auch nur zu imitieren vermochte. 
+
+Gallums Atmung setzt aus und seine Gedanken erstarren, doch sein Körper besinnt sich auf den Jahrelangen Drill, und sein Arm bringt wie von selbst seinen schweren Turmschild in Stellung. Der Wilde springt und Gallum hebt hinter dem Schild sein Gladius. 
+
+*Gallum hat einen effektiven Nahkampfwert von 15 und eine Schildfertigkeit von 15 (+). Sein Schild hat einen Schildwert von 4, verursacht aber auch 4 Punkte Behinderung, so dass sein Fertigkeitswert mit dem Bonus aus der Schildfertigkeit effektiv bei 12. Außerdem bietet seine Rüstung 4 Punkte Schutz. Sein Gladium verursacht 3 Punkte Schaden.*
+
+*Sein Kontrahent hat einen effektiven Nahkampfwert von 18 und seine Axt verursacht 6 Punkte Schaden. Zusätzlich bietet seine schwere Kleidung einen Schutz von 1.*
+
+*Gallum wirft eine 1, sein Kontrahent eine 3. Sie kommen also auf 11 und 15, so dass Gallums Gegner gerade eine Differenz von 4 Punkten erzielt. Der Schlag geht also in den Schild. Von den 6 Pinkten Schaden der Axt gehen 4 in den Schild und senken seinen Wert um eins. 2 Punkte gehen durch, werden aber von Gallums Rüstung aufgefangen.*
+
+Die Axt trifft kreischend auf den Schild und Momente lang kann Gallum nichts anderes machen als sich mit ganzem Gewicht gegen den Hieb zu stemmen. Trotz allem lässt ihn die Wucht des Schlages zurücktaumeln und in seinem Schildarm pocht ein diffuser Schmerz. Doch nach zwei Atemzügen bemerkt er, dass er noch am Leben ist und wappnet sich für den nächsten Angriff. Es konnte nicht mehr lange dauern, bis seine Legionäre sich auf den Wilden stürzen würden. 
+
+Als es am gleichen Tag langsam dunkel wird, sitzt Gallum in seinem Zelt und lässt seinen Arm von einer Sklavin versorgen. Der Schild hat schmerzhafte blaue Flecken hinterlassen, und er würde sich nicht vorstellen wollen, wie es ihm ohne Schild ergangen wäre. 
