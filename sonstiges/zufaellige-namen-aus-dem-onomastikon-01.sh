@@ -15,6 +15,8 @@ def is_good_line(l):
         not "Surname" in l and  
         not ".shtml" in l and  
         not "Sources.htm" in l and  
+        not "/" in l and  
+        not "+" in l and  
         not l.split(":")[2:]
         )
     
