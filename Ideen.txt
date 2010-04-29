@@ -1847,3 +1847,28 @@ Vorsicht: Physikalische Effekte skalieren meist nicht (zumindest nicht einfach s
 
 ------ 
 
+Charakterentwicklung
+--------------------
+
+Drei Wege: Für gemeinsames Spiel (wir kriegen Punkte, weil wir spielen), für jeden Abschnitt (wir kriegen Punkte für das Spielen von Geschichten) und für eigene Handlungsstränge (ich kriege Punkte, wenn ich meine eigene Geschichte einbringe und wir sie gemeinsam spielen). 
+
+Punkte für gemeinsames Spiel sind einfach Striche, die jeder am Ende des Spielabends bekommt. Ich gebe normalerweise einen je 2 Stunden Spiel. 
+
+Punkte für Abschnitte sind Striche, die alle erhalten, wenn sie einen bestimmten Abschnitt der Geschichte abgeschlossen haben. Das heißt, wann immer ein Abenteuer abgeschlossen ist, erhalten alle Charaktere eine bestimmte Zahl von Strichen. Sinnvoll sind ein bis drei Striche; zusätzlich zu denen, die die Spieler eh am Ende des Spielabends erhalten. 
+
+Punkte für eigene Handlungsstränge[^eigener-plot] bekommt ein Charakter, desses Spieler einen für den Charakter wichtigen Handlungsstrang eingebracht hat sobald ein Abschnitt des Handlungsstrangs abgeschlossen ist. Abgeschlossen bedeutet, dass erstens die Geschichte einen schönen Zwischenpunkt erreicht hat, und dass zweitens jetzt der Handlungsstrang eines anderen Charakters dran kommt (damit verschiedene Charaktere zum Zug kommen). Auch hier erhält der Charakter ein bis drei Striche, zusätzlich zu denen dadurch, dass ein Abschnitt beendet wurde (wenn der Abschluss des Handlungsstrangs mit dem Abschluss eines Abschnittes zusammenfällt) und dass gemeinsam gespielt wurde. 
+
+[^eigener-plot]: Ein Handlungsstrang gilt dann als zum Charakter gehörig, wenn er sich um den Charakter dreht, z.B. um seinen Hintergrund oder seine Wünsche oder Ängste. Auch wenn er diesen Charakter besonders fordert, dreht er sich um den Charakter. 
+
+
+------ 
+
+Charaktererschaffung im ersten Abenteuer
+----------------------------------------
+
+Es wäre cool, einen Charakter mit nur ein paar Stichworten zu beginnen und erst im ersten Abenteuer wirklich auszugestalten. Im EWS hätte dann jede für das erste Abenteuer 7 Punkte, die sie während dem Abenteuer vergeben kann. Dabei ist dann allerdings wichtig, dass das erste Abenteuer sich bereits um den Fokus der Kampagne dreht. Oder die Ausgestaltung findet erst im ersten Abenteuer statt, dass sich um den Fokus der Kampagne dreht. 
+
+Das ist dann effektiv der Pilotfilm der Runde :)
+
+------ 
+
