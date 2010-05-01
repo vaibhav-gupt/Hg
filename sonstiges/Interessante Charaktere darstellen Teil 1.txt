@@ -68,6 +68,7 @@ Haltungen
 ---------
 
 * Grundhaltung
+
     - Überheblich: Breitbeinig zurückgelehnt, Arme auf den Lehnen. 
     - Schüchtern: Fußspitzen nach innen, Hände im Schoß (mit gesenktem Kopf hochschauen). 
     - Streng: Gerader Rücken, Beine parallel, Arme auf den Beinen. 
