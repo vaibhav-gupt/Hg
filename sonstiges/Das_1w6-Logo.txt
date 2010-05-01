@@ -20,7 +20,7 @@ Nun aber zum Logo selbst.  Ich will mich erstmal an einer einfachen, völlig dil
 * Auf dem Schild eine Fantasy-Welt, eine moderne Großstadt und ein Sternenfeld, die zusammen für die verschiedensten Genres stehen, die mit dem EWS gespielt werden können.   
 * All das vor schlichtem weißem Hintergrund, wie auch das EWS versucht, die Grundlagen richtig zu machen und Spielereien auszulagern, damit jeder für sich die Spielereien wählen kann, die ihm gefallen.  
 
-Und es sieht einfach wundervoll und toll aus, und ich finde immernoch keine Worte, die meine Bewunderung wirklich ausdrücken könnten.  Ich weiß nicht, ob ich fidnen könnte, wenn ich Bücher mit den Versuchen füllen würde, denn manche Dinge gehen einfach tiefer als Worte.  
+Und es sieht einfach wundervoll und toll aus, und ich finde immernoch keine Worte, die meine Bewunderung wirklich ausdrücken könnten.  Ich weiß nicht, ob ich finden könnte, wenn ich Bücher mit den Versuchen füllen würde, denn manche Dinge gehen einfach tiefer als Worte. 
 
 Aber jetzt ein bisschen dazu, wie genial es wirklich war, was Trudy geschafft hat.  Als ersten Schritt dazu möchte ich euch nochmal zeigen, wie das alte Logo des EWS aussah, damit du einen Vergleich dazu hast:  
 
@@ -28,21 +28,23 @@ Aber jetzt ein bisschen dazu, wie genial es wirklich war, was Trudy geschafft ha
 
 Das stammt noch aus meiner Feder (bzw. meinem Kugelschreiber), und wenn ich es mit dem neuen Logo vergleiche bleibt mir nur, meine eigenen Grenzen einzusehen, und Trudys Genie zu bewundern!  
 
-Dann habe ich Trudy auf der FilkCONtinental 200X gefragt, ob sie nicht Lust hätte, ein neues Logo für das EWS zu zeichnen, und sie hat begeistert zugestimmt.  Ich habe ihr dann ein paar Ideen gezeigt, wie ich mir ein Logo vorstellen würde, aber da ich schon ein paar ihrer Zeichnungen gesehen hatte, habe ich ganz klar dazu gesagt, dass sie die Expertin ist, und ich ihr daher abgesehen von ein paar groben Vorgaben freie Hand lasse.  
+Dann habe ich Trudy auf der [FilkCONtinental 2007](http://www.filkcontinental.de/2007/) gefragt, ob sie nicht Lust hätte, ein neues Logo für das EWS zu zeichnen, und sie hat begeistert zugestimmt.  Ich habe ihr dann ein paar Ideen gezeigt, wie ich mir ein Logo vorstellen würde, aber da ich schon ein paar ihrer Zeichnungen gesehen hatte, habe ich ganz klar dazu gesagt, dass sie die Expertin ist, und ich ihr daher abgesehen von ein paar groben Vorgaben freie Hand lassen würde.  
 
 Die groben Vorgaben waren in etwa "Es sollen Drachen drauf sein, und mehrere verschiedene Spielwelten zusammen, und ein W6".  Eine meiner Skizzen war die folgende: 
 
 ![Skizze: Idee für ein neues Logo des EWS]()
 
+Wenn ihr jetzt denkt „ähem, Drak, deine Skizze ist aber irgendwie schwach“, dann habt ihr auch irgendwie recht… :)
+
 Dann hat Trudy angefangen zu entwerfen und zu zeichnen, und nach einigen Wochen hat sie mir die folgende Lineart gezeigt: 
 
-![1w6-Logo Lineart]()
+![1w6-Logo Lineart](/files/EWS_cover-lineart-klein.png)
 
-Mir blieb schon da fast der Mund offen stehen, aber ich habe noch Worte gefunden, wie toll ich es finde.  Es wurde sofort das Logo von Version X.X des EWS.  
+Mir blieb schon da fast der Mund offen stehen, aber ich habe noch Worte gefunden, wie toll ich es finde.  Es wurde sofort das Logo von [Version 2.0.1](/files/ews-dok-v2.0.1.pdf) des EWS.  
 
-Dann hat Trudy gesagt, dass sie es noch kolorieren will, und um ehrlich zu sein hatte ich Angst davor, die Version in Farbe zu sehen, weil ich nicht wusste, wie das Bild noch besser werden würde.  So sehr es mich selbst ärgert, dass es mir so schwer fiel wirklich zu vertrauen, hatte ich Angst davor, dass Farbe das großartige Bild verschlechtern könnte.  Aber ich habe mir immer wieder gesagt "sie weiß, was sie tut", und dann hat sie mir die Farbversion gezeigt. 
+Dann hat Trudy gesagt, dass sie es noch kolorieren will, und um ehrlich zu sein hatte ich Angst davor, die Version in Farbe zu sehen, weil ich nicht wusste, wie das Bild noch besser werden könnte.  So sehr es mich selbst ärgert, dass es mir so schwer fiel wirklich zu vertrauen, hatte ich Angst davor, dass Farbe das großartige Bild verschlechtern könnte.  Aber ich habe mir immer wieder gesagt "sie weiß, was sie tut", und dann hat sie mir die Farbversion gezeigt. 
 
-Ich erinnere mich noch heute bildlich daran, dass ich die Webseite geöffnet hatte und noch etwas Angst im bauch hatte, was ich wohl sehen würde.  Dann hat das Bild geladen und wie Klischeehaft das auch klingt, mir fehlten die Worte.  Ich habe das Bild sofort auf volle Auflösung gestellt und eine gute halbe Stunde lang versucht, Worte zu finden, die ich dazu schreiben könnte, aber sie waren alle nicht ausreichend.  
+Ich erinnere mich noch heute bildlich daran, dass ich die Webseite geöffnet hatte und noch etwas Angst im Bauch hatte, was ich wohl sehen würde.  Dann hat das Bild geladen und wie klischeehaft das auch klingt, mir fehlten die Worte.  Ich habe das Bild sofort auf volle Auflösung gestellt und eine gute halbe Stunde lang versucht, Worte zu finden, die ich dazu schreiben könnte, aber sie waren alle nicht ausreichend.  
 
 Nach der halben Stunde habe ich dann gemerkt, dass mein Mund offenstand, so trocken wie er war wohl schon die ganze halbe Stunde lang.  
 
@@ -54,15 +56,15 @@ Und auch wenn ich heute immernoch keine Worte finde, die wirklich abbilden könn
 
 Zum Teil ist er außerdem eine Art, Danke zu sagen und etwas zurückzugeben.  Daher möchte ich noch ein paar Bemerkungen anschließen: 
 
-Das Logo bedeutet für das EWS einen riesigen Schritt, und es hilft dem EWS vermutlich mehr als viele der Regelverbesserungen, die ich selbst bisher eingebracht habe.  Entsprechend wird Trudy, wenn das Grundregelwerk irgendwann in die Gewinnzone kommen sollte, 30% des Gewinns bekommen, den das Grundregelwerk bringt.  Ich habe ihr das auch schon gesagt, als ich sie gefragt habe, ob sie ein Logo entwerfen würde, aber ich bin nicht ganz sicher, ob sie das wirklich ernst genommen hat, daher wollte ich es hier nochmal in Öffentlichkeit wiederholen.  
+Das Logo bedeutet für das EWS einen riesigen Schritt, und es hilft dem EWS vermutlich mehr als viele der Regelverbesserungen, die ich selbst bisher eingebracht habe.  Entsprechend wird Trudy, wenn das Grundregelwerk irgendwann in die Gewinnzone kommen sollte, 30% des Gewinns bekommen, den das Grundregelwerk bringt.  Ich habe ihr das auch schon gesagt, als ich sie gefragt habe, ob sie ein Logo entwerfen würde, aber ich bin nicht ganz sicher, ob sie das wirklich ernst genommen hat, daher wollte ich es hier nochmal in der Öffentlichkeit wiederholen.  
 
-Und falls du mal Bilder für ein kommerzielles Werk brauchst, dann erinner dich daran, wie genial die Bilder sind, die Trudy zeichnen kann.  Falls sie dir dabei mal nicht direkt auf eine Mail antworten sollte, versuch es einfach nochmal und bleib dran.  Ihre Bilder gehen tief und sind es mehr als wert!  
+Und falls du mal Bilder für ein kommerzielles Werk brauchst, dann erinner’ dich daran, wie genial die Bilder sind, die Trudy zeichnen kann.  Falls sie dir dabei mal nicht direkt auf eine Mail antworten sollte, versuch es einfach nochmal und bleib dran.  Ihre Bilder gehen tief und sind es mehr als wert!  
 
 Wenn sie es mir erlaubt, gebe ich dir gerne ihre Kontaktdaten (allerdings solltest du dafür einen sinnvollen Betreff benutzen - am besten einen, der mit "1w6" anfängt, so dass du meinem Spamfilter entkommst :) ).  
 
 Und damit bleibt nur noch eins zu sagen: 
 
-Danke Trudy! 
+Danke [Trudy](http://blackthumbstudios.artworkfolio.com/gallery/354050)! 
 
 Du bist wundervoll! 
 
