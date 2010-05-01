@@ -63,3 +63,17 @@ Für die Darstellung von Charakteren im Theater, in Filmen und in Büchern gibt 
 
 Die offensichtlichste davon ist, dass wir am Tisch sitzen. Beinhaltung, Gangart, Bewegungsmuster, seitlich stehen, auf die Hnie sinken und ähnliches stehen uns nicht zur Verfügung. Stattdessen haben wir unsere Sitzhaltung. 
 
+
+Haltungen
+---------
+
+* Grundhaltung
+    - Überheblich: Breitbeinig zurückgelehnt, Arme auf den Lehnen. 
+    - Schüchtern: Fußspitzen nach innen, Hände im Schoß (mit gesenktem Kopf hochschauen). 
+    - Streng: Gerader Rücken, Beine parallel, Arme auf den Beinen. 
+    - Auf der Stuhlkante, nach vorne gelehnt, Ellenbogen auf den Tisch gestützt, Hände gefaltet. 
+    - Gelangweilt: Auf die Armlehne gestützt, Beine etwas breiter, Eine Hand zwischen den Beinen. 
+    - Verängstigt: Schultern hochgezogen, eine Hand hält das Handgelenk des anderen Armes. 
+    - Hochnäsig: Wie der Name sagt: Kopf hoch erhoben. Für Maximalen Effekt Brille auf die Nase schieben und durch die jetzt tiefere Brille schauen. 
+    - Verspielt: Kopf zur Seite gelegt. 
+
