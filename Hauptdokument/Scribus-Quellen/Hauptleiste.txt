@@ -896,9 +896,11 @@ Dieser Schaden wird von seinen Trefferpunkten abgezogen.
 Für schöne Beschreibungen der Aktionen und kreatives Einbeziehen der Umgebung kann die Spielleiterin bis zu 3 Punkte Bonus vergeben. 
 Alles Kampferschwerende geht als Malus ein. 
 
-**Auf Schaden beim Gegner zu verzichten gibt 6 Punkte Bonus (reine Verteidigung). 
+**Auf Schaden beim Gegner zu verzichten gibt 3 Punkte Bonus (reine Verteidigung). 
 
-**Wenn der Charakter sich dabei zurückzieht, erhält er weitere 3 Punkte, insgesamt also 9 Punkte Bonus. 
+**Wenn der Charakter der Verteidiger ist und auf seine eigene Handlung in der Runde verzichtet, erhält er 3 weitere Punkte, also insgesamt 6 Punkte Bonus. 
+
+**Wenn der Charakter sich außerdem zurückzieht, erhält er nochmal 3 Punkte, insgesamt also einen Bonus von 9. 
 
 **Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe. 
 
