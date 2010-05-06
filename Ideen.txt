@@ -1872,3 +1872,15 @@ Das ist dann effektiv der Pilotfilm der Runde :)
 
 ------ 
 
+### Plotelemente
+
+Plotelemente als zahlenbewehrte Charaktermerkmale, nicht nur als Beschreibungen. Beim Auflösen Erfahrung. Vielleicht sogar pro Spielabend Plotpunkte, die dann für Plotelemente ausgegeben werden können, mit denen gesteigert werden kann, wenn das Plotelement aufgelöst wird. Die würden dann paralell zur von der SL geplanten Geschichte laufen; idealerweise damit direkt verzahnt sein. 
+ 
+Wenn jede Steigerung ein fixes Plotelement mit einem Wert gleich der Kosten erfordern würde, müssten so die Spielerinnen auf größere Questen gehen, um 
+ 
+Und die Questen werden von den jeweiligen Spielerinnen entworfen; entweder rudimentär (SL, bitte mach was in der Art) oder detailliert (Ziel, wichtige Charaktere, Umgebung, …: „Ich will wieder Stahlkatze im VR konfrontieren, auch wenn ich dafür das große Turnier gewinnen muss!“). 
+ 
+Die SL kann dann auch festlegen, welche Steigerungen ihr Grundplot liefert. 
+
+------ 
+
