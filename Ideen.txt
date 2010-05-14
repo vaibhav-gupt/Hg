@@ -1884,3 +1884,11 @@ Die SL kann dann auch festlegen, welche Steigerungen ihr Grundplot liefert.
 
 ------ 
 
+### Fluoratmer
+
+Spezies, die Schwefelsäure atmet, Fluorwasserstoff speichert und als Verteidigungsmittel nutzt. 
+
+Primitiver Vorfahr der Spezies, die das Fluor speichert und als Notfallenergiequelle in Stresssituationen nutzt. 
+
+------ 
+
