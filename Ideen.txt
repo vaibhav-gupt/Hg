@@ -1276,7 +1276,7 @@ Idee: Buch: "Elfen, Orks und Zwerge"
 ------ 
 
 Ganz auf Lebenspunkte verzichten: Bei jeder Wunde würfeln, ob man noch steht. Abzüge 
-durch bisherige Wunden zählen => z.B. Mindestwurf = Anzahl Wunden * 3 + Kritische * 9. 
+durch bisherige Wunden zählen => z.B. Mindestwurf = Anzahl Wunden * 3 + Kritische * 6. 
 
 Vll. Bei 9 Punkten unter dem Wert Todesgefahr. => Meist erst Ohnmacht, von der man 
 sich wieder erholt. 
