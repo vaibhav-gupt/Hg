@@ -12,7 +12,7 @@ Um das Problem anzugehen, habe ich mich bisher meist auf mein Gefühl verlassen 
 
 Darum habe ich mich mit meinem Vater zusammengesetzt und ihn um Tipps gebeten (er hat früher Theater gespielt und ist heute Sonderschullehrer). Seine Tipps und Ideen versuche ich aufzuarbeiten und in eine Form zu bringen, mit der ich die Darstellung neuer NSCs leichter finden und die NSCs gleichzeitig erinnerungswürdiger machen kann. 
 
-In diesem nullten Artikel gehe ich auf die grundlegenden Möglichkeiten ein, um dann in späteren Teilen Beispiele für die verschiedenen Möglichkeiten der Darstellung auszuarbeiten. 
+In diesem nullten Artikel gehe ich auf die grundlegenden Möglichkeiten ein, um dann in späteren Teilen Methoden und Beispiele für die verschiedenen Möglichkeiten der Darstellung auszuarbeiten. 
 
 Als erstes sollten wir dabei über die Einschränkungen nachdenken, denen wir als SpielleiterInnen unterliegen. 
 
@@ -73,12 +73,12 @@ Die Frage wird je nach Gruppe und Spielsystem andere Antworten haben, aber ein p
 Zusätzlich kommt natürlich die Frage, ab wann ein Charakter comichaft und damit unglaubwürdig wird. Dieser Effekt könnte zum Beispiel leicht auftreten, wenn sein Erkennugsmerkmal wichtiger wird als das, was er gerade tut. Wenn der NSC die SCs auf der Straße anbrüllt, „wo geht es hier zur Kirche!?!“, wirkt das komisch und erscheint leicht unpassend und unecht (es sei denn, es ist mehr dahinter, *das Teil des Abenteuers wird*). Wenn er sie dagegen auf dem Exerzierplatz anbrüllt, passt das zur Situation. Und wenn er wichtiger wird, kannst du ihm immernoch mehr Merkmale geben, die du Stück für Stück einbringen kannst (z.B. in persönlichen Gesprächen zwischen NSC und einer SC). 
 
 
-Und damit können wir zum ersten Teil der Praxis übergehen: Wie können wir uns Charaktere so aufschreiben, dass wir mit einem Blick wieder in sie hinein finden? 
+Und damit können wir den nullten Teil abschlißen. Nächste Woche kommen wir dann zum ersten Teil der Praxis: Wie können wir uns Charaktere so aufschreiben, dass wir mit einem Blick wieder in sie hinein finden? 
 
 Das Darstellungsblatt
 ---------------------
 
-*Was wir zur Darstellung eines Charakters brauchen*
+*Was wir zur Darstellung eines Charakters brauchen.*
 
 Die grundlegende Technik für die Darstellung erinnerungswürdiger Charaktere ist ein NSC-Darstellungsblatt, das ich für neue NSCs schnell ausfüllen kann und dann später mit einem kurzen Blick auf das Blatt in die Darstellung des NSC hineinfinden kann. Dazu erkunde ich verschiedene Arten, Charaktere darzustellen, die ich dann direkt als Inspiration verwenden kann. Wenn ich den Charakter schon direkt vor mir sehe, mag ich das nicht brauchen. Aber wenn es eine von den hektischen Wochen war, kann ich nicht nur auf die Sammlung zurückgreifen, sondern weiß nach dem Ausfüllen des Blattes auch, dass ich den Charakter erinnerungswürdig darstellen kann. 
 
@@ -185,7 +185,7 @@ Charakter-Haken sind, was ich schon im Teil zu unseren Vorteilen gegenüber Auto
 
 Der letzte Punkt die Frage, was der jeweilige Charakter in der spezifischen Szene will. Er kann sich von Szene zu Szene ändern, unterstreicht aber die Erinnerungswürdigkeit der anderen Punkte: „Der hat uns absichtlich in die Patroullie gehetzt! Warte nur, wenn wir uns wiedersehen!“
 
-Indem das aktuelle Ziel des Charakters klar definiert ist, machst du es den Spielern leichter, im eine Motivation zu geben und ihn so in Erinnerung zu behalten. 
+Indem das aktuelle Ziel des Charakters klar definiert ist, machst du es den Spielern leichter, ihm eine Motivation zu geben und ihn so in Erinnerung zu behalten. 
 
 
 
@@ -194,4 +194,4 @@ Wie weiter?
 
 Das war es erstmal mit Teil 0. Im nächsten Teil geht es dann um Beispiele für verschiedene Körperhaltungen, die direkt genutzt werden können. 
 
-Ich hoffe, Teil 0 war interessant für euch und würde mich sehr über Kommentare freuen! 
+Ich hoffe, Teil 0 war interessant für dich und würde mich sehr über Kommentare freuen! 
