@@ -1,7 +1,8 @@
 Interessante Charaktere darstellen, Teil 0
 ==========================================
 
-*Charaktere als SL so darstellen, dass sie den SpielerInnen in Erinnerung bleiben. Teil 0: Grundlagen, Einschränkungen und Vorteile gegenüber anderen Medien*
+*Charaktere als SL so darstellen, dass sie den SpielerInnen in Erinnerung bleiben.  
+Teil 0: Grundlagen, Einschränkungen und Vorteile gegenüber anderen Medien.*
 
 Einleitung
 ----------
@@ -25,8 +26,8 @@ Für die Darstellung von Charakteren im Theater, in Filmen und in Büchern gibt 
 1. Die offensichtlichste davon ist, dass wir am Tisch sitzen. Beinhaltung, Gangart, Bewegungsmuster, seitlich stehen, auf die Knie sinken und ähnliches stehen uns nicht zur Verfügung. Stattdessen haben wir unsere Sitzhaltung, die deutlich eingeschränkter ist. Zum Beispiel können wir nicht einfach nervös auf-und-ab gehen. 
 
 2. Eine weitere Einschränkung ist, dass jede Darstellungsmethode die wir nutzen, vielseitig genug sein muss, viele verschiedene Emotionen darzustellen, denn wir stellen keine Personen mit festem Skript dar, für die wir ein feststehendes Repertoire an Gefühlen rüberbringen wollen. Selbst der kleinste unserer Nebencharaktere muss in der Lage sein, Angst, Freude, Trauer und vieles mehr zu zeigen, denn wir wissen nie, was unsere Spielerinnen mit ihm anstellen werden. Entsprechend können wir keine Darstellung nehmen, die nur für ein paar wenige Gefühle funktioniert. Selbst unser stets kichernder Spinner muss stille Momente haben können, und diese Flexibilität müssen wir erhalten.  
-  
-Und das wäre auch grundlegend noch einfach, wenn nicht noch eine weitere Komplexität dazukommen würde: 
+    
+    Und das wäre auch grundlegend noch einfach, wenn nicht noch eine weitere Komplexität dazukommen würde: 
 
 3. Wir stellen nicht nur einen Charakter dar, sondern viele, die oft in schneller Folge, und sie alle müssen nicht nur voneinender unterscheidbar sein, sondern auch von unserer SL-Rolle und unserer Normalrolle, denn als Spielleiterin sind wir eine Autorität mit Wissen über die gesamte Welt und den Hintergrund, und die Spielerinnen müssen erkennen können, wann wir als SL sprechen und unsere Worte und Handlungen die Welt der SCs formen, und wann wir einfach als normaler Mensch reden und einen Kommentar zu irgendwas geben. 
 
@@ -38,7 +39,7 @@ Punkt 1 bis 3  bedeuten dabei, dass jede Darstellungsmethode einerseits flexibel
 
 Aber natürlich steht nicht alles gegen uns. 
 
-Im Vergleich zu den vielgeschundenen Schauspielern haben wir nämlich auch einige Vorteile auf unserer Seite; wenn das nicht so wäre, könnten Rollenspielrunden nie die wahnsinnige Intensität erreichen, die wir an den wirklich gut laufenden Abenden erreichen. 
+Im Vergleich zu den vielgeschundenen Schauspielern haben wir nämlich auch einige Vorteile auf unserer Seite; wenn das nicht so wäre, könnten Rollenspielrunden nie die wahnsinnige Intensität erreichen, die wir an den wirklich gut laufenden Abenden erleben. 
 
 
 Vorteile der SL gegenüber anderen Arten der Darstellung
@@ -48,7 +49,7 @@ Im Vergleich zu Theater- und Filmschauspielern, Autoren Spieleherstellern haben 
 
 Im Gegensatz zu Schauspielern können wir auf den Trick von Autoren zurückgreifen und einfach etwas sagen wie: „Euer Mündel öffnet zitternd die Tür und…“. Danach müssen wir den NSC nur noch gegenüber den anderen abheben und im Gedächtnis verankern. Er muss nicht alleine mit seiner ersten Handlung erkennbar sein (auch wenn es toll ist, wenn das klappt). 
 
-Dadurch müssen wir ihn auch nur gegenüber den anderen aktiven Charakteren abheben. Wir müssen aber keine vollständigen Konstraste gegenüber allen Charakteren gleichzeitig liefern, weil wir auch Name, Aussehen und Hintergrund direkt nennen können. Und sollte das nicht reichen, können wir noch auf Off-Play-Infos zurückgreifen („Erinnert ihr euch noch an den Dracksack von der Raumptroullie, der euer Schiff gestoppt hat und aus euch herausfoltern wollte, wo eure Station liegt? Ihr seht sein Gesicht wieder, direkt hinter der auffliegenden Tür der Stationsbar! Aber diesmal seid ihr nicht alleine…“
+Dadurch müssen wir ihn auch nur gegenüber den anderen aktiven Charakteren abheben. Wir müssen aber keine vollständigen Kontraste gegenüber allen Charakteren gleichzeitig liefern, weil wir auch Name, Aussehen und Hintergrund direkt nennen können. Und sollte das nicht reichen, können wir noch auf Off-Play-Infos zurückgreifen („Erinnert ihr euch noch an den Dracksack von der Raumptroullie, der euer Schiff gestoppt hat und aus euch herausfoltern wollte, wo eure Station liegt? Ihr seht sein Gesicht wieder, direkt hinter der auffliegenden Tür der Stationsbar! Aber diesmal seid ihr nicht alleine…“
 
 Und das bringt uns indirekt zu dem Vorteil, den so gut wie kein anderes Medium bietet: Wir können Spieler und Charaktere direkt anspielen. Wenn ein Char Sklavenhaltung verabscheut, wird er sich an den Sklavenhalter erinnern, so dass wir nur noch ein Merkmal brauchen, mit dem er ihn wiedererkennen kann, aber kein eigenes mehr, durch das er sich direkt daran erinnert. Genauso wird sich eine Spielerin, die für Frauenrechte kämpft, genauso an die gehorsame Prinzessin erinnern, die immer ja und Amen sagt, wie an die Anführerin einer Diebesbande, vor der alle Männer kuschen und an den charismatischen Ritter, die die Bande ausräuchern will, um des Herz der Prinzessin zu erobern (allerdings müssen wir aufpassen, dass wir nicht ständig die gleichen Punkte aufgreifen, sondern alle SCs und SpielerInnen einbinden). 
 
@@ -63,14 +64,14 @@ Kontroverse: Wie realistisch oder überzogen?
 
 Die Frage wird je nach Gruppe und Spielsystem andere Antworten haben, aber ein paar Grundlagen dürften für die meisten gelten: 
 
-* Wenn ein Charakter zum ersten Mal auftritt sollten nur ein paar Merkmale gezeigt werden. Gerade bei zentralen Charakteren ist es wichtig, dass sie stark eingeführt werden. 
+* Wenn ein Charakter zum ersten Mal auftritt sollten nur ein paar Merkmale gezeigt werden. Gerade bei zentralen Charakteren ist es wichtig, dass sie stark eingeführt werden. Das kann leicht überzogen wirken, wenn es aber zu schwach ist, fehlt der Ankerpunkt für die Erinnerung. 
 
 * Kanonenfutter/Komparsen brauchen meist nicht mehr als ihre Grundmerkmale. Bei ihnen ist es auch nicht so wichtig, dass die Merkmale flexibel genug sind, um viele verschieden Stimmungen darzustellen. Wenn der Charakter eh nur rumbrüllen wird, können wir das Rumbrüllen auch gleich als Merkmal verwenden. 
 
-* Nebencharaktere und Hauptpersonen dagegen brauchen flexiblere Erkennungsmerkmale. Hier eignen sich Ticks und die Grundhaltung sehr gut. Auch wenn jemand immer gerade sitzt und sehr präzise spricht (Erkennungsmerkmale) können sich seine Kopfhaltung und Gestik deutlich ändern und die verschiedensten Gefühle ausdrücken. Wenn er plötzlich immer wieder unauffällig hinter sich schaut, erhält das sein Erkennungsmerkmal. Ein kleines Stocken in der Stimme würde dagegen zwar nochnicht die Präzisität der Sprache zerstören, wäre aber ein deutliches Zeichen, dass er an seinen Grenzen ist (weil seine Erkennugsmerkmale bröckeln). Im Gegensatz dazu kann ein Charakter, der durch Brüllen charakterisiert ist, nur wenig anderes zeigen als Wut, ohne sein Erkennungsmerkmal in Frage zu stellen. 
+* Nebencharaktere und Hauptpersonen dagegen brauchen flexiblere Erkennungsmerkmale. Hier eignen sich Ticks und die Grundhaltung sehr gut. Auch wenn jemand immer gerade sitzt und sehr präzise spricht (Erkennungsmerkmale) können sich seine Kopfhaltung und Gestik deutlich ändern und die verschiedensten Gefühle ausdrücken. Wenn er plötzlich immer wieder unauffällig hinter sich schaut, erhält das sein Erkennungsmerkmal. Ein kleines Stocken in der Stimme würde dagegen zwar noch nicht die Präzision der Sprache zerstören, wäre aber ein deutliches Zeichen, dass er an seinen Grenzen ist (weil seine Erkennungsmerkmale bröckeln). Im Gegensatz dazu kann ein Charakter, der durch Brüllen charakterisiert ist, nur wenig anderes zeigen als Wut, ohne sein Erkennungsmerkmal in Frage zu stellen. 
 
 
-Zusätzlich kommt natürlich die Frage, ab wann ein Charakter comichaft und damit unglaubwürdig wird. Dieser Effekt könnte zum Beispiel leicht auftreten, wenn sein Erkennugsmerkmal wichtiger wird als das, was er gerade tut. Wenn der NSC die SCs auf der Straße anbrüllt, „wo geht es hier zur Kirche!?!“, wirkt das komisch und erscheint leicht unpassend und unecht (es sei denn, es ist mehr dahinter, *das Teil des Abenteuers wird*). Wenn er sie dagegen auf dem Exerzierplatz anbrüllt, passt das zur Situation. Und wenn er wichtiger wird, kannst du ihm immernoch mehr Merkmale geben, die du Stück für Stück einbringen kannst (z.B. in persönlichen Gesprächen zwischen NSC und einer SC). 
+Zusätzlich kommt natürlich die Frage, ab wann ein Charakter comichaft und damit unglaubwürdig wird. Dieser Effekt könnte zum Beispiel leicht auftreten, wenn sein Erkennungsmerkmal wichtiger wird als das, was er gerade tut. Wenn der NSC die SCs auf der Straße anbrüllt, „wo geht es hier zur Kirche!?!“, dann wirkt das komisch und erscheint leicht unpassend und unecht (es sei denn, es ist mehr dahinter, *das Teil des Abenteuers wird*). Wenn er sie dagegen auf dem Exerzierplatz anbrüllt, passt das zur Situation. Und wenn er wichtiger wird, kannst du ihm immernoch mehr Merkmale geben, die du Stück für Stück einbringen kannst (z.B. in persönlichen Gesprächen zwischen NSC und einer SC). 
 
 
 Und damit können wir den nullten Teil abschließen. 
@@ -78,6 +79,6 @@ Und damit können wir den nullten Teil abschließen.
 Wie weiter?
 -----------
 
-Nächste Woche kommen wir dann zum ersten Teil der Praxis: Wie können wir uns Charaktere so aufschreiben, dass wir mit einem Blick wieder in sie hinein finden? 
+Nächste Woche kommen wir dann zum ersten Teil der Praxis: Wie können wir Charaktere so aufschreiben, dass wir mit einem Blick wieder in sie hinein finden? 
 
 Ich hoffe die Grundlagen waren interessant für dich und würde mich sehr über Kommentare freuen! 
