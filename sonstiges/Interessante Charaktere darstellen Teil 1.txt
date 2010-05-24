@@ -1,13 +1,13 @@
 *Wie können wir uns Charaktere so aufschreiben, dass wir mit einem Blick wieder in sie hinein finden?*
 
-Um erinnerungswürdige Charaktere zu spielen, brauchen sie Kontinuität in ihren Erkennugsmerkmalen. Um sie zu erreichen, können wir ein Darstellungsblatt verwenden, auf dem wir seine für die Darstellung wichtigsten Merkmale notieren. 
+Um erinnerungswürdige Charaktere zu spielen, brauchen sie Kontinuität in ihren Erkennungsmerkmalen. Um Kontinuität zu erreichen, können wir ein Darstellungsblatt verwenden, auf dem wir für jeden NSC die für seine Darstellung wichtigsten Merkmale notieren. 
 
 Das Darstellungsblatt
 ---------------------
 
 *Was wir zur Darstellung eines Charakters brauchen.*
 
-Die grundlegende Technik für die Darstellung erinnerungswürdiger Charaktere ist ein NSC-Darstellungsblatt, das ich für neue NSCs schnell ausfüllen kann und dann später mit einem kurzen Blick auf das Blatt in die Darstellung des NSC hineinfinden kann. Dazu erkunde ich verschiedene Arten, Charaktere darzustellen, die ich dann direkt als Inspiration verwenden kann. Wenn ich den Charakter schon direkt vor mir sehe, mag ich das nicht brauchen. Aber wenn es eine von den hektischen Wochen war, kann ich nicht nur auf die Sammlung zurückgreifen, sondern weiß nach dem Ausfüllen des Blattes auch, dass ich den Charakter erinnerungswürdig darstellen kann. 
+Die grundlegende Technik für die Darstellung erinnerungswürdiger Charaktere ist ein NSC-Darstellungsblatt, das wir für neue NSCs schnell ausfüllen können. um dann später mit einem kurzen Blick auf das Blatt in die Darstellung des NSC hineinzufinden. Dazu erkunde ich in diesem ersten Teil zur Darstellung interessanter Charaktere verschiedene Arten, NSCs darzustellen. Wenn wir den Charakter schon direkt vor uns sehen, brauchen wir das vielleich nicht. Aber wenn es eine von den hektischen Wochen war, können wir so nicht nur auf die Sammlung zurückgreifen, sondern wissen nach dem Ausfüllen des Blattes auch, dass wir den Charakter erinnerungswürdig darstellen können. 
 
 Von den Punkten auf dem Blatt sollten für einen erinnerungswürdigen Charakter mindestens der Name, das Zitat, „in zwei Worten“ und zwei weitere ausgefüllt sein. 
 
@@ -29,33 +29,33 @@ Der Name
 
 Den Namen eines Charakters zu wählen mag dabei nicht wie ein Teil der Darstellung klingen, aber es gibt einige Fallstricke, die wir vermeiden sollten – und einige schöne Tipps. 
 
-Wichtig ist, dass die Namen von keinen zwei wiederkehrenden Personen zu ähnlich klingen (solange du verwechslungen zwischen ihnen nicht absichtlich reinbringen willst). Denn wie unterschiedlich die Charaktere auch gespielt werden, wenn die Spieler ihre Namen verwechseln, verfällt dein Vorteil gegenüber Schauspielern, dass du einfach sagen kannst „XY betritt den Raum“. 
+Wichtig ist, dass die Namen zwei wiederkehrenden Personen niemals zu ähnlich klingen (solange du Verwechslungen zwischen ihnen nicht absichtlich reinbringen willst). Denn wie unterschiedlich die Charaktere auch gespielt werden, wenn die Spieler ihre Namen verwechseln, verfällt dein Vorteil gegenüber Schauspielern, dass du einfach sagen kannst „XY betritt den Raum“. 
 
-Als einfache Maßnahme, um die Warhscheinlichkeit davon zu minimieren, kannst du darauf achten, dass keine zwei Namen von Hauptpersonen den gleichen Anfangsbuchstaben haben (idealerweise gilt das auch für die SCs). Das fünktioniert sogar für ansonsten extrem ähnliche Namen wie Ori, Nori und Dori. Brauchst du doch zwei mit gleichem Anfangsbuchstaben, kannst du zumindest dafür sorgen, dass die Grundlegend anders klingen, z.B. indem der andere nur u, o und a als Vokale hat, während der andere i und e nutzt. 
+Als einfache Maßnahme, um die Wahrscheinlichkeit von zwei zu ähnlichen Namen zu minimieren, kannst du darauf achten, dass die Namen der Hauptpersonen immer unterschiedliche Anfangsbuchstaben haben (idealerweise gilt das auch für die SCs). Das fünktioniert sogar für ansonsten extrem ähnliche Namen wie Ori, Nori und Dori. Brauchst du doch zwei mit gleichem Anfangsbuchstaben, kannst du zumindest dafür sorgen, dass sie Grundlegend anders klingen, z.B. indem der eine nur u, o und a als Vokale hat (dunkel), während der andere i und e nutzt (hell). 
 
-Ein Beispiel dafür, wie man es nicht machen sollte, sind die Namen Naren und Nemre. Wir haben auch nach 5 mal acht Stunden Spielzeit die abenteuerlustige Händlertochter mit ihrem rüstigen Vater verwechselt (ich war SL). 
+Ein Beispiel dafür, wie man es *nicht* machen sollte, sind die Namen Naren und Nemre. Wir haben auch nach 5 mal 8 Stunden Spielzeit die abenteuerlustige Händlerstochter mit ihrem rüstigen Vater verwechselt (ich war SL). 
 
-Wenn du Namen willst, die klingen als wären sie aus der gleichen Region, schau einfach im [Onomastikon](/namen-aus-ONOMASTIKON) <!--TODO--> in welcher Vorksgruppe ähnliche Namen vorkommen und such dann bei diesen Volksgruppen die anderen Namen, allerdings mit anderen Anfangsbuchstaben. Zumindest für mich funkioniert das hervorragend. 
+Wenn du Namen willst, die klingen als wären sie aus der gleichen Region, schau einfach im [Onomastikon](/deutsch/sl-tipps/zufaellige-namen-aus-dem-onomastikon-holen-mit-gnu-linux) in welcher Vorksgruppe ähnliche Namen vorkommen und such dann bei diesen Volksgruppen die anderen Namen, allerdings mit anderen Anfangsbuchstaben. Zumindest für mich funkioniert das hervorragend. 
 
 Das Zitat
 ---------
 
-Das Zitat ist eine typische Aussage des Charakters, wie er sie auch im Gespräch nutzen könnte. Es kann ein paar Sätze lang sein oder auch nur drei Worte. Es ist für die Darstellung so wichtig, weil als Spielleiter die Sprache unser erstes und offensichtlichstes Mittel zur Beschreibung der Spielrealität ist. Was ein NSC sagt, formt so die wichtigste Grundlage der rationalen Sicht der Spieler auf ihn. 
+Das Zitat ist eine typische Aussage des Charakters, wie er sie auch im Gespräch nutzen könnte. Es kann ein paar Sätze lang sein oder auch nur drei Worte. Für die Darstellung ist es so wichtig, weil als Spielleiter die Sprache unser erstes und offensichtlichstes Mittel zur Beschreibung der Spielrealität ist. Was ein NSC sagt, formt so die wichtigste Grundlage der rationalen Sicht der Spieler auf ihn. 
 
-Ein langes Beispiel wäre „eigentlich bin ich ja nur ein kleiner Bäcker und hab keine Ahnung, was so alles in der Welt passiert, aber als die Typen mit den Gasmasken kamen, fand ich das schon etwas komisch. Also dacht ich, ‚Norbert‘, dacht ich, ‚das können wir nicht einfach ignorieren‘. War ja schon irgendwie komisch. Und deswegen habe ich mal geschaut, wo die hingehen…“. 
+Ein langes Beispiel wäre „eigentlich bin ich ja nur ein kleiner Bäcker und hab keine Ahnung, was so alles in der Welt passiert, aber als die Typen mit den Gasmasken kamen, fand ich das schon etwas komisch. Also dacht ich, ‚Norbert‘, dacht ich, ‚das können wir nicht einfach ignorieren‘. War ja schon irgendwie komisch. Und deswegen habe ich mal geschaut, wo die hingehen…“. Um zu testen, wie gut das funktioniert, überleg dir doch einfach mal einen weiteren Satz, den ‚Norbert‘ sagen könnte.
 
-Ein kürzeres wäre „Hoi Chummer. Lass ’n paar Nuyen rüberwachsen und ich erzähl dir was immer du wissen willst.“
+Ein kürzeres Zitat wäre „Hoi Chummer. Lass ’n paar Nuyen rüberwachsen und ich erzähl dir was immer du wissen willst.“
 
 Ein ganz kurzes ist „Macht schnell. Viel zu tun“ oder „und wer darf es wieder reparieren?“.
 
-Gut geschriebene Zitate können dabei Charaktere schon sehr plastisch werden lassen und auch einige Anregungen geben, wie wir ihn darstellen können. Daher sollte jeder Charakter ein Zitat haben. 
+Gut geschriebene Zitate können dabei Charaktere schon sehr plastisch werden lassen und viele Anregungen geben, wie wir sie darstellen können. Daher sollte jeder Charakter ein Zitat haben. 
 
 Um gut geschriebene Zitate zu finden, kannst du in allen möglichen Quellen für Inspirationen für Charaktere schauen. Sobald du einen spannenden Charakter siehst, überleg dir einfach, was er in einem typischen Gespräch sagen könnte. Es ist nicht wichtig, ob er das Zitat jemals wirklich nutzt, sondern nur, dass du es zur Hand hast, um selbst ein Gefühl dafür zu haben, wie der Charakter spricht. 
 
 Körpersprache allgemein
 -----------------------
 
-Obwohl allerdings unsere Worte das deutlichste sind, das die Spieler von den NSCs sehen, und obwohl ein Charakter ohne eigene Worte ähnlich schwer in Erinnerung bleiben wird wie einer ohne Namen (auch Schweigen ist dabei eine Art von Worten – auch das Fehlen von Worten beschreibt, wie ein Charakter Worte nutzt), übermittelt unsere Körpersprache ein Gefühl von dem Charakter, wie es Worte alleine nicht können. 
+Obwohl allerdings unsere Worte das deutlichste sind, das die Spieler von den NSCs sehen, und obwohl ein Charakter ohne eigene Worte ähnlich schwer in Erinnerung bleibt, wie einer ohne Namen (Schweigen ist dabei eine Art von Worten – auch das Fehlen von Worten beschreibt, wie ein Charakter Worte nutzt), übermittelt unsere Körpersprache ein Gefühl von dem Charakter, wie es Worte alleine nicht können. 
 
 Genau wie der interessanteste Vortrag durch einen monotonen Sprecher langweilig wird, und auch der größte Unsinn Leute fesseln kann, wenn er nur spannend erzählt wird, ist für die Frage, *wie* sich die Spieler an den Charakter erinnern wichtiger, *wie* wir ihn darstellen, und nicht, was wir eigentlich sagen. 
 
@@ -66,18 +66,18 @@ Stattdessen können den Eindruck des Zitates mit verschiedenen Techniken unterma
 
 ### Arten der Körpersprache
 
-Die Techniken können dabei in vier Grundbereiche aufgeteilt werden: 
+Die Techniken beinhalten vier Grundbereiche: 
 
 * Haltung, 
 * Mimik, 
-* Gestik, 
+* Gestik und
 * Stimme
 
-Haltung ist die Grundhaltung des Körpers: Stützen wir uns auf den Tisch oder lehnen wir uns zurück? Wie halten wir den Kopf? Sitzen wir breitbeinig oder ziehen wir die Knie zusammen? Wie halten wir unsere Schultern bei der Darstellung des Charakters? …
+Haltung ist die Grundhaltung des Körpers: Stützen wir uns auf den Tisch oder lehnen wir uns zurück? Wie halten wir unseren Kopf? Sitzen wir breitbeinig oder ziehen wir die Knie zusammen? Wie halten wir unsere Schultern bei der Darstellung des Charakters? …
 
 Mimik deckt den Gesichtsausdruck ab. Das kann ein einfaches „lächelt ständig“ sein, aber auch „schlaff und kaum bewegt“ oder „verkniffen“. Auch „hat die Augen immer halb geschlossen“ und ähnliches gehört dazu. 
 
-Gestik ist für uns das, was wir mit unseren Armen machen. Deuten wir ständig auf die Spieler, oder versteckes wir unsere Arme hinter dem Rücken? Haben wir die Hände die meiste Zeit in den Taschen oder fuchteln wir damit herum, um unsere Aussagen zu untermauern? Oder verschränken wir sie vor der Brust? 
+Gestik ist für uns das, was wir mit unseren Armen machen. Deuten wir ständig auf die Spieler, oder verstecken wir unsere Arme hinter dem Rücken? Haben wir die Hände die meiste Zeit in den Taschen oder fuchteln wir damit herum, um unsere Aussagen zu untermauern? Oder verschränken wir sie vor der Brust? 
 
 Als letztes kommt für uns noch die Stimme dazu, eins unserer stärksten Werkzeuge, das weit mehr kann, als Dialekte (auch wenn Dialekte toll sind!). Wir können langsam und gedehnt oder schnell und hektisch sprechen. Oder leise, fast flüsternd und schüchtern – oder drohend. Genauso können wir tief oder hoch sprechen, „klein“ oder resonant und vieles mehr. 
 
@@ -85,45 +85,47 @@ Als letztes kommt für uns noch die Stimme dazu, eins unserer stärksten Werkzeu
 Grundstimmung
 -------------
 
-Was für eine Stimmung verbreitet der Char? Am einfachsten kannst du die Stimmung rüberbringen, indem du dich selbst in den Char versetzt und dadurch die Stimmung selbst fühlst, während du ihn spielst.
+Die Grundstimmung ist die Stimmung, die der Charakter verbreitet. Am einfachsten kannst du eine Stimmung rüberbringen, indem du dich selbst in den Charakter versetzt und dadurch die Stimmung fühlst, während du ihn spielst.
 
-Die Stimmung lässt sich dadurch leicht durch die Emotionen des Chars beschreiben. 
+Sie lässt sich daher leicht durch die Emotionen des Chars beschreiben. 
 
 Außerdem hilft es sehr, wenn die anderen Körpersprachlichen Signale des NSC die Stimmung unterstützen. 
 
 Beispiele sind „traurig“, „erschöpft“, „euphorisch“, „eifrig“, „frostig“ und „ängstlich“. 
 
-Als Tipp: Finger weg von Stimmungen, die du nicht sauber rüberbringen kannst, sonst wird das leicht zu Slapstick. Wenn du die Stimmung noch nicht beherrscht, der Char sie aber haben soll, kannst du sie vor dem Spiegel üben, bis du sieselbst fühlst (sich in die Körpersprache einzufühlen hilft, die Stimmung nachzufühlen). 
+Als Tipp: Finger weg von Stimmungen, die du nicht sauber rüberbringen kannst, sonst wird das leicht zu Slapstick. Wenn du die Stimmung noch nicht beherrscht, der Char sie aber haben soll, kannst du sie vor dem Spiegel üben, bis du sie selbst fühlst (sich in die Körpersprache einzufühlen hilft, die Stimmung nachzufühlen). Passende Bücher lesen, Spiele spielen und Filme schauen hilft auch oft – und bringt auf neue Ideen. 
 
 
 Reaktionsmuster und Ticks
 -------------------------
 
-Hierbei geht es um Standardreaktionen des Charakters. Reagiert er auf jede Anschuldigung sofort aggressiv, oder ist er bei der kleinsten aggressiven Handlung sofort eingeschüchtert? Oder spielt er ständig mit einem Würfel oder seiner Pfeife? 
+Hierbei geht es um des Standardverhalten des Charakters. Reagiert er auf jede Anschuldigung sofort aggressiv oder ist er bei der kleinsten aggressiven Handlung sofort eingeschüchtert? Oder spielt er ständig mit einem Würfel oder seiner Pfeife? 
 
-Der Unterschied zwischen einem Reaktionsmuster und einem Tick ist hier, dass das Reaktionsmuster nur auftritt, wenn die Charaktere sich auf eine bestimmte Art verhalten (nimm was, das häufig passiert oder sehr krass ist, sonst erinnert sich niemand dran), während ein Tick immer da ist, egal wer der gegenübersteht. 
+Der Unterschied zwischen einem Reaktionsmuster und einem Tick ist hier, dass das Reaktionsmuster nur auftritt, wenn die Charaktere sich auf eine bestimmte Art verhalten (nimm etwas, das häufig passiert oder sehr krass ist, sonst erinnert sich niemand dran), während ein Tick immer da ist, egal wer dem Charakter gegenübersteht. 
 
 
 Gimmicks
 --------
 
-Gimmicks sind kleiene Dinge, die wir zur Darstellung verwenden. Das kann eine Kappe sein, oder ein Zylinder, ein Bleistift oder ein Schal, aber auch Musik („theme-song“) Geräusche (z.B. auf den Tisch klopfen für die Schritte) und vieles mehr. 
+Gimmicks sind kleine Dinge, die wir zur Darstellung verwenden. Das kann eine Kappe sein, oder ein Zylinder, ein Bleistift oder ein Schal, aber auch Musik („theme-song“) Geräusche (z.B. auf den Tisch klopfen für die Schritte) und vieles mehr. 
 
-Gimmicks und Ticks sind dabei nicht perfekt abgegrenzt. Grundlegend ist das Gimmick das, was wir als SL nutzen, während der Tick das ist, was es im Spiel bedeutet. 
+Gimmicks und Ticks sind hier nicht perfekt abgegrenzt. Um sie näherungsweise zu unterscheiden, können wir ein Gimmick als das beschreiben, was wir als SL nutzen, während ein Tick das ist, was es im Spiel bedeutet.  
 
-Beide sind etwas, das den Charakter völlig unabhängig von seinen sonstigen Merkmalen darstellt. 
+Beide sind etwas, das den Charakter größtenteils unabhängig von seinen sonstigen Merkmalen darstellt. 
 
 
 Hintergrundspezifisches, Charakter-/Spieler-Haken und was sie/er/es will
 ------------------------------------------------------------------------
 
-Hier hängt es völlig von eurem Spiel und deiner Runde ab, was du wählst. 
+Hier hängt es völlig von deinem Spiel und deiner Runde ab, was du wählst. 
 
-An einen Praios-Priester erinnern sich Leute, auch wenn der Priester ansonsten nicht allzu interessant ist, und der Magistrat der Stadt wird auch in Erinnerung bleiben, genau wie derjenige, der gegen den Magistrat antritt. 
+An einen Praios-Priester (DSA) erinnern sich Leute, auch wenn der Priester ansonsten nicht allzu interessant ist, und auch der Magistrat der Stadt wird in Erinnerung bleiben, genau wie derjenige, der versucht den Magistrat zu ersetzen. 
 
-Charakter-Haken sind, was ich schon im Teil zu unseren Vorteilen gegenüber Autoren beschrieben habe. Wir können NSCs direkt auf die Spieler und ihre Charaktere zuschneiden, um bestimmte Themen anzusprechen, die ihnen wichtig sind, sollten dabei aber vorsichtig sein, nicht zu sehr an irgendwelche Traumata zu rühren – da kommen wir dann zur Verantwortung der SL, denn wir können Situationen schaffen, die für die Spieler schwer sind, und wir sind weitgehend dafür verantwortlich, was daraus entsteht (auch wenn jeder am Spieltisch darauf achten sollte, wie es den MitspielerInnen geht). Die minimale Vorsichtsmaßnahme ist, eine Szene abzubrechen, wenn sie für einen Spieler zu schwierig wird. Einer der einfachsten Wege ist, ihn zu Fragen, ob alles OK ist, und die Szene einfach nicht weiter auszuspielen, wenn es zu heftig sein sollte. 
+Charakter-Haken sind das, was ich schon im [Teil 0](/deutsch/sl-tipps/interessante-charaktere-darstellen) zu unseren Vorteilen gegenüber Autoren beschrieben habe. Wir können NSCs direkt auf die Spieler und ihre Charaktere zuschneiden, um bestimmte Themen anzusprechen, die ihnen wichtig sind. Dabei sollten wir aber vorsichtig sein, nicht zu sehr an irgendwelche Traumata zu rühren – an dem Punkt kommen wir zur Verantwortung der SL, denn wir können Situationen schaffen, die für die Spielerinnen schwer zu verkraften sind, und wir sind weitgehend dafür verantwortlich, was daraus entsteht (auch wenn jedeR am Spieltisch darauf achten sollte, wie es den MitspielerInnen geht).[^vorsichtsmassnahmen]
 
-Der letzte Punkt die Frage, was der jeweilige Charakter in der spezifischen Szene will. Er kann sich von Szene zu Szene ändern, unterstreicht aber die Erinnerungswürdigkeit der anderen Punkte: „Der hat uns absichtlich in die Patroullie gehetzt! Warte nur, wenn wir uns wiedersehen!“
+[^vorsichtsmassnahmen]: Die minimale Vorsichtsmaßnahme ist, eine Szene abzubrechen, wenn sie für eineN SpielerIn zu schwierig wird. Einer der einfachsten Wege ist, sie zu Fragen, ob alles OK ist, und die Szene einfach nicht weiter auszuspielen, wenn es zu heftig sein sollte. Ein ganzes Stück komplexer ist es, die Szene auf eine Art weiterzuspielen, die hilft, das Traume zu bewältigen. Wenn du es verbockst, kannst du sehr viel kaputt machen, daher würde ich da zu äußerster Vorscht raten. Wenn ein SL das einfach durchzuziehen versucht, und dir als SpielerIn zu gefährlich erscheint, kannst du es auch als Spielerin unterbrechen. 
+
+Der letzte Punkt die Frage, was der jeweilige Charakter in der spezifischen Szene will. Es kann sich von Szene zu Szene ändern, unterstreicht aber die Erinnerungswürdigkeit der anderen Punkte: „Der hat uns absichtlich in die Patroullie gehetzt! Warte nur, wenn wir uns wiedersehen!“
 
 Indem das aktuelle Ziel des Charakters klar definiert ist, machst du es den Spielern leichter, ihm eine Motivation zu geben und ihn so in Erinnerung zu behalten. 
 
@@ -135,3 +137,6 @@ Wie weiter?
 Das war es erstmal mit Teil 1. Im nächsten Teil geht es dann um Beispiele für verschiedene Körperhaltungen, die direkt genutzt werden können. 
 
 Ich hoffe Teil 1 war interessant für dich und würde mich sehr über Kommentare freuen! 
+
+*PS: Nachdem keine Woche nach Abschalten des Spamfilters wieder Spam kam, habe ich den Spamfilter wieder aktiviert. Jetzt sollten aber keine Inhalte mehr verloren gehen (nur nicht öffentlich sichtbar). Danke an [Taysal](http://rollenspiel.taysal.net/), für das Aufspüren des Fehlers!*
+
