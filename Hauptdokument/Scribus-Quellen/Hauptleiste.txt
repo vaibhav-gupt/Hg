@@ -340,21 +340,21 @@ Dabei gelten die folgenden fünf Regeln:
 
 
 ##3) Kosten
-**Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. Damit entstehen die folgenden Kosten, um auf den entsprechenden Wert zu kommen: 
+**Kosten für Werte werden in Dreiecken ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Dreiecke, wie der erreichte Wert in Plussen beträgt. 
 
-**+: 1 Dreieck (Δ) Kosten
-**++: 3 Dreiecke (Δ) Kosten
-**+++: 6 Dreiecke (Δ)
-**++++: 10 Dreiecke (Δ)
+**von ± auf +: 1 Dreieck (Δ) Kosten
+**von + auf ++: 2 Dreiecke (Δ)
+**von ++ auf +++: 3 Dreiecke (Δ)
+**von +++ auf ++++: 4 Dreiecke (Δ)
 
 ##4) Stärken für Schwächen
 **Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt ein zusätzliches Dreieck (Δ). Stärker negative Werte geben genauso viele Dreiecke (Δ) wie ihr positives Gegenstück kosten würde. 
-**Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Dreiecke (Δ) erhält (siehe Regel 4). 
-**Damit gilt: 
+**Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Dreiecke (Δ) erhält. 
+**Also gilt: 
 
-**-: gibt 1 Dreieck (Δ)
-**--: gibt 3 Dreiecke (Δ)
-**---: gibt 6 Dreiecke (Δ)
+**von ± auf - senken gibt 1 Dreieck (Δ)
+**von - auf -- gibt 2 Dreiecke (Δ)
+**von -- auf --- gibt 3 Dreiecke (Δ)
 
 ##5) Eigenschaftsboni
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt. 
