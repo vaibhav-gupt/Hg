@@ -1,10 +1,12 @@
-Zettel-RPG
-==========
+Slipoj-Rolludo
+==============
+
+*Mi tradukis mian faciligan rolludon al Esperanton. Devas esti presita en 14 ambauflankajn slipojn.*
 
 Kara filin’, 
 
-Ankora­u vi estas tro maljuna por
-kompreni mi skribajumo, sed mi
+Ankorau vi estas tro maljuna por
+kompreni mia skribajumo, sed mi
 devas veni ankau la suno ascendas
 kaj mi volas postlasi por vin tio, 
 kio vost vi kaj via patrino plej 
@@ -32,8 +34,8 @@ viaj karakterojn.
 
 ------ 
 
-Um das einfach zu machen, 
-beginnen wir mit euren Berufen.
+Por faciligi tion, ni ekas
+kun viaj profesioj. 
 
 Was haben eure Charaktere ge-
 lernt, oder wie werden sie von 
