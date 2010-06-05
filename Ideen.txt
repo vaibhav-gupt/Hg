@@ -1896,3 +1896,39 @@ Blizzard fragen: Dürfen wir für RaumZeit inspired by Starcraft schreiben?
 
 ------ 
 
+### Soziale Interaktion
+
+* Überzeugung eingeben (für begrenzte Zeit, lässt wieder nach). 
+* System für die Überzeugungen der Charaktere. Was ist mir wichtig, was will ich erreichen, etc. Alle mit Punkten, die angeben, wie schwer sie zu ändern sind. 
+* Grundüberzeugungen kaum zu ändern. Wenn ich ein Urvertrauen habe, kann das nur durch krasse Erfahrungen zerstört werden, aber nur sehr sehr schwer durch Überzeugungsversuche. 
+
+„Was glaubt mein Charakter? Was ist ihm wichtig?“
+
+Grund: Wir brauchen ein detailliert ausgearbeitetes und berechenbares System für soziale Fähigkeiten, um die Fähigkeiten zur Lösung von Konflikten nutzen zu können. Wenn wir komplexere soziale Herausforderungen wollen, brauchen wir auch ein komplexeres System. 
+
+Wenn wir wolles, dass soziale Interaktion große Effekte haben kann (permanente Änderungen wie Überzeugungen), brauchen wir ein komplexeres System. Und dann können Plots darauf aufbauen. 
+
+Welche Knöpfe kann ich bei wem drücken? 
+
+Welche Überzeugungen können nur sehr sehr schwer geändert werden? → kaufe die Werte bei der Erschaffung. Wer sie ändern will, muss dafür Erfahrung ausgeben und/oder das mit dem Spieler absprechen, denn der Spieler verwaltet seinen Charakter. Für jeden Knopf kriegst du einen weiteren Teil, der kaum geändert werden kann. 
+
+„Ich gebe nie auf“ → dafür habe ich den Knopf „Wenn jemand mich beleidigt, hat er sofort meine Faust in der Fresse“. 
+
+Knöpfe drucken geht ohne Wurf, Knöpfe finden braucht einen Wurf. Nicht geschützte Überzeugungen können mit einem Wurf temporär geändert werden. 
+
+Dinge, die klar sind (6 Punkte differenz) nicht ausspielen. Barde mit Überzeugen 18 kann also fordernde Überzeugungen (MW 12) einfach spielen. Barbar ohne überzeugen muss ständig würfeln (mit Eigenschaft -9). 
+
+Option: Jemand mit guten Werten kann die Mitspieler nach guten Ideen fragen. 
+
+------ 
+
+Nicht vergessene Pläne :) 
+
+* Routine und Spannung: Den Wert des W6 modifizieren, bevor festgestellt wird, ob er gerade oder ungerade ist. Routine senkt ihn, Spannung erhöht ihn. 
+    
+    Einfacher viellleicht: Einfach als Erhöhung, damit die Augenzahl auf dem Würfel immernoch sagt, ob das Ergebnis gut oder schlecht ist. 
+    
+    Für noch weitergehendes: Die Mitspieler bieten verdeckt vor dem Wurf. Erst nach dem Wurf decken sie ihre Gebote der Reihe nach auf. Bis zum letzten Spieler ist unklar, ob der Wert addiert oder subtrahiert wird. 
+
+------ 
+
