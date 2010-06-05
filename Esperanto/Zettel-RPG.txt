@@ -240,7 +240,7 @@ Damit sieht mein Zettel so aus:
     Niuve
     -----
     
-    Diebin: ++
+    Diebin ++
     → Taschendiebstahl +
     →  Schleichen +
     → Bequatschen +
