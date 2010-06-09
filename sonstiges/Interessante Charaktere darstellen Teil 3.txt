@@ -11,4 +11,5 @@ Stimme
 
 * Gruppen von Charakteren erstellen: 
     - Namen: Zufall im Onomastikon → für gut klingende etwa 20 weitere passende aus dem gleichen Sprachraum → names_server nutzen, um aus 20 Namen 100 zu machen. 
-    Darstellung: Brainstorm: zur Region passende Darstellungsarten. 20 reichen für Vielfalt. Dann Namen und Darstellungsarten kombinieren (aufschreiben!) und dabei offen bleiben für neue Ideen. Es ist dann ein darstellbarer Charakter, wenn er Name, Zitat, in zwei Worten und zwei weitere Darstellungsarten hat. Damit aer Fragen beantworten kann, braucht er jetzt noch Hintergrund. 
+    - Darstellung: Brainstorm: zur Region passende Darstellungsarten. 20 reichen für Vielfalt. Dann Namen und Darstellungsarten kombinieren (aufschreiben!) und dabei offen bleiben für neue Ideen. Es ist dann ein darstellbarer Charakter, wenn er Name, Zitat, in zwei Worten und zwei weitere Darstellungsarten hat. Damit aer Fragen beantworten kann, braucht er jetzt noch Hintergrund. 
+    - Beziehungen zwischen ihnen erstellen, die Geschichten erzählen, bzw. Ideen für Geschichten geben. Wichtig: Potentielle, versteckte und offene Konflikte. 
