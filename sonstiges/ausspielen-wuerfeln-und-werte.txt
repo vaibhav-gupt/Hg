@@ -11,7 +11,7 @@ Damit haben wir jetzt 5 Möglichkeiten:
 * Ausspielen, dann würfeln. Je nach Ergebnis der Wurfes ändert sich möglicherweise die Spielwelt. Das Ausspielen gibt vll. Boni oder Mali auf den Wurf.
 * Ausspielen. Was der Spieler sagt ist wahr oder falsch, je nach Werten des Charakters.
 
-So haben wir auch ein schönes Spektrum mit „der Charakter handelt immer konsistent in der Welt“ auf der einen Seite, „die Welt ist immer konsistent mit den Charakteren“ auf der anderen Seite und „was der Spieler sagt ist immer wahr“ irgendwo zwischendrin. 
+So haben wir auch ein schönes Spektrum mit „der Charakter handelt immer konsistent in der Welt“ auf der einen Seite, „die Welt ist immer konsistent mit den Handlungen der Charaktere“ auf der anderen Seite und „was der Spieler sagt ist immer wahr“ irgendwo zwischendrin. 
 
 Und das gibt dann auch dem Würfeln unterschiedliche Bedeutung. 
 
