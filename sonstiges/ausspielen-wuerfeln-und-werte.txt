@@ -13,6 +13,19 @@ Damit haben wir jetzt 5 Möglichkeiten:
 
 So haben wir auch ein schönes Spektrum mit „der Charakter handelt immer konsistent in der Welt“ auf der einen Seite, „die Welt ist immer konsistent mit den Handlungen der Charaktere“ auf der anderen Seite und „was der Spieler sagt ist immer wahr“ irgendwo zwischendrin. 
 
+Eigentlich sind es sogar zwei Skalen, nämlich 
+
+* Wie stark ist der Einfluss der Handlungen des Spielers auf den Charakter? 
+* Verändert sich eher die Handlung des Charakters[^1] oder die Spielwelt? 
+
+[^1]: Das betrifft auch die Auswirkung der Handlung: Gelingt sie oder nicht?
+
 Und das gibt dann auch dem Würfeln unterschiedliche Bedeutung. 
 
 Und jetzt die Eingangsfrage des Threads nochmal strukturiert: Was spricht für welchen Punkt? Wann sollte also welche Technik genutzt werden?
+
+
+
+
+
+
