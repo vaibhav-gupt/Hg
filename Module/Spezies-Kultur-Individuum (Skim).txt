@@ -1,0 +1,79 @@
+Spezies, Kultur, Individuum (Skim)
+==================================
+
+Spezies und Kultur geben Charakteren ihre Grundwerte, von denen 
+ausgehend sie individualisiert werden. 
+
+Die Spielbalance leidet etwas, dafür steigt die Konsistenz des 
+Settings. 
+
+Grundlagen
+----------
+
+Statt Charaktere einfach von null ab zu steigern, erhalten sie erst 
+eine Spezies und eine Kultur. 
+
+### Spezies
+
+Die Spezies wird wie ein Charakter erschaffen: Sie erhält die 
+Eigenschaften, die von der Norm abweichen, und für besondere 
+Fähigkeiten der Speziel erhält sie Merkmale.
+
+Zum Beispiel kann eine Spezies wie Orks stärker und geschickter 
+sein als andere. In dem Fall hätte sie vielleicht Stärke und 
+Geschicklichkeit auf + (15). Andere Spezies haben vielleicht das 
+Merkmal „sonar“ (+). 
+
+Auf die Art erhält eine Spezies auch Kosten. Ein orkischer 
+Charakter würde dann zwei Dreiecke zahlen, also genau den Betrag, 
+der für die Erschaffung der Speziel nötig war. 
+
+Ein Charakter dieser Spezies wird dann wie üblich erschaffen, aber 
+die veränderten Werte der Spezies gehen als Boni und Mali ein, die 
+er bei der Steigerung nicht berückichtigen muss. Auf die Art haben 
+aEigenschaften so wie Fertigkeiten einen Grundwert und einen 
+Effektivwert. Und wie bei Fertigkeiten wird zur Berechnung der 
+Kosten einer Steigerung nur der Grundwert genutzt. 
+
+Der spieltechnische Effekt davon ist, dass Charaktere dieser 
+Spezies steigern, als hätten sie einen niedrigeren oder höheren 
+Grundwert. 
+
+Die Spezies gibt also den Wert an, um den herum sich Vertreter der 
+Spezies unterscheiden. 
+
+#### Beispiel
+
+Die Geschicklichkeit eines orkischen Charakters (geschickter (+) 
+und schneller (+)) auf überragend zu steigern (++, 18) kostet nur 
+ein Dreieck, da der Charakter seinen Grundwert nur auf 15 steigern 
+muss und von seiner Spezies einen Bonus von drei erhält, den er 
+für die Steigerung ignorieren kann. 
+
+Ein menschlicher Charakter dagegen muss für die Steigerung auf 18 
+drei Dreiecke zahlen: eins für die Steigerung auf + (15) und zwei 
+weitere für die Steigerung auf 18 (++). 
+
+Wenn nun aber der Spieler eines Synachu (Stärke - (9)) auf 18 
+kommen will, muss er erst ein Dreieck zahlen, um auf 12 zu kommen 
+(15 -3), dann zwei weitere für 15 (18-3) und nochmal drei weitere 
+für die Steigerung auf 18 (21-3). 
+
+Auf die Art ist es für Charaktere billiger hohe Werte in 
+Eigenschaften zu erreichen, in denen ihre Speziel Boni gibt. 
+
+Der ork zahlt für die Steigerung der Stärke auf 15 durch seine 
+Spezies ein Dreieck und ein weiteres für seine eigene Steigerung 
+auf 18. Der Mensch zahlt drei Dreiecke für seine Steigerung auf 18. 
+Der Synachu dagegen bekommt für die niedrige Stärke seiner Spezies 
+ein Dreieck, zahlt dann aber sechs Dreiecke für die Steigerung 
+seines effektiven Eigenschaftswertes auf 18. Für den gleichen 
+Endwert zahlt also der ork zwei Dreiecke, der Mensch drei und der 
+Synachu 5. 
+
+### Kultur
+
+Zusätzlich zu seiner Spezies erhält der Charakter eine Kultur. 
+
+Die Kultur gibt ihm einmal einen Beruf (Name der Kultur, vielleicht 
+seine gesellschaftliche Stellung). Dieser Beruf 
