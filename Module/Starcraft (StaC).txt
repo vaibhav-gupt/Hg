@@ -8,6 +8,11 @@ Ideen:
     - Sonderregeln für Gruppenkämpfe. 
     - Merkmale für Sonderfertigkeiten (persönliches Tarnfeld, …)
 
+* Ziele (Roadmap): 
+    1. Die Infiltrationsmissionen mit dem 1w6-System spielen können. 
+    2. Nicht-Militärkampagnen spielen können (Frachter, Wissenschaftler, …). 
+    3. In der Welt von StarCraft *leben* können. 
+
 * TP = Schadensresistenz * 3, dafuer nicht unter 0. => Wertebereiche wie Starcraft
     - Terraner hat durchschnittlich 40 '=' 3*13
     - Zergling hat 35 '=' 3*12
