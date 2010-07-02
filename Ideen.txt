@@ -1969,3 +1969,6 @@ Alles, das ein Höhepunkt sein soll, sollte selten genug sein. Durch die Regeln 
 Wenn ein einzelner Zauber ein Ereignis sein soll, dann muss er selten sein. Wenn ein Kampf ein Ereignis sein soll, dann sollten die Regeln in diesem Kampf einige wenige große Ereignisse liefern. 
 
 Wenn ein Kampf inplay schnell und mit wenigen Handlungen ablaufen, aber offplay wichtig sein soll, dann muss die Häufigkeit von Kämpfen begrenzt werden. Ein Weg dahin sind komplexe Regeln. Ein anderer ist es, Kämpfe sehr teuer zu machen (nur zwei bis drei Mal pro Spielabend riskieren – das sagt übrigens gerade aus Spieldesign her, wie schnell die Heilung sein sollte: 2-5 Kämpfe pro Runde).
+
+------ 
+
