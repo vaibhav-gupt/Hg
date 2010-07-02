@@ -1920,6 +1920,23 @@ Dinge, die klar sind (6 Punkte differenz) nicht ausspielen. Barde mit Überzeuge
 
 Option: Jemand mit guten Werten kann die Mitspieler nach guten Ideen fragen. 
 
+
+------ 
+
+### Diskussionen und Überzeugungen in den Regeln
+
+(Idee aus http://pihalbe.org/audio/picast-fragment-3-fußball-dramaturgie-669 )
+
+Wenn Diskussionen wichtig sein sollen, dann brauchen sie Regeltechnisch eine Begrenzung. 
+
+Eine Idee: Diskussionen mit Ziel könnten bei Misserfolg Frustration zur Folge haben, die eine der Eigenschaften des Charakters reduziert. Wenn ein Char mehr Frustration als seine Frustrationsschwelle erhält, ist er akut frustriert (Wunde). Sinkt seine entsprechende Eigenschaft (z.B. Motivation) unter 0, wird er chronisch frustriert. 
+
+Die Spieler werden sich dann sehr gut überlegen, wen sie zu überzeugen versuchen. 
+
+Diskussionen ohne Ziel könnten nur irritation zur Folge haben – und vielleicht temporäre Änderungen der eigenen Überzeugungen. 
+
+„Kritische Wunden“ bei Überzeugungen könnten das Risiko von permanenten Änderungen der eigenen Überzeugungen bergen (wenn nichts dagegen getan wird). 
+
 ------ 
 
 Nicht vergessene Pläne :) 
