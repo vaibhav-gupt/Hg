@@ -6,12 +6,12 @@ graph G {
         
 	// Leute
         //Spieler und/oder Spielleiter
-	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; "Dani";
+	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; "Dani"; "Ole Klein"; "Mariam";
         // Sonstige
 	"Gertrud Wenzel"   
 
 	// Kampagnen
-	node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"; "Die Hoehlen der Woelfe"; 
+	node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"; "Die Hoehlen der Woelfe";
     
 	// kurze Runden
 	node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zat";"Gefangen zwischen den Welten"; "Greise Helden"; "Die Krallenmaske"; "SR mit dem EWS"; "Katzhulu Einzelknaller"; "Kleine Schiffe";
@@ -88,9 +88,9 @@ graph G {
 	// Nach Ort
         edge [color="0.3 0.5 0.7"]
 
-        Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";"Dani";}
+        Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";"Björn Bäuerlein";"Dani"; "Mariam";}
         
-        Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"; "Nele Mueller"; }
+        Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";"Alexander Fuß";"Brujah";"Oliver Jahnel";"Amos";"Andreas Klein"; "Nele Mueller"; "Ole Klein";}
         
         "Mannheim-Friedrichsfeld" -- {"Arne Babenhauserheide";"Julian Willuhn";"Sarina Kraneis";"Nele Mueller"; }
         
@@ -132,6 +132,7 @@ graph G {
     "Luca Kracke" -- "Erstkontakt"
     "Andreas Jehle" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Gefangen zwischen den Welten";"Kleine Schiffe";}
     "Jens Stengel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";"Die Krallenmaske";"Kleine Schiffe";}
+    "Mariam" -- {"Kleine Schiffe";}
 
     // Karlsruhe
     "Dani" -- "Kleine Schiffe"
@@ -158,7 +159,7 @@ graph G {
     "Nele Mueller" -- {"Die Hoehlen der Woelfe"; }
     "Andreas Klein" -- {"Die Hoehlen der Woelfe"; }
     "Amos" -- {"Die Hoehlen der Woelfe"; }
-
+    "Ole Klein" -- {"Die Hoehlen der Woelfe"; }
 
 
 	// Spielleiter
