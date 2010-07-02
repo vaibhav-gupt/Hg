@@ -3,9 +3,9 @@ graph G {
         // Ideen: 
         // Irgendwie wäre es schön, das Diagramm irgendwann automatisch weiterzuführen, so dass Leute einfach online ihre Runde in eine Liste eintragen können und automatisch im Diagramm sind :) 
         
-        
 	// Leute
 	node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; "Achim Zien"; "Barbara Bollenbach"; "Andreas Klein"; "Amos"; "Nele Mueller"; "Tanja"; "Daniel"; "Dani"; "Ole Klein"; "Mariam"; "Gertrud Wenzel";
+	
 	// Kampagnen
 	node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"; "Die Hoehlen der Woelfe";
 	
@@ -15,11 +15,8 @@ graph G {
 	// Mitarbeit
 	node [shape=box]; Schlachtfeld; "1w6.org"; "RaumZeit Universum"; "Freihändler Universum"; "Erynnia Fantasywelt"; "Martial Arts Modul"; "RaumZeit Psi"; "Nexus Welt"; "Grundregeln"; "Cover"; "TextRPG"; "Konfliktmodul"; 
         
-        
 	// Definition der Kategorien
-        
-	
-	node [shape=diamond,style=dashed,color="1.0 0.5 0.7"]; Welten; Mitarbeit;
+       	node [shape=diamond,style=dashed,color="1.0 0.5 0.7"]; Welten; Mitarbeit;
 	
 	// Welten
 	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu®"; 
@@ -31,24 +28,17 @@ graph G {
 	node [shape=octagon,style=dashed,color="0.3 0.5 0.7"]; Orte; Cons
 	node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW; "Bonn"; Brok; "Dresden"; NordCon; "Karlsruher Spieletage"; "Alfter"; "Mannheim-Friedrichsfeld"; 
 	
-	
 	// Beziehungen
-	
 	edge [arrowhead=none];
 	node [shape=box,style=dashed filled,color="0.3 0.5 0.7"]; 
 	
-	
-	// Kategorisierung der Runden
-	
+	// Kategorisierung der Runden	
 	{"Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; Crossover; "Eine stabile Gesellschaft"; "Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu®"} -- Welten
 	
 	// Kategorisierung der Mitarbeit
-	
 	{Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen"; } -- Mitarbeit
 	
-	
-	// Nach Welt
-	
+	// Nach Welt	
 	{"Seminar"; "Ruger u. Fluck"; "Die geflügelten Krieger";"Narell Ebene"; "Greise Helden";"Die Hoehlen der Woelfe"; "Die Krallenmaske" } -- Ern
 	{"Rettet die Weltenkristalle";"Seminar";} -- Crossover
 	"Wächter der Zeit" -- "RaumZeit Maschinenkrieg"
@@ -113,10 +103,8 @@ graph G {
 	edge [color="0.50 0.5 0.7"];    "Jens Stengel" -- {"1w6.org"; "Grundregeln"; }
 	edge [color="0.56 0.5 0.7"];    "Gertrud Wenzel" -- {"Cover"; }
 	
-	
 	// Nach Runde; Farben nach Hauptrunde - TODO: Statt "SpielerIn" den Charakternamen
 	edge [label="",fontsize=8,color="0.3 0.5 0.7"]
-	
 	
 	// Erste Runde    
 	edge [color="0.2 0.5 0.7"];	"Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene"; "Kleine Schiffe";}
@@ -179,8 +167,8 @@ graph G {
 	"Achim Zien" -- "Katzhulu Einzelknaller";
 	
 	
-	edge [label="",color="0.0 0.0 0.0"]
 	// Glossar
+	edge [label="",color="0.0 0.0 0.0"]
 	node [shape=diamond,style=solid,color="0.0 0.0 0.0"]; Glossar; 
 	
 	//Spieler und/oder Spielleiter
@@ -193,5 +181,5 @@ graph G {
 	node [shape=ellipse,style=dashed]; "Kurze Runden"
 	
 	Glossar -- {Leute; Kampagnen; "Kurze Runden"; }
-	
+
 }
