@@ -1955,3 +1955,17 @@ Raumkämpfe in SF: http://tanelorn.net/index.php?topic=56081
 Boden-Geschütze können Hitze einfach ableiten ⇒ viel größere Energiequellen möglich. Materiegeschosse (Gauss) werden nur von einem (möglicherweise sehr gut geschirmten) magnetimpuls angekündigt. 
 
 ------ 
+
+### Häufigkeit besonderer Ereignisse
+
+(inspiration: http://pihalbe.org/audio/picast-fragment-3-fußball-dramaturgie-669 )
+
+Alles, das ein Höhepunkt sein soll, sollte selten genug sein. Durch die Regeln geht das auf mindestens drei Arten: 
+
+* Geringe Erfolgswahrscheinlichkeit (Zauber),
+* feste Begrenzung (nur einmal pro Spielabend, Kosten, …) oder
+* lange Dauer (häufig Kämpfe). 
+
+Wenn ein einzelner Zauber ein Ereignis sein soll, dann muss er selten sein. Wenn ein Kampf ein Ereignis sein soll, dann sollten die Regeln in diesem Kampf einige wenige große Ereignisse liefern. 
+
+Wenn ein Kampf inplay schnell und mit wenigen Handlungen ablaufen, aber offplay wichtig sein soll, dann muss die Häufigkeit von Kämpfen begrenzt werden. Ein Weg dahin sind komplexe Regeln. Ein anderer ist es, Kämpfe sehr teuer zu machen (nur zwei bis drei Mal pro Spielabend riskieren – das sagt übrigens gerade aus Spieldesign her, wie schnell die Heilung sein sollte: 2-5 Kämpfe pro Runde).
