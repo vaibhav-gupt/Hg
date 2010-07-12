@@ -1974,9 +1974,11 @@ Wenn ein Kampf inplay schnell und mit wenigen Handlungen ablaufen, aber offplay 
 
 ### Kooperative Proben
 
-* Schwache Variante: Pro + 1 Punkt Bonus. Die zentrale Probe ist die wichtigste. 
+* Schwache Variante: Pro 3 Punkte Differenz 1 Punkt Bonus. Die zentrale Probe ist die wichtigste. Pro + 1 Punkt.
+
 * Starke Variante: Jeder würfelt gegen einen Mindestwurf und kann seine gesamte Differenz weitergeben. Pro + 3 Punkte Bonus. 
-* Extreme Variante: Einfacher Erfolg: Effekt +1, 3 Punkte drüber/Wundschwelle: Effekt +2, 9 Punkte drüber/kritische Wunde: +3. Alle Ergebnisse addieren, um den Effekt zu erhalten. 
+
+* Extreme Variante: Einfacher Erfolg: Effekt +1, 3 Punkte drüber/Wundschwelle: Effekt +2, 9 Punkte drüber/kritische Wunde: +3. Alle Ergebnisse addieren, um den Effekt zu erhalten.
 
 ------ 
 
