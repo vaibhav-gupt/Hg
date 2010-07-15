@@ -1984,5 +1984,7 @@ Beispiel aus dem Kampf für 3: Wenn drei zusammenarbeiten: Wenn einer trifft, is
 
 Haben die ersten beiden zusammen schon eine kritische Wunde erreicht und der dritte schafft noch einen Erfolg, geht der Schaden noch eine Stufe hoch, und der Gegner ist sofort besiegt. 
 
+Hier bekommt der Gegner keinen Malus durch mehrere Gegner. 
+
 ------ 
 
