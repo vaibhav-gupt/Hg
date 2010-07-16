@@ -116,15 +116,15 @@ sed kun nur streko antau ĝi.
 
 ------ 
 
-Nicht zum Beruf passt bei mir 
-Flötenspiel, ihr Hobby.
+Ne konforma al la profesio 
+por mi estal fluti, ŝia hobio. 
 
-Damit sieht mein Zettel so aus: 
+Mia slibo nune aspektas tio: 
 
-    Diebin
-    → Taschendiebstahl
+    Ŝtelistino
+    → malplenigi poŝoj
     
-    - Flötenspiel
+    - fluti
 
 ------ 
 
