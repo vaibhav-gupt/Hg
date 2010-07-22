@@ -1,0 +1,21 @@
+ 
+vobsy: (Objek) GeP-Kosten der Machtniveaus (nur Richtwerte): 
+
+In der Gosse: -15GeP
+Normale Leute: 66 GeP
+Angehende Helden: 102 GeP
+Erfahrene Helden: 158 GeP
+Beweger: 240 GeP
+Mächtige unter den Mächtigen: 300 GeP
+Halbgötter: 480 GeP
+
+Berechnung: 
+1) Eigenschaften: Einfach auf das objektive System übertragen. Einfach Anzahl der Plusse mal 18 GeP (passt als gute Näherung. überragend im objektiven kostet 45, ich rechne mit 3x18 also mit 54. 21 kostet im objek 81, ich rechne mit 108)
+
+2) Fertigkeiten: Ich habe die maixmalen Boni durch die Eigenschaften im vobsy berechnet, das dann zu 12 addiert, um die effektiven Werte der Fertigkeiten zu finden. Bsp: 2 Eig auf 15 geben im vobsy + 2 auf Fert, also 12+2 = 14. Mit zwei Eig auf 15 kostet das im objek. jeweils 10 GeP (Durchschnitt -1). Das einfach mal Anzahl der Fert. Ungenauigkeit: Fertigkeiten im objek verdoppeln ihre Kosten je drei Punkte, im vobsy werden sie bei höheren Stufen billiger. 
+
+Merkmale: Jedes + als einen 18-er Vorteil gewertet. 
+
+Die Berechnung spiegelt die kosten wieder, die ein entsprechender Charakter in objek hätte. 
+
+Konvertierung sollte allerdings am besten gemacht werden, indem einfach die Kosten neu gerechnet werden und die Werte gleich bleiben, denn die Werte sind die Realität des Charakters. 
