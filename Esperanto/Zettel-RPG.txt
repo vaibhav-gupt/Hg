@@ -406,17 +406,16 @@ Se ĝi estis peza, vi bezonas 15.
 
 ------ 
 
-Wenn dich jemand anders 
-behindern will, dann würfelt 
-auch er. 
+Se iun ajn volas malhelpi vi, 
+ri ankau ĵetas la kubon. 
 
-War dein Ergebnis höher als 
-seins, dann gewinnst du. 
+Se via rezultato estis pli alta 
+ol ria, vi gajnas. 
 
-War es niedriger, gewinnt er. 
+Se ĝi estis pli basa, ri gajnas. 
 
-War es gleich hoch, dann ge-
-winnt der, der angefangen hat. 
+Se ĝi estas samgranda, tiu gajnas 
+kiu ekis. 
 
 ------ 
 
