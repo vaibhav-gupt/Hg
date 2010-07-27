@@ -172,11 +172,11 @@ Do mia foliumo nun aspektas tiel:
 ------ 
 
 Nature karakterino ne nure devas
-havi potentecojn. Embarasoj
+havi potentecojn. Problmoj
 ŝin igas vere interesa. 
 
 Mia ŝtelistino ekzemple 
-havas la problemo, ke la 
+havas la problemon, ke la 
 urbgardistoj ŝin konas 
 kaj ĉasas. 
 
@@ -186,17 +186,16 @@ antaue.
 
 ------ 
 
-Probleme erhalten ein Minus, 
-weil du für jedes Problem ein 
-starkes Merkmal mehr 
-nehmen kannst. Mein Zettel 
-sieht damit so aus: 
+Problemoj havas minuson, ĉar 
+vi povas preni un ekstran 
+bonan distingilon. Mia 
+foliumo nun aspektas tiel: 
 
-    Diebin ++
-    → Taschendiebstahl +
+    Ŝtelistino ++
+    → malplenigi poŝojn +
     
-    - Flötenspiel +
-    ! Von der Wache gejagt -
+    - fluti +
+    ! ĉasata de la urbgardistoj -
 
 ------ 
 
