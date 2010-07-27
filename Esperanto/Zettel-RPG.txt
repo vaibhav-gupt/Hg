@@ -297,7 +297,7 @@ demandoj:
 - "Kial vi estas tie?"
 
 - "Kial vi ne havas 
-    Alternativo?"
+    alternativon?"
     
 - "Kio vi igas esenca
     por la grupon?"
@@ -320,23 +320,18 @@ en mia grupo.
 
 ------ 
 
-Erstmal mein Zettel: 
+Dume mia foliumo: 
 
-    * Warum hier? 
-      Nie wieder Gosse!
+    * Kial tie? 
+      Neniam reen al urbaĉon!
     
-    * Warum bleiben? 
-      keine Lehre, 
-      nicht unterordnen
+    * Kial teni? 
+      lernata nenion, 
+      neniam submetiĝi.
     
-    * Warum wichtig?
-      Komme hin, 
-      wo niemand sonst
-      hinkommt. 
-
-(ich weiß, meine Sauklaue ist
-schrecklich, wenn ich für 
-mich selbst schreibe)
+    * Kial esenca?
+      povas alveni kie 
+      neniu alia alvenas. 
 
 ------ 
 
