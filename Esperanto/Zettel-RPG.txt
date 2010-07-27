@@ -226,7 +226,7 @@ Kaj nune, mia foliumo aspektas tiel:
     
     Ŝtelistino ++
     → Malplenigi poŝoj +
-    → Kaŝiri  +
+    → Kaŝiri  +
     → Persvadi +
     
     - Legi/Skribi +
@@ -237,11 +237,11 @@ Kaj nune, mia foliumo aspektas tiel:
 ------ 
 
 Nun nure malestas la 
-lasta paŝo: Nombroj por 
+lasta paŝo: valorojn por 
 la distingilojn. 
 
 Por tion la profesio havas 
-la nombron 6 plus 3 je pluso.
+la valoron 6 plus 3 je pluso.
 
 Distingiloj kiu konvenas 
 al la profesio estas 3 pli 
@@ -250,7 +250,7 @@ granda ke la profesio.
 Kaj aliaj bonaj distingiloj 
 estas 9 plus 3 je pluso. 
 
-Problemoj ne bezonas nombrojn. 
+Problemoj ne bezonas valorojn. 
 
 ------ 
 
@@ -264,7 +264,7 @@ Mia foliumo aspektas tiel:
     
     Ŝtelistino ++ 12
     → Malplenigi poŝoj + 15
-    → Kaŝiri + 15
+    → Kaŝiri + 15
     → Persvadi + 15
     
     - Legi/Skribi + 12
@@ -369,39 +369,40 @@ Testi se iun sukcesas.
 
 Por tion ni besonas la kubon. 
 
-Wann immer nicht klar ist, ob dir
-eine Aufgabe gelingt, schau auf 
-deinen Zettel ob du etwas hast, 
-das dazu passt. Das kann dein 
-Beruf sein oder einer der anderen 
-Werte. Hast du nichts passendes, 
-dann nimm den Wert 3. 
+čiam kiam vi ne scias, se vi 
+sukcese faros iun, serĉu en via 
+slipo, se vi havis iun kiu 
+konvenas kun la faro. Eblas 
+esti via profesio au unu da 
+la aliaj distingiloj. Se vi 
+ne havas iun konvenaton, 
+uzi valoro 3. 
 
-Nun wirf den Würfel. Ist die 
-Augenzahl gerade, dann addiere 
-sie auf den Wert. Ist sie 
-ungerade, dann zieh sie ab. 
+Nune ĵetu la kubon. Se la nombro 
+estas para, aldonu ĝin al la 
+valoro de la distingilo. 
+Se ĝi estas nepara, subtrahu 
+ĝin. 
 
-Das Ergebnis gibt an, wie gut 
-du warst. 
+La rezultato montras kiel bone 
+vi estis. 
 
 ------ 
 
-Hast du dabei Unterstützung oder 
-Werkzeug, erhältst du pro Unter-
-stützer und Werkzeug 1 Punkt 
-Bonus. Hast du einen zweiten 
-passenden Wert, dann gibt er dir 
-pro Plus einen Punkt Bonus.
+Se vi havas subtenulo au ilo, 
+vi ricevas avantaĝo de uno 
+punkto je subtenulo kaj ilo. 
+Se vi havas duan konvenatan
+distingilon, ĝi vin aldonas 
+uno punkto avantaĝo je pluso. 
 
-War die Aufgabe einfach, dann 
-brauchst du mindestens ein 
-Ergebnis von 9, um sie zu 
-schaffen. 
+Se la faro estis simpla, vi 
+bezonas minimume rezultaton 
+kun valoro 9 por sukcesi. 
 
-War sie fordernd, dann brauchst 
-du eins von 12. War sie schwer, 
-dann brauchst du eins von 15. 
+Se ĝi estis postulema, vi 
+bezonas minimume valoron 12. 
+Se ĝi estis peza, vi bezonas 15.
 
 ------ 
 
