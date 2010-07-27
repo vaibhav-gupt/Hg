@@ -162,7 +162,7 @@ distingilojn.
 Bonan distingilon ni marki kun
 +, bonegan kun ++. 
 
-Do mia foliumo nun aspektas tiel: 
+Do mia slipo nun aspektas tiel: 
 
     Ŝtelistino ++
     → Malplenigi poŝoj +
@@ -180,7 +180,7 @@ havas la problemon, ke la
 urbgardistoj ŝin konas 
 kaj ĉasas. 
 
-En la foliumo ni markas la 
+En la slipo ni markas la 
 problemojn kun krisignoj
 antaue. 
 
@@ -189,7 +189,7 @@ antaue.
 Problemoj havas minuson, ĉar 
 vi povas preni un ekstran 
 bonan distingilon. Mia 
-foliumo nun aspektas tiel: 
+slipo nun aspektas tiel: 
 
     Ŝtelistino ++
     → Malplenigi poŝojn +
@@ -219,7 +219,7 @@ estas pli bona ke otraj
 bonan distingilon, mi plue 
 prenas kaŝiri. 
 
-Kaj nune, mia foliumo aspektas tiel: 
+Kaj nune, mia slipo aspektas tiel: 
 
     Niuve
     -----
@@ -257,7 +257,7 @@ Problemoj ne bezonas valorojn.
 Kaj tiel la karaktero estas 
 ludebla. 
 
-Mia foliumo aspektas tiel: 
+Mia slipo aspektas tiel: 
 
     Niuve
     -----
@@ -284,7 +284,7 @@ kial viaj karakteroj
 kunestas. 
 
 Por ambau ni prenas la 
-dorsflanko de la foliumo. 
+dorsflanko de la slipo. 
 
 ------ 
 
@@ -320,7 +320,7 @@ en mia grupo.
 
 ------ 
 
-Dume mia foliumo: 
+Dume mia slipo: 
 
     * Kial tie? 
       Neniam reen al urbaĉon!
@@ -412,40 +412,39 @@ ri ankau ĵetas la kubon.
 Se via rezultato estis pli alta 
 ol ria, vi gajnas. 
 
-Se ĝi estis pli basa, ri gajnas. 
+Se ĝi estis pli malalta, ri gajnas. 
 
 Se ĝi estas samgranda, tiu gajnas 
 kiu ekis. 
 
 ------ 
 
-Hat er versucht, dich mit Waffe 
-zu behindern, dann schaut ihr 
-euch jetzt die Waffen an. 
+Se ri provi melhelpi vin kun 
+armo, vi nun legi la armaĵon. 
 
-Ein Dolch hat einen Wert von 1,
-ein Schwert von 4. 
+Ponardo havas valoron 1, 
+glavo havas 4. 
 
-War das Ergebnis des Gewinners 
-plus seine Waffe 4 oder mehr 
-Punkte höher, dann erhält 
-der Verlierer eine Wunde. 
+Se la rezulto de la gajnanto 
+plus sia armo estis 4 au pli 
+punktoj pli granda ke la 
+rezulto de la malgajnanto, 
+la malgajnanto ricevas un
+vundo. 
 
-Solltest du das sein, mach dir 
-einen Strich neben deinen Namen.
+Se vi estas tiu, skribu strekon
+apud vian nomon. 
 
 ------ 
 
-Solange du Wunden hast, sind 
-alle deine Werte pro Wunde
-3 Punkte niedriger.
+Por ĉiun de viajn vundojn viaj 
+valoron estas 3 punktojn malalta. 
 
-Sie verschwindet, wenn die
-Wunde heilt. Eine Faustregel 
-sind 4 Wochen oder ein 
-Heiltrank. 
+La vundo malaperas, se ĝi 
+kuraciĝas. Normala estas 
+4 semajnoj pro vundo au 
+unu eliksiro. 
 
-Und jetzt wünsch' ich euch viel 
-Spaß beim Spielen! 
+Multo ĝojo dum ludi! 
 
-Du bist die Heldin deines Lebens!
+Vi estas la heroino de via vivo!
