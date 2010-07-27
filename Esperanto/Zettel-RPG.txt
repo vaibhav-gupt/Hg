@@ -159,16 +159,15 @@ distingilojn.
 
 ------ 
 
-Ein starkes Merkmal bezeichnen
-wir mit einem +, ein besonders
-starkes mit ++. 
+Bonan distingilon ni marki kun
++, bonegan kun ++. 
 
-Mein Zettel sieht nun so aus: 
+Do mia foliumo nun aspektas tiel: 
 
-    Diebin ++
-    → Taschendiebstahl +
+    Ŝtelistino ++
+    → malplenigi poŝoj +
     
-    - Flötenspiel +
+    - fluti +
 
 ------ 
 
