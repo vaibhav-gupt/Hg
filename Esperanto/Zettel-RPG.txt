@@ -361,17 +361,17 @@ Esperas ke li ne nin elrevigos.
 Sed nature ekzistas uloj, kiu 
 volas nin forteni de li. 
 
-Kaj kun tio ni alvenas la
+Kaj kun tio ni venas al la
 lastan parton de min tekston: 
-Testi se iun sukcesas. 
+Testi se iu sukcesas. 
 
 ------ 
 
 Por tion ni besonas la kubon. 
 
-čiam kiam vi ne scias, se vi 
+Ĉiam kiam vi ne scias, se vi 
 sukcese faros iun, serĉu en via 
-slipo, se vi havis iun kiu 
+slipo, se vi havas iun kiu 
 konvenas kun la faro. Eblas 
 esti via profesio au unu da 
 la aliaj distingiloj. Se vi 
@@ -385,7 +385,7 @@ Se ĝi estas nepara, subtrahu
 ĝin. 
 
 La rezultato montras kiel bone 
-vi estis. 
+vi faris. 
 
 ------ 
 
@@ -396,31 +396,32 @@ Se vi havas duan konvenatan
 distingilon, ĝi vin aldonas 
 uno punkto avantaĝo je pluso. 
 
-Se la faro estis simpla, vi 
+Se la faro estas simpla, vi 
 bezonas minimume rezultaton 
 kun valoro 9 por sukcesi. 
 
-Se ĝi estis postulema, vi 
+Se ĝi estas postulema, vi 
 bezonas minimume valoron 12. 
-Se ĝi estis peza, vi bezonas 15.
+Se ĝi estas peza, vi bezonas 15.
 
 ------ 
 
 Se iun ajn volas malhelpi vi, 
 ri ankau ĵetas la kubon. 
 
-Se via rezultato estis pli alta 
-ol ria, vi gajnas. 
+Se ria rezultato kun valoro 
+estas pli alta ol la via, 
+ri gajnas. 
 
-Se ĝi estis pli malalta, ri gajnas. 
+Se ĝi estis pli malalta, vi gajnas. 
 
 Se ĝi estas samgranda, tiu gajnas 
 kiu ekis. 
 
 ------ 
 
-Se ri provi melhelpi vin kun 
-armo, vi nun legi la armaĵon. 
+Se ri provi malhelpi vin kun 
+armo, vi nun legas la armaĵon. 
 
 Ponardo havas valoron 1, 
 glavo havas 4. 
@@ -430,21 +431,21 @@ plus sia armo estis 4 au pli
 punktoj pli granda ke la 
 rezulto de la malgajnanto, 
 la malgajnanto ricevas un
-vundo. 
+vundon. 
 
-Se vi estas tiu, skribu strekon
+Se tiu estas vi, skribu strekon
 apud vian nomon. 
 
 ------ 
 
-Por ĉiun de viajn vundojn viaj 
-valoron estas 3 punktojn malalta. 
+Por ĉiun de viajn vundojn viaj
+valoroj estas 3 punktoj malaltaj. 
 
 La vundo malaperas, se ĝi 
 kuraciĝas. Normala estas 
-4 semajnoj pro vundo au 
+4 semajnoj je vundo au 
 unu eliksiro. 
 
-Multo ĝojo dum ludi! 
+Multa ĝojo dum ludi! 
 
 Vi estas la heroino de via vivo!
