@@ -122,9 +122,9 @@ por mi estas fluti, ŝia hobio.
 Mia slipo nune aspektas tio: 
 
     Ŝtelistino
-    → malplenigi poŝoj
+    → Malplenigi poŝoj
     
-    - fluti
+    - Fluti
 
 ------ 
 
@@ -165,9 +165,9 @@ Bonan distingilon ni marki kun
 Do mia foliumo nun aspektas tiel: 
 
     Ŝtelistino ++
-    → malplenigi poŝoj +
+    → Malplenigi poŝoj +
     
-    - fluti +
+    - Fluti +
 
 ------ 
 
@@ -192,10 +192,10 @@ bonan distingilon. Mia
 foliumo nun aspektas tiel: 
 
     Ŝtelistino ++
-    → malplenigi poŝojn +
+    → Malplenigi poŝojn +
     
-    - fluti +
-    ! ĉasata de la urbgardistoj -
+    - Fluti +
+    ! Ĉasata de la urbgardistoj -
 
 ------ 
 
@@ -215,42 +215,42 @@ estas pli bona ke otraj
 
 ------ 
 
-Da ich nun noch einen starken
-Wert vergeben kann, nehme ich
-außerdem Schleichen. 
+Ĉar mi nun povas preni ceteran
+bonan distingilon, mi plue 
+prenas kaŝiri. 
 
-Damit sieht mein Zettel so aus: 
+Kaj nune, mia foliumo aspektas tiel: 
 
     Niuve
     -----
     
-    Diebin ++
-    → Taschendiebstahl +
-    →  Schleichen +
-    → Bequatschen +
+    Ŝtelistino ++
+    → Malplenigi poŝoj +
+    → Kaŝiri  +
+    → Persvadi +
     
-    - Lesen/Schreiben +
-    - Flötenspiel +
+    - Legi/Skribi +
+    - Fluti +
     
-    ! Von der Wache gejagt -
+    ! Ĉasata de la urbgardistoj -
 
 ------ 
 
-Nun fehlt nur noch der letzte 
-Schritt: Zahlen für die
-Werte. 
+Nun nure malestas la 
+lasta paŝo: Nombroj por 
+la distingilojn. 
 
-Der Beruf ist dabei auf 6
-plus 3 je Plus. 
+Por tion la profesio havas 
+la nombron 6 plus 3 je pluso.
 
-Auf dem Beruf aufbauende 
-Werte sind je Plus 3 Punkte
-über dem Beruf. 
+Distingiloj kiu konvenas 
+al la profesio estas 3 pli 
+granda ke la profesio. 
 
-Und alleinstehende Werte 
-sind bei 9 plus 3 je Plus. 
+Kaj aliaj bonaj distingiloj 
+estas 9 plus 3 je pluso. 
 
-Probleme haben keine Zahlen.
+Problemoj ne bezonas nombrojn. 
 
 ------ 
 
