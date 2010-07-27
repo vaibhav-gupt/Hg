@@ -26,7 +26,7 @@ amikoj.
 Vi nur bezonas unu slipon, unu 
 kubon kaj unu skribilon por ĉiu persono. 
 
-La slipo estas por viaj karakteroj. 
+La slipo estas por viajn karakterojn. 
 Pere tiuj vi agas en vian mondon. 
 
 Por komenci vi bezonas nociojn de
@@ -39,13 +39,13 @@ kun viaj profesioj.
 
 Kio lernis viaj karakteroj, 
 au kiel otroj nomigas ilin?
-Ni scias, ke insprio ne facilas. 
-Dum mi devas skribi ekscemploj. 
+Ni scias, ke inspiro ne facilas. 
+Dum mi devas skribi ekscemplojn. 
 
-Imagu ŝtelisto, kantistino au 
-policistino. Au, se sciencfikcio 
-ŝatas al vi, imagu la teknikisto
-la pilotino au la kuiristino. 
+Imagu ŝteliston, kantistinon au 
+policistinon. Au, se sciencfikcio 
+ŝatas al vi, imagu la teknikiston
+la pilotinon au la kuiristinon. 
 
 ------ 
 
@@ -58,12 +58,12 @@ Simple pripensi, kiu afektcias vin.
 Se poste iun ajn pli ŝatas al vi, 
 povas ŝanĝi senprobleme. 
 
-Skribu la profesio en via slipo, 
+Skribu la profesio en vian slipon, 
 kun unu au du blankaj linioj super ĝi. 
 
 ------ 
 
-Mia slipo nun aspekti tiel: 
+Mia slipo nun aspektas tiel: 
 
     Ŝtelistino
 
@@ -77,7 +77,7 @@ Laŭnature samas por vin.
 
 Tial pripensi sekvante, 
 en kio via karaktero 
-estas plibona ol otroj 
+estas plibona ol aliaj 
 en sian profesion. 
 
 ------ 
@@ -87,7 +87,7 @@ ekcemploj por ĉion profesion,
 mi simple priskribos ekcemplojn 
 por mian ŝtelistinon. 
 
-Tial vi ankau skribas vian
+Tial vi ankau kreis vian
 propran mondon, mi certas ke
 vi trovos vian meman ideon 
 por viajn profesiojn. 
@@ -95,12 +95,12 @@ por viajn profesiojn.
 Mia Ŝtelistino kun plezuro
 malplenigas la poŝoj de
 aliaj. Tial ŝi estas 
-bonega je malplenigi poŝoj. 
+pli bona je malplenigi poŝoj. 
 
 ------ 
 
 Otraj eblecoj estus malfermi 
-seruroj, grimpi pasadojn, 
+serurojn, grimpi pasadojn, 
 kaŝiri, rabi kaj alpalavri. 
 
 Tio devas esti en via slipo, 
@@ -122,7 +122,7 @@ por mi estas fluti, ŝia hobio.
 Mia slipo nune aspektas tio: 
 
     Ŝtelistino
-    → Malplenigi poŝoj
+    → Malplenigi poŝojn
     
     - Fluti
 
@@ -131,7 +131,7 @@ Mia slipo nune aspektas tio:
 Nun mia karaktero estas 
 preskau preta. Ŝi estas 
 Ŝtelistino kaj ŝatas 
-ludi fluto. 
+ludi fluton. 
 
 Kaj nun ni bezonas 
 regularojn. Karakteroj 
@@ -149,7 +149,7 @@ estas valorata kiel tri bonaj
 distingiloj. 
 
 Por ekzemplo gravas al mi, ke 
-mia karakteroino ne nur estas bonan, 
+mia karakterino ne nur estas bonan, 
 sed bonegan ŝtelistinon. 
 
 Kune kun malplenigi poŝoj
@@ -159,20 +159,20 @@ distingilojn.
 
 ------ 
 
-Bonan distingilon ni marki kun
+Bonan distingilon ni markas kun
 +, bonegan kun ++. 
 
 Do mia slipo nun aspektas tiel: 
 
     Ŝtelistino ++
-    → Malplenigi poŝoj +
+    → Malplenigi poŝojn +
     
     - Fluti +
 
 ------ 
 
-Nature karakterino ne nure devas
-havi potentecojn. Problmoj
+Nature karakterino ne nur devas
+havi potentecojn. Problemoj
 ŝin igas vere interesa. 
 
 Mia ŝtelistino ekzemple 
@@ -188,8 +188,8 @@ antaue.
 
 Problemoj havas minuson, ĉar 
 vi povas preni un ekstran 
-bonan distingilon. Mia 
-slipo nun aspektas tiel: 
+bonan distingilon je problemon. 
+Mia slipo nun aspektas tiel: 
 
     Ŝtelistino ++
     → Malplenigi poŝojn +
@@ -205,7 +205,7 @@ nomon: "Niuve".
 Cetere mi havis ideon por 
 du ceterajn potencojn: 
 Legi/Skribi kaj
-persvadi. 
+Persvadi. 
 
 La unua ŝi havas de sia 
 patrino. La dua estas parto 
@@ -225,7 +225,7 @@ Kaj nune, mia slipo aspektas tiel:
     -----
     
     Ŝtelistino ++
-    → Malplenigi poŝoj +
+    → Malplenigi poŝojn +
     → Kaŝiri  +
     → Persvadi +
     
@@ -254,7 +254,7 @@ Problemoj ne bezonas valorojn.
 
 ------ 
 
-Kaj tiel la karaktero estas 
+Kaj tiel via karaktero estas 
 ludebla. 
 
 Mia slipo aspektas tiel: 
@@ -263,7 +263,7 @@ Mia slipo aspektas tiel:
     -----
     
     Ŝtelistino ++ 12
-    → Malplenigi poŝoj + 15
+    → Malplenigi poŝojn + 15
     → Kaŝiri + 15
     → Persvadi + 15
     
@@ -279,7 +279,7 @@ estas ludebla, vi ne jam konas
 kiel ŝi volas fari. 
 
 Ĉar vi volas ludi kun viaj 
-amikoj, estas gravi koni
+amikoj, estas grava koni
 kial viaj karakteroj 
 kunestas. 
 
@@ -289,7 +289,7 @@ dorsflanko de la slipo.
 ------ 
 
 Kun tio mi ne povas helpi 
-tiel multo ke kun la 
+tiel multe ke kun la 
 distingiloj. La sola mi 
 povas doni al vi estas tri 
 demandoj: 
@@ -298,23 +298,23 @@ demandoj:
 
 - "Kial vi ne havas 
     alternativon?"
-    
-- "Kio vi igas esenca
+
+- "Kiel vi igas esenca
     por la grupon?"
 
 ------ 
 
 Se vi kune respondas al la 
-demandojn, priatentu ke viaj
-tialoj kiel viaj tialoj por 
-esti tie konvenas. 
+demandojn, priatentu ke 
+viaj tialoj por esti tie 
+konvenas. 
 
 Ne devas esti la samaj tialoj, 
 sed ĝi devas gvidi en kunan 
 vojon. 
 
-Por klarigi tion, mi ne dove
-havas ekcemplojn. Unu de mi 
+Por klarigi tion, mi nur havas 
+du ekcemplojn. Unu de mi 
 kaj unu de la otraj karakteroj
 en mia grupo. 
 
@@ -326,20 +326,20 @@ Dume mia slipo:
       Neniam reen al urbaĉo!
     
     * Kial teni? 
-      lernata nenion, 
+      Lernata nenion, 
       neniam submetiĝi.
     
     * Kial esenca?
-      povas alveni kie 
+      Povas alveni kie 
       neniu alia alvenas. 
 
 ------ 
 
-La aliaj in niaj grupo 
+La aliaj en mia grupo 
 estas batalanto, kiu 
 volas sin liberigi de 
 malhonoro, mago kiu 
-serĉas misterioj kaj 
+serĉas misteriojn kaj 
 etulo kiu volas impresi
 al sian edzinon. 
 
@@ -347,12 +347,12 @@ Mi kunvenas, ĉar mi
 ŝtelis pergamenon de 
 la batalanto kaj 
 dum mi legis ĝin
-mi ekkonis mia ŝancon
+mi ekkonis mian ŝancon
 por eskapi de la urbaĉo. 
 
 ------ 
 
-Ni serĉas caŝitan riĉaĵo de 
+Ni serĉas caŝitan riĉaĵon de 
 olda reĝo, unu da la apogiloj 
 de sin potenco. 
 
