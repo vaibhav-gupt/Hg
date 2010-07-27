@@ -254,23 +254,23 @@ Problemoj ne bezonas nombrojn.
 
 ------ 
 
-Und damit ist der Charakter
-bereits spielbar. 
+Kaj tiel la karaktero estas 
+ludebla. 
 
-Mein Zettel sieht nun so aus:
+Mia foliumo aspektas tiel: 
 
     Niuve
     -----
     
-    Diebin ++ 12
-    → Taschendiebstahl + 15
-    →  Schleichen + 15
-    → Bequatschen + 15
+    Ŝtelistino ++ 12
+    → Malplenigi poŝoj + 15
+    → Kaŝiri + 15
+    → Persvadi + 15
     
-    - Lesen/Schreiben + 12
-    - Flötenspiel + 12
+    - Legi/Skribi + 12
+    - Fluti + 12
     
-    ! Von der Wache gejagt -
+    ! Ĉasata de la urbgardistoj -
 
 ------ 
 
