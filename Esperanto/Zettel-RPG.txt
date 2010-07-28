@@ -1,16 +1,16 @@
 Slipoj-Rolludo
 ==============
 
-*Mi tradukis mian faciligan rolludon al Esperanton. Devas esti presita en 14 ambauflankajn slipojn.*
+*Mi tradukis mian faciligan rolludon al Esperanto. Devas esti presita en 14 ambauflankajn slipojn.*
 
 Kara filin’, 
 
-Ankorau vi estas tro maljuna por
-kompreni mia skribajumo, sed mi
-devas veni ankau la suno ascendas
-kaj mi volas postlasi por vin tio, 
-kio vost vi kaj via patrino plej 
-plirichigis mian vidon.
+Ankorau vi estas tro juna por
+kompreni mian skribaĵon, sed mi
+devas elveni antaŭ la sunleviĝo
+kaj mi volas postlasi al vi tio, 
+kio post vi kaj via patrino plej 
+pliriĉigis mian vidon.
 
 Mi esperas ke ĝi helpos al vi kiel 
 ĝi helpis al mi. 
@@ -38,14 +38,14 @@ Por faciligi tion, ni ekas
 kun viaj profesioj. 
 
 Kio lernis viaj karakteroj, 
-au kiel otroj nomigas ilin?
+aŭ kiel otroj nomigas ilin?
 Ni scias, ke inspiro ne facilas. 
 Dum mi devas skribi ekscemplojn. 
 
-Imagu ŝteliston, kantistinon au 
-policistinon. Au, se sciencfikcio 
+Imagu ŝteliston, kantistinon aŭ 
+policistinon. Aŭ, se sciencfikcio 
 ŝatas al vi, imagu la teknikiston
-la pilotinon au la kuiristinon. 
+la pilotinon aŭ la kuiristinon. 
 
 ------ 
 
@@ -243,7 +243,7 @@ la distingilojn.
 Por tion la profesio havas 
 la valoron 6 plus 3 je pluso.
 
-Distingiloj kiu konvenas 
+Distingiloj kiu taugas 
 al la profesio estas 3 pli 
 granda ke la profesio. 
 
