@@ -73,12 +73,14 @@
             <para/>
             <ITEXT CH="Die SC treffen sich an Bord des Raumschiffs T'Namada, das unter dem Kommando von Kapitän K'Caj steht, einem Flauschianer (pelzige Fellkugel ohne Arme, mit einem Durchmesser von 50 Zentimeter, telekinetischen Fähigkeiten und nur halb so schnell wie ein Mensch). "/>
             <para/>
-            <breakframe/>
+            <para/>
+            <para/>
+            <para/>
             <ITEXT CH="Vorbesprechung"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Die T'Namada fliegt ohne offiziellen Navigator der Gilde und im Sensorschatten, um einer Entdeckung durch den Zoll und der damit verbundenen Steuer zu entgehen."/>
+            <ITEXT CH="Die T'Namada fliegt ohne offiziellen Navigator der Gilde und im Sensorschatten, um einer Entdeckung durch den Zoll und der damit verbundenen Steuer zu ent­ge­hen."/>
             <para/>
-            <ITEXT CH="T'Namada hält die Vorbesprechung in der Kantine des Schiffes. Die Artefakte befinden sich, laut Retsam Adoy, in den Ruinen eines alten und längst verlassenen Tempels. Die Zivilisation, die den Tempel erbaute, ist lange untergegangen und vom Antlitz der Welt verschwunden. Sagte zumindest ein Mitglied der Sternenfahrergilde, deren Navigatoren den bekannten Weltraum bereisen und stets in neue Gebiete vordringen, um diese zu er­kun­den."/>
+            <ITEXT CH="K'Car hält die Vorbesprechung in der Kantine des Schiffes. Die Artefakte befinden sich, laut Retsam Adoy, in den Ruinen eines alten und längst verlassenen Tempels. Die Zivilisation, die den Tempel erbaute, ist lange untergegangen und vom Antlitz der Welt verschwunden. Sagte zumindest ein Mitglied der Sternenfahrergilde, deren Navigatoren den bekannten Weltraum bereisen und stets in neue Gebiete vordringen, um diese zu er­kun­den."/>
             <para/>
             <ITEXT CH="O’Bahn"/>
             <para PARENT="Untertitel"/>
