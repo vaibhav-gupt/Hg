@@ -1988,3 +1988,17 @@ Hier bekommt der Gegner keinen Malus durch mehrere Gegner.
 
 ------ 
 
+### Alterung und Bitrot :)
+
+Damit alte Charaktere nicht irgendwann alle Grenzen des Hintergrundes durchbrechen können, können Charaktere einfach pro Jahr 1/10 ihrer Erfahrung verlieren, die sie dann entweder in Nachteilen oder in wieder sinkenden Fähigkeiten zahlen müssen. 
+
+Im Spiel bekommene Nachteile können bereits als Bitrot gezählt werden – oder auch nicht :) 
+
+Feiner: Pro Monat Abenteuer 1/20 ihrer Punkte. Ein Anfangscharakter (7*3=21) verliert damit in jedem Abenteuer einen Strich, bekommt aber viel mehr. 
+
+Ein Halbgott (40*3=120) verliert 6 Striche pro Abenteuer, muss also ständig Punkte bekommen, um nicht schwächer zu werden. 
+
+Bei Standardabenteuern entsteht so automatisch eine Obergrenze, wie stark Charaktere werden können. Wer stärker werden will, muss Punkte in anderen Bereichen opfern. 
+
+------ 
+
