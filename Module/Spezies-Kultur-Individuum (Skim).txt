@@ -28,7 +28,7 @@ Fähigkeiten der Spezies erhält sie Merkmale.
 Zum Beispiel kann eine Spezies wie Orks stärker und geschickter 
 sein als andere. In dem Fall hätte sie vielleicht Stärke und 
 Geschicklichkeit auf + (15). Andere Spezies haben vielleicht das 
-Merkmal „sonar“ (+). 
+Merkmal „Sonar“ (+). 
 
 Auf die Art erhält eine Spezies auch Kosten. Ein orkischer 
 Charakter würde dann zwei Dreiecke zahlen, also genau den Betrag, 
@@ -37,16 +37,17 @@ der für die Erschaffung der Spezies nötig war.
 Ein Charakter dieser Spezies wird dann wie üblich erschaffen, 
 aber die veränderten Werte der Spezies gehen als Boni und Mali ein, die 
 er bei der Steigerung nicht berückichtigen muss. Auf die Art haben 
-aEigenschaften so wie Fertigkeiten einen Grundwert und einen 
+Eigenschaften so wie Fertigkeiten einen Grundwert und einen 
 Effektivwert. Und wie bei Fertigkeiten wird zur Berechnung der 
 Kosten einer Steigerung nur der Grundwert genutzt.[^grundwert]
+
+Jedes + gibt einen Bonus von 3, jedes - einen Malus von 3. 
 
 [^grundwert]: Eine andere Betrachtungsweise der Mechanik ist, dass 
     die Spezies dem Charakter grundlegende Plusse und Minusse gibt, 
     mit denen als Grundlage er steigert. Diese betrachungsweise 
     gilt für jegliche Werte, also nicht nur Eigenschaften, sondern 
     auch Fertigkeiten, Berufe und Merkmale. 
-    
 
 Der spieltechnische Effekt davon ist, dass Charaktere dieser 
 Spezies steigern, als hätten sie einen niedrigeren oder höheren 
@@ -67,12 +68,12 @@ Ein menschlicher Charakter dagegen muss für die Steigerung auf 18
 drei Dreiecke zahlen: eins für die Steigerung auf + (15) und zwei 
 weitere für die Steigerung auf 18 (++). 
 
-Wenn nun aber der Spieler eines Synachu (Stärke - (9)) auf 18 
-kommen will, muss er erst ein Dreieck zahlen, um auf 12 zu kommen 
-(15 -3), dann zwei weitere für 15 (18-3) und nochmal drei weitere 
-für die Steigerung auf 18 (21-3). 
+Wenn nun aber der Spieler eines Synachu (Stärke - (9)) seine 
+Eigenschaft auf 18 haben will, muss er erst ein Dreieck zahlen, 
+um auf 12 zu kommen (15 -3), dann zwei weitere für 15 (18-3) und 
+nochmal drei weitere für die Steigerung auf 18 (21-3). 
 
-Auf die Art ist es für Charaktere billiger hohe Werte in 
+Auf die Art ist es für Charaktere billiger, hohe Werte in 
 Eigenschaften zu erreichen, in denen ihre Spezies Boni gibt. 
 
 Der Ork zahlt für die Steigerung der Stärke auf 15 durch seine 
@@ -82,7 +83,7 @@ Der Synachu dagegen bekommt für die niedrige Stärke seiner Spezies
 ein Dreieck, zahlt dann aber sechs Dreiecke für die Steigerung 
 seines effektiven Eigenschaftswertes auf 18. Für den gleichen 
 Endwert zahlt also der ork zwei Dreiecke, der Mensch drei und der 
-Synachu 5. 
+Synachu fünf. 
 
 ### Kultur
 
@@ -90,12 +91,12 @@ Zusätzlich zu seiner Spezies erhält der Charakter eine Kultur.
 
 Die Kultur gibt ihm zum Einen einen Beruf (Name der Kultur, vielleicht 
 seine gesellschaftliche Stellung). Dieser Beruf repräsentiert das 
-Wissen und können, das in der Kultur als normal angesehen wird. 
+Wissen und Können, das in der Kultur als normal angesehen wird. 
 Adlige Menschen können reiten, fast alle Ranmex können jagen, und 
 wer im heutigen Deutschland nicht lesen und fahrradfahren kann, ist 
 sehr ungewöhnlich. 
 
-Zum Anderen zum Beruf kann sie Merkmale enthalten, die Teil der 
+Zum Anderen kann die Kultur Merkmale enthalten, die Teil der 
 Kultur sind. Reisende Sänger haben z.B. oft die Immunität des 
 Barden. 
 
@@ -115,8 +116,8 @@ durchschnittsstärke von Barbaren) undd könnte für gerade mal ein
 weiteres Dreieck auf +++ kommen (21). 
 
 Eigenschaftsboni bei Kulturen sollten aus diesem Grund allerdings 
-mit Bedacht eingesetzt werden, weil sie leicht die Spielbalance 
-zerstören können. 
+mit Bedacht eingesetzt werden, weil sie zusammen mit der Spezies 
+leicht die Spielbalance zerstören können. 
 
 ### Individuum
 
@@ -135,3 +136,65 @@ Statt hierfür das Charakterheft zu nutzen ist es am effizientesten, die Grundan
 Auf die Art können Charaktere aus unterschiedlichen Welten dann auch von ihrer Stärke her verglichen werden. 
 
 Die Grenzen zwischen Kultur und Welt sind allerdings fließend. Der Hauptgrund, die Welt als eigenes zu nehmen ist, dass dadurch unnötige Beschreibungen vermieden werden. Ansonsten müssten für alle Kulturen der Welt die Modifikatoren der Welt integriert werden. Die wären aber bei jeder Kultur gleich und damit redundant. 
+
+### Beispiele
+
+#### Neschras: Aiuri-Diplomatin aus Jehlior. 
+
+##### Aiuri als Spezies
+
+* Eigenschaften
+    - + Bewusste Körpersprache: 15
+    - - Konstitution: 9
+    - - Mäßige Stärke: 9
+ 
+* Besonderheiten
+ 
+    - + Können gleiten
+    - + Ausdauerbonus von 6 beim Fliegen
+    - + Starke Flügel (+6)
+ 
+* Notizen
+    - Bewusste Körpersprache ermöglicht es Aiuri sehr einfach, sich in andere Gesellschaften einzufügen, da sie binnen weniger Wochen ihre gesamte Körpersprache besser anpassen können, als die meisten Menschen es in vielen Jahren tun
+
+* Kosten: 3Δ
+
+##### Kultur von Jehlior
+
+Jehlior ist ein Hort der hohen Künste. Fast jeder, der dort aufwächst, lernt künstlerischen Selbstausdruck. 
+
+* + Beruf: Selbstausdruck (Jehlior): 9
+* Kosten: 1Δ
+
+##### Neschras als Individuum
+
+Neschras ist eine zielstrebige und erfolgreiche Diplomatin. 
+
+Zur Erschaffung hat Neschras als angehende Heldin 7Δ. 
+
+* Spezies: Aiuri (kostet 3Δ)
+* Kultur: Jehlior (1Δ) 
+* Eigenschaften
+    - +(+) Bewusste Körpersprache: 15 (18)
+    - (-) Konstitution: 12 (9)
+    - (-) Stärke: 12 (9)
+
+* +(+) Beruf: Selbstausdruck (Jehlior): 9 (12)
+
+* Fertigkeiten
+    - ++ Etikette: 15 | 17  
+        Bonus aus Körpersprache
+    - + Historische Schlachten und Generäle: 12
+
+* Besonderheiten
+    - + Kann gleiten
+    - + Ausdauerbonus von 6 beim Fliegen
+    - + Starke Flügel (+6)
+    - - Absolut intolerant gegenüber Fehlern. 
+
+* Kosten: 7Δ
+
+Neschras nutzt die angeborene Körpersprache der Aiuri (als Bonus auf Etikette) und den in Jehlior verbreiteten Selbstausdruck (als Beruf für Diplomatie). 
+
+Ohne die Boni von Spezies (Aiuri) und Kultur (Jehlior) hätte sie für die gleichen Werte 4Δ mehr zahlen müssen. 
+
