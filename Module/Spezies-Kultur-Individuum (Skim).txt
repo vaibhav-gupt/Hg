@@ -144,15 +144,15 @@ Die Grenzen zwischen Kultur und Welt sind allerdings fließend. Der Hauptgrund, 
 ##### Aiuri als Spezies
 
 * Eigenschaften
-    - + Bewusste Körpersprache: 15
-    - - Konstitution: 9
-    - - Mäßige Stärke: 9
+    - \+ Bewusste Körpersprache: 15
+    - \- Konstitution: 9
+    - \- Mäßige Stärke: 9
  
 * Besonderheiten
  
-    - + Können gleiten
-    - + Ausdauerbonus von 6 beim Fliegen
-    - + Starke Flügel (+6)
+    - \+ Können gleiten
+    - \+ Ausdauerbonus von 6 beim Fliegen
+    - \+ Starke Flügel (+6)
  
 * Notizen
     - Bewusste Körpersprache ermöglicht es Aiuri sehr einfach, sich in andere Gesellschaften einzufügen, da sie binnen weniger Wochen ihre gesamte Körpersprache besser anpassen können, als die meisten Menschen es in vielen Jahren tun
@@ -163,7 +163,7 @@ Die Grenzen zwischen Kultur und Welt sind allerdings fließend. Der Hauptgrund, 
 
 Jehlior ist ein Hort der hohen Künste. Fast jeder, der dort aufwächst, lernt künstlerischen Selbstausdruck. 
 
-* + Beruf: Selbstausdruck (Jehlior): 9
+* \+ Beruf: Selbstausdruck (Jehlior): 9
 * Kosten: 1Δ
 
 ##### Neschras als Individuum
@@ -175,22 +175,22 @@ Zur Erschaffung hat Neschras als angehende Heldin 7Δ.
 * Spezies: Aiuri (kostet 3Δ)
 * Kultur: Jehlior (1Δ) 
 * Eigenschaften
-    - +(+) Bewusste Körpersprache: 15 (18)
+    - \+(+) Bewusste Körpersprache: 15 (18)
     - (-) Konstitution: 12 (9)
     - (-) Stärke: 12 (9)
 
-* +(+) Beruf: Selbstausdruck (Jehlior): 9 (12)
+* \+(+) Beruf: Selbstausdruck (Jehlior): 9 (12)
 
 * Fertigkeiten
-    - ++ Etikette: 15 | 17  
+    - \++ Etikette: 15 | 17  
         Bonus aus Körpersprache
-    - + Historische Schlachten und Generäle: 12
+    - \+ Historische Schlachten und Generäle: 12
 
 * Besonderheiten
-    - + Kann gleiten
-    - + Ausdauerbonus von 6 beim Fliegen
-    - + Starke Flügel (+6)
-    - - Absolut intolerant gegenüber Fehlern. 
+    - \+ Kann gleiten
+    - \+ Ausdauerbonus von 6 beim Fliegen
+    - \+ Starke Flügel (+6)
+    - \- Absolut intolerant gegenüber Fehlern. 
 
 * Kosten: 7Δ
 
