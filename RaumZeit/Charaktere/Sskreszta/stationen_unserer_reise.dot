@@ -26,8 +26,10 @@ digraph G {
     
     // Der Weg
     edge [label=""]
-    edge [label="Flucht vor Systemarmee"] "Forschungsstation bei Ek" -> P9X 
-    edge [label="Transport von Lel (Berobter)"] P9X -> Unwetterplanet
+    edge [label="Flucht vor Systemarmee"]
+    "Forschungsstation bei Ek" -> P9X 
+    edge [label="Transport von Lel (Berobter)"]
+    P9X -> Unwetterplanet
     edge [label=""]
     Unwetterplanet -> "zerstoerte Station" -> Ranos
     
@@ -39,18 +41,25 @@ digraph G {
     // Piraten und Zat
     "Verbotene Zone" -> "Piraten und Zat (Nebenplot)"
 
-    edge [label="den Piraten folgen"] Remi -> "Abbaustation in Gasriese" -> "Zeitstation im Nebel" -> "Piraten im Asteroidenfeld" -> Hibiti
+    edge [label="den Piraten folgen"]
+    Remi -> "Abbaustation in Gasriese" -> "Zeitstation im Nebel" -> "Piraten im Asteroidenfeld" -> Hibiti
     "Hibiti" -> "Randstation im Ashar System"
 
-    edge [label="den Piraten folgen"] "Verborgene Sanduhrstation" -> "Hibiti"
-    edge [label="den Piraten folgen"] "Hibiti" -> "Hakus Paradies"
+    edge [label="den Piraten folgen"]
+    "Verborgene Sanduhrstation" -> "Hibiti"
+    edge [label="den Piraten folgen"]
+    "Hibiti" -> "Hakus Paradies"
     
     // Wie es weitergehen koennte. 
     edge [style="dashed"]
-    edge [label="uns um unseren eigenen Kram kuemmern"] "Hakus Paradies" -> "Handelsstationen"
-    edge [label="Sorgen um Ek"] "Hakus Paradies" -> Ek
-    edge [label="Schiff aufruesten"] "Hakus Paradies" -> Styro
-    edge [label="???"] "Hakus Paradies" -> "???"
+    edge [label="uns um unseren eigenen Kram kuemmern"]
+    "Hakus Paradies" -> "Handelsstationen"
+    edge [label="Sorgen um Ek"]
+    "Hakus Paradies" -> Ek
+    edge [label="Schiff aufruesten"]
+    "Hakus Paradies" -> Styro
+    edge [label="???"]
+    "Hakus Paradies" -> "???"
     
     edge [label="" style=""]
     // Beschreibungen
@@ -66,9 +75,12 @@ digraph G {
         subgraph cluster1 {
             name = Ranos
             label = Ranos
-            edge [label="Suchen Stress"]Ranos -> "Goldenes Licht"
-            edge [label="Auftrag"] "Goldenes Licht" -> Zatinsel
-            edge [label=""] Zatinsel -> "Paras Versteck (Hoehle)" -> Ranos -> Versorgungsstation -> Ranos
+            edge [label="Suchen Stress"]
+	    Ranos -> "Goldenes Licht"
+            edge [label="Auftrag"]
+	    "Goldenes Licht" -> Zatinsel
+            edge [label=""]
+	    Zatinsel -> "Paras Versteck (Hoehle)" -> Ranos -> Versorgungsstation -> Ranos
         }
         
         // Ereignisse in Styro
@@ -89,14 +101,17 @@ digraph G {
         subgraph cluster4 { 
             name = "Ashar System"
             label = "Ashar System"
-            edge [label="den Piraten folgen"] "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" 
-            edge [label="Eskorte aus dem Kriegsgebiet"] Ashar -> "Mond der D'sol" -> "Verborgene Sanduhrstation"
+            edge [label="den Piraten folgen"]
+	    "Randstation im Ashar System" -> "Mond der D'sol" -> "Ashar" 
+            edge [label="Eskorte aus dem Kriegsgebiet"]
+	    Ashar -> "Mond der D'sol" -> "Verborgene Sanduhrstation"
         }
 
         // Ereignisse auf Ashar
         subgraph cluster5 { 
             name = "Ashar"
             label = "Ashar"
-            edge [label="Auftrag, D'sol und Etaros"] Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
+            edge [label="Auftrag, D'sol und Etaros"]
+	    Ashar -> "Offener Tempel" -> "Verbotener Tempel" -> Forschungseinrichtung -> Ashar
         }
 }
