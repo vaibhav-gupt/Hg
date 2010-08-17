@@ -518,24 +518,30 @@ Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf Syste
 
 Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen hier genau einmal, und das Ergebnis des Kampfes steht fest. 
 
-**Dazu addiert erst jede der Spielerinnen den Durchschnittsschaden ihrer Waffe und den Schutzwert ihrer Rüstung auf den Fertigkeitswert, mit dem sie kämpft. 
-
-**Jetzt würfeln beide. Diejenige mit dem höheren Ergebnis (Wert ± Wurf) gewinnt die Konfrontation. Ihre Gegnerin ist kampfunfähig und erhält drei Wunden plus eine weitere je drei Punkte Differenz ihrer Ergebnisse. Die Gewinnerin erhält dabei drei Wunden abzüglich einer Wunde für je drei Punkte Differenz. Wenn ihr Ergebnis also 6 Punkte höher war als das ihrer Kontrahentin, erhält sie nur eine Wunde. Wenn die Gewinnerin 9 oder mehr Punkte besser war als ihre Kontrahentin, geht sie unbeschadet aus der Konfrontation hervor. 
+**Dazu  würfeln beide auf ihre Kampffertigkeit. Diejenige mit dem höheren Ergebnis (Wert ± Wurf) gewinnt die Konfrontation. Ihre Gegnerin ist kampfunfähig und erhält drei Wunden plus eine weitere je drei Punkte Differenz ihrer Ergebnisse. Die Gewinnerin erhält dabei drei Wunden abzüglich einer Wunde für je drei Punkte Differenz. Wenn ihr Ergebnis also 6 Punkte höher war als das ihrer Kontrahentin, erhält sie nur eine Wunde. Wenn die Gewinnerin 9 oder mehr Punkte besser war als ihre Kontrahentin, geht sie unbeschadet aus der Konfrontation hervor. 
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 3 Meter drei Punkte, bis 9 Metern 6 Punkte und bei über 9 Metern 9 Punkte.  
 
 **Abstand: 	Bonus für Fernkämpfer
 **Bis 1m: 	1
-**Bis 3m: 	3
-**Bis 9m:	6
+**Bis 9m:	3
 **Über 9m:	9
+
+**Ist die Rüstung oder Waffe einer der Kontrahentinnen deutlich stärker als die ihrer Gegnerin, erhält sie 3 Punkte Bonus. Hat nur eine Kämpferin eine Waffe, erhält sie weitere 3 Punkte. 
+
+*Streitaxt gegen Dolch gibt 3 Punkte Bonus, Kettenhemd gegen Straßenkleidung ebenso. Dolch als schwache Waffe gegen bloße Hände gibt 3 Punkte Bonus. Streitaxt gegen bloße Hände gibt 6. 
+
+**Bewaffnung (kumulative Boni für die besser Bewaffnete)
+**Deutlich stärkere Waffe: +3
+**Kontrahentin unbewaffnet: +3
+**Deutlich stärkere Rüstung: +3
 
 **Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL). 
 
 
 *"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an. 
 
-*Seine Spielerin Jana addiert nun den Schaden seiner Waffe (Schwert: 4) und seine Rüstung (0) zu seiner Fertigkeit (Erfahren: 15) und erhält 19. Die SL addiert den Dolch (2) und die Straßenkleidung (0) des Leibwächters zu dessen Fertigkeit (Schwach: 9) und erhält 11. Nun würfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 19+4=23 und der Leibwächter auf 11+2=13. Die Differenz ist 10, also bleibt Grok unverletzt und der Leibwächter geht mit 6 Wunden zu Boden.
+*Da Groks Kontrahent nur einen Dolch trägt, Grok aber eine Streitaxt, addiert seine Spielerin Jana 3 Punkte zu seiner Kampffertigkeit (Erfahren: 15) und erhält 18. Die SL hat nur die Fertigkeit des Leibwächters (Schwach: 9). Nun würfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 18+4=22 und der Leibwächter auf 9+2=11. Die Differenz ist 11, also bleibt Grok unverletzt und der Leibwächter geht mit 6 Wunden zu Boden.
 
 In diesen Kämpfen können verschiedene Taktiken genutzt werden, die dem Ein Wurf System größere Flexibilität geben. 
 
