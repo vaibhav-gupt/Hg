@@ -616,10 +616,10 @@ Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4.
 Beispiel: Lazaros Erschaffung auf S. 12. 
 
 ##Niedrige Trefferpunkte
-**Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 3 Punkten auf alle Handlungen. Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 6 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
+**Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 1 Punkt auf alle Handlungen. Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 3 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren. 
 **Sinken seine aktuellen Trefferpunkte auf den Wert seiner Trefferpunkte im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x TP (-36) ist der Mindestwurf 18, und bei -4x TP (-48) ist er 21. 
 
-**Sinken die Trefferpunkte auf oder unter das fünffache der Trefferpunkte (z.B. auf -5x TP (-60)), dann ist er unwiederbringlich tot.Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.
+**Sinken die Trefferpunkte auf oder unter das fünffache der Trefferpunkte (z.B. auf -5x TP (-60)), dann ist er unwiederbringlich tot. Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.
 
 ##Wunden 
 
