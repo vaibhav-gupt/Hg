@@ -1,0 +1,47 @@
+Geist beherrschen:
+==================
+Einfach (Emotionen):
+	- Alpträume erkennen
+
+Fordernd (Momentane Gedanken):
+	- Eigene Träume beeinflussen
+	- Träume anderer sehen
+	- Geisteskrankheit genau erkennen
+
+Schwer: (Bis zum Unterbewusstsein):
+	- Träume beeinflussen
+	- Geisteskrankheit heilen ( braucht unter Umständen viel Zeit )
+
+Materie beherrschen:
+====================
+Alle diese Zauber funktionieren durch reine physische Kraft
+Fordernd (Ding entlang eines Pfades bewegen):
+	- Telekinetische bewegbare Wand
+	- Eigener Körperschild (Praktisch eine Rüstung)
+
+Schwer (Die Zauber werden "intelligent"):
+	- Schloss knacken (Wenn das Schloss vorher bekannt ist)
+	- Körperschild (Praktisch eine Rüstung)
+	- Telekinetische bewegbare Kugel
+	- Fessel (Das Ziel kann sich nicht mehr bewegen)
+
+Überragend (Sehr kleine Dinge genau kontrollieren):
+	- Schloss knacken (Das Schloss ist vorher nicht genau bekannt)
+	- Desintegrieren (Die Molekularen Bande in etwas auflösen)
+	- Reflektierende Rüstung die Geschosse auf den Angreifer zurückwirft
+Aktivieren:
+===========
+Mindestwürfe
+    - Routine (6): Leere Tasse, (<1kg)
+    - Einfach (9): Faustgroßer Stein (5kg)
+    - Fordernd (12): Mensch (100kg)
+    - Schwer (15): Pferd (250kg)
+    - Überragend (18): Kutsche (500kg)
+
+Modifikation des Aktivieren-MW durch Geschwindigkeit
+====================================================
+    - Sehr langsam: -3
+    - Langsam: ±0
+    - Etwas schneller: +3
+    - Schnell (Kampftauglich): +6
+    - Sehr schnell (Pfeil): +9
