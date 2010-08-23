@@ -380,15 +380,21 @@ Wenn ein Charakter Wunden hat, kann seine Spielerin jede Woche auf eine passende
 
 **Der Grundmindestwurf für die Heilungsprobe hängt von der Situation ab. Bei Ruhe und Pflege ist er 9. Auf Reisen und anderen Unternehmungen (der normalen Situation für Abenteurer) ist er 12. In verdreckter Umgebung und in sehr stressigen Situationen ist er 15. In einem modernen Krankenhaus liegt er bei nur 6 und im Krieg ohne Feldscherer steigt er auf 18. 
 
+**- Krankenhaus: 6
+**- Ruhe und Pflege: 9
+**- Reisen und Abenteuer: 12
+**- Stress und Dreck: 15
+**- Albtraum aller Ärzte: 18
+
 Zusätzlich steigt der Mindestwurf um 3 pro Wunde. 
 
 **MW = Grundmindestwurf + 3 pro Wunde.
 
+*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde, wenn er trotzdem weiterarbeitet, 3 Wochen. Trägt er zwei Wunden davon, heilt er die erste in etwa 6 Wochen und die zweite in 3 weiteren. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, wird er gut 2 Monate lang nur stark eingeschränkt arbeiten können. Gönnt er sich Ruhe, fällt er etwa einen Monat lang ganz aus. 
+
 Verfehlt die Spielerin den Mindestwurf bei der Heilungsprobe um mehr als 6 Punkte, dann entzünden sich die bisherigen Wunden und der Charakter erhält eine zusätzliche Wunde. 
 
-*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde, wenn er trotzdem weiterarbeitet, 3 Wochen. Trägt er zwei Wunden davon, heilt er die erste in etwa 6 Wochen und die zweite in 3 weiteren. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, statt sich Ruhe zu gönnen, wird er gut 2 Monate lang nur eingeschränkt arbeiten können. Hätte er sich Ruhe gegönnt, wäre er nur einen Monat ausgefallen, den aber vollständig. 
-
-Liegt der Mindestwurf 3 oder mehr Punkte über dem Eigenschaftswert des Charakters, dann muss er auch ohne Wunden jede Woche würfeln, ob sein Körper mit der Belastung klar kommt. Auch hier bekommt er eine Wunde, wenn er den Mindestwurf um mehr als 6 Punkte verfehlt. 
+Liegt der Mindestwurf 3 oder mehr Punkte über dem Eigenschaftswert des Charakters, dann muss er auch ohne Wunden jede Woche würfeln, ob sein Körper mit der Belastung klar kommt oder ob er sich Wunden zuzieht. 
 
 *"Grok, Barbar" hat sich bei einem Fürsten verdungen. Als der Fürst sich entscheidet, seinen Nachbarn für eine Schmähung beim Ball anzugreifen, schickt er Groks Einheit auf einen mehrwöchentlichen Gewaltmarsch. Grok mit seiner überragenden Konstitution (18, WS 6) hält den Marsch gut durch (Mindestwurf 18 ohne Wunden), doch die anderen in seiner Einheit (Konstitution 12) erhalten alle 2 Wochen eine Wunde (bei jeder ungeraden Zahl, also im Durchschnitt jeder zweiten Probe). Als Grok nach 6 Wochen alleine ankommt, entscheidet er sich, in der Schenke nach schöneren Aufgaben zu suchen. 
 
@@ -414,6 +420,7 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 **Ist die Rüstung oder Waffe einer der Kontrahentinnen deutlich stärker als die ihrer Gegnerin, erhält sie 3 Punkte Bonus. Hat nur eine Kämpferin eine Waffe, erhält sie weitere 3 Punkte. 
 
 *Streitaxt gegen Dolch gibt 3 Punkte Bonus, Kettenhemd gegen Straßenkleidung ebenso. Dolch als schwache Waffe gegen bloße Hände gibt 3 Punkte Bonus. Streitaxt gegen bloße Hände gibt 6. 
+
 **Deutlich stärkere Waffe: +3
 **Kontrahentin unbewaffnet: +3
 **Deutlich stärkere Rüstung: +3
@@ -425,7 +432,6 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 *Da Groks Kontrahent nur einen Dolch trägt, Grok aber eine Streitaxt, addiert seine Spielerin Jana 3 Punkte zu Groks Kampffertigkeit (Erfahren: 15) und erhält 18. Die SL hat nur die Fertigkeit des Leibwächters (Schwach: 9). Nun würfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 18+4=22 und der Leibwächter auf 9+2=11. Die Differenz ist 11, also bleibt Grok unverletzt und der Leibwächter geht mit 6 Wunden zu Boden.
 
 ##Kampftaktiken
-
 Um dem Ein Wurf System größere Flexibilität zu geben, können verschiedene Kampftaktiken genutzt werden. Einige Beispiele: 
 
 - Vorsichtiger Kampf: Hierdurch erhält der Charakter, wenn er verliert, nur eine Wunde für je 3 Punkte Differenz und keine, wenn er gewinnt. Dafür hat er allerdings einen Malus von 3 Punkten auf seinen FW (Gewinnchance 1/3  statt 1/2 bei gleichstarken Gegnern). 

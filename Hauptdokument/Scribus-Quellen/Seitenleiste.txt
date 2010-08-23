@@ -269,8 +269,7 @@ Beispiele sind Friedensstifter, Entwicklungshelfer und Geheimagent.
 *Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grundlegende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut. 
 *All diese Fertigkeiten sind durch ihren breiten Beruf abgedeckt: 
 
-**+: Unerfahrene Entwicklungs-
-**helferin: 6
+**+: Unerfahrene Entwick-lungshelferin: 6
 
 
 #Waffenloser Kampf
@@ -298,39 +297,7 @@ Wunden sind zeitweise Psychosen, Schrecken, Panik, uvm., und sie schwächen wie 
 Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-) (z.B. Phobie) und verschwindet dafür.  
 
 
-#Beispielwaffen: 
-Nahkampfwaffe: Schaden
-- Stab: 3
-- Dolch: 2
-- Schwert: 4
-- Kriegshammer: 8
-- Doppelaxt: 10
-
-Fernkampfwaffe: Schaden
-- Wurfmesser: 2
-- Bogen: 4
-- Pistole: 4
--> 9MM: 8
-- Jagdgewehr: 16
-- Laserpistole¹: 4/Ladung
-- Blaster (20 Lad.): 16
-- Blastergewehr: 24
-
-¹: Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Ladungen in der Energiezelle. 
-
-#Rüstungsbeispiele: 
-Name: Schutz
-Ledermantel: 1-2
-Lederrüstung: 2
-Kettenhemd: 3-5
-Gestechrüstung: 7
-Kugels. Weste¹: 8 /2
-leichte Panz.²: 20
-
-¹: 8 gegen Kugeln, sonst 2
-²: Space Marines
-
-
+
 #Deckung
 Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben. 
 
@@ -486,7 +453,61 @@ Konkret bedeutet das:
 - Eine kritische Wunde heilt allerdings vor einer alten normalen Wunde, bis sie selbst zu einer normalen geworden ist, für den Körper also nicht mehr gefährlicher wirkt als andere Wunden. 
 
 
-
+#Einfluss der Heilungsumstände
+Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Modifikatoren werden auf die normale Heilung von Wundschwelle (WS) -2 TP pro Woche angerechnet. 
+
+Aktivität: 
+- Schiffsreise: ±0 bis -2 TP
+- In Kutsche auf guten Straßen: -1 TP
+- Zu Pferde/schlechte Kutsche: -2 TP
+- Gewaltmarsch: -4 TP
+ 
+Umstand: 
+- Feldlazarett: +0 
+- Im Bett in Ruhe mit Kräutern: +1 
+- Modernes Krankenhaus: +2TP
+- nahe Zukunft: +3 TP
+- ferne Zukunft: +6 TP
+- Ultra-Tech: +12 TP
+
+#Heilung in "Realität" (Vergleich)
+- Kiefer gebrochen: 4 Wochen Krankenhaus. 
+- Armbruch: Etwa 6 Wochen. 
+
+Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern. 
+
+#Beispielwaffen: 
+Nahkampfwaffe: Schaden
+- Stab: 3
+- Dolch: 2
+- Schwert: 4
+- Kriegshammer: 8
+- Doppelaxt: 10
+
+Fernkampfwaffe: Schaden
+- Wurfmesser: 2
+- Bogen: 4
+- Pistole: 4
+-> 9MM: 8
+- Jagdgewehr: 16
+- Laserpistole¹: 4/Ladung
+- Blaster (20 Lad.): 16
+- Blastergewehr: 24
+
+¹: Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Ladungen in der Energiezelle. 
+
+#Rüstungsbeispiele: 
+Name: Schutz
+Ledermantel: 1-2
+Lederrüstung: 2
+Kettenhemd: 3-5
+Gestechrüstung: 7
+Kugels. Weste¹: 8 /2
+leichte Panz.²: 20
+
+¹: 8 gegen Kugeln, sonst 2
+²: Space Marines
+
 
 #Treffer einstecken
 Ein Kämpfer kann sich entscheiden, seine Verteidigung fallen zu lassen und einen Treffer einzustecken. 
@@ -559,7 +580,7 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 
 - Messer im Bauch und umgedreht, Gedärme glitschen auf den Boden, Schnitt über die komplette Bauchdecke, Krallen tief in den Bauch gerammt, Magen durchstochen, jegliche anderen wichtigen Organe angestochen oder zerschnitten oder zerfetzt. 
 
-- Genitalien zerquetscht oder sehr gefährlich gequetscht, recht wahrscheinlich bleibende Unfruchtbarkeit und innere Blutungen. Schnitt in die Genitalien, Pferdehuf sehr genau abbekommen... 
+- Genitalien zerquetscht oder sehr gefährlich gequetscht, recht wahrscheinlich bleibende Unfruchtbarkeit und innere Blutungen. Schnitt in die Genitalien, Pferdehuf sehr genau abbekommen... 
 - Arm oder Bein abgetrennt oder zertrümmert. Unbrauchbar.
 
 - Brustkorb eingedrückt, Rippen gesplittert, Brustkorb gespalten (Axt, o.ä.), Schlüsselbein zertrümmert, Stich in die Lunge oder zwischen die Rippen (je nach gewünschter Tödlichkeit). 
@@ -567,29 +588,6 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 - Lanze durch den Rücken und durch die Rippen gebrochen, Lunge erwischt (kann zu einem sehr langsamen Tod führen, wenn der Kampf grausam sein soll). 
 
 - Streitkolben hat Rippen zertrümmert, Messer zwischen die Rippen gerammt und beim Drehen Rippen gebrochen.
-
-#Einfluss der Heilungsumstände
-Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Modifikatoren werden auf die normale Heilung von Wundschwelle (WS) -2 TP pro Woche angerechnet. 
-
-Aktivität: 
-- Schiffsreise: ±0 bis -2 TP
-- In Kutsche auf guten Straßen: -1 TP
-- Zu Pferde/schlechte Kutsche: -2 TP
-- Gewaltmarsch: -4 TP
- 
-Umstand: 
-- Feldlazarett: +0 
-- Im Bett in Ruhe mit Kräutern: +1 
-- Modernes Krankenhaus: +2TP
-- nahe Zukunft: +3 TP
-- ferne Zukunft: +6 TP
-- Ultra-Tech: +12 TP
-
-#Heilung in "Realität" (Vergleich)
-- Kiefer gebrochen: 4 Wochen Krankenhaus. 
-- Armbruch: Etwa 6 Wochen. 
-
-Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern. 
 
 
 #Warum freie Werke? 
