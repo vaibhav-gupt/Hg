@@ -1,0 +1,11 @@
+All these images come from the free game "Battle for Wesnoth" and are licensed under the 
+GPLv2 or later. 
+- http://wesnoth.org
+
+You can see a listing of artists <-> images in the file ARTISTS. 
+
+For more details on the license see ../../sonstiges/gpl.txt
+
+Note that for artwork and
+music, we interpret "preferred form of the work for making modifications" as
+the modifiable form that the author chooses to ship us for the source tree.
