@@ -283,29 +283,7 @@ Diese Regel kann (und sollte) allerdings von der SL je nach Situation angepasst 
 In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für den Gegner sinnvoller wird, das Schwert fallen zu lassen. 
 
 
-#Einfluss der Heilungsumstände
-Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Modifikatoren werden auf die normale Heilung von Wundschwelle (WS) -2 TP pro Woche angerechnet. 
-
-Aktivität: 
-- Schiffsreise: ±0 bis -2 TP
-- In Kutsche auf guten Straßen: -1 TP
-- Zu Pferde/schlechte Kutsche: -2 TP
-- Gewaltmarsch: -4 TP
- 
-Umstand: 
-- Feldlazarett: +0 
-- Im Bett in Ruhe mit Kräutern: +1 
-- Modernes Krankenhaus: +2TP
-- nahe Zukunft: +3 TP
-- ferne Zukunft: +6 TP
-- Ultra-Tech: +12 TP
-
-#Heilung in "Realität" (Vergleich)
-- Kiefer gebrochen: 4 Wochen Krankenhaus. 
-- Armbruch: Etwa 6 Wochen. 
-
-Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern. 
-
+
 #Spätfolgen
 In unserer Welt haben Wunden oft bleibende Folgen. Wenn es den Spielern gefällt, können sie daher wichtige Wunden notiert lassen, und sich schöne Effekte überlegen (z.B. Wetterfühligkeit).
 
@@ -590,7 +568,29 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 
 - Streitkolben hat Rippen zertrümmert, Messer zwischen die Rippen gerammt und beim Drehen Rippen gebrochen.
 
-
+#Einfluss der Heilungsumstände
+Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Modifikatoren werden auf die normale Heilung von Wundschwelle (WS) -2 TP pro Woche angerechnet. 
+
+Aktivität: 
+- Schiffsreise: ±0 bis -2 TP
+- In Kutsche auf guten Straßen: -1 TP
+- Zu Pferde/schlechte Kutsche: -2 TP
+- Gewaltmarsch: -4 TP
+ 
+Umstand: 
+- Feldlazarett: +0 
+- Im Bett in Ruhe mit Kräutern: +1 
+- Modernes Krankenhaus: +2TP
+- nahe Zukunft: +3 TP
+- ferne Zukunft: +6 TP
+- Ultra-Tech: +12 TP
+
+#Heilung in "Realität" (Vergleich)
+- Kiefer gebrochen: 4 Wochen Krankenhaus. 
+- Armbruch: Etwa 6 Wochen. 
+
+Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern. 
+
 
 #Warum freie Werke? 
 Freie Werke schaffen eine Umgebung, in der Jede jeden Teil ihrer Umgebung nach ihren Wünschen gestalten kann und darf, solange sie die Freiheit von niemand Anderem einschränkt. 
