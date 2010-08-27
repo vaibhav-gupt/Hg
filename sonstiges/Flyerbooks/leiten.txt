@@ -54,10 +54,13 @@ Kämpf
 
 Für den Kampf haben CHaraktere Waffen, Rüstungen und eine Wundschwelle. 
 
-Im Nahkampf würfeln einfach beide Beteiligten auf einen passenden Wert. Wer das bessere Ergebnis erziehlt, trifft seinen Gegner. Er verursacht dann Schaden in Höhe der Differenz der Ergebnisse plus seiner Waffe und Minus der Rüstung des Getroffenen. Liegt dieser SChaden über der Wundschwelle des Getroffenen, dann schlägt er eine Wunde, die alle Proben um drei Punkte erschwert, bis sie geheilt ist. Der Angreifer kann entscheiden nur Betäubungsschaden zu verursachen, der keine bleibenden SChäden hinterlässt. 
+Im Nahkampf würfeln einfach beide Beteiligten auf einen passenden Wert. Wer das bessere Ergebnis erziehlt, trifft seinen Gegner. Er verursacht dann Schaden in Höhe der Differenz der Ergebnisse plus seiner Waffe und Minus der Rüstung des Getroffenen. Liegt dieser SChaden über der Wundschwelle des Getroffenen, dann schlägt er eine Wunde, die alle Proben um drei Punkte erschwert, bis sie geheilt ist. Der Angreifer kann entscheiden nur Betäubungsschaden zu verursachen, der keine bleibenden Schäden hinterlässt. 
+
+Wenn einer der Kämpfer sich nur verteidigen will, erhält er 6 Punkte Bonus, verursacht aber keinen Schaden, wenn er das höhere Ergebnis hat. 
 
 Für die Heilung würfelt die Spielerin einmal pro Woche mit einem ±W6. Dazu addiert sie 3 pro + in einer passenden Eigenschaft. Ist das Ergebnis größer oder gleich 0, dann heilt eine Wunde. Bei Betäubungsschaden kann die Spielerin einmal pro Stunde würfeln, statt nur einmal pro Woche. 
 
 ### Beispiel
 
-*Tara hat einen Taschendieb erwischt und will ihn mit einem gezielten Schlag schlafen legen.…*
+*Tara hat einen Taschendieb erwischt und will ihn mit einem gezielten Schlag schlafen legen. Sie kann sich recht gut in ihrer Haut wehren (+: Waffenlos: 12) und erhält einen bonus von 1 aus ihrer Gcschicklichkeit. Der Taschendieb muss auf seinen Beruf vertrauen (+ Taschendieb: 9). Tara wirft eine 4 und kommt so auf 17 (12 + 1 + 4). Der Taschendieb wirft eine 3 und landet bei 6 (9-3). Tara trifft also ihren Gegner mit einer Differenz von 11 punkten. Der Schaden reicht aus, um eine Wunde zu verursachen. Der Taschendieb hat nun also einen 3 Abzug auf alle Proben, bis er die Wunde geheilt hat.*
+
