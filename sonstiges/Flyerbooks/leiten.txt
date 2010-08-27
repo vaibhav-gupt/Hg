@@ -18,8 +18,8 @@ Du liest diesen Flyer (Diese Seite und das Grundszenario auf der Rückseite), w�
 Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (sie sind auf der versiegelten Seite ihrer Infoflyer). Du brichst das Siegel und liest sie, während die Spieler was zu trinken besorgen. 
 Ihr fangt mit der ersten Szene des Grundszenarios an. 
 
-Regeln
-------
+Grundregeln
+-----------
 
 Als Regelwerk verwenden Flyerbücher das freie 1w6-System, das schnelles Spiel und schlanke Charaktere ermöglicht. Die Charaktere haben eine Reihe von Eigenschaften, Berufen, FErtigkeiten und Merkmalen, die sie von der Masse unterscheiden. Berufe und Fertigkeiten haben jeweils einen Zahlenwert und eine Anzahl von Plussen (+ ⇒ Stärke) oder Minussen (- ⇒ Schwäche). Eigenschaften und Merkmale haben nur Plusse oder Minusse. 
 
@@ -31,14 +31,24 @@ Wenn ein Charakter nun etwas tun will und ihr unsicher seid, ob er es schafft, k
 
 Danach schaut ihr die Eigenschaften des Charakters an. Für jedes + in einer zur Probe passenden Eigenschaft erhält der Charakter einen Punkt Bonus auf seinen Wert. Bei einem Beruf kann er dabei nur eine Eigenschaft nutzen, bei einer Fertigkeit beliebig viele. 
 
-Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, dann zieht ihr sie ab. Wenn das Ergebnis mindestens der Schwierigkeit der Probe entspricht (9 ist einfach, 12 fordernd, 15 schwer), dann schafft der Charakter die Probe. 
+Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, dann zieht ihr sie ab. So zu würfeln heißt ±W6. Wenn das Ergebnis mindestens der Schwierigkeit der Probe entspricht (9 ist einfach, 12 fordernd, 15 schwer), dann schafft der Charakter die Probe. 
 
 <!--Boni von anderen: Bei Fertigkeiten ein Bonus von 1 für jedes +, das Helfer in passenden Fertigkeiten haben.-->
 
 ### Beispiel
 
-*Tara will ein Floß bauen. Sie ist Handwerkerin (Beruf: + Handwerkerin: 9) und sehr geschickt (+ geschickt). Sie erhält also einen Punkt Bonus auf ihren Beruf und ist damit bei 10 (9 + 1). Die SL legt fest, dass ein Floß zu bauen fordernd ist, also eine Schwierigkeit von 12 hat. Taras Spielerin würfelt also…*
+*Tara will eine Trage bauen. Sie ist Handwerkerin (Beruf: + Handwerkerin: 9) und sehr geschickt (+ geschickt). Sie erhält also einen Punkt Bonus auf ihren Beruf und ist damit bei 10 (9 + 1). Die SL legt fest, dass ein Floß zu bauen einfach ist, also eine Schwierigkeit von 9 hat. Taras Spielerin würfelt und erhält eine 1. 1 ist ungerade, wird also abgezogen, so dass Tara gerade auf 9 kommt und die Probe gerade so schafft.*
 
-*Noren will ein Reh fangen. Er kann gut jagen (+ jagen: 12) und ist geschickt (+ geschickt), aufmerksam (+ aufmerksam) und hinterlistig (+ hinterlistig). Er hat also für diese Probe einen effektiven Wert von 15 (12 + 3).*
+<!--*Noren will ein Reh fangen. Er kann gut jagen (+ jagen: 12) und ist geschickt (+ geschickt), aufmerksam (+ aufmerksam) und hinterlistig (+ hinterlistig). Er hat also für diese Probe einen effektiven Wert von 15 (12 + 3). Da in den Wäldern Rehe rar sind, legt die SL fest, dass die Probe schwer ist, also eine Schwierigkeit von 15 hat. Norens Spieler wirf eine 3. Da 3 ungerade ist, zieht er sie von seinem Wert ab und kommt so aucf 12, weniger als 15. Entsprechend schafft er die Probe niht und es gibt am Abend wieder nur gebratenen Hasen.*-->
 
+Kämpf
+-----
+
+Für den Kampf haben CHaraktere Waffen, Rüstungen und eine Wundschwelle. 
+
+Im Nahkampf würfeln einfach beide Beteiligten auf einen passenden Wert. Wer das bessere Ergebnis erziehlt, trifft seinen Gegner. Er verursacht dann Schaden in Höhe der Differenz der Ergebnisse plus seiner Waffe und Minus der Rüstung des Getroffenen. Liegt dieser SChaden über der Wundschwelle des Getroffenen, dann schlägt er eine Wunde, die alle Proben um drei Punkte erschwert, bis sie geheilt ist. 
+
+Für die Heilung würfelt die Spielerin einmal pro Woche mit einem ±W6. Dazu addiert sie 3 pro + in einer passenden Eigenschaft. Ist das Ergebnis größer oder gleich 0, dann heilt eine Wunde. 
+
+### Beispiel
 
