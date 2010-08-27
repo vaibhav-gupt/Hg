@@ -25,15 +25,20 @@ Als Regelwerk verwenden Flyerbücher das freie 1w6-System, das schnelles Spiel u
 
 ### Beispiel
 
-    Eine Eigenschaft ist z.B. Stärke, intelligenz oder Stolz. 
-    Ein Beispielberuf ist Jäger, während tanzen eine Fertigkeit ist. 
-    Ein Merkmal könnte Reich (+), Süchtig (-> oder photographusches Gedächtnis (+) sein. 
+*Eine Eigenschaft ist z.B. Stärke, intelligenz oder Stolz. Ein Beispielberuf ist Jäger, während tanzen eine Fertigkeit ist. Ein Merkmal könnte Reich (+), Süchtig (-> oder photographisches Gedächtnis (+) sein.*
 
-Wenn ein Charakter nun etwas tun will und ihr unsicher seid, ob er es schafft, kann er auf einen passenden Wert würfeln. Dafür schaut ihr, ob er eine Fertigkeit oder einen Beruf hat, der euch passend erscheint. Wenn nicht, nehmt ihr einfach den Wert 33. 
+Wenn ein Charakter nun etwas tun will und ihr unsicher seid, ob er es schafft, kann er auf einen passenden Wert würfeln. Dafür schaut ihr, ob er eine Fertigkeit oder einen Beruf hat, der euch passend erscheint. Hat er keinen passenden Wert, dann nehmt einfach 3. 
 
-Dann <Boni>
+Danach schaut ihr die Eigenschaften des Charakters an. Für jedes + in einer zur Probe passenden Eigenschaft erhält der Charakter einen Punkt Bonus auf seinen Wert. Bei einem Beruf kann er dabei nur eine Eigenschaft nutzen, bei einer Fertigkeit beliebig viele. 
 
+Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, dann zieht ihr sie ab. Wenn das Ergebnis mindestens der Schwierigkeit der Probe entspricht (9 ist einfach, 12 fordernd, 15 schwer), dann schafft der Charakter die Probe. 
 
+<!--Boni von anderen: Bei Fertigkeiten ein Bonus von 1 für jedes +, das Helfer in passenden Fertigkeiten haben.-->
 
+### Beispiel
+
+*Tara will ein Floß bauen. Sie ist Handwerkerin (Beruf: + Handwerkerin: 9) und sehr geschickt (+ geschickt). Sie erhält also einen Punkt Bonus auf ihren Beruf und ist damit bei 10 (9 + 1). Die SL legt fest, dass ein Floß zu bauen fordernd ist, also eine Schwierigkeit von 12 hat. Taras Spielerin würfelt also…*
+
+*Noren will ein Reh fangen. Er kann gut jagen (+ jagen: 12) und ist geschickt (+ geschickt), aufmerksam (+ aufmerksam) und hinterlistig (+ hinterlistig). Er hat also für diese Probe einen effektiven Wert von 15 (12 + 3).*
 
 
