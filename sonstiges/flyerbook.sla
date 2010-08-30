@@ -137,7 +137,7 @@
             <para PARENT="Titel"/>
             <ITEXT CH="Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das irgendwann wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Flyerbuch in die Bresche springen. "/>
             <para/>
-            <ITEXT CH="Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Für dich als SL enthält es ein Grundszenario mit Erklärung der Grundlagen (das hätlts du gerade in der Hand). Für die Spieler hat es vorgefertigte Charaktere und Infoflyer mit versiegelten Zusatzszenarien. "/>
+            <ITEXT CH="Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Für dich als SL enthält es ein Grundszenario mit Erklärung der Grundlagen (das hältst du gerade in der Hand). Für die Spieler hat es vorgefertigte Charaktere und Infoflyer mit versiegelten Zusatzszenarien. "/>
             <para/>
             <ITEXT CH="Die Szenarien sind für erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. "/>
             <para/>
@@ -149,7 +149,7 @@
             <para/>
             <ITEXT CH="Grundregeln"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Als Regelwerk verwenden Flyerbücher das freie 1w6-Sys­tem. Die Charaktere haben eine Reihe von Eigenschaften, Berufen, Fertigkeiten und Merkmalen, die sie von der Masse unterscheiden. Berufe und Fertigkeiten haben einen Zah­len­wer­t. Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche). "/>
+            <ITEXT CH="Als Regelwerk verwenden Flyerbücher das freie 1w6-Sys­tem. Die Charaktere haben eine Reihe Eigenschaften, Berufe, Fertigkeiten und Merkmale, die sie von der Masse ab­he­ben. Berufe und Fertigkeiten haben einen Zah­len­wer­t. Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche). "/>
             <para/>
             <ITEXT CH="Eine Eigenschaft ist z.B. Stärke, intelligenz oder Stolz. Ein Beispielberuf ist Jäger, während tanzen eine Fertigkeit ist. Ein Merkmal könnte Reich (+) oder Süchtig (-) sein."/>
             <para PARENT="Beispiel"/>
