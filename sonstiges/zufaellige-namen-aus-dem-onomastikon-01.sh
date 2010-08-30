@@ -1,8 +1,8 @@
 #!/bin/sh
 
-#wget -m http://www.gaminggeeks.org/Resources/KateMonk/
+wget -m http://www.gaminggeeks.org/Resources/KateMonk/
 cd www.gaminggeeks.org/Resources/KateMonk/
-#grep \<td\> -r */ |sed "s/<td>//" | sed "s/<\/td>//" > alle-namen.txt
+grep \<td\> -r */ |sed "s/<td>//" | sed "s/<\/td>//" > alle-namen.txt
     
 python3 -c '
 def is_good_line(l): 
