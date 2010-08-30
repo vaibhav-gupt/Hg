@@ -1,0 +1,76 @@
+Flyer leiten
+============
+
+*Einleitung für Spielleiter*
+
+Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? 
+
+Sollte dir das irgendwann wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Flyerbuch in die Bresche springen. 
+
+Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Für dich als SL enthält es ein Grundszenario mit Erklärung der Grundlagen (das hätlts du gerade in der Hand). Für die Spieler hat es vorgefertigte Charaktere und Infoflyer mit versiegelten Zusatzszenarien. 
+
+Die Szenarien sund für erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. 
+
+Ablauf
+------
+
+Du liest diesen Flyer (Diese Seite und das Grundszenario auf der Rückseite), während die Spieler die Infoteile ihrer Flyer lesen und ihre Charakterkarten tauschen, bis sie diejenigen haben, die sie wollen (im Zweifel gibt es hier sicher noch mehr). Ist ein Charakter doppelt, dann gebt ihm einfach einen neuen Namen :) 
+Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (sie sind auf der versiegelten Seite ihrer Infoflyer). Du brichst das Siegel und liest sie, während die Spieler was zu trinken besorgen. 
+Ihr fangt mit der ersten Szene des Grundszenarios an. 
+
+Grundregeln
+-----------
+
+Als Regelwerk verwenden Flyerbücher das freie 1w6-System, das schnelles Spiel und schlanke Charaktere ermöglicht. Die Charaktere haben eine Reihe von Eigenschaften, Berufen, FErtigkeiten und Merkmalen, die sie von der Masse unterscheiden. Berufe und Fertigkeiten haben jeweils einen Zahlenwert und eine Anzahl von Plussen (+ ⇒ Stärke) oder Minussen (- ⇒ Schwäche). Eigenschaften und Merkmale haben nur Plusse oder Minusse. 
+
+### Beispiel
+
+*Eine Eigenschaft ist z.B. Stärke, intelligenz oder Stolz. Ein Beispielberuf ist Jäger, während tanzen eine Fertigkeit ist. Ein Merkmal könnte Reich (+), Süchtig (-> oder photographisches Gedächtnis (+) sein.*
+
+Proben
+------
+
+Wenn ein Charakter nun etwas tun will und ihr unsicher seid, ob er es schafft, kann er auf einen passenden Wert würfeln. Dafür schaut ihr, ob er eine Fertigkeit oder einen Beruf hat, der euch passend erscheint. Hat er keinen passenden Wert, dann nehmt einfach 3. 
+
+Danach schaut ihr die Eigenschaften des Charakters an. Für jedes + in einer zur Probe passenden Eigenschaft erhält der Charakter einen Punkt Bonus auf seinen Wert. Bei einem Beruf kann er dabei nur eine Eigenschaft nutzen, bei einer Fertigkeit beliebig viele. 
+
+Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, dann zieht ihr sie ab. So zu würfeln heißt ±W6. Wenn das Ergebnis mindestens der Schwierigkeit der Probe entspricht (9 ist einfach, 12 fordernd, 15 schwer), dann schafft der Charakter die Probe. 
+
+<!--Boni von anderen: Bei Fertigkeiten ein Bonus von 1 für jedes +, das Helfer in passenden Fertigkeiten haben.-->
+
+### Beispiel
+
+*Tara will eine Trage bauen. Sie ist Handwerkerin (Beruf: + Handwerkerin: 9) und sehr geschickt (+ geschickt). Sie erhält also einen Punkt Bonus auf ihren Beruf und ist damit bei 10 (9 + 1). Die SL legt fest, dass ein Floß zu bauen einfach ist, also eine Schwierigkeit von 9 hat. Taras Spielerin würfelt und erhält eine 1. 1 ist ungerade, wird also abgezogen, so dass Tara gerade auf 9 kommt und die Probe gerade so schafft.*
+
+<!--*Noren will ein Reh fangen. Er kann gut jagen (+ jagen: 12) und ist geschickt (+ geschickt), aufmerksam (+ aufmerksam) und hinterlistig (+ hinterlistig). Er hat also für diese Probe einen effektiven Wert von 15 (12 + 3). Da in den Wäldern Rehe rar sind, legt die SL fest, dass die Probe schwer ist, also eine Schwierigkeit von 15 hat. Norens Spieler wirf eine 3. Da 3 ungerade ist, zieht er sie von seinem Wert ab und kommt so aucf 12, weniger als 15. Entsprechend schafft er die Probe niht und es gibt am Abend wieder nur gebratenen Hasen.*-->
+
+Wettstreite
+-----------
+
+Treten zwei Charaktere gegeneinander an, dann würfeln einfach beide wie bei einer Probe. Wer das höhere Ergebnis hat gewinnt den Wettstreit. Die Differenz zwischen beiden Werten gibt an, wie deutlich er gewinnt. 
+
+Kampf
+-----
+
+Für den Kampf haben Charaktere Waffen, Rüstungen und eine Wundschwelle. 
+
+Im Nahkampf würfeln einfach beide Beteiligten auf einen passenden Wert. Wer das bessere Ergebnis erziehlt, trifft seinen Gegner. Bei Gleichstand trifft der Angreifer. Der Sieger verursacht dann Schaden in Höhe der Differenz der Ergebnisse plus seiner Waffe und Minus der Rüstung des Getroffenen. Liegt dieser SChaden über der Wundschwelle des Getroffenen, dann schlägt er eine Wunde, die alle Proben um drei Punkte erschwert, bis sie geheilt ist. Der Angreifer kann entscheiden nur Betäubungsschaden zu verursachen, der keine bleibenden Schäden hinterlässt. 
+
+Wenn einer der Kämpfer sich nur verteidigen will, erhält er 6 Punkte Bonus, verursacht aber keinen Schaden, wenn er das höhere Ergebnis hat. 
+
+Für die Heilung würfelt die Spielerin einmal pro Woche mit einem ±W6. Dazu addiert sie 3 pro + in einer passenden Eigenschaft. Ist das Ergebnis größer oder gleich 0, dann heilt eine Wunde. Bei Betäubungsschaden kann die Spielerin einmal pro Stunde würfeln, statt nur einmal pro Woche. 
+
+### Beispiel
+
+*Tara (+ waffenlos 12, + geschickt) hat einen Taschendieb erwischt und will ihn ausschalten. Der Taschendieb muss auf seinen Beruf vertrauen (+ Taschendieb: 9). Tara wirft eine 4 und kommt so auf 17 (12 + 1 + 4). Der Taschendieb wirft eine 3 und landet bei 6 (9-3). Tara trifft also ihren Gegner mit einer Differenz von 11 punkten. Der Schaden reicht aus, um eine Wunde zu verursachen. Der Taschendieb hat nun also einen Abzug von 3 auf alle seine Proben, bis er die Wunde geheilt hat.*
+
+Nichtspielercharaktere improvisieren
+------------------------------------
+
+Wenn du schnell einen NSC brauchst, reicht erstmal sein Name und eine ungefähre Vorstellung von ihm. Verlangt die Situation Werte, dann gib ihm einfach entweder einen passenden Beruf (auf 9 oder 12) oder eine Fertigkeit (auf 12 oder 15). 
+
+Schreib dir dann nach der Szene den Namen und die festgelegten Werte auf, und gib ihm zusätzlich noch ein Zitat und ein paar beschreibende Worte. 
+
+### Beispiel
+
+*Noswick. Unorganisierter Gebrauchtwarenhändler (+ Beruf: 9). „Kann sein, dass ich das habe. Lasst mich mal schauen…“.*

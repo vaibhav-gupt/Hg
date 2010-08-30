@@ -1,0 +1,153 @@
+Schild-Regeln (SiRe)
+====================
+
+Einleitung
+----------
+
+Das Schild-Modul ermöglicht es, dass in Kämpfen keiner der Beteiligten getroffen wird. 
+
+Wenn ein Charakter getroffen wird, aber die Differenz zwischen beiden Ergebnissen nicht *höher* als der Schildwert des Getroffenen ist, geht der Treffer in den Schild und verursacht keinen Schaden. 
+
+Dadurch werden Kämpfe etwas länger, die tödlichkeit ändert sich aber kaum. Außerdem haben die Kämpfer eine weitere Möglichkeit im Kampf, so dass Kämpfe etwas mehr Rampenlicht erhalten. 
+
+Gleichzeitig kann die Methode als Vorbild für andere Regeln genutzt werden. 
+
+Grundlagen
+----------
+
+Kämpfer können Schilde haben. Jeder Schild hat einen Schildwert (normalerweise zwischen 1 und 5), der zum tragen kommt, wenn er aktiv als Schild genutzt wird (und nicht etwa als zusätzliche Rüstung oder ähnliches). 
+
+Wenn nun ein Kämpfer mit Schild von seinem Gegner getroffen wird, die Differenz zwischen beiden Würfen aber nicht über dem Schildwert liegt, geht der Treffer in den Schild und verursacht keinen Schaden (kann allerdings optional den Schild beschädigen). 
+
+Liegt die Differenz über dem Schildwert, wird der Kämpfer mit der vollen Differenz getroffen, der Schild wurde also umgangen und ist vollkommen unwirksam. 
+
+Darin liegt auch der Unterschied zu einer Rüstung: Eine Rüstung wird bei jedem Treffer vom Schaden abgezogen. Eine sehr starke Waffe kann aber ein Rüstung fast unwirksam machen. Ein Schild dagegen ist nur wirksam, solange die Differenz nicht höher ist als der Schildwert. Dafür kommt auch eine starke Waffe nicht besser an dem Schild vorbei (solange sie den Schild nicht zerstört →  Option: Schaden am Schild). 
+
+Wenn in einem Kampf der Verteidiger einen Schild nutzt, trifft bei einem Gleichstand nicht mehr der Angreifer, sondern es wird niemand getroffen, selbst wenn der Schild nur einen Schildwert von Null hat. 
+
+Eine Begrenzung der Schildregeln ist, dass wenn ein Kämpfer einen Schild hat, er zwar seltener getroffen wird, ein durchgehender Treffer aber fast sicher eine Wunde verursacht. Um das aufzulösen, können Schilde auch einen gewissen zusätzlichen Rüstungsschutz bieten (Option: Schild bietet Schutz). 
+
+Normalerweise wird angenommen, dass ein Kämpfer mit einer Nahkampffertigkeit einen Schild führen kann. Wer sich zusätzlich die Fertigkeit „Schild“ nimmt, kann sie als unterstützende Fertigkeit nutzen, so dass jedes + in der Schildfertigkeit einen Punkt Bonus auf die Nahkampffertigkeit gibt (hier ist auch die Option Behinderung durch Schilde interessant). 
+
+### Schildwerte
+
+Ein paar Beispiele für Schildwerte
+
+* Buckler/Faustschild: 0 oder 1 – wird auf der Hand getragen. 
+
+* Armschild: 2 oder 3 – wird am Arm festgeschnallt, bzw. der Arm wird durch eine Schlaufe gezogen. Oft mit Wappen verziert. Meist aus Holz, Plastik oder Metall. 
+
+* Turmschild: 3 bis 6 – So groß wie der Kämpfer. Wurde z.B. von römischen Legionären genutzt („Schildkröte“, für Asterix-Leser – zeigt auch deutlich, was passiert, wenn Schaden am Schild miteinbezogen wird :) ). 
+
+Höher sollten die Schildwerte nur in Ausnahmefällen gehen, weil sie sonst Kämpfe extrem langwierig machen können (es sei denn, es wird die Option Behinderung durch Schild genutzt). 
+
+### Kosten des Schildes als persönliche Ausrüstung
+
+Da ein Schild effektiv den Fertigkeitswert für die Hälfte der Fälle um seinen Wert erhöht (wenn der Kämpfer getroffen würde), kostet er einen Strich pro 2 Punkte Schildwert (und damit 50% mehr als eine Waffe oder Rüstung, die einen Strich pro 3 Punkte kosten). 
+
+Ein Faustschild mit Schild 0 kostet nichts, aber er bedeutet, dass der Kämpfer nur eine Hand frei hat und schränkt so seine Freiheit im Kampf ein. 
+
+Für ein Dreieck kann ein Kämpfer also 
+
+* einen Holzschild (2), ein Kurzschwert (3) und eine gehärtete Lederrüstung (3) haben, oder 
+* den Holzschild (2), ein Schwert (4) und eine leichte Lederrüstung (2). Oder 
+* einen mittleren Turmschild (4), einen Dolch (2) und feste Lederkleidung (1). 
+
+### Option: Schaden am Schild
+
+Um zu berücksichtigen, dass Schilde beschädigt werden, wenn sie getroffen werden, kann ein Schild bei jedem Treffer durch eine Waffe, deren Schaden über dem Schildwert liegt, beschädigt werden und einen Punkt Schildwert verlieren. Bei extremen Unterschieden, z.B. Faktor 3, wird der Schild einfach zertrümmert. Wer versucht, mit einem Faustschild (1) eine Streitaxt (6) aufzuhalten, kann den Schild genau einmal nutzen. 
+
+### Option: Durchgehender Schaden
+
+Um dirchgehenden Schaden zu berücksichtigen haben wir zwei Möglichkeiten. 
+
+1. *Schaden bei stärkerer Waffe:* Bei stärkeren Waffen kann die Differenz zwischen Waffenschaden und Schildwert als Schaden durchgehen, wenn der Schild getroffen wird (Arm gebrochen o.ä.). Hinter dem Schild ist dabei allerdings noch die Rüstung, so dass meist wenig Schaden bleiben wird. 
+
+2. *Immer Erschöpfung:* Alternativ kann der Verteidiger immer ein Drittel des Schadens, der den Schild trifft, als Erschöpfung erhalten. Wird der Schild zertrümmert, erhält der Verteidiger allerdings dieses Drittel als Schaden (sonst würde ein Laserschwert von einem Holzschild eine Runde lang vollständig abgehalten). 
+
+#### Beispiel
+
+Eine Streitaxt (Schaden 6), die einen stabilen Holzschild erwischt (Schild 3), verursacht dann 3 Punkte Schaden (von denen nochmal die Rüstung abgezogen wird). Der Schild verliert einen Punkt Schildwert. 
+
+Ohne Schild wären es 6 Punkte Schaden plus Differenz, also hier bis zu 9 Punkte (ansonsten wäre der Schlag um den Schild herum gegangen). 
+
+Ein Laserschwert (Schaden 36), das einen schweren Legionärsschild erwischt (Schild 6), zerschneidet den Schild glatt und verursacht zusätzlich 30 Punkte Schaden. 
+
+In dem Fall macht der Schild für den Legionär also nicht mehr wirklich viel aus. Er hat in jedem Fall eine schwere Wunde, wenn ihn das Laserschwert irgendwie erwischt. 
+
+Mit Erschöpfung statt Schaden hätte der Träger des Holzschildes 2 Punkte Erschöpfung erhalten. Der Legionär hätte 12 Punkte Schaden genommen.
+
+### Option: Behinderung durch Schilde
+
+Falls euch Schilde zu mächtig erscheinen, könnt ihr festlegen, dass sie Mali auf den Fertigkeitswert geben. Es gibt grundlegend zwei Möglichkeiten: 
+
+* *Viele sollen Schilde nutzen*: Der Schildnutzer erhält ein Drittel des Schildwertes als Malus auf den Fertigkeitswert. Die Option macht es für jeden sinnvoll, einen Schild zu nutzen, solange er an einen herankommt. Schilde mit Wert 2 oder 5 sind hier weniger sinnvoll als mit Wert 1 oder 4, also wird es sie nicht geben. Der einzige wirkliche Nachteil eines Schildes ist hier, dass die zweite Hand belegt ist. 
+
+* *Schilde sollen nur für diejenigen sinnvoll sein, die damit umgehen können*: Um das zu erreichen, könnt ihr eine Behinderung gleich dem Schildwert festlegen, die durch den Bonus teilweise ausgeglichen wird, den die Schildfertigkeit als unterstützende Fertigkeit geben kann. Hiermit ist ein Schild nur noch für diejenigen nützlich, die eine Schildfertigkeit haben, und ein Schild der mehr als doppelt so stark ist wie der Charakter Plusse in der Schildfertigkeit hat, behindert mehr als er nutzt (weil mit der Fertigkeit auch die Chance sinkt, dass man seinen Gegner trifft). 
+
+### Option: Schild bietet Schutz
+
+Um zu berücksichtigen, dass ein Schild meist die verletzlichsten Bereiche unerreichbar macht, kann er auch einen gewissen Rüstungsschutz bieten. 
+
+Hierbei gilt der gesamte Schildwert als zusätzlicher Schutz. Damit sind Schilde wie Rüstungen, die wenn die Differenz niedriger ist als die Differenz den Treffer ganz schlucken. Hier sollte Behinderung durch den Schild eingerechnet werden, um zu verhindern, dass Schilde zu stark werden. 
+
+Wenn ihr die Option nutzt, verlängern Schilde den Kampf deutlich. 
+
+#### Beispiel
+
+Nehmen wir noch einmal den Holzschild (Schild 3) und die Streitaxt (Schaden 6). Wenn der Angreifer mit 4 Punkten Differenz trifft, verursacht er 7 Punkte Schaden, was bei einem langen Kettenhemd (Schutz 4) keine Wunde bedeutet (es gehen nur 3 durch). 
+
+Gibt der Schild keine Rüstung, verursacht der Treffer 10 Punkte Schaden. 
+
+### Option: Komplettrüstungen: Harmonisierung von Rüstung und Schild
+
+Wenn Schilde bei einem Treffer auch Schutz bieten, kann eine weitere Art Rüstung eingeführt werden: Wenn der Schutz der Rüstung über dem Schaden der waffe liegt, bleibt der Treffer vollständig in der Rüstung stecken, egal wie gut der Treffer war. 
+
+Eine Rüstung kann auch einfach einen Teil ihres Schutzes als Komplettschutz haben (Beispiel: Schutz 4/1: Ein kleines Messer mit Schaden 1 kann diese Rüstung nie durchdringen). 
+
+Wenn mit Trefferzonen gearbeitet wird, kann das auch allgemein für Rüstungen gelten. Wer sie umgehen will, muss auf eine ungerüstete Stelle zielen (Malus aus dem Fokusmodul Kampf, z.B. 3 für Arm oder Bein), umgeht dafür die Rüstung, erhält aber nicht den Schadensbonus, den er nach dem Fokusmodul Kampf normalerweise erhalten würde. 
+
+Beispiel
+--------
+
+### Nur die Grundlagen
+
+Während die Marines sich für die Schlacht bereit machten, waren die Medics bei ihrer letzten Einsatzbesprechung. Nachdem jegliche vollautomatischen Systeme seit dem letzten Sturm der Zat ausgefallen waren, legten sie sich gegenseitig ihre Rüstungen und Schilde an. 
+
+„Mach ja, dass du zurückkommst, Mark“ flüsterte Dorna ihrem Gefährten ins Ohr, während sie den Rückenpanzer festzog. „Ich will dich heute Nacht wohlbehalten bei mir wissen“. Ihr Gefährte schnaubte nur. Als seine Panzerung fertig war, warf er ihr ihren Schild zu. „Pass lieber selbst auf dich auf. Wäre eine riesen Verschwendung, wenn irgendeins von diesen mutierten Viechern seine Krallen in dich stecken würde!“
+
+Minuten später verflog die gute Laune schlagartig, als die Reihe Bodentruppen um die Meds von wie aus dem Nichts erscheinenden Monstern niedergemacht wurde und nach Augenblicken kaum mehr 10 der Soldaten standen – zusammen mit den 5 Meds. Dorna packte ihren Schild fester, und Marks blöde Sprüche erhielten eine ganz andere Bedeutung, als die Krallen einer der Bestien aus dem Rücken des Soldaten vor ihr ragten, kurz bevor das Biest sie auseinander zog und den Soldaten in Stücke riss. 
+
+Die Krallen zuckten wieder vor, mit Blut und Fleischbrocken bedeckt. Dorna riss ihren Schild in die Höhe. Ihre Panzerung versteifte sich. 
+
+*Dorna hat aus der Grundausbildung Nahkampf 9 und Schild 12 (+). Ihr Schild hat zusammen mit der unterstützenden Rüstung einen Schildwert von 6. Der Zatling hat einen Nahkampfwert von 15 und seine Krallen verursachen 9 Punkte Schaden.*
+
+*Dorna versucht nur sich zu verteidigen, erhält also 6 Punkte Bonus auf ihren Wert.*
+
+*Der Zatling wirft eine 6, kommt als auf 21, Dorne wirft eine 1, kommt also mit einem Punkt Bonus aus ihrer Schildfertigkeit und weiteren 6 Punkten weil sie sich nur verteidigt auf 18. Damit hat der Zatling 3 Punkte Differenz, nicht mehr als Dornas Schild.*
+
+Die Krallen des Zatlings kreischten über Dornas Plastschild und die Wucht des Aufschlages ließ sie zurücktaumeln. Panik brannte in ihren Adern und reiner Instinkt ließ sie den Schild erneut hochreißen, als der Zatling sich wieder auf sie stürzte. 
+
+*Der Zatling muss 10 Punkte besser würfelt als Dorna (d.h. er braucht eine 6 und sie muss eine 5 würfeln, oder er zwei 6-er und sie höchstens eine 2 oder sie zwei 5-er und er gerade), also hat sie gute Chancen, den Angriffen etwa 16 Runden lang standzuhalten. Zumindest solange sich nur ein Zatling auf sie stürzt. Würde die Option durchgehender Schaden mit Erschöpfung bei Treffern auf den Schild genutzt, würde sie jede Runde drei Erschöpfung erhalten und bereits nach 4 Runden zusammenbrechen, zumindest ohne Kampfdrogen.*
+
+Am Abend lagen Dorna und Mark auf der improvisierten Krankenstation und behandelten mechanisch und noch immer im Schock ihre völlig überanstrengten Muskeln. Von den 5 Meds hatten drei dem Ansturm der Zat lange genug widerstanden, bis die weiter hinten laufenden Soldaten die Zat niedergemacht hatten. Aus den 30 Soldaten in ihrer Schlachtreihe lebten nur mehr zwei, der Rest war binnen weniger Sekunden gefallen. 
+
+*Notiz: Reine Verteidigung und ein wirklich guter Schild haben hier genug Zeit schinden können. Ohne Verstärkung wären sie allerdings einer nach dem anderen niedergemacht worden.*
+
+### Mit allen Optionen und vollem Malus
+
+Gallum Misbonum führt seine Einheit gegen einige verbleibende axtschwingende Gallier. Mitten in einem schönen Gemetzel bricht plötzlich seine vordere Schlachtreihe zusammen, und er sieht sich alleine einem dieser Wilden gegenüber. 
+
+Seine Legionäre um ihn werden plötzlich unwichtig, als ihm ein brüllender Wilder entgegenstürmt, die Axt zum Schlag erhoben und eine Wut in den Augen, die keiner der Sklaven in der Arena auch nur zu imitieren vermochte. 
+
+Gallums Atmung setzt aus und seine Gedanken erstarren, doch sein Körper besinnt sich auf den jahrelangen Drill und sein Arm bringt wie von selbst seinen schweren Turmschild in Stellung. Der Wilde springt und Gallum hebt hinter dem Schild sein Gladius. 
+
+*Gallum hat einen effektiven Nahkampfwert von 15 und eine Schildfertigkeit von 15 (+). Sein Schild hat einen Schildwert von 4, verursacht aber auch 4 Punkte Behinderung, so dass sein Fertigkeitswert mit dem Bonus aus der Schildfertigkeit effektiv bei 12. Außerdem bietet seine Rüstung 4 Punkte Schutz. Sein Gladium verursacht 3 Punkte Schaden.*
+
+*Sein Kontrahent hat einen effektiven Nahkampfwert von 18 und seine Axt verursacht 6 Punkte Schaden. Zusätzlich bietet seine schwere Kleidung einen Schutz von 1.*
+
+*Gallum wirft eine 1, sein Kontrahent eine 3. Sie kommen also auf 11 und 15, so dass Gallums Gegner gerade eine Differenz von 4 Punkten erzielt. Der Schlag trifft damit auf den Schild. Von den 6 Punkten Schaden der Axt gehen 4 in den Schild und senken seinen Wert um eins. 2 Punkte gehen durch, werden aber von Gallums Rüstung aufgefangen.*
+
+Die Axt trifft kreischend auf den Schild und Momente lang kann Gallum nichts anderes machen als sich mit ganzem Gewicht gegen den Hieb zu stemmen. Trotz allem lässt ihn die Wucht des Schlages zurücktaumeln und in seinem Schildarm pocht ein diffuser Schmerz. Doch nach zwei Atemzügen bemerkt er, dass er noch am Leben ist und wappnet sich für den nächsten Angriff. Es konnte nicht mehr lange dauern, bis seine Legionäre sich auf den Wilden stürzen würden. 
+
+Als es am gleichen Tag langsam dunkel wird, sitzt Gallum in seinem Zelt und lässt seinen Arm von einer Sklavin versorgen. Der Schild hat schmerzhafte blaue Flecken hinterlassen, und er würde sich nicht vorstellen wollen, wie es ihm ohne Schild ergangen wäre.
