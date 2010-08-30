@@ -65,61 +65,45 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="140" YPOS="60.1578947368421" WIDTH="200" HEIGHT="514.837865735423" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="726" gHeight="514.84" LAYER="0" BOOKMARK="0" NEXTITEM="1" BACKITEM="-1">
             <ITEXT CH="O’Bahn"/>
             <para PARENT="Titel"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Motivation"/>
+            <ITEXT CH="Mo­ti­va­ti­on"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Retsam Adoy, ein faltiger alter Kunstsammler, hat eine Expedition zusammengestellt, die auf dem Planeten O'Bahn im Sixilac-Sektor einige wertvolle Artefakte bergen soll. Als Belohnung winken einige zehntausend credits und natürlich Folgeaufträge. "/>
-            <para/>
-            <ITEXT CH="Der Planet ist spärlich bewachsen, es gibt kein intelligentes Leben und die Tierwelt besteht weitgehend aus Pflan­zen­fres­sern; leicht verdientes Geld. "/>
-            <para/>
-            <ITEXT CH="Die SC treffen sich an Bord des Raumschiffs T'Namada, das unter dem Kommando von Kapitän K'Caj steht, einem Flauschianer (pelzige Fellkugel ohne Arme, mit einem Durchmesser von 50 Zentimeter, telekinetischen Fähigkeiten und nur halb so schnell wie ein Mensch). "/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <ITEXT CH="Vorbesprechung"/>
+            <ITEXT CH="Ret­sam Adoy, ein fal­ti­ger al­ter Kunst­samm­ler, hat ei­ne Ex­pe­di­ti­on zu­sam­men­ge­stellt, die auf dem Pla­ne­ten O'Bahn im Si­xi­lac-Sek­tor ei­ni­ge wert­vol­le Ar­te­fak­te ber­gen soll. Als Be­loh­nung win­ken ei­ni­ge zehn­tau­send cre­dits und na­tür­lich Fol­ge­auf­trä­ge. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Der Pla­net ist spär­lich be­wach­sen, es gibt kein in­tel­li­gen­tes Le­ben und die Tier­welt be­steht weit­ge­hend aus Pflan­zen­fres­sern; leicht ver­dien­tes Geld. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Die SC tref­fen sich an Bord des Raum­schiffs T'Na­ma­da, das un­ter dem Kom­man­do von Ka­pi­tän K'Caj steht, ei­nem Flau­schia­ner (pel­zi­ge Fell­ku­gel oh­ne Ar­me, mit ei­nem Durch­mes­ser von 50 Zen­ti­me­ter, te­le­ki­ne­ti­schen Fä­hig­kei­ten und nur halb so schnell wie ein Mensch). "/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Vor­be­spre­chung"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Die T'Namada fliegt ohne offiziellen Navigator der Gilde und im Sensorschatten, um einer Entdeckung durch den Zoll und der damit verbundenen Steuer zu ent­ge­hen."/>
-            <para/>
-            <ITEXT CH="K'Car hält die Vorbesprechung in der Kantine des Schiffes. Die Artefakte befinden sich, laut Retsam Adoy, in den Ruinen eines alten und längst verlassenen Tempels. Die Zivilisation, die den Tempel erbaute, ist lange untergegangen und vom Antlitz der Welt verschwunden. Sagte zumindest ein Mitglied der Sternenfahrergilde, deren Navigatoren den bekannten Weltraum bereisen und stets in neue Gebiete vordringen, um diese zu er­kun­den."/>
-            <para/>
-            <ITEXT CH="O’Bahn"/>
+            <ITEXT CH="Die T'Na­ma­da fliegt oh­ne of­fi­zi­el­len Na­vi­ga­tor der Gil­de und im Sen­sor­schat­ten, um ei­ner Ent­de­ckung durch den Zoll und der da­mit ver­bun­de­nen Steu­er zu ent­ge­hen."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="K'Car hält die Vor­be­spre­chung in der Kan­ti­ne des Schif­fes. Die Ar­te­fak­te be­fin­den sich, laut Ret­sam Adoy, in den Rui­nen ei­nes al­ten und längst ver­las­se­nen Tem­pels. Die Zi­vi­li­sa­ti­on, die den Tem­pel er­bau­te, ist lan­ge un­ter­ge­gan­gen und vom Ant­litz der Welt ver­schwun­den. Sag­te zu­min­dest ein Mit­glied der Ster­nen­fah­rer­gil­de, de­ren Na­vi­ga­to­ren den be­kann­ten Welt­raum be­rei­sen und stets in neue Ge­bie­te vor­drin­gen, um die­se zu er­kun­den."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="O’Bahn"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="O’Bahn ist ein kleiner und heißer Dschungelplanet mit dichter Vegetation. Die Landefähre muss daher auf einer hohen Felsenklippe landen, etwa zwei Tage Fußmarsch vom Tempel entfernt. Entgegen der Angaben des Auftraggebers, ist im dichten Dschungel ein stetes Fauchen, Fiepen, Schreien und Krächzen zu hören. Der Dschungel ist voller Leben und einiges davon hört sich nach Raubtier an. Die Tierwelt hält sich jedoch möglichst außerhalb des Sichtfelds der Spielercharaktere auf."/>
-            <para/>
-            <ITEXT CH="Der Tempel"/>
+            <ITEXT CH="O’Bahn ist ein klei­ner und hei­ßer Dschun­gel­pla­net mit dich­ter Ve­ge­ta­ti­on. Die Lan­de­fäh­re muss da­her auf ei­ner ho­hen Fel­sen­klip­pe lan­den, et­wa zwei Ta­ge Fuß­marsch vom Tem­pel ent­fernt. Ent­ge­gen der An­ga­ben des Auf­trag­ge­bers, ist im dich­ten Dschun­gel ein ste­tes Fau­chen, Fie­pen, Schrei­en und Kräch­zen zu hö­ren. Der Dschun­gel ist vol­ler Le­ben und ei­ni­ges da­von hört sich nach Raub­tier an. Die Tier­welt hält sich je­doch mög­lichst au­ßer­halb des Sicht­felds der Spie­ler­cha­rak­tere auf."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Der Tem­pel"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Nach zwei Tagen Fußmarsch erreicht die Expedition den Tempel. Es handelt sich um eine kleine Steinpyramide, die von Lianen, Moosen und Flechten bewachsen ist. Es gibt nur einen sichtbaren Eingang, der von einer schweren Steinplatte verschlossen wird. Berührt jemand die Steinplatte, fährt links an der Seite eine Vertäfelung zur Seite und ein Sensorfeld mit unbekannten Schriftzeichen wird sichtbar. "/>
-            <para/>
-            <ITEXT CH="Das Feld verfügt über Energie und ist funktionsfähig. Die Schriftzeichen zu entschlüsseln ist eine leichte Aufgabe (9), ein einfaches mathematisches Rätsel handelt: &quot;2"/>
-            <nbspace/>
-            <ITEXT CH="+"/>
-            <nbspace/>
-            <ITEXT CH="2"/>
-            <nbspace/>
-            <ITEXT CH="=&quot;. Die Türe selbst kann nur mit schweren Waffen geknackt werden. Bei einem Akt der Gewalt fährt eine Selbstschussanlage aus der Decke (FW: 15, Schaden 8). Das geschieht auch, sobald jemand drei mal hintereinander die falsche Antwort ein­tipp­t."/>
-            <para/>
-            <ITEXT CH="Das Ho­lo­gramm"/>
+            <ITEXT CH="Nach zwei Ta­gen Fuß­marsch er­reicht die Ex­pe­di­ti­on den Tem­pel. Es han­delt sich um ei­ne klei­ne Stein­py­ra­mi­de, die von Lia­nen, Moo­sen und Flech­ten be­wach­sen ist. Es gibt nur einen sicht­ba­ren Ein­gang, der von ei­ner schwe­ren Stein­plat­te ver­schlos­sen wird. Be­rührt je­mand die Stein­plat­te, fährt links an der Sei­te ei­ne Ver­tä­fe­lung zur Sei­te und ein Sen­sor­feld mit un­be­kann­ten Schrift­zei­chen wird sicht­bar. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Das Feld ver­fügt über Ener­gie und ist funk­ti­ons­fä­hig. Die Schrift­zei­chen zu ent­schlüs­seln ist ei­ne leich­te Auf­ga­be (9), ein ein­fa­ches ma­the­ma­ti­sches Rät­sel han­delt: &quot;2_+_2_=&quot;. Die Tü­re selbst kann nur mit schwe­ren Waf­fen ge­knackt wer­den. Bei ei­nem Akt der Ge­walt fährt ei­ne Selbst­schuss­an­la­ge aus der De­cke (FW: 15, Scha­den 8). Das ge­schieht auch, so­bald je­mand drei mal hin­ter­ein­an­der die falsche Ant­wort ein­tippt."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Das Ho­lo­gramm"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Vom Eingang aus gelangt man sofort in eine große und hohe Zentralhalle. Im Zentrum der Halle flammt bei Betreten das Hologramm eines menschenähnlichen Wesens auf. Es trägt eine helle Robe und spricht in einer fremden Sprache (extrem schwer zu verstehen: 18). "/>
-            <para/>
-            <ITEXT CH="Das We­sen ist ein programmierter Waffenverkäufer, der zwei zentrale Fragen stellt: &quot;Möchten Sie eine Aktivierung der planetaren Waffensuchsysteme zur Demonstration? Wie viele Einheiten sollen wir liefern?&quot; Bei einer versehentlichen Aktivierung (das Hologramm könnte ein Wort als &quot;Ja&quot; auslegen) wird die Expedition auf dem Rückweg zur Landefähre von drei schwebenden Waffenkugeln mit Laserfeuer unter Beschuss genommen (FW: 12, Schaden: 4, Wundschwelle: 4, Rüstung: 3). Bestellungen verlaufen im Sand:  Die Waffenhändler haben sich bei ihrer letzten Demonstration selbst aus­ge­löscht."/>
-            <para/>
-            <ITEXT CH="Ver­bor­ge­nes Lager"/>
+            <ITEXT CH="Vom Ein­gang aus ge­langt man so­fort in ei­ne große und ho­he Zen­tral­hal­le. Im Zen­trum der Hal­le flammt bei Be­tre­ten das Ho­lo­gramm ei­nes men­schen­ähn­li­chen We­sens auf. Es trägt ei­ne hel­le Ro­be und spricht in ei­ner frem­den Spra­che (ex­trem schwer zu ver­ste­hen: 18). "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Das We­sen ist ein pro­gram­mier­ter Waf­fen­ver­käu­fer, der zwei zen­tra­le Fra­gen stellt: &quot;Möch­ten Sie ei­ne Ak­ti­vie­rung der pla­ne­ta­ren Waf­fen­such­sys­te­me zur De­mons­tra­ti­on? Wie vie­le Ein­hei­ten sol­len wir lie­fern?&quot; Bei ei­ner ver­se­hent­li­chen Ak­ti­vie­rung (das Ho­lo­gramm könn­te ein Wort als &quot;Ja&quot; aus­le­gen) wird die Ex­pe­di­ti­on auf dem Rück­weg zur Lan­de­fäh­re von drei schwe­ben­den Waf­fen­ku­geln mit La­ser­feu­er un­ter Be­schuss ge­nom­men (FW: 12, Scha­den: 4, Wund­schwel­le: 4, Rüs­tung: 3). Be­stel­lun­gen ver­lau­fen im Sand:  Die Waf­fen­händ­ler ha­ben sich bei ih­rer letz­ten De­mons­tra­ti­on selbst aus­ge­löscht."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ver­bor­ge­nes La­ger"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Hinter dem Hologramm befindet sich eine weitere Steinplatte, die bei Berührung zur Seite gleitet und die Energieeinheit freigibt. Sämtliche Geräte sind Techno-Artefakte. Es können die Energieeinheit (handlicher Nukleargenerator), das Steuerdisplay (mit Multi-Interface) und das Holoprogramm (passt sich in der Gestalt ungefähr den Besuchern an) entnommen werden. Der Ausbau ohne Beschädigung ist eine fordernde Aufgabe (12)."/>
-            <para/>
+            <ITEXT CH="Hin­ter dem Ho­lo­gramm be­fin­det sich ei­ne wei­te­re Stein­plat­te, die bei Be­rüh­rung zur Sei­te glei­tet und die Ener­gie­ein­heit frei­gibt. Sämt­li­che Ge­rä­te sind Tech­no-Ar­te­fak­te. Es kön­nen die Ener­gie­ein­heit (hand­li­cher Nu­klear­ge­ne­ra­tor), das Steu­er­dis­play (mit Mul­ti-In­ter­face) und das Ho­lo­pro­gramm (passt sich in der Ge­stalt un­ge­fähr den Be­su­chern an) ent­nom­men wer­den. Der Aus­bau oh­ne Be­schä­di­gung ist ei­ne for­dern­de Auf­ga­be (12)."/>
+            <para PARENT="Default Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="422" YPOS="60.1600290014185" WIDTH="200" HEIGHT="514.837865735424" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="263" gYpos="0.00213426457644772" gWidth="726" gHeight="514.84" LAYER="0" BOOKMARK="0" NEXTITEM="2" BACKITEM="0">
@@ -128,61 +112,62 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="702" YPOS="60.1600290014185" WIDTH="200" HEIGHT="514.837865735424" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="526" gYpos="0.00213426457644772" gWidth="726" gHeight="514.84" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="1">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="141.669172932331" YPOS="90.135338345865" WIDTH="197.330827067669" HEIGHT="189.864661654135" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="KartedesTempels" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="Adobe RGB" EPROF="" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.331 0 197.331 0 197.331 0 197.331 0 197.331 189.865 197.331 189.865 197.331 189.865 197.331 189.865 0 189.865 0 189.865 0 189.865 0 189.865 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.331 0 197.331 0 197.331 0 197.331 0 197.331 189.865 197.331 189.865 197.331 189.865 197.331 189.865 0 189.865 0 189.865 0 189.865 0 189.865 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="141.669172932331" YPOS="90.135338345865" WIDTH="197.330827067669" HEIGHT="189.864661654135" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="KartedesTempels" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="Adobe RGB" EPROF="" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.331 0 197.331 0 197.331 0 197.331 0 197.331 189.865 197.331 189.865 197.331 189.865 197.331 189.865 0 189.865 0 189.865 0 189.865 0 189.865 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.331 0 197.331 0 197.331 0 197.331 0 197.331 189.865 197.331 189.865 197.331 189.865 197.331 189.865 0 189.865 0 189.865 0 189.865 0 189.865 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="140" YPOS="695.43789474" WIDTH="200" HEIGHT="514.8378657" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="5" BACKITEM="-1">
-            <ITEXT CH="Flyer leiten"/>
+            <ITEXT CH="Flyer lei­ten"/>
             <para PARENT="Titel"/>
-            <ITEXT CH="Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das irgendwann wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Flyerbuch in die Bresche springen. "/>
-            <para/>
-            <ITEXT CH="Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Für dich als SL enthält es ein Grundszenario mit Erklärung der Grundlagen (das hältst du gerade in der Hand). Für die Spieler hat es vorgefertigte Charaktere und Infoflyer mit versiegelten Zusatzszenarien. "/>
-            <para/>
-            <ITEXT CH="Die Szenarien sind für erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. "/>
-            <para/>
-            <ITEXT CH="Ablauf"/>
+            <ITEXT CH="Wann hast du zu­letzt ge­dacht, „jetzt könn­ten wir toll spie­len“, aber ge­ra­de kein Aben­teu­er oder kei­ne Cha­rak­tere pa­rat ge­habt? Soll­te dir das ir­gend­wann wie­der pas­sie­ren (viel­leicht ge­ra­de jetzt?), dann lass doch die­ses Flyer­buch in die Bre­sche sprin­gen. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Es ist ein In­stant-Rol­len­spiel für Cons und kur­ze Run­den. Für dich als SL ent­hält es ein Grunds­ze­na­rio mit Er­klä­rung der Grund­la­gen (das hältst du ge­ra­de in der Hand). Für die Spie­ler hat es vor­ge­fer­tig­te Cha­rak­tere und In­fof­lyer mit ver­sie­gel­ten Zu­satz­sze­na­ri­en. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Die Sze­na­ri­en sind für er­fah­re­ne SL und 2-5 an­fan­gen­de bis er­fah­re­ne Spie­ler ge­dacht. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ab­lauf"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Du liest diesen Flyer (Diese Seite und das Grundszenario auf der Rückseite), während die Spieler die Infoteile ihrer Flyer lesen und ihre Charakterkarten tauschen, bis sie diejenigen haben, die sie wollen (im Zweifel gibt es hier sicher noch mehr). Ist ein Charakter doppelt, dann gebt ihm einfach einen neuen Namen :) "/>
-            <para/>
-            <ITEXT CH="Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (sie sind auf der versiegelten Seite ihrer Infoflyer). Du brichst das Siegel und liest sie, während die Spieler was zu trinken besorgen. Ihr fangt mit der ersten Szene des Grundszenarios an. "/>
-            <para/>
-            <ITEXT CH="Grundregeln"/>
+            <ITEXT CH="Du liest die­sen Flyer (Die­se Sei­te und das Grunds­ze­na­rio auf der Rück­sei­te), wäh­rend die Spie­ler die In­fo­tei­le ih­rer Flyer le­sen und ih­re Cha­rak­ter­kar­ten tau­schen, bis sie die­je­ni­gen ha­ben, die sie wol­len (im Zwei­fel gibt es hier si­cher noch mehr). Ist ein Cha­rak­ter dop­pelt, dann gebt ihm ein­fach einen neu­en Na­men :) "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Dann le­gen die Spie­ler die Zu­satz­sze­na­ri­en da­zu, die sie spie­len wol­len (sie sind auf der ver­sie­gel­ten Sei­te ih­rer In­fof­lyer). Du brichst das Sie­gel und liest sie, wäh­rend die Spie­ler was zu trin­ken be­sor­gen. Ihr fangt mit der ers­ten Sze­ne des Grunds­ze­na­ri­os an. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Grund­re­geln"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Als Regelwerk verwenden Flyerbücher das freie 1w6-Sys­tem. Die Charaktere haben eine Reihe Eigenschaften, Berufe, Fertigkeiten und Merkmale, die sie von der Masse ab­he­ben. Berufe und Fertigkeiten haben einen Zah­len­wer­t. Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche). "/>
-            <para/>
-            <ITEXT CH="Eine Eigenschaft ist z.B. Stärke, intelligenz oder Stolz. Ein Beispielberuf ist Jäger, während tanzen eine Fertigkeit ist. Ein Merkmal könnte Reich (+) oder Süchtig (-) sein."/>
+            <ITEXT CH="Als Re­gel­werk ver­wen­den Flyer­bü­cher das freie 1w6-Sys­tem. Die Cha­rak­tere ha­ben ei­ne Rei­he Ei­gen­schaf­ten, Be­ru­fe, Fer­tig­kei­ten und Merk­ma­le, die sie von der Mas­se ab­he­ben. Be­ru­fe und Fer­tig­kei­ten ha­ben einen Zah­len­wert. Ei­gen­schaf­ten und Merk­ma­le ha­ben nur Plus­se (+: Stär­ke) oder Mi­nus­se (-: Schwä­che). "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ei­gen­schaf­ten wä­ren Ge­schick, In­tel­li­genz oder Stolz. Tisch­le­rin wä­re ein Be­ruf, Waf­fen­los ei­ne Fer­tig­keit. Merk­ma­le wä­ren Reich (+), Süch­tig (-) oder Gu­tes Ge­dächt­nis (+)."/>
             <para PARENT="Beispiel"/>
-            <ITEXT CH="Proben"/>
+            <ITEXT CH="Pro­ben"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Wenn ihr wis­sen woll, ob ein Cha­rak­ter et­was schafft, könnt ihr auf einen passenden Wert würfeln. Dafür schaut ihr, ob er ei­ne sei­ner Fer­tig­kei­ten oder Be­ru­fe euch pas­send er­scheint.. Hat er keinen passenden Wert, dann nehmt einfach 3. Danach schaut ihr die Eigenschaften des Charakters an. Nutzt er eine Fertigkeit als Wert, erhält er für jedes + in einer zur Probe passenden Eigenschaft einen Punkt Bo­nus. Nutzt er einen Beruf, erhält er nur einen Punkt Bonus pro + in der höchsten pas­sen­den Eigenschaft. "/>
-            <para/>
-            <ITEXT CH="Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, dann zieht ihr sie ab (so zu würfeln heißt ±W6). Wenn das Ergebnis mindestens der Schwierigkeit der Probe entspricht (9 ist einfach, 12 fordernd, 15 schwer), ge­lingt die Probe. Die Dif­fe­renz zur Schwie­rig­keit gibt an, wie gut die Pro­be ge­ling­t. "/>
-            <para/>
-            <ITEXT CH="Tara will eine Trage bauen. Sie ist Tischlerin (Beruf [Tischlerin]: 9) und sehr geschickt (+ geschickt). Sie erhält also einen Punkt Bonus auf ihren Beruf und ist damit bei 10 (9 plus 1). Die SL legt fest, dass ein Floß zu bauen einfach ist, al­so ei­ne Schwierigkeit von 9 hat. Taras Spielerin würfelt und erhält eine 1. 1 ist ungerade, wird also abgezogen, so dass Tara auf 9 kommt (10 mi­nus 1) und die Probe gerade so schafft."/>
+            <ITEXT CH="Wenn ihr wis­sen woll, ob ein Cha­rak­ter et­was schafft, könnt ihr es aus­wür­feln. Da­für schaut ihr, ob ei­ne sei­ner Fer­tig­kei­ten oder Be­ru­fe euch pas­send er­scheint. Hat er kei­nen pas­sen­den Wert, dann nehmt ein­fach 3. Da­nach schaut ihr die Ei­gen­schaf­ten des Cha­rak­ters an. Nutzt er ei­ne Fer­tig­keit als Wert, er­hält er für je­des + in ei­ner zur Pro­be pas­sen­den Ei­gen­schaft einen Punkt Bo­nus. Nutzt er einen Be­ruf, er­hält er nur einen Punkt Bo­nus pro + in der höchs­ten pas­sen­den Ei­gen­schaft. Un­ter­stüt­zen ihn an­de­re, die  pas­sen­de Fer­tig­kei­ten oder Be­ru­fe ha­ben, er­hält er pro Un­ter­stüt­zer einen wei­te­ren Punkt Bo­nus. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Nun werft ihr einen W6 (sechs­sei­ti­gen Wür­fel). Ist die Au­gen­zahl ge­ra­de, dann ad­diert ihr sie zu eu­rem Wert. Ist sie un­ge­ra­de, zieht ihr sie ab (so wür­feln heißt ±W6). Wenn das Er­geb­nis min­des­tens der Schwie­rig­keit der Pro­be ent­spricht (9 ist ein­fach, 12 for­dernd, 15 schwer), ge­lingt die Pro­be. Die Dif­fe­renz zur Schwie­rig­keit gibt an, wie gut die Pro­be ge­lingt. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ta­ra will ei­ne Tra­ge bau­en. Sie ist Tisch­le­rin (Be­ruf [Tisch­le­rin]: 9) und sehr ge­schickt (+ ge­schickt). Sie er­hält al­so einen Punkt Bo­nus auf ih­ren Be­ruf und ist da­mit bei 10. Die SL legt fest, dass ei­ne Tra­ge bau­en ein­fach ist (Schwie­rig­keit 9). Ta­ras Spie­le­rin wür­felt  ei­ne 1. 1 ist un­ge­ra­de und wird ab­ge­zo­gen. Ta­ra kommt auf 9 (10 mi­nus 1). Sie schafft die Pro­be al­so ge­ra­de so."/>
             <para PARENT="Beispiel"/>
-            <ITEXT CH="Wettstreite"/>
+            <ITEXT CH="Wett­strei­te"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Treten zwei Charaktere gegeneinander an, dann würfeln einfach beide wie bei einer Probe. Wer das höhere Ergebnis hat, gewinnt den Wettstreit. Die Differenz zwischen beiden Werten gibt an, wie deutlich er gewinnt."/>
-            <para/>
-            <ITEXT CH="Kampf"/>
+            <ITEXT CH="Tre­ten zwei Cha­rak­tere ge­gen­ein­an­der an, dann wür­feln ein­fach bei­de wie bei ei­ner Pro­be. Wer das hö­he­re Er­geb­nis hat, ge­winnt den Wett­streit. Die Dif­fe­renz zwi­schen bei­den Wer­ten gibt an, wie deut­lich er ge­winnt."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Kampf"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Für den Kampf haben Charaktere Waffen, Rüstungen und eine Wundschwelle. Im Nahkampf würfeln einfach beide Beteiligten auf einen passenden Wert. Wer das bessere Ergebnis erzielt, trifft seinen Gegner. Bei Gleichstand trifft der Angreifer. Im Fernkampf würfelt nur der Angreifer (Schwie­rig­keit: 12 bis 5m, 15 bis 50m, +3 für erschwerendes). Hat er Er­fol­g, trifft er. Der Ge­trof­fe­ne nimmt Scha­den in Hö­he der er­ziel­ten Dif­fe­renz plus der Waf­fe mi­nus sei­ner Rüs­tung. Liegt dieser Schaden über sei­ner Wundschwelle, dann er­hält er eine Wunde, die alle Proben um drei Punkte erschwert, bis sie geheilt ist. "/>
-            <para/>
-            <ITEXT CH="Der Wert der Wundschwelle liegt meist zwischen 3 und 5, der Schaden von Waffen und der Schutz von Rüstungen zwischen 1 (Dolch/Dar­t/Stoff) und 8 (Ax­t/Ge­wehr/Plat­te). Wenn einer der Kämpfer sich nur verteidigen will, erhält er 6 Punkte Bonus, verursacht aber keinen Schaden, wenn er das höhere Ergebnis hat."/>
-            <para/>
-            <ITEXT CH="Für die Heilung würfelt der Spieler je­de Wo­che­ mit ±W6. Dazu addiert er 3 pro + in der höchsten passenden Eigenschaft. Ist das Ergebnis größer oder gleich 0, dann heilt eine Wunde. "/>
-            <para/>
-            <ITEXT CH="Tara (Waffenlos 12, Geschickt +) hat eine Taschendiebin erwischt und will sie ausschalten. Die Diebin hat nur ihren Beruf (Taschendiebin 9). Taras Spielerin würfelt eine 4 und kommt auf 17 (12 plus 1 plus 4). Die Spielleiterin würfelt eine 3, ergibt 6 (9 minus 3). Tara trifft also ihre Gegnerin mit einem Unterschied von 11 Punkten. Der Schaden übersteigt die Wundschwelle der Diebin (4) und reicht aus, um eine Wunde zu verursachen. Die Taschendiebin hat bis zu ihrer Heilung einen Abzug von 3 auf alle Proben."/>
+            <ITEXT CH="Für den Kampf ha­ben Cha­rak­tere Waf­fen, Rüs­tun­gen und ei­ne Wund­schwel­le. Im Nah­kampf wür­feln ein­fach bei­de Be­tei­lig­ten auf einen pas­sen­den Wert. Wer das bes­se­re Er­geb­nis er­zielt, trifft sei­nen Geg­ner. Bei Gleich­stand trifft der An­grei­fer. Im Fern­kampf wür­felt nur der An­grei­fer (Schwie­rig­keit: 12 bis 5m, 15 bis 50m, +3 für er­schwe­ren­des). Hat er Er­folg, trifft er. Der Ge­trof­fe­ne nimmt Scha­den in Hö­he der er­ziel­ten Dif­fe­renz plus der Waf­fe mi­nus sei­ner Rüs­tung. Liegt die­ser Scha­den über sei­ner Wund­schwel­le, dann er­hält er ei­ne Wun­de, die al­le Pro­ben um drei Punk­te er­schwert, bis sie ge­heilt ist. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Der Wert der Wund­schwel­le liegt meist zwi­schen 3 und 5, der Scha­den von Waf­fen und der Schutz von Rüs­tun­gen zwi­schen 1 (Dolch/Dart/Stoff) und 8 (Axt/Ge­wehr/Plat­te). Wenn ei­ner der Kämp­fer sich nur ver­tei­di­gen will, er­hält er 6 Punk­te Bo­nus, ver­ur­sacht aber kei­nen Scha­den, wenn er das hö­he­re Er­geb­nis hat."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Für die Hei­lung wür­felt der Spie­ler je­de Wo­che mit ±W6. Da­zu ad­diert er 3 pro + in der höchs­ten pas­sen­den Ei­gen­schaft. Ist das Er­geb­nis grö­ßer oder gleich 0, dann heilt ei­ne Wun­de. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ta­ra (Waf­fen­los 12, Ge­schickt +) hat ei­ne Ta­schen­die­bin er­wi­scht und will sie aus­schal­ten. Die Die­bin hat nur ih­ren Be­ruf (Ta­schen­die­bin 9). Ta­ras Spie­le­rin wür­felt ei­ne 4 und kommt auf 17 (12 plus 1 plus 4). Die Spiel­lei­te­rin wür­felt ei­ne 3, er­gibt 6 (9 mi­nus 3). Ta­ra trifft al­so ih­re Geg­ne­rin mit ei­nem Un­ter­schied von 11 Punk­ten. Der Scha­den über­steigt die Wund­schwel­le der Die­bin (4) und reicht aus, um ei­ne Wun­de zu ver­ur­sa­chen. Die Ta­schen­die­bin hat bis zu ih­rer Hei­lung einen Ab­zug von 3 auf al­le Pro­ben."/>
             <para PARENT="Beispiel"/>
-            <ITEXT CH="Nebencharaktere improvisieren"/>
+            <ITEXT CH="Ne­ben­cha­rak­tere im­pro­vi­sie­ren"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Wenn du schnell einen Nebencharakter brauchst, reicht erstmal sein Name und eine ungefähre Vorstellung von ihm. Verlangt die Situation Werte, dann gib ihm einfach entweder einen passenden Beruf (auf 9 oder 12) oder eine Fertigkeit (auf 12 oder 15). "/>
-            <para/>
-            <ITEXT CH="Schreib dir dann nach der Szene den Namen und die festgelegten Werte auf, und gib ihm zusätzlich noch ein Zitat und ein paar beschreibende Worte. "/>
+            <ITEXT CH="Wenn du schnell einen Ne­ben­cha­rak­ter brauchst, reicht erst­mal sein Na­me und ei­ne un­ge­fäh­re Vor­stel­lung von ihm. Ver­langt die Si­tua­ti­on Wer­te, dann gib ihm ein­fach ent­we­der einen pas­sen­den Be­ruf (auf 9 oder 12) oder ei­ne Fer­tig­keit (auf 12 oder 15). "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Schreib dir dann nach der Sze­ne den Na­men und die fest­ge­leg­ten Wer­te auf, und gib ihm zu­sätz­lich noch ein Zi­tat und ein paar be­schrei­ben­de Wor­te. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ne­wi. Un­or­ga­ni­sier­te Ge­braucht­wa­ren­händ­le­rin (Be­ruf: 9). „Kann sein, dass ich das ha­be. Lasst mich mal schau­en…“."/>
             <para PARENT="Beispiel"/>
-            <ITEXT CH="Newi. Unorganisierte Gebrauchtwarenhändlerin (Beruf: 9). „Kann sein, dass ich das habe. Lasst mich mal schauen…“.*"/>
-            <para/>
+            <para PARENT="Default Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="422" YPOS="695.440029" WIDTH="200" HEIGHT="514.8378657" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 514.838 200 514.838 200 514.838 200 514.838 0 514.838 0 514.838 0 514.838 0 514.838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="6" BACKITEM="4">
