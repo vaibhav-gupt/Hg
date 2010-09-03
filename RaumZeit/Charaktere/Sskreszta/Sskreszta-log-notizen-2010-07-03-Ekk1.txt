@@ -1,6 +1,9 @@
 Ekk: Panische Besatzer
 ======================
 
+Panische Besatzer
+-----------------
+
 Die Tiefsee ist bei weitem feindlicher als die Leere, und Ekks Besatzer wissen es.  
 
 Statt den typischen Soldaten und Sicherheitsleuten, die wir nichteinmal mehr töten müssen, um an ihnen vorbeizukommen, begrüßten uns schwerbewaffnete Kämpfer in psigeschirmten Ganzkörperpanzern mit ausreichendem Schutz, um dem Wasserdruck standzuhalten – und einem einzelnen Blasterschuss sowieso.  
@@ -35,6 +38,9 @@ Als ob wir uns an den jemals gehalten hätten.  Aber das muss er gewusst haben. 
 
 Wir hatten also eine Wohnung und die Ausrüstung um zu überleben.  Leider aber kein Geld, und das würden wir brauchen, um die Vergiftung der Vorstadt zu untersuchen.  Die Stadt war zwar schön, aber es war leider auch die falsche, und die richtige war mehrere zehntausend Kilometer entfernt.  
 
+Schrecken der Tiefe
+-------------------
+
 Während Kalem sich bemüht hat, ein Kampfforum zu finden, um Geld zu verdienen, habe ich ein paar hundert Meter von der Stadt entfern  die Effekte von Psi unter Wasser getestet.  Es ist enttäuschend, dass ich in dieser Tiefe selbst mit meiner ganzen Kraft gerade mal ein Schnapsglas Wasser verdrängen kann.  Der Knall, mit dem die Blase zerplatzte, war allerdings heftig.  Und er hat etwas großes geweckt.  
 
 *°Blasen steigen in kleinen Gruppen aus der schwarzen Tiefe empor.  Ein dumpfes Grollen durchdringt das Wasser.*
@@ -45,7 +51,7 @@ Während Kalem sich bemüht hat, ein Kampfforum zu finden, um Geld zu verdienen,
 
 Ich habe die Düsen des Taucheranzugs bis zu ihren Grenzen belastet und bin so dem Maul entkommen.  Danach bin ich in die Stadt zurück.  Ich werde nicht mehr so leichtsinnig Krach machen, ohne schwere Waffen dabeizuhaben.  
 
-Als ich zurückkam, hatte Kalem ein Kampfforum gefunden und in einem Trainingskampf allen bewiesen, dass sie würdig ist.  Das Forum wollte sie als Vertreterin in ein Turnier schicken.  Dass das Turnier gerade in der Stadt stattfindet, in die wir wollen, stinkt allerdings nach Einmischung.  Ich würde einen Blaster wetten, dass Kalems alter Freund da seine Finger im Spiel hatte.  Aber zumindest kamen wir so an unser Ziel und auch zu Geld.  
+Als ich zurück kam, hatte Kalem ein Kampfforum gefunden und in einem Trainingskampf allen bewiesen, dass sie würdig ist.  Das Forum wollte sie als Vertreterin in ein Turnier schicken.  Dass das Turnier gerade in der Stadt stattfindet, in die wir wollen, stinkt allerdings nach Einmischung.  Ich würde einen Blaster wetten, dass Kalems alter Freund da seine Finger im Spiel hatte.  Aber zumindest kamen wir so an unser Ziel und auch zu Geld.  
 
 Drei Tage später konnten wir bereits die Stadt in den Algen bewundern.  Anders als die erste hatte hier jedes Haus seine eigene Membran, und Ekkarion schwammen durchs offene Wasser von Haus zu Haus.  Von außen gesehen sah sie aus wie in den verschiedensten Farben beleuchtete Froscheier.  
 
@@ -91,6 +97,9 @@ Wobei ich sicher genauso gehandelt hätte.
 
 Kalem versuchte es danach nochmal und bat sie um Hilfe.  Sie bekam Kontakt, die Köpfe erwachten alle und ein brutaler Sog riss uns durch den Gang ins Berginnere.  
 
+Rein oder unrein?
+-----------------
+
 Nach viel zu langen Zeit wurden wir aus dem Gang getragen und fanden uns in einem flacheren See wieder, unverletzt und unter einer Eisschicht.  Ein Blick nach unten zeigte uns einen riesigen Algenwald.  Kalem meinte, er wäre heilig.  Ich spürte nur eine starke psionische Präsenz.  
 
 Wir suchten kurz die nächste Umgebung des Ausgangs ab und fanden ein zerstörtes Tauchboot.  Die Außenwand war geborsten und zwei Terraner darin waren von dem einstürzenden Wasser regelrecht zerschmettert.  Neben einer Konsole schwamm noch ein geborstenes Datenpad.  Auf dem Bildschirm waren eine Karte des Gebietes als letzte Anzeige.  Ein Gebiet war rot.  Wir wussten also zumindest, was für das System interessant war – oder gefährlich.  
@@ -105,7 +114,7 @@ Nachdem wir realisiert hatten, dass die Eisschicht an der Meeresoberfläche lag,
 
 *Nach einigen Sekunden haltlosen taumelns fangen sie sich.  Fox funkt: „Das kommt aus dem Orbit“.°*
 
-NAch dem ersten Schrecken erkannten wir, dass wir nicht das Ziel der Bombardierung waren.  Wilde Ekkarion sammelten sich.  Als wir ihnen zu Hilfe kommen wollten, griffen sie uns an.  Ich verfluchte es, dass Blaster unter Wasser sinnlos sind.  Gesprächsversuche von Kalem gingen schief.  Nicht, dass sie gut in Diplomatie wäre, aber Fox und mich hätten sie wohl nichtmal angehört,  Wir zogen uns also zurück und fanden auch so den Eingang zum Tempel.  Und zu meiner Freude waren die Räume darin Luftgefüllt, auch wenn der Druck immernoch so stark war, dass Fox und ich nur im Schutzanzug überleben konnten.  Leider stand in der Luftblase auch einiges an technischen Gerät, und Schwarzgerüstete wollten vor zwei Eisstatuen Ekkarion umbringen.  Sie standen in einem großen Raum hinter dem Vorraum mit ihrer Tech.  Die gefangenen Ekkarion lagen gefesselt auf dem Boden.  Bevor sie einen von ihnen umbringen konnten, schossen wir auf sie.  Die Gerüsteten waren 20 und schossen glücklicherweise sie nicht allzu gut.  Jeder unserer Treffer lies einen von ihnen in dem hohen Luftdruck zusammenbrechen, nur würde es uns genauso gehen.  Trotzdem sah es gut für uns aus, bis die Gerüsteten gefangene Ekkarion als lebende Schilde nutzten.  Immerhin hatten sie also gute Strategen, wenn sie schon nicht gut schießen konnten – oder einfach zu viel Angst hatten, getroffen zu werden.  
+Nach dem ersten Schrecken erkannten wir, dass wir nicht das Ziel der Bombardierung waren.  Wilde Ekkarion sammelten sich.  Als wir ihnen zu Hilfe kommen wollten, griffen sie uns an.  Ich verfluchte es, dass Blaster unter Wasser sinnlos sind.  Gesprächsversuche von Kalem gingen schief.  Nicht, dass sie gut in Diplomatie wäre, aber Fox und mich hätten sie wohl nichtmal angehört,  Wir zogen uns also zurück und fanden auch so den Eingang zum Tempel.  Und zu meiner Freude waren die Räume darin Luftgefüllt, auch wenn der Druck immernoch so stark war, dass Fox und ich nur im Schutzanzug überleben konnten.  Leider stand in der Luftblase auch einiges an technischen Gerät, und Schwarzgerüstete wollten vor zwei Eisstatuen Ekkarion umbringen.  Sie standen in einem großen Raum hinter dem Vorraum mit ihrer Tech.  Die gefangenen Ekkarion lagen gefesselt auf dem Boden.  Bevor sie einen von ihnen umbringen konnten, schossen wir auf sie.  Die Gerüsteten waren 20 und schossen glücklicherweise sie nicht allzu gut.  Jeder unserer Treffer lies einen von ihnen in dem hohen Luftdruck zusammenbrechen, nur würde es uns genauso gehen.  Trotzdem sah es gut für uns aus, bis die Gerüsteten gefangene Ekkarion als lebende Schilde nutzten.  Immerhin hatten sie also gute Strategen, wenn sie schon nicht gut schießen konnten – oder einfach zu viel Angst hatten, getroffen zu werden.  
 
 Fox wurde getroffen und zog sich zurück. Kalem blieb vorne. Ihr Massenverstärkter Stab hatte bereits viele der Gerüsteten zurückgeworfen, denn ein einzelner Bruch in der Panzerung ließ unsere Gegner die Flucht ergreifen. Genau wie uns. Entsprechend war sie zu weit vorne, als die lebenden Schilde kamen, und hinter ihnen mehr und mehr Gerüstete. Sie selbst nutzte einen Gefallenen als Schild. Wir hatten ihn überwältigt und als Fauspfand nutzen wollen. Was gründlich schlief ging, denn unsere Gegner erschossen ihn, ohne zu zögern. 
 
@@ -133,18 +142,20 @@ Ich habe ihm Erinnerungen von Ashar gezeigt. Wie dort Tempel zerstört wurden.
 
 Und, dass wir versuchen, Etaros zurückzuholen, der zu den von ihnen erschaffenen „reinen“ Wesen gehört. 
 
-*°Ich habe versucht es zu schützen, aber ich war zu schwach, um es vor der Wut des Schwarms zu bewahren.°*
+*°Ich habe versucht es zu schützen, aber ich war zu schwach. Der Schwarm hat meine Verteidigung zerschmettert.°*
 
-Und bin froh, dass ich die Gedanken daran unterdrücken konnte, dass das Amulett überhaupt erst angegriffen wurde, weil Etaros dadurch Kyrie und mir ein paar lebenstonwendige Sekunden verschaffte, so dass ich Kyrie allen Schutz gegen die vosständige Auslöschung ihrer Persönlchkeit geben konnte, bevor ich sie dem Schwarm übergeben habe. 
+Und ich bin froh, dass ich die Gedanken daran unterdrücken konnte, dass das Amulett überhaupt erst angegriffen wurde, weil Etaros dadurch Kyrie und mir ein paar lebenstonwendige Sekunden verschaffte, so dass ich Kyrie allen Schutz gegen die volltändige Auslöschung ihrer Persönlchkeit geben konnte, bevor ich sie dem Schwarm übergeben habe. 
 
 *°Du darfst mich nutzen, wenn du mich einem reinen Wesen übergibst.°*
 
-Die Kugel dem Schwarm zu übergeben ist verlockend. Aber Kalem wäre sicherlich nicht einverstanden. Immerhin scheint es ein Jungh-Ei zu sein. Aber Kalem als rein zu bezeichen.  Gut, sie hatte erst dreimal Sex oder so (und den auch dank uns), aber rein ist sie sicher nicht, so wie der Hass sie greift, wenn sie schwarz wird.  Aber das sollen die Jungh selbst entscheiden. Psi-Verstärker, die diese Kraft liefern, wären eine Revolution.  Vielleicht wurden deswegen die Eier in den Tiefen der Insel auf Ranos von Horden von Zat…
+Die Kugel dem Schwarm zu übergeben ist verlockend. Aber Kalem wäre sicherlich nicht einverstanden. Es scheint immerhin ein Jungh-Ei zu sein, und für sie sind die Jungh Götter. Aber Kalem als rein zu bezeichen…  Sie hatte zwar erst dreimal Sex (und den dank uns), aber rein ist sie sicher nicht, so wie der Hass sie greift, wenn sie schwarz wird.  Sollen sie das doch selbst entscheiden.
+
+Psi-Verstärker, die eine ähnliche Kraft wie dieses Ei liefern, wären eine Revolution.  Vielleicht wurden deswegen die Eier in den Tiefen der Insel auf Ranos von Horden von Zat bewacht…
 
 *°Strahlendes Licht erfüllt Sskreszta. Ihre Sinne greifen aus, die Welt wird lebendiger, jede Müdigkeit vergeht. Ihr Körper strahlt psionisch, während Wellen von Kraft und Freude durch ihre Adern und psionischen Muster fließen. Dann senkt sich erneut Dunkelheit über sie und Kalem beginnt zu strahlen, die Hände um die Kugel gelegt.°*
 
-Wunden und Erschöpfung hatte ich keine mehr, und ich verstehe, warum manche die Jungh für Götter halten. Die Kraft ist verführerisch. aber auch nicht stärker die eigene als bei Drogen oder Psi-Verstärkern. Und wie Drogen machen Jungh süchtig. 
+Wunden und Erschöpfung hatte ich keine mehr, und ich verstehe, warum manche die Jungh für Götter halten. Ihre Kraft ist verführerisch. aber auch nicht eher die eigene als bei Drogen oder Psi-Verstärkern. Und wie Drogen machen Jungh wohl süchtig. 
 
-Aber mir hat die Stim-Sucht gereicht. Nochmal brauche ich das nicht. 
+Mir hat die Stim-Sucht gereicht. Nochmal brauche ich das nicht. 
 
 Ich hoffe, Kalem kommt damit klar. 
