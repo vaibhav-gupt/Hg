@@ -1,7 +1,7 @@
 Slipoj-Rolludo
 ==============
 
-*Mi tradukis mian faciligan rolludon al Esperanto. Devas esti presita en 14 ambauflankajn slipojn.*
+*Mi tradukis nian faciligan rolludon al Esperanto (kun AVRS). Devas esti presita en 14 ambauflankajn slipojn – kaj bezonas iom da korektado kaj amo :). Bonvolu [komenti](http://1w6.org/comment/reply/420#comment-form), se vi volas helpi!*
 
 Kara filin’, 
 
