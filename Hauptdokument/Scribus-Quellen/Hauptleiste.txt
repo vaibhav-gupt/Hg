@@ -12,6 +12,8 @@ Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwer
 Die meisten Module findest du auf 
 - http://module.1w6.org 
 
+Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber natürlich auch männliche Spieler und weibliche Charaktere. 
+
 <fuss>(Gurps® ist Markenzeichen von SJGames, Fudge™ von GreyGhostPress)
 #Grundlagen
 
