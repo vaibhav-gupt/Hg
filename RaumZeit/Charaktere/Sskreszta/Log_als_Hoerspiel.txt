@@ -9,33 +9,33 @@ Notizen:
 * Versuchsperson (Psioniker) für direkten psionischen Kontakt mit dem Kristall. 
 * Stück für Stück zu viele Infos -> Schiff wird angegriffen, Zerg und andere (später auch das System). Trotzdem weiterforschen! "auf etwas großes gestoßen"
 * Kapitän hat keinen Sinn für Demokratie, Zivilgesellschaft o.ä., aber er nimmt seinen Dienst ernst, und das bringt ihn Stück für Stück in Opposition zum System. 
-* Subjekt 235 ist von der Station _Dämmerung_ mit seltsamen politischen Ideen (Demokratie u.ä.) und einem Sinn für Lyrik, was den Experimentatoren völlig abgeht. Nach einiger Zeit wird das Subjekt allerdings unverzichtbar, da für einen Wechsel der Versuchsperson die Aufzeichnung noch einmal von vorne beginnen müsste. Merkt es irgendwann. 
+* Subjekt 235 ist von der Station _Dämmerung_ mit seltsamen politischen Ideen (Demokratie u.ä.) und einem Sinn für Lyrik, was den Experimentatoren völlig abgeht. Nach einiger Zeit wird das Subjekt allerdings unverzichtbar, da für einen Wechsel der Versuchsperson die Aufzeichnung noch einmal von vorne begonnen werden müsste. Merkt es irgendwann. 
 
 
 Personen: 
 
-* Kapitän, Terraner, hart und seinem Auftrag treu. 
+* Kapitän Joren Tas, Terraner, hart und seinem Auftrag treu. 
 * Dr. Nasser, Ka, Versuchsleitung, Terraner, kalt pragmatisch. 
-* Dr. Rai Ra Nar, Technik, Terraner, massiv technisch aufgerüstet. 
+* Dr. Rai Ra Nar, Technik, Terraner, massiv technisch aufgerüstet, weiblich. 
 * Dr. Gol, Psioniker, Prozessüberwachung, Synarchu. 
-* Subjekt 235, Terraner, Psioniker, männlich. 
+* Subjekt 235, Larain Melar, Terraner, Psioniker, männlich. 
 
 
-Audio-Log des Forschungsschiffes Sternenband, Tag 15: 
+Audio-Log von Kapitän Tas, Forschungsschiff Sternenband, Tag 15: 
 -----------------------------------------------------
 
 Wir haben heute die Reste eines Jägers gefunden, der halb im Subraum und halb im Realraum gefangen war. Unser Pilot hat ihn mit den Raumspulen unseres Schiffes stabilisiert, so dass wir ein Suchteam hinein schicken konnten. 
 
 Im Inneren fanden wir eine leere Kampfapanzerung. In einer zusätzlich geschützten Innentasche der der Panzerung war ein Kristall verborgen, wie ihn Psioniker nutzen, um ihre erinnerungen aufzuzeichnen. 
 
-Unser Labor untersucht ihn gerade. Ich werwarte den Bericht für morgen. 
+Unser Labor untersucht ihn gerade. Ich erwarte den Bericht für morgen. 
 
-Audio-Log des Forschungsschiffes Sternenband, Tag 16: 
+Audio-Log von Kapitän Tas, Forschungsschiff Sternenband, Tag 16: 
 -----------------------------------------------------
 
 Wir haben diesen Morgen an der Station _Dämmerung_ angedockt. Ich habe der Crew den Ausgang gestrichen. Die Spinner in der Station sollen ihre Ideen für sich behalten. 
 
-Das Labor hat bereits heute Nacht Bericht erstattet. Der Kristall ist trotz der Kampfpanzerung schwer beschädigt und kann konventionell nicht ausgelesen werden. Sie wollen nun einen PÜsioniker direkt mit ihm verbinden, um die Daten zu extrahieren. 
+Das Labor hat bereits heute Nacht Bericht erstattet. Der Kristall ist trotz der Kampfpanzerung schwer beschädigt und kann konventionell nicht ausgelesen werden. Sie wollen nun einen Psioniker direkt mit ihm verbinden, um die Daten zu extrahieren. 
 
 Drei unserer pragmatischten Forscher sind unterwegs, um einen Psioniker als Versuchsperson zu finden. Sie haben feste Order mit niemandem außer möglichen Zielpersonen zu sprechen. 
 
