@@ -24,9 +24,9 @@
 
 ## Spezies
 
-* 2 Echsen
-* 1 Katze
-* 1 Vogel
+* 2 Echsen (1 Stereotyp, 1 Gegenteil)
+* 1 Katze (Archetyp)
+* 1 Vogel (Archetyp)
 * 4 Menschen
 
 # Szenen
