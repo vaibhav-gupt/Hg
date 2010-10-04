@@ -95,11 +95,18 @@ PiHalbe nennt dazu noch die Möglichkeit, dass es ein Standard-Ergebnis gibt, di
 
 Ein Beispiel aus Gerichtsverhandlungen (nach dem Würfeln, d.h. der Hebel ist bereits bekannt): „Wenn Sie jetzt nichts machen, bekomme ich Sie für 10 Jahre in den Knast. Wenn sie aussagen, kann ich meine Forderungen vermindern, dann kommen sie mit Kronzeugenregelung vielleicht sogar auf Bewährung raus“. 
 
-Als allgemeines Prinzip: Nach einer Probe hat der Charakter die Möglichkeit all das zu tun, dessen Schwierigkeit niedriger liegt als das Ergebnis der Probe. Alternativ: Er weiß was er tun kann und droht dem anderen damit. Der andere kann dann auch „Vorschläge“ für anderes annehmen. 
+Als allgemeines Prinzip: Nach einer Probe hat der Charakter die Möglichkeit all das zu tun, dessen Schwierigkeit niedriger liegt als das Ergebnis der Probe. Alternativ: Er weiß was er tun kann und droht dem anderen damit. Der andere kann dann auch „Vorschläge“ für anderes annehmen. Je nach Spielstil kann das entweder auf der Charaktereben passieren (die Charaktere drohen sich direkt) oder auf Spielerin-SL-Ebene („Mein Charakter würde…“, „könnte mein Charakter nicht stattdessen…?“ oder „würdest du ihn auch von der Klippe stoßen, statt ihm das Schwert ins Herz zu rammen?“). 
 
 #### Nebenwirkungen
 
-Der zweite Punkt, den PiHalbe nennt, sind Nebenwirkungen. 
+Der zweite Punkt, den PiHalbe nennt, sind Nebenwirkungen; am Beispiel von Time and Temps, bei dem jeder Erfolg der Charaktere das Raumzeitgefüge schwächt und jeder freiwillig genommene Misserfolg es stärkt. 
 
-* Nebenwirkungen: Für den Erfolg etwas zahlen. Beispiel: Elementarmagie. 
-* Hebel: Handlungsmöglichkeiten. 
+Ein traditionelles System dafür ist die Erschöpfung, die oft mit Magie verbunden ist, oder die Möglichkeit, Erschöpfung zu akzeptieren und dafür einen Bonus auf eine Probe erhalten. Genauso auch Risiken von Magie und ähnlichem. Ein Beispiel aus dem 1w6-System ist [Elementarmagie](/deutsch/magie/elementarmagie). Dabei erschöpft ein Effekt eine Magierin umso weniger, je stärker sie in Fluss mit den genutzten Elementen ist. 
+
+
+Wo anwenden?
+------------
+
+Aufgaben und Konflikte sprechen jeweils unterschiedliche Spieler stärker an. Entsprechend sind sie jeweils für bestimmte Interaktionen eher geeignet als für andere. 
+
+
