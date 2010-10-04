@@ -1,0 +1,105 @@
+Konflikte, Aufgaben und Techniken, konkret
+==========================================
+
+*Was machen wir? Was wollen wir? Wer will das? Wie lösen wir es auf?*
+
+Im PiCast hat Achim beschrieben, dass es [vier grundlegende Arten gibt](http://pihalbe.org/audio/picast-—-fole-22-—-konflikte-aufgaben-hebel-736), Handlungen im Rollenspiel aufzulösen. Ich will die doch recht theoretischen Betrachtungen hier konkretisieren. Bei den Techniken natürlich am Beispiel des 1w6-Systems :) 
+
+Er nennt dabei 
+
+* Aufgabenauflösung (Task Resolution)
+* Konfliktauflösung (Conflict Resolution)
+* Nebeneffektauflösung und
+* Hebelauflösung (Stick Resolution)
+
+Grundlegend beschreibt er zwei Kriterien: Unterschiedliche Ziele („Ich will etwas tun“, „Ich will etwas erreichen“, „Mein Charakter soll versuchen, etwas zu erreichen“) und unterschiedliche Techniken. 
+
+Ziele: Aufgabe oder Konflikt?
+-----------------------------
+
+Bei den Zielen stellt sich die Frage: „Wer will das?“ Sie stellen den Unterschied zwischen Konfliktauflösung und Aufgabenauflösung dar (wie er sie beschreibt). 
+
+Bei Aufgabenauflösung will der Charakter etwas tun (z.B. über eine Mauer springen). Dann wird gewürfelt, ob das gelingt. Eine Aussage der Spielerin wäre „Ich will über die Mauer springen“. → Was will dein Charakter tun?
+
+Dann gibt es Charaktere, die etwas erreichen wollen (z.B. so schnell über die Mauer klettern, dass er den Verfolgern entkommt). Die Frage wäre dann „Was will mein Charakter?“. → Was will dein Charakter erreichen? 
+
+Bei Konfliktauflösung will dagegen die Spielerin, dass der Charakter versucht, etwas zu erreichen (z.B. seinen Verfolgern entkommen). Dann wird gewürfelt, ob das gelingt. Eine Aussage der Spielerin wäre „Ich will, dass mein Charakter den Verfolgern entkommt“. → Was soll passieren? 
+
+Um alles abzudecken gibt es noch das weitere Ziel, dass die Spielerin etwas tun will (z.B. würfeln). Dann wird das gemacht. Eine Aussage wäre „Ich will auf Klettern würfeln“. → Was willst du tun? 
+
+Die Ziele unterscheiden sich danach, woher die Motivation für die Probe kommt. 
+
+Bei Aufgabenauflösung und Zielen des Charakters kommt die Motivation aus dem Charakter. Die Auflösungshandlung der Spielerin ist dann ein Werkzeug für den Charakter. 
+
+Bei Konfliktauflösung und Handlung der Spielerin dagegen will die Spielerin etwas bestimmtes tun. Die entsprechende Handlung des Charakters ist dann ein Werkzeug für die Spielerin. 
+
+Die Unterscheidung ist also, wer die Handlung initiiert: Bin ich mein Charakter, oder ist der Charakter mein Werkzeug? 
+
+Zusätzlich gibt es die Frage: Wie ist die Handlungsauflösung in die Geschichte integriert? Wenn die Spielerin das Ziel hat, die Geschichte mit ihrer Probe zu beeinflussen, dann wird ein Teil der traditionellen Aufgaben der SL in die Handlungsauflösung verschoben. Nach PiHalbe sollten dann alle möglichen Ergebnisse eines Konfliktes die Geschichte weiterbringen. Das ist eine Folge davon, dass ein Konflikt in die Geschichte eingreift. Um mögliche Bedingungen für die Ausgänge von Konflikten zu finden, genügt ein Blick in [Robin D. Laws „Gutes Spielleiten“](https://www.pegasusshop.de/?Action-Display-Detailansicht=77010G). Was PiHalbe beschreibt ist ein Versatzstück-Stil: Jeder Ergebnis der Handlung führt die Geschichte weiter. Aufgabenauflösung entspricht eher den Puzzleteilen (die verschiedenen Möglichkeiten testen) oder einem verzweigten Stil (wenn eins schiefgeht kommen wir auf einen ganz anderen Handlungspfad, möglicherweise inklusive „völlig versagt“ („Er ist tot, Jim“). Die SL webt diese einzelnen Aufgaben dann zu einer Geschichte, die sehr einfach andere Leitestile nutzen kann. 
+
+Damit haben wir grundlegend den Unterschied zwischen Aufgaben und Konflikten abgedeckt. Jetzt geht es zu Techniken: Nebenwirkungen, Hebel und welche Techniken traditionell für Aufgaben und Konflikte genutzt werden. 
+
+Techniken: Ein Wurf, mehrfache Proben, Nebenwirkungen und Hebel
+---------------------------------------------------------------
+
+Konfliktsysteme nutzen oft komplexere Techniken als Aufgabensysteme. Grundlegend ist es für die Techniken aber egal, wofür sie genutzt werden. 
+
+Um Handlungen aufzulösen gibt es grundlegend zwei Unterscheidungen: 
+
+1. Jemand will etwas erreichen. Die Frage ist hier „Schaffe ich es?“ oder „wie gut schaffe ich es?“
+2. Zwei Leute (Spielerinnen oder Charaktere) haben widerstreitende Ziele. Nur der bessere kann sein Ziel erreichen. Die Frage ist dann „wer schafft es?“ oder „wer ist besser, und wieviel besser?“
+
+Dazu gibt es noch Effekte, die bei beiden zum Tragen kommen können. 
+
+### Etwas erreichen
+
+Für den ersten Punkt gibt es mehrere Techniken, um zu prüfen, ob die Handlung Erfolg hat. 
+
+* *Einzelprobe*: Einmal würfeln und das Ergebnis steht fest. Konkret: Eine Probe gegen einen Mindestwurf: Ist „Wert ±W6“ höher als die Schwierigkeit? Dabei kann es auch mehr als eine Schwierigkeit geben. Beispiel: Wenn mindestens 9 erreicht wird, kommt der Charakter irgendwie über die Mauer. Erreicht sie mindestens 15 springt er souverän darüber und die Gegner geben auf (weil sie keine Chance mehr sehen, ihn zu erwischen). Erreicht sie mindestens 24, erhält der Charakter außerdem eine Steigerungsmöglichkeit auf Klettern. 
+
+* *Unterstützende Handlungen*: Mehrere Proben, die Boni auf die Hauptprobe geben. Konkret: Jeder Unterstützer würfelt. Gelingt die Unterstützungsprobe erhält der Charakter einen Punkt Bonus. Je 3 Punkte, die er über seiner Schwierigkeit würfelt geben einen weiteren Punkt Bonus auf die Hauptprobe. Die Hauptprobe: Ist „Wert ±W6 + Boni“ größer als die Schwierigkeit? Beispiel: Der Charakter will die Mauer hochklettern und ein anderer Charakter hält ihm eine Räuberleiter. Zuerst würfelt der, der die Räuberleiter hält. Räuberleiter halten ist Routine, hat also eine Schwierigkeit von 6. Der Unterstützer hat auch klettern (auf 12) und nutzt das. Gelingt die Probe z.B. mit einer 4 (kommt also auf 16), erhält der kletternde Charakter 4 Punkte Bonus: 1 für die gelungene Unterstützungsprobe und 3 durch die 10 Punkte Differenz zur Schwierigkeit. 
+
+* *Mehrere Proben*: Mehrere gleichberechtigte Proben werden gewürfelt. z.B. könnten jeweils Punkte gesammelt gesammelt, die addiert werden, und wenn genügend Punkte zusammengekommen sind, gelingt die Probe. Die einfachste Version wäre z.B. „ihr müsst 5 Proben schaffen“. Eine etwas komplexere Version ist, zu würfeln wie bei unterstützenden Handlungen und die Handlung als geschafft zu werten, wenn genug Boni zusammengekommen sind. Beispiel: Um einen Sandsack über die Mauer zu hieven, würfelt einer unten mit Klettern (gegen 6: Für einen Kletterer Routine) und einer oben mit Stärke (gegen 12: Der Sandsack ist schwer). Pro gelungener Probe haben sie einen Erfolgspunkt plus einen Punkt je 3 Punkte über der Schwierigkeit. Die SL gibt einfach an, wieviele Erfolgspunkte nötig sind, damit sie ihr Ziel erreichen. Wenn 5 Erfogspunkte nötig sind, der Kletterer auf 14 kommt (3 Erfolgspunkte) und der oben auf 17 (2 Punkte) schaffen sie es, den Sandsack über die Mauer zu hieven.  
+Ebenso könnte gesagt werden, dass die benötigte Zeit durch die Anzahl Erfolgspunkte geteilt wird. Noch eine weitere Möglichkeit ist, dass die SL festlegt, dass z.B. 3 Proben hintereinander gelingen müssen. 
+
+Dazu gibt es noch offene Proben: Ich würfle und die SL überlegt sich je nachdem wie hoch ich würfle, ob die Probe etwas bewirkt. Effektiv ist das eine normale Probe, bei der die Spielerin nicht weiß, wie hoch die Schwierigkeit ist. 
+
+### Wettstreite
+
+In einem Wettstreit geht es darum, dass zwei Charaktere sich gegenüberstehen. Um herauszufinden, wer gewinnt, können alle der Techniken genutzt werden, mit denen ohne Wettstreit geprüft wird, ob eine Handlung Erfolg hat. Der grundlegende Unterschied ist, dass danach verglichen wird, wer besser ist. 
+
+Beispiel: Wenn zwei Gruppen den Sandsack über die Mauer hieven wollen und es nur darum geht, wer schneller ist, können sie mehrere Proben würfeln, und wer nach einer Runde (oder mehreren Runden) mehr Erfolgspunkte gesammelt hat, kommt zuerst über die Mauer. 
+
+Alternativ könnte auch abwechselnd gewürfelt werden, und es gewinnt, wer als erstes die nötigen Punkte hat. 
+
+In beiden Fällen gibt es zwei Ergebnisse: 
+
+1. Wer ist besser? (da im 1w6-System im Zweifelsfall derjenige gewinnt, der anfängt, gibt es kein „wir sind gleich gut“). 
+2. Wie groß ist der Unterschied? 
+
+Am häufigsten verwendet das 1w6-System Wettstreite im Nahkampf. Beide würfeln und der bessere trifft. 
+
+### Modifikatoren und Auswirkungen
+
+#### Hebel
+
+Eine erfolgreiche Handlung muss nun nicht immer direkt bedeuten, dass festgelegt ist, was der Charakter macht. Genauso können die Charaktere auch um Handlungsmöglichkeiten kämpfen. PiHalbe nennt das „Hebel“. Dabei gibt eine bestimmte Probe dem Charakter bestimmte Möglichkeiten. wer z.B. beim Überzeugen sehr gut würfelt, kann seinen Gegenüber danach zu unterschiedlichen Handlungen bewegen, solange die nicht zu extrem sind. Besonders deutlich wird das bei Zaubern. 
+
+Nehmen wir z.B. einen Beherrschungszauber, der das Opfer dem Charakter gewogen macht. Klassischerweise ermöglicht der die Kontrolle des Ziels, solange das Ziel nicht zu Handlungen gezwungen wird, die seinem innersten Wesen widersprechen. Wenn wir es verallgemeinern, gibt der Beherrschungszauber die Möglichkeit, das Opfer zu bestimmten Handlungen zu bewegen, deren Schwierigkeit nicht höher ist als die Stärke des Zaubers. 
+
+Um daraus ein allgemeines Beispiel zu erstellen, nehmen wir an, ein Charakter will sich als großen Helden präsentieren, damit ihm die Dorfbewohner gefällig sind *(ich lese gerade den Earthdawn-Roman Prophecy :) )*. Seine Spielerin stellt erst fest, wie gut sich der Charakter dabei anstellt. Ein Beispiel wäre eine Probe auf „prahlen” oder „bequatschen“. Hier eignet sich z.B. eine offene Probe: „so weit kann ich gehen“. Danach weiß sie, was der Charakter sich leisten kann, ohne nochmal würfeln zu müssen. Wenn die SL will, kann sie die Probe natürlich auch verdeckt würfeln, damit auch die Spielerin nicht weiß, was klappen wird und dadurch selbst etwas mehr Spannung erlebt. 
+
+Ein weiteres Beispiel, wo Hebel genutzt werden, ist das Modul [Taktische Kämpfe (TakM)](/deutsch/module/taktische-kaempfe-takm). Hier kämpfen die Kontrahenten um die Möglichkeit, ihren Gegner verletzten oder ausschalten zu können, und nehmen dabei ihre Boni in die nächste Runde mit. Effektiv versuchen sie sich gegenseitig in die Enge zu treiben, bis sie den Kampf entscheiden können. Sie müssen den Kampf allerdings nicht entscheiden, auch wenn sie die Möglichkeit dazu haben, d.h. sie haben einen Hebel gegenüber dem anderen erkämpft. 
+
+PiHalbe nennt dazu noch die Möglichkeit, dass es ein Standard-Ergebnis gibt, die beiden Beteiligten sich aber auch für ein anderes Ergebnis entscheiden können. Ein Beispiel dazu im Kampf wäre „gib auf, oder du hattest mal eine Hand“. Natürlich ist das aber auch an anderen Stellen möglich. 
+
+Ein Beispiel aus Gerichtsverhandlungen (nach dem Würfeln, d.h. der Hebel ist bereits bekannt): „Wenn Sie jetzt nichts machen, bekomme ich Sie für 10 Jahre in den Knast. Wenn sie aussagen, kann ich meine Forderungen vermindern, dann kommen sie mit Kronzeugenregelung vielleicht sogar auf Bewährung raus“. 
+
+Als allgemeines Prinzip: Nach einer Probe hat der Charakter die Möglichkeit all das zu tun, dessen Schwierigkeit niedriger liegt als das Ergebnis der Probe. Alternativ: Er weiß was er tun kann und droht dem anderen damit. Der andere kann dann auch „Vorschläge“ für anderes annehmen. 
+
+#### Nebenwirkungen
+
+Der zweite Punkt, den PiHalbe nennt, sind Nebenwirkungen. 
+
+* Nebenwirkungen: Für den Erfolg etwas zahlen. Beispiel: Elementarmagie. 
+* Hebel: Handlungsmöglichkeiten. 
