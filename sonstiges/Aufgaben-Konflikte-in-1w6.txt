@@ -109,4 +109,42 @@ Wo anwenden?
 
 Aufgaben und Konflikte sprechen jeweils unterschiedliche Spieler stärker an. Entsprechend sind sie jeweils für bestimmte Interaktionen eher geeignet als für andere. 
 
+Grundlegend gibt es dabei zwei Möglichkeiten, die Handlungsauflösung für eine bestimmte Interaktion zu wählen: 
 
+1. Passend: Wenn die Interaktion sehr zielorientiert oder auf die Beeinflussung der Geschichte ausgerichtet ist oder die Spieler herausfordert, wird ein Konfliktsystem gewählt, das eher auf die Ziele der Spieler eingeht. Wenn die Interaktion eher auf das Erleben einer bestimmten Handlung ausgelegt ist, wird ein Aufgabensystem genommen, das die Innensicht der Charaktere sehr stark erlebbar macht. Hier sprechen Szenen immer genau einen Spielertyp an. Eine Szene, die einen Geschichtenerzähler anspricht ist für die Kampfsau uninteressant, und umgekehrt geht es in den Kämpfen wirklich nur um den Kampf. Effektiv ist das ein Forge-ähnlicher Ansatz, nur halt auf Szenen aufgespalten (Szene = Eine Situation in der eine bestimmte Interaktion vorherrscht). 
+
+2. Konträr: Es wird genau das Modell gewählt, das einen Konterpunkt zu der Interaktion setzt. Das ist eine Technik, die teilweise von Vampire genutzt wird, bei dem die Hintergründe auf Stil und Stimmung aufbauen und von Geschichten handeln, während die Regeln sehr crunchy sind. Ebenso (nach dem, was ich gelesen habe) auch Savage Worlds, das von Fast & Furious spricht, aber ein sehr detailliertes und Kampfsystem hat. Eine Szene, in der es um sanfte Interaktionen geht oder die als sehr schnell beschrieben wird, nutzt viele Aufgabenorientierte Mechaniken, in die sich auch Taktiker verbeißen können, und eine Szene, die sehr langatmig ist und sehr viele Details hat, nutzt ein knappes, konfliktbasiertes System, bei dem die Details einfach die Boni festlegen. 
+
+Der erste Ansatz dürfte klar sein. Er wird z.B. oft bei recht mechanischen Magiesystemen genutzt (Magier als Taktiker). 
+
+Für den zweiten möchte ich ein Beispiel bringen: Wir haben ein Spiel, in dem oft Szenen vorkommen, die nur eine Art von Spielerinnen ansprechen. Nehmen wir an, es hat viele dramatische Debatten. Dramatische Debatten sprechen oft eher diejenigen an, die die Geschichte voranbringen wollen (würde es um Moral gehen, wären es eher Schauspieler). Also werden sich diejenigen wohl langweilen, die sonst Kämpfer spielen. 
+
+Nun können wir entweder sagen „dann binden wir halt viele Kämpfe ein“, oder „was macht denn Kämpfern oft eher Spaß?“
+
+Eine Möglichkeit für die zweite Option ist, dass wir sehr viele aufgabenorientierte Handlungen einbinden. Die Charaktere bekommen Fertigkeiten, die sie wie Waffen verwenden können. 
+
+* Fertigkeit Schlagfertigkeit: Kann genutzt werden, um ein Argument des anderen umzudrehen (Konter). 
+* Fertigkeit Totquatschen oder Ablenken: Kann genutzt werden, um den Angriff des anderen verhallen zu lassen (Verteidigung, Schaden abwenden). Wenn dich jemand getroffen hat, fängst du einfach an, ewig zu quatschen oder das Thema zu wechseln (typischer Politiker/Schröder). 
+* Fertigkeit Scharfzüngigkeit: Kann genutzt werden, um jemand anderen anzugreifen. Mögliche Gegenmaßnahmen sind Schlagfertigkeit und Totquatschen. 
+* Nicht alles muss ausgespielt werden: „Der ist irrelevant, den quatsch ich tot, dann kommen wir zum wichtigen.“
+* Eigenschaft Reputation: Gibt den Schaden an, den ein Char einstecken kann, und definiert seine Wundschwelle (Reputation / 3). 
+
+Jeder Beteiligte hat Reputationspunkte. Sobald die zu niedrig werden, hört ihm niemand mehr zu und er verlässt die Debatte, bis er sich erholt hat. Wunden an der Reputation heilen langsam: Jede Szene/Debatte eine. 
+
+Praktisch: Wettstreite würfeln und dem Verlierer Reputationsschaden geben. Totquatschen hat einen Bonus von 6, weil es den Angreifer nicht treffen kann. Dafür kostet es sehr viel Zeit. Bekommt ein Charakter durch eine Handlung Schaden in Höhe seiner Wundschwelle (oder mehr), dann hat er eine Reputationswunde, die all seine Handlungen um 3 erschwert, bis er seinen Ruf wieder hergestellt und sein Selbstbewusstsein zurückgewonnen hat (also die Wunde geheilt ist). 
+
+… jetzt müssen wir das nur noch testen. :)
+
+Nochmal als Zusammenfassung: Auswahl der Spielmechanik bei der konträren Option: Schau nach, welchen Spielertyp die Szene am wenigsten anspricht und nutz eine Mechanik, die diesem Spielertyp Spaß macht. 
+
+*Warum überhaupt Konträr? Weil das System verloren hat, wenn auch nur ein Spieler gar nichts daran findet. Wenn Szenen für die unterschiedlichen Spielertypen in etwa gleichmäßig verteilt sind, kann die stärkere Fokussierung der zur Interaktion passenden Auswahl von Regeln das Spiel spaßiger machen – wenn dabei keiner ganz außen vor ist. Zu stark konträre Regeln können ein Spaßkiller sein („bäh, da ist ein Kampf ja gar kein Kampf mehr!“), zu einseitiges Spiel allerdings auch („oh nein, nicht schon wieder kämpfen!“).*
+
+Als Abschluss eine Einordnung nach den Spielertypen in [Robin D. Laws „Gutes Spielleiten“](https://www.pegasusshop.de/?Action-Display-Detailansicht=77010G): 
+
+* Aufgabenorientiertes Spiel wird wohl eher Kampfsäuen und Spezialisten gefallen, da jede einzelne Handlung im Vordergrund steht. Es geht um die einzelnen coolen Aktionen. 
+* Konfliktbasiertes Spiel wird vermutlich eher Geschichtenerzählern gefallen. Es geht um die Ziele und Geschehnisse. 
+
+* Schauspieler werden wahrscheinlich einerseits die Charaktenzentrierung des aufgabenorientierten Spiels schätzen, als auch die bereits bekannten Konsequenzen des konfliktbasierten Spiels, bei dem sie im vorneherein wissen, welche Konsequenzen ihren Charakter treffen können. Die Möglichkeit, dass jemand anders über ihren Charakter bestimmen kann (Hebel mit Zwang), dürfte sie allerdings abschrecken.
+* Taktiker werden entweder aufgabenorientiertes vorziehen, wenn sie selbst die Handlungen ihres Charakters bestimmen und lenken wollen, können sich aber wohl auch für Konfliktbasiertes Spiel erwärmen, wenn Boni und Mali in Konflikten ausreichend stark mit ihren eigenen Entscheidungen für die Handlungen des Charakters zusammenhängen.
+* Powergamer werden an Aufgabenorientiertem Spiel schätzen, dass die einzelnen coolen Handlungen wichtig sind. Wenn sie aber für Konflikte Boni sammeln können, könnten auch die ihnen gefallen.
+* Gelegenheitsspieler wird es nerven, wenn ihnen keiner schnell sagen kann, was sie würfeln sollen oder was ihr Wurf jetzt bedeutet. Starke Hebel und Nebenwirkungen könnten also recht riskant sein. Andererseits kann die Freiheit eines Hebels einem Gelegenheitsspieler auch ermöglchen, sich stärker auszuleben, weil er kurzfristig von den Regeln befreit ist: „Jetzt kannst du machen, was du willst, solange es weniger ist als X“. 
