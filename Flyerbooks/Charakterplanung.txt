@@ -15,12 +15,12 @@
 
 ## Spielertypen
 
-* Power-Gamer: Neue Gimmicks
-* Kampfsau: Kämpfe
-* Taktiker: Probleme, die ihn fordern
-* Spezialist: Kommt der Charaktertyp zum Zug? 
-* Schauspieler: Mein Drama
-* Geschichtenerzähler: Spannende Geschichte → viele Wendungen ⇒ definitiv
+* Power-Gamer: Neue Gimmicks ⇒ Magier, Schütze, 
+* Kampfsau: Kämpfe ⇒ Wache, Echsenmensch. 
+* Taktiker: Probleme, die ihn fordern ⇒ Wache (Planen: Leiter der Wachen?), Schütze, Mechaniker, 
+* Spezialist: Kommt der Charaktertyp zum Zug? ⇒ Paladin, Krieger (Wache), Katzenmensch. 
+* Schauspieler: Mein Drama ⇒ Echsen-Sänger, Mensch mit harter Vergangenheit, Vogel (Hierarchie). 
+* Geschichtenerzähler: Spannende Geschichte → viele Wendungen ⇒ definitiv ⇒ Jeder, der im Trekk verankert ist und Hintergrund hat. Tara. 
 
 ## Spezies
 
@@ -38,15 +38,15 @@
 
 * Botschafter und Kundschafter der Vögel „Siuit“
 * Schlagkräftiger, einfach gestrickter Echsenmensch. Arbeiter. 
-* ?? Feingliedriger Echsen-Sänger. Sieht die Chancen der Menschen. Übernimmt die Aufgaben, die Schnelligkeit brauchen (beladen der Karossen, …)
-* ?? Katzen-Händler und Tänzer. 
+* ?? Feingliedriger Echsen-Sänger. Sieht die Chancen der Menschen. Übernimmt die Aufgaben, die Kraft und Schnelligkeit brauchen (beladen der Karossen, …)
+* Katzen-Händler und Tänzer. 
 
 ### Menschen
 
 * „Tara Holzschnitt“, menschliche Tischlerin. Ihr Vater war Künstler, sie will praktischer arbeiten. 
 * Anfangender menschlicher Tech-Magier mit Kupferprisma, in das sein Meister zwei Zauber fixiert hat: Heilen und Tech stärken. Er kann irgendwann lernen, selbst Zauber hineinzubinden, bisher kann er sie aber nur aktivieren. 
 * Menschlicher Glücksritter und angeheuerte Wache des Trekks. Vertraut auf seine Kampffertigkeiten. 
-* 
+* Menschlicher Leiter der Wachen. Mit klobiger Schrotflinte (Vorderlader). Hat Familie in Hochturm. „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
 
 # Szenen
 
