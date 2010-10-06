@@ -126,45 +126,34 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="686" YPOS="695.28" WIDTH="216" HEIGHT="514.999685947914" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 216 0 216 0 216 0 216 0 216 515 216 515 216 515 216 515 0 515 0 515 0 515 0 515 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 216 0 216 0 216 0 216 0 216 515 216 515 216 515 216 515 0 515 0 515 0 515 0 515 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="562" gYpos="0" gWidth="762" gHeight="516" LAYER="0" BOOKMARK="0" NEXTITEM="4" BACKITEM="-1">
-            <ITEXT CH="O’Bahn"/>
+            <ITEXT CH="Der Trekk"/>
             <para PARENT="Titel"/>
-            <ITEXT CH="Mo­ti­va­ti­on"/>
+            <ITEXT CH="Es ist ei­ne Zeit hoff­nungs­vol­ler Sied­ler und mu­ti­ger Aben­teu­rer. Die Men­schen ha­ben ein neu­es Land ent­deckt, reich an wert­vol­len Roh­stof­fen und ma­gi­schen Wun­dern. Die Neu­en Lan­de rei­chen von den ver­schnei­ten Hu­warr­gip­feln im Os­ten, über die damp­fen­den Marsch­lan­de im Nor­den, bis hin zu den le­bens­feind­li­chen Wüs­ten im Wes­ten - da­zwi­schen frucht­ba­re Ebe­nen, die von wil­den Flüs­sen und dem glit­zern­den See der Lie­der durch­bro­chen wer­den."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Trekks der Sied­ler zie­hen aus dem Sü­den den rei­ßen­den Fluss Kan­wao ent­lang zum See und um die Marsch­lan­de zu den Ber­gen, in de­nen sie die Roh­stof­fe für die damp­fen­den und ma­gi­sche Fun­ken sprü­hen­den An­trie­be ih­rer Ka­ros­sen su­chen. Ziel ei­nes je­den Trekks ist die nächs­te Stadt, um die­se zu be­fes­ti­gen und den Reich­tum des Um­lan­des zu er­schlie­ßen. Ist die Stadt ge­gen das wech­sel­haf­te Wet­ter und Über­fäl­le ge­feit, zie­hen neue Trekks den Fluss ent­lang, um in wei­ter Fer­ne ei­ne neue Sied­lung zu grün­den – ein schein­bar nie­mals en­den­der Zy­klus. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Sie rei­sen auf damp­fen­den Ka­ros­sen, ecki­gen Wa­gen aus Holz und Me­tall, ge­zo­gen von ge­wal­ti­gen Ech­sen, de­ren Mus­keln ge­stärkt wer­den durch mo­der­ne, dampf­ge­trie­be­ne Tech­nik. Laut rat­tern die Ka­ros­sen den Fluss ent­lang, un­be­irrt der ver­ständ­nis­lo­sen Bli­cke der Urein­woh­ner des Lan­des."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Die ein­fa­chen Ech­sen­menschen an den Ufern der Flüs­se und Seen, die ih­re kla­gen­den Lie­der in den Abend­wind sin­gen. Die fremd­ar­ti­gen Vo­gel­men­schen in ih­ren win­di­gen Nes­tern in den Ge­bir­gen, die an­mu­ti­ge Tän­ze in der Luft voll­füh­ren. Sie le­ben im Ein­klang mit der Na­tur der Neu­en Lan­de, bar jeg­li­chen Ver­ständ­nis­ses den Ein­dring­lin­gen ge­gen­über. Ein­zig die Kat­zen­menschen, über­all und nir­gends hei­misch, he­gen ih­rer Neu­gier­de ge­schul­de­tes Ver­ständ­nis."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Nach­züg­ler"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Ret­sam Adoy, ein fal­ti­ger al­ter Kunst­samm­ler, hat ei­ne Ex­pe­di­ti­on zu­sam­men­ge­stellt, die auf dem Pla­ne­ten O'Bahn im Si­xi­lac-Sek­tor ei­ni­ge wert­vol­le Ar­te­fak­te ber­gen soll. Als Be­loh­nung win­ken ei­ni­ge zehn­tau­send cre­dits und na­tür­lich Fol­ge­auf­trä­ge. "/>
+            <ITEXT CH="Der Trekk ist kurz vor dem Auf­bruch und be­fin­det sich auf dem In­nen­hof ei­nes großen Han­dels­hau­ses. Es sind zwölf Ka­ros­sen die nach Nor­den zie­hen. Die Trekkfüh­re­rin An­ni­ka Weg­fin­der un­ter­rich­tet die An­we­sen­den noch­mals über das Ziel und den Weg dort­hin. Da be­tritt ei­ne klei­ne Fa­mi­lie den Hof und bit­tet dar­um, man mö­ge sie und ih­re Ka­ros­se noch mit­neh­men. Die Trekkfüh­re­rin ver­hält sich neu­tral und lässt die Mit­glie­der des Trekks ent­schei­den, die aus un­ter­schied­li­chen La­ger und Für­spre­chern be­steht."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Der Pla­net ist spär­lich be­wach­sen, es gibt kein in­tel­li­gen­tes Le­ben und die Tier­welt be­steht weit­ge­hend aus Pflan­zen­fres­sern; leicht ver­dien­tes Geld. "/>
+            <ITEXT KERN="0" CH="Für die Händ­ler er­greift Na­tha­niel Münz­wechs­ler das Wort: &quot;Ei­ne Ka­ros­se mehr ver­braucht auch mehr Res­sour­cen, macht den Trekk auf­fäl­li­ger und bür­det un­se­ren Wa­chen mehr Ar­beit auf. Doch die Fahrt ist lang und das Weib sieht gut aus. Wenn sie mir bei­schläft, dann spre­che ich für die Leu­te.&quot;"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Die SC tref­fen sich an Bord des Raum­schiffs T'Na­ma­da, das un­ter dem Kom­man­do von Ka­pi­tän K'Caj steht, ei­nem Flau­schia­ner (pel­zi­ge Fell­ku­gel oh­ne Ar­me, mit ei­nem Durch­mes­ser von 50 Zen­ti­me­ter, te­le­ki­ne­ti­schen Fä­hig­kei­ten und nur halb so schnell wie ein Mensch). "/>
+            <ITEXT KERN="0" CH="Für die Wan­der­ar­bei­ter spricht Re­bek­ka Kup­fer­stich: &quot;Was sche­ren uns die Be­lan­ge der an­de­ren. Wir ma­chen nur un­se­ren Dienst. Ich spre­che für den, der mir und mei­nen Leu­ten was zahlt.&quot;"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Die Mei­nung der Ko­lo­nis­ten ver­tritt Theis aus Gras­hain: &quot;Wir al­le wol­len ein neu­es Le­ben an­fan­gen. Wir soll­ten zu­sam­men­hal­ten. Al­so neh­men wir sie mit. Wür­de uns al­ler­dings das An­recht auf ihr Land zu­ge­spro­chen, dann sol­len sie hier­blei­ben.&quot;"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Vor­be­spre­chung"/>
+            <ITEXT KERN="0" CH="Gebt her Eu­re Kin­der!"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Die T'Na­ma­da fliegt oh­ne of­fi­zi­el­len Na­vi­ga­tor der Gil­de und im Sen­sor­schat­ten, um ei­ner Ent­de­ckung durch den Zoll und der da­mit ver­bun­de­nen Steu­er zu ent­ge­hen."/>
+            <ITEXT CH="Die Wan­der­pre­di­ger der Kir­che des Hei­li­gen Flux zie­hen über das Land und be­geg­nen auch dem Trekk. Die Pre­di­ger sind freund­lich und bit­ten dar­um mit je­dem Kind spre­chen zu dür­fen. Im Ver­lauf des Ge­sprächs wer­den die Kin­der auf Ma­gie un­ter­sucht. Be­sitzt je­mand ent­spre­chen­de Fä­hig­kei­ten, bit­ten die Wan­der­pre­di­ger dar­um die Per­son mit­neh­men zu dür­fen, um die­se zu läu­tern und aus­zu­bil­den. Die Bit­ten der Kir­che sind je­doch nur auf­ge­setz­te Höf­lich­keit. Lehnt der Trekk ab, so ver­su­chen die Wan­der­pre­di­ger zu ei­nem spä­te­ren Zeit­punkt die Kin­der zu ent­füh­ren."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="K'Car hält die Vor­be­spre­chung in der Kan­ti­ne des Schif­fes. Die Ar­te­fak­te be­fin­den sich, laut Ret­sam Adoy, in den Rui­nen ei­nes al­ten und längst ver­las­se­nen Tem­pels. Die Zi­vi­li­sa­ti­on, die den Tem­pel er­bau­te, ist lan­ge un­ter­ge­gan­gen und vom Ant­litz der Welt ver­schwun­den. Sag­te zu­min­dest ein Mit­glied der Ster­nen­fah­rer­gil­de, de­ren Na­vi­ga­to­ren den be­kann­ten Welt­raum be­rei­sen und stets in neue Ge­bie­te vor­drin­gen, um die­se zu er­kun­den."/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="O’Bahn"/>
+            <ITEXT KERN="0" CH="Nicht mit uns!"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="O’Bahn ist ein klei­ner und hei­ßer Dschun­gel­pla­net mit dich­ter Ve­ge­ta­ti­on. Die Lan­de­fäh­re muss da­her auf ei­ner ho­hen Fel­sen­klip­pe lan­den, et­wa zwei Ta­ge Fuß­marsch vom Tem­pel ent­fernt. Ent­ge­gen der An­ga­ben des Auf­trag­ge­bers, ist im dich­ten Dschun­gel ein ste­tes Fau­chen, Fie­pen, Schrei­en und Kräch­zen zu hö­ren. Der Dschun­gel ist vol­ler Le­ben und ei­ni­ges da­von hört sich nach Raub­tier an. Die Tier­welt hält sich je­doch mög­lichst au­ßer­halb des Sicht­felds der Spie­ler­cha­rak­tere auf."/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Der Tem­pel"/>
-            <para PARENT="Untertitel"/>
-            <ITEXT CH="Nach zwei Ta­gen Fuß­marsch er­reicht die Ex­pe­di­ti­on den Tem­pel. Es han­delt sich um ei­ne klei­ne Stein­py­ra­mi­de, die von Lia­nen, Moo­sen und Flech­ten be­wach­sen ist. Es gibt nur einen sicht­ba­ren Ein­gang, der von ei­ner schwe­ren Stein­plat­te ver­schlos­sen wird. Be­rührt je­mand die Stein­plat­te, fährt links an der Sei­te ei­ne Ver­tä­fe­lung zur Sei­te und ein Sen­sor­feld mit un­be­kann­ten Schrift­zei­chen wird sicht­bar. "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Das Feld ver­fügt über Ener­gie und ist funk­ti­ons­fä­hig. Die Schrift­zei­chen zu ent­schlüs­seln ist ei­ne leich­te Auf­ga­be (9), ein ein­fa­ches ma­the­ma­ti­sches Rät­sel han­delt: &quot;2_+_2_=&quot;. Die Tü­re selbst kann nur mit schwe­ren Waf­fen ge­knackt wer­den. Bei ei­nem Akt der Ge­walt fährt ei­ne Selbst­schuss­an­la­ge aus der De­cke (FW: 15, Scha­den 8). Das ge­schieht auch, so­bald je­mand drei mal hin­ter­ein­an­der die falsche Ant­wort ein­tippt."/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Das Ho­lo­gramm"/>
-            <para PARENT="Untertitel"/>
-            <ITEXT CH="Vom Ein­gang aus ge­langt man so­fort in ei­ne große und ho­he Zen­tral­hal­le. Im Zen­trum der Hal­le flammt bei Be­tre­ten das Ho­lo­gramm ei­nes men­schen­ähn­li­chen We­sens auf. Es trägt ei­ne hel­le Ro­be und spricht in ei­ner frem­den Spra­che (ex­trem schwer zu ver­ste­hen: 18). "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Das We­sen ist ein pro­gram­mier­ter Waf­fen­ver­käu­fer, der zwei zen­tra­le Fra­gen stellt: &quot;Möch­ten Sie ei­ne Ak­ti­vie­rung der pla­ne­ta­ren Waf­fen­such­sys­te­me zur De­mons­tra­ti­on? Wie vie­le Ein­hei­ten sol­len wir lie­fern?&quot; Bei ei­ner ver­se­hent­li­chen Ak­ti­vie­rung (das Ho­lo­gramm könn­te ein Wort als &quot;Ja&quot; aus­le­gen) wird die Ex­pe­di­ti­on auf dem Rück­weg zur Lan­de­fäh­re von drei schwe­ben­den Waf­fen­ku­geln mit La­ser­feu­er un­ter Be­schuss ge­nom­men (FW: 12, Scha­den: 4, Wund­schwel­le: 4, Rüs­tung: 3). Be­stel­lun­gen ver­lau­fen im Sand:  Die Waf­fen­händ­ler ha­ben sich bei ih­rer letz­ten De­mons­tra­ti­on selbst aus­ge­löscht."/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Ver­bor­ge­nes La­ger"/>
-            <para PARENT="Untertitel"/>
-            <ITEXT CH="Hin­ter dem Ho­lo­gramm be­fin­det sich ei­ne wei­te­re Stein­plat­te, die bei Be­rüh­rung zur Sei­te glei­tet und die Ener­gie­ein­heit frei­gibt. Sämt­li­che Ge­rä­te sind Tech­no-Ar­te­fak­te. Es kön­nen die Ener­gie­ein­heit (hand­li­cher Nu­klear­ge­ne­ra­tor), das Steu­er­dis­play (mit Mul­ti-In­ter­face) und das Ho­lo­pro­gramm (passt sich in der Ge­stalt un­ge­fähr den Be­su­chern an) ent­nom­men wer­den. Der Aus­bau oh­ne Be­schä­di­gung ist ei­ne for­dern­de Auf­ga­be (12)."/>
+            <ITEXT CH="Die Men­schen ha­ben mit der Be­sied­lung des Lan­des be­gon­nen, oh­ne Rück­sicht auf die Urein­woh­ner des Lan­des zu neh­men. Ei­ni­ge Kat­zen­menschen ha­ben es sich nun zur Auf­ga­be ge­macht die fort­schrei­ten­de Ko­lo­ni­sie­rung auf­zu­hal­ten, um die pri­mi­ti­ver­en Stäm­me und Sied­lun­gen im Lan­des­in­ne­re zu schüt­zen. Sie hal­ten den Trekk auf und for­dern ei­ne Um­kehr."/>
             <para PARENT="Default Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
