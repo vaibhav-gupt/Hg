@@ -19,7 +19,7 @@
     - „Bin gefragt worden, ob ich helfe.“
     
 * Echse, grazil
-    - Sieht keine Personen, sondern zusammenhänge. Intelligent und geschickt, aber fremdartig. 
+    - Sieht keine Personen, sondern zusammenhänge. Intelligent und geschickt, aber fremdartig. Es ist egal, was den Einzelnen passiert, solange das Muster stimmt. 
     - Speer. 
     - Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
 
@@ -27,6 +27,7 @@
     - Schrotflinte aufrüstbar: Sachen anschrauben. Eine Grund-Szene sollte etwas bieten, das er anschrauben kann. Vielleicht auch eine Zusatzszene. 
     - Leiter der Wache. 
     - Ernst. „Was wir hier machen ist wichtig.“
+    - Hat Familie in Hochturm. „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
     
 * Menschlicher Glücksritter. 
     - fröhlich. 
