@@ -1,5 +1,50 @@
 # Charaktere
 
+## Charaktere
+
+* Vogel-Kundschafter: Siuit. 
+    - Ziel: Stabile Kontakte unter Menschen knüpfen. In den verschiedensten Bereichen Personen kennenlernen, Bindung aufbauen. 
+    - Körpersprache und Hierarchie: Wer hat das letzte Wort. Derjenige, der zuletzt spricht, denn wenn er gesprochen hat, gilt sein Wort. 
+    - Fliegen. 
+
+* Katzen-Händler/Tänzer: Sawwar
+    - lokales Wissen: Würfeln und die SL sagt dir ein Detail. 
+    - verhandeln. 
+    - fröhlich: Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. Gibt nie auf. 
+    - Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
+
+* Echse, stark und schwer
+    - Schwerer Blutholz-Knüppel aus den Ebenen hinter den Bergen. 
+    - „Du machst das richtige oder du machst das Falsche. Nur das gibt es.“
+    - „Bin gefragt worden, ob ich helfe.“
+    
+* Echse, grazil
+    - Sieht keine Personen, sondern zusammenhänge. Intelligent und geschickt, aber fremdartig. 
+    - Speer. 
+    - Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
+
+* Menschliche Wache mit klobiger Schrotflinte. 
+    - Schrotflinte aufrüstbar: Sachen anschrauben. Eine Grund-Szene sollte etwas bieten, das er anschrauben kann. Vielleicht auch eine Zusatzszene. 
+    - Leiter der Wache. 
+    - Ernst. „Was wir hier machen ist wichtig.“
+    
+* Menschlicher Glücksritter. 
+    - fröhlich. 
+    - Sehr gut kämpfen. 
+    - „Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
+    
+* Tischlerin: Tara Holzschnitt. 
+    - Vater *hatte* einen guten Stand bei Händlern. Ihr Name hat Kraft. Seine Schnitte hängen in einigen Wägen. 
+    - Hat ein Händchen für Technik. 
+    - Sucht eine unabhängige Gruppe. 
+
+* Tech-Adept (anfangend)
+    - Sein Meister hat ihm ein Prisma mit 3 Zaubern gebunden. Er kann irgendwann lernen, selbst Zauber hineinzubinden. 
+    - Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt zu seinem Auge machen und dadurch sehen. 
+    - Zauber: Heilen: Eine Wunde pro Tag. 
+    - Zauber: Dampfkraft. Maschinen haben 1,5x Leistung, verbrauchen aber 2x so viel. 
+    - In der Nähe von Maschinen keine Erschöpfung. Stattdessen arbeiten die Maschinen plötzlich schwerer (er zieht die Kraft auf ihren Antrieben). In der Wildnis bricht er nach 6 Zaubern zusammen. Braucht eine Nacht Schlaf. 
+
 ## Szenen und Herausforderungen
 
 * Nachzügler: Vermitteln
