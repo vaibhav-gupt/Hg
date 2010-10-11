@@ -20,14 +20,42 @@ Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. Gibt nie auf.
 lokales Wissen: Würfeln und die SL sagt dir ein Detail. 
 Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
 #Rog’Ba
+##Starker und massiger Echsenmensch mit Blutholz-Knüppel
 
-#Harsur Oarol
-
+    - Schwerer Blutholz-Knüppel aus den Ebenen hinter den Bergen. 
+    - „Du machst das richtige oder du machst das Falsche. Nur das gibt es.“
+    - „Gefragt, ob helfe.“
+#Harsur Roal
+##Graziler Echsenmensch
+    - Sieht keine Personen, sondern zusammenhänge. Intelligent und geschickt, aber fremdartig. Es ist egal, was den Einzelnen passiert, solange das Muster stimmt. 
+    - Speer. 
+    - Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
 #Gar aus Hochturm
-
+##Menschlicher Leiter der Wache mit klobiger Schrotflinte
+    - Schrotflinte aufrüstbar: Sachen anschrauben. Eine Grund-Szene sollte etwas bieten, das er anschrauben kann. Vielleicht auch eine Zusatzszene. 
+    - Leiter der Wache. 
+    - Ernst. „Was wir hier machen ist wichtig.“
+    - Hat Familie in Hochturm. „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
 #Keros aus Waldsee
-
+##Fröhlicher menschlicher Glücksritter
+    - fröhlich. 
+    - Sehr gut kämpfen. 
+    - „Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
 #Tara Holzschnitt
-
+##Menschliche Tishlerin
+    - Vater *hatte* einen guten Stand bei Händlern. Ihr Name hat Kraft. Seine Schnitte hängen in einigen Wagen. 
+    - Hat ein Händchen für Technik. 
+    - Sucht eine unabhängige Gruppe. 
+
 #Sotar Adepto
-
+##Menschlicher Tech-Adept
+    - Sein Meister hat ihm ein Prisma mit 3 Zaubern gebunden. Er kann irgendwann lernen, selbst Zauber hineinzubinden. 
+    - Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt zu seinem Auge machen und dadurch sehen. 
+    - Zauber: Heilen: Eine Wunde pro Tag. 
+    - Zauber: Dampfkraft. Maschinen haben 1,5x Leistung, verbrauchen aber 2x so viel. 
+    - In der Nähe von Maschinen keine Erschöpfung. Stattdessen arbeiten die Maschinen plötzlich schwerer (er zieht die Kraft auf ihren Antrieben). In der Wildnis bricht er nach 6 Zaubern zusammen. Braucht eine Nacht Schlaf. 
+
+
+
+
+
