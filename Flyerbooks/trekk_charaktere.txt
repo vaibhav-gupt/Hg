@@ -1,13 +1,13 @@
 #Siuit
 ##Vogel-Botschafter und Kundschafter des Trekks
 Siuit…
-*Eigenschaften: ++ Grazie
-*Beruf: Botschafter: 9
+*Eigenschaften: Grazie: +
+*Berufe: Botschafter: 9, Kundschafter: 9
 *Fertigkeiten: Fliegen: 12
-*Merkmale: ++ Fliegen
-Vogelmenschen sind…
-Körpersprache und Hierarchie: Wer hat das letzte Wort. Derjenige, der zuletzt spricht, denn wenn er gesprochen hat, gilt sein Wort. 
-Fliegen: 
+*Merkmale: Kann fliegen: ++
+Vogelmenschen sind… – zwei mal vier Meter Spannweite, auf dem Rücken gefaltet. 
+Körpersprache und Hierarchie: Wer hat das letzte Wort. Derjenige, der zuletzt spricht ist der Ranghöchste, denn wenn er gesprochen hat, gilt sein Wort. 
+Fliegen: Vogelmenschen können sich auf ihren Schwingen in die Luft erheben und etwa ein viertel ihres Körpergewichtes tragen. Dabei werden sie etwas ohne größere Anstrengung schneller als ein rennender Mensch. 
 Ziel: Stabile Kontakte unter Menschen knüpfen. In den verschiedensten Bereichen Personen kennenlernen, Bindung aufbauen. 
 #Sawwar
 ##Katzen-Händler und Tänzer
