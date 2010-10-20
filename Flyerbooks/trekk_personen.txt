@@ -1,0 +1,39 @@
+Wichtige Personen
+=================
+
+Mechanisches: 
+
+* Normaler Siedler: 4Δ
+* Sprecher, Leiter: 7Δ (wie die Charaktere: Angehende Helden)
+* Annike: 10Δ (erfahren)
+
+Im Trekk
+--------
+
+* Annike Wegfinder: Leiterin des Trekks, erfahren und gerecht. Auf der ersten Karosse. 
+* Kolbert Nagelmacher mit seinem jungen und attraktiven Weib Sara
+* Der hakennasige Nathaniel Münzwechsler: Specher der Händler
+* Die ältere Rebekka Kupferstich: Sprecherin der Wanderarbeiter
+* Der hagere Theis aus Grashain: Sprecher der Siedler
+
+* Der weißgefiederte Vogelmensch Naaak: Kundschafter
+* Der zerzauste Katzenmensch Roijas: Heiler
+
+* Händler: Scharfsinnig/Stur/Wortgewandt: +, Beruf: Händler: 9, Verhandeln/Überreden/Buchhaltung (Besonderheit): 12, Besitz: Handelswaren. 
+* Wanderarbeiter: Fingerspitzengefühl/Muskeln/Erfahrung: +, Beruf: *Handwerk einsetzen*: 12
+* Siedler: Mut/Neugier/Überzeugungskraft: +, Beruf: Bauer/Schäfer/Tagelöhner/Jäger: 9, Schleuder/Flötenspiel/Geschichtenerzählen/*Hobby*: 12, Gartenarbeit/Kochen/Kräuterkunde/Fallenstellen/*Praktische Fertigkeit*: 12 – Schleuder: Schaden 2-4 (Kleiner Stein-500g Bleikugel), Mindestwürfe zum Treffen im Kampf: 15 (<5m), 18 (<50m), 21 (<200m, nur mit Bleikugel); höher als bei Gewehr und Bogen, weil die Schleuder deutlich schwerer zu verwenden ist. Während Übungen 3 Punkte niedriger. 
+* Wache: Stark/Selbstbewusst/Aggressiv: +, Schnell/Ausdauernd/Gute Augen: +, Beruf: Wache, Kurzschwert/Speer: 12 – Kurzschwert/Speer: Schaden 3.
+
+Passende Schwächen für Siedler: Verzweifelt: -, 
+
+Verschieden Handwerke: Holzfäller, Kupferschmied, Mechanikus, Dampfer (für die magischen Dampfmaschinen), 
+
+Wanderprediger der Kirche des Flux
+----------------------------------
+
+* Baltzer der Stille: Magisch aktiv: Stillezauber. 
+* Päbstin Ether VII „Esther die Ruhige“
+* Normaler Wanderprediger: Fanatismus/Gemütsruhe/Charisma: +, Beruf: *Früherer Beruf*, Lehre des Flux: 12, *Frühere Spezialität*: 12
+* Erleuchter (Kämpfer der Prediger)
+
+
