@@ -2022,3 +2022,13 @@ Zu PiHalbes Beitrag über Verschwörungen.
 
 ------ 
 
+Für Abenteuer in recht gefährlichen Wäldern würde sich vielleicht ein System eignen, in dem jede Verletzung statt Schaden die Möglichkeit der Infektion o.ä. bedeutet, aber nur große Verletzungen wirklich gleich behindern. 
+
+Kurzer Entwurf: Du zählst jeden Tag alle Verletzungen (auf kleine Schnitte durch Dornen und so). Wunden zählen dabei dreifach. Jede Nacht würfelst du auf deine Krankheitsresistenz/Konstitution/… mit der Anzahl von Verletzungen als Malus. Misslingt die Probe, entzündet sich eine der Verletzungen und gilt als zusätzliche Wunde. Gelingt die Probe, wird eine der Wunden für den nächsten Tag zu einer einfachen Verletzung. 
+
+Einfache Verletzungen werden über Nacht irrelevant. Wunden bleiben, bis sie geheilt sind. 
+
+Willst du es nicht so heldenhaft, sondern eher gefährlich, lass die Verletzungen einfach erst nach einer Woche verfallen. 
+
+------ 
+
