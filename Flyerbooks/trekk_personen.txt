@@ -36,13 +36,13 @@ Wanderprediger der Kirche des Flux
     - Wahrer Glaube: +
     - Gesegnet und Geläutert¹: +
     - Beruf: Priester: 9
-    - Zauber: Pfad der Stille²: 12
-    - Zauber: Zauber stoppen³: 12
+    - Gebet: Pfad der Stille²: 12
+    - Gebet: Zauber stoppen³: 12
     - Segnung: 2 Zauber
     - Nachteil: Verhaltenskodex: Alle Magie läutern oder auslöschen
     - ¹: Für Magie nutzbar, und für Widerstand gegen Magie
-    - ²: Baltzer schlägt ein Kreuz und legt beide Hände auf den Boden. Er schafft dort wo er läuft einen eine Elle breiten Pfad, auf dem nichts einen Laut verursachen kann. Nach einer Minute föst sich der Pfad wieder auf. Ist der Pfad länger als 7 Meter, erschöpft er Baltzer und erschwert so eine Stunde lang alle seine Handlungen um 3 Punkte. Insgesamt kann Baltzer 20 Meter Pfad der Stille pro Tag erschaffen. Danach braucht er Ruhe. Um den Pfad zu beginnen, würfelt er gegen 9. 
-    - ³: Baltzer zeichnet einen Kreis in die Luft und schlägt ein Kreuz, wenn jemand Magie einsetzt. Dann würfelt er auf Magie stoppen. Ist sein Ergebnis höher oder gleich des Ergebnisses des Magiers, geht der Zauber ins Leere. Pro Tag kann er drei Zauber stoppen, die den anderen erschöpfen würden, oder 7 kleine, die den anderen nicht erschöpfen. Der andere erhält die Erschöpfung trotzdem. 
+    - ²: Baltzer legt beide Hände aneinander, löst sie dann ruckartig und legt sie auf den Boden. Er schafft dort wo er läuft einen eine Elle breiten Pfad, auf dem nichts einen Laut verursachen kann. Nach einer Minute föst sich der Pfad wieder auf. Ist der Pfad länger als 7 Meter, erschöpft er Baltzer und erschwert so eine Stunde lang alle seine Handlungen um 3 Punkte. Insgesamt kann Baltzer 20 Meter Pfad der Stille pro Tag erschaffen. Danach braucht er Ruhe. Um den Pfad zu beginnen, würfelt er gegen 9. 
+    - ³: Baltzer zeichnet einen Kreis in die Luft, wenn jemand Magie einsetzt. Dann presst er die Hände zusammen und würfelt auf Zauber stoppen. Ist sein Ergebnis höher oder gleich des Ergebnisses des Magiers, geht der Zauber ins Leere. Pro Tag kann er drei Zauber stoppen, die den anderen erschöpfen würden, oder 7 kleine, die den anderen nicht erschöpfen. Der andere erhält die Erschöpfung trotzdem. 
 * Päbstin Ether VII „Esther die Ruhige“
 * Normaler Wanderprediger: Fanatismus/Gemütsruhe/Charisma: +, Beruf: *Früherer Beruf*, Lehre des Flux: 12, *Frühere Spezialität*: 12
 * Erleuchter (Kämpfer der Prediger)
