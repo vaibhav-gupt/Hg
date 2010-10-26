@@ -1,32 +1,31 @@
 #Siuit
 ##Vogel-Botschafter und Kundschafter des Trekks
 Siuit…
-*Eigenschaften: Grazie: +
+*Trickreich: +
 *Berufe: Botschafter: 9, Kundschafter: 9
 *Fertigkeiten: Fliegen: 12
-*Merkmale: Kann fliegen: ++
+*Kann fliegen: ++
 *Wundschwelle: 4
-Fliegen: Vogelmenschen können sich auf ihren Schwingen in die Luft erheben und etwa ein Viertel ihres Körpergewichtes tragen. Dabei werden sie ohne größere Anstrengung etwas schneller als ein rennender Mensch. 
-Die meisten Vogelmenschen leben in ihren Städten in den Bergen und nur wenige kommen herunter in die Ebenen, um Handel zu treiben oder die Neuankömmlinge kennen zu lernen. Sie tragen die Köpfe von Vögeln auf federbedeckten Menschenkörpern und aus ihren Rücken wachsen Flügel von zwei mal vier Meter Spannweite, auf dem Boden auf die Größe eines eineinhalb Meter hohen Rucksacks gefaltet. 
-Hierarchie und Körpersprache: Jeder Vogelmensch hat einen Platz in der Hierarchie, und wer am höchsten steht spricht zuletzt, denn wenn er gesprochen hat, gilt sein Wort. Sie Sprechen nicht nur mit ihren Stimmen, sondern mit ihrem ganzen Körpe und eine subtile Veränderung der Haltung kann mehr erzählen als ganze Sätze von anderen Spezies. Ihre gesprochene Sprache besteht aus weit tragenden Pfeiflauten, aber sie lernen auch andere Sprachen in Windeseile. 
-Ziel: Stabile Kontakte unter Menschen knüpfen. In den verschiedensten Bereichen Personen kennenlernen, Bindung aufbauen. 
-#Sawwar
+Fliegen: Kann im Flug etwa ein Viertel seines Körpergewichtes tragen. Er fliegt ohne Anstrengung so schnell wie ein rennender Mensch. 
+Die meisten Vogelmenschen leben in Städten in den Bergen. Nur wenige kommen herunter in die Ebenen, um Handel zu treiben oder die Neuankömmlinge kennen zu lernen. Sie sind menschengroß mit zwei mal vier Metern Spannweite.
+Jeder Vogelmensch hat einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper und eine subtile Veränderung der Haltung kann mehr erzählen als ganze Sätze von anderen Spezies. Ihre gesprochene Sprache besteht aus Pfeiflauten, doch sie lernen andere Sprachen in Windeseile. 
+Ziel: Stabile Kontakte unter Menschen knüpfen. 
+#Awwar
 ##Katzen-Händler
-Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. Gibt nie auf.
-*Eigenschaften: Grazile Bewegungen: +, Gutgelaunt: +
+Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. 
+*Grazil: +, Gutgelaunt: +
 *Beruf: Händler: 9
 *Fertigkeiten: lokales Wissen: 12, Zum Lächeln bringen: 12
-*Merkmale: Instinktive Anpassung: +, Unbeugsamer Optimismus: +
+*Instinktive Anpassung: +, Unbeugsamer Optimismus: +
 *Wundschwelle: 4
 Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail. 
-Instinktive Anpassung: Katzenmenschen passen sich binnen Tagen den Verhaltensweisen und der Körpersprache ihrer Umgebung an, so dass es wirkt, als würden sie seit Jahren in der Gesellschaft leben. Sie verstehen nicht unbedingt, warum sie sich so verhalten, passen sich aber automatisch ein. Wo immer sie leben wirken sie, als wären sie schon immer Teil der Gemeinschaft. 
-Unbeugsamer Optimismus: Katzenmenschen gewinnen auch nach den schlimmsten Erlebnissen binnen Stunden ihren Optimismus zurück. Es ist noch niemandem gelungen, Katzenmenschen bleibend zu brechen. 
-Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. In einem Stamm oder Stadtviertel leben meist ein oder zwei kleine Familien, die jeweils ihre nächsten Nachbarn kennen. 
+Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. 
 Katzenmenschen bewegen sich meist graziler als Menschen und sind etwas kleiner und leichter. 
-Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
+Katzenmenschen passen sich instinktiv binnen Tagen den Verhaltensweisen und der Körpersprache ihrer Umgebung an als würden sie seit Jahren in der Gesellschaft leben. Sie gewinnen meist auch nach den schlimmsten Erlebnissen binnen Stunden ihren Optimismus zurück. 
+Ziel: Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
 #Rog’Ba
 ##Echsenmensch mit Blutholz-Knüppel
-*Eigenschaften: Stark: +, Massig: +, Denkt einfach: -
+*Stark: +, Massig: +, Denkt einfach: -
 *Beruf: Echsen-Krieger: 9
 *Fertigkeiten: Knüppelkampf: 15, Waffenlos: 12
 *Waffe: Blutholz-Knüppel: Schaden 6. 
@@ -37,41 +36,41 @@ Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen od
     - „Gefragt, ob helfe.“
 #Harsur Roal
 ##Graziler Echsenmensch
-*Eigenschaften: 
+*
 *Beruf: 
 *Fertigkeiten: 
-*Merkmale: 
+*
 *Wundschwelle: 4
     - Sieht keine Personen, sondern zusammenhänge. Intelligent und geschickt, aber fremdartig. Es ist egal, was den Einzelnen passiert, solange das Muster stimmt. 
     - Speer. 
     - Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
 #Gera aus Hochturm
 ##Menschliche Leiterin der Wache mit klobiger Schrotflinte
-*Eigenschaften: 
+*
 *Beruf: 
 *Fertigkeiten: 
-*Merkmale: 
+*
 *Wundschwelle: 4
     - Schrotflinte aufrüstbar: Sachen anschrauben. Eine Grund-Szene sollte etwas bieten, das er anschrauben kann. Vielleicht auch eine Zusatzszene. 
     - Leiter der Wache. 
     - Ernst. „Was wir hier machen ist wichtig.“
     - Hat Familie in Hochturm. „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
-#Keros aus Waldsee
+#Kars aus Waldsee
 ##Fröhlicher menschlicher Glücksritter
-*Eigenschaften: 
+*
 *Beruf: 
 *Fertigkeiten: 
-*Merkmale: 
+*
 *Wundschwelle: 4
     - fröhlich. 
     - Sehr gut kämpfen. 
     - „Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
 #Tara Holzschnitt
-##Menschliche Tishlerin
-*Eigenschaften: 
+##Menschliche Tischlerin
+*
 *Beruf: 
 *Fertigkeiten: 
-*Merkmale: 
+*
 *Wundschwelle: 4
     - Vater *hatte* einen guten Stand bei Händlern. Ihr Name hat Kraft. Seine Schnitte hängen in einigen Wagen. 
     - Hat ein Händchen für Technik. 
@@ -79,10 +78,10 @@ Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen od
 
 #Sotar Adepta
 ##Menschliche Tech-Adeptin
-*Eigenschaften: 
+*
 *Beruf: 
 *Fertigkeiten: 
-*Merkmale: 
+*
 *Wundschwelle: 4
     - Ihr Meister hat ihr ein Prisma mit 3 Zaubern gebunden. Sie kann irgendwann lernen, selbst Zauber hineinzubinden. 
     - Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt zu seinem Auge machen und dadurch sehen. 

@@ -64,57 +64,75 @@
         <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="655.28094488189" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="145.609652477651" YPOS="63.1591545793618" WIDTH="170.07874015748" HEIGHT="250" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 170.079 0 170.079 0 170.079 0 170.079 0 170.079 250 170.079 250 170.079 250 170.079 250 0 250 0 250 0 250 0 250 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 170.079 0 170.079 0 170.079 0 170.079 0 170.079 250 170.079 250 170.079 250 170.079 250 0 250 0 250 0 250 0 250 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="170.07874015748" gHeight="505.000000003158" LAYER="0" BOOKMARK="0" NEXTITEM="7" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="145.609652477651" YPOS="60.3245089100705" WIDTH="170.07874015748" HEIGHT="250" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 170.079 0 170.079 0 170.079 0 170.079 0 170.079 250 170.079 250 170.079 250 170.079 250 0 250 0 250 0 250 0 250 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 170.079 0 170.079 0 170.079 0 170.079 0 170.079 250 170.079 250 170.079 250 170.079 250 0 250 0 250 0 250 0 250 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="170.07874015748" gHeight="505.000000003158" LAYER="0" BOOKMARK="0" NEXTITEM="7" BACKITEM="-1">
             <ITEXT CH="Siuit"/>
             <para PARENT="Name"/>
             <ITEXT CH="Vo­gel-Bot­schaf­ter und Kund­schaf­ter des Trekks"/>
             <para PARENT="Untertitel"/>
             <ITEXT CH="Siuit…"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Ei­gen­schaf­ten: ++ Gra­zie"/>
+            <ITEXT KERN="0" CH="Trick­reich: +"/>
             <para PARENT="Werte"/>
-            <ITEXT CH="Be­ruf: Bot­schaf­ter: 9"/>
+            <ITEXT CH="Be­ru­fe: Bot­schaf­ter: 9, Kund­schaf­ter: 9"/>
             <para PARENT="Werte"/>
             <ITEXT CH="Fer­tig­kei­ten: Flie­gen: 12"/>
             <para PARENT="Werte"/>
-            <ITEXT CH="Merk­ma­le: ++ Flie­gen"/>
+            <ITEXT CH="Kann flie­gen: ++"/>
             <para PARENT="Werte"/>
-            <breakframe/>
-            <ITEXT CH="Vo­gel­men­schen sind…"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Kör­per­spra­che und Hier­ar­chie: Wer hat das letz­te Wort. Der­je­ni­ge, der zu­letzt spricht, denn wenn er ge­spro­chen hat, gilt sein Wort. "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Flie­gen: "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Ziel: Sta­bi­le Kon­tak­te un­ter Men­schen knüp­fen. In den ver­schie­dens­ten Be­rei­chen Per­so­nen ken­nen­ler­nen, Bin­dung auf­bau­en. "/>
+            <ITEXT CH="Wund­schwel­le: 4"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Flie­gen: Kann im Flug et­wa ein Vier­tel sei­nes Kör­per­ge­wich­tes tra­gen. Er fliegt oh­ne An­stren­gung so schnell wie ein ren­nen­der Mensch. "/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT KERN="0" CH="Saw­war"/>
+            <ITEXT KERN="0" CH="Die meis­ten Vo­gel­men­schen le­ben in Städ­ten in den Ber­gen. Nur we­ni­ge kom­men her­un­ter in die Ebe­nen, um Han­del zu trei­ben oder die Neu­an­kömm­lin­ge ken­nen zu ler­nen. Sie sind men­schen­groß mit zwei mal vier Me­tern Spann­wei­te."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Je­der Vo­gel­mensch hat einen Platz in der Hier­ar­chie. Wer am höchs­ten steht spricht zu­letzt. Wenn er ge­spro­chen hat, gilt sein Wort. Sie spre­chen mit ih­rem gan­zen Kör­per und ei­ne sub­ti­le Ver­än­de­rung der Hal­tung kann mehr er­zäh­len als gan­ze Sät­ze von an­de­ren Spe­zi­es. Ih­re ge­spro­che­ne Spra­che be­steht aus Pfeiflau­ten, doch sie ler­nen an­de­re Spra­chen in Win­desei­le. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ziel: Sta­bi­le Kon­tak­te un­ter Men­schen knüp­fen. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <breakframe/>
+            <ITEXT KERN="0" CH="Aw­war"/>
             <para PARENT="Name"/>
-            <ITEXT CH="Kat­zen-Händ­ler und Tän­zer"/>
+            <ITEXT CH="Kat­zen-Händ­ler"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Schafft es, auf fast je­des Ge­sicht ein Lä­cheln zu zau­bern. Gibt nie auf."/>
+            <ITEXT CH="Schafft es, auf fast je­des Ge­sicht ein Lä­cheln zu zau­bern. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Ei­gen­schaf­ten: "/>
+            <ITEXT KERN="0" CH="Gra­zil: +, Gut­ge­launt: +"/>
             <para PARENT="Werte"/>
             <ITEXT CH="Be­ruf: Händ­ler: 9"/>
             <para PARENT="Werte"/>
-            <ITEXT CH="Fer­tig­kei­ten: ver­han­deln: 12"/>
+            <ITEXT CH="Fer­tig­kei­ten: lo­ka­les Wis­sen: 12, Zum Lä­cheln brin­gen: 12"/>
             <para PARENT="Werte"/>
-            <ITEXT CH="Merk­ma­le: "/>
+            <ITEXT CH="In­stink­ti­ve An­pas­sung: +, Un­beug­sa­mer Op­ti­mis­mus: +"/>
             <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le: 4"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Lo­ka­les Wis­sen: Wür­fel ge­gen ei­ne von der SL ge­ge­be­ne Schwie­rig­keit. Ge­lingt der Wurf, sagt dir die SL ein De­tail. "/>
+            <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Kat­zen­menschen sind…"/>
+            <ITEXT KERN="0" CH="Kat­zen­menschen sind über­all in den Neu­en Lan­den hei­misch. Sie fin­den sich ge­nau­so un­ter den Stäm­men der Ech­sen­menschen wie in den Städ­ten der Vo­gel­men­schen, doch nie­mals in großer Zahl. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="lo­ka­les Wis­sen: Wür­feln und die SL sagt dir ein De­tail. "/>
+            <ITEXT KERN="0" CH="Kat­zen­menschen be­we­gen sich meist gra­zi­ler als Men­schen und sind et­was klei­ner und leich­ter. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Will neue in­ter­essan­te Leu­te kan­nen­ler­nen, idea­ler­wei­se wel­che, die rum­kom­men oder Wa­ren brau­chen. "/>
+            <ITEXT KERN="0" CH="Kat­zen­menschen pas­sen sich in­stink­tiv bin­nen Ta­gen den Ver­hal­tens­wei­sen und der Kör­per­spra­che ih­rer Um­ge­bung an als wür­den sie seit Jah­ren in der Ge­sell­schaft le­ben. Sie ge­win­nen meist auch nach den schlimms­ten Er­leb­nis­sen bin­nen Stun­den ih­ren Op­ti­mis­mus zu­rück. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ziel: Will neue in­ter­essan­te Leu­te kan­nen­ler­nen, idea­ler­wei­se wel­che, die rum­kom­men oder Wa­ren brau­chen. "/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT KERN="0" CH="Rog’Ba"/>
             <para PARENT="Name"/>
-            <ITEXT CH="Star­ker und mas­si­ger Ech­sen­mensch mit Blut­holz-Knüp­pel"/>
+            <ITEXT CH="Ech­sen­mensch mit Blut­holz-Knüp­pel"/>
             <para PARENT="Untertitel"/>
+            <ITEXT CH="Stark: +, Mas­sig: +, Denkt ein­fach: -"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Be­ruf: Ech­sen-Krie­ger: 9"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Fer­tig­kei­ten: Knüp­pel­kampf: 15, Waf­fen­los: 12"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Waf­fe: Blut­holz-Knüp­pel: Scha­den 6. "/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le: 5"/>
+            <para PARENT="Werte"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="    - Schwe­rer Blut­holz-Knüp­pel aus den Ebe­nen hin­ter den Ber­gen. "/>
@@ -128,6 +146,14 @@
             <para PARENT="Name"/>
             <ITEXT CH="Gra­zi­ler Ech­sen­mensch"/>
             <para PARENT="Untertitel"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Be­ruf: "/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Fer­tig­kei­ten: "/>
+            <para PARENT="Werte"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le: 4"/>
+            <para PARENT="Werte"/>
             <breakframe/>
             <ITEXT CH="    - Sieht kei­ne Per­so­nen, son­dern zu­sam­men­hän­ge. In­tel­li­gent und ge­schickt, aber fremd­ar­tig. Es ist egal, was den Ein­zel­nen pas­siert, so­lan­ge das Mus­ter stimmt. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -136,10 +162,18 @@
             <ITEXT KERN="0" CH="    - Men­schen ver­ste­hen. Wie funk­tio­niert ein Trekk? Wie funk­tio­niert ei­ne Stadt?"/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT KERN="0" CH="Gar aus Hoch­turm"/>
+            <ITEXT KERN="0" CH="Ge­ra aus Hoch­turm"/>
             <para PARENT="Name"/>
-            <ITEXT CH="Mensch­li­cher Lei­ter der Wa­che mit klo­bi­ger Schrot­flin­te"/>
+            <ITEXT CH="Mensch­li­che Lei­te­rin der Wa­che mit klo­bi­ger Schrot­flin­te"/>
             <para PARENT="Untertitel"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Be­ruf: "/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Fer­tig­kei­ten: "/>
+            <para PARENT="Werte"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le: 4"/>
+            <para PARENT="Werte"/>
             <breakframe/>
             <ITEXT CH="    - Schrot­flin­te auf­rüst­bar: Sa­chen an­schrau­ben. Ei­ne Grund-Sze­ne soll­te et­was bie­ten, das er an­schrau­ben kann. Viel­leicht auch ei­ne Zu­satz­sze­ne. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -150,10 +184,18 @@
             <ITEXT KERN="0" CH="    - Hat Fa­mi­lie in Hoch­turm. „Wir kön­nen die Sied­ler nicht im Stich las­sen! Je­der, der den Mut hat, Neu­es zu wa­gen, muss sei­ne Chan­ce be­kom­men!“"/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT KERN="0" CH="Ke­ros aus Wald­see"/>
+            <ITEXT KERN="0" CH="Kars aus Wald­see"/>
             <para PARENT="Name"/>
             <ITEXT CH="Fröh­li­cher mensch­li­cher Glücks­rit­ter"/>
             <para PARENT="Untertitel"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Be­ruf: "/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Fer­tig­kei­ten: "/>
+            <para PARENT="Werte"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le: 4"/>
+            <para PARENT="Werte"/>
             <breakframe/>
             <ITEXT CH="    - fröh­lich. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -164,8 +206,16 @@
             <breakframe/>
             <ITEXT KERN="0" CH="Ta­ra Holz­schnitt"/>
             <para PARENT="Name"/>
-            <ITEXT CH="Mensch­li­che Tis­h­le­rin"/>
+            <ITEXT CH="Mensch­li­che Tisch­le­rin"/>
             <para PARENT="Untertitel"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Be­ruf: "/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Fer­tig­kei­ten: "/>
+            <para PARENT="Werte"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le: 4"/>
+            <para PARENT="Werte"/>
             <breakframe/>
             <ITEXT CH="    - Va­ter *hat­te* einen gu­ten Stand bei Händ­lern. Ihr Na­me hat Kraft. Sei­ne Schnit­te hän­gen in ei­ni­gen Wa­gen. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -175,12 +225,20 @@
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT KERN="0" CH="So­tar Adep­to"/>
+            <ITEXT KERN="0" CH="So­tar Adep­ta"/>
             <para PARENT="Name"/>
-            <ITEXT CH="Mensch­li­cher Tech-Adept"/>
+            <ITEXT CH="Mensch­li­che Tech-Adep­tin"/>
             <para PARENT="Untertitel"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Be­ruf: "/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Fer­tig­kei­ten: "/>
+            <para PARENT="Werte"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le: 4"/>
+            <para PARENT="Werte"/>
             <breakframe/>
-            <ITEXT CH="    - Sein Meis­ter hat ihm ein Pris­ma mit 3 Zau­bern ge­bun­den. Er kann ir­gend­wann ler­nen, selbst Zau­ber hin­ein­zu­bin­den. "/>
+            <ITEXT CH="    - Ihr Meis­ter hat ihr ein Pris­ma mit 3 Zau­bern ge­bun­den. Sie kann ir­gend­wann ler­nen, selbst Zau­ber hin­ein­zu­bin­den. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="    - Zau­ber: Ent­fern­tes Au­ge: Kann ein be­lie­bi­ges tech­ni­sches Ob­jekt zu sei­nem Au­ge ma­chen und da­durch se­hen. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -188,7 +246,12 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="    - Zau­ber: Dampf­kraft. Ma­schi­nen ha­ben 1,5x Leis­tung, ver­brau­chen aber 2x so viel. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="    - In der Nä­he von Ma­schi­nen kei­ne Er­schöp­fung. Statt­des­sen ar­bei­ten die Ma­schi­nen plötz­lich schwe­rer (er zieht die Kraft auf ih­ren An­trie­ben). In der Wild­nis bricht er nach 6 Zau­bern zu­sam­men. Braucht ei­ne Nacht Schlaf. "/>
+            <ITEXT KERN="0" CH="    - In der Nä­he von Ma­schi­nen kei­ne Er­schöp­fung. Statt­des­sen ar­bei­ten die Ma­schi­nen plötz­lich schwe­rer (sie zieht die Kraft auf ih­ren An­trie­ben). In der Wild­nis bricht sie nach 6 Zau­bern zu­sam­men. Braucht ei­ne Nacht Schlaf. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -237,7 +300,7 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="335.60965248126" YPOS="318.15915458252" WIDTH="170.07874015748" HEIGHT="250" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 170.079 0 170.079 0 170.079 0 170.079 0 170.079 250 170.079 250 170.079 250 170.079 250 0 250 0 250 0 250 0 250 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 170.079 0 170.079 0 170.079 0 170.079 0 170.079 250 170.079 250 170.079 250 170.079 250 0 250 0 250 0 250 0 250 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="43.0866141738395" gYpos="255.000000003158" gWidth="170.07874015748" gHeight="505.000000003158" LAYER="0" BOOKMARK="0" NEXTITEM="12" BACKITEM="14">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="147.369050973892" YPOS="89.1666141732284" WIDTH="61.63" HEIGHT="72.27" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 61.63 0 61.63 0 61.63 0 61.63 0 61.63 72.27 61.63 72.27 61.63 72.27 61.63 72.27 0 72.27 0 72.27 0 72.27 0 72.27 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 61.63 0 61.63 0 61.63 0 61.63 0 61.63 72.27 61.63 72.27 61.63 72.27 61.63 72.27 0 72.27 0 72.27 0 72.27 0 72.27 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="147.369050973892" YPOS="89.1666141732284" WIDTH="61.63" HEIGHT="72.27" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0372" LOCALSCY="0.0372" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Dokumente/eigenes/RPG/ews/Quelldateien/Gertrud_Wenzel/draketo_siuit copy.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 61.63 0 61.63 0 61.63 0 61.63 0 61.63 72.27 61.63 72.27 61.63 72.27 61.63 72.27 0 72.27 0 72.27 0 72.27 0 72.27 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 61.63 0 61.63 0 61.63 0 61.63 0 61.63 72.27 61.63 72.27 61.63 72.27 61.63 72.27 0 72.27 0 72.27 0 72.27 0 72.27 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -266,6 +329,10 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="717.953385826772" YPOS="344.73125984252" WIDTH="61.63157895" HEIGHT="72.27" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../" PFILE2="" PFILE3="" PRFILE="Adobe RGB" EPROF="" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 61.6316 0 61.6316 0 61.6316 0 61.6316 0 61.6316 72.27 61.6316 72.27 61.6316 72.27 61.6316 72.27 0 72.27 0 72.27 0 72.27 0 72.27 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 61.6316 0 61.6316 0 61.6316 0 61.6316 0 61.6316 72.27 61.6316 72.27 61.6316 72.27 61.6316 72.27 0 72.27 0 72.27 0 72.27 0 72.27 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="259.398496240602" YPOS="182.533893789592" WIDTH="45.8646616541353" HEIGHT="30.2480610976259" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.023304" LOCALSCY="0.023304" LOCALX="0" LOCALY="-1921.87614035372" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Dokumente/eigenes/RPG/ews/Quelldateien/Gertrud_Wenzel/draketo_siuit copy.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 45.8647 0 45.8647 0 45.8647 0 45.8647 0 45.8647 30.2481 45.8647 30.2481 45.8647 30.2481 45.8647 30.2481 0 30.2481 0 30.2481 0 30.2481 0 30.2481 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 45.8647 0 45.8647 0 45.8647 0 45.8647 0 45.8647 30.2481 45.8647 30.2481 45.8647 30.2481 45.8647 30.2481 0 30.2481 0 30.2481 0 30.2481 0 30.2481 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>

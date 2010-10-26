@@ -69,13 +69,13 @@
             <para PARENT="Titel"/>
             <ITEXT CH="Wann hast du zu­letzt ge­dacht, „jetzt könn­ten wir toll spie­len“, aber ge­ra­de kein Aben­teu­er oder kei­ne Cha­rak­tere pa­rat ge­habt? Soll­te dir das ir­gend­wann wie­der pas­sie­ren (viel­leicht ge­ra­de jetzt?), dann lass doch die­ses Flyer­buch in die Bre­sche sprin­gen. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Es ist ein In­stant-Rol­len­spiel für Cons und kur­ze Run­den. Für dich als SL ent­hält es ein Grunds­ze­na­rio mit Er­klä­rung der Grund­la­gen (das hältst du ge­ra­de in der Hand). Für die Spie­ler hat es vor­ge­fer­tig­te Cha­rak­tere und In­fof­lyer mit ver­sie­gel­ten Zu­satz­sze­na­ri­en. "/>
+            <ITEXT KERN="0" CH="Es ist ein In­stant-Rol­len­spiel für Cons und kur­ze Run­den. Für dich als Spiel­lei­tung (SL) ent­hält es ein Grunds­ze­na­rio mit Er­klä­rung der Grund­la­gen (das hältst du ge­ra­de in der Hand). Für die Spie­ler hat es vor­ge­fer­tig­te Cha­rak­tere und In­fof­lyer mit ver­sie­gel­ten Zu­satz­sze­na­ri­en. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Die Sze­na­ri­en sind für einen er­fah­re­nen Spiel­lei­ter (SL) und 2-5 an­fan­gen­de bis er­fah­re­ne Spie­ler ge­dacht. "/>
+            <ITEXT KERN="0" CH="Die Sze­na­ri­en sind für ei­ne er­fah­re­ne SL und 2-5 an­fan­gen­de bis er­fah­re­ne Spie­ler ge­dacht. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Ab­lauf"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Du liest die­sen Flyer (Die­se Sei­te und das Grunds­ze­na­rio auf der Rück­sei­te), wäh­rend die Spie­ler die In­fo­tei­le ih­rer Flyer le­sen und ih­re Cha­rak­ter­kar­ten tau­schen, bis sie die­je­ni­gen ha­ben, die sie wol­len (im Zwei­fel gibt es hier si­cher noch mehr). Ist ein Cha­rak­ter dop­pelt, dann gebt ihm ein­fach einen neu­en Na­men :) "/>
+            <ITEXT CH="Du liest die­sen Flyer (Die­se Sei­te und das Grunds­ze­na­rio auf der Rück­sei­te), wäh­rend die Spie­ler die In­fo­tei­le ih­rer Flyer le­sen und ih­re Cha­rak­ter­kar­ten tau­schen, bis sie die­je­ni­gen ha­ben, die sie wol­len (im Zwei­fel gibt es hier si­cher noch mehr). Wenn Neu­lin­ge da­bei sind, er­klärst du kurz, was Rol­len­spiel be­deu­tet. Ist ein Cha­rak­ter dop­pelt, dann gebt ihm ein­fach einen neu­en Na­men :) "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Dann le­gen die Spie­ler die Zu­satz­sze­na­ri­en da­zu, die sie spie­len wol­len (sie sind auf der ver­sie­gel­ten Sei­te ih­rer In­fof­lyer). Du brichst das Sie­gel und liest sie, wäh­rend die Spie­ler was zu trin­ken be­sor­gen. Wenn ihr be­reit seid, fangt ihr mit der ers­ten Sze­ne des Grunds­ze­na­ri­os an. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -87,11 +87,11 @@
             <para PARENT="Beispiel"/>
             <ITEXT CH="Pro­ben"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Wenn ihr wis­sen woll, ob ein Cha­rak­ter et­was schafft, könnt ihr es aus­wür­feln. Da­für schaut ihr, ob ei­ne sei­ner Fer­tig­kei­ten oder Be­ru­fe euch pas­send er­scheint. Hat er kei­nen pas­sen­den Wert, dann nehmt ein­fach 3. Da­nach schaut ihr die Ei­gen­schaf­ten des Cha­rak­ters an. Nutzt er ei­ne Fer­tig­keit als Wert, er­hält er für je­des + in ei­ner zur Pro­be pas­sen­den Ei­gen­schaft einen Punkt Bo­nus. Nutzt er einen Be­ruf, er­hält er nur einen Punkt Bo­nus pro + in der höchs­ten pas­sen­den Ei­gen­schaft. Un­ter­stüt­zen ihn an­de­re, die  pas­sen­de Fer­tig­kei­ten oder Be­ru­fe ha­ben, er­hält er pro Un­ter­stüt­zer einen wei­te­ren Punkt Bo­nus. "/>
+            <ITEXT CH="Wenn ihr wis­sen woll, ob ein Cha­rak­ter et­was schafft, könnt ihr es aus­wür­feln. Da­für schaut ihr, ob ei­ne sei­ner Fer­tig­kei­ten oder sei­ner Be­ru­fe euch pas­send er­scheint. Hat er kei­nen pas­sen­den Wert, dann nehmt ein­fach 3. Da­nach schaut ihr sei­ne Ei­gen­schaf­ten an. Nutzt er ei­ne Fer­tig­keit als Wert, er­hält er für je­des + in ei­ner zur Pro­be pas­sen­den Ei­gen­schaft einen Punkt Bo­nus. Nutzt er einen Be­ruf, er­hält er nur einen Punkt Bo­nus pro + in der höchs­ten pas­sen­den Ei­gen­schaft. Un­ter­stüt­zen ihn an­de­re, die  pas­sen­de Fer­tig­kei­ten oder Be­ru­fe ha­ben, er­hält er pro Un­ter­stüt­zer einen wei­te­ren Punkt Bo­nus. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Nun werft ihr einen W6 (sechs­sei­ti­gen Wür­fel). Ist die Au­gen­zahl ge­ra­de, dann ad­diert ihr sie zu eu­rem Wert. Ist sie un­ge­ra­de, zieht ihr sie ab (so wür­feln heißt ±W6). Wenn das Er­geb­nis min­des­tens der Schwie­rig­keit der Pro­be ent­spricht (9 ist ein­fach, 12 for­dernd, 15 schwer), ge­lingt die Pro­be. Die Dif­fe­renz zur Schwie­rig­keit gibt an, wie gut die Pro­be ge­lingt. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Ta­ra will ei­ne Tra­ge bau­en. Sie ist Tisch­le­rin (Be­ruf [Tisch­le­rin]: 9) und sehr ge­schickt (+ Ge­schick). Sie er­hält al­so einen Punkt Bo­nus auf ih­ren Be­ruf und ist da­mit bei 10. Die SL legt fest, dass ei­ne Tra­ge bau­en ein­fach ist (Schwie­rig­keit 9). Ta­ras Spie­le­rin wür­felt  ei­ne 1. 1 ist un­ge­ra­de und wird ab­ge­zo­gen. Ta­ra kommt auf 9 (10 mi­nus 1). Sie schafft die Pro­be al­so ge­ra­de so."/>
+            <ITEXT KERN="0" CH="Ta­ra will ei­ne Tra­ge bau­en. Sie ist Tisch­le­rin (Be­ruf [Tisch­le­rin]: 9) und sehr ge­schickt (+ Ge­schick). Sie er­hält al­so einen Punkt Bo­nus auf ih­ren Be­ruf und ist da­mit bei 10. Die SL legt fest, dass ei­ne Tra­ge bau­en ein­fach ist (Schwie­rig­keit 9). Ta­ras Spie­le­rin wür­felt  ei­ne 1. 1 ist un­ge­ra­de, wird al­so ab­ge­zo­gen und Ta­ra kommt auf 9 (10 mi­nus 1). Sie schafft die Pro­be da­mit ge­ra­de so."/>
             <para PARENT="Beispiel"/>
             <ITEXT CH="Wett­strei­te"/>
             <para PARENT="Untertitel"/>
@@ -105,9 +105,9 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Die Wund­schwel­le liegt meist zwi­schen 3 und 6, Waf­fen­scha­den und Rüs­tungs­schutz zwi­schen 1 (Dolch / Dart / Stoff) und 8 (Axt / Ge­wehr / Plat­te). Wenn ei­ner der Kämp­fer sich nur ver­tei­di­gen will, er­hält er 6 Punk­te Bo­nus, ver­ur­sacht aber kei­nen Scha­den, wenn er trifft."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Für die Hei­lung wür­felt der Spie­ler je­de Wo­che mit ±W6. Da­zu ad­diert er 3 pro + in der höchs­ten pas­sen­den Ei­gen­schaft. Ist das Er­geb­nis grö­ßer oder gleich 0, dann heilt ei­ne Wun­de. "/>
+            <ITEXT KERN="0" CH="Für die Hei­lung wür­felt der Spie­ler je­de Wo­che mit ±W6. Da­zu ad­diert er 1 pro + in pas­sen­den Ei­gen­schaf­ten. Ist das Er­geb­nis grö­ßer oder gleich 0, dann heilt ei­ne Wun­de. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Ta­ra (Waf­fen­los 12, Ge­schick +) hat ei­ne Ta­schen­die­bin er­wi­scht und will sie aus­schal­ten. Die Die­bin hat nur ih­ren Be­ruf (Ta­schen­die­bin 9). Ta­ras Spie­le­rin wür­felt ei­ne 4 und kommt auf 17 (12 plus 1 plus 4). Die Spiel­lei­te­rin wür­felt ei­ne 3, er­gibt 6 (9 mi­nus 3). Ta­ra trifft al­so ih­re Geg­ne­rin mit ei­nem Un­ter­schied von 11 Punk­ten. Der Scha­den über­steigt die Wund­schwel­le der Die­bin (4) und reicht aus, um ei­ne Wun­de zu ver­ur­sa­chen. Die Ta­schen­die­bin hat bis zu ih­rer Hei­lung einen Ab­zug von 3 auf al­le Pro­ben."/>
+            <ITEXT KERN="0" CH="Ta­ra (Waf­fen­los 12, Ge­schick +) hat ei­ne Ta­schen­die­bin er­wi­scht und will sie aus­schal­ten. Die Die­bin hat nur ih­ren Be­ruf (Ta­schen­die­bin 9). Ta­ras Spie­le­rin wür­felt ei­ne 4 und kommt auf 17 (12 plus 1 plus 4). Die Spiel­lei­te­rin wür­felt ei­ne 3, was 6 er­gibt (9 mi­nus 3). Ta­ra trifft al­so ih­re Geg­ne­rin mit ei­nem Un­ter­schied von 11 Punk­ten. Der Scha­den über­steigt die Wund­schwel­le der Die­bin (4) und reicht aus, um ei­ne Wun­de zu ver­ur­sa­chen. Die Ta­schen­die­bin hat bis zu ih­rer Hei­lung einen Ab­zug von 3 auf al­le Pro­ben."/>
             <para PARENT="Beispiel"/>
             <ITEXT CH="Ne­ben­cha­rak­tere im­pro­vi­sie­ren"/>
             <para PARENT="Untertitel"/>
