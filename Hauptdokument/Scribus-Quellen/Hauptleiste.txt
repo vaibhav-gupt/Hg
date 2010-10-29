@@ -392,7 +392,7 @@ Zusätzlich steigt der Mindestwurf um 3 pro Wunde.
 
 **MW = Grundmindestwurf + 3 pro Wunde.
 
-*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde, wenn er trotzdem weiterarbeitet, 3 Wochen. Trägt er zwei Wunden davon, heilt er die erste in etwa 6 Wochen und die zweite in 3 weiteren. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, wird er gut 2 Monate lang nur stark eingeschränkt arbeiten können. Gönnt er sich Ruhe, fällt er etwa einen Monat lang ganz aus. 
+*Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde, wenn er trotzdem weiterarbeitet, durchschnittllich 3 Wochen. Trägt er zwei Wunden davon, heilt er die erste in etwa 6 Wochen und die zweite in 3 weiteren. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, wird er gut 2 Monate lang nur stark eingeschränkt arbeiten können. Gönnt er sich Ruhe, fällt er etwa einen Monat lang ganz aus. 
 
 Verfehlt die Spielerin den Mindestwurf bei der Heilungsprobe um mehr als 6 Punkte, dann entzünden sich die bisherigen Wunden und der Charakter erhält eine zusätzliche Wunde. 
 
