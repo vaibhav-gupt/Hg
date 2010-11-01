@@ -1,10 +1,10 @@
-﻿#Flyer leiten
+﻿#Spielen
 Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das irgendwann wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Flyerbuch in die Bresche springen.
 Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Für dich als Spielleitung (SL) enthält es ein Grundszenario mit Erklärung der Grundlagen (das hältst du gerade in der Hand). Für die Spieler hat es vorgefertigte Charaktere und Infoflyer mit versiegelten Zusatzszenarien.
 Die Szenarien sind für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht.
 ##Ablauf
-Du liest diesen Flyer (Diese Seite und das Grundszenario auf der Rückseite), während die Spieler die Infoteile ihrer Flyer lesen und ihre Charakterkarten tauschen, bis sie diejenigen haben, die sie wollen (im Zweifel gibt es hier sicher noch mehr). Wenn Neulinge dabei sind, erklärst du kurz, was Rollenspiel bedeutet. Ist ein Charakter doppelt, dann gebt ihm einfach einen neuen Namen :)
-Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (sie sind auf der versiegelten Seite ihrer Infoflyer). Du brichst das Siegel und liest sie, während die Spieler was zu trinken besorgen. Wenn ihr bereit seid, fangt ihr mit der ersten Szene des Grundszenarios an.
+Du liest diesen Text und das Grundszenario danach, während die Spieler nur diesen Regelteil lesen und ihre Charakterkarten tauschen, bis sie diejenigen haben, die sie wollen (im Zweifel gibt es hier sicher noch mehr). Wenn Neulinge dabei sind, erklärst du kurz, was Rollenspiel bedeutet. Ist ein Charakter doppelt, dann gebt ihm einfach einen neuen Namen :)
+Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (es gibt sie hier auf den Spieletagen als versiegelte Flyer am Infostand). Du brichst das Siegel und liest sie, während die Spieler was zu trinken besorgen. Wenn ihr bereit seid, fangt ihr mit der ersten Szene des Grundszenarios an.
 ##Grundregeln
 Als Regelwerk verwenden Flyerbücher das freie 1w6-System. Die Charaktere haben eine Reihe Eigenschaften, Berufe, Fertigkeiten und Merkmale, die sie von der Masse abheben. Berufe und Fertigkeiten haben einen Zahlenwert. Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche).
 *Eigenschaften wären Geschick, Intelligenz oder Stolz. Tischlerin wäre ein Beruf, Waffenlos eine Fertigkeit. Merkmale wären Reich (+), Süchtig (-) oder Gutes Gedächtnis (+).
