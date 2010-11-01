@@ -1,15 +1,13 @@
 #Siuit
-##Vogel-Botschafter und Kundschafter des Trekks
-Siuit…
+##Vogel-Botschafter und Kundschafter
 *Trickreich: +
 *Berufe: Botschafter: 9, Kundschafter: 9
 *Fertigkeiten: Fliegen: 12
 *Kann fliegen: ++
-*Wundschwelle: 4
-Fliegen: Kann im Flug etwa ein Viertel seines Körpergewichtes tragen. Er fliegt ohne Anstrengung so schnell wie ein rennender Mensch. 
-Die meisten Vogelmenschen leben in Städten in den Bergen. Nur wenige kommen herunter in die Ebenen, um Handel zu treiben oder die Neuankömmlinge kennen zu lernen. Sie sind menschengroß mit zwei mal vier Metern Spannweite.
-Jeder Vogelmensch hat einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper und eine subtile Veränderung der Haltung kann mehr erzählen als ganze Sätze von anderen Spezies. Ihre gesprochene Sprache besteht aus Pfeiflauten, doch sie lernen andere Sprachen in Windeseile. 
-Ziel: Stabile Kontakte unter Menschen knüpfen. 
+*Wundschwelle: 4Fliegen: Kann im Flug 15 kg tragen und fliegt dreimal so schnell wie ein rennender Mensch. 
+Die meisten Vogelmenschen leben in Städten in den Bergen. Sie sind menschengroß mit zwei mal vier Metern Spannweite. Nur wenige kommen in die Ebene, für Handel oder neue Kontakte. 
+Jeder Vogelmensch hat einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper. Eine Änderung der Haltung erzählt mehr als ganze Sätze von anderen Spezies. Ihre gesprochene Sprache besteht aus Pfeiflauten. Andere Sprachen lernen sie leicht. 
+Ziel: Kontakte unter Menschen knüpfen. 
 #Awwar
 ##Händler der Katzenmenschen
 Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. 
@@ -18,8 +16,7 @@ Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern.
 *Fertigkeiten: lokales Wissen: 12, Zum Lächeln bringen: 12
 *Instinktive Anpassung: +, Unbeugsamer Optimismus: +
 *Wundschwelle: 4
-Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail. 
-Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. 
+Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail. Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. 
 Katzenmenschen bewegen sich meist graziler als Menschen und sind etwas kleiner und leichter. 
 Katzenmenschen passen sich instinktiv binnen Tagen den Verhaltensweisen und der Körpersprache ihrer Umgebung an als würden sie seit Jahren in der Gesellschaft leben. Sie gewinnen meist auch nach den schlimmsten Erlebnissen binnen Stunden ihren Optimismus zurück. 
 Ziel: Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
