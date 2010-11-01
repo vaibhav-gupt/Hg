@@ -11,7 +11,7 @@ Fliegen: Kann im Flug etwa ein Viertel seines Körpergewichtes tragen. Er fliegt
 Jeder Vogelmensch hat einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper und eine subtile Veränderung der Haltung kann mehr erzählen als ganze Sätze von anderen Spezies. Ihre gesprochene Sprache besteht aus Pfeiflauten, doch sie lernen andere Sprachen in Windeseile. 
 Ziel: Stabile Kontakte unter Menschen knüpfen. 
 #Awwar
-##Katzen-Händler
+##Händler der Katzenmenschen
 Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. 
 *Grazil: +, Gutgelaunt: +
 *Beruf: Händler: 9
@@ -35,13 +35,13 @@ Ziel: Will neue interessante Leute kannenlernen, idealerweise welche, die rumkom
     - „Du machst das richtige oder du machst das Falsche. Nur das gibt es.“
     - „Gefragt, ob helfe.“
 #Harsur Roal
-##Graziler Echsenmensch
+##Grazile Echsenfrau
 *
 *Beruf: 
 *Fertigkeiten: 
 *
 *Wundschwelle: 4
-    - Sieht keine Personen, sondern zusammenhänge. Intelligent und geschickt, aber fremdartig. Es ist egal, was den Einzelnen passiert, solange das Muster stimmt. 
+    - Sieht keine Personen, sondern Zusammenhänge. Intelligent und geschickt, aber fremdartig. Es ist egal, was den Einzelnen passiert, solange das Muster stimmt. 
     - Speer. 
     - Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
 #Gera aus Hochturm
