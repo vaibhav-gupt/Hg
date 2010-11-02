@@ -9,7 +9,8 @@ Stets einen lustigen Kommentar im Schnabel und ein allzu klares Auge für jede d
 Fliegen: Kann im Flug 15 kg tragen und fliegt dreimal so schnell wie ein rennender Mensch. 
 *Wundschwelle: 4
 Die meisten Vogelmenschen leben in Städten in den Bergen. Sie sind menschengroß mit zwei mal vier Metern Spannweite. Nur wenige kommen in die Ebene, für Handel oder neue Kontakte. 
-Jeder Vogelmensch hat einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper. Eine Änderung der Haltung erzählt mehr als ganze Sätze von anderen Spezies. Ihre gesprochene Sprache besteht aus Pfeiflauten. Andere Sprachen lernen sie leicht. 
+Jeder Vogelmensch hat dabei einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper. Eine Änderung ihrer Haltung erzählt oft mehr als ganze Sätze von anderen Spezies. 
+Der gesprochene Teil ihrer Sprache besteht aus Pfeiflauten. Andere Sprachen lernen sie leicht. 
 Ziel: Kontakte unter Menschen knüpfen. 
 #Awwar
 ##Händler der Katzenmenschen
@@ -62,7 +63,7 @@ Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stad
 Schrotflinte: Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzelkugeln)
 *Wundschwelle: 4
 Die schweren Bronze-Schrotflinten aus der Manufaktur von Lydia Kaltschmied haben standardisierte Schraubkontakte und können mit eine Vielzahl von Zusätzen erweitert werden. Gera aus Hochturm nutzt bisher nur zwei verschiedene Läufe: Einen für Schrotmunition und einen für größere Bleikugeln. 
-Sie hat Familie in Hochturm. 
+Ihr Mann Hamul ist der Schmied Hochturms und kümmert sich dort um ihre Tochter Sem und ihren Sohn Rei, während Gera auf Reisen ist. 
 Warum sie dabei ist: „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
 #Kars aus Waldsee
 ##Fröhlicher menschlicher Glücksritter
@@ -93,8 +94,8 @@ Warum sie dabei ist: „Wir können die Siedler nicht im Stich lassen! Jeder, de
 *
 *Prisma mit 3 Zaubern: +, 
 *Wundschwelle: 4
-Ihr Meister hat ihr ein Prisma mit 3 Zaubern gebunden. Sie kann selbst noch keine Zauber binden.
-In der Nähe von Maschinen kann sie beliebig viele Zauber sprechen, ohne zu ermüden. Stattdessen arbeiten die Maschinen plötzlich schwerer (sie zieht die Kraft auf ihren Antrieben). In der Wildnis bricht sie nach 6 Zaubern zusammen und braucht eine Nacht Schlaf, um sich zu erholen. 
-Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt, das sie berührt, zu ihrem Auge machen und dadurch sehen. Ihr eigenes Auge erblindet für diese Zeit. Der Zauber bricht spätestens wenn Sotar einschläft.
-Zauber: Heilen: Eine Wunde pro Tag. 
-Zauber: Dampfkraft. Maschinen haben 1,5x Leistung, verbrauchen aber 2x so viel. 
+Ihre Meisterin hat ihr 3 Zauber in ein Prisma gebunden. Sotar selbst kann noch keine Zauber binden. Zum Zaubern würfelt sie auf Tech-Adeptin gegen die Schwierigkeit des Zaubers. 
+In der Nähe von Maschinen kann sie beliebig zaubern, ohne zu ermüden. Die Maschinen arbeiten dann schwerer. In der Wildnis (>20m vom Trekk) bricht sie nach 6 Zaubern zusammen und braucht eine Nacht Schlaf. 
+Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt, das sie berührt, zu ihrem Auge machen und dadurch sehen. Eins ihrer eigenen Augen erblindet. Hält an, bis Sotar einschläft. Schwierigkeit: 12
+Zauber: Heilen: Der Verzauberte regeneriert eine Wunde pro Tag. Mehrere Zauber addieren sich nicht. Schwierigkeit: 12
+Zauber: Dampfkraft. Eine Maschine bringt die 1,5-fache Leistung, verbraucht aber doppelt so viel. Schwierigkeit: 9
