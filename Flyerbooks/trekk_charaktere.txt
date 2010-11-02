@@ -54,13 +54,14 @@ Rog’Ba kennt sie erst seit sie im Trekk reist, aber die Geschichte der Reise �
 Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
 #Gera aus Hochturm
 ##Menschliche Leiterin der Wache mit klobiger Schrotflinte
+„Was wir hier machen ist wichtig.“
 *
 *Beruf: 
 *Fertigkeiten: 
 *
 *Wundschwelle: 4
     - Schrotflinte aufrüstbar: Sachen anschrauben. Eine Grund-Szene sollte etwas bieten, das er anschrauben kann. Vielleicht auch eine Zusatzszene. 
-    - Leiter der Wache. 
+    - Leiterin der Wache. 
     - Ernst. „Was wir hier machen ist wichtig.“
     - Hat Familie in Hochturm. „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
 #Kars aus Waldsee
@@ -80,7 +81,7 @@ Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stad
 *Fertigkeiten: 
 *
 *Wundschwelle: 4
-    - Vater *hatte* einen guten Stand bei Händlern. Ihr Name hat Kraft. Seine Schnitte hängen in einigen Wagen. 
+    - Vater *hatte* einen guten Stand bei Händlern. Sein Name hat Kraft. Seine Schnitte hängen in einigen Wagen. 
     - Hat ein Händchen für Technik. 
     - Sucht eine unabhängige Gruppe. 
 
