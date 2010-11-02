@@ -1,53 +1,64 @@
 #Siuit
 ##Vogel-Botschafter und Kundschafter
-*Trickreich: +
-*Berufe: Botschafter: 9, Kundschafter: 9
-*Fertigkeiten: Fliegen: 12
-*Kann fliegen: ++
-*Wundschwelle: 4Fliegen: Kann im Flug 15 kg tragen und fliegt dreimal so schnell wie ein rennender Mensch. 
-Die meisten Vogelmenschen leben in Städten in den Bergen. Sie sind menschengroß mit zwei mal vier Metern Spannweite. Nur wenige kommen in die Ebene, für Handel oder neue Kontakte. 
+Stets einen lustigen Kommentar im Schnabel und ein allzu klares Auge für jede deiner Bewegungen.
+*Trickreich: +
+*Berufe: Botschafter: 9, Kundschafter: 9
+*Fertigkeiten: Fliegen: 12
+*Kann fliegen: ++
+*Waffe: Krallen: 3, Flügel: 3
+Fliegen: Kann im Flug 15 kg tragen und fliegt dreimal so schnell wie ein rennender Mensch. 
+*Wundschwelle: 4
+Die meisten Vogelmenschen leben in Städten in den Bergen. Sie sind menschengroß mit zwei mal vier Metern Spannweite. Nur wenige kommen in die Ebene, für Handel oder neue Kontakte. 
 Jeder Vogelmensch hat einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper. Eine Änderung der Haltung erzählt mehr als ganze Sätze von anderen Spezies. Ihre gesprochene Sprache besteht aus Pfeiflauten. Andere Sprachen lernen sie leicht. 
 Ziel: Kontakte unter Menschen knüpfen. 
 #Awwar
 ##Händler der Katzenmenschen
 Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. 
-*Grazil: +, Gutgelaunt: +
-*Beruf: Händler: 9
-*Fertigkeiten: lokales Wissen: 12, Zum Lächeln bringen: 12
-*Instinktive Anpassung: +, Unbeugsamer Optimismus: +
-*Wundschwelle: 4
-Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail. Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. 
+*Grazil: +, Gutgelaunt: +
+*Beruf: Händler: 9
+*Fertigkeiten: Lokales Wissen: 12, Zum Lächeln bringen: 12
+*Instinktive Anpassung: +, Unbeugsamer Optimismus: +
+Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail. 
+*Wundschwelle: 4
+Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. 
 Katzenmenschen bewegen sich meist graziler als Menschen und sind etwas kleiner und leichter. 
 Katzenmenschen passen sich instinktiv binnen Tagen den Verhaltensweisen und der Körpersprache ihrer Umgebung an als würden sie seit Jahren in der Gesellschaft leben. Sie gewinnen meist auch nach den schlimmsten Erlebnissen binnen Stunden ihren Optimismus zurück. 
-Ziel: Will neue interessante Leute kannenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
+Ziel: Will neue interessante Leute kennenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
 #Rog’Ba
 ##Echsenmensch mit Blutholz-Knüppel
-*Stark: +, Massig: +, Denkt einfach: -
-*Beruf: Echsen-Krieger: 9
-*Fertigkeiten: Knüppelkampf: 15, Waffenlos: 12
-*Waffe: Blutholz-Knüppel: Schaden 6. 
-*Wundschwelle: 5
-
-    - Schwerer Blutholz-Knüppel aus den Ebenen hinter den Bergen. 
-    - „Du machst das richtige oder du machst das Falsche. Nur das gibt es.“
-    - „Gefragt, ob helfe.“
+„Du machst das richtige oder das Falsche. Nur das gibt es.“
+*Stark: +, Massig: +, Denkt einfach: -
+*Beruf: Echsen-Krieger: 9
+*Fertigkeiten: Knüppelkampf: 15
+*Waffe: Blutholz-Knüppel: Schaden 6. 
+*Schallknochen: +
+*Wundschwelle: 5
+Der Stamm von Rog’Ba lebt zwischen dem See und dem Gebirge. 
+Seinen Blutholz-Knüppel hat Rog’Ba in einer weitgerühmten Initiationsqueste aus den Weiten hinter den Bergen geholt. Er mag nicht sehr intelligent sein, aber das was er kann, kann er wirklich.
+Warum er hier ist: „Gefragt, ob helfe.“
+Er kann sich nicht mehr als 3 oder 4 Personen merken. Alle anderen sind einfach Teil des Trekks, Feinde oder Freunde.
+Seine Stimme wird von seinem hohlen Knochenkamm verstärkt und trägt über mehrere Tagesreisen, wenn er es wünscht. 
+Harsur Roal kennt er erst seit er im Trekk reist. 
 #Harsur Roal
 ##Grazile Echsenfrau
-*
-*Beruf: 
-*Fertigkeiten: 
-*
-*Wundschwelle: 4
-    - Sieht keine Personen, sondern Zusammenhänge. Intelligent und geschickt, aber fremdartig. Es ist egal, was den Einzelnen passiert, solange das Muster stimmt. 
-    - Speer. 
-    - Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
+„Lass uns unsere Geschichten singen.“
+*Geschickt: +, Charismatisch: +, Intelligent: +
+*Berufe: Erzählerin: 9, Jägerin: 9
+*Fertigkeiten: Gesang: 12, Beinschnitzerei: 12
+*Schallknochen: +
+*Waffe: Speer: Schaden: 3
+*Wundschwelle: 4
+Harsur Roal lebte mit ihrem Stamm am Kopf des Flusses Kanwau. Als sie die ersten Menschen erblickte, entschloss sie sich, mit ihnen zu reisen, um sie zu verstehen. Sie sieht keine Personen, sondern Zusammenhänge. Ihre Gedanken sind fremdartig aber scharf, und sie sieht Zusammenhänge wo andere nur Einzelhandlungen erkennen. Personen als Individuen sind ihr dagegen fremd. 
+Ihre Gesänge berühren sie Seele und ihr Klang scheint bis in Knochen zu reichen. Sie werden von ihrem hohlen Knochenkamm verstärkt und tragen über mehrere Tagesreisen, wenn sie es wünscht. 
+Rog’Ba kennt sie erst seit sie im Trekk reist, aber die Geschichte der Reise über die Berge kannte sie lange vorher. 
+Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
 #Gera aus Hochturm
 ##Menschliche Leiterin der Wache mit klobiger Schrotflinte
 *
 *Beruf: 
 *Fertigkeiten: 
 *
-*Wundschwelle: 4
+*Wundschwelle: 4
     - Schrotflinte aufrüstbar: Sachen anschrauben. Eine Grund-Szene sollte etwas bieten, das er anschrauben kann. Vielleicht auch eine Zusatzszene. 
     - Leiter der Wache. 
     - Ernst. „Was wir hier machen ist wichtig.“
@@ -58,7 +69,7 @@ Ziel: Will neue interessante Leute kannenlernen, idealerweise welche, die rumkom
 *Beruf: 
 *Fertigkeiten: 
 *
-*Wundschwelle: 4
+*Wundschwelle: 4
     - fröhlich. 
     - Sehr gut kämpfen. 
     - „Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
@@ -68,7 +79,7 @@ Ziel: Will neue interessante Leute kannenlernen, idealerweise welche, die rumkom
 *Beruf: 
 *Fertigkeiten: 
 *
-*Wundschwelle: 4
+*Wundschwelle: 4
     - Vater *hatte* einen guten Stand bei Händlern. Ihr Name hat Kraft. Seine Schnitte hängen in einigen Wagen. 
     - Hat ein Händchen für Technik. 
     - Sucht eine unabhängige Gruppe. 
@@ -79,7 +90,7 @@ Ziel: Will neue interessante Leute kannenlernen, idealerweise welche, die rumkom
 *Beruf: 
 *Fertigkeiten: 
 *
-*Wundschwelle: 4
+*Wundschwelle: 4
     - Ihr Meister hat ihr ein Prisma mit 3 Zaubern gebunden. Sie kann irgendwann lernen, selbst Zauber hineinzubinden. 
     - Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt zu seinem Auge machen und dadurch sehen. 
     - Zauber: Heilen: Eine Wunde pro Tag. 
