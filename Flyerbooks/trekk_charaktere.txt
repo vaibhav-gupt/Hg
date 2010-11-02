@@ -55,25 +55,25 @@ Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stad
 #Gera aus Hochturm
 ##Menschliche Leiterin der Wache mit klobiger Schrotflinte
 „Was wir hier machen ist wichtig.“
-*
-*Beruf: 
-*Fertigkeiten: 
-*
+*Entschlossenheit: +, Unfähigkeit zu Kompromissen: -
+*Beruf: Leiterin der Wache: 12
+*Fertigkeiten: Schrotflinte: 15
+*Waffe: Schrotflinte: 4 (bis 5 Personen: Schrot) oder 12 (1 Person: Einzelne Bleikugel oder <5m Abstand). 
+Schrotflinte: Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzelkugeln)
 *Wundschwelle: 4
-    - Schrotflinte aufrüstbar: Sachen anschrauben. Eine Grund-Szene sollte etwas bieten, das er anschrauben kann. Vielleicht auch eine Zusatzszene. 
-    - Leiterin der Wache. 
-    - Ernst. „Was wir hier machen ist wichtig.“
-    - Hat Familie in Hochturm. „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
+Die schweren Bronze-Schrotflinten aus der Manufaktur von Lydia Kaltschmied haben standardisierte Schraubkontakte und können mit eine Vielzahl von Zusätzen erweitert werden. Gera aus Hochturm nutzt bisher nur zwei verschiedene Läufe: Einen für Schrotmunition und einen für größere Bleikugeln. 
+Sie hat Familie in Hochturm. 
+Warum sie dabei ist: „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
 #Kars aus Waldsee
 ##Fröhlicher menschlicher Glücksritter
+„Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
 *
 *Beruf: 
-*Fertigkeiten: 
+*Fertigkeiten: Schwertkampf: 15
 *
 *Wundschwelle: 4
     - fröhlich. 
     - Sehr gut kämpfen. 
-    - „Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
 #Tara Holzschnitt
 ##Menschliche Tischlerin
 *
@@ -88,17 +88,13 @@ Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stad
 #Sotar Adepta
 ##Menschliche Tech-Adeptin
 *
-*Beruf: 
+*Beruf: Tech-Adeptin: 12
 *Fertigkeiten: 
 *
+*Prisma mit 3 Zaubern: +, 
 *Wundschwelle: 4
-    - Ihr Meister hat ihr ein Prisma mit 3 Zaubern gebunden. Sie kann irgendwann lernen, selbst Zauber hineinzubinden. 
-    - Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt zu seinem Auge machen und dadurch sehen. 
-    - Zauber: Heilen: Eine Wunde pro Tag. 
-    - Zauber: Dampfkraft. Maschinen haben 1,5x Leistung, verbrauchen aber 2x so viel. 
-    - In der Nähe von Maschinen keine Erschöpfung. Stattdessen arbeiten die Maschinen plötzlich schwerer (sie zieht die Kraft auf ihren Antrieben). In der Wildnis bricht sie nach 6 Zaubern zusammen. Braucht eine Nacht Schlaf. 
-
-
-
-
-
+Ihr Meister hat ihr ein Prisma mit 3 Zaubern gebunden. Sie kann selbst noch keine Zauber binden.
+In der Nähe von Maschinen kann sie beliebig viele Zauber sprechen, ohne zu ermüden. Stattdessen arbeiten die Maschinen plötzlich schwerer (sie zieht die Kraft auf ihren Antrieben). In der Wildnis bricht sie nach 6 Zaubern zusammen und braucht eine Nacht Schlaf, um sich zu erholen. 
+Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt, das sie berührt, zu ihrem Auge machen und dadurch sehen. Ihr eigenes Auge erblindet für diese Zeit. Der Zauber bricht spätestens wenn Sotar einschläft.
+Zauber: Heilen: Eine Wunde pro Tag. 
+Zauber: Dampfkraft. Maschinen haben 1,5x Leistung, verbrauchen aber 2x so viel. 
