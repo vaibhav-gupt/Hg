@@ -10,7 +10,12 @@ Mechanisches:
 Im Trekk
 --------
 
-* Annike Wegfinder: Leiterin des Trekks, erfahren und gerecht. Auf der ersten Karosse. 
+* Annike Wegfinder: Leiterin des Trekks. Auf der ersten Karosse.
+   - Erfahren: ++, Gerecht: +
+   - Beruf: Trekkführerin: 12
+   - Flinte: 15
+   - Schützenflinte: Schaden: 15, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 200m, 21 darüber hinaus. 
+   - Dem Trekk verpflichtet: -
 * Kolbert Nagelmacher mit seinem jungen und attraktiven Weib Sara
 * Der hakennasige Nathaniel Münzwechsler: Specher der Händler
 * Die ältere Rebekka Kupferstich: Sprecherin der Wanderarbeiter
@@ -33,11 +38,9 @@ Wanderprediger der Kirche des Flux
 ----------------------------------
 
 * Baltzer der Stille: Magisch aktiv: Stillezauber. 
-    - Wahrer Glaube: +
-    - Gesegnet und Geläutert¹: +
+    - Wahrer Glaube: +, Gesegnet und Geläutert¹: +
     - Beruf: Priester: 9
-    - Gebet: Pfad der Stille²: 12
-    - Gebet: Zauber stoppen³: 12
+    - Gebet: Pfad der Stille²: 12, Gebet: Zauber stoppen³: 12
     - Segnung: 2 Zauber
     - Nachteil: Verhaltenskodex: Alle Magie läutern oder auslöschen
     - ¹: Für Magie nutzbar, und für Widerstand gegen Magie
@@ -47,4 +50,12 @@ Wanderprediger der Kirche des Flux
 * Normaler Wanderprediger: Fanatismus/Gemütsruhe/Charisma: +, Beruf: *Früherer Beruf*, Lehre des Flux: 12, *Frühere Spezialität*: 12
 * Erleuchter (Kämpfer der Prediger)
 
+Katzenmenschen
+--------------
 
+* Die rotscheckige Shanari, Sanftmütige Anführerin der Katzenmenschen
+   - Gemütsruhe: ++, Feingefühl: +
+   - Beruf: Schneiderin: 9
+   - Überzeugen: 12
+
+* Katzenmenschen: Gewandtheit: +, Beruf: verschiedene: 9, Waffe: Messer (Schaden: 2) oder Schleuder (Schaden: 3), Wert jeweils 9. 
