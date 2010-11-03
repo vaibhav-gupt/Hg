@@ -58,4 +58,4 @@ Katzenmenschen
    - Beruf: Schneiderin: 9
    - Überzeugen: 12
 
-* Katzenmenschen: Gewandtheit: +, Beruf: verschiedene: 9, Waffe: Messer (Schaden: 2) oder Schleuder (Schaden: 3), Wert jeweils 9. 
+* Katzenmenschen: Gewandtheit: +, Beruf: verschiedene: 9, Waffe: Messer oder aufgehobener Stock/Stab (Schaden: 2) Kampfwert 9. 
