@@ -99,7 +99,9 @@
             <breakframe/>
             <ITEXT CH="Die meis­ten Vo­gel­men­schen le­ben in Städ­ten in den Ber­gen. Sie sind men­schen­groß mit zwei mal vier Me­tern Spann­wei­te. Nur we­ni­ge kom­men in die Ebe­ne, für Han­del oder neue Kon­tak­te. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Je­der Vo­gel­mensch hat einen Platz in der Hier­ar­chie. Wer am höchs­ten steht spricht zu­letzt. Wenn er ge­spro­chen hat, gilt sein Wort. Sie spre­chen mit ih­rem gan­zen Kör­per. Ei­ne Än­de­rung der Hal­tung er­zählt mehr als gan­ze Sät­ze von an­de­ren Spe­zi­es. Ih­re ge­spro­che­ne Spra­che be­steht aus Pfeiflau­ten. An­de­re Spra­chen ler­nen sie leicht. "/>
+            <ITEXT KERN="0" CH="Je­der Vo­gel­mensch hat da­bei einen Platz in der Hier­ar­chie. Wer am höchs­ten steht spricht zu­letzt. Wenn er ge­spro­chen hat, gilt sein Wort. Sie spre­chen mit ih­rem gan­zen Kör­per. Ei­ne Än­de­rung ih­rer Hal­tung er­zählt oft mehr als gan­ze Sät­ze von an­de­ren Spe­zi­es. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Der ge­spro­che­ne Teil ih­rer Spra­che be­steht aus Pfeiflau­ten. An­de­re Spra­chen ler­nen sie leicht. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Ziel: Kon­tak­te un­ter Men­schen knüp­fen. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -132,7 +134,9 @@
             <nbspace/>
             <ITEXT CH="+"/>
             <para PARENT="Werte"/>
-            <ITEXT CH="Lo­ka­les Wis­sen: Wür­fel ge­gen ei­ne von der SL ge­ge­be­ne Schwie­rig­keit. Ge­lingt der Wurf, sagt dir die SL ein De­tail. "/>
+            <ITEXT CH="Waf­fe:  Kral­len: 2"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Lo­ka­les Wis­sen: Wür­fel ge­gen ei­ne von der SL ge­ge­be­ne Schwie­rig­keit. Ge­lingt der Wurf, sagt dir die SL ein De­tail."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Wund­schwel­le:"/>
             <nbspace/>
@@ -277,7 +281,7 @@
             <breakframe/>
             <ITEXT CH="Die schwe­ren Bron­ze-Schrot­flin­ten aus der Ma­nu­fak­tur von Ly­dia Kalt­schmied ha­ben stan­dar­di­sier­te Schraub­kon­tak­te und kön­nen mit ei­ne Viel­zahl von Zu­sät­zen er­wei­tert wer­den. Ge­ra aus Hoch­turm nutzt bis­her nur zwei ver­schie­de­ne Läu­fe: Einen für Schrot­mu­ni­ti­on und einen für grö­ße­re Blei­ku­geln. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Sie hat Fa­mi­lie in Hoch­turm. "/>
+            <ITEXT KERN="0" CH="Ihr Mann Ha­mul ist der Schmied Hoch­turms und küm­mert sich dort um ih­re Toch­ter Sem und ih­ren Sohn Rei, wäh­rend Ge­ra auf Rei­sen ist. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Warum sie da­bei ist: „Wir kön­nen die Sied­ler nicht im Stich las­sen! Je­der, der den Mut hat, Neu­es zu wa­gen, muss sei­ne Chan­ce be­kom­men!“"/>
             <para PARENT="Default Paragraph Style"/>
@@ -344,15 +348,15 @@
             <ITEXT CH="4"/>
             <para PARENT="Werte"/>
             <breakframe/>
-            <ITEXT CH="Ihr Meis­ter hat ihr ein Pris­ma mit 3 Zau­bern ge­bun­den. Sie kann selbst noch kei­ne Zau­ber bin­den."/>
+            <ITEXT CH="Ih­re Meis­te­rin hat ihr 3 Zau­ber in ein Pris­ma ge­bun­den. So­tar selbst kann noch kei­ne Zau­ber bin­den. Zum Zau­bern wür­felt sie auf Tech-Adep­tin ge­gen die Schwie­rig­keit des Zau­bers. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="In der Nä­he von Ma­schi­nen kann sie be­lie­big vie­le Zau­ber spre­chen, oh­ne zu er­mü­den. Statt­des­sen ar­bei­ten die Ma­schi­nen plötz­lich schwe­rer (sie zieht die Kraft auf ih­ren An­trie­ben). In der Wild­nis bricht sie nach 6 Zau­bern zu­sam­men. Braucht ei­ne Nacht Schlaf. "/>
+            <ITEXT KERN="0" CH="In der Nä­he von Ma­schi­nen kann sie be­lie­big zau­bern, oh­ne zu er­mü­den. Die Ma­schi­nen ar­bei­ten dann schwe­rer. In der Wild­nis (&gt;20m vom Trekk) bricht sie nach 6 Zau­bern zu­sam­men und braucht ei­ne Nacht Schlaf. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Zau­ber: Ent­fern­tes Au­ge: Kann ein be­lie­bi­ges tech­ni­sches Ob­jekt, das sie be­rührt, zu ih­rem Au­ge ma­chen und da­durch se­hen. Ihr ei­ge­nes Au­ge er­blin­det für die­se Zeit. Der Zau­ber bricht spä­tes­tens wenn So­tar ein­schläft."/>
+            <ITEXT KERN="0" CH="Zau­ber: Ent­fern­tes Au­ge: Kann ein be­lie­bi­ges tech­ni­sches Ob­jekt, das sie be­rührt, zu ih­rem Au­ge ma­chen und da­durch se­hen. Eins ih­rer ei­ge­nen Au­gen er­blin­det. Hält an, bis So­tar ein­schläft. Schwie­rig­keit: 12"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Zau­ber: Hei­len: Ei­ne Wun­de pro Tag. "/>
+            <ITEXT KERN="0" CH="Zau­ber: Hei­len: Der Ver­zau­ber­te re­ge­ne­riert ei­ne Wun­de pro Tag. Meh­re­re Zau­ber ad­die­ren sich nicht. Schwie­rig­keit: 12"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Zau­ber: Dampf­kraft. Ma­schi­nen ha­ben 1,5x Leis­tung, ver­brau­chen aber 2x so viel. "/>
+            <ITEXT KERN="0" CH="Zau­ber: Dampf­kraft. Ei­ne Ma­schi­ne bringt die 1,5-fa­che Leis­tung, ver­braucht aber dop­pelt so viel. Schwie­rig­keit: 9"/>
             <para PARENT="Default Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -389,7 +393,7 @@
             <trail PARENT="Fusszeile" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="866.804807293825" YPOS="935.338345864662" WIDTH="30.2782546918478" HEIGHT="13.6616541353384" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0916889539284455" LOCALSCY="0.0916889539284455" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Dokumente/eigenes/RPG/ews/Quelldateien/Free_Software_Foundation/gpl-v3-300x149.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 30.2783 0 30.2783 0 30.2783 0 30.2783 0 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 0 13.6617 0 13.6617 0 13.6617 0 13.6617 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 30.2783 0 30.2783 0 30.2783 0 30.2783 0 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 0 13.6617 0 13.6617 0 13.6617 0 13.6617 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="141.272838749888" gYpos="237.899506242772" gWidth="171.551093441736" gHeight="251.56116037811" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="866.804807293825" YPOS="935.338345864662" WIDTH="30.2782546918478" HEIGHT="13.6616541353384" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0916889539284456" LOCALSCY="0.0916889539284456" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Dokumente/eigenes/RPG/ews/Quelldateien/Free_Software_Foundation/gpl-v3-300x149.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 30.2783 0 30.2783 0 30.2783 0 30.2783 0 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 0 13.6617 0 13.6617 0 13.6617 0 13.6617 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 30.2783 0 30.2783 0 30.2783 0 30.2783 0 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 30.2783 13.6617 0 13.6617 0 13.6617 0 13.6617 0 13.6617 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="141.272838749888" gYpos="237.899506242772" gWidth="171.551093441736" gHeight="251.56116037811" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -421,7 +425,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="332.330827067669" YPOS="90.6015037593985" WIDTH="84.0670866141732" HEIGHT="156.841373940119" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.153" LOCALSCY="0.153" LOCALX="-41.1672070402964" LOCALY="-9.37471051412691" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Dokumente/eigenes/RPG/ews/Quelldateien/Gertrud_Wenzel/unveröffentlicht/Aufzeichnen2.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="0.209122 0.209122 0.209122 0.209122 71.5198 0 71.5198 0 71.5198 0 71.5198 0 66.5008 32.2048 66.5008 32.2048 66.5008 32.2048 66.5008 32.2048 62.7367 42.2426 62.7367 42.2426 62.7367 42.2426 62.7367 42.2426 79.8846 53.9535 79.8846 53.9535 79.8846 53.9535 79.8846 53.9535 84.0671 94.105 84.0671 94.105 84.0671 94.105 84.0671 94.105 83.5817 156.841 83.5817 156.841 83.5817 156.841 83.5817 156.841 0 156.841 0 156.841 0 156.841 0 156.841 0.209122 0.209122 0.209122 0.209122 " NUMCO="16" COCOOR="-7.00758 -1.59636 -7.00758 -1.59636 83.5817 -1.59636 83.5817 -1.59636 83.5817 -1.59636 83.5817 -1.59636 83.5817 156.841 83.5817 156.841 83.5817 156.841 83.5817 156.841 -7.00758 156.841 -7.00758 156.841 -7.00758 156.841 -7.00758 156.841 -7.00758 -1.59636 -7.00758 -1.59636 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="332.330827067669" YPOS="90.6015037593985" WIDTH="78.3977952755906" HEIGHT="146.264351723434" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1455" LOCALSCY="0.1455" LOCALX="-51.0820683497037" LOCALY="-9.8579430148551" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Dokumente/eigenes/RPG/ews/Quelldateien/Gertrud_Wenzel/unveröffentlicht/Aufzeichnen2.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="0.195019 0.195019 0.195019 0.195019 66.6967 0 66.6967 0 66.6967 0 66.6967 0 62.0161 30.033 62.0161 30.033 62.0161 30.033 62.0161 30.033 58.5059 39.3939 58.5059 39.3939 58.5059 39.3939 58.5059 39.3939 74.4974 50.315 74.4974 50.315 74.4974 50.315 74.4974 50.315 78.3978 87.7588 78.3978 87.7588 78.3978 87.7588 78.3978 87.7588 77.9451 146.264 77.9451 146.264 77.9451 146.264 77.9451 146.264 0 146.264 0 146.264 0 146.264 0 146.264 0.195019 0.195019 0.195019 0.195019 " NUMCO="16" COCOOR="-6.535 -1.48871 -6.535 -1.48871 77.9451 -1.48871 77.9451 -1.48871 77.9451 -1.48871 77.9451 -1.48871 77.9451 146.264 77.9451 146.264 77.9451 146.264 77.9451 146.264 -6.535 146.264 -6.535 146.264 -6.535 146.264 -6.535 146.264 -6.535 -1.48871 -6.535 -1.48871 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
