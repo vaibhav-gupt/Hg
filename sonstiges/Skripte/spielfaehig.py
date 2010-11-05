@@ -10,7 +10,7 @@ Usage: ./spielfaehig.py prob players min_players
 
 __copyright__ = """© 2010 Arne Babenhauserheide
 
-You can use this under the GNU GPLv3 or later, if you provide the correct license texts and such — see http://gnu.org/licenses/gpl.html"""
+You can use this under the GNU GPLv3 or later, if you provide the correct license texts and such → http://gnu.org/licenses/gpl.html"""
 
 from math import factorial
 fac = factorial # ja, ich bin faul :)
