@@ -8,6 +8,10 @@ Usage: ./spielfaehig.py prob players min_players
     - min_players: the number of players you need to play. 
 """
 
+__copyright__ = """© 2010 Arne Babenhauserheide
+
+You can use this under the GNU GPLv3 or later, if you provide the correct license texts and such — see http://gnu.org/licenses/gpl.html"""
+
 from math import factorial
 fac = factorial # ja, ich bin faul :)
 def nük(n, k): 
