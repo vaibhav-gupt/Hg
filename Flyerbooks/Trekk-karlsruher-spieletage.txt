@@ -74,7 +74,7 @@ Händler | Wortgewandt: + | Beruf: 9, Verhandeln: 12 |
 
 Wanderarbeiter | Muskeln: + | Beliebiger Handwerksberuf: 9 |
 
-Siedler | Mut: + | Beliebiger Beruf: 9, Beliebige Kunstfertigkeit: 12, Beliebige Handwerksfertigkeit: 12, Kurzschwert o. Speer: 12  | Waffe: Kurzschwert oder Speer: Schaden 3 |
+Siedler | Mut: + | Beliebiger Beruf: 9, Beliebige Kunstfertigkeit: 12, Beliebige Handwerksfertigkeit: 12, Kurzschwert o. Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3, Schwierigkeiten für Speer: 12 bis 6m, 15 bis 50m, 18 bis 100m)|
 
 Wache | Selbstbewusst: +, Ausdauernd: + | Dampfbüchse: 12 | Waffe: Dampfbüchse (Schaden: 5, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 100m, 21 darüber hinaus; alle 5 Schuss müssen Wasser und Kugeln nachgefüllt werden) |
 
