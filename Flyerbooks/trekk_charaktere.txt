@@ -58,7 +58,7 @@ Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stad
 ##Menschliche Leiterin der Wache mit klobiger Schrotflinte
 „Was wir hier machen ist wichtig.“
 *Entschlossen: +, Unfähig zu Kompromissen: -
-*Beruf: Leiterin der Wache: 12
+*Beruf: Wache: 12
 *Fertigkeiten: Schrotflinte: 15
 *Waffe: Schrotflinte: 4 (bis 5 Personen: Schrot) oder 8 (1 Person: Einzelne Bleikugel oder <5m Abstand). 
 Schrotflinte: Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzelkugeln)
