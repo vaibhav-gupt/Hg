@@ -68,13 +68,18 @@ Die Meinung der Siedler vertritt der hagere Theis aus Grashain: "Wir alle wollen
 
 Annike Wegfinder sieht die Sache gelassen. Sie wurde von der Gesamtheit angeheuert und bereits entlohnt. Deswegen überlässt sie die Entscheidung den anderen Mitgliedern des Trekks. Annike Wegfinder kann jedoch einschätzen, dass die Karosse der Nagelmachers den gesamten Trekk um ein oder zwei Tage verlangsamt. Zudem könnte die Karosse auf Grund ihres Alters leicht zu Schaden kommen oder eine der Zugechsen der Anstrengungen wegen verenden.
 
-Händler: Wortgewandt: +, Beruf: 9, Verhandeln: 12.
+Annike Wegfinder: Leiterin des Trekks | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 15, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 200m, 21 darüber hinaus; ; muss nach jedem Schuss nachgeladen werden) |
 
-Wanderarbeiter: Muskeln: +, Beliebiger Handwerksberuf: 9.
+Händler | Wortgewandt: + | Beruf: 9, Verhandeln: 12 |
 
-Siedler: Mut: +, Beliebiger Beruf: 9, Beliebige Kunstfertigkeit: 12, Beliebige Handwerksfertigkeit: 12 –, Kurzschwert o. Speer: 12 – Kurzschwert/Speer: Schaden 3.
+Wanderarbeiter | Muskeln: + | Beliebiger Handwerksberuf: 9 |
 
-Wache: Selbstbewusst: +, Ausdauernd: +, Dampfbüchse: 12 – Dampfbüchse: Schaden 5.
+Siedler | Mut: + | Beliebiger Beruf: 9, Beliebige Kunstfertigkeit: 12, Beliebige Handwerksfertigkeit: 12, Kurzschwert o. Speer: 12  | Waffe: Kurzschwert oder Speer: Schaden 3 |
+
+Wache | Selbstbewusst: +, Ausdauernd: + | Dampfbüchse: 12 | Waffe: Dampfbüchse (Schaden: 5, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 100m, 21 darüber hinaus; alle 5 Schuss müssen Wasser und Kugeln nachgefüllt werden) |
+
+Vornamen der Menschen im Trekk: Abdan, Agia, Ahaz, Arah, Baara, Boas, Dorcas, Eder, Edna, Gaal, Gibbar, Hadar, Hel, Iddo, Ira, Jael, Kenan, Levi, Lydia, Medan, Naemi, Ner, Nun, Obadja, On, Rei, Sarai, Sem, Teman, Timna. 
+Nachnamen nach Beruf oder Herkunftsort. 
 
 ### Gebt her Eure Kinder!
 
@@ -84,7 +89,14 @@ Die strengen Wanderprediger der Kirche des Heiligen Flux ziehen über das Land u
 
 Im Verlauf des Gesprächs werden die Kinder auf Magie untersucht. Das geschieht mittels des Medaillons, das in seinem Kern einen schwachen Magneten besitzt. Verfügt jemand über die Fähigkeit der Magie, bitten die Wanderprediger darum das Kind mitnehmen zu dürfen, um dieses zu läutern und auszubilden. Die Bitten der Kirche sind jedoch nur aufgesetzte Höflichkeit. Lehnt der Trekk ab, so versuchen die Wanderprediger zu einem späteren Zeitpunkt die Kinder zu entführen. Zumindest der kleine Utrecht Münzwechsler verfügt über die Fähigkeit der Magie.
 
-Wanderprediger des Flux: Fanatismus: +, Früherer Beruf: 9, Lehre des Flux: 12, Frühere Spezialität: 12
+Baltzer der Stille | Wahrer Glaube: +, Gesegnet und Geläutert¹: + | Beruf: Priester des Flux: 9 | Gebet: Pfad der Stille²: 12, Gebet: Zauber stoppen³: 12 | Segnung: 2 Gebete | Nachteil: Verhaltenskodex: Alle Magie läutern oder auslöschen |
+¹: Für Magie nutzbar, und für Widerstand gegen Magie.
+²: Baltzer legt beide Hände aneinander, löst sie dann ruckartig und legt sie auf den Boden. Er schafft dort wo er läuft einen 50 Zentimeter breiten Pfad, auf dem nichts einen Laut verursachen kann. Nach einer Minute löst sich der Pfad wieder auf. Ist der Pfad länger als 7 Meter, erschöpft er Baltzer und erschwert so eine Stunde lang alle seine Handlungen um 3 Punkte. Insgesamt kann Baltzer 20 Meter Pfad der Stille pro Tag erschaffen. Danach braucht er Ruhe. Um den Pfad zu beginnen, würfelt er gegen 9.
+³: Baltzer zeichnet einen Kreis in die Luft, wenn jemand Magie einsetzt. Dann presst er die Hände zusammen und würfelt auf Zauber stoppen. Ist sein Ergebnis höher oder gleich des Ergebnisses des Magiers, geht der Zauber ins Leere. Pro Tag kann er 3 Zauber stoppen, die den anderen erschöpfen würden, oder 7 kleine Zauber, die den anderen nicht erschöpfen. Der andere erhält die Erschöpfung trotzdem.
+
+Wanderprediger des Flux | Fanatismus: + | Früherer Beruf: 9, Lehre des Flux: 12, Schleichen: 12 |
+
+Beispielnamen von Wanderpredigern: Andras, Batist, Krischan, Hanne, Leandra, Marthe. Beispielzusätze: der/die ...,  ... Sanfte, ... Kleine, ... Belesene, ... Ehrliche, ... Dürre, ... Überlegte, ... Weiche.
 
 ### Nicht mit uns!
 
@@ -94,11 +106,21 @@ Shanari sucht keinen gewaltsamen Konflikt. Hat sie keinen Erfolg, zieht sich die
 
 Um ohne Sabotage bis nach Hochturm zu gelangen, müssen die Katzenmenschen regelmäßig vertrieben, eingeschüchtert oder schlussendlich doch bekämpft werden. Shanari ist keine Fanatikerin und ihre Meute wird nach den ersten Verletzungen das Weite suchen.
 
+Shanari, Sanftmütige Anführerin der Meute | Gemütsruhe: ++, Feingefühl: + | Beruf: Schneiderin: 9, Überzeugen: 12 , Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
+
+Katzenmenschen | Gewandtheit: + | Beliebiger Beruf: 9 , Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
+
+Beispielnamen von Katzenmenschen: Araj, Eenaru, Galraen, Jarven, Kaor, Lajesz, Luijar, Meor, Njenes, Oras, Roijaar, Sjasaï, Sovóre, Tael
+
 ### Am Ziel
 
 Nach all den Strapazen, Mühen und Entbehrungen erreicht der Trekk Hochturm. Dort wo in wenigen Wochen wuchtige Mauern emporragen werden, stehen derzeit noch hölzerne Palisaden. Neugierige Blicke folgen dem Trekk, der langsam in die Stadt einfährt und auf den gewaltigen steinernen Glockenturm im Zentrum zuhält, dem Wahrzeichen dieser Siedlung.
 
 Der Trekk wird dort Halt machen und seine Geschäfte erledigen. Annike Wegfinder spricht als Trekkführerin jedoch an jedes Mitglied des Trekks die traditionelle Einladung aus, die kommende Nacht ein letztes Mals als Gemeinschaft miteinander zu verbringen, um bei einem guten Tropfen und einer herzhaften Mahlzeit Abschied voneinander zu nehmen ...
+
+Beispielnamen von Menschen aus Hochturm: Taba, Bekka, Marthea, Zachus, Emuel. Jasus, Jisaak. Nachnamen nach Beruf oder Herkunftsort. 
+
+
 
 Freies Rollenspiel (an den Editor: dieser Abschnitt kann je nachdem, wie es besser passt, zwischen den allgemeinen Teil und den SL-Teil oder ganz ans Ende gesetzt werden. Ideal wäre es, wenn dadurch der SL-Teil auf eine andere Seite kommt als der allgemeine Teil)
 ------------------
@@ -109,5 +131,7 @@ Szenario von Günther Lietz / Taysal → taysal.net
 Regeltext von Arne Babenhauserheide / Drak → 1w6.org/uzanto/drak
 Frei lizensiert unter der GNU GPLv3 → gnu.org/licenses/gpl.html
 – Weitere Infos und Quellen: 1w6.org –
+
+Koop thoule
 
 (an den Editor: Als Illustration hierzu eignet sich das Logo der GPLv3: http://www.gnu.org/graphics/license-logos.html )
