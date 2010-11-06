@@ -92,7 +92,7 @@ Nach seinem Tod ließ sie das Kunsthandwerk beiseite und entschied sich, etwas n
 Sie sucht eine unabhängige Gruppe, in deren Gemeinschaft sie andere Länder bereisen und deren Handwerkskunst kennenlernen kann.
 #Sotar Adepta
 ##Menschliche Tech-Adeptin
-„Lebensfeuer schafft Dampf, Dampf schafft Kraft, Kraft gehorcht meinem Geist.“
+„Feuer schafft Dampf, Dampf schafft Kraft, Kraft gehorcht dem Geist.“
 *Eins mit der Dampfkraft: +
 *Beruf: Tech-Adeptin: 12
 *Fertigkeiten: Dampfantriebe reparieren: 12
@@ -121,5 +121,9 @@ Wettstreit: Beide würfeln Wert + Boni ± W6. Wer besser würfelt gewinnt, beim 
 Nahkampf: Beide würfeln (Wettstreit). Wer das höhere Ergebnis hat, trifft. Schaden: Waffenschaden - Rüstung + Differenz der Ergebnisse. 
 Fernkampf: Probe gegen Schwierigkeit. Schaden: Waffenschaden - Rüstung + Differenz zur Schwierigkeit. 
 Erreicht der Schaden die Wundschwelle, verursacht er eine Wunde, die alle Handlungen um 3 erschwert. 
-##Modifikatoren im Kampf
-…
+##Modifikatoren für Proben
+Gute Ausgangsposition: +1 bis +6
+Schön beschrieben: +1 bis +3
+Viel Zeit lassen: Bis +3
+Wunden: -3/Wunde
+Stark abgelenkt: -3
