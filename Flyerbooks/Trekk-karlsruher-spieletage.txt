@@ -1,13 +1,13 @@
 # Der Trekk – Eine Kurzkampagne
 
-Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das irgendwann wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Kurzabenteuer in die Bresche springen.
-Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Es enthält Kurzregeln, für die Spielleitung (SL) ein Grundszenario und für die Spieler vorgefertigte Charaktere und Infoflyer mit versiegelten Zusatzszenarien.
+Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Kurzabenteuer in die Bresche springen.
+Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Es enthält Kurzregeln, für die Spielleitung (SL) noch ein Grundszenario und für die Spieler vorgefertigte Charaktere und versiegelte Zusatzszenarien.
 Das Abenteuer ist für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. 
 
 ## Ablauf
 
-Die SL liest diesen Text und das Grundszenario danach, während die Spieler nur den Teil bis „nur für Spielleiter“ lesen und ihre Charakterkarten tauschen, bis sie diejenigen haben, die sie wollen (im Zweifel gibt es an der Infotheke noch mehr). Wenn Neulinge dabei sind, erklären die anderen ihnen kurz, was Rollenspiel bedeutet. Ist ein Charakter doppelt, dann gebt ihm einfach einen neuen Namen :)
-Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (es gibt sie hier auf den Spieletagen als versiegelte Flyer am Infostand). Du brichst das Siegel und liest sie, während die Spieler für jeden von euch einen Würfel (W6) und etwas zu trinken besorgen. Wenn ihr bereit seid, fangt ihr mit der ersten Szene des Abenteuers an.
+Die SL liest diesen Text und das Grundszenario danach, während die Spieler nur den Teil bis „nur für Spielleiter“ lesen und ihre Charakterkarten tauschen, bis sie diejenigen haben, die sie wollen (im Zweifel gibt es an der Infotheke noch mehr). Wenn Neulinge dabei sind, erklären die anderen ihnen kurz, was Rollenspiel bedeutet. Ist ein Charakter doppelt, dann gebt ihm einfach einen neuen Namen.
+Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (es gibt sie hier auf den Spieletagen als Flyer am Infostand). Die SL bricht das Siegel und liest die Szenarien, während die Spieler für jeden von euch einen Würfel (W6) und etwas zu trinken besorgen. Wenn ihr bereit seid, fangt ihr mit der ersten Szene des Abenteuers an.
 
 ## Regeln
 
@@ -42,8 +42,7 @@ Unaufhörlich fressen sich die Menschen durch die Neuen Lande. Ihre Trekks beste
 
 Die einfachen Echsenmenschen an den Ufern der Flüsse und Seen, die ihre klagenden Lieder in den Abendwind singen. Die fremdartigen Vogelmenschen in windigen Nestern in den Gebirgen, die anmutige Tänze in der Luft vollführen. Sie leben im Einklang mit der Natur der Neuen Lande, bar jeglichen Verständnisses den Eindringlingen gegenüber. Einzig die Katzenmenschen, selbst einst hinzugezogen, hegen ihrer Neugierde geschuldetes Verständnis.
 
-Ihr gehört zum Trekk von Annike Wegfinder, einer erfahrenen und gerechten Trekkführerin. Sie hat die Aufgabe übernommen ihre Klienten sicher vom schwer befestigten Zweibrücken in die vor kurzem errichtete Siedlung Hochturm zu führen. Ein Trekk aus reichen Händlern, gemeinen Wanderarbeitern, mutigen Wachen und einfachen Knechten. Ein Trekk, der einem unbestimmten Schicksal entgegenfährt ...
-
+Ihr gehört zum Trekk der Annike Wegfinder, einer erfahrenen und gerechten Trekkführerin. Sie hat die Aufgabe übernommen ihre Klienten sicher vom schwer befestigten Zweibrücken in die vor kurzem errichtete Siedlung Hochturm zu führen. Ein Trekk aus reichen Händlern, gemeinen Wanderarbeitern, mutigen Wachen und einfachen Knechten. Ein Trekk, der einem unbestimmten Schicksal entgegenfährt ...
 
 ## Das Abenteuer – NUR FÜR DIE SPIELLEITUNG!
 
@@ -55,59 +54,59 @@ Der Trekk von Annike Wegfinder befindet sich im großen Innenhof des Handelshaus
 
 Da ist das Zischen und Ächzen einer weiteren Karosse zu hören, die von zwei älteren Echsen in den Hof des Handelshauses gezogen wird. Es ist Kolbert Nagelmacher mit seinem jungen und attraktiven Weib Sara. Die Nagelmachers hatten in Zweibrücken kein Glück und wollen sich kurzfristig dem Trekk anschließen. Ihre Ausrüstung ist veraltet und ihnen fehlt das nötige Entgelt. Daher richten Kolbert und Sara ein Gesuch an den gesamten Trekk und hoffen auf die Gnade der Verantwortlichen.
 
-Für die Händler ergreift der hakennasige Nathaniel Münzwechsler das Wort: "Eine Karosse mehr verbraucht mehr Mundvorrat, macht den Trekk auffälliger und bürdet unseren Wachen mehr Arbeit auf. Doch die Fahrt ist lang und das Weib sieht gut aus. Wenn sie mir beischläft, spreche ich für sie."
+Für die Händler ergreift der hakennasige Nathaniel Münzwechsler das Wort: "Eine Karosse mehr verbraucht mehr Mundvorrat und macht den Trekk auffälliger. Doch die Fahrt ist lang und das Weib sieht gut aus. Wenn sie mir beischläft, spreche ich für sie."
 
-Für die Wanderarbeiter spricht die ältere Rebekka Kupferstich: "Was scheren uns die Belange der anderen. Ich spreche für den, der mich und meine Leute bezahlt!"
+Für die Wanderarbeiter spricht die ältere Rebekka Kupferstich: "Was scheren uns die Belange Anderer? Ich spreche für den, der mich und meine Leute bezahlt!"
 
 Die Meinung der Siedler vertritt der hagere Theis aus Grashain: "Wir alle wollen ein neues Leben anfangen. Wir sollten zusammenhalten. Also nehmen wir sie mit. Würde mir allerdings ihr Landrecht zugesprochen, dann sollen sie hierbleiben."
 
-Annike Wegfinder sieht die Sache gelassen. Sie wurde von der Gesamtheit angeheuert und bereits entlohnt. Daher überlässt sie die Entscheidung den anderen Mitgliedern des Trekks, wählt allerdings die Spielercharaktere als Schlichter. Sie kann einschätzen, dass die Karosse der Nagelmachers den gesamten Trekk um ein oder zwei Tage verlangsamt. Zudem könnte die Karosse auf Grund ihres Alters leicht zu Schaden kommen oder eine der Zugechsen der Anstrengungen wegen verenden.
+Annike Wegfinder sieht die Sache gelassen. Sie wurde von der Gesamtheit angeheuert und bereits entlohnt. Daher überlässt sie die Entscheidung den anderen Mitgliedern des Trekks, wählt allerdings die Spielercharaktere als Schlichter. Sie schätzt, dass die Karosse der Nagelmachers den gesamten Trekk um ein oder zwei Tage verlangsamen würde. Zudem könnte die Karosse auf Grund ihres Alters leicht zu Schaden kommen oder eine der Zugechsen verenden.
 
-Annike Wegfinder: Leiterin des Trekks „Achtet auf euch und die Umgebung, dann werden wir ankommen.“ | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 15, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 200m, 21 darüber hinaus; muss nach jedem Schuss nachgeladen werden (30s)) |
+Annike Wegfinder: Leiterin des Trekks „Achtet auf euch und die Umgebung, dann werden wir ankommen“ | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 15, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 200m, 21 darüber hinaus; nach jedem Schuss nachladen (30s)) |
 
 Händler | Wortgewandt: + | Beruf: 9, Verhandeln: 12 |
 
-Wanderarbeiter | Muskeln: + | Beliebiger Handwerksberuf: 9 |
+Wanderarbeiter | Muskeln: + | Beliebiges Handwerk: 9 |
 
-Siedler | Mut: + | Beliebiger Beruf: 9, Beliebige Fertigkeit: 12, Kurzschwert oder Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3, maximale Reichweite 20m)|
+Siedler | Mut: + | Beliebiger Beruf: 9, Beliebige Fertigkeit: 12, Kurzschwert oder Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3, Speer: maximale Reichweite 20m)|
 
 Wache | Selbstbewusst: +, Ausdauernd: + | Dampfbüchse: 12 | Waffe: Dampfbüchse (Schaden: 6, alle 5 Schuss müssen Wasser und Kugeln nachgefüllt werden) |
 
-Vornamen der Menschen im Trekk: Agia, Baara, Dorcas, Edna, Gibbar, Hel, Ira, Jael, Kenan, Lydia, Medan, Obadja, Sem, Teman. Nachnamen nach Beruf oder Herkunftsort. 
+Vornamen der Menschen im Trekk: Agia, Baara, Edna, Gibbar, Hel, Ira, Jael, Kenan, Lydia, Medan, Sem, Teman. Nachnamen nach Beruf oder Herkunftsort. 
 
 ### Gebt her Eure Kinder!
 
-Die Reise hat begonnen und wird voraussichtlich vier Wochen andauern. Jeden Tag wird der Trekk bis zu zwanzig Kilometer zurücklegen. Ein Reisetag dauert acht Stunden, mit weiteren acht Stunden für den Auf- und Abbau des Lagers. Die restlichen Stunden dienen dem Nachtschlaf. Die Wachen des Trekks patroullieren in unregelmäßigen Abständen, während ihre respektierte Führerin die erste Karosse lenkt. Von ihrer hohen Sitzposition beobachtet Annike Wegfinder beständig das Umland. Ihr zur Seite sitzt der zerzauste Katzenmensch Roijas, der sich als Heiler um kleinere und größere Verletzungen kümmert. Über dem Trekk zieht der weißgefiederte Vogelmensch Naaak stumm seine Kreise.
+Die Reise hat begonnen und wird voraussichtlich vier Wochen andauern. Jeden Tag wird der Trekk bis zu zwanzig Kilometer zurücklegen. Ein Reisetag dauert acht Stunden, mit weiteren acht Stunden für Auf- und Abbau des Lagers. Die restlichen Stunden dienen dem Nachtschlaf. Die Wachen des Trekks patroullieren in unregelmäßigen Abständen, während ihre Führerin die erste Karosse lenkt. Von ihrer hohen Sitzposition beobachtet Annike Wegfinder beständig das Umland. Ihr zur Seite sitzt der zerzauste Katzenmensch Roijas, der sich als Heiler um Verletzungen kümmert. Über dem Trekk zieht der weißgefiederte Vogelmensch Naaak seine Kreise.
 
-Nach wenigen Tagen begegnen dem Trekk strenge Wanderprediger der Kirche des Heiligen Flux. Sie sind in schwarze Gewänder gekleidet und vor ihrer Brust hängt ein schlichtes, rundes Medaillon aus silbernem Metall, das Symbol der Kirche. Ihr Anführer ist Baltzer der Stille, ein Mann mit blassblauen Augen. Die Prediger sind freundlich und bitten darum, im Auftrag der Heiligen Mutter mit jedem Kind sprechen und es segnen zu dürfen. Ihre Päbstin Esther VII – Esther die Ruhige – verlangt ein jedes Kind zu prüfen, zu ehren und zu segnen.
+Nach wenigen Tagen begegnen dem Trekk Wanderprediger der Kirche des Heiligen Flux. Sie sind in schwarze Gewänder gehüllt und vor ihrer Brust hängt ein schlichtes, rundes Medaillon aus silbrigem Metall, das Symbol der Kirche. Ihr Anführer ist Baltzer der Stille, ein Mann mit blassblauen Augen. Die Prediger sind freundlich und bitten darum, mit jedem Kind sprechen und es segnen zu dürfen. Ihre Heilige Mutter Esther VII – Esther die Ruhige – verlangt ein jedes Kind zu prüfen, zu ehren und zu segnen.
 
-Im Verlauf des Gesprächs werden die Kinder auf Magie untersucht. Das Medaillon der Priester besitzt in seinem Kern einen schwachen Magneten. Verfügt jemand über die Fähigkeit der Magie, beginnt es leicht zu rotieren, und die Wanderprediger bitten darum das Kind mitnehmen zu dürfen, um dieses zu läutern und auszubilden. Die Bitten sind jedoch nur aufgesetzte Höflichkeit. Lehnt der Trekk ab, so versuchen die Wanderprediger zu einem späteren Zeitpunkt die Kinder zu entführen. Zumindest der kleine Utrecht Münzwechsler verfügt über die Fähigkeit der Magie.
+Im Verlauf des Gesprächs werden die Kinder auf Magie untersucht. Das Medaillon der Priester besitzt in seinem Kern einen schwachen Magneten. Verfügt jemand über magische Kraft, beginnt es leicht zu beben, und die Wanderprediger bitten darum das Kind mitnehmen zu dürfen, um dieses zu läutern und auszubilden. Die Bitten sind jedoch nur aufgesetzte Höflichkeit. Lehnt der Trekk ab, so versuchen die Wanderprediger zu einem späteren Zeitpunkt die Kinder zu entführen. Zumindest der kleine Utrecht Münzwechsler verfügt über Magie.
 
-Baltzer der Stille „Magie ist ein Fluch der Dunkelheit. Nur die Läuterung rettet ihre Träger“ | Wahrer Glaube: +, Gesegnet: + | Beruf: Priester des Flux: 9 | Gebet: Pfad der Stille¹: 12, Gebet: Zauber stoppen²: 12 | Segnung: 2 Gebete | Verhaltenskodex: Magie läutern oder auslöschen: - |
-¹: Baltzer legt beide Hände aneinander, löst sie ruckartig und legt sie auf den Boden. Er schafft wo er läuft einen 50 cm breiten Pfad, auf dem nichts einen Laut verursachen kann. Nach einer Minute löst sich der Pfad wieder auf. Ist der Pfad länger als 7 Meter, erschöpft er Baltzer und erschwert so eine Stunde lang alle seine Handlungen um 3 Punkte. Schwierigkeit 9. 
-²: Baltzer zeichnet einen Kreis in die Luft, wenn jemand Magie einsetzt. Dann presst er die Hände zusammen und würfelt auf Zauber stoppen. Ist sein Ergebnis höher oder gleich des Ergebnisses des Magiers, geht der Zauber ins Leere. Pro Tag kann er 3 Zauber stoppen. Der andere erhält die Erschöpfung trotzdem.
+Baltzer der Stille „Magie ist ein Fluch der Dunkelheit. Läuterung rettet ihre Träger“ | Wahrer Glaube: +, Gesegnet: + | Beruf: Priester des Flux: 9 | Gebet: Pfad der Stille¹: 12, Gebet: Zauber stoppen²: 12 | Segnung: 2 Gebete | Verhaltenskodex: Magie läutern oder auslöschen: - |
+¹: Baltzer legt beide Hände aneinander, löst sie ruckartig und legt sie auf den Boden. Er schafft einen 50 cm breiten und höchstens 20m langen Pfad, auf dem nichts einen Laut verursacht. Nach einer Minute löst sich der Pfad wieder auf. Ist der Pfad länger als 7m, erschöpft er Baltzer und erschwert so eine Stunde lang alle seine Handlungen um 3 Punkte. Schwierigkeit 9. 
+²: Baltzer zeichnet einen Kreis in die Luft. Dann presst er die Hände zusammen und würfelt auf Zauber stoppen. Ist sein Ergebnis höher oder gleich des Ergebnisses des Magiers, geht dessen Zauber ins Leere. Pro Tag kann Baltzer 3 Zauber stoppen.
 
 Wanderprediger des Flux | Fanatismus: + | Früherer Beruf: 9, Lehre des Flux: 12, Schleichen: 12 |
 
-Beispielnamen von Wanderpredigern: Andras, Batist, Krischan, Hanne, Leandra, Marthe. Beispielzusätze: der/die ...,  ... Sanfte, ... Kleine, ... Belesene, ... Ehrliche, ... Dürre, ... Überlegte, ... Weiche.
+Beispielnamen von Wanderpredigern: Andras, Batist, Krischan, Hanne, Marthe. Beispielzusätze: der/die ...,  ... Sanfte, ... Kleine, ... Belesene, ... Dürre, ... Überlegte.
 
 ### Nicht mit uns!
 
 Die Menschen haben mit der Besiedlung des Landes begonnen, ohne Rücksicht auf die Ureinwohner zu nehmen. Eine Meute Katzenmenschen unter der Führung der rotscheckigen Shanari hat beschlossen, die Kolonisierung aufzuhalten, um die Stämme und Siedlungen im Landesinneren zu schützen. Sie stellen sich dem Trekk in den Weg und fordern eine Umkehr. Shanari bleibt dabei gelassen und freundlich. Die Katzenfrau erklärt, dass die rasche Kolonisierung das Land ausbluten lässt. Die Siedler sollen umkehren und den Neuen Landen ihren Frieden lassen.
 
-Shanari sucht keinen gewaltsamen Konflikt. Hat sie keinen Erfolg, zieht sich die Katzenfrau mit ihren Leuten zurück. Die Meute wird von nun an jede Nacht zum Trekk schleichen, um die Karossen zu sabotieren oder wichtige Ausrüstung zu stehlen. Dadurch wird sich die Reisezeit um vier weitere Tage verzögern, was eine Rationalisierung des Proviants mit sich bringt. Das wiederum beschwört Ärger herauf, denn die Händler führen Nahrungsmittel als Waren mit sich und weigern sich, diese zu teilen.
+Shanari sucht keinen gewaltsamen Konflikt. Hat sie keinen Erfolg, zieht sich die Katzenfrau mit ihren Leuten zurück. Die Meute wird von nun an jede Nacht zum Trekk schleichen, um die Karossen zu sabotieren oder wichtige Ausrüstung zu stehlen. Dadurch wird sich die Reisezeit um vier Tage verzögern, was eine Rationalisierung des Proviants mit sich bringt. Das wiederum beschwört Ärger herauf, denn die Händler führen Nahrungsmittel als Waren mit sich und weigern sich, diese zu teilen.
 
-Um ohne Sabotage nach Hochturm zu gelangen, müssen die Katzenmenschen regelmäßig vertrieben, eingeschüchtert oder schlussendlich doch bekämpft werden. Shanari ist keine Fanatikerin und ihre Meute wird nach den ersten Verletzungen das Weite suchen.
+Um ohne Sabotage nach Hochturm zu gelangen, müssen die Katzenmenschen regelmäßig vertrieben, eingeschüchtert oder bekämpft werden. Shanari ist keine Fanatikerin und ihre Meute wird nach den ersten Verletzungen das Weite suchen.
 
-Shanari, Sanftmütige Anführerin der Meute „Ihr zerstört unser Land. Bitte kehrt um.“ | Gemütsruhe: ++, Feingefühl: + | Beruf: Schneiderin: 9, Überzeugen: 12, Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
+Shanari, sanftmütige Anführerin der Meute „Ihr zerstört unser Land. Bitte kehrt um.“ | Gemütsruhe: ++, Feingefühl: + | Beruf: Schneiderin: 9, Überzeugen: 12, Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
 
 Katzenmenschen | Gewandtheit: + | Beliebiger Beruf: 9 , Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
 
-Beispielnamen von Katzenmenschen: Araj, Eenaru, Galraen, Jarven, Kaor, Lajesz, Luijar, Meor, Njenes, Oras, Roijaar, Sjasaï, Sovóre, Tael
+Beispielnamen von Katzenmenschen: Eenaru, Jarven, Kaor, Luijar, Njenes, Roijaar, Sjasaï, Sovóre, Tael.
 
 ### Am Ziel
 
-Nach all den Strapazen, Mühen und Entbehrungen erreicht der Trekk Hochturm. Wo in wenigen Wochen wuchtige Mauern emporragen werden, stehen derzeit noch hölzerne Palisaden. Neugierige Blicke folgen dem Trekk, der langsam in die Stadt einfährt und auf den gewaltigen steinernen Glockenturm im Zentrum zuhält, dem Wahrzeichen dieser Siedlung.
+Nach all den Strapazen und Entbehrungen erreicht der Trekk Hochturm. Wo in wenigen Wochen wuchtige Mauern emporragen werden, stehen derzeit noch hölzerne Palisaden. Neugierige Blicke folgen dem Trekk, der langsam in die Stadt einfährt und auf den gewaltigen steinernen Glockenturm im Zentrum zuhält, dem Wahrzeichen dieser Siedlung.
 
 Der Trekk wird dort Halt machen und seine Geschäfte erledigen. Annike Wegfinder spricht als Trekkführerin jedoch jedem Mitglied des Trekks die traditionelle Einladung aus, die kommende Nacht ein letztes Mals als Gemeinschaft zu verbringen, um bei einem guten Tropfen und einer herzhaften Mahlzeit Abschied voneinander zu nehmen ...
 
@@ -116,10 +115,10 @@ Vornamen von Menschen aus Hochturm: Taba, Bekka, Marthea, Zachus, Emuel, Jasus, 
 
 ## Freies Rollenspiel
 
-Der Trekk ist ein frei lizensiertes Rollenspiel¹. Du kannst es nutzen, kopieren, ändern und weitergeben, wie du willst – sogar verkaufen – solange du anderen mit deinen Änderungen daran das gleiche erlaubst. 
+Der Trekk ist ein frei lizensiertes Rollenspiel¹. Du kannst es nutzen, kopieren, ändern und weitergeben, wie du willst – sogar verkaufen – solange du anderen mit deinen Änderungen das gleiche erlaubst. 
 
 Geschrieben von Günther Lietz (taysal.net) und Arne Babenhauserheide (1w6.org/uzanto/drak). 
-Entstanden in Kooperation mit Thoule e.V.
-– Infos und Quellen: 1w6.org –
+Danke an Thoule e.V. für den Abdruck!
+– 1w6.org –
 
 ¹: GNU GPLv3: http://1w6.org/deutsch/anhang/freies-rollenspiel/
