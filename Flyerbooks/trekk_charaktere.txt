@@ -3,10 +3,10 @@
 Stets einen lustigen Kommentar im Schnabel und ein allzu klares Auge für jede deiner Bewegungen.
 *Trickreich: +
 *Berufe: Botschafter: 9, Kundschafter: 9
-*Fertigkeiten: Fliegen: 12
+*Fliegen: 12
 *Kann fliegen: ++
 *Waffe: Krallen: 3, Flügel: 3
-Fliegen: Kann im Flug 15 kg tragen und fliegt dreimal so schnell wie ein rennender Mensch. 
+Fliegen: Kann im Flug 15 kg tra­gen und fliegt dreimal so schnell wie ein rennender Mensch. 
 *Wundschwelle: 4
 Die meisten Vogelmenschen leben in Städten in den Bergen. Sie sind menschengroß mit zwei mal vier Metern Spannweite. Nur wenige kommen in die Ebene, für Handel oder neue Kontakte. 
 Jeder Vogelmensch hat dabei einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper. Eine Änderung ihrer Haltung erzählt oft mehr als ganze Sätze von anderen Spezies. 
@@ -17,7 +17,7 @@ Ziel: Kontakte unter Menschen knüpfen.
 Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. 
 *Gewandt: +, Gutgelaunt: +
 *Beruf: Händler: 9
-*Fertigkeiten: Lokales Wissen: 12, Zum Lächeln bringen: 12
+*Lokales Wissen: 12, Zum Lächeln bringen: 12
 *Instinktive Anpassung: +, Unbeugsamer Optimismus: +
 *Waffe:  Krallen: 2
 Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail.
@@ -31,7 +31,7 @@ Ziel: Will neue interessante Leute kennenlernen, idealerweise welche, die rumkom
 „Du machst das richtige oder das Falsche. Nur das gibt es.“
 *Stark: +, Massig: +, Denkt einfach: -
 *Beruf: Echsen-Krieger: 9
-*Fertigkeiten: Knüppelkampf: 15
+*Knüppelkampf: 15
 *Waffe: Blutholz-Knüppel: Schaden 6. 
 *Schallknochen: +
 *Wundschwelle: 5
@@ -46,7 +46,7 @@ Harsur Roal kennt er erst seit er im Trekk reist.
 „Lass uns unsere Geschichten singen.“
 *Geschickt: +, Charismatisch: +, Intelligent: +
 *Berufe: Erzählerin: 9, Jägerin: 9
-*Fertigkeiten: Gesang: 12, Beinschnitzerei: 12
+*Gesang: 12, Beinschnitzerei: 12
 *Schallknochen: +
 *Waffe: Speer: Schaden: 3
 *Wundschwelle: 4
@@ -55,11 +55,11 @@ Ihre Gesänge berühren sie Seele und ihr Klang scheint bis in Knochen zu reiche
 Rog’Ba kennt sie erst seit sie im Trekk reist, aber die Geschichte der Reise über die Berge kannte sie lange vorher. 
 Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
 #Gera aus Hochturm
-##Menschliche Leiterin der Wache mit klobiger Schrotflinte
+##Menschliche Wache mit klobiger Schrotflinte
 „Was wir hier machen ist wichtig.“
 *Entschlossen: +, Unfähig zu Kompromissen: -
 *Beruf: Wache: 12
-*Fertigkeiten: Schrotflinte: 15
+*Schrotflinte: 15
 *Waffe: Schrotflinte: 4 (bis 5 Personen: Schrot) oder 8 (1 Person: Einzelne Bleikugel oder <5m Abstand). 
 Schrotflinte: Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzelkugeln)
 *Wundschwelle: 4
@@ -67,11 +67,11 @@ Schrotflinte: Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzel
 Ihr Mann Hamul ist der Schmied Hochturms und kümmert sich dort um ihre Tochter Sem und ihren Sohn Rei, während Gera auf Reisen ist. 
 Warum sie dabei ist: „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
 #Kars aus Waldsee
-##Fröhlicher menschlicher Glücksritter
+##Menschlicher Glücksritter
 „Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
 *Mutig: +, Beschützer der Schwachen: +
 *Beruf: Kämpfer: 9
-*Fertigkeiten: Schwertkampf: 15, Begeistert erzählen: 12
+*Schwertkampf: 15, Begeistert erzählen: 12
 *Beschützt die Schwachen: -
 Waffe: Bronze-Schwert: 4
 Rüstung: Gehärtetes Leder: 3
@@ -84,8 +84,8 @@ Wäre er nicht auf Abenteuer ausgezogen, hätte er es wohl wie sein Vater Ners z
 „Tu immer das, an was du glaubst, und dein Leben wird erfüllt sein.“
 *Selbstbewusst: +, Ein Händchen für Technik: +, Guter Ruf: +
 *Beruf: Tischlerin: 12
-*Fertigkeiten: Knüppel: 12
-*Waffe: Knüppel: 1
+*Knüppel: 12
+*Waffe: Knüppel: 1
 *Wundschwelle: 4
 Taras Vater war Künstler und hatte einen guten Stand bei Händlern. Sein Name hat Kraft und sie versteht diese Kraft zu nutzen. Seine Schnitte hängen in einigen Wagen der Händler. 
 Nach seinem Tod ließ sie das Kunsthandwerk beiseite und entschied sich, etwas nützliches zu tun. Ihr einziges Erinnerungsstück an ihn ist ein kleines Holztäfelchen, das er ihr zum sechsten Geburtstag geschenkt hat. Auf ihm ist der Spruch graviert: „Tu immer das, an was du glaubst, und dein Leben wird erfüllt sein.“
@@ -93,11 +93,10 @@ Sie sucht eine unabhängige Gruppe, in deren Gemeinschaft sie andere Länder ber
 #Sotar Adepta
 ##Menschliche Tech-Adeptin
 „Feuer schafft Dampf, Dampf schafft Kraft, Kraft gehorcht dem Geist.“
-*Eins mit der Dampfkraft: +
-*Beruf: Tech-Adeptin: 12
-*Fertigkeiten: Dampfantriebe reparieren: 12
-*Tech-Magie: +
-*Prisma mit 4 Zaubern: +
+*Eins mit der Dampfkraft: +
+*Beruf: Tech-Adeptin: 12
+*Dampfantriebe reparieren: 12
+*Tech-Magie: +, Prisma mit 4 Zaubern: +
 Prisma: Ihre Meisterin hat ihr 4 Zauber in ein Prisma gebunden. Sotar selbst kann noch keine Zauber binden. 
 Magie: Zum Zaubern würfelt sie auf Tech-Adeptin gegen die Schwierigkeit des Zaubers.
 *Wundschwelle: 4
