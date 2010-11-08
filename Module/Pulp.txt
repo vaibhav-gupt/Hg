@@ -1,0 +1,5 @@
+Pulp-Modul (Pulp)
+=================
+
+* Wunden ignorieren (Wurf auf passende Eigenschaft gegen 12, mit Wundmali. 
+* Wunden schneller heilen. 

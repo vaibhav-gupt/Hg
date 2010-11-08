@@ -1,0 +1,84 @@
+# Der Trekk – Eine Kurzkampagne
+Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Kurzabenteuer in die Bresche springen.
+Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Es enthält Kurzregeln, für die Spielleitung (SL) noch ein Grundszenario und für die Spieler vorgefertigte Charaktere und versiegelte Zusatzszenarien.
+Das Abenteuer ist für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. 
+
+## Ablauf
+Die SL liest diesen Text und das Grundszenario, während die Spieler nur den Teil bis „nur für Spielleiter“ lesen und ihre Charakterkarten tauschen, bis sie die haben, die sie wollen (im Zweifel gibt es an der Infotheke noch mehr). Wenn Neulinge dabei sind, erklären die anderen ihnen kurz, was Rollenspiel bedeutet. Ist ein Charakter doppelt, erhält einer einfach einen neuen Namen.
+Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen (es gibt sie als Flyer am Infostand). Die SL bricht das Siegel und liest die Szenarien, während die Spieler für jeden einen Würfel (W6) und etwas zu trinken besorgen. Wenn ihr bereit seid, fangt ihr mit der ersten Szene des Abenteuers an.
+
+## Regeln
+Als Regelwerk verwenden Flyerbücher das freie 1w6-System. Die Charaktere haben eine Reihe Eigenschaften, Berufe, Fertigkeiten und Merkmale, die sie von der Masse abheben. Berufe und Fertigkeiten haben einen Zahlenwert. Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche).
+*Eigenschaften wären Geschick, Intelligenz oder Stolz. Tischlerin ist ein Beruf, Waffenlos eine Fertigkeit. Merkmale wären Reich (+), Süchtig (-) oder Gutes Gedächtnis (+).*
+
+### Proben
+Wenn ihr wissen wollt, ob ein Charakter etwas schafft, könnt ihr es auswürfeln. Dafür schaut ihr, ob eine seiner Fertigkeiten oder seiner Berufe euch passend erscheint. Wenn ja, nutzt ihr deren Wert. Findet ihr nichts passendes, dann verwendet 3 als Wert. Danach schaut ihr seine Eigenschaften an. Nutzt er eine Fertigkeit, erhält er für jedes + in einer zur Probe passenden Eigenschaft einen Punkt Bonus. Nutzt er einen Beruf oder den Wert 3, erhält er nur einen Punkt Bonus pro + in der höchsten passenden Eigenschaft. Unterstützen ihn andere, die  passende Fertigkeiten oder Berufe haben, erhält er pro Unterstützer einen weiteren Punkt Bonus.
+Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, zieht ihr sie ab (so würfeln heißt ±W6). Wenn das Ergebnis mindestens der Schwierigkeit der Probe entspricht (9 ist einfach, 12 fordernd, 15 schwer), gelingt die Probe. Die Differenz zur Schwierigkeit gibt an, wie gut die Probe gelingt.
+*Tara will eine Trage bauen. Sie ist eine erfahrene Tischlerin (Beruf: Tischlerin: 12) und sehr geschickt (+ Geschick). Sie erhält also einen Punkt Bonus auf ihren Beruf und ist damit bei 13. Die SL legt fest, dass eine Trage bauen einfach ist (Schwierigkeit 9). Taras Spielerin würfelt eine 3. 3 ist ungerade, wird also abgezogen und Tara kommt auf 10 (13 minus 1). Sie schafft die Probe damit mit einer Differenz von 1.*
+
+### Wettstreite
+Treten zwei Charaktere gegeneinander an, dann würfeln beide wie bei einer Probe. Wer das höhere Ergebnis hat, gewinnt den Wettstreit. Die Differenz zwischen den Ergebnissen zeigt, wie deutlich er gewinnt.
+
+### Kampf
+Für den Kampf haben Charaktere Waffen, Rüstungen und eine Wundschwelle. Im Nahkampf würfeln beide Beteiligten auf einen passenden Wert. Wer das bessere Ergebnis hat, trifft seinen Gegner. Bei Gleichstand trifft der Angreifer. Im Fernkampf würfelt nur der Angreifer (Schwierigkeit je nach Waffe, oder 12 bis 5m, 15 bis 50m, +3 für erschwerendes). Bei Erfolg trifft er. Der Getroffene nimmt Schaden in Höhe der erzielten Differenz plus der Waffe minus seiner Rüstung. Erreicht der Schaden seine Wundschwelle, erhält er eine Wunde, die alle Proben um drei erschwert, bis sie geheilt ist. Ein Treffer mit 3x Wundschwelle an Schaden bedeutet sofortige Kampfunfähigkeit.
+Die Wundschwelle liegt meist zwischen 3 und 6, Waffenschaden und Rüstungsschutz zwischen 1 (Dolch / Dart / Stoff) und 8 (Axt / Gewehr / Platte). Wenn einer der Kämpfer sich nur verteidigen will, erhält er 6 Punkte Bonus, verursacht aber keinen Schaden, wenn er trifft.
+Für die Heilung würfelt der Spieler jede Woche mit ±W6. Dazu addiert er 1 pro + in passenden Eigenschaften. Ist das Ergebnis größer oder gleich 0, dann heilt eine Wunde.
+*Tara (Knüppel 12, Selbstbewusst +) hat eine Taschendiebin erwischt und will sie ausschalten. Die Diebin hat nur ihren Beruf (Taschendiebin 9). Taras Spielerin würfelt eine 4 und kommt auf 17 (12 plus 1 plus 4). Die Spielleiterin würfelt eine 3, was 6 ergibt (9 minus 3). Tara trifft also ihre Gegnerin mit einer Differenz von 11 Punkten und verursacht 12 Schaden (1 durch den Knüppel). Der Schaden übersteigt die Wundschwelle der Diebin (4) und reicht aus, um eine Wunde zu verursachen. Die Taschendiebin hat bis zu ihrer Heilung einen Abzug von 3 auf alle Proben.*
+
+## Trekk nach Norden
+Es ist eine Zeit hoffnungsvoller Siedler und mutiger Abenteurer. Die Menschen haben neues Land entdeckt, reich an wertvollen Rohstoffen und magischen Wundern. Die Neuen Lande reichen von den verschneiten Huwarrgipfeln im Osten, über die dampfenden Marschlande im Norden bis hin zu den lebensfeindlichen Wüsten im Westen – dazwischen fruchtbare Ebenen, die von wilden Flüssen und dem glitzernden Großen See durchbrochen werden.
+Die Trekks ziehen vom Großen See aus nach Norden, entlang des reißenden Flusses Kanwao. Auf ihrem Weg hinterlassen sie einen breiten Pfad, der von nachrückenden Arbeitern zur steinernen Straße ausgebaut wird. Ziel jedes Trekks ist die nächste Stadt, um diese zu befestigen und den Reichtum des Umlandes zu erschließen – vor allem das sonst so seltene Eisenerz. Ist die Stadt gegen Wetter und Überfälle gefeit, ziehen weitere Trekks den Fluss entlang um eine neue Siedlung zu gründen – ein scheinbar nie endender Kreis.
+Unaufhörlich fressen sich die Menschen durch die Neuen Lande. Ihre Trekks bestehen aus dampfenden Karossen, eckigen Wagen aus Holz und Metall, gezogen von gewaltigen Echsen, deren Muskeln gestärkt werden durch moderne, dampfgetriebene Technik. Laut rattern sie den Fluss entlang, unbeirrt der verständnislosen Blicke der Ureinwohner des Landes.
+Die einfachen Echsenmenschen an den Ufern der Flüsse und Seen, die ihre klagenden Lieder in den Abendwind singen. Die fremdartigen Vogelmenschen in windigen Nestern in den Gebirgen, die anmutige Tänze in der Luft vollführen. Sie leben im Einklang mit der Natur der Neuen Lande, bar jeglichen Verständnisses den Eindringlingen gegenüber. Einzig die Katzenmenschen, einst selbst hinzugezogen, hegen ihrer Neugierde geschuldetes Verständnis.
+Ihr gehört zum Trekk der Annike Wegfinder, einer erfahrenen und gerechten Trekkführerin. Sie hat die Aufgabe übernommen ihre Klienten sicher vom schwer befestigten Zweibrücken in die vor kurzem errichtete Siedlung Hochturm zu führen. Ein Trekk aus reichen Händlern, gemeinen Wanderarbeitern, mutigen Wachen und einfachen Knechten. Ein Trekk, der einem unbestimmten Schicksal entgegenfährt ...
+
+## Das Abenteuer – NUR FÜR DIE SPIELLEITUNG!
+Wenn du nicht leiten willst, dann hör hier auf zu lesen. Du könntest dir den Spaß verderben.
+
+### Nachzügler
+Der Trekk von Annike Wegfinder befindet sich im großen Innenhof des Handelshauses Münzwechsler. Zwölf gewaltige Karossen stehen nebeneinander, jeweils ein Paar Riesenechsen vorgespannt. Die Geschirre der Tiere sind bereits mit magischer Energie aufgeladen und Dampf entweicht ihnen zischend. Gespannt warten Händler, Wanderarbeiter und Siedler auf die Ansprache der Trekkführerin, bevor der Trekk aufbricht.
+Da ist das Zischen und Ächzen einer weiteren Karosse zu hören, die von zwei älteren Echsen in den Hof des Handelshauses gezogen wird. Es sind Kolbert Nagelmacher und sein junges und attraktives Weib Sara. Die Nagelmachers hatten in Zweibrücken kein Glück und wollen sich kurzfristig dem Trekk anschließen. Ihre Ausrüstung ist veraltet und ihnen fehlt das nötige Entgelt, daher richten Kolbert und Sara ein Gesuch an den Trekk und hoffen auf die Gnade der Verantwortlichen.
+Für die Händler ergreift der hakennasige Nathaniel Münzwechsler das Wort: "Eine Karosse mehr verbraucht mehr Mundvorrat und macht den Trekk auffälliger. Doch die Fahrt ist lang und das Weib sieht gut aus. Wenn sie mir beischläft, spreche ich für sie."
+Für die Wanderarbeiter spricht die ältere Rebekka Kupferstich: "Was scheren uns die Belange Anderer? Ich spreche für den, der meine Leute bezahlt!"
+Die Meinung der Siedler vertritt der hagere Theis aus Grashain: "Wir alle wollen ein neues Leben anfangen. Wir sollten zusammenhalten. Also nehmen wir sie mit. Würde mir allerdings ihr Landrecht zugesprochen, dann sollen sie hierbleiben."
+Annike Wegfinder sieht die Sache gelassen. Sie wurde von der Gesamtheit angeheuert und bereits entlohnt. Daher überlässt sie die Entscheidung den anderen Mitgliedern des Trekks, wählt allerdings die Spielercharaktere als Schlichter. Sie schätzt, dass die Karosse der Nagelmachers den gesamten Trekk um ein oder zwei Tage verlangsamen würde. Zudem könnte die Karosse auf Grund ihres Alters leicht zu Schaden kommen oder eine der Zugechsen verenden.
+
+Annike Wegfinder: Leiterin des Trekks „Achtet auf euch und die Umgebung, dann werden wir ankommen“ | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 15, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 200m, 21 darüber hinaus; nach jedem Schuss nachladen (30s)) |
+Händler | Wortgewandt: + | Beruf: 9, Verhandeln: 12 |
+Wanderarbeiter | Muskeln: + | Beliebiges Handwerk: 9 |
+Siedler | Mut: + | Beliebiger Beruf: 9, Beliebige Fertigkeit: 12, Kurzschwert oder Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3, Speer: maximale Reichweite 20m)|
+Wache | Selbstbewusst: +, Ausdauernd: + | Dampfbüchse: 12 | Waffe: Dampfbüchse (Schaden: 6, alle 5 Schuss müssen Wasser und Kugeln nachgefüllt werden) |
+Vornamen von Menschen: Agia, Baara, Edna, Gibbar, Hel, Ira, Jael, Kenan, Lydia, Medan, Sem, Teman. Nachnamen nach Beruf oder Herkunftsort. 
+
+### Gebt her Eure Kinder!
+Die Reise hat begonnen und wird voraussichtlich vier Wochen andauern. Jeden Tag wird der Trekk bis zu zwanzig Kilometer zurücklegen. Ein Reisetag dauert acht Stunden, mit weiteren acht Stunden für Auf- und Abbau des Lagers. Die restlichen Stunden dienen dem Nachtschlaf. Die Wachen des Trekks patroullieren in unregelmäßigen Abständen, während ihre Führerin die erste Karosse lenkt. Von ihrer hohen Sitzposition beobachtet Annike Wegfinder beständig das Umland. Ihr zur Seite sitzt der zerzauste Katzenmensch Roijas, der sich als Heiler um Verletzungen kümmert. Über dem Trekk zieht der weißgefiederte Vogelmensch Naaak stumm seine Kreise.
+Bald begegnen dem Trekk Wanderprediger der Kirche des Heiligen Flux. Sie sind in schwarze Gewänder gehüllt und vor ihrer Brust hängt ein schlichtes, rundes Medaillon aus silbrigem Metall, das Symbol der Kirche. Ihr Anführer ist Baltzer der Stille, ein Mann mit blassblauen Augen. Die Prediger sind freundlich und bitten darum, mit jedem Kind sprechen zu dürfen. Ihre Heilige Mutter Esther VII – Esther die Ruhige – verlangt ein jedes Kind zu prüfen, zu ehren und zu segnen.
+Im Verlauf des Gesprächs werden die Kinder auf Magie untersucht. Das Medaillon der Priester besitzt in seinem Kern einen schwachen Magneten. Verfügt jemand über magische Kraft, beginnt es leicht zu beben, und die Wanderprediger bitten darum das Kind mitnehmen zu dürfen, um es zu läutern und auszubilden. Die Bitten sind jedoch nur aufgesetzte Höflichkeit. Lehnt der Trekk ab, versuchen die Wanderprediger zu einem späteren Zeitpunkt die Kinder zu entführen. Zumindest der kleine Utrecht Münzwechsler verfügt über Magie.
+
+Baltzer der Stille „Magie ist ein Fluch der Dunkelheit. Nur Läuterung rettet ihre Träger“ | Wahrer Glaube: +, Gesegnet: + | Beruf: Priester des Flux: 9 | Gebet: Pfad der Stille¹: 12, Gebet: Zauber stoppen²: 12 | Segnung: 2 Gebete | Verhaltenskodex: Magie läutern oder auslöschen: - |
+¹: Baltzer legt beide Hände aneinander, löst sie ruckartig und legt sie auf den Boden. Er schafft einen 50 cm breiten und höchstens 20m langen Pfad, auf dem nichts einen Laut verursacht. Nach einer Minute löst sich der Pfad wieder auf. Ist der Pfad länger als 7m, erschöpft er Baltzer und erschwert so eine Stunde lang alle seine Handlungen um 3 Punkte. Schwierigkeit 9. 
+²: Baltzer zeichnet einen Kreis in die Luft. Dann presst er die Hände zusammen und würfelt auf Zauber stoppen. Ist sein Ergebnis höher oder gleich des Ergebnisses des Magiers, geht dessen Zauber ins Leere. Pro Tag kann Baltzer 3 Zauber stoppen.
+Wanderprediger des Flux | Fanatisch: + | Früherer Beruf: 9, Lehre des Flux: 12, Schleichen: 12 |
+Beispielnamen von Wanderpredigern: Andras, Batist, Krischan, Hanne, Marthe. Beispielzusätze: der/die ...,  ... Sanfte, ... Kleine, ... Belesene, ... Dürre, ... Überlegte.
+
+### Nicht mit uns!
+Die Menschen haben mit der Besiedlung des Landes begonnen, ohne Rücksicht auf die Ureinwohner zu nehmen. Eine Meute Katzenmenschen unter der rotscheckigen Shanari hat beschlossen, die Kolonisierung aufzuhalten, um die Stämme und Siedlungen im Landesinneren zu schützen. Sie stellen sich dem Trekk in den Weg und fordern eine Umkehr. Shanari bleibt dabei gelassen und freundlich. Die Katzenfrau erklärt, dass die rasche Kolonisierung das Land ausbluten lässt. Die Siedler sollen umkehren und den Neuen Landen ihren Frieden lassen.
+Shanari sucht keinen gewaltsamen Konflikt. Hat sie keinen Erfolg, zieht sich die Katzenfrau mit ihren Leuten zurück. Die Meute wird dann jede Nacht zum Trekk schleichen, um die Karossen zu sabotieren oder wichtige Ausrüstung zu stehlen. Dadurch wird sich die Reisezeit um vier Tage verzögern, was eine Rationalisierung des Proviants mit sich bringt. Das wiederum beschwört Ärger herauf, denn die Händler führen Nahrungsmittel als Waren mit sich und weigern sich, diese zu teilen.
+Um ohne Sabotage nach Hochturm zu gelangen, müssen die Katzenmenschen regelmäßig vertrieben, eingeschüchtert oder bekämpft werden. Shanari ist keine Fanatikerin und ihre Meute wird nach den ersten Verletzungen das Weite suchen.
+
+Shanari, sanftmütige Anführerin der Meute „Ihr zerstört unser Land. Bitte kehrt um.“ | Gemütsruhe: ++, Feingefühl: + | Beruf: Schneiderin: 9, Überzeugen: 12, Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
+Katzenmenschen | Gewandtheit: + | Beliebiger Beruf: 9 , Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
+Beispielnamen von Katzenmenschen: Eenaru, Jarven, Kaor, Luijar, Njenes, Roijaar, Sjasaï, Sovóre, Tael.
+
+### Am Ziel
+Nach all den Strapazen und Entbehrungen erreicht der Trekk Hochturm. Wo in wenigen Wochen wuchtige Mauern emporragen werden, stehen derzeit noch hölzerne Palisaden. Neugierige Blicke folgen dem Trekk, der langsam in die Stadt einfährt und auf den gewaltigen steinernen Glockenturm im Zentrum zuhält, dem Wahrzeichen dieser Siedlung.
+Der Trekk wird dort Halt machen und seine Geschäfte erledigen. Annike Wegfinder spricht als Trekkführerin jedoch jedem Mitglied des Trekks die traditionelle Einladung aus, die kommende Nacht ein letztes Mals als Gemeinschaft zu verbringen, um bei einem guten Tropfen und einer herzhaften Mahlzeit Abschied zu nehmen ...
+
+Vornamen von Menschen aus Hochturm: Bekka, Jasus, Marthea, Taba, Zachus. 
+
+## Freies Rollenspiel
+Der Trekk ist ein frei lizensiertes Rollenspiel¹. Du kannst es nutzen, kopieren, ändern und weitergeben, wie du willst – sogar verkaufen – solange du anderen mit deinen Änderungen das gleiche erlaubst. 
+Geschrieben von Günther Lietz (taysal.net) und Arne Babenhauserheide (1w6.org/uzanto/drak). 
+Danke an Thoule e.V. für den Abdruck!
+– 1w6.org –
+¹: 1w6.org/deutsch/anhang/freies-rollenspiel/
