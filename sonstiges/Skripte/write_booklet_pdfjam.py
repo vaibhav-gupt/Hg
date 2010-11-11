@@ -108,7 +108,7 @@ pages_string = ",".join(page_order)
 
 # Now we only need to compile the pdfnup call string.
 
-call_list = ["pdfnup", infile, "--nup", "2x1", "--pages", pages_string, "--paper", "a4paper", "--outfile", outfile]
+call_list = ["pdfnup", "--nup", "2x1", "--paper", "a4paper", "--outfile", outfile, "--", infile, pages_string]
 
 # print call_list
 
