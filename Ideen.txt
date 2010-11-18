@@ -2032,3 +2032,17 @@ Willst du es nicht so heldenhaft, sondern eher gefährlich, lass die Verletzunge
 
 ------ 
 
+*Tipp zu einem Kampfsystem im Tanelorn: http://tanelorn.net/index.php/topic,62981.75.html*
+
+Ich sehe bei der Beschreibung keine Initiative, sondern, dass der große Kämpfer zwar immer wieder angreift, der Dolchkämpfer aber aus jedem Angriff seines Gegners Vorteile zieht. 
+
+Statt Initiative würde ich es ermöglichen, bei einer erfolgreichen Parade/einem erfolgreichen Ausweichen die Differenz mitzunehmen. 
+
+Dazu noch erschwerte Paraden, die einen noch größeren Bonus auf den nächsten Angriff geben (mit Ansage: „ich will hinter ihn“ ⇒ Malus von 3 auf die Parade, bei Gelingen Bonus von 6 auf den Angriff). 
+
+Und beim erfolgreichen Angriff kann die Differenz zum Verteidigungswurf Schadensboni geben. 
+
+Das System ist extrem einfach und ergibt gleichzeitig eine starke Dynamik – und durch die Boni bleiben Kämpfe kurz und tödlich. Und es gibt die Möglichkeit, aufzugeben: Wenn der andere mit der Parade so viel Boni erreicht, dass er dich auf einen Schlag töten kann, gibt lieber auf.
+
+------
+
