@@ -12,4 +12,3 @@ Auf der anderen Seite klingen Lytas Argumente einleuchtend und Zorn und Enttäus
 *Wanderarbeiter [Tagelöhner]: Muskeln/Ausdauer/Erfahrung: +, Gemeinschaft/Abgebrühtheit: +, Beruf: Tagelöhner: 9, Schleuder/Fabulieren/Glücksspiel: 12
 *Regeln für Spuren lesen: Würfel auf eine passende Fertigkeit oder einen passenden Beruf gegen die Schwierigkeit 12. Jeder gelungene Wurf lässt die Spieler eine Stunde aufholen. Jeder misslungene Wurf kostet eine Stunde. Nach 6 Stunden treffen sie auf die ausgesetzten Besitzer der Karosse.
 *Regeln zum Überzeugen: Wann immer der Spieler des Charakters nicht mehr weiter weiß, kann er auf Überzeugen gegen den Beruf oder eine passende Fertigkeit des anderen würfeln. Bei Erfolg gibt ihm der Spieler des anderen Tipps für gute Argumente.
-Szenario von Günther Lietz / Taysal (taysal.net). egeltext von Arne Babenhauserheide / Drak (1w6.org/uzanto/drak). Frei lizensiert unter der GNU GPLv3 (gnu.org/licenses/gpl.html). Weitere Infos: 1w6.org

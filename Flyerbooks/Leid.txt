@@ -11,12 +11,3 @@ Egal wie sich der Trekk entscheidet, die einzige Möglichkeit das von Marina und
 *Karossen fahren: Alle 4 Stunden Fahrt muss auf einen passenden Wert gewürfelt werden, im Zweifelsfall den Beruf. Wann immer ein Wurf zum Lenken misslingt, nimmt die Karosse Schaden. Nach dem vierten und jedem weiteren Fehler kann sie nur mit zwei Stunden Reparatur weiterfahren. Schwierigkeiten: Normale Fahrt: 6 (Routine), schnell fahren: 9 (einfach), schlechter Boden: +3. Vier Stunden lang schnell zu fahren spart eine Stunde Reisezeit. 
 *Erschöpfung der Echsen: Jeden Tag müssen die Zugechsen versorgt werden. Normalerweise ist die Probe trivial (Schwierigkeit 3). Bei schneller Fahrt oder mehr als eine Stunde längerer Fahrtzeit pro Tag wird sie jeweils 3 Punkte schwerer. Misslingt eine Probe, kann die Karosse einen Tag nicht weiterfahren. Entweder sie bleibt zurück oder der Trekk verzögert sich.
 *Szenario von Günther Lietz / Taysal (taysal.net). Regeltext von Arne Babenhauserheide / Drak (1w6.org/uzanto/drak). Frei lizensiert unter der GNU GPLv3 (gnu.org/licenses/gpl.html). Weitere Infos: 1w6.org
-
-
-
-
-
-
-
-
-
