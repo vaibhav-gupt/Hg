@@ -18,8 +18,3 @@ Wem es gelingt zu Jalia vorzudringen, der kann durch sie auf Esekiel und die Reg
 *Nomaden | Zäh: +, Stur: + | Nomade: 9, Reiten 12 | Waffe: Wurfbeil (3), Sprengkapseln (24 nach 6±W6 s) |
 *Jalia (mit punktuellem Heilzauber, weitreichendem Schadenszauber / rohe Magie)
 *Reitechsen
-
-Szenario von Günther Lietz / Taysal → taysal.net
-Regeltext von Arne Babenhauserheide / Drak → 1w6.org/uzanto/drak
-Frei lizensiert unter der GNU GPLv3 → gnu.org/licenses/gpl.html
-– Weitere Infos: 1w6.org –
