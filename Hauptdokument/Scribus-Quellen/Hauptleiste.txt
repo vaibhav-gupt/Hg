@@ -1,6 +1,6 @@
 #Vorgespräch
 
-Das EWS ist ein schnelles und flexibles Regelsystem für Fantasy und Science Fiction, Cyberpunk und Pulp Action und für viele weitere Hintergründe. 
+Das EWS, bzw. 1w6-System ist ein schnelles und flexibles Regelsystem für Fantasy und Science Fiction, Cyberpunk und Pulp Action und beliebige weitere Hintergründe. 
 
 Dieses Heft liefert dafür ein stabiles, freies und minimales Fundament, auf dem andere Werke aufbauen können. Seine Regeln sind direkt spielbar und unterstützen sowohl One-Shots als auch lange Kampagnen, richten sich allerdings an erfahrene Rollenspieler. Für Neueinsteiger sind Hefte in Arbeit, die das EWS jeweils auf einen bestimmten Hintergrund zuschneiden. 
 
@@ -10,7 +10,7 @@ Um es schlank zu halten, ist das EWS in weiten Teilen kompatibel zu Gurps® und 
 Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwerk schlank bleibt. Jedes Modul hat einen vollen Namen und eine vier Zeichen lange Abkürzung, so dass du deinen Spielern schnell zeigen kannst, welche Module du nutzt. Unter vielen Texten findest du außerdem Tipps, welche Module für den jeweiligen Abschnitt interessant sind. 
 
 Die meisten Module findest du auf 
-- http://module.1w6.org 
+- module.1w6.org 
 
 Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber natürlich auch männliche Spieler und weibliche Charaktere. 
 
@@ -22,7 +22,7 @@ Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber 
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
 
-**Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9: einfach) oder höher ist als das Ergebnis des Gegners. Wie die Werte von Eigenschaften und Fertigkeiten haben auch Mindestwürfe Namen. Beispielsweise ist 12 fordernd, 15 schwer und 18 heikel. 
+**Die Handlung gelingt, wenn das Ergebnis einen Mindestwurf erreicht (meistens 9: einfach) oder höher ist als das Ergebnis des Gegners. Wie die Werte von Eigenschaften und Fertigkeiten haben auch Mindestwürfe Namen. Beispielsweise ist 9 einfach, 12 fordernd, 15 schwer und 18 heikel. 
 
 **Die erzielte Differenz gibt an, wie gut die Handlung bestanden wurde.
 
@@ -117,9 +117,9 @@ Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft
 Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messerstecherei in einer schmutzigen Kaschemme, und bei einem Bardenwettstreit kann ein Barde selbst in absoluter Höchstform verlieren, wenn sein Gegner einfach etwas besser ist.
 #Charaktererschaffung
 
-Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Die Erschaffung der Charaktere. 
+Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Der Erschaffung der Charaktere. 
 
-Auf der nächsten Seite besprechen wir dafür kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. Danach werden wir die Machtstufe der Charaktere wählen und ihnen Werte geben, um ihre Fähigkeiten festzulegen. 
+Dafür besprechen wir erst kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. Danach wählen wir die Machtstufe der Charaktere und geben ihnen Werte, um ihre Fähigkeiten festzulegen. 
 
 <fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 17 enthält einfache Konvertierungsregeln für die Kosten. 
 
@@ -127,15 +127,17 @@ Auf der nächsten Seite besprechen wir dafür kurz die Charakterhefte, in denen 
 
 Um es dir zu erleichtern, deinem Charakter mehr Stil zu verleihen, nutzt das EWS Charakterhefte anstelle normaler Charakterblätter, also Falthefte, die du nach deinem persönlichen Geschmack erweitern kannst. 
 
-Anfangs besteht ein Charakterheft aus einer einzelnen, gefalteten DinA4-Seite, wie du sie auch in der Mitte dieses Regelwerks findest (auf dem letzten Blatt, wenn du es selbst gedruckt hast) und unter http://charhefte.1w6.org herunterladen kannst. 
+Anfangs besteht ein Charakterheft aus einer einzelnen, gefalteten DinA4-Seite, wie du sie auch in der Mitte dieses Regelwerks findest (auf dem letzten Blatt, wenn du es selbst gedruckt hast) und unter 
+- charhefte.1w6.org 
+herunterladen kannst. 
 
 Die Außenseiten des Charakterheftes tragen nur storytechnische Informationen, vorne kurze Beschreibungen und viel Platz für Charakterbilder, hinten eine leere Seite für deine Notizen. 
 
 Jegliches regeltechnisch Relevante wurde auf die Innenseiten gepackt. Auf der rechten Seite Ausrüstung und Kurzregeln, auf der Linken Eigenschaften, Fertigkeiten, Merkmale und Kampfwerte; zusätzlich noch Größe, Gewicht, Haarfarbe u.ä. deines Charakters. 
 
 Auf 1w6.org wird es mit der Zeit zusätzliche Blätter für längere Charaktergeschichten, Mitschriebe und sonstiges geben. Du kannst sie aber auch einfach selbst erstellen und wenn du Lust hast auf der Seite oder im Forum posten: 
-- Webseite: http://charhefte.1w6.org
-- Forum: http://forum.1w6.org. 
+- Webseite: charhefte.1w6.org
+- Forum: forum.1w6.org. 
 
 #Die Erschaffung
 
@@ -335,7 +337,7 @@ Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
 - kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schuldkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
 
 - weitere: 
--> http://1w6.org/stichwort/merkmale
+-> 1w6.org/stichwort/merkmale
 
 Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler"). 
 
@@ -464,10 +466,10 @@ Sollte das bei euch so sein, kannst du entweder eine einfache Möglichkeit der d
 In jedem Modul findest du eine kleine Einführung, die den (wahrscheinlichen) Einfluss des Moduls auf Spielfluss und Stimmung deines Spiels beschreibt. 
 
 Einen Leitfaden zum Anpassen des EWS findest du auf 
-- http://anpassen.1w6.org
+- anpassen.1w6.org
 
 Verschiedene Module stehen auf 
-- http://module.1w6.org
+- module.1w6.org
 und im Anhang des Regelwerks. 
 
 Einige verfügbare Module
@@ -497,7 +499,7 @@ Im Anhang sind zwei Module abgedruckt, die für die meisten Spielrunden interess
 - Fokusmodul Kampf (FoKa). 
 
 Verschiedene Spielwelten findest du auf der Webseite des Ein Würfel Systems: 
-- http://welten.1w6.org
+- welten.1w6.org
 
 #Steigerung (SteM)
 
@@ -585,7 +587,7 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 *Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 
 <fuss>Ein ausführlicheres Beispiel gibt es im Netz: 
-<fuss>-> http://1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel/
+<fuss>-> 1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel
 
 
 #Fokus: Kampf (FoKa)
