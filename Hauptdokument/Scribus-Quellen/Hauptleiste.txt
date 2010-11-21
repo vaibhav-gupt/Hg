@@ -56,7 +56,7 @@ Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter eine
 
 **Wie Fertigkeiten erhalten auch Beruf und Hintergrund Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird. 
 
-*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Ina auf den Beruf "Gerber" würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft "Dreistigkeit" erhält. 
+*Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Ina auf den Beruf „Gerber“ würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit „Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn.“ Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft „Dreistigkeit“ erhält. 
 #Merkmale
 
 Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter zählen Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr. 
@@ -362,9 +362,9 @@ Da ihr nun Charaktere habt, werdet ihr vermutlich auf Abenteuer ausziehen. Erfah
 
 Das EWS ermöglicht das Ausspielen von Kämpfen auf zwei verschiedene Arten. 
 
-In den Grundregeln findet sich das "Ein Wurf System", das einfach eine schnelle Bestimmung des Ausgangs eines Kampfes ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert. 
+In den Grundregeln findet sich das „Ein Wurf System“, das einfach eine schnelle Bestimmung des Ausgangs eines Kampfes ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert. 
 
-Bei Verwendung des "Ein Wurf Systems" wird ein Kampf ebenso schnell und leicht abgehandelt wie ein kurzer Bardenwettstreit, da der Kampf nicht ins Rampenlicht rückt. 
+Bei Verwendung des „Ein Wurf Systems“ wird ein Kampf ebenso schnell und leicht abgehandelt wie ein kurzer Bardenwettstreit, da der Kampf nicht ins Rampenlicht rückt. 
 
 Es kann daher auch als Vorlage für Regeln von vielen anderen Arten von Konfrontationen genutzt werden. 
 
@@ -376,7 +376,7 @@ Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um die
 
 #Auswirkungen von Verletzungen
 
-Charaktere können aus verschiedenen Gründen Verletzungen davontragen. Im Grundsystem werden nur Verletzungen beachtet, die schwer genug sind, um den Charakter merklich zu behindern; wir nennen sie "Wunden". Alles andere sind nur Kratzer. 
+Charaktere können aus verschiedenen Gründen Verletzungen davontragen. Im Grundsystem werden nur Verletzungen beachtet, die schwer genug sind, um den Charakter merklich zu behindern; wir nennen sie "Wunden". Alles andere sind nur Kratzer.
 
 **Jede einzelne Wunde erschwert dabei alle seine Handlungen um 3 Punkte, bis sie geheilt ist. 
 
@@ -400,7 +400,7 @@ Verfehlt die Spielerin den Mindestwurf bei der Heilungsprobe um mehr als 6 Punkt
 
 Liegt der Mindestwurf 3 oder mehr Punkte über dem Eigenschaftswert des Charakters, dann muss er auch ohne Wunden jede Woche würfeln, ob sein Körper mit der Belastung klar kommt oder ob er sich Wunden zuzieht. 
 
-*"Grok, Barbar" hat sich bei einem Fürsten verdungen. Als der Fürst sich entscheidet, seinen Nachbarn für eine Schmähung beim Ball anzugreifen, schickt er Groks Einheit auf einen mehrwöchentlichen Gewaltmarsch. Grok mit seiner überragenden Konstitution (18, WS 6) hält den Marsch gut durch (Mindestwurf 18 ohne Wunden), doch die anderen in seiner Einheit (Konstitution 12) erhalten alle 2 Wochen eine Wunde (bei jeder ungeraden Zahl, also im Durchschnitt jeder zweiten Probe). Als Grok nach 6 Wochen alleine ankommt, entscheidet er sich, in der Schenke nach schöneren Aufgaben zu suchen. 
+*"Grok, Barbar" hat sich bei einem Fürsten verdungen. Als der Fürst sich entscheidet, seinen Nachbarn für eine Schmähung beim Ball anzugreifen, schickt er Groks Einheit auf einen mehrwöchentlichen Gewaltmarsch. Grok mit seiner überragenden Konstitution (18, WS 6) hält den Marsch gut durch (Mindestwurf 18 ohne Wunden), doch die anderen in seiner Einheit (Konstitution 12) erhalten alle 2 Wochen eine Wunde (bei jeder ungeraden Zahl, also im Durchschnitt jeder zweiten Probe). Als Grok nach 6 Wochen fast alleine ankommt, entscheidet er sich, in der Schenke nach schöneren Aufgaben zu suchen. 
 
 **Fachkundliche Behandlung gibt Boni auf die Heilung. Pro + in der Fertigkeit des Arztes erhält der Charakter einen Bonus von 1 auf seine Probe. Wunden komplett unbehandelt zu lassen gibt pro Wunde einen zusätzlichen Malus von 3 auf die Heilungsproben. 
 
@@ -415,7 +415,7 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Dazu  würfeln beide auf ihre Kampffertigkeit. Diejenige mit dem höheren Ergebnis (Wert ± Wurf) gewinnt die Konfrontation. Ihre Gegnerin ist kampfunfähig und erhält drei Wunden plus eine weitere je drei Punkte Differenz ihrer Ergebnisse. Die Gewinnerin erhält dabei drei Wunden abzüglich einer Wunde für je drei Punkte Differenz. Wenn ihr Ergebnis also 6 Punkte höher war als das ihrer Kontrahentin, erhält sie nur eine Wunde. Wenn die Gewinnerin 9 oder mehr Punkte besser war als ihre Kontrahentin, geht sie unbeschadet aus der Konfrontation hervor. 
 
-**Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 3 Meter drei Punkte, bis 9 Metern 6 Punkte und bei über 9 Metern 9 Punkte.  
+**Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 10 Meter drei Punkte, und bei über 10 Metern 9 Punkte.  
 
 **Bis 1m: 	+1
 **Bis 10m: 	+3
@@ -438,19 +438,19 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 ##Kampftaktiken
 Um dem Ein Wurf System größere Flexibilität zu geben, können verschiedene Kampftaktiken genutzt werden. Einige Beispiele: 
 
-- Vorsichtiger Kampf: Hierdurch erhält der Charakter, wenn er verliert, nur eine Wunde für je 3 Punkte Differenz und keine, wenn er gewinnt. Dafür hat er allerdings einen Malus von 3 Punkten auf seinen FW (Gewinnchance 1/3  statt 1/2 bei gleichstarken Gegnern). 
+- Vorsichtiger Kampf: Hierdurch erhält der Charakter, wenn er verliert, nur eine Wunde für je 3 Punkte Differenz und keine, wenn er gewinnt. Dafür hat er allerdings einen Malus von 3 Punkten auf seinen Fertigkeitswert (Gewinnchance 1/3  statt 1/2 bei gleichstarken Gegnern). 
 
 - Um Leben und Tod: Der Charakter kämpft bis zu seinem Tod. Dafür erhält er 6 Punkte Bonus auf seinen Wurf. Sollte er verlieren, ist er allerdings unwiederbringlich tot und nicht nur kampfunfähig (5/6 Chance auf Sieg, 1/6 tot). 
 
-- Reine Flucht: Hier versucht der Charakter vor seinem Kontrahenten zu fliehen. Sollte er gewinnen, entkommt er. Sein Kontrahent erhält keinen Schaden, der Fliehende selbst aber trotzdem drei Wunden abzüglich einer Wunde je drei Punkte Differenz. Wer nur zu fliehen versucht erhält 6 Punkte Bonus auf seinen FW (5/6 Chance zu entkommen). 
+- Reine Flucht: Hier versucht der Charakter vor seinem Kontrahenten zu fliehen. Sollte er gewinnen, entkommt er. Sein Kontrahent erhält keinen Schaden, der Fliehende selbst aber trotzdem drei Wunden abzüglich einer Wunde je drei Punkte Differenz. Wer nur zu fliehen versucht erhält 6 Punkte Bonus auf seinen Fertigkeitswert (5/6 Chance zu entkommen). 
 
-- Unterstützende Fertigkeiten: Fertigkeiten wie Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jeweils 3 Punkte, die ihr Wert über 9 liegt, einen Punkt Bonus auf den FW (1 Punkt pro + ).   
+- Unterstützende Fertigkeiten: Fertigkeiten wie Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jedes + in der Fertigkeit einen Punkt Bonus auf den Fertigkeitswert.   
 
 #Hinweise zum Leiten
 
 Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System mit Kampfunfähigkeit und Verletzung statt mit dem Tod, solange niemand auf Leben und Tod kämpft. 
 
-Nebenbei ist für manche Spielerinnen die Gefangenschaft ein viel schlimmeres Schicksal als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
+Gefangenschaft mag für manche Spielerinnen ein viel schlimmeres Schicksal sein, als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer. 
 
 Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen. 
 
@@ -811,6 +811,6 @@ An dieser Stelle: Danke!
 
 Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt. 
 
-<fuss>Die Grafiken stammen mit Ausnahme des Logos aus dem freien Strategiespiel "Battle for Wesnoth" (wesnoth.org). Falls du Lust hast, für das EWS eigene Bilder zu zeichnen, dann schreib uns bitte! 
+<fuss>Die Grafiken stammen von Trudy Wenzel und aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org). Falls du Lust hast, für das EWS eigene Bilder zu zeichnen, dann schreib uns bitte! 
 
 <fuss>PS: Vom Autor empfohlen ab 14 Jahren. 
