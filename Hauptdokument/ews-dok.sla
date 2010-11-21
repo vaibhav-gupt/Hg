@@ -555,22 +555,21 @@
         <COLOR NAME="YellowGreen" CMYK="#33009b32" Spot="0" Register="0"/>
         <COLOR NAME="bab-grau-Khaki" RGB="#e6e6e6" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="10.8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" FONT="Vn URW Bookman L BookmanL" FONTSIZE="9"/>
         <STYLE NAME="Haupttitel" ALIGN="0" LINESPMode="0" LINESP="86.4" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Vn URW Palladio L Roman" FONTSIZE="72" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="EWS Abschnittstitel" ALIGN="0" LINESPMode="0" LINESP="24" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Vn Bitstream Charter Normal" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
-        <STYLE NAME="EWS Fluss" ALIGN="3" LINESPMode="0" LINESP="10.8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="URW Bookman L Light" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="EWS Fluss" ALIGN="3" LINESPMode="0" LINESP="10.8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" FONT="Vn URW Bookman L BookmanL" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="Seitenleiste-Titel" ALIGN="0" LINESPMode="0" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Vn Bitstream Charter Italic" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="Inhalt-Titel" ALIGN="1" LINESPMode="0" LINESP="9.6" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Vn Bitstream Charter Italic" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="EWS Regel" PARENT="EWS Fluss"/>
         <STYLE NAME="EWS Kleine Fußzeile" ALIGN="3" LINESPMode="0" LINESP="9.6" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Vn URW Palladio L Roman" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
-        <STYLE NAME="EWS Kursiv" ALIGN="3" LINESPMode="0" LINESP="10.8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="URW Bookman L Light Italic" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="EWS Kursiv" ALIGN="3" LINESPMode="0" LINESP="10.8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Vn URW Bookman L Italic" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Vn URW Palladio L Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="1" Articles="1" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="144" Resolution="4000" Version="15" Intent="1" Intent2="1" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="15.2985826771654" BLeft="9" BRight="21.6" BBottom="30.6" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="1" Articles="1" Bookmarks="1" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="4000" Version="15" Intent="1" Intent2="1" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="15.2985826771654" BLeft="9" BRight="21.6" BBottom="30.6" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="1" UseLpi="0" UseSpotColors="0" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Nimbus Mono L Regular"/>
             <Fonts Name="URW Bookman L Light"/>
-            <Fonts Name="URW Bookman L Light Italic"/>
             <Fonts Name="Vn Bitstream Charter Italic"/>
             <Fonts Name="Vn Bitstream Charter Normal"/>
             <Fonts Name="Vn URW Palladio L Roman"/>
@@ -767,9 +766,6 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Grund­tex­te sind da­bei im Haupt­text, Op­tio­na­les, Hin­ter­grün­de und Ide­en (wie die­se Vor­re­de) in der Sei­ten­leis­te. Für bes­se­re Über­sicht­lich­keit nut­zen wir je­weils ei­ge­ne Schrift­sti­le"/>
             <para PARENT="EWS Fluss"/>
-            <para PARENT="EWS Fluss"/>
-            <ITEXT CH="für Re­gel­tei­le, "/>
-            <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="für Bei­spie­le und"/>
             <para PARENT="EWS Kursiv"/>
@@ -1784,7 +1780,7 @@
             <ITEXT CH="Vor­ge­spräch"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Das EWS ist ein schnel­les und fle­xibles Re­gel­sys­tem für Fan­ta­sy und Science Fic­ti­on, Cy­ber­punk und Pulp Ac­ti­on und für vie­le wei­te­re Hin­ter­grün­de. "/>
+            <ITEXT CH="Das EWS, bzw. 1w6-Sys­tem ist ein schnel­les und fle­xibles Re­gel­sys­tem für Fan­ta­sy und Science Fic­ti­on, Cy­ber­punk und Pulp Ac­ti­on und be­lie­bi­ge wei­te­re Hin­ter­grün­de. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die­ses Heft lie­fert da­für ein sta­bi­les, frei­es und mi­ni­ma­les Fun­da­ment, auf dem an­de­re Wer­ke auf­bau­en kön­nen. Sei­ne Re­geln sind di­rekt spiel­bar und un­ter­stüt­zen so­wohl One-Shots als auch lan­ge Kam­pa­gnen, rich­ten sich al­ler­dings an er­fah­re­ne Rol­len­spie­ler. Für Neu­ein­stei­ger sind Hef­te in Ar­beit, die das EWS je­weils auf einen be­stimm­ten Hin­ter­grund zu­schnei­den. "/>
@@ -1800,7 +1796,7 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die meis­ten Mo­du­le fin­dest du auf "/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- http://mo­du­le.1w6.org "/>
+            <ITEXT CH="- mo­du­le.1w6.org "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="An­mer­kung: Wir schrei­ben „Spie­le­rin“ und „Cha­rak­ter“, mei­nen da­mit aber na­tür­lich auch männ­li­che Spie­ler und weib­li­che Cha­rak­tere. "/>
@@ -1820,7 +1816,7 @@
             <ITEXT CH="Hand­lun­gen wer­den durch einen ein­zel­nen Wurf mit ei­nem W6 ent­schie­den. Ei­ne ge­ra­de Zahl wird da­bei zu dem Wert ei­ner pas­sen­den Ei­gen­schaft oder Fer­tig­keit ad­diert, ei­ne un­ge­ra­de ab­ge­zo­gen (so zu wür­feln heißt ±W6)."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Die Hand­lung ge­lingt, wenn das Er­geb­nis einen Min­dest­wurf er­reicht (meis­tens 9: ein­fach) oder hö­her ist als das Er­geb­nis des Geg­ners. Wie die Wer­te von Ei­gen­schaf­ten und Fer­tig­kei­ten ha­ben auch Min­dest­wür­fe Na­men. Bei­spiels­wei­se ist 12 for­dernd, 15 schwer und 18 hei­kel. "/>
+            <ITEXT CH="Die Hand­lung ge­lingt, wenn das Er­geb­nis einen Min­dest­wurf er­reicht (meis­tens 9: ein­fach) oder hö­her ist als das Er­geb­nis des Geg­ners. Wie die Wer­te von Ei­gen­schaf­ten und Fer­tig­kei­ten ha­ben auch Min­dest­wür­fe Na­men. Bei­spiels­wei­se ist 9 ein­fach, 12 for­dernd, 15 schwer und 18 hei­kel. "/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die er­ziel­te Dif­fe­renz gibt an, wie gut die Hand­lung be­stan­den wur­de."/>
@@ -1971,10 +1967,10 @@
             <ITEXT CH="Cha­rak­terer­schaf­fung"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Nach­dem wir jetzt wis­sen, wie das Er­geb­nis von Hand­lun­gen be­stimmt wird, kom­men wir zum nächs­ten Teil: Die Er­schaf­fung der Cha­rak­tere. "/>
+            <ITEXT CH="Nach­dem wir jetzt wis­sen, wie das Er­geb­nis von Hand­lun­gen be­stimmt wird, kom­men wir zum nächs­ten Teil: Der Er­schaf­fung der Cha­rak­tere. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Auf der nächs­ten Sei­te be­spre­chen wir da­für kurz die Cha­rak­ter­hef­te, in de­nen Cha­rak­tere auf­ge­schrie­ben wer­den. Da­nach wer­den wir die Macht­stu­fe der Cha­rak­tere wäh­len und ih­nen Wer­te ge­ben, um ih­re Fä­hig­kei­ten fest­zu­le­gen. "/>
+            <ITEXT CH="Da­für be­spre­chen wir erst kurz die Cha­rak­ter­hef­te, in de­nen Cha­rak­tere auf­ge­schrie­ben wer­den. Da­nach wäh­len wir die Macht­stu­fe der Cha­rak­tere und ge­ben ih­nen Wer­te, um ih­re Fä­hig­kei­ten fest­zu­le­gen. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Um al­les aus der Er­schaf­fung her­aus­zu­ho­len, soll­test du Zu­griff auf die Vor- und Nach­teils­lis­te von Gurps® oder Fud­ge™ ha­ben. Die Sei­ten­leis­te auf Sei­te 17 ent­hält ein­fa­che Kon­ver­tie­rungs­re­geln für die Kos­ten. "/>
@@ -1987,7 +1983,11 @@
             <ITEXT CH="Um es dir zu er­leich­tern, dei­nem Cha­rak­ter mehr Stil zu ver­lei­hen, nutzt das EWS Cha­rak­ter­hef­te an­stel­le nor­ma­ler Cha­rak­ter­blät­ter, al­so Falt­hef­te, die du nach dei­nem per­sön­li­chen Ge­schmack er­wei­tern kannst. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="An­fangs be­steht ein Cha­rak­ter­heft aus ei­ner ein­zel­nen, ge­fal­te­ten Di­nA4-Sei­te, wie du sie auch in der Mit­te die­ses Re­gel­werks fin­dest (auf dem letz­ten Blatt, wenn du es selbst ge­druckt hast) und un­ter http://char­hef­te.1w6.org her­un­ter­la­den kannst. "/>
+            <ITEXT CH="An­fangs be­steht ein Cha­rak­ter­heft aus ei­ner ein­zel­nen, ge­fal­te­ten Di­nA4-Sei­te, wie du sie auch in der Mit­te die­ses Re­gel­werks fin­dest (auf dem letz­ten Blatt, wenn du es selbst ge­druckt hast) und un­ter "/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- char­hef­te.1w6.org "/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="her­un­ter­la­den kannst. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die Au­ßen­sei­ten des Cha­rak­ter­hef­tes tra­gen nur sto­ry­tech­ni­sche In­for­ma­tio­nen, vor­ne kur­ze Be­schrei­bun­gen und viel Platz für Cha­rak­ter­bil­der, hin­ten ei­ne lee­re Sei­te für dei­ne No­ti­zen. "/>
@@ -1998,9 +1998,9 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Auf 1w6.org wird es mit der Zeit zu­sätz­li­che Blät­ter für län­ge­re Cha­rak­ter­ge­schich­ten, Mit­schrie­be und sons­ti­ges ge­ben. Du kannst sie aber auch ein­fach selbst er­stel­len und wenn du Lust hast auf der Sei­te oder im Fo­rum pos­ten: "/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Web­sei­te: http://char­hef­te.1w6.org"/>
+            <ITEXT CH="- Web­sei­te: char­hef­te.1w6.org"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Fo­rum: http://fo­rum.1w6.org. "/>
+            <ITEXT CH="- Fo­rum: fo­rum.1w6.org. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -2333,7 +2333,7 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- wei­te­re: "/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="-&gt; http://1w6.org/stich­wort/merk­ma­le"/>
+            <ITEXT CH="-&gt; 1w6.org/stich­wort/merk­ma­le"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Sinn­lo­ses schließt sich ge­gen­sei­tig aus (z.B. &quot;Ge­hirn in ei­nem Kas­ten&quot; und &quot;Kör­per­wechs­ler&quot;). "/>
@@ -2372,10 +2372,10 @@
             <ITEXT CH="Das EWS er­mög­licht das Aus­spie­len von Kämp­fen auf zwei ver­schie­de­ne Ar­ten. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="In den Grund­re­geln fin­det sich das &quot;Ein Wurf Sys­tem&quot;, das ein­fach ei­ne schnel­le Be­stim­mung des Aus­gangs ei­nes Kamp­fes er­mög­licht, wäh­rend im An­hang das kom­ple­xe­re Fo­kus­mo­dul Kampf steht, das ein de­tail­lier­te­res Aus­spie­len von Kämp­fen för­dert. "/>
+            <ITEXT CH="In den Grund­re­geln fin­det sich das „Ein Wurf Sys­tem“, das ein­fach ei­ne schnel­le Be­stim­mung des Aus­gangs ei­nes Kamp­fes er­mög­licht, wäh­rend im An­hang das kom­ple­xe­re Fo­kus­mo­dul Kampf steht, das ein de­tail­lier­te­res Aus­spie­len von Kämp­fen för­dert. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Bei Ver­wen­dung des &quot;Ein Wurf Sys­tems&quot; wird ein Kampf eben­so schnell und leicht ab­ge­han­delt wie ein kur­z­er Bar­den­wett­streit, da der Kampf nicht ins Ram­pen­licht rückt. "/>
+            <ITEXT CH="Bei Ver­wen­dung des „Ein Wurf Sys­tems“ wird ein Kampf eben­so schnell und leicht ab­ge­han­delt wie ein kur­z­er Bar­den­wett­streit, da der Kampf nicht ins Ram­pen­licht rückt. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Es kann da­her auch als Vor­la­ge für Re­geln von vie­len an­de­ren Ar­ten von Kon­fron­ta­tio­nen ge­nutzt wer­den. "/>
@@ -2394,7 +2394,7 @@
             <ITEXT CH="Aus­wir­kun­gen von Ver­let­zun­gen"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Cha­rak­tere kön­nen aus ver­schie­de­nen Grün­den Ver­let­zun­gen da­von­tra­gen. Im Grund­sys­tem wer­den nur Ver­let­zun­gen be­ach­tet, die schwer ge­nug sind, um den Cha­rak­ter merk­lich zu be­hin­dern; wir nen­nen sie &quot;Wun­den&quot;. Al­les an­de­re sind nur Krat­zer. "/>
+            <ITEXT CH="Cha­rak­tere kön­nen aus ver­schie­de­nen Grün­den Ver­let­zun­gen da­von­tra­gen. Im Grund­sys­tem wer­den nur Ver­let­zun­gen be­ach­tet, die schwer ge­nug sind, um den Cha­rak­ter merk­lich zu be­hin­dern; wir nen­nen sie &quot;Wun­den&quot;. Al­les an­de­re sind nur Krat­zer."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Je­de ein­zel­ne Wun­de er­schwert da­bei al­le sei­ne Hand­lun­gen um 3 Punk­te, bis sie ge­heilt ist. "/>
@@ -2432,7 +2432,7 @@
             <ITEXT CH="Liegt der Min­dest­wurf 3 oder mehr Punk­te über dem Ei­gen­schafts­wert des Cha­rak­ters, dann muss er auch oh­ne Wun­den je­de Wo­che wür­feln, ob sein Kör­per mit der Be­las­tung klar kommt oder ob er sich Wun­den zu­zieht. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="&quot;Grok, Bar­bar&quot; hat sich bei ei­nem Fürs­ten ver­dun­gen. Als der Fürst sich ent­schei­det, sei­nen Nach­barn für ei­ne Schmä­hung beim Ball an­zu­grei­fen, schickt er Groks Ein­heit auf einen mehr­wö­chent­li­chen Ge­walt­marsch. Grok mit sei­ner über­ra­gen­den Kon­sti­tu­ti­on (18, WS 6) hält den Marsch gut durch (Min­dest­wurf 18 oh­ne Wun­den), doch die an­de­ren in sei­ner Ein­heit (Kon­sti­tu­ti­on 12) er­hal­ten al­le 2 Wo­chen ei­ne Wun­de (bei je­der un­ge­ra­den Zahl, al­so im Durch­schnitt je­der zwei­ten Pro­be). Als Grok nach 6 Wo­chen al­lei­ne an­kommt, ent­schei­det er sich, in der Schen­ke nach schö­ne­ren Auf­ga­ben zu su­chen. "/>
+            <ITEXT CH="&quot;Grok, Bar­bar&quot; hat sich bei ei­nem Fürs­ten ver­dun­gen. Als der Fürst sich ent­schei­det, sei­nen Nach­barn für ei­ne Schmä­hung beim Ball an­zu­grei­fen, schickt er Groks Ein­heit auf einen mehr­wö­chent­li­chen Ge­walt­marsch. Grok mit sei­ner über­ra­gen­den Kon­sti­tu­ti­on (18, WS 6) hält den Marsch gut durch (Min­dest­wurf 18 oh­ne Wun­den), doch die an­de­ren in sei­ner Ein­heit (Kon­sti­tu­ti­on 12) er­hal­ten al­le 2 Wo­chen ei­ne Wun­de (bei je­der un­ge­ra­den Zahl, al­so im Durch­schnitt je­der zwei­ten Pro­be). Als Grok nach 6 Wo­chen fast al­lei­ne an­kommt, ent­schei­det er sich, in der Schen­ke nach schö­ne­ren Auf­ga­ben zu su­chen. "/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Fach­kund­li­che Be­hand­lung gibt Bo­ni auf die Hei­lung. Pro + in der Fer­tig­keit des Arz­tes er­hält der Cha­rak­ter einen Bo­nus von 1 auf sei­ne Pro­be. Wun­den kom­plett un­be­han­delt zu las­sen gibt pro Wun­de einen zu­sätz­li­chen Ma­lus von 3 auf die Hei­lungs­pro­ben. "/>
@@ -2456,7 +2456,7 @@
             <ITEXT CH="Da­zu  wür­feln bei­de auf ih­re Kampf­fer­tig­keit. Die­je­ni­ge mit dem hö­he­ren Er­geb­nis (Wert ± Wurf) ge­winnt die Kon­fron­ta­ti­on. Ih­re Geg­ne­rin ist kampf­un­fä­hig und er­hält drei Wun­den plus ei­ne wei­te­re je drei Punk­te Dif­fe­renz ih­rer Er­geb­nis­se. Die Ge­win­ne­rin er­hält da­bei drei Wun­den ab­züg­lich ei­ner Wun­de für je drei Punk­te Dif­fe­renz. Wenn ihr Er­geb­nis al­so 6 Punk­te hö­her war als das ih­rer Kon­tra­hen­tin, er­hält sie nur ei­ne Wun­de. Wenn die Ge­win­ne­rin 9 oder mehr Punk­te bes­ser war als ih­re Kon­tra­hen­tin, geht sie un­be­scha­det aus der Kon­fron­ta­ti­on her­vor. "/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Hat nur ei­ne der Kon­tra­hen­tin­nen ei­ne Fern­kampf­waf­fe, er­hält sie bis 1 Me­ter Ab­stand einen Punkt Bo­nus, bis 3 Me­ter drei Punk­te, bis 9 Me­tern 6 Punk­te und bei über 9 Me­tern 9 Punk­te.  "/>
+            <ITEXT CH="Hat nur ei­ne der Kon­tra­hen­tin­nen ei­ne Fern­kampf­waf­fe, er­hält sie bis 1 Me­ter Ab­stand einen Punkt Bo­nus, bis 10 Me­ter drei Punk­te, und bei über 10 Me­tern 9 Punk­te.  "/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Bis 1m: "/>
@@ -2499,16 +2499,16 @@
             <ITEXT CH="Um dem Ein Wurf Sys­tem grö­ße­re Fle­xi­bi­li­tät zu ge­ben, kön­nen ver­schie­de­ne Kampf­tak­ti­ken ge­nutzt wer­den. Ei­ni­ge Bei­spie­le: "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Vor­sich­ti­ger Kampf: Hier­durch er­hält der Cha­rak­ter, wenn er ver­liert, nur ei­ne Wun­de für je 3 Punk­te Dif­fe­renz und kei­ne, wenn er ge­winnt. Da­für hat er al­ler­dings einen Ma­lus von 3 Punk­ten auf sei­nen FW (Ge­winn­chan­ce 1/3  statt 1/2 bei gleich­star­ken Geg­nern). "/>
+            <ITEXT CH="- Vor­sich­ti­ger Kampf: Hier­durch er­hält der Cha­rak­ter, wenn er ver­liert, nur ei­ne Wun­de für je 3 Punk­te Dif­fe­renz und kei­ne, wenn er ge­winnt. Da­für hat er al­ler­dings einen Ma­lus von 3 Punk­ten auf sei­nen Fer­tig­keits­wert (Ge­winn­chan­ce 1/3  statt 1/2 bei gleich­star­ken Geg­nern). "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Um Le­ben und Tod: Der Cha­rak­ter kämpft bis zu sei­nem Tod. Da­für er­hält er 6 Punk­te Bo­nus auf sei­nen Wurf. Soll­te er ver­lie­ren, ist er al­ler­dings un­wie­der­bring­lich tot und nicht nur kampf­un­fä­hig (5/6 Chan­ce auf Sieg, 1/6 tot). "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Rei­ne Flucht: Hier ver­sucht der Cha­rak­ter vor sei­nem Kon­tra­hen­ten zu flie­hen. Soll­te er ge­win­nen, ent­kommt er. Sein Kon­tra­hent er­hält kei­nen Scha­den, der Flie­hen­de selbst aber trotz­dem drei Wun­den ab­züg­lich ei­ner Wun­de je drei Punk­te Dif­fe­renz. Wer nur zu flie­hen ver­sucht er­hält 6 Punk­te Bo­nus auf sei­nen FW (5/6 Chan­ce zu ent­kom­men). "/>
+            <ITEXT CH="- Rei­ne Flucht: Hier ver­sucht der Cha­rak­ter vor sei­nem Kon­tra­hen­ten zu flie­hen. Soll­te er ge­win­nen, ent­kommt er. Sein Kon­tra­hent er­hält kei­nen Scha­den, der Flie­hen­de selbst aber trotz­dem drei Wun­den ab­züg­lich ei­ner Wun­de je drei Punk­te Dif­fe­renz. Wer nur zu flie­hen ver­sucht er­hält 6 Punk­te Bo­nus auf sei­nen Fer­tig­keits­wert (5/6 Chan­ce zu ent­kom­men). "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Un­ter­stüt­zen­de Fer­tig­kei­ten: Fer­tig­kei­ten wie Ein­schüch­tern, Bluf­fen, Klet­tern u.ä. kön­nen als Un­ter­stüt­zung ge­nom­men wer­den, wenn es zur Si­tua­ti­on passt. Je­de die­ser Fer­tig­kei­ten gibt dann für je­weils 3 Punk­te, die ihr Wert über 9 liegt, einen Punkt Bo­nus auf den FW (1 Punkt pro + ).   "/>
+            <ITEXT CH="- Un­ter­stüt­zen­de Fer­tig­kei­ten: Fer­tig­kei­ten wie Ein­schüch­tern, Bluf­fen, Klet­tern u.ä. kön­nen als Un­ter­stüt­zung ge­nom­men wer­den, wenn es zur Si­tua­ti­on passt. Je­de die­ser Fer­tig­kei­ten gibt dann für je­des + in der Fer­tig­keit einen Punkt Bo­nus auf den Fer­tig­keits­wert.   "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Hin­wei­se zum Lei­ten"/>
@@ -2543,12 +2543,12 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Einen Leit­fa­den zum An­pas­sen des EWS fin­dest du auf "/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- http://an­pas­sen.1w6.org"/>
+            <ITEXT CH="- an­pas­sen.1w6.org"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Ver­schie­de­ne Mo­du­le ste­hen auf "/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- http://mo­du­le.1w6.org"/>
+            <ITEXT CH="- mo­du­le.1w6.org"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="und im An­hang des Re­gel­werks. "/>
             <para PARENT="EWS Fluss"/>
@@ -2601,7 +2601,7 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Ver­schie­de­ne Spiel­wel­ten fin­dest du auf der Web­sei­te des Ein Wür­fel Sys­tems: "/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- http://wel­ten.1w6.org"/>
+            <ITEXT CH="- wel­ten.1w6.org"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -2740,7 +2740,7 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Ein aus­führ­li­che­res Bei­spiel gibt es im Netz: "/>
             <para PARENT="EWS Kleine Fußzeile"/>
-            <ITEXT CH="-&gt; http://1w6.org/deutsch/mo­du­le/stei­ge­rung-im-vob­sy-vost/aus­fuehr­li­ches-bei­spiel/"/>
+            <ITEXT CH="-&gt; 1w6.org/deutsch/mo­du­le/stei­ge­rung-im-vob­sy-vost/aus­fuehr­li­ches-bei­spiel"/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
@@ -3074,7 +3074,7 @@
             <ITEXT CH="Li­zenz und Epi­log"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Das EWS steht un­ter der GPLv3:"/>
+            <ITEXT CH="Das EWS steht un­ter der GPLv3: "/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- li­zenz.1w6.org"/>
             <para PARENT="EWS Fluss"/>
@@ -3094,7 +3094,7 @@
             <ITEXT CH="- leu­te.1w6.org"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Au­ßer­dem mit In­spi­ra­tio­nen aus DSA® (Fan­pro), Sha­dowrun® (FA­SA), Gurps® (SJ­Ga­mes), Fud­ge™ (Grey Ghost Press), Uni­ver­se (von Han­nah Sil­ber­nagl), Stri­ker (von Lu­cia­no Graf­feo), Me­cha­ni­cal Dream® (Steam­lo­gic), dem Wel­ten­buch (jc­cor­po­ra­ti­on) und vie­len wei­te­ren. "/>
+            <ITEXT CH="Au­ßer­dem mit In­spi­ra­tio­nen aus DSA® (Fan­pro), Sha­dowrun® (FA­SA), Gurps® (SJ­Ga­mes), Fud­ge™ (Grey Ghost Press), Uni­ver­se (von Han­nah Sil­ber­nagl), Stri­ker (von Lu­cia­no Graf­feo), Me­cha­ni­cal Dream® (Steam­lo­gic), dem Wel­ten­buch (jcor­po­ra­ti­on) und vie­len wei­te­ren. "/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die­se Ver­si­on wur­de maß­geb­lich von An­dre­as Jeh­le und Ju­li­an Groß kor­rek­tur­ge­le­sen. Ih­nen ge­bührt der Dank da­für, dass be­stimm­te Ab­schnit­te nun ver­ständ­li­cher sind. "/>
@@ -4132,7 +4132,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="121.33062992126" YPOS="1170.11852755905" WIDTH="154" HEIGHT="64.467938606359" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Vn URW Palladio L Roman" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 64.4679 154 64.4679 154 64.4679 154 64.4679 0 64.4679 0 64.4679 0 64.4679 0 64.4679 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 64.4679 154 64.4679 154 64.4679 154 64.4679 0 64.4679 0 64.4679 0 64.4679 0 64.4679 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="6.94254000000002e-310" gYpos="0" gWidth="0" gHeight="1.73870001074385e-316" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="121.33062992126" YPOS="1147.44136220472" WIDTH="154" HEIGHT="95.4157806524238" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Vn URW Palladio L Roman" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 95.4158 154 95.4158 154 95.4158 154 95.4158 0 95.4158 0 95.4158 0 95.4158 0 95.4158 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 95.4158 154 95.4158 154 95.4158 154 95.4158 0 95.4158 0 95.4158 0 95.4158 0 95.4158 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="6.94254000000002e-310" gYpos="0" gWidth="0" gHeight="1.73870001074385e-316" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4174,7 +4174,7 @@
         <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="288.34062992126" YPOS="8308.47516535433" WIDTH="197.983" HEIGHT="534.827" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 534.827 197.983 534.827 197.983 534.827 197.983 534.827 0 534.827 0 534.827 0 534.827 0 534.827 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 534.827 197.983 534.827 197.983 534.827 197.983 534.827 0 534.827 0 534.827 0 534.827 0 534.827 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.86133e-306" gYpos="1.82573e-306" gWidth="1.86133e-306" gHeight="1.82573e-306" LAYER="0" BOOKMARK="0" NEXTITEM="70" BACKITEM="66">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="108.022319578474" YPOS="741.447368421053" WIDTH="80.5115150079924" HEIGHT="72.5037890000592" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.129024" LOCALSCY="0.129024" LOCALX="-17.7297173790776" LOCALY="-31.6586403262092" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../Dokumente/eigenes/RPG/ews/Quelldateien/Gertrud_Wenzel/draketo_dragon_gr_transparent.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="48" POCOOR="57.8008 6.29699 57.8008 6.29699 49.3421 1.69173 49.3421 1.69173 49.3421 1.69173 49.3421 1.69173 28.4774 0 28.4774 0 28.4774 0 28.4774 0 8.83459 1.50376 8.83459 1.50376 8.83459 1.50376 8.83459 1.50376 0 72.4098 0 72.4098 0 72.4098 0 72.4098 52.2556 72.5038 52.2556 72.5038 52.2556 72.5038 52.2556 72.5038 60.9626 59.4925 60.9626 59.4925 60.9626 59.4925 60.9626 59.4925 58.519 50.094 58.519 50.094 58.519 50.094 58.519 50.094 57.3912 31.297 42.4504 31.297 57.3912 31.297 57.3912 31.297 67.1657 31.109 67.1657 31.109 67.1657 31.109 67.1657 31.109 79.5717 26.0338 79.5717 26.0338 79.5717 26.0338 79.5717 26.0338 80.5115 23.4023 80.5115 23.4023 80.5115 23.4023 80.5115 23.4023 57.8008 6.29699 57.8008 6.29699 " NUMCO="16" COCOOR="-12.2117 -3.81508 -12.2117 -3.81508 78.8269 -3.81508 78.8269 -3.81508 78.8269 -3.81508 78.8269 -3.81508 78.8269 86.2 78.8269 86.2 78.8269 86.2 78.8269 86.2 -12.2117 86.2 -12.2117 86.2 -12.2117 86.2 -12.2117 86.2 -12.2117 -3.81508 -12.2117 -3.81508 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="110.856965247765" YPOS="741.447368421053" WIDTH="80.5115150079924" HEIGHT="72.5037890000592" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.129024" LOCALSCY="0.129024" LOCALX="-39.6996273903262" LOCALY="-31.6586403262092" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../Dokumente/eigenes/RPG/ews/Quelldateien/Gertrud_Wenzel/draketo_dragon_gr_transparent.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="48" POCOOR="57.8008 6.29699 57.8008 6.29699 49.3421 1.69173 49.3421 1.69173 49.3421 1.69173 49.3421 1.69173 28.4774 0 28.4774 0 28.4774 0 28.4774 0 8.83459 1.50376 8.83459 1.50376 8.83459 1.50376 8.83459 1.50376 0 72.4098 0 72.4098 0 72.4098 0 72.4098 52.2556 72.5038 52.2556 72.5038 52.2556 72.5038 52.2556 72.5038 60.9626 59.4925 60.9626 59.4925 60.9626 59.4925 60.9626 59.4925 58.519 50.094 58.519 50.094 58.519 50.094 58.519 50.094 57.3912 31.297 42.4504 31.297 57.3912 31.297 57.3912 31.297 67.1657 31.109 67.1657 31.109 67.1657 31.109 67.1657 31.109 79.5717 26.0338 79.5717 26.0338 79.5717 26.0338 79.5717 26.0338 80.5115 23.4023 80.5115 23.4023 80.5115 23.4023 80.5115 23.4023 57.8008 6.29699 57.8008 6.29699 " NUMCO="16" COCOOR="-12.2117 -3.81508 -12.2117 -3.81508 78.8269 -3.81508 78.8269 -3.81508 78.8269 -3.81508 78.8269 -3.81508 78.8269 86.2 78.8269 86.2 78.8269 86.2 78.8269 86.2 -12.2117 86.2 -12.2117 86.2 -12.2117 86.2 -12.2117 86.2 -12.2117 -3.81508 -12.2117 -3.81508 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4183,6 +4183,10 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="26" PTYPE="6" XPOS="757.85862992126" YPOS="8795.48872180451" WIDTH="154" HEIGHT="28.7468608498176" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 28.7469 154 28.7469 154 28.7469 154 28.7469 0 28.7469 0 28.7469 0 28.7469 0 28.7469 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 28.7469 154 28.7469 154 28.7469 154 28.7469 0 28.7469 0 28.7469 0 28.7469 0 28.7469 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="37" PTYPE="2" XPOS="132.50370019537" YPOS="12476.6929133858" WIDTH="123.661654135338" HEIGHT="208.645432478832" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="White" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.068472" LOCALSCY="0.068472" LOCALX="-248.391663975757" LOCALY="251.662154218104" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../Dokumente/eigenes/RPG/ews/Quelldateien/Gertrud_Wenzel/rogBa_gr.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 123.662 0 123.662 0 123.662 0 123.662 0 123.662 208.645 123.662 208.645 123.662 208.645 123.662 208.645 0 208.645 0 208.645 0 208.645 0 208.645 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 123.662 0 123.662 0 123.662 0 123.662 0 123.662 208.645 123.662 208.645 123.662 208.645 123.662 208.645 0 208.645 0 208.645 0 208.645 0 208.645 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
