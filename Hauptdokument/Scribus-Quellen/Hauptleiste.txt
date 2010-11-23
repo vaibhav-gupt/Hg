@@ -454,9 +454,10 @@ Gefangenschaft mag für manche Spielerinnen ein viel schlimmeres Schicksal sein,
 
 Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen. 
 
-In einigen klassischen Abenteuergeschichten können die recht realistischen Heilungszeiten, und damit die lange Behinderung durch Wunden, die Handlung unnötig aufhalten. 
+In einigen klassischen Abenteuergeschichten können die recht realistischen Heilungszeiten und die lange Behinderung durch Wunden die Handlung unnötig aufhalten. 
 
-Sollte das bei euch so sein, kannst du entweder eine einfache Möglichkeit der direkten Heilung einführen (z.B. Medkits oder Heilzauber) oder das Heilungssystem anpassen. Denk daran, dass es euer Spiel ist. Wenn euch irgendwas stört, dann ändert es einfach. 
+Sollte das bei euch so sein, kannst du entweder eine einfache Möglichkeit der direkten Heilung einführen (z.B. Medkits oder Heilzauber) oder das Heilungssystem anpassen. Denk daran, dass es euer Spiel ist. Wenn euch irgendwas stört, dann ändert es einfach. Und im Idealfall schreibt uns im Forum, was ihr geändert habt: 
+- forum.1w6.org
 
 <fuss>Wenn dir Kämpfe mit dem Ein Wurf System nicht genug Spannung aufbauen oder zu wenige Details liefert, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen.
 #Anpassung des EWS
