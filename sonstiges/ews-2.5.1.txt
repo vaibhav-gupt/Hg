@@ -3,15 +3,19 @@
 
 <img alt="Siuit 200x310" src="/files/siuit-200x310.png" align="left" width="200" />
 
-*Version 2.5.1 des EWS, Codename „Ein Schritt“[^ein-schritt], ist jetzt [online](/releases/1w6-regeln-2.5.1.pdf).*
+*Version 2.5.1 des EWS, Codename „Ein Schritt“[^ein-schritt], ist jetzt [online](/releases/1w6-regeln-2.5.1.pdf).[^bild-siuit]*
 
 [^ein-schritt]: Denn jeder neue Wegabschnitt beginnt mit einem Schritt und von hier ab geht es vorwärts. [Version 2.4.1](/deutsch/regeln/downloads/1w6-regeln-v241-fels-in-der-brandung) hat das Fundament gelegt, auf dem wir nun aufbauen.
+
+[^bild-siuit]: Das Bild stammt aus der Feder (bzw. dem Grafiktablett und Bleistift) von [Trudy Wenzel](http://blackthumbstudios.artworkfolio.com/) (2010).
 
 <!--break-->
 
 Zur Feier, dass mein Sohn Leandro heute 6 Wochen alt wird und [Taysal](http://taysal.net) und ich zu den [Karlsruher Spieletagen](/blog/drak/2010-11-10-1w6-auf-den-karlsruher-spieletagen) eine komplett neue Region entworfen, beschrieben und zu einer Kurz-Kampagne geformt haben, gibt es heute eine neue Version des 1w6-Systems. 
 
-Wenn du dir die Änderungen anschauen willst, [lade es dir herunter](/releases/1w6-regeln-2.5.1.pdf) und [schreib' uns](), was dir auffällt! 
+Wenn du dir die Änderungen anschauen willst, [lade es dir herunter](/releases/1w6-regeln-2.5.1.pdf) und schreib' uns was dir auffällt! (z.B. unten im Kommentarfeld)
+
+## Herunterladen
 
 Es gibt Version 2.5.1 auf vier Arten: 
 
@@ -22,7 +26,7 @@ Es gibt Version 2.5.1 auf vier Arten:
 
 *Diese Version ist eine Testversion auf dem Weg zu Version 2.6. Bis wir zu 2.6 kommen, kann es daher noch große Änderungen geben.*
 
-Die wichtigsten Änderungen seit Version 2.4.1: 
+## Die wichtigsten Änderungen seit Version 2.4.1
 
 * Seitenumbrüche sind jetzt direkt in den Quelldateien, so dass wir deutlich einfacher Änderungen einbringen und integrieren können (dank emacs C-q C-l ist das sehr einfach – auch wenn ich es wohl bald auf C-q ESC umstellen werde, so dass unsere Scribus Importfilter einfacher werden).
 
@@ -38,13 +42,11 @@ Die wichtigsten Änderungen seit Version 2.4.1:
 
 Von jetzt ab geht es dann weiter mit [Technophob](http://rakjar.de/raumzeit-heft1/). Diesen Freitag habe ich eine erste Testrunde. 
 
-*Lizenzinfo: Das Bild stammt aus der Feder (bzw. dem Grafiktablett und Bleistift) von [Trudy Wenzel](http://blackthumbstudios.artworkfolio.com/) (2010).*
-
-Die Quelldateien gibt es wie üblich in unserer [Versionsverwaltung](http://bitbucket.org/ArneBab/1w6/) (auch einfach rechts oben als zip/tar.bz2).
+Die Quelldateien gibt es wie üblich in unserer [Versionsverwaltung](http://bitbucket.org/ArneBab/1w6/) (auch einfach rechts oben unter „get source“ als zip/tar.bz2).
 
 ------ 
 
-Die Änderungen im Detail: 
+## Die Änderungen im Detail
 
 * 1073 - 1w6-regeln 2.5.1
 * 1072 - Arbeit an 2.5.1 (beta).
