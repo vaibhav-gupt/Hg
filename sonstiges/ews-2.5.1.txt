@@ -1,9 +1,9 @@
-1w6-regeln 2.5.1 (Testversion)
+1w6-regeln 2.5.1 – „Ein Schritt“
 ==============================
 
 <img alt="Siuit 200x310" src="/files/siuit-200x310.png" align="left" width="200" />
 
-*Version 2.5.1 des EWS ist jetzt [online](/releases/1w6-regeln-2.5.1.pdf).*
+*Version 2.5.1 des EWS ist jetzt [online](/releases/1w6-regeln-2.5.1.pdf), Codename „Ein Schritt“, denn jeder neue Wegabschnitt beginnt mit einem Schritt. Von hier ab geht es vorwärts. [Version 2.4.1](/deutsch/regeln/downloads/1w6-regeln-v241-fels-in-der-brandung) hat das Fundament gelegt, auf dem wir nun aufbauen.*
 
 Zur Feier, dass mein Sohn Leandro bald 6 Wochen alt ist und [Taysal](http://taysal.net) und ich zu den Karlsruher Spieletagen eine komplett neue Region entworfen, beschrieben und zu einer Kurz-Kampagne geformt haben, gibt es heute eine neue Version des 1w6-Systems. 
 
