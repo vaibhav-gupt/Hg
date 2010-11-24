@@ -78,3 +78,9 @@ Die Quelldateien gibt es wie üblich in unserer [Versionsverwaltung](http://bitb
 * 677 - Gertrud Wenzel zu Trudy Wenzel, sla.
 * 676 - Gertrud Wenzel zu Trudy Wenzel.
 * 644 - Feinschliff
+
+------ 
+
+*Das 1w6-System ist ein schlankes, [frei lizensiertes (GPL)](/deutsch/anhang/das-ein-w-rfel-system-jetzt-unter-der-gplv3), universell einsetzbares [Rollenspielregelwerk](http://de.wikipedia.org/wiki/Pen-&-Paper-Rollenspiel#Regelsysteme), das es Weltenbastlern und Spielleitern erleichtern soll, [ihre Welt oder Kampagne als Rollenspiel zu veröffentlichen](/deutsch/regeln/das-ews-deine-beduerfnisse-anpassen/deine-welt-als-rollenspiel-veroeffentlichen).*
+
+*Wir hoffen, bald auch 1w6 basierte RPGs von anderen zu sehen. Solltest du eins geschrieben haben, sag es uns bitte im [Forum](/forum/) oder [privat](/contact/), damit wir es [verlinken](/deutsch/links/) können.*
