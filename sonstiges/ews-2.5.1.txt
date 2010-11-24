@@ -30,7 +30,7 @@ Es gibt Version 2.5.1 auf vier Arten:
 
 * Seitenumbrüche sind jetzt direkt in den Quelldateien, so dass wir deutlich einfacher Änderungen einbringen und integrieren können (dank emacs C-q C-l ist das sehr einfach – auch wenn ich es wohl bald auf C-q ESC umstellen werde, so dass unsere Scribus Importfilter einfacher werden).
 
-* Die Wundheilung im Ein Wurf System läuft jetzt über Proben. Sie wird dadurch gleichzeitig einfacher und spaßiger – und bleibt gleichzeitig kompatibel mit der Heilungsgeschwindigkeit im Fokusmodul Kampf. 
+* Die Wundheilung im Ein Wurf System läuft jetzt über Proben. Sie wird dadurch gleichzeitig einfacher und spaßiger – und bleibt kompatibel mit der Heilungsgeschwindigkeit im Fokusmodul Kampf. 
 
 * Im Ein Wurf System gibt es keinen festen Waffenschaden mehr. Bei Waffen und Rüstungen in dem einfachsten unserer Kampfsysteme gibt es nur noch „deutlich stärker“ (Bonus +3), Fernkampf gegen Nahkampf (Bonus nach Entfernung) oder bewaffnet gegen unbewaffnet (+3). (Dank geht an Taysal für das Aufspüren der Disbalance!)
 
