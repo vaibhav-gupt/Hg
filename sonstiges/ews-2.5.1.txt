@@ -1,0 +1,64 @@
+1w6-regeln 2.5.1 (Testversion)
+==============================
+
+<img alt="Siuit 200x310" src="/files/siuit-200x310.png" align="left" width="200" />
+
+*Version 2.5.1 des EWS ist jetzt [online](/releases/1w6-regeln-2.5.1.pdf).*
+
+Zur Feier, dass mein Sohn Leandro bald 6 Wochen alt ist und [Taysal](http://taysal.net) und ich zu den Karlsruher Spieletagen eine komplett neue Region entworfen, beschrieben und zu einer Kurz-Kampagne geformt haben, gibt es heute eine neue Version des 1w6-Systems. 
+
+Wenn du dir die Änderungen anschauen willst, [lade es dir herunter](/releases/1w6-regeln-2.5.1.pdf) und [schreib' uns](), was dir auffällt! 
+
+Die Wichtigsten Änderungen seit Version 2.4.1 sind: 
+
+* Seitenumbrüche sind jetzt direkt in den Quelldateien, so dass wir deutlich einfacher Änderungen einbringen und integrieren können (dank emacs C-q C-l ist das sehr einfach – auch wenn ich es wohl bald auf C-q ESC umstellen werde, so dass unsere Scribus Importfilter einfacher werden).
+
+* Die Wundheilung im Ein Wurf System läuft jetzt über Proben. Sie wird dadurch gleichzeitig einfacher und spaßiger – und bleibt gleichzeitig kompatibel mit der Heilungsgeschwindigkeit im Fokusmodul Kampf. 
+
+* Im Ein Wurf System gibt es keinen festen Waffenschaden mehr. Bei Waffen und Rüstungen in dem einfachsten unserer Kampfsysteme gibt es nur noch „deutlich stärker“ (Bonus +3), Fernkampf gegen Nahkampf (Bonus nach Entfernung) oder bewaffnet gegen unbewaffnet (+3). (Dank geht an Taysal für das Aufspüren der Disbalance!)
+
+* Die Steigerung ist konsistenter (dank Rumil!) und im Fokusmodul Kampf gibt volle Abwehr 3 Punkte Bonus, 6 bei Verzicht auf eigene Handlung und 9 bei gleichzeitigem Zurückweichen.
+
+* Zusätzlich gibt es einiges an Feinschliff. 
+
+* Und Drak hat jetzt dank [Trudy](http://blackthumbstudios.artworkfolio.com/) ein Gesicht! 
+
+Von jetzt ab geht es dann weiter mit [Technophob](http://rakjar.de/raumzeit-heft1/). Diesen Freitag habe ich eine erste Testrunde. 
+
+*Lizenzinfo: Das Bild stammt aus der Feder (bzw. dem Grafiktablett und Bleistift) von Trudy Wenzel (2010).*
+
+------ 
+
+Die Änderungen im Detail: 
+
+* 1073 - 1w6-regeln 2.5.1
+* 1072 - Arbeit an 2.5.1 (beta).
+* 1071 - 1w6-regeln: http://… → …
+* 1026 - jccorporation → jcorporation
+* 1016 - Flyerbuch: Charakterkarten: Texte der Nichtmenschen geschrieben.
+* 1009 - Schliff.
+* 1008 - Schliff.
+* 1007 - Ein Würfel System → 1w6-System.
+* 1006 - Heilung schliff.
+* 953 - Importfilter dokumentiert.
+* 951 - Anmerkung zu Geschlechterspezifischer Ansprache in Scribus.
+* 950 - Anmerkung zu Geschlechterspezifischer Ansprache.
+* 918 - Änderungen der Seitenleiste und Hauptleiste in Scribus eingebunden.
+* 915 - Ein Wurf System: Einfachere Heilung durch Proben. Einfluss der Heilungsumstände nach hinten. TODO: Scribus: Bilder von der komplexen Heilung nach vorne.
+* 914 - EIn Wurf System: Einfachere Heilung durch Poben.
+* 909 - FIX: FoKa: Ab 1/3 TP Malus von 1, ab TP < 0: Malus von 3.
+* 907 - Schliff
+* 906 - Feinschliff.
+* 905 - Hautleiste mit sauberen Seitenumbrüchen.
+* 904 - seitenleiste mit sauberen Seitenumbrüchen.
+* 903 - ews-dok aktualisiert auf Scribus 1.3.6
+* 902 - Ein Wurf System: Deutlich stärkere Waffe: +3, Waffe gegen unbewaffnet: nochmal +3, deutlich stärkere Rüstung: weitere +3.
+* 901 - Sara → Ina (Danke, Trudy!)
+* 873 - Dreiecke im Grundsystem einfach als Punkte bezeichnen → war inkonsistent.
+* 872 - Laserschwert aus den Waffenbeispielen entfernt (Dank Taysal: fürs Ein Wurf System unbalanciert).
+* 786 - Konsistentere Beschreibung der Steigerung (dank Rumil).
+* 753 - Anpassung: Volle Abwehr gibt 3 Punkte Bonus, 6 bei Verzicht auf eigene Handlung und 9 bei gleichzeitigem Zurückweichen.
+* 677 - Gertrud Wenzel zu Trudy Wenzel, sla.
+* 676 - Gertrud Wenzel zu Trudy Wenzel.
+* 644 - Feinschliff
+
