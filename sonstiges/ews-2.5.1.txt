@@ -3,7 +3,11 @@
 
 <img alt="Siuit 200x310" src="/files/siuit-200x310.png" align="left" width="200" />
 
-*Version 2.5.1 des EWS ist jetzt [online](/releases/1w6-regeln-2.5.1.pdf), Codename „Ein Schritt“, denn jeder neue Wegabschnitt beginnt mit einem Schritt. Von hier ab geht es vorwärts. [Version 2.4.1](/deutsch/regeln/downloads/1w6-regeln-v241-fels-in-der-brandung) hat das Fundament gelegt, auf dem wir nun aufbauen.*
+*Version 2.5.1 des EWS, Codename „Ein Schritt“[^ein-schritt], ist jetzt [online](/releases/1w6-regeln-2.5.1.pdf).*
+
+[^ein-schritt]: Denn jeder neue Wegabschnitt beginnt mit einem Schritt und von hier ab geht es vorwärts. [Version 2.4.1](/deutsch/regeln/downloads/1w6-regeln-v241-fels-in-der-brandung) hat das Fundament gelegt, auf dem wir nun aufbauen.
+
+<!--break-->
 
 Zur Feier, dass mein Sohn Leandro heute 6 Wochen alt wird und [Taysal](http://taysal.net) und ich zu den [Karlsruher Spieletagen](/blog/drak/2010-11-10-1w6-auf-den-karlsruher-spieletagen) eine komplett neue Region entworfen, beschrieben und zu einer Kurz-Kampagne geformt haben, gibt es heute eine neue Version des 1w6-Systems. 
 
@@ -72,4 +76,3 @@ Die Änderungen im Detail:
 * 677 - Gertrud Wenzel zu Trudy Wenzel, sla.
 * 676 - Gertrud Wenzel zu Trudy Wenzel.
 * 644 - Feinschliff
-
