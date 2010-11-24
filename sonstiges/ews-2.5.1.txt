@@ -29,6 +29,8 @@ Von jetzt ab geht es dann weiter mit [Technophob](http://rakjar.de/raumzeit-heft
 
 *Lizenzinfo: Das Bild stammt aus der Feder (bzw. dem Grafiktablett und Bleistift) von [Trudy Wenzel](http://blackthumbstudios.artworkfolio.com/) (2010).*
 
+Die Quelldateien gibt es wie üblich in unserer [Versionsverwaltung](http://bitbucket.org/ArneBab/1w6/) (auch einfach rechts oben als zip/tar.bz2).
+
 ------ 
 
 Die Änderungen im Detail: 
