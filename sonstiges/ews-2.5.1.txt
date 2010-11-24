@@ -9,7 +9,9 @@ Zur Feier, dass mein Sohn Leandro bald 6 Wochen alt ist und [Taysal](http://tays
 
 Wenn du dir die Änderungen anschauen willst, [lade es dir herunter](/releases/1w6-regeln-2.5.1.pdf) und [schreib' uns](), was dir auffällt! 
 
-Die Wichtigsten Änderungen seit Version 2.4.1 sind: 
+*Diese Version ist eine Testversion auf dem Weg zu Version 2.6. Bis wir zu 2.6 kommen, kann es daher noch große Änderungen geben.*
+
+Die wichtigsten Änderungen seit Version 2.4.1: 
 
 * Seitenumbrüche sind jetzt direkt in den Quelldateien, so dass wir deutlich einfacher Änderungen einbringen und integrieren können (dank emacs C-q C-l ist das sehr einfach – auch wenn ich es wohl bald auf C-q ESC umstellen werde, so dass unsere Scribus Importfilter einfacher werden).
 
@@ -25,7 +27,7 @@ Die Wichtigsten Änderungen seit Version 2.4.1 sind:
 
 Von jetzt ab geht es dann weiter mit [Technophob](http://rakjar.de/raumzeit-heft1/). Diesen Freitag habe ich eine erste Testrunde. 
 
-*Lizenzinfo: Das Bild stammt aus der Feder (bzw. dem Grafiktablett und Bleistift) von Trudy Wenzel (2010).*
+*Lizenzinfo: Das Bild stammt aus der Feder (bzw. dem Grafiktablett und Bleistift) von [Trudy Wenzel](http://blackthumbstudios.artworkfolio.com/) (2010).*
 
 ------ 
 
