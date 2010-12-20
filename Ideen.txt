@@ -2046,3 +2046,13 @@ Das System ist extrem einfach und ergibt gleichzeitig eine starke Dynamik – un
 
 ------
 
+Wir schreiben, dass es sich das 1w6-System für pulpiges Spiel mit recht viel Action eignet (weil die Würfel klare Entscheidungen treffen). Für stärker taktikorientiertes Spiel empfehlen wir aber klar, ein anderes System zu nutzen.
+
+Allerdings hat die Vorgehensweise natürlich einen Nachteil: Wenn ein System sagt „wir sind für diesen Bereich da“ und ein anderes sagt „wir sind für alles“ und deswegen die Spieler des anderen Systems nie neue Systeme ausprobieren, dann hat das zweite System eine größere Marktmacht und bietet gleichzeitig den Spielern den Vorteil, dass sie nie neue Regeln lernen müssen (selbst wenn die Regeln, die sie haben, deutlich suboptimal sind). 
+
+Ideal wäre dafür natürlich, direkt integrierte Grundmechaniken zu bieten, mit denen die verschiedenen Stile abgedeckt sind. Beispiel bei 1w6: Zusätzlich zum ±W6 noch eine taktischere Regelung, bei der eine gerade Zahl einen Bonus von 1 gibt, eine ungerade Zahl einen Malus von 1, eine 6 einen Bonus von 2 mit der Option zum Wiederwürfeln, eine 5 einen Malus von 2 mit der Pflicht zum Wiederwürfeln. Parallel mehr Details für Optionen, die Boni und Mali geben. Direkt würde das Spiel taktischer werden, weil Würfel weniger ausmachen. Boni und Mali aus anderen Quellen wären so deutlich wichtiger.
+
+Um die Action weiter runterzufahren, kann rausgenommen werden, dass die Differenz zur Schwierigkeit auf den Effekt addiert wird.
+
+…irgendwann muss ich das endlich sauber ausarbeiten.
+
