@@ -1,6 +1,7 @@
 ﻿# Flyer leiten
 Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Kurzabenteuer in die Bresche springen.  
-Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Es enthält Kurzregeln, dazu für die Spielleitung (SL) ein Grundszenario und für die Spieler vorgefertigte Charakterkarten und versiegelte Zusatzszenarien. Das Abenteuer ist für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. 
+Es ist ein Instant-Rollenspiel für Cons und kurze Runden. Es enthält Kurzregeln, dazu für die Spielleitung (SL) ein Grundszenario und für die Spieler vorgefertigte Charakterkarten und versiegelte Zusatzszenarien. 
+Das Abenteuer ist für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. 
 ## Ablauf 
 Die SL liest diesen Text und das Grundszenario, während die Spieler Charakterkarten tauschen und diesen Text lesen. Wenn Neulinge dabei sind, erklären die anderen ihnen kurz, was Rollenspiel bedeutet. Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen. Die SL liest die Szenarien, während die Spieler für jeden Beteiligten einen Würfel (W6) und etwas zu trinken besorgen.
 ## Regeln 
@@ -13,14 +14,14 @@ Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann a
 *Beispiel: Tara will eine Trage bauen. Sie ist eine erfahrene Tischlerin (Beruf: Tischlerin: 12) und sehr geschickt (+ Geschick). Durch Geschick erhält sie einen Punkt Bonus auf ihren Beruf und ist so bei 13. Die SL legt fest, dass eine Trage bauen einfach ist (Schwierigkeit 9). Taras Spielerin würfelt eine 3. 3 ist ungerade, wird also abgezogen und Tara kommt auf 10 (13 minus 3). Sie schafft die Herausforderung damit mit einer Differenz von 1.*
 ### Wettstreit
 Treten zwei Charaktere gegeneinander an, dann würfeln beide wie bei einer Herausforderung. Wer das höhere Ergebnis hat, gewinnt den Wettstreit. Die Differenz zwischen den Ergebnissen zeigt, wie deutlich er gewinnt.
-### Kampf
+###  Kampf
 Für den Kampf haben Charaktere Waffen, Rüstungen und eine Wundschwelle. Im Nahkampf würfeln beide Beteiligten auf einen passenden Wert. Wer das bessere Ergebnis hat, trifft seinen Gegner. Bei Gleichstand trifft der Angreifer. Im Fernkampf würfelt nur der Angreifer (Schwierigkeit je nach Waffe, oder 12 bis 5m, 15 bis 50m, +3 für erschwerendes). Bei Erfolg trifft er. 
 Der Getroffene nimmt Schaden in Höhe der erzielten Differenz plus der Waffe minus seiner Rüstung. Erreicht der Schaden seine Wundschwelle, erhält er eine Wunde, die alle Herausforderungen um drei erschwert, bis sie geheilt ist. Ein Treffer mit 3x Wundschwelle an Schaden bedeutet sofortige Kampfunfähigkeit. 
 Die Wundschwelle liegt meist zwischen 3 und 6, Waffenschaden und Rüstungsschutz zwischen 1 (Dolch / Dart / Stoff) und 8 (Axt / Gewehr / Platte). Wenn einer der Kämpfer sich nur verteidigen will, erhält er 6 Punkte Bonus, verursacht aber keinen Schaden, wenn er trifft.  
 Für die Heilung würfelt der Spieler jede Woche mit ±W6. Dazu addiert er 1 pro + in passenden Eigenschaften. Ist das Ergebnis größer oder gleich 0, dann heilt eine Wunde.
 *Beispiel: Tara (Knüppel 12, Selbstbewusst +) hat eine Taschendiebin erwischt und will sie ausschalten. Die Diebin hat nur ihren Beruf (Taschendiebin 9). Taras Spielerin würfelt eine 4 und kommt auf 17 (12 plus 1 plus 4). Die Spielleiterin würfelt eine 3, was 6 ergibt (9 minus 3). Tara trifft also ihre Gegnerin mit einer Differenz von 11 Punkten und verursacht 12 Schaden (1 durch den Knüppel). Der Schaden übersteigt die Wundschwelle der Diebin (4) und reicht aus, um eine Wunde zu verursachen. Die Taschendiebin hat bis zu ihrer Heilung einen Abzug von 3 auf alle Werte.*
 ##  Flyer schreiben 
-Du willst schnell eine Kurzkampagne schreiben und brauchst eine Grundlage dafür? Dann könntest du hier richtig sein. Diese Seite des Flyers gibt dir die grundlegenden Informationen, die du brauchst, um die Geschichten fortzuschreiben oder eigene Flyerbücher zu entwickeln. 
+Du willst die Abenteuer fortführen oder schnell eine Kurzkampagne schreiben? Dann könntest du hier richtig sein. Diese Seite des Flyers gibt dir die grundlegenden Informationen, die du brauchst, um eure Geschichte weiterzuspinnen oder eigene Flyerbücher zu entwickeln. 
 ### Nebencharaktere improvisieren
 Wenn du schnell einen Nebencharakter brauchst, reicht erstmal sein Name und eine ungefähre Vorstellung von ihm. Verlangt die Situation Werte, dann gib ihm einfach entweder einen passenden Beruf (auf 9 oder 12) oder eine Fertigkeit (auf 12 oder 15). Als Faustregel gilt, dass für ein Actionreiches Spiel die Werte von Nebencharakteren mindestens 3 Punkte niedriger sein sollten, als die höchsten Werte der Spielercharaktere. 
 Schreib dir dann nach der Szene den Namen und die festgelegten Werte auf, und gib ihm zusätzlich noch ein Zitat und ein paar beschreibende Worte.
@@ -36,4 +37,6 @@ Eine Fertigkeit von 12 auf 15 zu steigern kostet bei der Erschaffung 2 Punkte. E
 Berufe werden fast genauso gehandhabt, allerdings sind die erreichten Werte 3 Punkte niedriger. Einen Beruf von 9 auf 10 zu steigern kostet also 2 Striche, von 12 auf 13 kostet 3 Striche, usw. 
 Bei Eigenschaften und Merkmalen gibt es keine solche Unterteilung. Die Steigerung kostet einfach das dreifache der bei der Erschaffung nötigen Punkte. Eine neue Eigenschaft auf + zu haben kostet also 3 Striche, sie von + auf ++ zu steigern kostet 6 Striche, von ++ auf +++ 9, usw. 
 ### Szenarien
-…TODO…
+*Noch zu schreiben…*
+### Formatieren
+*Noch zu schreiben…*
