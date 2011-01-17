@@ -196,7 +196,7 @@ Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal "Ver
 
 Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird. 
 
-Merkmale: Vermögend (+), Kein sicheres Einkommen (-)
+Merkmale: Vermögend (+), Kein sicheres Einkommen (‑)
 
 #Merkmale aus Gurps® übernehmen
 Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale. 
