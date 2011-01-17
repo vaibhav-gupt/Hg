@@ -29,8 +29,7 @@ Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber 
 #Eigenschaften
 
 Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Aussehen, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber Jede zu einem gewissen Grad hat.
-
-Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet.
+Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet.
 
 **Eigenschaften von Menschen haben Werte zwischen 6 und 18. Was darüber hinausgeht ist der Stoff für Legenden.
 
@@ -160,9 +159,7 @@ Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa üb
 Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspielern und der Art des Abenteuers ab.
 
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe.
-
-
-Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
+Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
 
 **Ein angehender Held kann 7 starke Werte wählen: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 starken Werten.
 
@@ -270,8 +267,8 @@ Dabei gelten die folgenden fünf Regeln:
 
 ##5) Eigenschaftsboni
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt.
-**Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften (1 pro +). Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft.
 
+**Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften (1 pro +). Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft.
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich.
 
 #Beispiele für Eigenschaften, Fertigkeiten und Merkmale
@@ -412,7 +409,6 @@ Selbst Grok sollte also seine Wunden zumindest verbinden.
 Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf System abgehandelt.
 
 Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen hier genau einmal, und das Ergebnis des Kampfes steht fest.
-
 **Dazu  würfeln beide auf ihre Kampffertigkeit. Diejenige mit dem höheren Ergebnis (Wert ± Wurf) gewinnt die Konfrontation. Ihre Gegnerin ist kampfunfähig und erhält drei Wunden plus eine weitere je drei Punkte Differenz ihrer Ergebnisse. Die Gewinnerin erhält dabei drei Wunden abzüglich einer Wunde für je drei Punkte Differenz. Wenn ihr Ergebnis also 6 Punkte höher war als das ihrer Kontrahentin, erhält sie nur eine Wunde. Wenn die Gewinnerin 9 oder mehr Punkte besser war als ihre Kontrahentin, geht sie unbeschadet aus der Konfrontation hervor.
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 10 Meter drei Punkte, und bei über 10 Metern 9 Punkte.
@@ -428,7 +424,6 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 **Deutlich stärkere Waffe: +3
 **Kontrahentin unbewaffnet: +3
 **Deutlich stärkere Rüstung: +3
-
 **Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL).
 
 *"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an.
@@ -624,12 +619,11 @@ Beispiel: Lazaros Erschaffung auf S. 12.
 
 ##Niedrige Trefferpunkte
 **Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 1 Punkt auf alle Handlungen. Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 3 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren.
-**Sinken seine aktuellen Trefferpunkte auf den Wert seiner Trefferpunkte im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x TP (-36) ist der Mindestwurf 18, und bei -4x TP (-48) ist er 21.
+**Sinken seine aktuellen Trefferpunkte auf den Wert seiner Trefferpunkte im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x TP (-36) ist der Mindestwurf 18, und bei -4x TP (-48) ist er 21.
 
 **Sinken die Trefferpunkte auf oder unter das fünffache der Trefferpunkte (z.B. auf -5x TP (-60)), dann ist er unwiederbringlich tot. Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.
 
 ##Wunden
-
 Erhält ein Charakter durch einen Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab.
 
 **Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist.
@@ -638,7 +632,6 @@ Erhält ein Charakter durch einen Treffer weniger als seine Wundschwelle an Scha
 **Ein Charakter erhält von einer einzelnen Verletzung nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde, aber keine zwei Wunden.
 
 Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt).
-
 Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide u.ä..
 
 Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken.
@@ -655,13 +648,10 @@ Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irg
 
 Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt.
 
-Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit.
-
-Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen.
+Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen.
 
 <fuss>Weitere Modifikatoren stehen in der Seitenleiste auf Seite 24: Einfluss der Heilungsumstände.
-
-#Heilungszeiten
+#Heilungszeiten
 
 Ein Charakter mit durchschnittlicher Konstitution (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP.
 
@@ -722,24 +712,22 @@ Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etw
 **Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert die effektive Entfernung je nach Fernrohr um ein bis zwei Stufen.
 
 Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für ruhige Situationen, ein Straßenkämpfer die für den Kampf.
+Zusätzlich werden die Mindestwürfe durch bestimmte Umstände modifiziert.
 
-Zusätzlich werden die Mindestwürfe durch bestimmte Umstände modifiziert.
-
-##Modifikatoren, Beispiele
-Bewegung:
+##Bewegung:
 **- Ziel bewegt sich schnell oder bewegt sich quer zur Sichtlinie: MW+3
 **- Angreifer geht während des Schießens: MW+3
 **- Angreifer rennt: MW+6
 **- Schwieriger Untergrund: MW+3
 
-Mehrere Ziele:
+##Mehrere Ziele:
 **- Ziel ist im Nahkampf mit einem Ziel, das nicht getroffen werden soll: MW+3
 **- Ziel ringt mit einem Ziel, das nicht getroffen werden soll: MW+6
 **- Ziel ist im Nahkampf mit einem Ziel, das getroffen werden kann: MW±0, aber bei einem Treffer wird erneut gewürfelt. Zeigt der Würfel eine 5 wird das andere Ziel getroffen.
 **- Ziel ringt mit einem Ziel, das getroffen werden kann. MW±0, aber bei einem Treffer wird erneut gewürfelt. Ist die Augenzahl ungerade wird das andere Ziel getroffen.
 **- Nicht zu treffendes Ziel steht teilweise in Sichtlinie: MW+3
 
-Deckung:
+##Deckung:
 **- Ziel in 1/3-Deckung (z.B. Beine gedeckt): MW+3
 **- Ziel in 2/3-Deckung (z.B. Nur Schultern und Kopf sichtbar): MW+6
 **- Ziel in 90% Deckung (z.B. Nur Kopf oder nur Arm sichtbar): MW+9
