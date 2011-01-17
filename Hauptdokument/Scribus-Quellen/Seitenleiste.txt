@@ -83,7 +83,6 @@ Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als a
 
 Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine Horde Wildschweine heranrennt.
 
-
 #Die Eigenschaft Vermögen
 Die Bedeutung der Eigenschaft Vermögen hängt von der Hintergrundwelt ab, daher kann ich dir hier nur eine Richtlinie geben, was sie für Einkommen und Besitz des Charakters bedeutet:
 
@@ -215,14 +214,14 @@ Für Nachteile gilt das gleiche Schema, nur im Negativen.
 #Merkmale aus Fudge™
 Aus Fudge™ könnt ihr Merkmale übernehmen, indem ihr einfach jedes Fudge "+" oder "-" als vobsy "+" oder "-" rechnet.
 Modifikatoren auf Proben oder Werte werden dabei verdreifacht.
-#Welche Eigenschaften für welchen Charakter?
+#Welche Eigenschaften für welchen Charakter?
 Die Eigenschaften des Charakters formen die Wahrnehmung, die andere von ihm erhalten, und entsprechend sollte schon der Klang der Eigenschaften das Bild des Charakters im Geist entstehen lassen.
 
 Wenn du nun Eigenschaften wählst, frag dich erst "Wodurch hebt sich mein Charakter von der Masse ab?" und such dir für diese Unterschiede möglichst passende Namen, die später das sein können, was von deinem Charakter in Erinnerung bleibt.
 
 Diejenigen Unterschiede, die vor allem aus natürlicher Begabung oder Unfähigkeit in einem bestimmten Bereich stammen, den jeder Mensch irgendwie hat, sind die Eigenschaften des Charakters. Jeder Mensch hat einen gewissen Sexappeal, aber nur wenn er deutlich über oder unter dem Durchschnitt liegt, werden sich die Leute daran erinnern und ihn eine Eigenschaft der Person nennen.
 
-*Beispielsweise ist Lazaro sehr gewandt und charismatisch und auf seinen Stil bedacht. Daher trägt er auch regeltechnisch die Eigenschaften Gewandtheit, Charisma und persönlichen Stil.
+*Beispielsweise ist Lazaro sehr gewandt und charismatisch und auf seinen Stil bedacht. Daher trägt er auch regeltechnisch die Eigenschaften Gewandtheit, Charisma und persönlichen Stil.
 
 *Wenn nun Lazaros Spieler gefragt wird, was anderen bei seinem Charakter auffällt, kann er sich sehr leicht an seinen Eigenschaften orientieren und Lazaros grazile Bewegungen ("als würde er immer tanzen"), seine entspannende Ausstrahlung ("der sich kaum einer seiner Gesprächspartner entziehen kann. Wer Lazaros Gegenwart verlässt, trägt fast immer ein Lächeln auf den Lippen") und seinen einzigartigen Kleidungs- und Sprachstil beschreiben.
 
