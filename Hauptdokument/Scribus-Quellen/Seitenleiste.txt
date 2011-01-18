@@ -487,11 +487,11 @@ Fernkampfwaffe: Schaden
 - Pistole: 4
 -> 9MM: 8
 - Jagdgewehr: 16
-- Laserpistole¹: 4/Ladung
+- Laserpistole(1): 4/Ladung
 - Blaster (20 Lad.): 16
 - Blastergewehr: 24
 
-¹: Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Ladungen in der Energiezelle.
+(1): Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Ladungen in der Energiezelle.
 
 #Rüstungsbeispiele:
 Name: Schutz
@@ -499,11 +499,11 @@ Ledermantel: 1-2
 Lederrüstung: 2
 Kettenhemd: 3-5
 Gestechrüstung: 7
-Kugels. Weste¹: 8 /2
-leichte Panz.²: 20
+Kugels. Weste(1): 8 /2
+leichte Panz.(2): 20
 
-¹: 8 gegen Kugeln, sonst 2
-²: Space Marines
+(1): 8 gegen Kugeln, sonst 2
+(2): Space Marines
 
 
 #Treffer einstecken
@@ -528,12 +528,12 @@ Bauch/Nieren:
 - Fern: Schaden +6
 - Nah: Schaden +9
 
-Bein¹/Arm¹:
+Bein(1)/Arm(1):
 - Erschwernis: - 6
 - Fern: Schaden: +12
 - Nah: Schaden: +18
 
-Hand¹/Kopf:
+Hand(1)/Kopf:
 - Erschwernis: - 9
 - Fern: Schaden: +18
 - Nah: Schaden: +27
@@ -543,7 +543,7 @@ Kehle/Auge:
 - Fern: Schaden: +24
 - Nah: Schaden: +36
 
-¹: Schaden über einer kritischen Wunde verfällt. Die Gliedmaße ist ab.
+(1): Schaden über einer kritischen Wunde verfällt. Die Gliedmaße ist ab.
 
 
 #Beispiele für Verletzungen:
