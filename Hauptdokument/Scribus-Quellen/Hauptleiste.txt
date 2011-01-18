@@ -424,9 +424,9 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 **Deutlich stärkere Waffe: +3
 **Kontrahentin unbewaffnet: +3
 **Deutlich stärkere Rüstung: +3
-**Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL).
 
-*"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an.
+**Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL).
+*"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an.
 
 *Da Groks Kontrahent nur einen Dolch trägt, Grok aber eine Streitaxt, addiert seine Spielerin Jana 3 Punkte zu Groks Kampffertigkeit (Erfahren: 15) und erhält 18. Die SL hat nur die Fertigkeit des Leibwächters (Schwach: 9). Nun würfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 18+4=22 und der Leibwächter auf 9+2=11. Die Differenz ist 11, also bleibt Grok unverletzt und der Leibwächter geht mit 6 Wunden zu Boden.
 
@@ -440,8 +440,7 @@ Um dem Ein Wurf System größere Flexibilität zu geben, können verschiedene Ka
 - Reine Flucht: Hier versucht der Charakter vor seinem Kontrahenten zu fliehen. Sollte er gewinnen, entkommt er. Sein Kontrahent erhält keinen Schaden, der Fliehende selbst aber trotzdem drei Wunden abzüglich einer Wunde je drei Punkte Differenz. Wer nur zu fliehen versucht erhält 6 Punkte Bonus auf seinen Fertigkeitswert (5/6 Chance zu entkommen).
 
 - Unterstützende Fertigkeiten: Fertigkeiten wie Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jedes + in der Fertigkeit einen Punkt Bonus auf den Fertigkeitswert.
-
-#Hinweise zum Leiten
+#Hinweise zum Leiten
 
 Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System mit Kampfunfähigkeit und Verletzung statt mit dem Tod, solange niemand auf Leben und Tod kämpft.
 
@@ -530,12 +529,12 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 
 **Sobald du eine Anzahl von Dreiecken gleich der Plusse der nächsten Schwelle gezeichnet hast, fängst du wieder von vorne an (musst aber ein Dreieck mehr zeichnen, da du die nächste Schwelle erreicht hast). Dein Wert steigt um einen Punkt, wenn du für alle nötigen Dreiecke eine weitere Seite gezeichnet hast. Bei Eigenschaften gilt damit z.B.:
 
-*Fitness: +      (15)
-*Fitness: +,´    (15)
-*Fitness: +,´´   (16)
-*Fitness: +,^^   (17)
-*Fitness: +,ΔΔ   (18) = ++
-*Fitness: ++,´´´ (19)
+Fitness: +      (15)
+Fitness: +,´    (15)
+Fitness: +,´´   (16)
+Fitness: +,^^   (17)
+Fitness: +,ΔΔ   (18) = ++
+Fitness: ++,´´´ (19)
 
 #Striche pro Abend
 
@@ -549,7 +548,6 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 *Kehren wir noch einmal zu Lazaro zurück.
 
 *Er hat gerade eine längere Seefahrt beendet, von der wir nur über für die Steigerung relevante Teile sprechen werden.
-
 
 *Da er die Reise um einige sehr schöne Szenen bereichert hat (vor allem an dem Abend des Festes der Grafentochter) und mehrfach in Gefahr für Leben und Freiheit geriet (wenn auch nicht durch Piraten, sondern durch die Leibwachen der genannten Dame), hat die Spielleiterin zusammen mit der restlichen Runde entschieden, ihm 4 Striche zu geben (wie auch dem reisenden Mönch für seine ausdauernden und ideenreichen Versuche, Lazaro ins Gewissen zu reden, obwohl die letztendlich die Wachen auf den Plan riefen).
 
@@ -633,7 +631,6 @@ Erhält ein Charakter durch einen Treffer weniger als seine Wundschwelle an Scha
 
 Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt).
 Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide u.ä..
-
 Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken.
 
 <fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46.
@@ -683,7 +680,6 @@ Alles Kampferschwerende geht als Malus ein.
 **Kämpft der Charakter gegen mehr als einen Gegner gleichzeitig, dann erhält er für jeden Gegner nach dem ersten einen Malus von 3 auf Kampfwürfe.
 
 ##Beispielkampf, Nahkampf
-
 *In einer Kampfarena trifft Stahlkatze auf zwei Soldaten. Er lauert in einem Gang hinter einer Säule, während sie Schritt für Schritt näher kommen. Der Erste murmelt leise etwas, dann hört der Katzenmensch die etwas schwereren Schritte des Zweiten in Armreichweite der Säule kommen. Plötzlich huscht Stahlkatze hinter der Säule hervor, seine Bewegungen nur Schemen für den ungeübten Beobachter.
 
 *Während sein Gegner die Waffe hochreißt, zucken Stahlkatzes Krallen nach dessen Hals.
@@ -706,10 +702,9 @@ Jede Waffe hat drei Reichweiten: Kurz, Mittel und Weit. Für jede dieser Reichwe
 **Ruhe: Kurz: 9; Mittel: 12; Weit: 15
 
 Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt werden, wodurch der Mindestwurf allerdings um weitere 6 Punkte auf 24 im Kampf bzw. 21 in Ruhe steigt.
-
-Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (83%).
-
 **Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert die effektive Entfernung je nach Fernrohr um ein bis zwei Stufen.
+
+Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (5/6).
 
 Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für ruhige Situationen, ein Straßenkämpfer die für den Kampf.
 Zusätzlich werden die Mindestwürfe durch bestimmte Umstände modifiziert.
@@ -730,12 +725,11 @@ Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende 
 ##Deckung:
 **- Ziel in 1/3-Deckung (z.B. Beine gedeckt): MW+3
 **- Ziel in 2/3-Deckung (z.B. Nur Schultern und Kopf sichtbar): MW+6
-**- Ziel in 90% Deckung (z.B. Nur Kopf oder nur Arm sichtbar): MW+9
+**- Ziel in 9/10 Deckung (z.B. Nur Kopf oder nur Arm sichtbar): MW+9
 **- Schütze in 2/3 Deckung (oder mehr): MW+3
-**- Schütze in 90% oder mehr Deckung (Blindschuss): MW+9
+**- Schütze in 9/10 oder mehr Deckung (Blindschuss): MW+9
 
 ##Beispielkampf, Fernkampf
-
 *Stahlkatze streift über die leeren Dächer des Hochhausghettos. Dann und wann huschen Katzen zur Seite oder erstarren mit gesträubtem Fell, wenn sein Schatten auf sie fällt. Die einzigen Geräusche sind das ferne Brummen des Straßenverkehrs  in den belebteren Teilen der Stadt und das Knacken von Beton, der nach dem Verschwinden der Sonne langsam abkühlt.
 *Einige lautlose Schritte bringen Stahlkatze zur Brüstung der Wand und dort auf eine verrostete Feuerleiter. Auf halbem Weg sieht er einige Ratten, die sich in nichts von dem Kadaver eines verhungerten Hundes abbringen lassen, ihrem Essen in dieser Nacht.
 
@@ -763,7 +757,7 @@ Bei Waffen mit schnellen Projektilen (Pistolen, Laserwaffen, Blaster) beträgt d
 Bei sehr langsamen Projektilen und Wurfwaffen, oder bei langsamen Projektilen auf große Distanz, beträgt der Mindestwurf 9. Nur hier ist wirkliches Ausweichen möglich, und wahrhaft geschickte Charaktere können die Waffe vielleicht sogar fangen (SL-Entscheidung. Als Richtlinie sollte er mindestens eine 9 Punkte höhere Differenz haben als der Schütze).
 
 Außerhalb von Kampfsituationen sind diese Mindestwürfe sowohl für den Schützen als auch für den Ausweichenden um 3 Punkte niedriger. Das heißt, ob sie im Kampf oder außerhalb des Kampfes sind, ändert hier nichts.
-#Hinweise zum Leiten
+#Hinweise zum Leiten
 
 Der Kampf im EWS ist schnell und tödlich. Daher sollten Spielerinnen und SL immer an stilvolle Beschreibungen denken. Vor jeder Aktion sollten die Spielerinnen beschreiben, was sie zu tun beabsichtigen ("Ich tänzle zur Seite um seinem Axthieb zu entgehen und reiße das Schwert in die Höhe, um seinen Waffenarm abzutrennen"). Dabei beschreibt erst die Angreiferin ihre Handlung, und die Verteidigerin sagt danach, wie sie darauf reagieren will.
 
