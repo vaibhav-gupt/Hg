@@ -4,7 +4,7 @@
 
 augenzahlen = [1, 2, 3, 4, 5, 6]
 ergebnis = {}
-max_würfel = 4
+max_würfel = 5
 max_mindestwurf = 24
 
 for anzahl_würfel in range(max_würfel):
