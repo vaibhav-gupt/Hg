@@ -27,4 +27,4 @@ for mw in range(max_mindestwurf):
 erg.sort()
 
 for würfel_mw, Wahrscheinlichkeit in erg:
-    print (str(würfel_mw[0]) + "," + str(würfel_mw[1]) + ":", Wahrscheinlichkeit)
+    print (würfel_mw[0], würfel_mw[1], Wahrscheinlichkeit)
