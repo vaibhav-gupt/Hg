@@ -2,6 +2,10 @@
 
 """Wahrscheinlichkeiten für Mindestwürfe in einem Pool-System"""
 
+__copyright__ = """© 2010 Arne Babenhauserheide
+
+You can use this under the GNU GPLv3 or later, if you provide the correct license texts and such → http://gnu.org/licenses/gpl.html"""
+
 augenzahlen = [1, 2, 3, 4, 5, 6]
 ergebnis = {}
 max_würfel = 5
