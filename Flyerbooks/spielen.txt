@@ -33,7 +33,7 @@ Die Menschen haben mit der Besiedlung des Landes begonnen, ohne Rücksicht auf d
 Shanari sucht keinen gewaltsamen Konflikt. Hat sie keinen Erfolg, zieht sich die Katzenfrau mit ihren Leuten zurück. Die Meute wird dann jede Nacht zum Trekk schleichen, um die Karossen zu sabotieren oder wichtige Ausrüstung zu stehlen. Dadurch wird sich die Reisezeit um vier Tage verzögern, was eine Rationalisierung des Proviants mit sich bringt. Das wiederum beschwört Ärger herauf, denn die Händler führen Nahrungsmittel als Waren mit sich und weigern sich, diese zu teilen.  
 Um ohne Sabotage nach Hochturm zu gelangen, müssen die Katzenmenschen regelmäßig vertrieben, eingeschüchtert oder bekämpft werden. Shanari ist keine Fanatikerin und ihre Meute wird nach den ersten Verletzungen das Weite suchen.
 *Shanari, sanftmütige Anführerin der Meute „Ihr zerstört unser Land. Bitte kehrt um.“ | Gemütsruhe: ++, Feingefühl: + | Beruf: Schneiderin: 9, Überzeugen: 12, Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |
-*Katzenmenschen | Gewandtheit: + | Beliebiger Beruf: 9 , Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |  
+*Katzenmenschen | Gewandtheit: + | Beliebiger Beruf: 9 , Auf leisen Pfoten 9, Kratzen 9 | Waffe: Krallen (Schaden: 2) |  
 *Beispielnamen von Katzenmenschen: Eenaru, Jarven, Kaor, Luijar, Njenes, Roijaar, Sjasaï, Sovóre, Tael.
 ## Am Ziel
 Nach all den Strapazen und Entbehrungen erreicht der Trekk Hochturm. Wo in wenigen Wochen wuchtige Mauern emporragen werden, stehen derzeit noch hölzerne Palisaden. Neugierige Blicke folgen dem Trekk, der langsam in die Stadt einfährt und auf den gewaltigen steinernen Glockenturm im Zentrum zuhält, dem Wahrzeichen dieser Siedlung.  
