@@ -7,7 +7,7 @@ Die SL liest diesen Text und das Grundszenario, während die Spieler Charakterka
 ## Regeln 
 Als Regelwerk verwenden Flyerbücher das freie 1w6-System. Die Charaktere haben eine Reihe Eigenschaften, Berufe, Fertigkeiten und Merkmale, die sie von der Masse abheben. Berufe und Fertigkeiten haben einen Zahlenwert (6-18). Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche).  
 *Beispiele: Geschick, Intelligenz oder Stolz sind Eigenschaften. Tischlerin ist ein Beruf, Waffenlos eine Fertigkeit. Merkmale wären Reich (+) oder Süchtig (-).*
-### Herausforderung
+###  Herausforderung
 Wenn ihr wissen wollt, ob ein Charakter eine schwierige Situation meistert, könnt ihr es auswürfeln. Dafür schaut ihr, ob eine seiner Fertigkeiten oder seiner Berufe euch passend erscheint (im Zweifel das höhere). Wenn ja, nutzt ihr deren Wert. Findet ihr nichts passendes, dann nehmt den Ausweichwert 3.  
 Danach schaut ihr seine Eigenschaften an: Nutzt er eine Fertigkeit, erhält er für jedes + in einer zur Herausforderung passenden Eigenschaft einen Punkt Bonus. Nutzt er einen Beruf oder den Ausweichwert 3, erhält er nur einen Punkt Bonus pro + in der höchsten passenden Eigenschaft. Unterstützen ihn Andere, mit passenden Fähigkeiten, erhält er pro Unterstützer einen weiteren Punkt Bonus.
 Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, zieht ihr sie ab (so zu würfeln heißt ±W6). Wenn das Ergebnis mindestens der Schwierigkeit der Herausforderung entspricht (9 ist einfach, 12 fordernd, 15 schwer), besteht der Charaktar diese Prüfung. Die Differenz zur Schwierigkeit gibt an, wie gut er die Herausforderung besteht.  
@@ -20,17 +20,10 @@ Der Getroffene nimmt Schaden in Höhe der erzielten Differenz plus der Waffe min
 Die Wundschwelle liegt meist zwischen 3 und 6, Waffenschaden und Rüstungsschutz zwischen 1 (Dolch / Dart / Stoff) und 8 (Axt / Gewehr / Platte). Wenn einer der Kämpfer sich nur verteidigen will, erhält er 6 Punkte Bonus, verursacht aber keinen Schaden, wenn er trifft.  
 Für die Heilung würfelt der Spieler jede Woche mit ±W6. Dazu addiert er 1 pro + in passenden Eigenschaften. Ist das Ergebnis größer oder gleich 0, dann heilt eine Wunde.
 *Beispiel: Tara (Knüppel 12, Selbstbewusst +) hat eine Taschendiebin erwischt und will sie ausschalten. Die Diebin hat nur ihren Beruf (Taschendiebin 9). Taras Spielerin würfelt eine 4 und kommt auf 17 (12 plus 1 plus 4). Die Spielleiterin würfelt eine 3, was 6 ergibt (9 minus 3). Tara trifft also ihre Gegnerin mit einer Differenz von 11 Punkten und verursacht 12 Schaden (1 durch den Knüppel). Der Schaden übersteigt die Wundschwelle der Diebin (4) und reicht aus, um eine Wunde zu verursachen. Die Taschendiebin hat bis zu ihrer Heilung einen Abzug von 3 auf alle Werte.*
-##  Flyer schreiben und leiten
+##  leiten und schreiben
 Diese Seite des Flyers gibt dir die grundlegenden Informationen, die du brauchst, um eure Geschichte weiterzuspinnen oder eigene Flyerbücher zu entwickeln. Außerdem enthält sie Tipps zum leiten.
-
-* weiterführen
-* ganz eigene Geschichte
-
 ### Szenarien entwickeln
-*Noch zu schreiben…*
-
 * Intro, Konflikt (direkt, keine Zeit verschwenden), Personen und Beziehungen (direkt: Die Personen werden gerade in kurzen Runden erst durch ihre Konflikte lebendig. keine Scheu vor Übertreibungen), alle Regeln (die nicht in der Grundhandlung sind) im Szenario beschreiben
-
 ### Nebencharaktere improvisieren
 Wenn du schnell einen Nebencharakter brauchst, reichen erstmal sein Name und eine ungefähre Vorstellung von ihm. Verlangt die Situation Werte, dann gib ihm einfach entweder einen passenden Beruf (auf 9 oder 12) oder eine Fertigkeit (auf 12 oder 15). Als Faustregel gilt, dass für ein actionreiches Spiel die Werte von Nebencharakteren mindestens 3 Punkte niedriger sein sollten, als die höchsten Werte der Spielercharaktere. 
 Um den Charakter auch später einfach nutzen und weitergeben zu können, schreib dir den Namen und die festgelegten Werte auf und gib ihm zusätzlich noch ein Zitat und ein paar beschreibende Worte.
@@ -41,29 +34,21 @@ Eine Fertigkeit von 12 auf 15 zu steigern kostet bei der Erschaffung 2 Punkte. E
 Berufe werden fast genauso gehandhabt, allerdings sind die erreichten Werte 3 Punkte niedriger. Einen Beruf von 9 auf 10 zu steigern kostet also 2 Striche, von 12 auf 13 kostet 3 Striche, usw. 
 Bei Eigenschaften und Merkmalen gibt es keine solche Unterteilung. Die Steigerung kostet einfach das dreifache der bei der Erschaffung nötigen Punkte. Eine neue Eigenschaft auf + zu haben kostet also 3 Striche, sie von + auf ++ zu steigern kostet 6 Striche, von ++ auf +++ 9, usw. 
 ### Andere Grundhandlung
-*Noch zu schreiben…*
-
-* ganz eigene Flyer: Andere Welt oder anderer Fokus
-* Intro mit Konflikt (Charaktere vorstellen!), Zentrale Konflikt(e) (Handlungsmöglichkeiten der Spieler! Fähigkeiten der Charaktere anspielen, min 2 je Konflikt), Abschluss. 
-
+*ganz eigene Flyer: Andere Welt oder anderer Fokus
+*Intro mit Konflikt (Charaktere vorstellen!), Zentrale Konflikt(e) (Handlungsmöglichkeiten der Spieler! Fähigkeiten der Charaktere anspielen, min 2 je Konflikt), Abschluss. 
 ### Charaktere erschaffen
 #### Struktur
-
 * Name, Beschreibung, Zitat, wenn möglich Bild
 * Struktur der Werte: Jede Sonderfertigkeit auf der Karte erklärt
 * Einfach halten! Klare Bilder! 
 * Rückseite: Hintergrund, Besonderheiten, Motivation (Warum ist er hier oder Was will er erreichen (Ziel)?)
-    - (Regelschnipsel, wenn nötig) Woher kommt er? Hat er Besonderheiten? Kontaktpunkte zu anderen Charakteren oder zu der Grundhandlung (Konflikte oder Sympatien)? Was will er?  
-
+* (Regelschnipsel, wenn nötig) Woher kommt er? Hat er Besonderheiten? Kontaktpunkte zu anderen Charakteren oder zu der Grundhandlung (Konflikte oder Sympatien)? Was will er?  
 #### Regeln
 Um einen Charakter regeltechnisch zu erschaffen, gibst du ihm Eigenschaften, Fertigkeiten, Berufe und Merkmale. Nimm dabei idealerweise mindestens einen Beruf für das grundlegende Wissen und Fertigkeiten für Herausstechendes. Bei Spielercharakteren hast du dafür normalerweise 7 Punkte zur Verfügung. 
 Eine Eigenschaft oder ein Merkmal auf + zu haben kostet 1 Punkt, auf ++ kostet 3 Punkte, also 2 Punkte mehr als +, und auf +++ kostet 6 Punkte, 3 mehr als ++, usw. Eine Fertigkeit auf 12 kostet 1 Punkt, auf 15 kostet 3, auf 18 kostet 6 Punkte, usw.. Berufe sind für die gleichen Punkte 3 niedriger: Ein Beruf auf 9  kostet 1 Punkt, auf 12 kostet 3 Punkte und auf 15 kostet 6. Außerdem kostet es 1 Punkt, eine Waffe oder Rüstung mit mehr als 3 Schaden oder Schutz zu haben, 2 Punkte für Waffen oder Rüstungen über 12 und 3 Punkte über 21. 
 Schwächen geben so viele Punkte wie wie ein entsprechend hoher positiver Wert kosten würde. - gibt einen Punkt, -- gibt 3, --- 6, usw.. Jedes Merkmal (Stärke oder Schwäche) muss einzeln beschrieben werden. Beispiele für Merkmale gibt es auf 1w6.org.
 Die Wundschwelle ist 4 plus 1 pro Plus in der höchsten passenden Eigenschaft. 
-
 ### Flyer formatieren
 *Noch zu schreiben…*
-
-
-### Charakterkarten formatieren
+### Charaktere als Karten
 *Noch zu schreiben…*
