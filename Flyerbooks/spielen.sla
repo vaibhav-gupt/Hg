@@ -20,7 +20,7 @@
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <COLOR NAME="undef" RGB="#966432" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="1" DROPLIN="2" DROPDIST="2" OpticalMargins="8" MinWordTrack="0.7" MinGlyphShrink="0.9" MaxGlyphExtend="1.06" FONT="Vn URW Palladio L Roman" FONTSIZE="9"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="1" DROPLIN="2" DROPDIST="2" OpticalMargins="8" MinWordTrack="0.3" MinGlyphShrink="0.9" MaxGlyphExtend="1.1" FONT="Vn URW Palladio L Roman" FONTSIZE="9"/>
         <STYLE NAME="Titel" ALIGN="1" LINESPMode="1" LINESP="12" VOR="0" NACH="12" DROP="0" DROPLIN="2" OpticalMargins="0" FONT="Vn URW Bookman L Bold" FONTSIZE="22" FEATURES="allcaps" FCOLOR="Black" SSHADE="30" TXTSHX="5" TXTSHY="-5" TXTOUT="2" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="6"/>
         <STYLE NAME="Untertitel" PARENT="Titel" ALIGN="1" LINESPMode="1" LINESP="16" INDENT="0" RMARGIN="0" FIRST="0" VOR="3" NACH="6" FONT="Vn URW Bookman L Bold" FONTSIZE="16" FEATURES="smallcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="2" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="6"/>
         <STYLE NAME="Beispiel" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" FONT="Vn URW Palladio L Italic" FONTSIZE="9"/>
@@ -149,7 +149,11 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Sha­na­ri, sanft­mü­ti­ge An­füh­re­rin der Meu­te „Ihr zer­stört un­ser Land. Bit­te kehrt um.“ | Ge­müts­ru­he: ++, Fein­ge­fühl: + | Be­ruf: Schnei­de­rin: 9, Über­zeu­gen: 12, Auf lei­sen Pfo­ten 9, Krat­zen 9 | Waf­fe: Kral­len (Scha­den: 2) |"/>
             <para PARENT="Beispiel"/>
-            <ITEXT CH="Kat­zen­menschen | Ge­wandt­heit: + | Be­lie­bi­ger Be­ruf: 9 , Auf lei­sen Pfo­ten 9, Krat­zen 9 | Waf­fe: Kral­len (Scha­den: 2) |  "/>
+            <ITEXT CH="Kat­zen­menschen | Ge­wandt­heit: + | Be­lie­bi­ger Be­ruf: 9 , Auf lei­sen Pfo­ten 9, Krat­zen 9 | Waf­fe: Kral­len (Scha­den:"/>
+            <nbspace/>
+            <ITEXT CH="2)"/>
+            <nbspace/>
+            <ITEXT CH="|  "/>
             <para PARENT="Beispiel"/>
             <ITEXT CH="Bei­spiel­na­men von Kat­zen­menschen: Een­a­ru, Jar­ven, Kaor, Lui­jar, Nje­nes, Roi­jaar, Sja­saï, So­vó­re, Tael."/>
             <para PARENT="Beispiel"/>

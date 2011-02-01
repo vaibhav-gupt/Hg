@@ -28,7 +28,7 @@ Um den Charakter auch später einfach nutzen und weitergeben zu können, schreib
 *Beispiel: Newi. Unorganisierte Gebrauchtwarenhändlerin (Beruf: 9). „Kann sein, dass ich das habe. Lasst mich mal schauen…“.*
 ### Szenarien entwickeln
 Szenarien für kurze Runden brauchen einen starken Einstieg, am besten mit einem Konflikt, der direkt und ohne Zeit zu verschwenden die wichtigsten Personen und deren Beziehungen einführt und den Spielercharakteren Raum gibt, ihre Stärken zu nutzen. Wenn du für andere Gruppen schreibst, sollten alle Regeln (außer denen auf diesem Flyer) im Szenario stehen. 
-Die Grundhandlung braucht außerdem zentrale Konflikte, die jeweils mindestens zwei Fähigkeiten von Spielencharakteren anspielen sollten und einen für die Spieler befriedigenden Abschluss. 
+Die Grundhandlung braucht außerdem zentrale Konflikte, die jeweils mindestens zwei Fähigkeiten von Spielercharakteren anspielen sollten und einen für die Spieler befriedigenden Abschluss. 
 ### Charaktere als Karten
 Ein Charakter braucht als erstes einen Namen, eine Beschreibung, ein Zitat und, wenn möglich, ein Bild. Halte dich dabei an einfache, klare Bilder. Du hast nur eine Karte Platz. All das kommt auf das erste drittel der Vorderseite. 
 Sobald du die Grundlagen hast, kannst du sie/ihn regeltechnisch entwerfen. Dafür gibst du ihm Eigenschaften, Fertigkeiten, Berufe und Merkmale. Nimm dabei idealerweise mindestens einen Beruf für das grundlegende Wissen und Fertigkeiten für Herausstechendes. Bei Spielercharakteren hast du dafür normalerweise 7 Punkte zur Verfügung. 
@@ -36,7 +36,7 @@ Eine Eigenschaft oder ein Merkmal auf + zu haben kostet 1 Punkt, auf ++ kostet 3
 Schwächen geben so viele Punkte wie wie ein entsprechend hoher positiver Wert kosten würde. - gibt einen Punkt, -- gibt 3, --- 6, usw.. Jedes Merkmal (Stärke oder Schwäche) muss einzeln beschrieben werden. Beispiele dazu stehen auf 1w6.org. Die Wundschwelle ist 4 plus 1 pro Plus in der höchsten passenden Eigenschaft. 
 Unter die Werte kommen noch knappe Erklärungen der Sonderfertigkeiten. Reicht der Platz nicht, kannst du die Rückseite mitbenutzen. 
 Zusätzlich sollte die Rückseite zentrale Fragen zum Hintergrund des Charakters beantworten: Woher kommt er/sie? Hat er/sie Besonderheiten? Hat er/sie Kontaktpunkte zu anderen Charakteren oder zu der Grundhandlung (Konflikte oder Sympatien)? Was will er/sie?
-### Charaktere steigern
+###  Charaktere steigern
 Für längere Runden ist es oft sinnvoll, wenn sich die Charaktere der Spieler weiterentwickeln und ihre Werte steigern. Die Steigerunng läuft dabei wie die Erschaffung, allerdings detaillierter. Nach jedem Spielabend gibt es für je 2 Stunden Spielzeit einen Strich. Je 3 dieser Striche entsprechen einem Punkt aus der Erschaffung. 
 Eine Fertigkeit von 12 auf 15 zu steigern kostet bei der Erschaffung 2 Punkte. Entsprechend kostet es bei der Steigerung 6 Striche. Sie kann allerdings auch um nur eins gesteigert werden, was einfach ein drittel der vollen Steigerung kostet. Die Fertigkeit nur von 12 auf 13 zu steigern kostet also 2 Striche. Von 13 auf 14 und von 14 auf 15 ebenso. Von 15 auf 16 zu steigern kostet allerdings 3 Striche, da für die Steigerung von 15 auf 18 insgesamt 9 Punkte nötig sind. Bei neuen Fertigkeiten gibt der erste Strich einen Wert von 9, der zweite 11 und der dritte 12. 
 Berufe werden fast genauso gehandhabt, allerdings sind die erreichten Werte 3 Punkte niedriger. Einen Beruf von 9 auf 10 zu steigern kostet also 2 Striche, von 12 auf 13 kostet 3 Striche, usw. 
