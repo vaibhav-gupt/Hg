@@ -19,12 +19,12 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="1" DROPLIN="2" DROPDIST="2" OpticalMargins="8" MinWordTrack="0.7" MinGlyphShrink="0.9" MaxGlyphExtend="1.06" FONT="Vn URW Palladio L Roman" FONTSIZE="9"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="1" DROPLIN="2" DROPDIST="2" OpticalMargins="8" MinWordTrack="0.7" MinGlyphShrink="0.9" MaxGlyphExtend="1.06" FONT="Vn URW Palladio L Roman" FONTSIZE="9"/>
         <STYLE NAME="Titel" ALIGN="1" LINESPMode="1" LINESP="12" VOR="0" NACH="12" DROP="0" DROPLIN="2" OpticalMargins="0" FONT="Vn URW Bookman L Bold" FONTSIZE="22" FEATURES="allcaps" FCOLOR="Black" SSHADE="30" TXTSHX="5" TXTSHY="-5" TXTOUT="2" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="6"/>
         <STYLE NAME="Untertitel" PARENT="Titel" ALIGN="1" LINESPMode="1" LINESP="16" INDENT="0" RMARGIN="0" FIRST="0" VOR="3" NACH="6" FONT="Vn URW Bookman L Bold" FONTSIZE="16" FEATURES="smallcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="2" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="6"/>
         <STYLE NAME="Beispiel" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" FONT="Vn URW Palladio L Italic" FONTSIZE="9"/>
         <STYLE NAME="Unteruntertitel" PARENT="Untertitel" ALIGN="0" INDENT="12" FIRST="0"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Vn URW Palladio L Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Vn URW Palladio L Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="1" useICC="1" doGCR="1" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="Adobe RGB" ImageP="Adobe RGB" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
@@ -131,9 +131,13 @@
             <breakframe/>
             <ITEXT CH=" lei­ten und schrei­ben"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Hier fin­dest du grund­le­gen­de In­for­ma­tio­nen, um eu­re Ge­schich­te wei­ter­zu­spin­nen oder ei­ge­ne Flyer­bü­cher zu ent­wi­ckeln."/>
+            <ITEXT CH="Die­se Sei­te des Flyers gibt dir die grund­le­gen­den In­for­ma­tio­nen, die du brauchst, um eu­re Ge­schich­te wei­ter­zu­spin­nen oder ei­ge­ne Flyer­bü­cher zu ent­wi­ckeln. Au­ßer­dem ent­hält sie Tipps zum lei­ten."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH=" Leu­te im­pro­vi­sie­ren"/>
+            <ITEXT KERN="0" CH=" Sze­na­ri­en ent­wi­ckeln"/>
+            <para PARENT="Unteruntertitel"/>
+            <ITEXT CH=" In­tro, Kon­flikt (di­rekt, kei­ne Zeit ver­schwen­den), Per­so­nen und Be­zie­hun­gen (di­rekt: Die Per­so­nen wer­den ge­ra­de in kur­z­en Run­den erst durch ih­re Kon­flik­te le­ben­dig. kei­ne Scheu vor Über­trei­bun­gen), al­le Re­geln (die nicht in der Grund­hand­lung sind) im Sze­na­rio be­schrei­ben"/>
+            <para PARENT="Beispiel"/>
+            <ITEXT CH=" Ne­ben­cha­rak­tere im­pro­vi­sie­ren"/>
             <para PARENT="Unteruntertitel"/>
             <ITEXT CH="Wenn du schnell einen Ne­ben­cha­rak­ter brauchst, rei­chen erst­mal sein Na­me und ei­ne un­ge­fäh­re Vor­stel­lung von ihm. Ver­langt die Si­tua­ti­on Wer­te, dann gib ihm ein­fach ent­we­der einen pas­sen­den Be­ruf (auf 9 oder 12) oder ei­ne Fer­tig­keit (auf 12 oder 15). Als Faust­re­gel gilt, dass für ein ac­tion­rei­ches Spiel die Wer­te von Ne­ben­cha­rak­teren min­des­tens 3 Punk­te nied­ri­ger sein soll­ten, als die höchs­ten Wer­te der Spie­ler­cha­rak­tere. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -141,13 +145,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Bei­spiel: Ne­wi. Un­or­ga­ni­sier­te Ge­braucht­wa­ren­händ­le­rin (Be­ruf: 9). „Kann sein, dass ich das ha­be. Lasst mich mal schau­en…“."/>
             <para PARENT="Beispiel"/>
-            <ITEXT CH=" Sze­na­ri­en ent­wi­ckeln"/>
-            <para PARENT="Unteruntertitel"/>
-            <ITEXT CH="Sze­na­ri­en für kur­ze Run­den brau­chen einen star­ken Ein­stieg, am bes­ten mit ei­nem Kon­flikt, der di­rekt und oh­ne Zeit zu ver­schwen­den die wich­tigs­ten Per­so­nen und de­ren Be­zie­hun­gen ein­führt und den Spie­ler­cha­rak­teren Raum gibt, ih­re Stär­ken zu nut­zen. Wenn du für an­de­re Grup­pen schreibst, soll­ten al­le Re­geln (au­ßer de­nen auf die­sem Flyer) im Sze­na­rio ste­hen. "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Die Grund­hand­lung braucht au­ßer­dem zen­tra­le Kon­flik­te, die je­weils min­des­tens zwei Fä­hig­kei­ten von Spie­len­cha­rak­teren an­spie­len soll­ten und einen für die Spie­ler be­frie­di­gen­den Ab­schluss. "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH=" Cha­rak­tere stei­gern"/>
+            <ITEXT CH=" Cha­rak­tere stei­gern"/>
             <para PARENT="Unteruntertitel"/>
             <ITEXT CH="Für län­ge­re Run­den ist es oft sinn­voll, wenn sich die Cha­rak­tere des Spie­ler wei­ter­ent­wi­ckeln und ih­re Wer­te stei­gern. Die Stei­ge­runng läuft da­bei wie die Er­schaf­fung, al­ler­dings de­tail­lier­ter. Nach je­dem Spie­la­bend gibt es für je 2 Stun­den Spiel­zeit einen Strich. Je 3 die­ser Stri­che ent­spre­chen ei­nem Punkt aus der Er­schaf­fung. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -157,7 +155,13 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Bei Ei­gen­schaf­ten und Merk­ma­len gibt es kei­ne sol­che Un­ter­tei­lung. Die Stei­ge­rung kos­tet ein­fach das drei­fa­che der bei der Er­schaf­fung nö­ti­gen Punk­te. Ei­ne neue Ei­gen­schaft auf + zu ha­ben kos­tet al­so 3 Stri­che, sie von + auf ++ zu stei­gern kos­tet 6 Stri­che, von ++ auf +++ 9, usw. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH=" Cha­rak­tere als Kar­ten"/>
+            <ITEXT KERN="0" CH=" An­de­re Grund­hand­lung"/>
+            <para PARENT="Unteruntertitel"/>
+            <ITEXT CH="ganz ei­ge­ne Flyer: An­de­re Welt oder an­de­rer Fo­kus"/>
+            <para PARENT="Beispiel"/>
+            <ITEXT CH="In­tro mit Kon­flikt (Cha­rak­tere vor­stel­len!), Zen­tra­le Kon­flikt(e) (Hand­lungs­mög­lich­kei­ten der Spie­ler! Fä­hig­kei­ten der Cha­rak­tere an­spie­len, min 2 je Kon­flikt), Ab­schluss. "/>
+            <para PARENT="Beispiel"/>
+            <ITEXT CH=" Cha­rak­tere er­schaf­fen"/>
             <para PARENT="Unteruntertitel"/>
             <ITEXT CH=" Struk­tur"/>
             <para PARENT="Unteruntertitel"/>
@@ -181,7 +185,11 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Die Wund­schwel­le ist 4 plus 1 pro Plus in der höchs­ten pas­sen­den Ei­gen­schaft. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH=" For­ma­tie­ren"/>
+            <ITEXT KERN="0" CH=" Flyer for­ma­tie­ren"/>
+            <para PARENT="Unteruntertitel"/>
+            <ITEXT CH="Noch zu schrei­ben…"/>
+            <para PARENT="Beispiel"/>
+            <ITEXT CH=" Cha­rak­tere als Kar­ten"/>
             <para PARENT="Unteruntertitel"/>
             <ITEXT CH="Noch zu schrei­ben…"/>
             <para PARENT="Beispiel"/>
