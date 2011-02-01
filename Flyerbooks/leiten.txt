@@ -29,22 +29,17 @@ Um den Charakter auch später einfach nutzen und weitergeben zu können, schreib
 ### Szenarien entwickeln
 Szenarien für kurze Runden brauchen einen starken Einstieg, am besten mit einem Konflikt, der direkt und ohne Zeit zu verschwenden die wichtigsten Personen und deren Beziehungen einführt und den Spielercharakteren Raum gibt, ihre Stärken zu nutzen. Wenn du für andere Gruppen schreibst, sollten alle Regeln (außer denen auf diesem Flyer) im Szenario stehen. 
 Die Grundhandlung braucht außerdem zentrale Konflikte, die jeweils mindestens zwei Fähigkeiten von Spielencharakteren anspielen sollten und einen für die Spieler befriedigenden Abschluss. 
+### Charaktere als Karten
+Ein Charakter braucht als erstes einen Namen, eine Beschreibung, ein Zitat und, wenn möglich, ein Bild. Halte dich dabei an einfache, klare Bilder. Du hast nur eine Karte Platz. All das kommt auf das erste drittel der Vorderseite. 
+Sobald du die Grundlagen hast, kannst du sie/ihn regeltechnisch entwerfen. Dafür gibst du ihm Eigenschaften, Fertigkeiten, Berufe und Merkmale. Nimm dabei idealerweise mindestens einen Beruf für das grundlegende Wissen und Fertigkeiten für Herausstechendes. Bei Spielercharakteren hast du dafür normalerweise 7 Punkte zur Verfügung. 
+Eine Eigenschaft oder ein Merkmal auf + zu haben kostet 1 Punkt, auf ++ kostet 3 Punkte, also 2 Punkte mehr als +, und auf +++ kostet 6 Punkte, 3 mehr als ++, usw. Eine Fertigkeit auf 12 kostet 1 Punkt, auf 15 kostet 3, auf 18 kostet 6 Punkte, usw.. Berufe sind für die gleichen Punkte 3 niedriger: Ein Beruf auf 9  kostet 1 Punkt, auf 12 kostet 3 Punkte und auf 15 kostet 6. Außerdem kostet es 1 Punkt, eine Waffe oder Rüstung mit mehr als 3 Schaden oder Schutz zu haben, 2 Punkte für Waffen oder Rüstungen über 12 und 3 Punkte über 21. 
+Schwächen geben so viele Punkte wie wie ein entsprechend hoher positiver Wert kosten würde. - gibt einen Punkt, -- gibt 3, --- 6, usw.. Jedes Merkmal (Stärke oder Schwäche) muss einzeln beschrieben werden. Beispiele dazu stehen auf 1w6.org. Die Wundschwelle ist 4 plus 1 pro Plus in der höchsten passenden Eigenschaft. 
+Unter die Werte kommen noch knappe Erklärungen der Sonderfertigkeiten. Reicht der Platz nicht, kannst du die Rückseite mitbenutzen. 
+Zusätzlich sollte die Rückseite zentrale Fragen zum Hintergrund des Charakters beantworten: Woher kommt er/sie? Hat er/sie Besonderheiten? Hat er/sie Kontaktpunkte zu anderen Charakteren oder zu der Grundhandlung (Konflikte oder Sympatien)? Was will er/sie?
 ### Charaktere steigern
 Für längere Runden ist es oft sinnvoll, wenn sich die Charaktere des Spieler weiterentwickeln und ihre Werte steigern. Die Steigerunng läuft dabei wie die Erschaffung, allerdings detaillierter. Nach jedem Spielabend gibt es für je 2 Stunden Spielzeit einen Strich. Je 3 dieser Striche entsprechen einem Punkt aus der Erschaffung. 
 Eine Fertigkeit von 12 auf 15 zu steigern kostet bei der Erschaffung 2 Punkte. Entsprechend kostet es bei der Steigerung 6 Striche. Sie kann allerdings auch um nur eins gesteigert werden, was einfach ein drittel der vollen Steigerung kostet. Die Fertigkeit nur von 12 auf 13 zu steigern kostet also 2 Striche. Von 13 auf 14 und von 14 auf 15 ebenso. Von 15 auf 16 zu steigern kostet allerdings 3 Striche, da für die Steigerung von 15 auf 18 insgesamt 9 Punkte nötig sind. Bei neuen Fertigkeiten gibt der erste Strich einen Wert von 9, der zweite 11 und der dritte 12. 
 Berufe werden fast genauso gehandhabt, allerdings sind die erreichten Werte 3 Punkte niedriger. Einen Beruf von 9 auf 10 zu steigern kostet also 2 Striche, von 12 auf 13 kostet 3 Striche, usw. 
 Bei Eigenschaften und Merkmalen gibt es keine solche Unterteilung. Die Steigerung kostet einfach das dreifache der bei der Erschaffung nötigen Punkte. Eine neue Eigenschaft auf + zu haben kostet also 3 Striche, sie von + auf ++ zu steigern kostet 6 Striche, von ++ auf +++ 9, usw. 
-### Charaktere als Karten
-#### Struktur
-* Name, Beschreibung, Zitat, wenn möglich Bild
-* Struktur der Werte: Jede Sonderfertigkeit auf der Karte erklärt
-* Einfach halten! Klare Bilder! 
-* Rückseite: Hintergrund, Besonderheiten, Motivation (Warum ist er hier oder Was will er erreichen (Ziel)?)
-* (Regelschnipsel, wenn nötig) Woher kommt er? Hat er Besonderheiten? Kontaktpunkte zu anderen Charakteren oder zu der Grundhandlung (Konflikte oder Sympatien)? Was will er?  
-#### Regeln
-Um einen Charakter regeltechnisch zu erschaffen, gibst du ihm Eigenschaften, Fertigkeiten, Berufe und Merkmale. Nimm dabei idealerweise mindestens einen Beruf für das grundlegende Wissen und Fertigkeiten für Herausstechendes. Bei Spielercharakteren hast du dafür normalerweise 7 Punkte zur Verfügung. 
-Eine Eigenschaft oder ein Merkmal auf + zu haben kostet 1 Punkt, auf ++ kostet 3 Punkte, also 2 Punkte mehr als +, und auf +++ kostet 6 Punkte, 3 mehr als ++, usw. Eine Fertigkeit auf 12 kostet 1 Punkt, auf 15 kostet 3, auf 18 kostet 6 Punkte, usw.. Berufe sind für die gleichen Punkte 3 niedriger: Ein Beruf auf 9  kostet 1 Punkt, auf 12 kostet 3 Punkte und auf 15 kostet 6. Außerdem kostet es 1 Punkt, eine Waffe oder Rüstung mit mehr als 3 Schaden oder Schutz zu haben, 2 Punkte für Waffen oder Rüstungen über 12 und 3 Punkte über 21. 
-Schwächen geben so viele Punkte wie wie ein entsprechend hoher positiver Wert kosten würde. - gibt einen Punkt, -- gibt 3, --- 6, usw.. Jedes Merkmal (Stärke oder Schwäche) muss einzeln beschrieben werden. Beispiele für Merkmale gibt es auf 1w6.org.
-Die Wundschwelle ist 4 plus 1 pro Plus in der höchsten passenden Eigenschaft. 
 ### Formatieren
-*Noch zu schreiben…*
+Um eigene Dokumente im Layout der Flyerbücher zu veröffentlichen, schau einfach auf quellen.1w6.org; auf der Seite gibt es Links zu den Quelldateien unter der GNU General Public License (GPL).
