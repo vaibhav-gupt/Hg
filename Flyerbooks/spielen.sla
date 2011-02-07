@@ -20,19 +20,20 @@
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <COLOR NAME="undef" RGB="#966432" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="1" DROPLIN="2" DROPDIST="2" OpticalMargins="8" MinWordTrack="0.3" MinGlyphShrink="0.9" MaxGlyphExtend="1.1" FONT="Vn URW Palladio L Roman" FONTSIZE="9"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="1" DROPLIN="2" DROPDIST="2" OpticalMargins="8" MinWordTrack="0.3" MinGlyphShrink="0.9" MaxGlyphExtend="1.1" FONT="Vn URW Palladio L Roman" FONTSIZE="9"/>
         <STYLE NAME="Titel" ALIGN="1" LINESPMode="1" LINESP="12" VOR="0" NACH="12" DROP="0" DROPLIN="2" OpticalMargins="0" FONT="Vn URW Bookman L Bold" FONTSIZE="22" FEATURES="allcaps" FCOLOR="Black" SSHADE="30" TXTSHX="5" TXTSHY="-5" TXTOUT="2" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="6"/>
         <STYLE NAME="Untertitel" PARENT="Titel" ALIGN="1" LINESPMode="1" LINESP="16" INDENT="0" RMARGIN="0" FIRST="0" VOR="3" NACH="6" FONT="Vn URW Bookman L Bold" FONTSIZE="16" FEATURES="smallcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="2" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="6"/>
         <STYLE NAME="Beispiel" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" FONT="Vn URW Palladio L Italic" FONTSIZE="9"/>
         <STYLE NAME="Unteruntertitel" PARENT="Untertitel" ALIGN="0" INDENT="12" FIRST="0"/>
-        <STYLE NAME="Fusszeile" PARENT="Fusszeile" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="4" RMARGIN="4" FIRST="0" VOR="0" NACH="3" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style" FONT="Vn URWClassico Italic" FONTSIZE="5" KERN="0"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Vn URW Palladio L Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="Fusszeile" PARENT="Fusszeile" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="4" RMARGIN="4" FIRST="0" VOR="0" NACH="3" DROP="0" DROPLIN="2" DROPDIST="0" MinWordTrack="0.5" MinGlyphShrink="0.9" MaxGlyphExtend="1.1" CPARENT="Default Character Style" FONT="Vn URWClassico Italic" FONTSIZE="5" KERN="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Vn URW Palladio L Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="1" useICC="1" doGCR="1" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="1" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="Adobe RGB" ImageP="Adobe RGB" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Vn URW Bookman L Bold"/>
             <Fonts Name="Vn URW Palladio L Italic"/>
             <Fonts Name="Vn URW Palladio L Roman"/>
+            <Fonts Name="Vn URWClassico Italic"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
@@ -169,8 +170,8 @@
             <para PARENT="Untertitel"/>
             <ITEXT CH="Der Trekk ist ein frei li­zen­sier­tes Rol­len­spiel¹. Du kannst es nut­zen, ko­pie­ren, än­dern und wei­ter­ge­ben, wie du willst – so­gar ver­kau­fen – so­lan­ge du an­de­ren mit dei­nen Än­de­run­gen das glei­che er­laubst.  "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Ge­schrie­ben von Gün­ther Lietz (tay­sal.net) und Ar­ne Ba­ben­hau­ser­hei­de (1w6.org/uzan­to/drak). "/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Ge­schrie­ben von Gün­ther Lietz (tay­sal.net) und Ar­ne Ba­ben­hau­ser­hei­de (1w6.org/uzan­to/drak). Bilder von Trudy Wenzel: http://blackthumbstudios.artworkfolio.com und Kathrin Polikeit: http://wesnoth.org"/>
+            <para PARENT="Fusszeile"/>
             <ITEXT KERN="0" CH="¹: 1w6.org/deutsch/an­hang/frei­es-rol­len­spiel/"/>
             <para PARENT="Beispiel"/>
             <PageItemAttributes/>
