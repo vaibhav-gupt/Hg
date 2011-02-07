@@ -1,11 +1,15 @@
 Flyerbücher!
 ============
 
-*Die Menschen dringen mit ihren Dampf-getragenen Trekks immer weiter in die neuen Lande vor, stören das empfindliche Gleichgewicht der Magie und fahren erkleckliche Gewinne ein. Ihr könnt mit ihnen reisen, um die sichere Ankunft des Trekks von Annike Wegfinder zu ermöglichen und euren Teil vom Kuchen ergattern – oder die Neuen Lande auch zu einer besseren Welt für Alle zu machen. Alles, was ihr zum Spielen braucht, sind 2 Stunden Zeit, je ein Würfel und drei ausgedruckte Din-A4 Blätter: Regeln, Abenteuer und Charakterkarten.*
+*Die Menschen dringen mit ihren Dampf-getragenen Trekks immer weiter in die neuen Lande vor, stören das empfindliche Gleichgewicht der Magie und fahren erkleckliche Gewinne ein. Ihr könnt mit ihnen reisen, um die sichere Ankunft des Trekks von Annike Wegfinder zu ermöglichen und euren Teil vom Kuchen ergattern – oder die Neuen Lande zu einer besseren Welt für Alle zu machen.* 
+
+Alles, was ihr zum Spielen braucht, sind 2 Stunden Zeit, je ein Würfel und drei ausgedruckte Din-A4 Blätter: Regeln, Abenteuer und Charakterkarten:
 
 [![1w6 Flyerbuch: Regeln](/releases/1w6-flyerbuch-regeln-bild.png)](/releases/1w6-flyerbuch-regeln-0.1.pdf)
 [![1w6 Flyerbuch: Der Trekk](/releases/1w6-flyerbuch-trekk-bild.png)](/releases/1w6-flyerbuch-trekk-0.1.pdf)
 [![1w6 Flyerbuch: Trekk-Charakterkarten](/releases/1w6-charakterkarten-trekk-bild.png)](/releases/charakterkarten-v0.4.pdf)
+
+Die Flyerbücher eignen sich für eine improvisier-erfahrene SL und 2-6 unerfahrene bis erfahrene Spieler, dauern etwa 2 Stunden plus eine Stunde je Zusatzszenario und bieten eine Mischung aus Action und harten, moralischen Entscheidungen.
 
 <!--break-->
 
