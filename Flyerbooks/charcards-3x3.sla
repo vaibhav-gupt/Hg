@@ -111,7 +111,7 @@
             <para PARENT="Name"/>
             <ITEXT CH="Bot­schaf­ter und Kund­schaf­ter der Vo­gel­men­schen"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Stets einen lus­ti­gen Kom­men­tar im Schna­bel und ein all­zu kla­res Au­ge für je­de dei­ner Be­we­gun­gen."/>
+            <ITEXT CH="„Schau hoch, du ver­schreckst ja die Tau­ben.“"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Trick­reich:"/>
             <nbspace/>
@@ -133,14 +133,16 @@
             <para PARENT="Werte"/>
             <ITEXT CH="Waf­fe: Kral­len: 3, Flü­gel: 3"/>
             <para PARENT="Werte"/>
+            <ITEXT CH="Rüs­tung: Ge­fie­der: 1"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le:"/>
+            <nbspace/>
+            <ITEXT CH="4"/>
+            <para PARENT="Werte"/>
             <ITEXT CH="Flie­gen: Kann im Flug 15 kg tra­­gen und fliegt drei­mal so schnell wie ein ren­nen­der Mensch. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Wund­schwel­le:"/>
-            <nbspace/>
-            <ITEXT KERN="0" CH="4"/>
-            <para PARENT="Werte"/>
             <breakframe/>
-            <ITEXT CH="Die meis­ten Vo­gel­men­schen le­ben in Städ­ten in den Ber­gen. Sie sind men­schen­groß mit zwei mal vier Me­tern Spann­wei­te. Nur we­ni­ge kom­men in die Ebe­ne, für Han­del oder neue Kon­tak­te. "/>
+            <ITEXT KERN="0" CH="Die meis­ten Vo­gel­men­schen le­ben in Städ­ten in den Ber­gen. Sie sind men­schen­groß mit zwei mal vier Me­tern Spann­wei­te. Nur we­ni­ge kom­men in die Ebe­ne, für Han­del oder neue Kon­tak­te. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Je­der Vo­gel­mensch hat da­bei einen Platz in der Hier­ar­chie. Wer am höchs­ten steht spricht zu­letzt. Wenn er ge­spro­chen hat, gilt sein Wort. Sie spre­chen mit ih­rem gan­zen Kör­per. Ei­ne Än­de­rung ih­rer Hal­tung er­zählt oft mehr als gan­ze Sät­ze von an­de­ren Spe­zi­es. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -153,7 +155,7 @@
             <para PARENT="Name"/>
             <ITEXT CH="Händ­ler der Kat­zen­menschen"/>
             <para PARENT="Untertitel"/>
-            <ITEXT CH="Schafft es, auf fast je­des Ge­sicht ein Lä­cheln zu zau­bern. "/>
+            <ITEXT CH="„Auch dein Ge­sicht will Lä­cheln. Gib ihm doch Frei­heit.“"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Ge­wandt:"/>
             <nbspace/>
@@ -179,14 +181,14 @@
             <para PARENT="Werte"/>
             <ITEXT CH="Waf­fe:  Kral­len: 2"/>
             <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le:"/>
+            <nbspace/>
+            <ITEXT CH="4"/>
+            <para PARENT="Werte"/>
             <ITEXT CH="Lo­ka­les Wis­sen: Wür­fel ge­gen ei­ne von der SL ge­ge­be­ne Schwie­rig­keit. Ge­lingt der Wurf, sagt dir die SL ein De­tail."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Wund­schwel­le:"/>
-            <nbspace/>
-            <ITEXT KERN="0" CH="4"/>
-            <para PARENT="Werte"/>
             <breakframe/>
-            <ITEXT CH="Kat­zen­menschen sind über­all in den Neu­en Lan­den hei­misch. Sie fin­den sich ge­nau­so un­ter den Stäm­men der Ech­sen­menschen wie in den Städ­ten der Vo­gel­men­schen, doch nie­mals in großer Zahl. "/>
+            <ITEXT KERN="0" CH="Kat­zen­menschen sind über­all in den Neu­en Lan­den hei­misch. Sie fin­den sich ge­nau­so un­ter den Stäm­men der Ech­sen­menschen wie in den Städ­ten der Vo­gel­men­schen, doch nie­mals in großer Zahl. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Kat­zen­menschen be­we­gen sich meist gra­zi­ler als Men­schen und sind et­was klei­ner und leich­ter. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -253,6 +255,8 @@
             <nbspace/>
             <ITEXT KERN="0" CH="+, Cha­ris­ma­tisch:"/>
             <nbspace/>
+            <ITEXT KERN="0" CH="+, In­tel­li­gent:"/>
+            <nbspace/>
             <ITEXT KERN="0" CH="+"/>
             <para PARENT="Werte"/>
             <ITEXT CH="Be­ru­fe: Er­zäh­le­rin:"/>
@@ -311,13 +315,13 @@
             <para PARENT="Werte"/>
             <ITEXT CH="Waf­fe: Schrot­flin­te:"/>
             <nbspace/>
-            <ITEXT CH="4 (bis 5 Per­so­nen: Schrot) oder 8 (1 Per­son: Ein­zel­ne Blei­ku­gel oder &lt;5m Ab­stand). "/>
+            <ITEXT CH="4 (bis 5 Per­so­nen: Schrot) oder 8 (1 Per­son: Ein­zel­ne Blei­ku­gel oder &lt;5m Ab­stand). Schwie­rig­kei­ten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Ein­zel­ku­geln)"/>
             <para PARENT="Werte"/>
-            <ITEXT CH="Schrot­flin­te: Schwie­rig­kei­ten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Ein­zel­ku­geln)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Wund­schwel­le:"/>
+            <ITEXT CH="Rüs­tung: Wams: 2"/>
+            <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le:"/>
             <nbspace/>
-            <ITEXT KERN="0" CH="4"/>
+            <ITEXT CH="4"/>
             <para PARENT="Werte"/>
             <breakframe/>
             <ITEXT CH="Die schwe­ren Bron­ze-Schrot­flin­ten aus der Ma­nu­fak­tur von Ly­dia Kalt­schmied ha­ben stan­dar­di­sier­te Schraub­kon­tak­te und kön­nen mit ei­ne Viel­zahl von Zu­sät­zen er­wei­tert wer­den. Ge­ra aus Hoch­turm nutzt bis­her nur zwei ver­schie­de­ne Läu­fe: Einen für Schrot­mu­ni­ti­on und einen für grö­ße­re Blei­ku­geln. "/>
@@ -429,16 +433,16 @@
             <nbspace/>
             <ITEXT CH="+"/>
             <para PARENT="Werte"/>
+            <ITEXT CH="Wund­schwel­le:"/>
+            <nbspace/>
+            <ITEXT CH="4"/>
+            <para PARENT="Werte"/>
             <ITEXT CH="Pris­ma: Ih­re Meis­te­rin hat ihr 4 Zau­ber in ein Pris­ma ge­bun­den. So­tar selbst kann noch kei­ne Zau­ber bin­den. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Ma­gie: Zum Zau­bern wür­felt sie auf Tech-Adep­tin ge­gen die Schwie­rig­keit des Zau­bers."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT KERN="0" CH="Wund­schwel­le:"/>
-            <nbspace/>
-            <ITEXT KERN="0" CH="4"/>
-            <para PARENT="Werte"/>
             <breakframe/>
-            <ITEXT CH="In der Nä­he von Ma­schi­nen kann So­tar oh­ne Er­mü­dung zau­bern. In der Wild­nis (&gt;20m vom Trekk) bricht sie nach 6 Zau­bern zu­sam­men und braucht ei­ne Nacht Schlaf. "/>
+            <ITEXT KERN="0" CH="In der Nä­he von Ma­schi­nen kann So­tar oh­ne Er­mü­dung zau­bern. In der Wild­nis (&gt;20m vom Trekk) bricht sie nach 6 Zau­bern zu­sam­men und braucht ei­ne Nacht Schlaf. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT KERN="0" CH="Zau­ber: Ent­fern­tes Au­ge: Kann ein be­lie­bi­ges tech­ni­sches Ob­jekt, das sie be­rührt, zu ih­rem Au­ge ma­chen und da­durch se­hen. Eins ih­rer ei­ge­nen Au­gen er­blin­det. Hält an, bis So­tar ein­schläft. Schwie­rig­keit:"/>
             <nbspace/>

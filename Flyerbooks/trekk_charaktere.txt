@@ -1,27 +1,28 @@
 #Siuit
 ##Botschafter und Kundschafter der Vogelmenschen
-Stets einen lustigen Kommentar im Schnabel und ein allzu klares Auge für jede deiner Bewegungen.
+„Schau hoch, du verschreckst ja die Tauben.“
 *Trickreich: +
 *Berufe: Botschafter: 9, Kundschafter: 9
 *Fliegen: 12
 *Kann fliegen: ++
 *Waffe: Krallen: 3, Flügel: 3
-Fliegen: Kann im Flug 15 kg tra­gen und fliegt dreimal so schnell wie ein rennender Mensch. 
+*Rüstung: Gefieder: 1
 *Wundschwelle: 4
+Fliegen: Kann im Flug 15 kg tra­gen und fliegt dreimal so schnell wie ein rennender Mensch. 
 Die meisten Vogelmenschen leben in Städten in den Bergen. Sie sind menschengroß mit zwei mal vier Metern Spannweite. Nur wenige kommen in die Ebene, für Handel oder neue Kontakte. 
 Jeder Vogelmensch hat dabei einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper. Eine Änderung ihrer Haltung erzählt oft mehr als ganze Sätze von anderen Spezies. 
 Der gesprochene Teil ihrer Sprache besteht aus Pfeiflauten. Andere Sprachen lernen sie leicht. 
 Ziel: Kontakte unter Menschen knüpfen. 
 #Awwar
 ##Händler der Katzenmenschen
-Schafft es, auf fast jedes Gesicht ein Lächeln zu zaubern. 
+„Auch dein Gesicht will Lächeln. Gib ihm doch Freiheit.“
 *Gewandt: +, Gutgelaunt: +
 *Beruf: Händler: 9
 *Lokales Wissen: 12, Zum Lächeln bringen: 12
 *Instinktive Anpassung: +, Unbeugsamer Optimismus: +
 *Waffe:  Krallen: 2
-Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail.
 *Wundschwelle: 4
+Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail.
 Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. 
 Katzenmenschen bewegen sich meist graziler als Menschen und sind etwas kleiner und leichter. 
 Katzenmenschen passen sich instinktiv binnen Tagen den Verhaltensweisen und der Körpersprache ihrer Umgebung an als würden sie seit Jahren in der Gesellschaft leben. Sie gewinnen meist auch nach den schlimmsten Erlebnissen binnen Stunden ihren Optimismus zurück. 
@@ -60,8 +61,8 @@ Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stad
 *Entschlossen: +, Unfähig zu Kompromissen: -
 *Beruf: Wache: 12
 *Schrotflinte: 15
-*Waffe: Schrotflinte: 4 (bis 5 Personen: Schrot) oder 8 (1 Person: Einzelne Bleikugel oder <5m Abstand). 
-Schrotflinte: Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzelkugeln)
+*Waffe: Schrotflinte: 4 (bis 5 Personen: Schrot) oder 8 (1 Person: Einzelne Bleikugel oder <5m Abstand). Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzelkugeln)
+*Rüstung: Wams: 2
 *Wundschwelle: 4
 Die schweren Bronze-Schrotflinten aus der Manufaktur von Lydia Kaltschmied haben standardisierte Schraubkontakte und können mit eine Vielzahl von Zusätzen erweitert werden. Gera aus Hochturm nutzt bisher nur zwei verschiedene Läufe: Einen für Schrotmunition und einen für größere Bleikugeln. 
 Ihr Mann Hamul ist der Schmied Hochturms und kümmert sich dort um ihre Tochter Sem und ihren Sohn Rei, während Gera auf Reisen ist. 
@@ -97,9 +98,9 @@ Sie sucht eine unabhängige Gruppe, in deren Gemeinschaft sie andere Länder ber
 *Beruf: Tech-Adeptin: 12
 *Dampfantriebe reparieren: 12
 *Tech-Magie: +, Prisma mit 4 Zaubern: +
+*Wundschwelle: 4
 Prisma: Ihre Meisterin hat ihr 4 Zauber in ein Prisma gebunden. Sotar selbst kann noch keine Zauber binden. 
 Magie: Zum Zaubern würfelt sie auf Tech-Adeptin gegen die Schwierigkeit des Zaubers.
-*Wundschwelle: 4
 In der Nähe von Maschinen kann Sotar ohne Ermüdung zaubern. In der Wildnis (>20m vom Trekk) bricht sie nach 6 Zaubern zusammen und braucht eine Nacht Schlaf. 
 Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt, das sie berührt, zu ihrem Auge machen und dadurch sehen. Eins ihrer eigenen Augen erblindet. Hält an, bis Sotar einschläft. Schwierigkeit: 12
 Zauber: Heilfeuer: Der Verzauberte regeneriert eine Wunde pro Tag. Schwierigkeit: 12
