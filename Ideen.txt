@@ -2171,3 +2171,24 @@ Ohne zeitliche Abhängigkeiten zu schaffen?
 
 -> http://forum.rsp-blogs.de/index.php/topic,324.0.html
 -> http://hochistgut.blogspot.com/2011/02/wir-leben-in-verschiedenen-welten.html
+
+------ 
+
+Bleibender Schaden: Ein Wert, der jedesmal um ein - steigt, wenn den Charakter eigentlich besiegt worden wäre aber trotzdem weitermacht. 
+
+Für jede Steigerung dieses Nachteils muss ein Nachteil der entsprechenden schwere gewählt werden. Im Gegenzug kann der Spieler einen Vorteil in entsprechender Höhe wählen. 
+
+Um immer schwerwiegendere Nachteile zu vermeiden, kann der bleibende Schaden wieder reduziert werden, indem die Nachteile wieder aufgelöst, das heißt weggekauft werden. Die Reihenfolge ist dabei egal. Auch wenn der schwächste weggekauft wird, sinkt der Wert des bleibenden Schadens (um ein -).
+
+Ist ein stärkerer Nachteil einfach die Steigerung eines schwächeren, muss für den Schwächeren ein Nachteil in gleicher Höhe als Ersatz gewählt werden.
+
+Da mit steigendem bleibenden Schaden die Nachteile bei einem Fehlschlag immer stärker werden, wird der Charakter irgendwann unspielbar, so dass ein für Taktiker interessantes Element mit einfließt. Gleichzeitig liefern die Nachteile und Vorteile immer wieder Plotwendungen, die für Geschichtenerzähler interessant sein dürften.
+
+Beispiel: *Naraka erhält in einem Gefecht zwei kritische Wunden und wird kampfunfähig. Um den Charakter weiterspielen zu können, erhöht seine Spielerin den bleibenden Schaden. Noch hatte Naraka nie völlig verloren, also beginnt der bleibende Schaden auf - und die Spielerin wählt für Naraka den Nachteil „nur ein Auge (-)“: Eine der Wunden hatte sein Gesicht getroffen, und seine Spielerin entscheidet, dass sein Auge nicht mehr verheilt. Im Gegenzug wählt sie den Vorteil „unzerbrechlicher Wille (+)“. Beides schreibt sie zu bleibende Folgen.*
+
+*Ein paar Spielabende später erhält Naraka erneut eine kritische Wunde. Ihre Spielerin erhöht bleibenden Schaden auf -- und wählt den Nachteil Querschnittsgelähmt. Naraka wird nun im Hintergrund bleiben. Als Ausgleich gibt ihm seine Spielerin den Vorteil Unnatürliches Glück (++), der es ihr ermöglicht, zweimal pro Spielrunde festzulegen, dass Narakas Entscheidung die richtige gewesen ist (solange die SL kein starkes Veto einlegt und eine Alternative anbietet).*
+
+*Die Nachteile für --- sind allerdings so heftig, dass Narakas Spielerin entscheidet, sobald wie möglich das verletzte Auge zurückzugewinnen und ihre SL bittet, mit ihr eine passende Geschichte dafür zu entwickeln. Lieber eine Steigerung verschieben als das Risiko einzugehen, ein Gehirn in einem Kasten zu werden.*
+
+Option: Nach den Eigenschaften aufgeteilt, die den Schaden genommen haben.
+
