@@ -8,13 +8,13 @@ Der Trekk steht im Innenhof des Handelshauses Münzwechsler, zwölf gewaltige Ka
 Da ist das Ächzen einer weiteren Karosse zu hören, die von zwei älteren Echsen in den Hof gezogen wird. Es sind Kolbert Nagelmacher und sein junges Weib Sara. Sie hatten kein Glück und hoffen auf eine zweite Chance. Ihre Karosse ist alt und ihnen fehlt das nötige Entgelt, daher richten sie ein Gnadengesuch an den Trekk.
 Für die Händler ergreift der hakennasige Nathaniel Münzwechsler das Wort: „Ihre Karosse verbraucht Mundvorrat und macht uns auffälliger. Doch das Weib sieht gut aus. Wenn sie mir beischläft, spreche ich für sie.“
 Für die Wanderarbeiter spricht die ältere Rebekka Kupferstich: „Was scheren uns die Belange Anderer? Ich spreche für den, der meine Leute bezahlt!“ 
-Die Meinung der Siedler vertritt der hagere Theis aus Grashain: „Wir alle wollen ein neues Leben anfangen. Wir sollten sie mitnehmen. Doch würde uns ihr Landrecht zugesprochen, sollen sie hierbleiben.“
-Annike überlässt die Entscheidung dem Trekk. Sie schätzt, dass die Nagelmachers die Fahrt um zwei Tage verzögern würden. Zudem könnte ihre alte Karosse zu Schaden kommen oder eine Zugechse verenden.
-*Annike Wegfinder: Leiterin des Trekks „Achtet auf euch und die Umgebung, dann werden wir ankommen“ | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 15, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 200m, 21 darüber hinaus; nach jedem Schuss nachladen (30s)) |  
-*Wache | Selbstbewusst: +, Ausdauernd: + | Dampfbüchse: 12 | Waffe: Dampfbüchse (Schaden: 6, alle 5 Schuss müssen Wasser und Kugeln nachgefüllt werden) |  
-*Siedler | Mut: + | Beruf: 9, Spezialität: 12, Kurzschwert oder Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3)|  
+Die Meinung der Siedler vertritt der hagere Theis aus Grashain: „Wir alle wollen ein neues Leben anfangen. Wir sollten sie mitnehmen.“
+Annike überlässt die Entscheidung dem Trekk. Sie schätzt, dass die Nagelmachers die Fahrt um zwei Tage verzögern würden, zudem könnte ihre alte Karosse zu Schaden kommen oder eine Zugechse verenden.
+*Annike Wegfinder: Leiterin des Trekks „Achtet auf euch und die Umgebung, dann werden wir ankommen“ | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 18; nach jedem Schuss nachladen (30s)) |  
 *Händler | Wortgewandt: + | Beruf: 9, Verhandeln: 12 |
 *Wanderarbeiter | Muskeln: + | Beliebiges Handwerk: 9 |  
+*Siedler | Mut: + | Beruf: 9, Spezialität: 12, Kurzschwert oder Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3)|  
+*Wache | Selbstbewusst: +, Ausdauernd: + | Dampfbüchse: 12 | Waffe: Dampfbüchse (Schaden: 6, alle 5 Schuss müssen Wasser und Kugeln nachgefüllt werden) |  
 *Vornamen: Agia, Edna, Gibbar, Hel, Ira, Jael, Kenan, Lydia, Sem, Teman. Nachnamen nach Beruf oder Herkunftsort. 
 ## Nicht mit uns!
 Eine Meute Katzenmenschen unter der rotscheckigen Shanari hat beschlossen, die Kolonisierung aufzuhalten, um die Stämme und Siedlungen im Landesinneren zu schützen. Sie stellen sich dem Trekk in den Weg. Shanari erklärt freundlich, dass die rasche Kolonisierung das Land ausbluten lässt. Die Siedler sollen umkehren und den Neuen Landen ihren Frieden lassen.
