@@ -2192,3 +2192,23 @@ Beispiel: *Naraka erhält in einem Gefecht zwei kritische Wunden und wird kampfu
 
 Option: Nach den Eigenschaften aufgeteilt, die den Schaden genommen haben.
 
+------
+
+1w6-Beschreibung auf http://www.faterpg.com/2011/fate-and-its-branches/
+
+I don’t know if you’d call it FATE branch, because the branching happened when FATE was still Fudge: The One Die System (german: 1w6-System) is a “compatibility layer” between Gurps and Fudge, using the ±D6 mechanics to provide a unique feeling to the rules (quite pulpy and graphically) with character trait and roll modifier number ranges compatible with Gurps and FATE (multiply by 3 for FATE and add 12), as well as a bit more traditional structure (attributes, skills, jobs and edges/flaws - clearly seperated in their application and their effect on the rules). 
+
+It is used for Fantasy and Science Fiction and it recently grew Flyerbooks: rules plus basic campaign on a single double-sided sheet of paper along with characters on playing cards: 
+
+* Rules + Core-Campaign: http://1w6.org/releases/1w6-flyerbuch-0.1.pdf
+* Characters: http://1w6.org/releases/charakterkarten-v0.4.pdf
+
+Scenario Additions: 
+
+* http://1w6.org/releases/flyerbuch-der-fluss-der-lieder-v0.2.pdf
+* http://1w6.org/releases/flyerbuch-trekk-eigenes-leid-v0.2.pdf
+* http://1w6.org/releases/flyerbuch-der-steuern-raeuber-v0.2.pdf
+
+→ http://1w6.org
+
+It’s licensed under the GPLv3 (main license for free software). 
