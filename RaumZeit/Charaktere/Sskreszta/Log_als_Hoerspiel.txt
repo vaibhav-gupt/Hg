@@ -9,16 +9,16 @@ Notizen:
 * Versuchsperson (Psioniker) für direkten psionischen Kontakt mit dem Kristall. 
 * Stück für Stück zu viele Infos -> Schiff wird angegriffen, Zat und andere (später auch das System). Trotzdem weiterforschen! "auf etwas großes gestoßen"
 * Kapitän hat keinen Sinn für Demokratie, Zivilgesellschaft o.ä., aber er nimmt seinen Dienst ernst, und das bringt ihn Stück für Stück in Opposition zum System. 
-* Subjekt 235 ist von der Station _Dämmerung_ mit seltsamen politischen Ideen (Demokratie u.ä.) und einem Sinn für Lyrik, was den Experimentatoren völlig abgeht. Nach einiger Zeit wird das Subjekt allerdings unverzichtbar, da für einen Wechsel der Versuchsperson die Aufzeichnung noch einmal von vorne begonnen werden müsste. Merkt es irgendwann. 
+* Subjekt 235 (Larain Melar) ist von der Station _Dämmerung_ mit seltsamen politischen Ideen (Demokratie u.ä.) und einem Sinn für Lyrik, der den Experimentatoren völlig abgeht. Nach einiger Zeit wird das Subjekt allerdings unverzichtbar, da für einen Wechsel der Versuchsperson die Aufzeichnung noch einmal von vorne begonnen werden müsste. Merkt es irgendwann. 
 
 
 Personen: 
 
-* Kapitän Joren Tas, Terraner, hart und seinem Auftrag treu. 
-* Dr. Nasser, Ka, Versuchsleitung, Terraner, kalt pragmatisch. 
-* Dr. Rai Ra Nar, Technik, Terraner, massiv technisch aufgerüstet, weiblich. 
-* Dr. Gol, Psioniker, Prozessüberwachung, Synarchu. 
-* Subjekt 235, Larain Melar, Terraner, Psioniker, männlich. 
+* Kapitän Joren Tas, Terraner, hart und seinem Auftrag treu.  -Olli?/Achim?/Nica?
+* Dr. Nasser, Ka, Versuchsleitung, Terraner, kalt pragmatisch.  -Achim?/Olli?
+* Dr. Rai Ra Nar, Technik, Terraner, massiv technisch aufgerüstet, weiblich. -Nica?/Mariam?
+* Dr. Gol, Psioniker, Prozessüberwachung, Synarchu. -Julian?
+* Subjekt 235, Larain Melar, Terraner, Psioniker, männlich. -Arne?
 
 
 Audio-Log von Kapitän Tas, Forschungsschiff Sternenband, Tag 15: 
@@ -49,9 +49,9 @@ Methode: Extraktion der Informationen aus dem beschädigten Gedächtniskristall 
 
 Beteiligte: 
 
-* Dr. Nasser, Ka, Versuchsleitung, Terraner
-* Dr. Rai Ra Nar, Technik, Terraner
-* Dr. Gol, Psioniker, Prozessüberwachung, Synarchu
+* Doktor Nasser, Ka, Versuchsleitung, Terraner
+* Doktorin Rai Ra Nar, Technik, Terraner
+* Doktor Gol, Psioniker, Prozessüberwachung, Synarchu
 * Subjekt 235, Terraner, Psioniker, männlich. 
 
 *Klack*
