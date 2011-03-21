@@ -50,7 +50,7 @@ Methode: Extraktion der Informationen aus dem beschädigten Gedächtniskristall 
 Beteiligte: 
 
 * Doktor Nasser, Ka, Versuchsleitung, Terraner
-* Doktorin Rai Ra Nar, Technik, Terraner
+* Doktorin Rai Ra Nar, Technik, Terranerin
 * Doktor Gol, Psioniker, Prozessüberwachung, Synarchu
 * Subjekt 235, Terraner, Psioniker, männlich. 
 
@@ -74,4 +74,46 @@ Der Kontakt wurde erfolgreich hergestellt. Die Versuchsperson wirkt Abwesend, is
 Aufzeichnung Projekt 286, Versuchsperson 235, Tag 1: 
 ----------------------------------------------------
 
-...Sskreszta-Log...
+### Subjekt 235
+
+''Schimmernde Farben wirbeln um das Herz des Kristalls. Ein sanftes Leuchten breitet sich über seine Ecken aus. Es erhellt sein Inneres, bis er in sanftem weißen Licht leuchtet, in dem immer wieder farbige Schlieren tanzen.'' 
+
+''Die Schlieren werden klarer, ein Gesicht blickt aus dem Kristall heraus. Geschlitzte goldgelbe Augen mit grünlichem Schimmer, der auftaucht, wann immer sie sich bewegen. Sie blicken aus dem Gesicht einer Menschenfrau. Eine lange Narbe zieht sich von ihrer Wange bis zum Kinn, kurz über dem Halsansatz. wo ihri Haut in feine grünliche Schuppen übergeht, die sich unmerklich öffnen und schließen.''
+
+''Das Gesicht überlagert den Kristall, wächst über seine Grenzen heraus und stabilisiert sich.''
+
+''Jetzt beginnt der Mund Worte zu formen, die widerhallen wie Klänge aus der Unendlichkeit… Sie festigen sich zu einer ruhigen, klaren Stimme. Sie gehört Sskreszta. Sie…''
+
+### Dr. Nasser Ka
+
+Dr. Gol, 
+
+… TODO direkten Kontakt initiieren …
+
+### Subjekt 245
+
+6000 Jahre sind vergangen, das sagt zumindest die Cryokapsel. Ob das  das Jahr als Göttin ausgleicht? So werde ich später kaum etwas mit den Aufzeichnungen anfangen können. Versuch es zu strukturieren, Sskreszta, auch wenn dir der Aufprall noch in den Knochen steckt. Nachdem Terrok Nor zerstört wurde, habe ich Jodi Crown das letzte Mal gesehen. Er sagte, die Station wäre schon das zweite Mal zerstört worden, und ich glaube ihm, obwohl ich es nicht erklären kann. 
+
+°Eine Schlachtflotte schwebt vor der Station. Dann wird sie von einem Lichtstahl erfasst und zerrissen.°
+
+Davor waren die anderen aus der Psionic 2, meiner ehemalige Spezialeinheit, an Psionischen Angriffen gestorben, und ich sollte an der Reihe sein. Jodi ist daraufhin einen Handel mit dem Wesen eingegangen, das uns angegriffen hat: Er für mich. Dann verschwand alles. 
+
+°Irisierende Augen beugen sich herunter, Lippen berühren sich, alles wird grau.°
+
+°Weißer Dampf steigt auf und eine Plasttür öffnet sich nach oben.°
+
+Als ich aufwachte, bin ich aus einer Cryokapsel gestiegen. Ihre Anzeige sagte nur, dass 6000 Jahre vergangen waren. 
+
+°Eine nackte Frau steht mit aufgerissenen Augen vor einer Anzeige neben der Plasttür. Ihr Körper ist vom Hals abwärts mit feinen Schuppen bedeckt, die an den Seiten des Halses wie Kiemen auf und zu klappen. Im nächsten Moment tritt ein Mann in stählerner Rüstung und einem Langschwert in der Hand hinter sie. "Die ihr von den Sternen kommt, seht mich an." Sie wendet sich um, sein Schwert entwindet sich ihm und landet in ihrer Hand. Die Schuppen an ihrem Hals hören auf sich zu bewegen.° 
+
+Die Bewohner des Planeten haben mich als Göttin verehrt, bis ich von einem Raumschiff gefunden wurde. Nach einer Weile wird es sehr langweilig, wenn einem jeder Wunsch von den Lippen abgelesen wird. Kein Wunder, dass Diktatoren dekadent werden.
+
+°Vor einem Raumschiff verbeugt sich Sskreszta in Gewändern aus fließender purpurner Seide vor einigen Berobten und Gerüsteten. "Ich kehre nun zurück zu den Sternen. Denkt an meine Worte" spricht sie, bevor sie das Schiff betritt.° 
+
+Ich bin den Rebellen beigetreten und Teil eines Psi-Geschwaders geworden, das mir völlig unbekannte Taktiken verwandte. 
+
+°Drei Jäger fliegen. plötzlich bricht einer aus und Streit bricht über Kom los. Sie docken chaotisch an einem Transporter an, der sie durch Sprungpunkte zu einer neuen Station bringt.° 
+
+Auf der neuen Station, einer Forschungsstation von gerade erst entdeckten Aquatischen Intelligenten, hat sich vieles geändert. Von dort an ging beinahe alles schief. 
+
+Stopp. Ich führe die Aufzeichnungen später fort. Wir haben einen alten Bunker entdeckt, in dem wir hoffen Reparaturmaterial zu finden.
