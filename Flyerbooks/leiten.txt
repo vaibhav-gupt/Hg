@@ -32,7 +32,7 @@ Für die Händler ergreift der hakennasige Nathaniel Münzwechsler das Wort: „
 Für die Wanderarbeiter spricht die ältere Rebekka Kupferstich: „Was scheren uns die Belange Anderer? Ich spreche für den, der meine Leute bezahlt!“ 
 Die Meinung der Siedler vertritt der hagere Theis aus Grashain: „Wir alle wollen ein neues Leben anfangen. Wir sollten sie mitnehmen.“
 Annike überlässt die Entscheidung dem Trekk. Sie schätzt, dass die Nagelmachers die Fahrt um zwei Tage verzögern würden, zudem könnte ihre alte Karosse zu Schaden kommen oder eine Zugechse verenden.
-*Annike Wegfinder: Leiterin des Trekks „Achtet auf euch und die Umgebung, dann werden wir ankommen“ | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 15; nach jedem Schuss nachladen (30s)) |  
+*Annike Wegfinder: Leiterin des Trekks „Achtet auf euch und die Umgebung, dann werden wir ankommen“ | Erfahren: ++, Gerecht: + | Beruf: Trekkführerin: 12, Flinte: 15 | Dem Trekk verpflichtet: - | Waffe: Schützenflinte (Schaden: 15; nach jedem Schuss nachladen (30s), Schwierigkeiten: Bis 10m 12, bis 100m 15, bis 200m 18) |  
 *Händler | Wortgewandt: + | Beruf: 9, Verhandeln: 12 |
 *Wanderarbeiter | Muskeln: + | Beruf: Ein Handwerk: 9 |  
 *Siedler | Mut: + | Beruf: 9, Spezialität: 12, Kurzschwert oder Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3)|  
