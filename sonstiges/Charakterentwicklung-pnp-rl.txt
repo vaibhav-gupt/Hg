@@ -1,0 +1,30 @@
+Charakterentwicklung im Rollenspiel, in Medien und im echten Leben
+==================================================================
+
+*Wie schnell entwickeln wir unsere Fähigkeiten weiter?*
+
+[inside](/uzanto/inside) und ich waren gerade auf einer Veranstaltung seines Kung Fu Vereins („[Kung Fu Zentrum Karlsruhe](http://www.kungfu-karlsruhe.de/)“) und haben bort die Kampfsportler gesehen, die seit 3, 10 oder 25 Jahren Kung Fu machen, jeweils Schätzungsweise 2 tage die Woche bis Vollzeit. 
+
+Wie zu erwarten war, haben wir überlegt, wie deren Entwicklung ablief, und wie im Vergleich dazu Rollenspiele die Charakterentwicklung behandeln. 
+
+Dabei gibt es 3 unterschiedliche Stil. Der erste ist durch serien geprägt: Steigerung ist unwichtig, denn eigentlich bleiben die Hcaraktere immer gleich und lösen mir ihren bekannten Fähigkeiten immer neue Probleme. Simpsons, Lexx, Mac Gyver und viele Krimiserien sind Vertreter dieser Art[^stem-modul]. 
+
+[^stem-modul]: Wegen dieser Spielweise hat das EWS Grundsystem keine Steigerung, sondern lagert sie in ein Modul aus. Wenn Steigerung nicht gewollt ist, müssen die Spieler auch nicht auf die Regeln dazu gestoßen werden.
+
+In der zweiten Art ist das lernen der Charaktere zwar wichtigg, aber es liefert eher die Kontinuität und ist nicht der Fokus des Spiels. Beispiele sind Supernatural, Farscape und das echte Leben. Diese Art des Spiels kann mit med EWS über explizite Steigerung un passenden Situanionen geregelt werden. Wann immer es passend erscheint, das ein Charakter besser wird, wird er auch besser. Alternativ kann das [Steigerungsmodul (SteM)][stem] mit etwa drei Strichen pro Jahr genutzt werden[^punkte-statt-striche]. 
+
+[stem]: /deutsch/module/steigerung-im-vobsy-vost "Steigerung der Charaktere (Stem)"
+
+[^punkte-statt-striche]: Um das noch feiner abzustufen, können Punkte statt Strichen verwendet werden. Je 3 Punkte entsprechen einem Strich, und die ersten drei  Punkte geben bei Fertigkeiten einen Wert von 6 (1), 8 (2) und 9(3). Weitergehend geben 5 Striche einen Wert von 10, 7 einen von 11 und 9 einen von 12 (womit wir dann bei Dreiecken sind und nebenbei auch die Begründung haben, warum der erste Strich gerade einen Wert von 9 gibt).
+
+Die Dritte Art ist der Weg des Helden. Jedes Abenteuer bringt neue Erkenntnisse und der Charakter wächst mit jeder seiner Aufgaben. Der Ursprung dieser Struktur könnte in einer Adaption der typischen 3-Akt Struktur auf episodische Abenteuer liegen. In den 3 Akten stellt sich der Protagonist erst einem Problem, um dann herauszufinden, dass es anders ist, als er dachte, zu versagen, an seinem Versagen zu wachsen (Initiationserlebnis) und mit neuen Fehigkeiten doch zu gewinnen. Die Adaption dieser Struktur auf episodische Abenteuer bedeutet, dass Abenteuer eine (überraschende) Plotwendung enthalten und dass die Charaktere wirklich jedesmal besser werden und so im Verlauf der Abenteuers riesige Fähigkeitsspannen abdecken; sie können wirklich vom tumben Tölpel zum Meistermagus werden. Außer in Rollenspielen, wo sie sehr verbreitet ist, wird diese Struktur vor allem in Animes wie Naruto, Fairy Tail oder Dragon Balls genutzt. Sie ist die durch das [Steigerungsmodul (SteM)][stem] am besten unterstützte Art der Charakterentwicklung: Jeden Spielabend erhalten die Charaktere 1-6 Striche, mit denen sie steigern können. Die Werte sind fein genug unterteilt, dass alle 1-3 Spielabende gesteigert werden kann und durch das Würfelsystem haben auch einzelne Steigerungen starke Auswirkungen, allerdings nur auf jeweils etwa ⅓ der Mindestwürfe[^w6].
+
+[stem]: /deutsch/module/steigerung-im-vobsy-vost "Steigerung der Charaktere (Stem)"
+
+[^w6]: Die Besonderheit, dass Einzelsteigerungen nur die Chancen bei bestimmten Mindestwürfen beeinflussen, ist bei der Beschreibung des [±W6](/w6) etwas detaillierter ausgeführt.
+
+## Zusammenfassung
+
+In Rollenspielen gibt und Unterhaltungsmedien gibt es drie verschiedene Arten der Steigerung: Keine Steigerung, Pseudo-Realistische Entwicklung und den Weg des Helden. Alle 3 lassen sich mit dem EWS gut abbilden: Keine Steigerung durch das Grundsystem, der Weg des Helden mit dem [Steigerungsmodul (SteM)][stem] und realistische Steigerung mit dem Steigerungsmodul, allerdings nur 3 Strichen pro Jahr Spielzeit statt 1-6 Strichen pro Spielabend. 
+
+[stem]: /deutsch/module/steigerung-im-vobsy-vost "Steigerung der Charaktere (Stem)"
