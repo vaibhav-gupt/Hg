@@ -2213,3 +2213,14 @@ Scenario Additions:
 
 It’s licensed under the GPLv3 (main license for free software). 
 
+------
+
+Nasma: Namen, Sprache, Schrift und Mathematik: Die vier Dinge, die wir brauchen, um unsere Welt zu beschreiben. 
+     
+     * Namen ermöglichen eine Abstraktion. Ein Konzept muss nicht vollständig beschrieben werden, sondern kann kurz benannt werden.
+     * Sprache ermöglicht es, Konzepte weiterzugeben, in Bezug zueinander zu setzen und neue Konzepte durch alte Konzepte zu beschreiben. 
+     * Schrift ermöglicht es, Konzepte potenziell verlustfrei zu definieren und weiterzugeben. 
+     * Mathematik ermöglicht es, Konzepte überprüfbar zu definieren, so dass der wissenschaftliche Doppelschritt genutzt werden kann, der die Entwicklung neuer Konzepte massiv beschleunigt, weil ein einmal überprüftes Konzept im Rahmen seiner Definition seine Gültigkeit behält.
+
+------
+
