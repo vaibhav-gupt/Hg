@@ -2224,3 +2224,27 @@ Nasma: Namen, Sprache, Schrift und Mathematik: Die vier Dinge, die wir brauchen,
 
 ------
 
+## Feuerwaffen, Moritz
+
+### Schaden und Rüstung
+
+* Waffen durchschlagen Rüstun, richten aber wenig schaden an.
+
+Stärke + Schaden (=max realschaden = durchschuss)
+
+min((Durchschlagskraft - Rüstung), Maximalschaden) · Multiplikator = Schaden
+
+### Modulares, verständliches Waffensystem
+
+* Pistole
+* MP
+* Karabiner
+* Gewehr
+* Langes Gewehr (typisches Scharfschützengewehr)
+
+→ Längenbereiche, wo sie gut sind
+
+### Rückstoß
+
+Jeder X-te Schuss gibt 1 Punkt Malus, jeder Schuss gibt einen Schadensbonus (Multiplikator+Y?), pro Schuss auf dessen Schaden man verzichtet, bekommt man einen Punk Bonus.
+
