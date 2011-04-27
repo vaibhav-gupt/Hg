@@ -28,3 +28,46 @@ Die Dritte Art ist der Weg des Helden. Jedes Abenteuer bringt neue Erkenntnisse 
 In Rollenspielen gibt und Unterhaltungsmedien gibt es drei verschiedene Arten der Steigerung: Keine Steigerung, pseudo-realistische Entwicklung und den Weg des Helden. Alle 3 lassen sich mit dem EWS gut abbilden: Keine Steigerung durch das Grundsystem, der Weg des Helden mit dem [Steigerungsmodul (SteM)][stem] und realistische Steigerung mit dem Steigerungsmodul, allerdings nur 3 Strichen pro Jahr Spielzeit statt 1-6 Strichen pro Spielabend. 
 
 [stem]: /deutsch/module/steigerung-im-vobsy-vost "Steigerung der Charaktere (Stem)"
+
+
+------- 
+
+# Diskussion
+
+Jetzt habe ich Zeit :)
+
+------
+
+Die NSCs sollten sich nach den gleichen Regeln entwickeln, wie die SCs, weil dadurch die Spielwelt und die Fähigkeiten der Charaktere für mich eine deutlich höhere Plausibilität erhalten. Dann macht sich ein Regeldesigner nämlich erstmal Gedanken darüber, warum die SCs sich eigentlich so viel schneller entwickeln als normale Leute in der Spielwelt - und wenn sie das nicht tun, wie es trotzdem passiert, dass sie zu Helden werden. 
+
+Ein Negativbeispiel sind (wie oft) DnD und DSA: Die Helden sind Leute aus dem Dorf. Dann ziehen sie aus, um Schätze zu suchen, Monster zu töten und viel in Kneipen rumzuhängen, und wenn sie zurück kommen sind sie körperlich stärker als der Schmied, der sein Leben lang nichts anderes gemacht hat, als schwere Hämmer auf Ambosse zu schmettern. Wären sie nicht ausgezogen, hätten sie aber nie so stark werden können.
+
+Gibt es bestimmte Fähigkeiten, die dazu führen, dass nur wenige ausziehen können, oder ist die Todesrate so hoch, dass es niemand außer den Verrcktesten freiwillig machen würde? In den Alten Büchern teilweise ja. In den neuen nein. Also warum zieht nicht jeder Bauer erstmal für 5 Jahre auf Abenteuer aus und nutzt dann seine neuen Fähigkeiten, um seine Konkurrenten auszustechen? Das ist eine klaffende Logiklücke der Welt, die auch jede Hintergrundgeschichte der Charaktere betrifft.
+
+Die Welt braucht meiner Meinung nach eine Erklärung dafür, warum die Helden so schnell besser werden (und wer sonst in der Welt so schnell besser werden kann, schließlich wollen wir auch würdige Antagonisten). In den griechischen Sagen waren es Erwählte der Götter, die viel litten, dafür aber auch große Vorteile hatten.
+
+(wir haben das noch nicht integriert, auch wenn ich Ideen dazu habe, aber Exaltet zum Beispiel hat es: Ihr seid reinkarnierende Krieger der Götter, die regelmäßig getötet werden - meist direkt nach der Wiedergeburt)
+
+Einen guten Alternativ-Namen für „realistisch“ (so schnell wie der Rest der Spielwelt) habe ich dabei noch nicht. Vielleicht „konsistent mit der Welt“.
+
+Regeln sind für mich in der Relevanz unter der Welt angesiedelt: Wenn die Welt sagt, dass sich Leute so schnell entwickeln, dann sollten die Regeln das abbilden (aber die Welt sollte erklären, warum). Und Steigerungen sollten aus Situationen im Spiel erwachsen. 
+
+Das extrem einer rein abstrakten Steigerung könnte bedeuten, dass jeder steigern kann, was immer er will, egal ob er es genutzt hat, oder nicht. Das extrem einer von der Welt und den Ereignissen kontrollierten Steigerung könnte bedeuten, dass jede einzelne Handlung des Charakters mitnotiert wird, um daraus am Ende festzulegen, wie er sich verbessert hat - je nachdem, ob es eine Lernerfahrung war oder nicht. Beide Extreme sind irgendwie unbefriedigend: Das erste weil die Charakterentwicklung von der Welt und der Handlung abgekoppelt wird und das zweite, weil es völlig unbenutzbar wäre (es würde ja auch für nicht ausgespielte Handlungen gelten). Ein fürs Rollenspiel nutzbares System muss meiner Meinung nach einen Mittelweg zwischen beidem finden.
+
+Die Regeln bringen meist die Einschränkung mit, dass die Charaktere in etwa gleich stark bleiben sollen (was in der Realität so nicht gegeben ist - schon alleine, weil wir keine gleichen Anfangsbedingungen haben und die Lerngeschwindigkeit durch Übung gesteigert werden kann). 
+
+Auf der Regelebene kommt dadurch bei Rollenspielen Subjektivität mit rein, und das finde ich erstmal auch gut so, weil die Subjektivität eben durch die kleinen Unterschiede der Vorstellungen der Welt kommt. 
+
+
+Eine ereignisbasierte Steigerung (um einen beschreibenden Ausdruck für Arcade zu nutzen) muss nicht abstrakt sein (wenn abstrakt bedeutet, dass sie nur aus den Regeln kommt). Eher im Gegenteil: Die Charaktere haben eine Aufgabe in der Welt, durch die sie etwas dazulernen können. Wenn sie diese Aufgabe erfüllen, lernen sie dazu. Die Regeln sorgen nur dafür, dass das Lernen konkret handhabbar wird: „Ich habe es geschafft, und jetzt kann ich *das*“.
+
+Es ist in etwa das, was Earthdawn mit magischen Waffen macht: Um die Waffe zu steigern, musst du etwas über ihren Hintergrund lernen, dann kannst du ihre Fähigkeiten freischalten. Die Spielbalance wird dadurch erhalten, dass du zum Freischalten einen Faden in die Waffe webst, der dich Punkte kostet.
+
+------ 
+
+Grundlegend bringt das zu der Frage, was Steigerungs-Regeln eigentlich erreichen sollen. Ich sehe dabei: 
+
+* **Konsistenz**: Ein Modell bieten, wie Lernen in der entsprechenden Welt funktioniert, so dass die Vorstellungen der Spieler synchronisiert werden (was wieder der „Physik“ der Welt entspricht und der Welt konsistenz gibt). 
+* **Kontinuität**: Handlungen in der Spielwelt auf die Werte der Charaktere zurückwirken lassen.
+* **Spielbalance**: Das Kräftegleichgewicht zwischen den Charakteren so weit erhalten, dass niemand dem anderen die Show stiehl.
+* **Entwicklung erleben**: Uns die Chance bieten, zu erleben, wie unsere Charaktere immer stärker werden (wenn wir das wollen). Das ist der Weg zur Macht: Die Entwicklung läuft deutlich schneller als zu erwarten wäre, um sie deutlicher erlebbar zu machen - so wie auch anderes übersteigert wird, das wir als zentrales Element nutzen.
