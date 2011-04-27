@@ -2248,3 +2248,8 @@ min((Durchschlagskraft - Rüstung), Maximalschaden) · Multiplikator = Schaden
 
 Jeder X-te Schuss gibt 1 Punkt Malus, jeder Schuss gibt einen Schadensbonus (Multiplikator+Y?), pro Schuss auf dessen Schaden man verzichtet, bekommt man einen Punk Bonus.
 
+
+------
+
+Der Schrecken von Fantasy-Magie: Das was unsere Waffen an physischer Zerstörung ermöglichen, bietet sie auch im Sozialen und Psychischen.
+
