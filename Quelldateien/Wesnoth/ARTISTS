@@ -47,7 +47,7 @@ Game Data / Icons
 from data/core/attacks
 - fist-human.png/.xcf jetryl, Arne Babenhauserheide (mask)
 - dagger-thrown-human.png/.xcf jetryl, Arne Babenhauserheide (mask)
-- gaze.png            cedricd, isaac, jetryl
+- gaze.png            
 
 from data/core/items: 
 - ball-magenta.png    eleazar                                
@@ -64,6 +64,10 @@ from data/core/scenery:
 - oak-leaning.png     eleazar
 - well.png            cedricd, eleazar, shadowmaster
 
+from data/core/units
+- mage.png            Sirp ai0867 eleazar esr fmunoz isaac isaaccp ivanovic jetryl queenkiller soliton uid68803 zas
+- elder-mage.png      Sirp ai0867 eleazar esr fmunoz isaac ivanovic jetryl soliton uid68803 zas
+- ruffian-unit.png    ai0867 eleazar esr soliton
 
 Get the source-repository via: svn co svn://svn.gna.org/svn/wesnoth/trunk/data
 More artist info: svn://svn.gna.org/svn/wesnoth/trunk/data/core/images/portraits/ARTISTS
