@@ -1,0 +1,32 @@
+Für welche Runden eignet sich das EWS? 
+======================================
+
+Das EWS ist nach unserer Erfahrung nicht für jedes Spielgefühl ideal. 
+
+Sehr gut eignet es sich für lockere Runden mit relativ klar definierten Charakteren.  Durch Beruf und Hintergrund und die vollständig selbstgewählten und -definierten Fertigkeiten und Eigenschaften werden Charaktere sehr plastisch und es entsteht selten ein kritischer Mangel einer bestimmten Fähigkeit, selbst wenn sie nicht explizit auf einem Charakterblatt steht (irgendwie können die Charaktere meistens weiterkommen).  
+
+Gleichzeitig laufen Interaktionen schnell und flüssig und neigen zum grafischen Pulp-Stil.  Ein Treffer ist meist ein _richtiger_ Treffer und Sieg oder Niederlage sind meist deutlich.  Entsprechend ist es aber weniger geeignet für taktische Stellungsspiele und Runden, in denen Charaktere wenig Einfluss auf die Welt haben sollen.  Das Würfelsystem gibt dafür zu klare Ergebnisse (allerdings können [alternative Zufallssysteme (AZul)](/deutsch/module/alternative-zufalls-systeme-azul/) hier teilweise Abhilfe schaffen).  Klare Ergebnisse heißt hier: Ein Mindestwurf wird selten nur knapp erreicht (in etwa 1/6 Chance), sondern meist entweder deutlich erreicht oder deutlich verfehlt (da die möglichen Würfelergebnisse je 2 Punkte Abstand haben, um ±0 sogar 3 Punkte). 
+
+Für sehr taktische Spiele, in denen jedes kleinste Detail zählen soll, würde ich daher eher Gurps® empfehlen, da hier die Ergebnisse stärker in einen kleinen Bereich gesammelt werden (Glockenkurve) und so ein kleiner Unterschied *in dem sensitiven Bereich* um 10 mehr ausmacht und dafür in unsensitiven Bereichen viel weniger.   
+
+Für sehr spezielle Runden im Stil von Sorceror oder Universalis kann das EWS zwar angepasst werden, allerdings würde ich das nur für Runden empfehlen, für die es noch kein gutes spezialisiertes Regelwerk gibt, das euch die Arbeit abnimmt, es sei denn, es ist euch (wie mir) wichtig, ein echt freies (also [frei lizensiertes](http://lizenz.1w6.org)) Regelwerk zu nutzen.  
+
+Allerdings hat es für eine [Katzulhu-Runde](http://pihalbe.org/?q=content/katzulhu-einzelknaller) sehr gut funktioniert, und auch der Einsatz in einer Runde um Motivation in einem Alternativen England mit Technologie des 19. Jahrhunderts und einer Anti-Motivations-Kirche hat sehr gut funktioniert. 
+
+Gut eignet es sich für offene Crossover-Runden (wir spielen dann und wann in der "Stadt zwischen den Welten") und freie Fantasy-Runden ("was wolltet ihr schon immer mal spielen?"), wo es eine seiner großen Stärken ausspielen kann: Sehr plastische Charaktere ("Ich bin zu _stolz_, um zu Boden zu gehen", "Das kann ein _Wartungsroboter_ wie ich" oder "Ich bin _Jäger_. Natürlich kann ich Fallen stellen"). 
+
+Allerdings treten die Fähigkeiten leicht in den Vordergrund, weil die Effekte von Handlungen deutlich sind. 
+
+Auch hier gilt: Wenn ihr wollt, dass Unterschiede in Fähigkeiten nicht ganz so deutlich werden, oder wollt, dass sie sehr genau definiert werden müssen, nehmt eher ein System wie Gurps®.  Allerdings denke ich, dass dieser Teil nicht überbewertet werden sollte, da mit dem EWS Charaktere immernoch deutlich detaillierter beschrieben werden können als z.B. mit dem System der World of Darkness oder mit Fudge™. 
+
+Wenn ihr nun Charaktere wollt, die klare Erkennungsmerkmale haben und trotzdem wenig Schreibarbeit sind, und bereit seid, dafür auf etwas Eindeutigkeit zu verzichten (typisches Zitat: "Kann ich dafür auf 'Assassine' würfeln?" "Passt es zu deiner Vorstellung von Assassinen? Hat dein Charakter es als Assassine gelernt?"), dann passt das EWS wahrscheinlich zu eurem Spielstil. 
+
+Falls ihr bereit seid, die Fähigkeit selbst weiter auszuarbeiten (z.B. für eure Welt), könnt ihr allerdings die Eindeutigkeit zurück bekommen. Dafür müsst ihr nur definieren, was z.B. Assassinen bei euch lernen (oder z.B. was Assassinen aus der "Schule" lernen, die der Charakter besucht hat) und welche Eigenschaften zu welchen Fertigkeiten passen (also ihnen Boni geben).  Dadurch verschenkt ihr allerdings die Offenheit, durch die das EWS es ermöglicht Charaktere einzigartiger zu machen, es sei denn, ihr definiert das für jeden Charakter individuell (das gibt euch dann Eindeutigkeit und Individualität, ist aber auch die meiste Arbeit). Meist enthält spätestens nach ein paar Runden die Charaktergeschichte bereits die gleichen Informationen, so dass sich die Eindeutigkeit nach einiger Zeit automatisch ergibt ("Ah, die Art von Pilot bist du.").  
+
+Im Zweifelsfall gilt: Probiert es einfach mal aus.  
+
+Fazit: Das EWS eignet sich nach unserer Erfahrung für Runden in denen schnelle, klare Ergebnisse von Handlungen und plastische Charaktere mit klaren Erkennungsmerkmalen gewünscht sind. 
+
+Da wir es seit 2004 knapp alle zwei Wochen in unserer durchlaufenden [RaumZeit](/deutsch/welten/raumzeit/)-Kampagne ["Wächter der Zeit"](/deutsch/kampagnen/friedenszwang/) spielen, sind solche Runden recht wahrscheinlich nicht nur [Einzelknaller](http://pihalbe.org/?q=category/tags/rollenspiel/einzelknaller), auch wenn klare Charaktere vor allem bei kurzen Runden sehr praktisch sind. 
+
+Das alles gilt natürlich mit der Einschränkung, dass die Spieler mit ihrer Freiheit umgehen können und eine Antwort auf die Frage finden "Was willst du spielen?".  Durch Wahl eines [Hintergrundes](/deutsch/welten/), der ihnen dabei hilft, kannst du die Antwort allerdings leichter machen.  

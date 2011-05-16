@@ -1,0 +1,31 @@
+Flyerbücher!
+============
+
+*Die Menschen dringen mit ihren Dampf-getragenen Trekks immer weiter in die neuen Lande vor, stören das empfindliche Gleichgewicht der Magie und fahren erkleckliche Gewinne ein. Ihr könnt mit ihnen reisen, um die sichere Ankunft des Trekks von Annike Wegfinder zu ermöglichen und euren Teil vom Kuchen ergattern – oder die Neuen Lande zu einer besseren Welt für Alle zu machen.* 
+
+Alles, was ihr zum Spielen braucht, sind 2 Stunden Zeit, je ein Würfel und drei ausgedruckte Din-A4 Blätter: Regeln, Abenteuer und Charakterkarten:
+
+[![1w6 Flyerbuch: Regeln](/releases/1w6-flyerbuch-regeln-bild.png)](/releases/1w6-flyerbuch-regeln-0.1.pdf)
+[![1w6 Flyerbuch: Der Trekk](/releases/1w6-flyerbuch-trekk-bild.png)](/releases/1w6-flyerbuch-trekk-0.1.pdf)
+[![1w6 Flyerbuch: Trekk-Charakterkarten](/releases/1w6-charakterkarten-trekk-bild.png)](/releases/charakterkarten-v0.4.pdf)
+
+Die Flyerbücher eignen sich für eine improvisier-erfahrene SL und 2-6 unerfahrene bis erfahrene Spieler, dauern etwa 2 Stunden plus eine Stunde je Zusatzszenario und bieten eine Mischung aus Action und harten, moralischen Entscheidungen.
+
+<!--break-->
+
+Es ist eine Weile her, seit der letzten Neuigkeit, aber im Hintergrund wurde gebastelt und geplant, zumindest wann immer ich (neben einer jetzt fertigen Diplomarbeit, einem Baby und einer kranken Frau) und/oder [inside](/uzanto/inside/) (neben seiner Diplomtour durch die halbe Welt) Zeit freimachen konnten :)
+
+Die letzten Wochen habe ich gelegentlich an [Technophob][] geschrieben, vor allem aber daran gearbeitet, die in Kooperation mit [Taysal](http://taysal.net) entstandenen und [auf den Karlsruher Spieletagen getesteten][kasp] Flyerbücher webfertig zu machen. Zusätzlich zu den [Charakterkarten](/releases/charakterkarten-v0.4.pdf), den [Regeln](/releases/1w6-flyerbuch-regeln-0.1.pdf) und dem [Grundabenteuer „Der Trekk“](/releases/1w6-flyerbuch-trekk-0.1.pdf) gibt es drei Flyer mit Zusatzszenarien, die beliebig in das Grundabenteuer eingebunden aber natürlich auch für eigene Kampagnen genutzt werden können: 
+
+* [Der Fluss der Lieder](/releases/flyerbuch-der-fluss-der-lieder-v0.1.pdf)
+* [Gerechte Räuber und eine Steuereintreiberin](/releases/flyerbuch-der-steuern-raeuber-v0.1.pdf)
+* [Eigenes Leid](/releases/flyerbuch-trekk-eigenes-leid-v0.1.pdf)
+
+[Technophob]: http://rakjar.de/raumzeit-heft1/ "Technophob: Das erste Heft zu RaumZeit (raumzeit.1w6.org)"
+[kasp]: /blog/drak/2010-11-10-1w6-auf-den-karlsruher-spieletagen "1w6 auf den Karlsruher Spieletagen"
+
+Wie üblich sind die Quellen direkt in unserer [Versionsverwaltung](/blog/drak/2007-08-30-mercurial-das-ews-nun-mit-versionsverwaltung) zugänglich und vollständig [frei lizensiert](/deutsch/anhang/freies-rollenspiel/) (GPL), so dass ihr sie alle frei verwenden, weitergeben und anpassen könnt. Wenn ihr sie im größeren Stil weitergeben wollt, solltet ihr noch ein GPL Booklet sichtbar dazulegen: 
+
+* [![GPLv3](/bilder/gpl-v3.png) GPLv3 Booklet](/releases/GPLv3-booklet.pdf)
+
+Über Kommentare oder Spielberichte würden wir uns natürlich freuen!

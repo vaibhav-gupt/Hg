@@ -1,0 +1,134 @@
+Standardabweichung beim Würfeln (Binomialverteilung)
+====================================================
+
+Wie Unwahrscheinlich ist es, bei N Würfen n 6-er zu würfeln. 
+
+* Wahrscheinlichkeit für 6: p = 1/6 
+* Wahrscheinlichkeit für nicht-6: q = 5/6
+
+* Durchschnittliche Anzahl Ergebnisse: n_1 = p • N 
+* Standardabweichung[^1]: Δn = sqrt(N • p • q) ~ sqrt(5) • sqrt(N) / 6
+
+68% Der Ergebnisse sollten im Abstand von 1 Standardabweichung um den Durchschnitt liegen. 
+
+[^1]: Das ist die Standardabweichung der Anzahl der Ergebnisse, nicht der Wahrscheinlichkeit. 
+
+Beispiele
+---------
+
+### Wahrscheinlichkeit bei 100 Würfen 20 Sechser zu haben
+
+* Durchschnitt: 16.6666
+* Standardabweichung: sqrt(100 • 1/6 • 5/6) = 3,73
+* Abweichung: 20 - 16,6666 = 3,3334
+
+Das ist gerade etwa eine Standardabweichung, also gehört das Ergebnis zu den 68% der Normalergebnisse. 
+
+### Etwas komplexer: Wahrscheinlichkeit bei 100 Würfen zweimal drei 6-er hintereinender zu würfeln
+
+*Hintergrund: Pro (kurzer) Runde würfeln wir vielleicht 20 mal, also sind das 5 Runden; ein Abenteuer.*
+
+* Durchschnitt: n_1 = (1/6)³ * 100 = 0.46 -> Sollte in jedem zweiten Abenteuer einmal passieren. 
+* Standardabweichung: Δn = sqrt(N • p • q) = sqrt(100 • (1/6)³ • (1 - (1/6)³)) = 0,68 
+* Abweichung: 2 - 0,46 = 1,54
+
+Das sind also etwa 2,26 Standardabweichungen. 
+
+Damit ist die Wahrscheinlichkeit etwas 3%, dass das passiert. 
+
+Schon 4 Standardabweichungen sind sehr unwahrscheinlich (0,003%). Von 226 Standardabweichungen müssen wir da nicht wirklich reden - die Wahrscheinlichkeit geht exponentiell runter (3 wäre 0.135%, 2 wäre 3,275%, 1 std wäre 15,87%). 
+
+Wenn dafür aber die nächsten 3 Abenteuer keine 3 6-er fallen, passen die Wahrscheinlichkeiten wieder. 
+
+### Komplexer: Wahrscheinlichkeit bei 30000 Würfen 5 mal 5 6-er hintereinander zu würfeln
+
+*Hintergrund: 100 Würfe pro Runde, 30 Runden pro Jahr, 10 Jahre in der Runde - Gilt nur fürs EWS!*
+
+* Durchschnitt: n_1 = (1/6)⁵ * 30000 = 3,85
+* Standardabweichung: Δn = sqrt(N • p • q) = sqrt(30000 • (1/6)⁵ • (1 - (1/6)⁵)) = 1,96
+* Abweichung: 5 - 3,85 = 1,15
+
+Das ist also wieder direkt wieder in einer Standardabweichung und normal. Zehn mal wäre eine physikalisch signifikante Abweichung[^2]. 
+
+### Einen Schritt weiter: sechs 6-er hintereinander bei 30000 Würfen
+
+* Durchschnitt: n_1 = (1/6)⁶ * 30000 = 0.64
+* Standardabweichung: Δn = sqrt(N • p • q) = sqrt(30000 • (1/6)⁶ • (1 - (1/6)⁶)) = 0,8
+* Abweichung vom Durchschnitt: 0,36
+
+Das heißt, die Runde fällt erst aus der magischen 3 Standardabweichungen Grenze[^2] raus wenn in 10 Jahren etwas mehr als zweimal die Woche EWS spielen mindestens 3 mal sechs 6-er fallen. 
+
+*Bei Shadowrun gilt das nicht! Da wird deutlich häufiger gewürfelt (jeder rollende Würfel zählt - und nur hochwürfeln gilt)*
+
+[^2]: Ab da wird ein Experiment in der Physik als signifikant angesehen. 
+
+Wir hatten aber schon mehr als 5 mal 5 6-er, und wir würfeln weit weniger als 100 mal pro Runde, und ich glaube nicht, dass wir betrügen, also liegen wir schon weit im Schwanz der Verteilung. Und damit kommen wir zum Thema der Grenzen der Statistik, wenn es um Rollenspiele geht :) 
+
+### Signifikanz: Einmal im eigenen Rollenspielleben 7 Sechser würfeln
+
+Hier kommen wir an die magische Grenze von Physikern: Bei 30000 eigenen Würfen (1/5  der Runde => etwa 50 Jahre alle 2 Wochen spielen) einmal 7 Sechser zu haben. 
+
+* Durchschnitt: 0.10716735253772286
+* Standardabweichung: 0.32736366583613785
+* Abweichung: 0.89 ~ 2,72 Standardabweichungen
+
+### Signifikanz für Fimen - bei Shadowrun-Spielern. 
+
+Anders als Physiker suchen Firmen allerdings nicht nur nach seltsamen Effekten, mit denen sie die Realität prüfen wollen, sondern verlangen Sicherheiten. Im Allgemeinen nehmen sie dafür 6 Standardabweichungen. 
+
+Ich möchte hier Shadowrun als beispiel nehmen, weil dabei wirklich viele Würfel rollen. 
+
+Annahmen: 
+
+* 50 mal pro Runde würfeln, jeweils etwa 10 Würfel
+* 30 Runden im Jahr => 15000 Würfelwürfe im Jahr
+* Shadowrun gibt es seit 20 Jahren (1989[^3]) => 300000 Würfelwürfe.  
+
+Ziel: Schauen wie viele 6-er als eine deutliche Abweichung zählen (6 Standardabweichungen). Kurzes Experimentieren bringt 10.
+
+#### Wahrscheinlichkeit für 10 Sechser in einem Shadowrun-Leben
+
+* Durchschnittliche Anzahl von 10 hintereinander gewürfelten Sechsern in einem SR-Leben: 0.005
+* Standardabweichung: 0.07
+* Abweichung bei einmal 10 Sechser hintereinander (=> Mindestwurf 60!): 0.995
+
+Das entspricht 14 Standardabweichungen. Wenn ihr das also schon einmal geschafft haben solltet, habt ihr entweder belegt, dass euer Würfel sehr unbalanciert ist, dass die statistische Physik noch etwas zu lernen hat, oder dass ihr einfach Glück hattet (es gibt sehr viele Shadowrunner da draußen - bei 100.000 Spielern sollten etwa 500 das geschafft haben). 
+
+Und da ich gerade dabei bin: Nehmen wir mal optimistisch an, dass weltweit nicht 100.000, sondern eine Million Spieler Shadowrun spielen. Sollte auch nur einer von denen **17 Sechser hintereinander** gewürfelt haben, sind das schon 7 Standardabweichungen - also ein Beleg für statistisches Artefakt von Industrieller Signifikanz. 
+
+(ihr könnt das prüfen, indem ihr das hier in einen Python-Interpreter eingebt - Es gibt an, wie oft 17 Sechser bei 6 Standard-Abweichungen klappen sollten (0,816 mal): 
+
+     from __future__ import division
+     from math import sqrt
+     (sqrt((1/6)**17 * (1 - (1/6)**17) * 300000000000))*6 + (1/6)**17 * 300000000000
+)
+
+Wenn ihr also die statistische Physik in Schwierigkeiten bringen wollt, schaut euch doch mal um, ob ihr jemanden kennt, der glaubwürdig mindestens einmal in seinem Shadowrun-Leben einen Mindestwurf von 102 geknackt hat (100 reicht nicht!) :) 
+
+[^3]: http://de.wikipedia.org/wiki/Shadowrun#Entwicklung
+
+Anmerkung
+---------
+
+Was all diese schönen Wahrscheinlichkeiten nicht erklären, sind seltsame Korrellationen zwischen Handlung und Ergebnis.  Ein Mitspieler von mit hat in einem Abenteuer zweimal den Endgegner angegriffen (mit einem Wurfmesser), den er am Anfang des Abenteuers auf seine Todesliste gesetzt hatte, und er hat beide Male 5 Sechser gewürfelt. 
+
+Die Wahrscheinlichkeit, dass man einmal 5 Sechser würfelt ist nun nicht ganz so klein - 20 Würfe pro Runde und Spieler (bei uns), 30 Runden pro Jahr: 
+
+* Durchschnitt: ~0,08
+* Standardabweichung: 0,28
+
+Also bedeutet einmal das zu erreichen etwa 3,3 Standardabweichungen[^4]. 
+
+Das aber bei beiden seiner Angriffe auf den Endgegner zu erreichen (das waren die einzigen Male, dass er ihn angegriffen hat) ist schon deutlich unwahrscheinlicher - v.a. wenn man miteinbezieht, dass der Endgegner am Anfang der Runde auf die Todesliste gesetzt wurde. Dadurch müssen wir es nämlich als Einzelereignis werten (allerdings mit einem Joker drin, da einmal alle 6 ergebnisse zählen => 1/6⁹ statt 6¹⁰). Dafür kam es nur einmal im Leben vor (statt 600 nehmen wir 6000 Würfe an). 
+
+* Durchschnitt: 0,0006
+* Standardabweichung: 0,0244
+
+=> 40 Standardabweichungen. Autsch. Der Spieler kann sich sehr wohl was darauf einbilden :) 
+
+[^4]: genaue Rechnung: (1 - (1/6)**5 * 600) / (sqrt((1/6)**5 * (1 - (1/6)**5) * 600)) = 3.3224358630842956 (via Python 3)
+
+Anmerkung2
+----------
+
+Eigentlich sollten wir einiges hier mit Poisson rechnen stattt mit Gauss - ist also mit Vorsicht zu genießen!

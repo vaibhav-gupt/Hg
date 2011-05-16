@@ -1,0 +1,45 @@
+Kooperativ dramatische Steigerung (Kood)
+===========
+
+*Nur wer besiegt wird, kann aus seinen Siegen lernen.*
+
+*Nur wer seinen Freunden zum Sieg verhilft, kann selbst wahre Erfolge feiern.*
+
+Dieses Modul ermöglicht die Steigerung von Charakteren in dramatischen Szenen und fördert kooperatives dramatisieren von Szenen. 
+
+Statt dass diejenigen Charaktere Punkte zum Steigern erhalten, die Großes vollbringen, erhalten diejenigen Punkte, die die Taten erst großartig machen und dafür eigene Rückschläge in Kauf nehmen. 
+
+Ihre Punkte nutzen können allerdings nur diejenigen, die große Szenen erleben. Ihre in anderen Szenen gesammelten Punkte können sie dabei als Bonus verwenden. Sobald sie Punkte als Bonus nutzen, sagen sie automatisch an, dass sie in dieser Szene steigern wollen, so dass sie keine Punkte sammeln können. Sie können das allerdings auch ansagen, ohne Punkte auszugeben. 
+
+Zusätzlich gibt jede Handlung, die die Szene fördert, dem steigernden Charakter trotz Fehlschlag einen weiteren Punkt Bonus für eine seiner Proben. 
+
+Eine Szene ist dabei ein abgeschlossener Handlungsrahmen, wie eine Szene in einem Film. Beispiele sind ein kurzer Kampf (Kämpfe sind in 1w6 schnell vorbei), das Gespräch mit einer NSC, eine gruppeninterne Diskussion, usw. In einem Jacky Chan Film wäre jeder einzelne Kampfschauplatz eine eigene Szene, in Fairy Tail jede Szene mit abgeschlossener Gruppe von Charakteren. 
+
+Wenn einer oder mehrere angesagt haben, dass sie in einer Szene steigern wollen, können die anderen Punkte sammeln, indem sie ihren Charakter auf eine Art scheitern lassen, die die Szene spannender macht und/oder sie stärker auf die steigernden Charaktere fokussiert. Es genügt nicht, den eigenen Charakter einfach aus der Szene zu nehmen. Die Handlung muss vielmehr die Szene für mindestens einen der Spieler der steigernden Charaktere intensiver machen. Dabei entscheiden einfach die steigernden Spieler, welche Handlungen die Szene gefördert haben. 
+
+Nach der Szene kann der Spieler, der sie bestritten hat, Punkte zur Steigerung nutzen. 
+
+Der Effekt davon ist, dass wer stärker werden will, anderen bewusst das
+Rampenlicht überlassen muss (was viele bereits intuitiv tun). Außerdem wird die Steigerung stärker daran gekoppelt, was die Mitspieler toll finden. 
+
+Ablauf
+------
+
+Am Anfang jeder Runde erhält jeder Spieler einen Unterstützerpunkt, den er weitergeben kann. Idealerweise werden direkt Steine oder Hölzchen dafür verwendet. 
+
+In jeder Szene kann er sich dann entscheiden, das Rampenlicht abzutreten und den Unterstützerpunkt weiterzugeben. Der Empfänger erhält den Punkt als Bonus für eine beliebige, mit der Szene zusammenhängende Handlung. Außerdem kann er in einer späteren Szene den Unterstützerpunkt weitergeben. 
+
+Wer einen Unterstützerpunkt weitergibt, erhält außerdem einen Strich Erfahrung. 
+
+Für jeden Unterstützerpunkt, den ein Charakter erhalten hat, kann er einen seiner Striche zum Steigern nutzen. Für jeden Strich, den er zum Steigern nutzt, kann er einen weiteren Punkt Bonus nutzen. Jeder Unterstützerpunkt gibt also zwei Punkte Bonus für passende Handlungen und ermöglicht die Nutzung von einem Strich zum Steigern. 
+
+Für jeden Unterstützerpunkt, den er vergibt, erhält er einen Strich zum Steigern. 
+
+Ein Unterstützerpunkt kann nur einmal vergeben werden. Wer seinen Unterstützerpunkt des Abends vergeben hat, kann erst in der nächsten Spielrunde wieder einen vergeben. 
+
+Beispiel
+--------
+
+Fox, klar kalkulierender Pilot und Scharfschütze, legt sich in einen Hinterhalt, während sich Sskreszta und Kalem auf eine schwerbewaffnete Spezialeinheit stürzen. 
+
+Kurz darauf steht Sskreszta einem mit sonischen Klingen bewaffneten Kämpfer gegenüber. Ihr Spieler weiß, dass Fox in Deckung liegt, um eingreifen zu können, wenn er gebraucht wird. Sskreszta zieht ihren Blaster, doch ihr Spieler entscheidet sich, Fox einen Unterstützerpunkt zu geben und entscheidet, dass Sskreszta zu langsam reagiert. Die sonische Klinge zuckt vor und lässt den Blaster zerbröseln. Sskreszta springt zurück, wird getroffen und bricht nach einem weiteren Treffer zusammen. 

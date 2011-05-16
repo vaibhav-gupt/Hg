@@ -1,0 +1,74 @@
+Authors of the images 
+=====================
+
+Portraits
+---------
+
+From Wesnoth Core: 
+- Ancient Wose: thespaceinvader/Philip Barber
+- Archer female: Kitty/Kathrin Polikeit
+- Marksman female: Kitty/Kathrin Polikeit
+- Druid: Kitty/Kathrin Polikeit
+- Shaman: Kitty/Kathrin Polikeit
+- Mage-Red+Female: Kitty/Kathrin Polikeit
+- Mage-Red: Kitty/Kathrin Polikeit
+- Marshal: LordBob/Emilien Rotival
+- Merfolk Enchantress: Kitty/Kathrin Polikeit
+- Fencer: LordBob/Emilien Rotival
+- Naga Fighter: Kitty/Kathrin Polikeit
+- Mage Female: Kitty/Kathrin Polikeit
+- Mage White Female: Kitty/Kathrin Polikeit
+- Dwarven Runemaster: thespaceinvader/Philip Barber
+- Thief Female: Kitty/Kathrin Polikeit
+- Troll: Kitty/Kathrin Polikeit
+- Skirmisher: thespaceinvader/Philip Barber
+- Footpad Female: Kitty/Kathrin Polikeit
+- Ruffian: Kitty/Kathrin Polikeit
+
+Part of Campaigns: 
+- Li'sar: Jetryl/Richard Kettering, tutorial
+- Chantal-druid: Kitty/Kathrin Polikeit, Delfadors Memoirs
+- Stalrag: Jetryl/Richard Kettering, Northern Rebirth
+- Gryphon: Alex Jarocha-Ernst
+- Assassin+female: Kitty/Kathrin Polikeit
+- Glider: Alex Jarocha-Ernst
+- Mermaid Initiate: Sleepwalker/Marcus Rosén
+- Necromancer: Kitty/Kathrin
+- brawler: Kathrin Polikeit (Kitty)
+- kai_krellis: Kathrin Polikeit (Kitty)
+- kai_krellis2: Kathrin Polikeit (Kitty)
+- cylanna: Justin Nichols (JustinOperable)
+
+Game Data / Icons
+-----------------
+
+(data gleaned from `svn log`, until rev 35888)
+
+from data/core/attacks
+- fist-human.png/.xcf jetryl, Arne Babenhauserheide (mask)
+- dagger-thrown-human.png/.xcf jetryl, Arne Babenhauserheide (mask)
+- gaze.png            
+
+from data/core/items: 
+- ball-magenta.png    eleazar                                
+- brazier-lit2.png    shadowmaster                                   
+- brazier-lit3.png    shadowmaster
+- book1.png           cedricd, eleazar, jetryl
+
+from data/core/scenery: 
+- dwarven-doors-closed.png uid68803 fmunoz hogne soliton Pekka eleazar 
+- fire1.png           zookeeper eleazar
+- nest-full.png       Eleazar Sirp uid68803 
+- shipwreck-1.png     battlestar
+- tent-ruin-1.png     battlestar
+- oak-leaning.png     eleazar
+- well.png            cedricd, eleazar, shadowmaster
+
+from data/core/units
+- mage.png            Sirp ai0867 eleazar esr fmunoz isaac isaaccp ivanovic jetryl queenkiller soliton uid68803 zas
+- elder-mage.png      Sirp ai0867 eleazar esr fmunoz isaac ivanovic jetryl soliton uid68803 zas
+- ruffian-unit.png    ai0867 eleazar esr soliton
+- unit-devel-ruffian-mage-elder.png Arne_Babenhauserheide Sirp ai0867 eleazar esr fmunoz isaac isaaccp ivanovic jetryl queenkiller soliton uid68803 zas 
+
+Get the source-repository via: svn co svn://svn.gna.org/svn/wesnoth/trunk/data
+More artist info: svn://svn.gna.org/svn/wesnoth/trunk/data/core/images/portraits/ARTISTS

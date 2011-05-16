@@ -1,0 +1,200 @@
+Spezies, Kultur, Individuum (Skim)
+==================================
+
+Spezies und Kultur geben Charakteren ihre Grundwerte, von denen 
+ausgehend sie individualisiert werden. 
+
+Die Spielbalance leidet etwas, dafür steigt die Konsistenz des 
+Settings. 
+
+Wenn die SL Spezies’ und Kulturen vorgibt, kann es als effektives 
+Mittel zur Beschreibung einer Welt oder eines Hintergrundes genutzt 
+werden. Charaktere, die sich konsistent zum Hintergrund entwickeln 
+(z.B. elfische Tänzer oder zwergische Schmiede), haben es dann 
+leichter, hohe Werte zu erreichen. 
+
+Grundlagen
+----------
+
+Statt Charaktere einfach von null ab zu steigern, erhalten sie erst 
+eine Spezies und eine Kultur. 
+
+### Spezies
+
+Die Spezies wird wie ein Charakter erschaffen: Sie erhält die 
+Eigenschaften, die von der Norm abweichen, und für besondere 
+Fähigkeiten der Spezies erhält sie Merkmale.
+
+Zum Beispiel kann eine Spezies wie Orks stärker und geschickter 
+sein als andere. In dem Fall hätte sie vielleicht Stärke und 
+Geschicklichkeit auf + (15). Andere Spezies haben vielleicht das 
+Merkmal „Sonar“ (+). 
+
+Auf die Art erhält eine Spezies auch Kosten. Ein orkischer 
+Charakter würde dann zwei Dreiecke zahlen, also genau den Betrag, 
+der für die Erschaffung der Spezies nötig war. 
+
+Ein Charakter dieser Spezies wird dann wie üblich erschaffen, 
+aber die veränderten Werte der Spezies gehen als Boni und Mali ein, die 
+er bei der Steigerung nicht berückichtigen muss. Auf die Art haben 
+Eigenschaften so wie Fertigkeiten einen Grundwert und einen 
+Effektivwert. Und wie bei Fertigkeiten wird zur Berechnung der 
+Kosten einer Steigerung nur der Grundwert genutzt.[^grundwert]
+
+Jedes + gibt einen Bonus von 3, jedes - einen Malus von 3. 
+
+[^grundwert]: Eine andere Betrachtungsweise der Mechanik ist, dass 
+    die Spezies dem Charakter grundlegende Plusse und Minusse gibt, 
+    mit denen als Grundlage er steigert. Diese betrachungsweise 
+    gilt für jegliche Werte, also nicht nur Eigenschaften, sondern 
+    auch Fertigkeiten, Berufe und Merkmale. 
+
+Der spieltechnische Effekt davon ist, dass Charaktere dieser 
+Spezies steigern, als hätten sie einen niedrigeren oder höheren 
+Grundwert. 
+
+Die Spezies gibt also den Wert an, um den herum sich Vertreter der 
+Spezies unterscheiden. 
+
+#### Beispiel
+
+Die Geschicklichkeit eines orkischen Charakters (geschickter (+) 
+und schneller (+)) auf überragend zu steigern (++, 18) kostet nur 
+ein Dreieck, da der Charakter seinen Grundwert nur auf 15 steigern 
+muss und von seiner Spezies einen Bonus von drei erhält, den er 
+für die Steigerung ignorieren kann. 
+
+Ein menschlicher Charakter dagegen muss für die Steigerung auf 18 
+drei Dreiecke zahlen: eins für die Steigerung auf + (15) und zwei 
+weitere für die Steigerung auf 18 (++). 
+
+Wenn nun aber der Spieler eines Synachu (Stärke - (9)) seine 
+Eigenschaft auf 18 haben will, muss er erst ein Dreieck zahlen, 
+um auf 12 zu kommen (15 -3), dann zwei weitere für 15 (18-3) und 
+nochmal drei weitere für die Steigerung auf 18 (21-3). 
+
+Auf die Art ist es für Charaktere billiger, hohe Werte in 
+Eigenschaften zu erreichen, in denen ihre Spezies Boni gibt. 
+
+Der Ork zahlt für die Steigerung der Stärke auf 15 durch seine 
+Spezies ein Dreieck und ein weiteres für seine eigene Steigerung 
+auf 18. Der Mensch zahlt drei Dreiecke für seine Steigerung auf 18. 
+Der Synachu dagegen bekommt für die niedrige Stärke seiner Spezies 
+ein Dreieck, zahlt dann aber sechs Dreiecke für die Steigerung 
+seines effektiven Eigenschaftswertes auf 18. Für den gleichen 
+Endwert zahlt also der ork zwei Dreiecke, der Mensch drei und der 
+Synachu fünf. 
+
+### Kultur
+
+Zusätzlich zu seiner Spezies erhält der Charakter eine Kultur. 
+
+Die Kultur gibt ihm zum Einen einen Beruf (Name der Kultur, vielleicht 
+seine gesellschaftliche Stellung). Dieser Beruf repräsentiert das 
+Wissen und Können, das in der Kultur als normal angesehen wird. 
+Adlige Menschen können reiten, fast alle Ranmex können jagen, und 
+wer im heutigen Deutschland nicht lesen und fahrradfahren kann, ist 
+sehr ungewöhnlich. 
+
+Zum Anderen kann die Kultur Merkmale enthalten, die Teil der 
+Kultur sind. Reisende Sänger haben z.B. oft die Immunität des 
+Barden. 
+
+Wie auch bei Spezies gilt hier, dass der Wert der Kultur einen 
+Grundwert bietet, von dem aus der Charakter steigert. Wenn also die 
+Spezies den Beruf „Zwerg“ auf + (9) bietet, kann der zwergische 
+Spieler diesen Beruf für ein weiteres Dreieck auf ++ (12) steigern 
+oder erhält ein Dreieck, wenn er sagt dass er den Beruf nicht hat. 
+
+Manche Kulturen bieten auf Eigenschaftsboni. Diese Boni sind dann 
+kumulativ zu den Boni aus der Spezies. 
+
+Ein Orkischer Barbar (ork: Stärke +, Barbar: Stärke +) hätte also 
+für nur zwei Dreiecke Stärke auf ++ (eins für die Steigerung der 
+durchschnittsstärke von Orks und eins für die Steigerung der 
+durchschnittsstärke von Barbaren) undd könnte für gerade mal ein 
+weiteres Dreieck auf +++ kommen (21). 
+
+Eigenschaftsboni bei Kulturen sollten aus diesem Grund allerdings 
+mit Bedacht eingesetzt werden, weil sie zusammen mit der Spezies 
+leicht die Spielbalance zerstören können. 
+
+### Individuum
+
+Der individuelle Teil des Charakters wird gesteigert wie im Grundsystem, nur eben mit veränderten Grundwerten. Er gibt an, was den Charakter von anderen aus seiner Spezies und seinem Kulturkreis unterscheidet. 
+
+### Option: Weltenteil
+
+Zusätzlich zu Spezies und Kultur kann auch die Welt Grundannahmen zu den Charakteren liefern. Die müssen allerdings normalerweise nicht auf dem Charakter vermerkt werden, weil sie für alle Charaktere der Gruppe gelten. 
+
+Sie werden erst wichtig, wenn Charaktere aus unterschiedlichen Welten aufeinander treffen. 
+
+Ein Beispiel dafür ist, dass manche Charaktere eine gewisse Grundausrüstung haben, oder ein grundlegendes Verständnis von Technologie, Magie oder ähnlichem, das jede in der Welt hat. 
+
+Statt hierfür das Charakterheft zu nutzen ist es am effizientesten, die Grundannahmen einfach in der Beschreibung der Welt aufzuzeichnen. Am einfachsten kann hier wieder eine Charaktervorlage erstellt werden, als wäre sie ein wirklicher Charakter – inklusive Erschaffungskosten. 
+
+Auf die Art können Charaktere aus unterschiedlichen Welten dann auch von ihrer Stärke her verglichen werden. 
+
+Die Grenzen zwischen Kultur und Welt sind allerdings fließend. Der Hauptgrund, die Welt als eigenes zu nehmen ist, dass dadurch unnötige Beschreibungen vermieden werden. Ansonsten müssten für alle Kulturen der Welt die Modifikatoren der Welt integriert werden. Die wären aber bei jeder Kultur gleich und damit redundant. 
+
+### Beispiele
+
+#### Neschras: Aiuri-Diplomatin aus Jehlior. 
+
+##### Aiuri als Spezies
+
+* Eigenschaften
+    - \+ Bewusste Körpersprache: 15
+    - \- Konstitution: 9
+    - \- Mäßige Stärke: 9
+ 
+* Besonderheiten
+ 
+    - \+ Können gleiten
+    - \+ Ausdauerbonus von 6 beim Fliegen
+    - \+ Starke Flügel (+6)
+ 
+* Notizen
+    - Bewusste Körpersprache ermöglicht es Aiuri sehr einfach, sich in andere Gesellschaften einzufügen, da sie binnen weniger Wochen ihre gesamte Körpersprache besser anpassen können, als die meisten Menschen es in vielen Jahren tun
+
+* Kosten: 3Δ
+
+##### Kultur von Jehlior
+
+Jehlior ist ein Hort der hohen Künste. Fast jeder, der dort aufwächst, lernt künstlerischen Selbstausdruck. 
+
+* \+ Beruf: Selbstausdruck (Jehlior): 9
+* Kosten: 1Δ
+
+##### Neschras als Individuum
+
+Neschras ist eine zielstrebige und erfolgreiche Diplomatin. 
+
+Zur Erschaffung hat Neschras als angehende Heldin 7Δ. 
+
+* Spezies: Aiuri (kostet 3Δ)
+* Kultur: Jehlior (1Δ) 
+* Eigenschaften
+    - \+(+) Bewusste Körpersprache: 15 (18)
+    - (-) Konstitution: 12 (9)
+    - (-) Stärke: 12 (9)
+
+* \+(+) Beruf: Selbstausdruck (Jehlior): 9 (12)
+
+* Fertigkeiten
+    - \++ Etikette: 15 | 17  
+        Bonus aus Körpersprache
+    - \+ Historische Schlachten und Generäle: 12
+
+* Besonderheiten
+    - \+ Kann gleiten
+    - \+ Ausdauerbonus von 6 beim Fliegen
+    - \+ Starke Flügel (+6)
+    - \- Absolut intolerant gegenüber Fehlern. 
+
+* Kosten: 7Δ
+
+Neschras nutzt die angeborene Körpersprache der Aiuri (als Bonus auf Etikette) und den in Jehlior verbreiteten Selbstausdruck (als Beruf für Diplomatie). 
+
+Ohne die Boni von Spezies (Aiuri) und Kultur (Jehlior) hätte sie für die gleichen Werte 4Δ mehr zahlen müssen. 
+
