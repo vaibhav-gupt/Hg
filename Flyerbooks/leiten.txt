@@ -1,7 +1,7 @@
 ﻿# 1w6-Flyerbuch
 Wann hast du zuletzt gedacht, „jetzt könnten wir toll spielen“, aber gerade kein Abenteuer oder keine Charaktere parat gehabt? Sollte dir das wieder passieren (vielleicht gerade jetzt?), dann lass doch dieses Flyerbuch in die Bresche springen.  
 Es enthält Kurzregeln, dazu für die Spielleitung (SL) ein Grundszenario und für die Spieler vorgefertigte Charakterkarten und versiegelte Zusatzszenarien. 
-Das Flyerbuch ist ein Instant-Rollenspiel für Cons und kurze Runden und ist für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. Charakterkarten gibt es unter flyer.1w6.org
+Das Flyerbuch ist ein Instant-Rollenspiel für Cons und kurze Runden und ist für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. Charakterkarten gibt es unter flyer.1w6.org (freies pdf).
 ## Ablauf 
 Die SL liest diesen Regeltext und das Grundszenario, während die Spieler Charakterkarten tauschen und die Regeln lesen. Wenn Neulinge dabei sind, erklären die anderen ihnen kurz, was Rollenspiel bedeutet. Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen. Die SL liest die Szenarien, während die Spieler für jeden Beteiligten einen Würfel (W6) und etwas zu trinken besorgen.
 ## Regeln 
@@ -41,7 +41,7 @@ Annike überlässt die Entscheidung dem Trekk. Sie schätzt, dass die Nagelmache
 *Nachnamen nach Beruf oder Herkunftsort. 
 ###  Nicht mit uns!
 Eine Meute Katzenmenschen unter der rotscheckigen Shanari hat beschlossen, die Kolonisierung aufzuhalten, um die Stämme und Siedlungen im Landesinneren zu schützen. Sie stellen sich dem Trekk in den Weg. Shanari erklärt freundlich, dass die rasche Kolonisierung das Land ausbluten lässt. Die Siedler sollen umkehren und den Neuen Landen ihren Frieden lassen.
-Shanari sucht keinen gewaltsamen Konflikt. Hat sie keinen Erfolg, zieht sich ihre Meute zurück, um jede Nacht Karossen zu sabotieren oder Ausrüstung zu stehlen. Dadurch wird die Reise um vier Tage verzögert, und Proviant muss rationiert werden, was Streit bringt, da sich Händler weigern, essbare Waren zu teilen. Um ohne Sabotage nach Hochturm zu gelangen, müssen die Katzenmenschen regelmäßig vertrieben, eingeschüchtert oder bekämpft werden. Shanari ist allerdings keine Fanatikerin. Ihre Meute wird nach den ersten Verletzungen das Weite suchen.
+Shanari sucht keinen gewaltsamen Konflikt. Hat sie keinen Erfolg, zieht sich ihre Meute zurück, um jede Nacht Karossen zu sabotieren oder Ausrüstung zu stehlen. Dadurch wird die Reise um vier Tage verzögert und Proviant muss rationiert werden, was Streit bringt, da sich Händler weigern, essbare Waren zu teilen. Um ohne Sabotage nach Hochturm zu gelangen, müssen die Katzenmenschen regelmäßig vertrieben, eingeschüchtert oder bekämpft werden. Shanari ist allerdings keine Fanatikerin. Ihre Meute wird nach den ersten Verletzungen das Weite suchen.
 *Shanari, sanftmütige Anführerin der Meute „Ihr zerstört unser Land. Bitte kehrt um.“ | Gemütsruhe: ++, Feingefühl: + | Beruf: Schneiderin: 9, Überzeugen: 12, Auf leisen Pfoten: 9, Kratzen: 9 | Waffe: Krallen (Schaden: 2) |
 *Katzenmenschen | Gewandtheit: + | Beliebiger Beruf: 9 , Auf leisen Pfoten: 9, Kratzen: 9 | Waffe: Krallen (Schaden: 2) |
 *Namen: Eenaru, Jarven, Kaor, Njenes, Roijaar, Sjasai, Tael.
