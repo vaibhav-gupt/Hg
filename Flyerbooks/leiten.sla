@@ -125,11 +125,9 @@
             <para PARENT="Titel"/>
             <ITEXT FCOLOR="White" SCOLOR="White" CH="Wann hast du zu­letzt ge­dacht, „jetzt könn­ten wir toll spie­len“, aber ge­ra­de kein Aben­teu­er oder kei­ne Cha­rak­tere pa­rat ge­habt? Soll­te dir das wie­der pas­sie­ren (viel­leicht ge­ra­de jetzt?), dann lass doch die­ses Flyer­buch in die Bre­sche sprin­gen.  "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FCOLOR="White" SCOLOR="White" KERN="0" CH="Es ent­hält Kurz­re­geln, da­zu für die Spiel­lei­tung (SL) ein Grunds­ze­na­rio und für die Spie­ler vor­ge­fer­tig­te Cha­rak­ter­kar­ten und ver­sie­gel­te Zu­satz­sze­na­ri­en. "/>
+            <ITEXT FCOLOR="White" SCOLOR="White" KERN="0" CH="Das Flyer­buch ist ein In­stant-Rol­len­spiel für Cons und kur­ze Run­den und ist für ei­ne er­fah­re­ne SL und 2-5 an­fan­gen­de bis er­fah­re­ne Spie­ler ge­dacht. Es ent­hält Kurz­re­geln, da­zu für die Spiel­lei­tung (SL) ein Grunds­ze­na­rio und für die Spie­ler vor­ge­fer­tig­te Cha­rak­ter­kar­ten und ver­sie­gel­te Zu­satz­sze­na­ri­en. Cha­rak­ter­kar­ten und Zu­satz-Sze­na­ri­en gibt es un­ter flyer.1w6.org (frei­es PDF). "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FCOLOR="White" SCOLOR="White" KERN="0" CH="Das Flyer­buch ist ein In­stant-Rol­len­spiel für Cons und kur­ze Run­den und ist für ei­ne er­fah­re­ne SL und 2-5 an­fan­gen­de bis er­fah­re­ne Spie­ler ge­dacht. Cha­rak­ter­kar­ten gibt es un­ter flyer.1w6.org"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT FCOLOR="White" SCOLOR="White" KERN="0" CH=" Ab­lauf "/>
+            <ITEXT FCOLOR="White" CH=" Ab­lauf "/>
             <para PARENT="Untertitel"/>
             <ITEXT FCOLOR="White" SCOLOR="White" CH="Die SL liest die­sen Re­gel­text und das Grunds­ze­na­rio, wäh­rend die Spie­ler Cha­rak­ter­kar­ten tau­schen und die Re­geln le­sen. Wenn Neu­lin­ge da­bei sind, er­klä­ren die an­de­ren ih­nen kurz, was Rol­len­spiel be­deu­tet. Dann le­gen die Spie­ler die Zu­satz­sze­na­ri­en da­zu, die sie spie­len wol­len. Die SL liest die Sze­na­ri­en, wäh­rend die Spie­ler für je­den Be­tei­lig­ten einen Wür­fel (W6) und et­was zu trin­ken be­sor­gen."/>
             <para PARENT="Default Paragraph Style"/>
