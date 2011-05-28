@@ -235,6 +235,13 @@ Wir wurden auf einen weiteren Auftrag geschickt. In der Nähe dieses Stützpunkt
 
 Meine Konzentration nimmt ab, daher werde ich das Log zu einem späteren Zeitpunkt fortführen. 
 
+Piraten an den Versorgungsleitungen
+======================
+
+
+<!-- Erzählsequenzen fast nur beschreibend/erzählend, was passiert. Erinnerungssequenzen nur zeigend, was geschieht. -->
+
+
 °Mit lautlosen Schritten schleicht Sskreszta an der Seite eines Stahlcontainers entlang. Ihren Blaster auf Gesichtshöhe eines möglichen Gegners haltend nähert sie sich der Ecke. Ihre Muskeln spannen sich und ihr Zeigefinger zuckt unmerklich, während sie sich weiter voran schiebt. Dann katapultieren ihre Beine sie nach vorne, der Blaster zuckt zur Seite, ihr Blick tanzt um die Ecke und ein Lächeln umspielt ihre Lippen, als sie Fox mit gesenkter Waffe erblickt. Im nächsten Moment wirft ein Ruck an ihrem Bein sie zu Boden, aus dem Stoff ihrer Uniformhose reißen blauen Fetzen und der gesamte Kistenstapel setzt sich in Bewegung. Einige Zeit später kippt Fox die letzten Kisten herunter und Sskreszta erhebt sich wieder. Nach ein paar schweren Atemzügen lässt sie ihren Psi-Schild fallen und beginnt zu fluchen.° 
 
 Wir sind auf dem Rückweg von unserem Auftrag, und ich weiß noch nicht genau, was mit mir passiert ist, aber ich bin sicher, etwas von dem Wesen, das mich dort abgegriffen hat, ist noch immer in mir. Ich werde es herausfinden, doch jetzt, da ich dringend eine Pause von unserem Training brauche, muss dieses Log endlich fertig werden. Es ist schon zu lange unvollständig, und meine Erinnerungen verlieren bereits an Schärfe. 
@@ -250,16 +257,7 @@ Die Probleme begannen Recht bald, so dass wir zum Glück auch beschäftigt wurde
 
 Der erste Angriff kam, als die Techs dort endlich vom Feiern müde waren und wir noch einmal an der Kantine vorbeigingen.
 
-
-Piraten an den Versorgungsleitungen
-======================
-
-
-<!-- Erzählsequenzen fast nur beschreibend/erzählend, was passiert. Erinnerungssequenzen nur zeigend, was geschieht. -->
-
-
-
-Geschehnisse: 
+Weitere Geschehnisse: 
 
 Ankunft, Party von Arbeitern: Sidan (Energiewesen), Enjes (Leiter), Ines (Synarchon, Freund stirbt). 
 
