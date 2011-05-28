@@ -1,5 +1,4 @@
-[[Category:Geschichten]][[Category:Rollenspieltagebücher]]
-=[[RaumZeit:Charaktere:Sskreszta|Sskresztas]] Gedächtniskristall=
+# Gedächtniskristall
 
 Entwurfsfassungen. Werden dann auf http://draketo.de/inhalt/rollenspiel/sskreszta-log.html veröffentlicht. 
 
@@ -7,7 +6,8 @@ Unter [[SskresztaLog:Notizen]] stehen Notizen zu weiteren noch zu schreibenden E
 
 Die Fassung hier ist ein später gezeigtes Log. Andere Charaktere haben möglicherweise bereits ihre Meinungen zum Dargestellten im Text hinterlassen. 
 
-==6000 Jahre==
+6000 Jahre
+======
 
 ''Schimmernde Farben wirbeln um den unscheinbaren klaren Kristall. Dann breitet sich ein sanftes Leuchten über seine Ecken aus, das sein Inneres erhellt, bis er in sanftem weißen Licht leuchtet, in dem immer wieder farbige Schlieren tanzen.'' 
 
@@ -41,7 +41,8 @@ Auf der neuen Station, einer Forschungsstation von gerade erst entdeckten Aquati
 
 Stopp. Ich führe die Aufzeichnungen später fort. Wir haben einen alten Bunker entdeckt, in dem wir hoffen Reparaturmaterial zu finden.
 
-==Planetensturz==
+Planetensturz
+======
 
 °Blau leuchtende Völgel mit einem Gefieder aus Blitz und Donner fahren auf Sskreszta herab. Sie stößt sich von der Wand ab und zwei Schritte vorwärts bringen sie an den Rand der Stahlplattform auf der sie steht, während sie mit ihrer Linken eine elastische Plastikmaske über Gesicht und Kopf zieht. Sie stößt sich ab und einen Augenblick später taucht sie mit dem Kopf voran in ein Becken mit halbplastischer Flüssigkeit. Ein Blick nach Oben zeigt Blitze an der Oberfläche entlang zucken.°
 
@@ -92,7 +93,8 @@ Wir haben in den Resten seiner Panzerung und des Forschungsraumes zumindest die 
 
 °Die Frachtraumtür des Gleiters öffnet sich und Sskreszta und Fox treten hinein, während immer wieder winzige statische Entladungen über die Hülle des Schiffes zucken. Kurz darauf donnern die Triebwerke und der Gleiter hebt auf einem Teppich aus blauweißem Feuer ab. Der Blick auf den in der Entfernung immer kleiner werdenden Planeten offenbart ein Wolkenband, das sich über dessen Oberfläche bewegt und in dem unregelmäßig Blitz zucken.°
 
-==Stationsreste und Fundstücke==
+Stationsreste und Fundstücke
+======
 
 °Ein Vogelgesicht zeigt mit geschlossenen Augen zur Decke empor. Federn rahmen ein Gesicht ein, in dessen Mitte ein kräftiger Schnabel glänzt. Plötzlich öffnen sich die Augen und wache Intelligenz spricht aus ihnen.°
 
@@ -144,7 +146,9 @@ Niemand widerspricht einer Pilotin, wenn sie in ihren Verstärker eingeloggt ist
 
 Kalem installierte die Ersatzteile und wir werden springen können, bevor der Planet, um den die Station kreiste, endgültig explodiert. Zumindest wenn unsere Schätzungen stimmen. Ich hasse es auf ungenaue Schätzungen angewiesen zu sein.  
 
-==Zivilisation?==
+Zivilisation?
+======
+
 "Wenn du handelst, dann tu es bestimmt und ohne Zweifel. Besser eine läuft selbstbewusst in den Abgrund, als alle versagen aus Zaghaftigkeit." 
 - Sskreszta
 
@@ -204,7 +208,9 @@ Bei der nächsten Möglichkeit hole ich aus ihr heraus, was sie wirklich kann. B
 
 Fox dagegen weiß gut, wie man einen Landurlaub genießt, zumindest nachdem er die nötigen Besorgungen für sein Schiff organisiert hat, und seine Pilotenfähigkeiten lassen wenig zu wünschen übrig. 
 
-==Piraten an den Versorgungslinien==
+Piraten an den Versorgungslinien
+======
+
 "Widersprich keiner Pilotin, wenn sie in ihrem Jäger sitzt. Es ist schmerzhaft und sinnlos." 
 - Sskreszta
 
@@ -244,11 +250,85 @@ Die Probleme begannen Recht bald, so dass wir zum Glück auch beschäftigt wurde
 
 Der erste Angriff kam, als die Techs dort endlich vom Feiern müde waren und wir noch einmal an der Kantine vorbeigingen.
 
-==...==
+
+Piraten an den Versorgungsleitungen
+======================
+
 
 <!-- Erzählsequenzen fast nur beschreibend/erzählend, was passiert. Erinnerungssequenzen nur zeigend, was geschieht. -->
 
-==Ein Verlust im Subraum==
+
+
+Geschehnisse: 
+
+Ankunft, Party von Arbeitern: Sidan (Energiewesen), Enjes (Leiter), Ines (Synarchon, Freund stirbt). 
+
+> Geschichte, Stichworte: 
+
+* Station: Ankunft bei den Arbeitern, Einladung zum Essen, recht nervig. Etaros nicht mehr auf dem Schiff. 
+
+* Fox liefert den Arbeitern Spielaufzeichnungen auf dem Schiffsrechner, damit wir Ruhe bekommen. 
+
+* In der Kantine Angriff durch unsichtbare Gegner. Fox hat sie entdeckt, indem er mit dem HUD und den Schiffssensoren die Gaskonzentration im Raum überwacht hat: Ausatmen, Methankonzentration. 
+
+* Kalem hat mit den Arbeitern gesprochen. Noch zertsreuter als sie, mindestens genauso in ihre Arbeit vertieft, auf Schwebeplattform im Bauhangar. 
+
+* Wir haben ein Schott in den hinteren Teil der Station geöffnet, die von fast totalem Vakuum erfüllt war. 
+
+* Kalem hat die Gänge hinter dem versiegelten Schott durchsucht. 
+
+* Sskreszta hat Klauenspuren in der Station gefunden, als wäre etwas sehr starkes durch die Gänge nach außen geschleift worden und hätte die Klauen tief ins Metall der Gänge geschlagen. Selbst auf der Außenwand der Station noch einige Spuren, bis es wohl durch das All davon gezogen wurde. 
+
+* Weiter hinten war ein Transporter angedockt, in dem wir ein schwarzes Wesen gefunden haben, das uns angriff. Wir Immobilisierten es (Granate). Jack schnitt es mit dem Laserschwert auf. erst schien es, als würde die Klinge eingesaugt, dann brach das Wesen auf und zwei Lichter stiegen aus ihm auf. Sie flogen ins Cockpit, wo Etaros lag, und schlüpften in seinen Körper. er blieb unbewegt, und wir brachten ihn raus und in unseren Gleiter. Fox versiegelte den Gleiter. 
+
+* Kalem wurde, nachdem sie alleine weiter nach Nützlichem gesucht hatte (um Waffen bauen zu können), in ehemaligen Arbeiterquartieren in den Vakuumgängen, von unbekannten Gegnern angegriffen, die nur ein sauerstoffmundstück trugen. Die Gänge scheinen nicht so leer zu sein, wie die Stationsarbeiter hier behaupteten. 
+
+* Sie hat sich Stück für Stück ins Dock zurückgezogen. Dann hat sie den opf eines toten Gegners als Ablenkung über die Schottwand gehoben, der sofort von Schüssen zerschmettert wurde und zerplatzte. Dann schloss sich das Schott, während wir auf der anderen Seite versuchten zu öffnen. 
+
+* Wir trafen uns wieder in der Kantine. Die Arbeiter waren guter Dinge. Sie meinten, wir hätten die Feinde komplett besiegt, uns jetzt wäre ja wieder alles gut. Dann wollten sie feiern. glücklicherweise ging da der Alarm los. 
+
+* Am Schott gab es wieder Probleme. Kalem und JAck waren als erste da und metzelten einige Piraten und einen Kämpfer in leichter Kampfpanzerung nieder. 
+
+* Der Kämpfer in Kampfpanzerung wurde von Jack immobilisiert, dann warnte ihn Kalem, aufzuhören sich zu wehren und hielt ihm ihre sonische Klinge gegen das Visier. Als er nicht aufhörte, färbte sich ihre gesamte Haut schwarz, die Augen glühten rot, und sie drückte ab. 
+
+* Kurz darauf wurden wir in den Gängen der Station erneut angegriffen. Einige Piraten hatten ein schweres Gauss-Gewehr, sie hatten fast alle leichte persönliche Schutzschilde. Einen davon hat Sskreszta in ihrem Quartier. 
+
+* Dann wurde Kalem von einer Kopie ihrer selbst angegriffen. Ihre Gegner war ihr in Verhalten und Aussehen fast völlig gleich. Sskreszta hat den falschen entlarvt, indem sie Kalems Waffe und eine Sonische Klinge zwischen die beiden warf. Natürlich war Kalem an ihrer Waffe, während ihr Gegner in perfekter imitation dessen, wie sie am wahrscheinlichsten hätte reagieren müssen, nachdem sie den Gepanzerten abgeschlachtet hatte, vor dem Sonischen Schwert zurückschreckte. Wir schossen auf ihn, und als er in der Ecke lag ging Sskreszta auf ihn zu. 
+
+* Sie hielt ihm die waffen an den Kopf un kam langsam näher. Im nächsten Moment schoss sein Arm vor, riss ihr in unerwarteter Geschwindigkeit die Waffe aus der Hand, und packte sie als Geisel. Er zog sich mit Sskreszta im Schwitzkasten langsam zurück, während die anderen folgten. 
+
+* Aus dem Arm des Gegners kam eine dünne Nadel und ritzte Sskreszta am Hals. Sie wurde zum ersten Mal seit Jahren von Schrecken übermannt und bettelte um ihr Leben. 
+
+* Plötzlich rannte Fox auf die beiden zu. Die Nadel stach in ihren Hals und Sskreszta Gliedmaßen wurden schlaff. Dann wich ihr Gegner zurück, Fox schlitterte über den Boden an ihm vorbei und schoss ihm in den Rücken. 
+
+* Sskreszta kam wieder zu sich und wir deponierten den Leichnam in einer geschlossenen Kabine. 
+
+* Sskresztas Zustand verschlechtert sich plötzlich. Gliederschmerzen, Kopfschmerzen, Schwindel. Sie läuft auf den Hangar mit dem Gleiter zu, stolpert, kriecht weiter, ruft über Funk um Hilfe. 
+
+* Kalem springt in Sskresztas Jäger, loggt sich in den Psiverstärker ein (ist kompatibel, frühere Versuche schon), und lenkt es ungelenk aus dem Gleiter. Sie schrabbt über den Boden und kommt zu Sskreszta, lädt sie ein und holt sie ins Schiff. Dort heilt Kalem Sskreszta. Sskreszta hat vor und während der Heilung Visionen (Ein Höhlensystem, das sie durchwandert, Markierungen, die sie auf den Boden setzt, um sich zurechtzufidnen) und danach das Gefühl, dass etwas von dem Gift ihres Feindes zurückgeblieben ist. 
+
+* Kalem und Jack gehen erneut in die Station, während Fox' Gleiter sich nähernde Schiffe meldet. Fox kümmert sich um mehrere Gleiter, während Sskreszta (immernoch völlig fertig) mit dem Jäger um die Station fliegt und dort zwei kleine Gleiter zerstört (nachdem ein Raketentreffer ihre Schiffslaser abgesprengt hat, weicht sie den nächsten Raketen aus, fliegt zum Cockpit ihres Gegners und versucht ihn telepathisch zu übernehmen. Dann bemerkt sie, dass die Rakten ihr gefolgt sind und kommt gerade noch weg, bevor sie in das Gegnerische Schiff einschlagen). Einen Transporter, der am hinteren Teil der Station angedockt hat, macht sie flugunfähig (Triebwerke psionisch zerrissen). 
+
+* Vorne wird Fox von einem getarnten Jäger angegriffen. Sskreszta nimmt ihn psionisch war, hängt ihren Jäger an das Schiff und sagt Fox "schieß unter mich". 
+
+* Wieder auf der Station zeigt sich, dass der Gleiter sabotiert wurde. Löcher ind er Außenwand, verschlossen durch kleine Schildgeneratoren. Im Energiesystem des Gleiters gibt es seitdem eine hartnäckige Energiespitze, die auch durch massive Reparaturen nicht entfernt werden konnte. Kalem und Sskreszta fanden die SChidlgeneratoren bei einem Testd er Außenhülle (drei Generatoren, die zusammen zwischen sich einen Schild aufbauen). . 
+
+* Wir sammeln den Schiffs-Schrott ein, den die zerstörten Gegner hinterlassen haben. 
+
+* Mit Etaros in der Cryokapsel fliegen wir zurück. 
+
+* Training auf dem Rückflug, Patzer von Sskreszta, 4 5-er, bleibt beim Sprung um einen Kistenstapel an ihm hängen und er stürzt auf sie herunter. 
+
+* bringen Etaros in schwerem Kasten zurück (Schutz und Abschirmung), Spec-Ops holen ihn ab. 
+
+* Kalem in die Klinik wegen mentaler Narbe. Ist danach völlig fertig, weil sie den mentalen Schaden wieder erhält. 
+
+* Alle lassen sich mental heilen. 
+
+* Sskreszta steht an Etaros’ Bett, nimmt ihn mit raus. Dann verschwindet er wieder wegen seinen Geschäften. Die Info, dass er wieder draußen ist kommt, nachdem er schon wieder unterwegs ist. 
+
+Ein Verlust im Subraum
+======
 
 °Sskreszta schreit gequält auf. Dann sinkt sie nach vorne und ihr Kopf fällt auf die breite Brust des Vogelmannes, der quer über ihrem Pilotensitz liegt. Und trotz der schmerzverzerrten Züge liegt auf ihren Lippen ein leises Lächeln, während der Brustkorb unter ihrem Kopf sich langsam hebt und senkt.° 
 
