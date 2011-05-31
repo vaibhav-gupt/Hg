@@ -1,0 +1,9 @@
+Schwache Eigenschaften triggern (Trig)
+======================================
+
+Einleitung
+----------
+
+Mit dem Trig-Modul können Charaktere die schwachen Eigenschaften ihrer Kontrahenten triggern, um den Kontrahenten Nachteile zu geben. 
+
+Dadurch werden negative Eigenschaften relevanter. Im EWS 2.6 sind sie noch größtenteils irrelevant, also nur Punktelieferanten und Plotwerkzeug, da ein Charakter beliebeg viele Eigenschaften auf dem Durchschnittswert hat. Mit diesem Modul bekommen schwache Eigenschaften gravierende Auswirkungen. 
