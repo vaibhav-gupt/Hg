@@ -2253,3 +2253,52 @@ Jeder X-te Schuss gibt 1 Punkt Malus, jeder Schuss gibt einen Schadensbonus (Mul
 
 Der Schrecken von Fantasy-Magie: Das was unsere Waffen an physischer Zerstörung ermöglichen, bietet sie auch im Sozialen und Psychischen.
 
+
+------
+
+Schau doch mal 1w6 an, gerade da du Gurps ja schon kennst (du kannst Gurps-Regeln übernehmen), und dein Kriterienkatalog klingt zu großen Teilen wie eine Liste unserer Designziele → http://1w6.org
+
+Wir schreiben dazu gerade an einem SF Settingband: Technophob. Textentwurf: http://rakjar.de/raumzeit-heft1/
+
+1.	Kein Poolsystem (Dealbreaker) ✔
+2.	Keine Gaußkurve. 2d6 wären gerade noch okay. 3d6 wären nicht okay (Red Flag). ✔ [i](Linear für normale Würfe, Gausskurve nur bei kritischen Erfolgen/Patzern).[/i]
+3.	Nicht zu abstrakt. Präzise Waffen müssen sich von wuchtigen unterscheiden lassen. ✔ [i](Anpassung der Reichweiten wie in den [url=http://1w6.org/deutsch/regeln/downloads/flyerbuecher]Flyerbüchern[/url] oder die [url=http://1w6.org/forum/allgemeines/1w6-40k/2011-04-20-regeln-f-r-waffen-und-r-stungen-451]Planung Waffenmodul[/url])[/i]
+4.	Der Kampf soll Spaß machen. Ich will kein Laberspiel. Ich will Action. ✔ [i][url=http://1w6.org/deutsch/regeln/hintergr-nde/f-r-welche-runden-eignet-sich-das-ews]Für welche Runden?[/url][/i]
+5.	Keine Klassen, aber Unterstützung von Spezialisierungen. ✔
+6.	Klassische Regeln. Kein Artsy-Fartsy-Erzählspiel oder komische Schadensregelungen mit Shaken-Mechanismen. ✔
+7.	Simpler Mechanismus, elegante Regeln. Muss auch für Neueinsteiger in das Hobby verständlich sein. ✔ (siehe Flyerbücher)
+8.	Charaktererstellung möglich in unter 5 Minuten ✔ (wenn du weißt, was du willst)
+9.	Heroisches Spiel muss möglich sein, ohne ins Lächerliche abzudriften. ✔ [i](aktuell in zwei Kampagnen: [url=http://1w6.org/deutsch/kampagnen/die-hoehlen-der-woelfe]Die Höhlen der Wölfe[/url] (Fantasy) und [url=http://1w6.org/deutsch/kampagnen/friedenszwang]Wächter der Zeit[/url] (Die Welt von Technophob, aber anderes Setting)[/i]
+10.	Halbwegs ausgewogen bitte. ✔
+11.	Klare Regeln für die Attributswerte. ✔ [i](12 ist durchschnitt, 18 überragend, 24 legendär)[/i]
+12.	Magieregeln (oder Psi oder irgendwas). Sonst Dealbreaker. ✔ [i](Übernimm Regeln aus Gurps; sie werden durch die andere Würfelmechanik heroischer. Wir nutzen einfach Gurps PSI)[/i]
+13.	Aber: keine freie Magie. ✔ ([i]Gurps: Lass die freie Magie weg :))[/i]
+14.	Wenn schon Universalsystem, dann aber bitte mit Material. ½ [i](Kompatibel mit Gurps und Fudge/FATE → du kannst direkt übernehmen; das Technophob-Setting ist was Crunch angeht noch recht knapp)[/i]
+
+Außerdem ist es frei lizensiert, so dass du es direkt anpassen und so zu einem für dich perfekten System machen kannst und darfst.
+
+[quote][b]Was ich schon probiert habe:[/b]
+1.	Cinematic Unisystem. Nahe an der Perfektion. Leider totaler Schadensmurks. Man weiß schon vor dem Kampf, wer gewinnt. Ein Umbau wird fast zu einem neuen System. Schade. 
+2.	nWod. Gutes System, aber viel, viel zu abstrakt und mit viel, viel zu vielen Würfeln. Bäh.
+3.	Omni. 
+4.	Warhammer 40K.
+5.	Dreampark (gar nicht mal so schlecht)
+6.	Cortex
+7.	BESM
+8.	Savage Worlds
+9.	Fate
+10.	D20
+11.	Space Gothic.
+12.	D6
+13.	Rolemaster / Spacemaster
+14.	GURPS
+15.	HERO
+16.	Fuzion
+17.	Alternity
+18.	Liquid
+19.	Fading Suns
+20.	Risus
+[/quote]
+
+Respekt. Eine Erklärung zu den Stärken und Schwächen der einzelnen Systeme für deinen Spielstil wäre cool!
+
