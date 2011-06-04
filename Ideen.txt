@@ -2302,3 +2302,22 @@ Außerdem ist es frei lizensiert, so dass du es direkt anpassen und so zu einem 
 
 Respekt. Eine Erklärung zu den Stärken und Schwächen der einzelnen Systeme für deinen Spielstil wäre cool!
 
+------
+
+### Schadenspuffer (inspiriert von GIK: http://tanelorn.net/index.php/topic,6319.0.html )
+
+Wenn ein Charakter Schaden nimmt, gehen die erstmal von seiner inneren Stärke (oder etwas ähnlichem) ab. Sobald die innere Stärke aufgebraucht ist, gehen sie voll auf seine Trefferpunkte oder Ausdauer. Solange der Charakter noch innere Stärke hat, nimmt er keinen echten Schaden sondern kann sich noch im letzten Moment wegdrehen oder die Muskeln anspannen, usw.
+
+Eine Wunde auf innere Stärke verursacht auch einen echten Punkt Schaden. eine kritische Wunde verursacht eine normale Wunde. 
+
+Solange der Charakter noch mindestens einen Punkt innere Stärke hat, geht ein Treffer nicht direkt in den Schaden, sondern reduziert nur die innere Stärke auf 0.
+
+Verunsicherung, psychologische Angriffe und Beleidigungen, die richtig weh tun, verursachen genauso Schaden auf innere Stärke wie physische Treffer, aber keinen echen Schaden. 
+
+Manche Waffen und/oder besonders fiese Angriffe können direkt echten Schaden verursachen. 
+
+Innere Stärke regeneriert sich nach einem Kampf sehr schnell wieder. Schon eine kurze Kampfpause gibt einen Punkt zurück. Nach ein paar Minuten ist sie wieder voll da (Wundschwelle Punkte pro Minute, also 3 Minuten wenn sie völlig aufgebraucht waren).
+
+Ermutigende Worte und ein Ansprechen der für den Charakter wichtigsten Grundwerte (Mut, Kampf für seine Familie, Kampf für die Gruppe…) können die innere Stärke regenerieren. Kleineres („gib nicht auf!“) gibt einen Punkt (der nächste Treffer geht nicht direkt in den Schaden), größeres gibt eine Wundschwelle zurück (die Freunde sind in Lebensgefahr).
+
+
