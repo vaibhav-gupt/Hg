@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1258673828
-ModificationTime: 1281444133
+ModificationTime: 1307750507
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -62,7 +62,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 100 50 20
+WinInfo: 0 50 20
 BeginPrivate: 8
 BlueValues 23 [-13 0 466 478 700 711]
 OtherBlues 11 [-217 -217]
@@ -73,7 +73,7 @@ StemSnapH 7 [51 61]
 StemSnapV 7 [61 69]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65541 239
+BeginChars: 65541 240
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -4553,7 +4553,7 @@ EndChar
 StartChar: colon
 Encoding: 58 58 161
 Width: 162
-Flags: HMWO
+Flags: HMW
 HStem: -13 98<67 95.5> 380 98<67 95.5>
 VStem: 30 102<22.5 49.5 415.5 442.5>
 LayerCount: 2
@@ -5965,7 +5965,7 @@ EndChar
 
 StartChar: mu
 Encoding: 181 181 216
-AltUni2: 0003bc.ffffffff.0
+AltUni2: 0003bc.ffffffff.0 0003bc.ffffffff.0
 Width: 457
 Flags: MW
 HStem: -217 21G<50 110 50 50> -11 56<185 235 173.5 237.5> 0 21G<358 407 358 358> 446 20G<50 110 110 110 346 407 407 407>
@@ -6415,7 +6415,7 @@ EndChar
 StartChar: adieresis
 Encoding: 228 228 232
 Width: 443
-Flags: HWO
+Flags: HW
 HStem: -5 51<115.992 256.068> 220 49<165.981 332> 421 51<110.164 295.257> 565 98<43.7539 128.51 299.754 384.51>
 VStem: 35 102<574.057 653.943> 35 61<64.6711 170.839> 291 102<574.057 653.943> 332 61<109.271 220 269 383.706> 344 49<0 69.3588>
 LayerCount: 2
@@ -6456,7 +6456,7 @@ EndChar
 StartChar: odieresis
 Encoding: 246 246 233
 Width: 477
-Flags: HWO
+Flags: HW
 HStem: -11 53<163.103 314.503> 425 63<169.601 313.009> 565 98<38.7539 123.51 353.754 438.51>
 VStem: 30 102<574.057 653.943> 30 63<122.19 340.424> 345 102<574.057 653.943> 384 63<122.19 342.416>
 LayerCount: 2
@@ -6483,7 +6483,7 @@ SplineSet
  167 425 93 364 93 233 c 0
  93 103 156 42 237 42 c 0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: udieresis
@@ -6525,7 +6525,7 @@ EndChar
 StartChar: germandbls
 Encoding: 223 223 235
 Width: 435
-Flags: HWO
+Flags: HW
 HStem: 0 21G<104 164 104 104> 413 53<20 104 20 104 257 283> 661 50<215 253>
 VStem: 104 60<0 413 413 413 466 554>
 LayerCount: 2
@@ -6558,7 +6558,7 @@ SplineSet
  314 714 356 616 358.5 575.5 c 1
 358.5 575.5 m 25
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: Adieresis
@@ -6661,6 +6661,27 @@ SplineSet
  534 700 l 1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: Delta
+Encoding: 916 916 239
+Width: 502
+Flags: HW
+HStem: 460 21G<0 66 0 0 284 350 284 284> 680 20G<150 200 200 200>
+LayerCount: 2
+Fore
+SplineSet
+0 0.796875 m 1
+ 501.375 0.796875 l 1
+ 501.375 0.796875 l 1
+ 286.5 457.547 l 1
+ 214.875 457.547 l 1
+ 0 0.796875 l 1
+91.4902 58.1768 m 5
+ 251.324 398.97 l 5
+ 407.415 58.1768 l 5
+ 91.4902 58.1768 l 5
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
