@@ -794,6 +794,6 @@ An dieser Stelle: Danke!
 
 Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt.
 
-<fuss>Grafiken: Das Logo, der Echsenmensch mit Keule und die Echsenfrau im Lendenschurtz stammen von Trudy Wenzel, der zwergische Runenmeister wurde von Philipp Barber gezeichnet, die restlichen Portraits sind von Kathrin Polikeit und die Symbole kommen aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org). Falls du Lust hast, für das EWS eigene Bilder zu zeichnen, dann schreib uns bitte!
+<fuss>Grafiken: Das Logo, der Drache, der Echsenmensch mit Keule und die Echsenfrau im Lendenschurtz stammen von Trudy Wenzel, der zwergische Runenmeister wurde von Philipp Barber gezeichnet, die restlichen Portraits sind von Kathrin Polikeit und die Symbole kommen aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org). Falls du Lust hast, für das EWS eigene Bilder zu zeichnen, dann schreib uns bitte!
 
 <fuss>PS: Vom Autor empfohlen ab 14 Jahren.
