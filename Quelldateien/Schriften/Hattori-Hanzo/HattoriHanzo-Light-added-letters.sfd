@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1258673828
-ModificationTime: 1307750507
+ModificationTime: 1307751143
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -73,7 +73,7 @@ StemSnapH 7 [51 61]
 StemSnapV 7 [61 69]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65541 240
+BeginChars: 65541 241
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -5965,7 +5965,7 @@ EndChar
 
 StartChar: mu
 Encoding: 181 181 216
-AltUni2: 0003bc.ffffffff.0 0003bc.ffffffff.0
+AltUni2: 0003bc.ffffffff.0 0003bc.ffffffff.0 0003bc.ffffffff.0
 Width: 457
 Flags: MW
 HStem: -217 21G<50 110 50 50> -11 56<185 235 173.5 237.5> 0 21G<358 407 358 358> 446 20G<50 110 110 110 346 407 407 407>
@@ -6681,6 +6681,23 @@ SplineSet
  251.324 398.97 l 5
  407.415 58.1768 l 5
  91.4902 58.1768 l 5
+EndSplineSet
+EndChar
+
+StartChar: acute
+Encoding: 180 180 240
+Width: 214
+Flags: HWO
+HStem: 460 21G<0 66 0 0 284 350 284 284> 680 20G<150 200 200 200>
+LayerCount: 2
+Fore
+SplineSet
+175 635 m 1
+ 66 460 l 1
+ 0 460 l 1
+ 150 700 l 1
+ 214 700 l 1
+ 175 635 l 1
 EndSplineSet
 EndChar
 EndChars
