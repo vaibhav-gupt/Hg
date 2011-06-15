@@ -4,22 +4,22 @@ Soziale Fertigkeiten nutzen
 *Soziale Wettstreite würfeln, um vom Verlierer Tipps zu bekommen.*
 
 Bei sozialen Proben wie Überreden oder Flirten ergeben sich oft Konflikte zwischen dem Ausspielen und den Werten des Charakters. Wenn Charaktere trotzdem soziale Fertigkeiten haben sollen, brauchen wir einen Weg, diese Fertigkeiten nützlich zu machen, ohne das Ausspielen zu (zer-)stören.
-
+<!--break-->
 ## Das Problem
 
-Grundlegend sind viele Spieler am Spieltisch, um in die Rolle ihrer Charaktere zu schlüpfen, so dass sie gerade soziale Konfrontationen ausspielen wollen - vor allem die Zwischen Spielern - und zumindest bei mir hinterlässt der Einsatz von sozialen Fertigkeiten gegen andere Spielercharaktere meist einen schalen Beigeschmack. 
+Grundlegend sind viele Spieler am Spieltisch, um in die Rolle ihrer Charaktere zu schlüpfen, so dass sie gerade soziale Konfrontationen ausspielen wollen - vor allem die zwischen Spielern - und zumindest bei mir hinterlässt der Einsatz von sozialen Fertigkeiten gegen andere Spielercharaktere meist einen schalen Beigeschmack. 
 
-> „Wir gehen nach Norden“ – „Nein, wir gehen nach Süden“ – „Mein Charakter überredet deinen… wir gehen nach Norden“. 
+> *„Wir gehen nach Norden“ – „Nein, wir gehen nach Süden“ – „Mein Charakter überredet deinen… wir gehen nach Norden“.* 
 
 Auf die Art greifen plötzlich Fertigkeiten der Charaktere in die Handlungen der Spieler ein, ohne eine passende Erklärung zu liefern. Noch schlimmer wird das, wenn NSCs gegen SCs würfeln. 
 
-> „Und ihr macht den Auftrag doch, egal wie unlogisch er klingt. Der Alte Mann hat nämlich Überreden 21.“
+> *„Und ihr macht den Auftrag doch, egal wie unlogisch er klingt. Der Alte Mann hat nämlich Überreden 21.“*
 
 Sowas verursacht mir fast schon physische Übelkeit. 
 
-Andererseits werden soziale Fertigkeiten völlig wertlos, wenn die Charaktere sie nicht nutzen können. Der Kreiger kann sagen „Wenn du nicht mitkommst, prügel ich dir das Schwert über die Rübe“, aber der Wortgewandte Barde kann gar nichts, wenn sein Spieler nicht selbst wirklich gut reden kann. 
+Andererseits werden soziale Fertigkeiten völlig wertlos, wenn die Charaktere sie nicht nutzen können. Der Krieger kann sagen *„Wenn du nicht mitkommst, prügel ich dir das Schwert über die Rübe“*, aber der Wortgewandte Barde kann gar nichts, wenn sein Spieler nicht selbst wirklich gut reden kann. 
 
-Daher sollten soziale Fertigkeiten sinnvoll nutzbar sein; ansonsten können wir sie einfach aus dem Spiel nehmen, denn sie wären nur nutzlose Punktefresser, ohne sinnvolle Vorteile zu bringen. 
+Daher sollten soziale Fertigkeiten sinnvoll nutzbar sein; ansonsten könnten wir sie einfach aus dem Spiel nehmen, denn sie wären nur nutzlose Punktefresser, ohne sinnvolle Vorteile zu bringen. 
 
 ## Verbreitete, aber unbefriedigende Ansätze
 
@@ -31,11 +31,11 @@ Allen diesen Ansätzen ist gemein, dass sie es nicht schaffen, soziale Fertigkei
 
 Statt also zu würfeln, um direkt ein Ergebnis zu bekommen, haben wir einen anderen Weg gefunden: Es wird gewürfelt, um als Spieler Tipps zu bekommen. 
 
-Eine Kampfprobe dient dazu, die Werte von anderen Charakteren zu verändern. Ihr Ziel sind die Kampfwerte. Eine soziale Probe dagegen dient dazu, das Verhalten des Gegenübers zu verändern. Ihr Ziel ist die Darstellungsebene: Die Ebene, auf der wir selbst Spielen. 
+Als Begründung: Eine Kampfprobe dient dazu, die Werte von anderen Charakteren zu verändern. Ihr Ziel sind die Kampfwerte. Eine soziale Probe dagegen dient dazu, das Verhalten des Gegenübers zu verändern. Ihr Ziel ist die Darstellungsebene: Die Ebene, auf der wir selbst Spielen. 
 
 Statt nun den Spielern Vorschriften zu machen, wie sie zu spielen haben, können die Spieler mit sozialen Proben versuchen, über die Charakterebene an Informationen zu kommen, die ihnen bei der Diskussion am Spieltisch helfen. Praktisch gesehen bedeutet eine Probe dann, dass der „Angreifende“ Spieler seinem Gegenüber sagt: 
 
-> „Wenn ich den Wettstreit gewinne, gibst du mir Tipps, wie mein Charakter deinen überzeugen könnte. Wenn ich verliere, gebe ich dir Tipps.“
+> *„Wenn ich den Wettstreit gewinne, gibst du mir Tipps, wie mein Charakter deinen überzeugen könnte. Wenn ich verliere, gebe ich dir Tipps.“*
 
 Die Tipps kann er danach versuchen zu nutzen oder auch ignorieren – das ist dann allein seine Entscheidung. Sie geben ihm aber (je nachdem, wie deutlich er gewinnt) die Möglichkeiten in die Hand, die Diskussion für sich zu entscheiden.
 
@@ -43,7 +43,7 @@ Das eignet sich vor allem dann, wenn der Spieler eines Charakters mit hohen sozi
 
 Um das nochmal konkret zu sagen: Statt dass man den anderen zwingt, zu verlieren oder schon verloren zu haben, zwingt man ihn, einem Tipps zu geben, wie man gegen ihn verlieren kann. Ähnlich wie wenn man beim Go mit einer Überzahl an Figuren anfängt. Auf die Art bleiben die rhetorischen Fähigkeiten der Spieler wichtig, aber es werden je nach Ergebnis des Wettstreites zwischen den Charakteren Handicaps für die Spieler vergeben :)
 
-Bei sozialen Konflikten, die nicht ausgespielt werden, kann wie üblich ein normaler Wettstreit gewürfelt werden, der festlegt wie der Konflikt ausgeht. Da das trivial ist („damit gewinne ich. Wie könnte ich dich überzeugt haben?“ – „naja, auf Geld springt mein Charakter immer an, und wenn du es ganz hart machen willst, kannst du mit der ‚ich habe damals deinen Bruder gerettet‘-Masche kommen, aber das wird nicht ewig klappen“ – „OK, dann hab ich dich mit letzterem Überzeugt“), kümmern wir uns nicht weiter um den Fall :)
+Bei sozialen Konflikten, die nicht ausgespielt werden, kann wie üblich ein normaler Wettstreit gewürfelt werden, der festlegt wie der Konflikt ausgeht. Da das trivial ist (*„damit gewinne ich. Wie könnte ich dich überzeugt haben?“* – *„naja, auf Geld springt mein Charakter immer an, und wenn du es ganz hart machen willst, kannst du mit der ‚ich habe damals deinen Bruder gerettet‘-Masche kommen, aber das wird nicht ewig klappen“* – *„OK, dann hab ich dich mit letzterem Überzeugt“*), kümmern wir uns nicht weiter um den Fall :)
 
 ## Die Spielpraxis
 
@@ -51,13 +51,16 @@ Praktisch gesehen, kann ein Spieler jederzeit sagen, dass er seine sozialen Fert
 
 Der Gewinner der Probe kann von seinem Gegner Tipps für die Darstellung verlangen. Je nachdem, wie gut er gewinnt, können die Tipps verschieden tief gehen: 
 
-* Gewinnt er die Probe mit einer geringeren Differenz als einem Drittel einer passenden sozialen Eigenschaft des Gegners (unter des „sozialen Wundschwelle“), kann er einen Tipp verlangen, der ihm jetzt gerade die Oberhand gibt oder ihm hilft aus einer Sackgasse in der Konfrontation rauszukommen. hat der Gegner keine passende Eigenschaft, dann ist die „Soziale Wundschwelle“ 4 - genau wie die physische. *Beispiele wären „natürlich ist nicht völlig sicher, dass wir das Geld bekommen, auch wenn der Händler vertrauenswürdig wirkt - damit kannst du mich in die Enge treiben“, „ich argumentiere grade unfair emotionalisierend. Wenn du das ansprichst, kannst du mein aktuelles Argument recht leicht zurückdrängen“ oder „Ich mag echte Gentlemen. Wenn du mir meinen Mantel abnimmst, hast du schonmal einen dicken Stein im Brett“.*
+* Gewinnt er die Probe mit einer geringeren Differenz als einem Drittel einer passenden sozialen Eigenschaft des Gegners (unter des „sozialen Wundschwelle“), kann er einen Tipp verlangen, der ihm jetzt gerade die Oberhand gibt oder ihm hilft aus einer Sackgasse in der Konfrontation rauszukommen. hat der Gegner keine passende Eigenschaft, dann ist die „Soziale Wundschwelle“ 4 - genau wie die physische.  
+*Beispiele wären „natürlich ist nicht völlig sicher, dass wir das Geld bekommen, auch wenn der Händler vertrauenswürdig wirkt - damit kannst du mich in die Enge treiben“, „ich argumentiere grade unfair emotionalisierend. Wenn du das ansprichst, kannst du mein aktuelles Argument recht leicht zurückdrängen“ oder „Ich mag echte Gentlemen. Wenn du mir meinen Mantel abnimmst, hast du schonmal einen dicken Stein im Brett“.*
 
-* Erreicht er eine Differenz von mindestens einem Drittel der passenden sozialen Eigenschaft aber weniger als deren vollem Wert, dann kann er einen Tipp verlangen, mit dem er die Konfrontation relativ einfach gewinnen kann, wenn er ihn geschickt nutzt. Es können z.B. Knöpfe sein, die der andere drücken kann. *Beispiele wären: „Sprich einfach unsere Freundschaft an, damit kriegst du mich, wenn du nichts völlig amoralisches verlangst“, „Wenn wir deinen Weg gehen, können wir verdammt viel Geld bekommen. Wenn du darauf aufbaust, kriegst du mich bei meiner Geldgier“, „In der aktuellen Diskussion hast du kaum eine Chance, aber brich es ab, dann werde ich schon angekrochen kommen“ oder „Ich mag direkte Frauen. Sag mir, dass du mich willst und zeig etwas nackte Haut, und du hast mich“.*
+* Erreicht er eine Differenz von mindestens einem Drittel der passenden sozialen Eigenschaft aber weniger als deren vollem Wert, dann kann er einen Tipp verlangen, mit dem er die Konfrontation relativ einfach gewinnen kann, wenn er ihn geschickt nutzt. Es können z.B. Knöpfe sein, die der andere drücken kann.  
+*Beispiele wären: „Sprich einfach unsere Freundschaft an, damit kriegst du mich, wenn du nichts völlig amoralisches verlangst“, „Wenn wir deinen Weg gehen, können wir verdammt viel Geld bekommen. Wenn du darauf aufbaust, kriegst du mich bei meiner Geldgier“, „In der aktuellen Diskussion hast du kaum eine Chance, aber brich es ab, dann werde ich schon angekrochen kommen“ oder „Ich mag direkte Frauen. Sag mir, dass du mich willst und zeig etwas nackte Haut, und du hast mich“.*
 
-* Gewinnt er kritisch, also mit einer Differenz, die mindestens dem vollen Wert der passenden Eigenschaft entspricht („Kritische soziale Wundschwelle“, falls er keine passende Eigenschaft hat, beträgt sie 12), dann kann er einen Tipp verlangen, mit dem er die aktuelle Situation sicher für sich entscheiden kann, und wenn er es geschickt anstellt noch Vorteile einstreichen kann. Das sind die grundlegenden Lücken in Argumentationen oder die grundlegenden Schwachstellen des Charakters. Falls dem Verlierer nicht direkt was einfällt, kann die Gruppe sich gemeinsam (offplay) überlegen, welche Möglichkeiten es gäbe. *Beispiele wären: „Wenn du mich wirklich betören willst, brauchst du Rosen; und Schmuck aus meiner Heimat. Und du musst höflich sein, sonst hast du von Anfang an verloren“, „Auf dem Tisch des Händlers steht eine kleine Heiligenfigur. Sie ist sehr abgenutzt, wird also offensichtlich viel verwendet, und er blickt in jedem unbeobachteten Moment zu ihr. Wenn du dich ihm als Glaubensbruder in Not präsentieren kannst, wird er dir seine Waren vielleicht sogar gratis geben - aber lass dich dann bloß nicht erwischen“ oder „Irrationale Aggression. Damit konnte ich noch nie umgehen. Wenn du aggressiv wirst und rumbrüllst oder direkte Befehle gibst, sag ich bei fast allem zu und such dann auch noch den Fehler bei mir“.*
+* Gewinnt er kritisch, also mit einer Differenz, die mindestens dem vollen Wert der passenden Eigenschaft entspricht („Kritische soziale Wundschwelle“, falls er keine passende Eigenschaft hat, beträgt sie 12), dann kann er einen Tipp verlangen, mit dem er die aktuelle Situation sicher für sich entscheiden kann, und wenn er es geschickt anstellt noch Vorteile einstreichen kann. Das sind die grundlegenden Lücken in Argumentationen oder die grundlegenden Schwachstellen des Charakters. Falls dem Verlierer nicht direkt was einfällt, kann die Gruppe sich gemeinsam (offplay) überlegen, welche Möglichkeiten es gäbe.  
+*Beispiele wären: „Wenn du mich wirklich betören willst, brauchst du Rosen; und Schmuck aus meiner Heimat. Und du musst höflich sein, sonst hast du von Anfang an verloren“, „Auf dem Tisch des Händlers steht eine kleine Heiligenfigur. Sie ist sehr abgenutzt, wird also offensichtlich viel verwendet, und er blickt in jedem unbeobachteten Moment zu ihr. Wenn du dich ihm als Glaubensbruder in Not präsentieren kannst, wird er dir seine Waren vielleicht sogar gratis geben - aber lass dich dann bloß nicht erwischen“ oder „Irrationale Aggression. Damit konnte ich noch nie umgehen. Wenn du aggressiv wirst und rumbrüllst oder direkte Befehle gibst, sag ich bei fast allem zu und such dann auch noch den Fehler bei mir“.*
 
-Prinzipiell können andere Spieler dem Verlierer helfen, die Tipps zu finden. In einigen Fällen, kann die Suche nach einem Ansatzpunkt für den Gewinner zu einer regelrechten Gruppenaktivität werden – vor allem, wenn er kritisch gewonnen hat. 
+Prinzipiell können andere Spieler dem Verlierer natürlich auch in den ersten beiden Fällen helfen, die Tipps zu finden. In einigen Fällen, kann die Suche nach einem Ansatzpunkt für den Gewinner zu einer regelrechten Gruppenaktivität werden – vor allem, wenn er kritisch gewonnen hat. 
 
 ## Fazit
 
