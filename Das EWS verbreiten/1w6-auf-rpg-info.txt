@@ -23,11 +23,13 @@ Frei wähl- und definierbare Berufe liefern eine große Zahl an verwandten Ferti
 
 Gewürfelt wird dann mit dem ±W6, bei dem gerade Ergebnisse zum Wert der Eigenschaft oder Fertigkeit addiert und ungerade abgezogen werden. Danach wird geprüft, ob entweder ein Mindestwurf, oder das Ergebnis eines Gegners erreicht oder übertroffen wurde.
 
+
 ### Neuerungen
 
 Gegenüber früheren Regelsystemen unterscheidet sich das 1w6-System vor allem durch die nutzung des ±W6, der mit einem einzelnen Würfelwurf eine um 0.5 zentrierte Wahrscheinlichkeitsverteilung erzeugt, und durch die Lizensierung aller Materialien unter der GPLv3 or later.
 
 Zusätzlich ermöglicht es die direkte Einbindung von Materialien aus [[GURPS]] und [[FUDGE]].
+
 
 ### Der ±W6
 
@@ -40,6 +42,7 @@ Dadurch bewirkt er eine lineare Verteilung der Ergebnisse auf die Zahlen -5, -3,
 Durch seine Verteilung können mit einem ±W6 Wurf auf einen gegebenen Grundwert nur bestimmte Zielwerte direkt erreicht werden, und bei der Erhöhung eines Charakter-Wertes verändern sich nur die Wahrscheinlichkeiten für das Erreichen bestimmter Zielwerte, so dass bei der Charaktersteigerung jeder einzelne Punkt, um den gesteigert wird, deutliche Effekte auf zwei der möglichen Mindestwürfe hat, die anderen jedoch unberührt lässt.
 
 Auf die Art wird auch bei moderater Entwicklungsgeschwindigkeit der Charaktere jede Steigerung für Spieler spürbar.
+
 
 ## Welten
 
@@ -55,8 +58,14 @@ Durch die Nutzung der GPL ermöglicht das Ein Würfel System es Weltenbastlern, 
 
 Die Entwickler erhoffen sich, dass dadurch Stück für Stück eine immer größere Basis an frei nutzbaren Regeln entsteht und so die Arbeit verringert wird, die nötig ist, um eine eigene Welt als Rollenspiel zu veröffentlichen, da auf diese Art die Vielfalt im Rollenspielbereich leichter steigen kann.
 
+
 ## Weblinks
 
 * Hauptseite: http://1w6.org
 * Beschreibung für Projekt Odyssee: http://1w6.org/deutsch/anhang/anmeldung-fuer-projekt-odyssee
+
+
+## Referenzen
+
 * Rezension des EWS im Envoyer 2008-11
+* Das Regelwerk der 1w6 Flyerbücher wurde im Begleitheft der Karlsruher Spieletage 2010 des Rollen- und Brettspielvereins Thoule e.V.  abgedruckt.
