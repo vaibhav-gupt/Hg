@@ -12,6 +12,7 @@ Durch völlig freie Wahl der Eigenschaften, Fertigkeiten und Merkmale von Charak
 
 Als Zufallssystem wird nur ein einzelner, 6-seitiger Würfel genutzt: Der ±W6.
 
+
 ## System
 
 Das Grundregelwerk enthält eine minimale Basis, mit der sowohl One-Shots als auch lange Kampagnen gespielt werden können, die aber nur die grundlegendsten Regeln enthält, so dass die gesamten Regeln in ein schlankes 48-seitiges DinA5 Heft passen.
@@ -22,6 +23,23 @@ Frei wähl- und definierbare Berufe liefern eine große Zahl an verwandten Ferti
 
 Gewürfelt wird dann mit dem ±W6, bei dem gerade Ergebnisse zum Wert der Eigenschaft oder Fertigkeit addiert und ungerade abgezogen werden. Danach wird geprüft, ob entweder ein Mindestwurf, oder das Ergebnis eines Gegners erreicht oder übertroffen wurde.
 
+### Neuerungen
+
+Gegenüber früheren Regelsystemen unterscheidet sich das 1w6-System vor allem durch die nutzung des ±W6, der mit einem einzelnen Würfelwurf eine um 0.5 zentrierte Wahrscheinlichkeitsverteilung erzeugt, und durch die Lizensierung aller Materialien unter der GPLv3 or later.
+
+Zusätzlich ermöglicht es die direkte Einbindung von Materialien aus [[GURPS]] und [[FUDGE]].
+
+### Der ±W6
+
+Der ±W6 (plusminus W6) ist eine Abwandlung des gewöhnlichen W6 (Würfel).
+
+Er ist ein normaler sechsseitiger Würfel, bei dem die ungeraden Zahlen als negative Werte interpretiert werden, so dass eine um 0,5 zentrierte Verteilung entsteht.
+
+Dadurch bewirkt er eine lineare Verteilung der Ergebnisse auf die Zahlen -5, -3, -1, 2, 4 und 6. Die Differenz zwischen dem höchsten und dem niedrigsten Wert beträgt damit 11 Punkte.
+
+Durch seine Verteilung können mit einem ±W6 Wurf auf einen gegebenen Grundwert nur bestimmte Zielwerte direkt erreicht werden, und bei der Erhöhung eines Charakter-Wertes verändern sich nur die Wahrscheinlichkeiten für das Erreichen bestimmter Zielwerte, so dass bei der Charaktersteigerung jeder einzelne Punkt, um den gesteigert wird, deutliche Effekte auf zwei der möglichen Mindestwürfe hat, die anderen jedoch unberührt lässt.
+
+Auf die Art wird auch bei moderater Entwicklungsgeschwindigkeit der Charaktere jede Steigerung für Spieler spürbar.
 
 ## Welten
 
@@ -30,12 +48,15 @@ Aktuell gibt es drei Welten, die das EWS verwenden, zwei davon sind aktiv:
 * RaumZeit, High Science Fiction: http://raumzeit.1w6.org
 * Erynnia, Fantasy: http://erynnia.de
 
+
 ## Lizensierung
 
-Durch die Nutzung der GPL ermöglicht das Ein Würfel System es Weltenbastlern, direkt die Texte des Regelwerks zu nutzen, solange sie wiederum ihre Beiträge zu dem Regelbereich freigeben. Damit arbeitet die Lizenz als auf den Regelbereich beschränkte copyleft Lizenz.
+Durch die Nutzung der GPL ermöglicht das Ein Würfel System es Weltenbastlern, direkt die Texte des Regelwerks zu nutzen, solange sie wiederum ihre Beiträge freigeben.
 
-Die Entwickler erhoffen sich, dass dadurch Stück für Stück eine immer größere Basis an frei nutzbaren Regeln entsteht und so die Arbeit verringert wird, die nötig ist, um eine eigene Welt als Rollenspiel zu veröffentlichen, da auf diese Art die Vielfalt im Rollenspielbereich leichter steigen kann. Da draußen gibt viele tolle Welten, die bisher keine Rollenspiele wurden, zum Teil, weil ihre Erfinder keine Regelbastler waren. Diese Welten sollten Rollenspiele werden.
-Weblinks
+Die Entwickler erhoffen sich, dass dadurch Stück für Stück eine immer größere Basis an frei nutzbaren Regeln entsteht und so die Arbeit verringert wird, die nötig ist, um eine eigene Welt als Rollenspiel zu veröffentlichen, da auf diese Art die Vielfalt im Rollenspielbereich leichter steigen kann.
+
+## Weblinks
 
 * Hauptseite: http://1w6.org
 * Beschreibung für Projekt Odyssee: http://1w6.org/deutsch/anhang/anmeldung-fuer-projekt-odyssee
+* Rezension des EWS im Envoyer 2008-11
