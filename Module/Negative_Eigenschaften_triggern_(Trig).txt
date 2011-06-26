@@ -6,7 +6,7 @@ Einleitung
 
 Mit dem Trig-Modul können Charaktere die schwachen Eigenschaften ihrer Kontrahenten triggern, um den Kontrahenten Nachteile zu geben. 
 
-Dadurch werden negative Eigenschaften relevanter. Im EWS 2.6 sind sie noch größtenteils irrelevant, also nur Punktelieferanten und Plotwerkzeug, da ein Charakter beliebeg viele Eigenschaften auf dem Durchschnittswert hat. Mit diesem Modul bekommen schwache Eigenschaften gravierende Auswirkungen. 
+Dadurch werden negative Eigenschaften relevanter. Im EWS 2.4 sind sie noch größtenteils irrelevant, also nur Punktelieferanten und Plotwerkzeug, da ein Charakter beliebeg viele Eigenschaften auf dem Durchschnittswert hat. Mit diesem Modul bekommen schwache Eigenschaften gravierende Auswirkungen. 
 
 Grundlagen
 ----------
@@ -46,6 +46,12 @@ Passend bedeutet, dass der triggernde Charakter erklären kann, wie er damit die
 Statt einer Probe auf die Eigenschaften können die Beteiligten auch Wettstreite mit der Eigenschaft würfeln. Dadurch wird der Kampf mit Triggern langwieriger, allerdings hat der Spieler mit der schwachen Eigenschaft eine Möglichkeit, sich direkt gegen den Rhythmus zu wehren, was befriedigender sein kann. 
 
 Allerdings ist das teilweise verschwendete Würfelzeit. Wettstreite machen meist nur dann Sinn, wenn etwas in beide Richtungen erreicht werden kann.
+
+### Option: Wunden triggern
+
+Statt nur niedrige Eigenschaften zu triggern, können auch Wunden getriggert werden: Jede Eigenschaft, auf die ein Char eine Wunde hat, kann wie eine negative Eigenschaft getriggert werden. Pro Wunde bekommt der Char dann einen Malus von 3. 
+
+(mit triggerbaren Wunden nimmt EWS 3.0 mit Schaden auf jegliche Eigenschaft endlich Form an: Nimm keine Eigenschaft als Schadenseigenschaft, die viele deiner Fertigkeiten stützt)
 
 Beispiel
 --------
