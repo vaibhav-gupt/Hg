@@ -57,7 +57,7 @@ Statt nur niedrige Eigenschaften zu triggern, können auch Wunden getriggert wer
 
 Sie wird automatisch getriggert, wenn der andere sie in seiner Fertigkeit nutzt und kann bewusst getriggert werden.
 
-Dafür geben Wunden keine automatischen Mali mehr.
+Dafür geben Wunden keine automatischen Mali mehr auf alles. Siereduzieren nur noch den Eigenschaftswert durch ihren Schaden.
 
 (durch triggerbare Wunden nimmt EWS 3.0 mit Schaden auf jegliche Eigenschaft endlich Form an: Nimm keine Eigenschaft als Schadenseigenschaft, die viele deiner Fertigkeiten stützt oder von vielen anderen für Fertigkeiten genutzt wird, sonst werden Wunden zu oft getriggert)
 
