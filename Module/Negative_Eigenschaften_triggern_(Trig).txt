@@ -1,6 +1,8 @@
 Schwache Eigenschaften triggern (Trig)
 ======================================
 
+<img src="/files/oracle3.png" alt="Oracle3" align="left" style="float: left" width=200 height=200 />[^wesnoth-oracle3]
+
 Einleitung
 ----------
 
@@ -10,6 +12,9 @@ Dadurch werden negative Eigenschaften relevanter. Im EWS 2.4 bewirken sie noch r
 
 Mit diesem Modul bekommen schwache Eigenschaften gravierende Auswirkungen.
 
+[^wesnoth-oracle3]: Das Bild Oracle3 wurde von Kathrin Polikeit für [Battle for Wesnoth](http://wesnoth.org) gezeichnet.
+<!--break-->
+
 Grundlagen
 ----------
 
@@ -17,19 +22,27 @@ Eigenschaften, die niedriger sind als der Durchschnittswert der Eigenschaften de
 
 Anschaulich bedeutet es, dass der Gegner einen Charakter in einen Rhythmus drängen kann, der ihn zwingt, seine schwache Eigenschaft zu nutzen, was ihm gravierende Nachteile bringt.
 
-Nutzt der Gegner bei dem Wettstreit eine passende Eigenschaft für Boni (also z.B. eine Fertigkeit mit Boni aus Stärke gegen jemanden mit Scwacher Stärke oder Reaktion gegen Schnelligkeit) bekommt ein Charakter mit der entsprechenden schwachen Eigenschaft während des Wettstreites automatisch einen **Malus von 3 Punkten pro Minus**, das er in seiner Eigenschaft hat. Die Eigenschaft wird also automatisch getriggert. Im Wettstreit wird also am Anfang geschaut, ob eine der zwei Eigenschaften, die dem Gegner Boni auf seine Fertigkeit geben, zu einer schwachen Eigenschaft des Charakters passt. Bei den meisten NSCs dürfte es genügen zu schauen, ob eine ihrer wichtigen Eigenschaften zu der Schwäche passt.
+### Triggern technisch
+
+Nutzt der Gegner bei dem Wettstreit eine passende Eigenschaft für Boni (also z.B. eine Fertigkeit mit Boni aus Stärke gegen jemanden mit Schwacher Stärke oder Reaktion gegen Schnelligkeit) bekommt ein Charakter mit der entsprechenden schwachen Eigenschaft während des Wettstreites automatisch einen **Malus von 3 Punkten pro Minus**, das er in seiner Eigenschaft hat. Die Eigenschaft wird also automatisch getriggert. Im Wettstreit wird also am Anfang geschaut, ob eine der zwei Eigenschaften, die dem Gegner Boni auf seine Fertigkeit geben, zu einer schwachen Eigenschaft des Charakters passt. Bei den meisten NSCs dürfte es genügen zu schauen, ob eine ihrer wichtigen Eigenschaften zu der Schwäche passt.
 
 Wenn ein Gegner eine schwache Eigenschaft des Charakters kennt und eine passende, nicht schwache Eigenschaft hat – also eine passende Eigenschaft, die kein - hat, also einen Wert von 12 oder mehr besitzt – dann kann er eine fordernde Probe (12) mit seiner Eigenschaft würfeln, um die schwache Eigenschaft aktiv zu triggern. Gelingt die Probe, dann erhält der Charakter mit der schwachen Eigenschaft 3 Punkte Malus pro - der Eigenschaft. Misslingt die Probe, dann erhält der Gegner für eine Runde selbst 3 Punkte Malus.
 
-Dieses Triggern bedeutet ein gezieltes Ändern des Rhythmusses des Wettstreites. Es hat keine relevante Dauer und kann zu jeder Zeit genutzt werden. Der Malus für die schwache Eigenschaft kann dabei nicht doppelt gegeben werden und eine eutomatisch getriggerte Eigenschaft kann nicht noch zusätzbics manuell getriggert werden. Der Malus für misslungene Triggerversuche addiert sich dagegen sehr wohl (wenn der Gegner mehrfach in einer einzelnen Runde versucht, den Rhytmus zu ändern, es aber nicht schafft).
+Dieses Triggern bedeutet ein gezieltes Ändern des Rhythmusses des Wettstreites. Es hat keine relevante Dauer und kann zu jeder Zeit genutzt werden. Der Malus für die schwache Eigenschaft kann dabei nicht doppelt gegeben werden und eine automatisch getriggerte Eigenschaft kann nicht noch zusätzlich manuell getriggert werden. Der Malus für misslungene Triggerversuche addiert sich dagegen sehr wohl (wenn der Gegner mehrfach in einer einzelnen Runde versucht, den Rhythmus zu ändern, es aber nicht schafft).
+
+Gute Beschreibungen und glaubhafte Begründungen können bei dem Versuch, den Rhythmus zu ändern, jeweils bis zu 3 Punkten Bonus geben.
+
+### Rückgängig machen
 
 Wurde eine schwache Eigenschaft gezielt getriggert, kann der Charakter mit der schwachen Eigenschaft das Triggern wieder rückgängig machen und so die Mali loswerden, wenn er eine fordernde Probe (12) mit seiner schwache Eigenschaft besteht. Misslingt die Probe, dann erhält er für die Runde zusätzliche 3 Punkte Malus. Gelingt sie, dann kann er den Rhythmus wieder ändern und sein Malus durch die schwache Eigenschaft fällt weg.
 
 Ein Rhythmus hält dabei immer mindestens eine Runde. Wenn er etabliert wurde, kann er erst in der nächsten Kampfrunde wieder geändert werden. Er fällt automatisch weg, wenn sich die Situation gravierend ändert.
 
+### Jegliche Proben
+
 Schwache Eigenschaften können auch für Proben Mali geben. Wenn ein Charakter versucht, einen anderen bei einer Probe zu schwächen, kann er versuchen, ihn dazu zu zwingen, seine Schwäche zu nutzen. Wenn es von des Situation her logisch ist, gibt es den Malus. Im Zweifel können Wettstreite zwischen einer passenden Fertigkeit oder Eigenschaft und der schwachen Eigenschaft nötig werden.
 
-Gute Beschreibungen und glaubhafte Begründungen können bei dem Versuch, den Rhythmus zu ändern, jeweils bis zu 3 Punkten Bonus geben.
+### Mehrere Beteiligte
 
 In einem Kampf mit mehr als zwei Beteiligten würfeln alle (die den Rhythmus festlegen wollen) und derjenige mit dem höchsten Ergebnis (Wert ± W6) kann den Rhythmus festlegen und so eine Eigenschaft wählen, die Mali geben kann.
 
@@ -76,7 +89,7 @@ Kirissi würfelt auf Schnelligkeit (15), erhält eine 3 und kommt damit auf 12 (
 
 Sie kämpfen eine Runde und Tarden wird getroffen.
 
-In der nächsten Runde versucht Tarden, den Rhythmus wieder zu ändern, obwohl seine Chancen normalerweise gerade mal 1 zu 3 stehen. Er beschreibt, wie er Säulen und Stuhlreihen nutzt, um Kirissi auf Abstand zu halten und bekommt für passende Nutzung der Umgebung und schöne Beschreibung zusammen 3 Punkte Bonus. Dann würfelt er die forderne Probe, kommt mit einer 1 aber nur auf 11 und schafft es damit nicht, den Rhythmus zu ändern (er hätte 12 gebraucht). Dadurch erhält er diese Runde 3 weitere Punkte Malus.
+In der nächsten Runde versucht Tarden, den Rhythmus wieder zu ändern, obwohl seine Chancen normalerweise gerade mal 1 zu 3 stehen. Er beschreibt, wie er Säulen und Stuhlreihen nutzt, um Kirissi auf Abstand zu halten und bekommt für passende Nutzung der Umgebung und schöne Beschreibung zusammen 3 Punkte Bonus. Dann würfelt er die fordernde Probe, kommt mit einer 1 aber nur auf 11 und schafft es damit nicht, den Rhythmus zu ändern (er hätte 12 gebraucht). Dadurch erhält er diese Runde 3 weitere Punkte Malus.
 
 Bei Kirissis nächstem Angriff wird er schwer verwundet.
 
