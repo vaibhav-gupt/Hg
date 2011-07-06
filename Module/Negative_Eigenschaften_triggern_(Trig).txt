@@ -15,17 +15,17 @@ Grundlagen
 
 Eigenschaften, die niedriger sind als der Durchschnittswert der Eigenschaften des Charakters, die also ein oder mehrere - haben, können von einem Gegner in einem Wettstreit getriggert werden.
 
-Anschaulich bedeutet es, dass sein Gegner einen Charakter in einen Rhythmus drängen kann, der ihn zwingt, seine schwache Eigenschaft zu nutzen, was ihm gravierende Nachteile bringt.
+Anschaulich bedeutet es, dass der Gegner einen Charakter in einen Rhythmus drängen kann, der ihn zwingt, seine schwache Eigenschaft zu nutzen, was ihm gravierende Nachteile bringt.
 
-Nutzt der Gegner bei dem Wettstreit eine passende Eigenschaft (also z.B. Stärke gegen Stärke oder Reaktion gegen Schnelligkeit) bekommt ein Charakter mit einer schwachen Eigenschaft während des Wettstreites automatisch einen Malus von 3 Punkten pro Minus, das er in seiner Eigenschaft hat. Die Eigenschaft wird also automatisch getriggert. Im Wettstreit wird also am Anfang geschaut, ob eine der zwei Eigenschaften, die dem Gegner Boni auf seine Fertigkeit geben, zu einer schwachen Eigenschaft des Charakters passt. Bei den meisten NSCs dürfte es genügen zu schauen, ob eine ihrer wichtigen Eigenschaften zu der Schwäche passt.
+Nutzt der Gegner bei dem Wettstreit eine passende Eigenschaft für Boni (also z.B. eine Fertigkeit mit Boni aus Stärke gegen jemanden mit Scwacher Stärke oder Reaktion gegen Schnelligkeit) bekommt ein Charakter mit der entsprechenden schwachen Eigenschaft während des Wettstreites automatisch einen **Malus von 3 Punkten pro Minus**, das er in seiner Eigenschaft hat. Die Eigenschaft wird also automatisch getriggert. Im Wettstreit wird also am Anfang geschaut, ob eine der zwei Eigenschaften, die dem Gegner Boni auf seine Fertigkeit geben, zu einer schwachen Eigenschaft des Charakters passt. Bei den meisten NSCs dürfte es genügen zu schauen, ob eine ihrer wichtigen Eigenschaften zu der Schwäche passt.
 
-Wenn ein Gegner eine schwache Eigenschaft des Charakters kennt und eine passende, nicht schwache Eigenschaft hat – also eine passende Eigenschaft, die kein - hat, die also einen Wert von 12 oder mehr besitzt – dann kann er eine fordernde Probe (12) mit seiner Eigenschaft würfeln, um die schwache Eigenschaft zu triggern. Gelingt die Probe, dann erhält der Charakter mit der schwachen Eigenschaft 3 Punkte Malus pro - der Eigenschaft. Misslingt die Probe, dann erhält der Gegner für eine Runde selbst 3 Punkte Malus.
+Wenn ein Gegner eine schwache Eigenschaft des Charakters kennt und eine passende, nicht schwache Eigenschaft hat – also eine passende Eigenschaft, die kein - hat, also einen Wert von 12 oder mehr besitzt – dann kann er eine fordernde Probe (12) mit seiner Eigenschaft würfeln, um die schwache Eigenschaft aktiv zu triggern. Gelingt die Probe, dann erhält der Charakter mit der schwachen Eigenschaft 3 Punkte Malus pro - der Eigenschaft. Misslingt die Probe, dann erhält der Gegner für eine Runde selbst 3 Punkte Malus.
 
-Dieses Triggern bedeutet ein gezieltes Ändern des Rhythmusses des Wettstreites. Es hat keine relevante Dauer und kann zu jeder Zeit genutzt werden. Der Malus für die schwache Eigenschaft kann dabei nicht doppelt gegeben werden. Der Malus für misslungene Triggerversuche dagegen sehr wohl (wenn der Gegner mehrfach in einer einzelnen Runde versucht, den Rhytmus zu ändern, es aber nicht schafft).
+Dieses Triggern bedeutet ein gezieltes Ändern des Rhythmusses des Wettstreites. Es hat keine relevante Dauer und kann zu jeder Zeit genutzt werden. Der Malus für die schwache Eigenschaft kann dabei nicht doppelt gegeben werden und eine eutomatisch getriggerte Eigenschaft kann nicht noch zusätzbics manuell getriggert werden. Der Malus für misslungene Triggerversuche addiert sich dagegen sehr wohl (wenn der Gegner mehrfach in einer einzelnen Runde versucht, den Rhytmus zu ändern, es aber nicht schafft).
 
 Wurde eine schwache Eigenschaft gezielt getriggert, kann der Charakter mit der schwachen Eigenschaft das Triggern wieder rückgängig machen und so die Mali loswerden, wenn er eine fordernde Probe (12) mit seiner schwache Eigenschaft besteht. Misslingt die Probe, dann erhält er für die Runde zusätzliche 3 Punkte Malus. Gelingt sie, dann kann er den Rhythmus wieder ändern und sein Malus durch die schwache Eigenschaft fällt weg.
 
-Ein Rhythmus hält dabei immer mindestens eine Runde. Wenn er etabliert wurde, kann er erst in der nächsten Kampfrunde wieder geändert werden.
+Ein Rhythmus hält dabei immer mindestens eine Runde. Wenn er etabliert wurde, kann er erst in der nächsten Kampfrunde wieder geändert werden. Er fällt automatisch weg, wenn sich die Situation gravierend ändert.
 
 Schwache Eigenschaften können auch für Proben Mali geben. Wenn ein Charakter versucht, einen anderen bei einer Probe zu schwächen, kann er versuchen, ihn dazu zu zwingen, seine Schwäche zu nutzen. Wenn es von des Situation her logisch ist, gibt es den Malus. Im Zweifel können Wettstreite zwischen einer passenden Fertigkeit oder Eigenschaft und der schwachen Eigenschaft nötig werden.
 
@@ -57,7 +57,7 @@ Statt nur niedrige Eigenschaften zu triggern, können auch Wunden getriggert wer
 
 Sie wird automatisch getriggert, wenn der andere sie in seiner Fertigkeit nutzt und kann bewusst getriggert werden.
 
-Dafür geben Wunden keine automatischen Mali mehr auf alles. Siereduzieren nur noch den Eigenschaftswert durch ihren Schaden.
+Dafür geben Wunden keine automatischen Mali mehr auf alles. Sie reduzieren nur noch den Eigenschaftswert durch ihren Schaden.
 
 (durch triggerbare Wunden nimmt EWS 3.0 mit Schaden auf jegliche Eigenschaft endlich Form an: Nimm keine Eigenschaft als Schadenseigenschaft, die viele deiner Fertigkeiten stützt oder von vielen anderen für Fertigkeiten genutzt wird, sonst werden Wunden zu oft getriggert)
 
