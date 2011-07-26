@@ -2319,3 +2319,9 @@ Manche Waffen und/oder besonders fiese Angriffe können direkt echten Schaden ve
 Innere Stärke regeneriert sich nach einem Kampf sehr schnell wieder. Schon eine kurze Kampfpause gibt einen Punkt zurück. Nach ein paar Minuten ist sie wieder voll da (Wundschwelle Punkte pro Minute, also 3 Minuten wenn sie völlig aufgebraucht waren).
 
 Ermutigende Worte und ein Ansprechen der für den Charakter wichtigsten Grundwerte (Mut, Kampf für seine Familie, Kampf für die Gruppe…) können die innere Stärke regenerieren. Kleineres („gib nicht auf!“) gibt einen Punkt (der nächste Treffer geht nicht direkt in den Schaden), größeres gibt eine Wundschwelle zurück (die Freunde sind in Lebensgefahr).
+
+-----
+
+### Resonanz des Benutzers in Neuronalen Interfaces
+
+Es gibt Gerüchte, dass neuronale Interfaces nach langjähriger Benutzung …Echo, Tote im Netz, ganze Geisterschiffe, System streitet alles ab, Schiffe mit gestorbener Crew gereinigt werden, Abbild dessen, was die Crew im Schiff gesehen hat.
