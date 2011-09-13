@@ -22,7 +22,9 @@ def binom(p, n, k):
    return nük(n, k) * p** k * (1-p)**(n-k)
 
 def spielfähig(p, n, min_spieler): 
-   return sum([binom(p, n, k) for k in range(min_spieler, n+1)])
+   try: 
+      return sum([binom(p, n, k) for k in range(min_spieler, n+1)])
+   except ValueError: return 1.0
 
 if __name__ == "__main__":
     from sys import argv
