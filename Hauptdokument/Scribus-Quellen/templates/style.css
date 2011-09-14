@@ -1,30 +1,5 @@
-@font-face {
-    font-family: Fanwood;
-    src: url(Fanwood.otf) format("opentype");
-}
-
-/* @font-face { */
-/*     font-family: HattoriHanzo; */
-/*     src: url(HattoriHanzo.ttf) format("truetype"); */
-/* } */
-
-@font-face {
-    font-family: GoudyStMM;
-    src: url(GoudyStM.otf) format("opentype");
-}
-
-/* @font-face { */
-/*     font-family: GoudyBookletter1911; */
-/*     src: url(GoudyBookletter1911.otf) format("opentype"); */
-/* } */
-
 body {
     font-size: larger;
-    font-family: Fanwood;/*GoudyBookletter1911;*/
-}
-
-h1, h2, h3, h4, h5, h6 header {
-    font-family: GoudyStMM;
 }
 
 body>aside {
@@ -381,4 +356,34 @@ ul.downloadLinks > li
 
 fuss {
     font-size: small;
+}
+
+/* Fonts at the end, so browsers which don’t support them can at least parse till here.*/
+
+@font-face {
+    font-family: Fanwood;
+    src: url(Fanwood.otf) format("opentype");
+}
+
+/* @font-face { */
+/*     font-family: HattoriHanzo; */
+/*     src: url(HattoriHanzo.ttf) format("truetype"); */
+/* } */
+
+@font-face {
+    font-family: GoudyStMM;
+    src: url(GoudyStM.otf) format("opentype");
+}
+
+/* @font-face { */
+/*     font-family: GoudyBookletter1911; */
+/*     src: url(GoudyBookletter1911.otf) format("opentype"); */
+/* } */
+
+body {
+    font-family: Fanwood;/*GoudyBookletter1911;*/
+}
+
+h1, h2, h3, h4, h5, h6 header {
+    font-family: GoudyStMM;
 }
