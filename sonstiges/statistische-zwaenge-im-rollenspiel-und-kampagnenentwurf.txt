@@ -1,7 +1,7 @@
 Statistische Zwänge im Rollenspiel- und Kampagnendesign
 =======================================================
 
-*Ein Spiel für durchschnittliche Gruppen muss (1) entweder mit 2 oder mit 9 Beteiligten spielbar sein, und (2) fehlende Leute verkraften.*
+*Ein Spiel für durchschnittliche Gruppen muss (1) entweder mit 2 oder mit 8 Beteiligten gut spielbar sein, und (2) fehlende Leute verkraften.*
 
 <!--auch die SL könnte fehlen → Spiel muss auf SL-Wechsel eingestellt sein.-->
 
@@ -432,7 +432,9 @@ Solange die Leute höchstens 6× im Jahr fehlen (also alle 2 Monate), und auch g
 Lassen wir sogar 2 fehlende zu, ist die Spielfähigkeit selbst dann bis 7 Teilnehmer gegeben, wenn jeder einmal pro Monat ausfällt, und bei verlässlicheren Leuten ist sie fast sicher:
 
 
-## Wahrscheinlichkeit, dass höchstens zwei fehlen[^99]
+## Wahrscheinlichkeit, dass höchstens zwei fehlen
+
+*99,9 Prozent werden hier als 99% geschrieben, um nicht den falschen Eindruck zu erwecken, die Spielfähigkeit sei zu 100% gesichert.*
 
 <table>
 <tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr>
@@ -444,8 +446,6 @@ Lassen wir sogar 2 fehlende zu, ist die Spielfähigkeit selbst dann bis 7 Teilne
 <tr><td>9 (≥7 da)</td><td>99%</td><td>99%</td><td>99%</td><td>89%</td><td>60%</td></tr>
 </table>
 
-[^99]: 99,9 Prozent werden hier als 99% geschrieben, um nicht den falschen Eindruck zu erwecken, die Spielfähigkeit sei zu 100% gesichtert.
-
 Wenn wir also wie ⅔ der Tanelorn-Nutzer eine Runde mit mehr als einem Ausfallenden Termin pro 4 Abenden für untragbar halten, funktioniert schon eine Runde mit 3 Beteiligten, bei denen immer alle da sein müssen, nur dann, wenn alle höchstens 4 Fehltermine im Jahr haben, also höchstens einmal alle 3 Monate ausfallen, inklusive aller Krankheitszeiten — oder eben mit Einzelterminen ohne Regelmäßigkeit. Schon Runden mit 4 Beteiligten brauchen extrem disziplinierte Mitspieler, wenn sie nur mit voller Besetzung spielen wollen.
 
 Wenn sie eigentlich 5 Leute sind, die 6× im Jahr nicht können und spielen, sobald 4 Zeit haben, fällt nur noch eine von 10 Runden aus. Schon bei nur 3 Spielern und SL als Mindestmaß muss die Runde also akzeptieren, dass immer mal jemand fehlt — und braucht dadurch eigentlich 5 Teilnehmer. Und damit ist (2) bereits gezeigt: Schon bei nur 3 Teilnehmern (SL + 2 Spielerinnen) kann eine Runde bei mehr als 4 Fehlterminen im Jahr nicht mehr jedes Wochenende klappen, ohne Stress zu verursachen, weil eine Runde im Monat ausfällt. Eigentlich muss also jedes System und jede Kampagne damit klar kommen, wenn Spieler fehlen.
@@ -454,11 +454,17 @@ Daher bereiten wir jetzt nur noch Daten für Punkt (1) vor: Wenn wir wollen, das
 
 ## Maximale frustfreie Gruppengröße
 
-*(Gruppe / min. Anwesend) bei höchstens dem Ausfall einer Runde pro Monat (75%) oder pro 2 Monate (88%) ofer 2 pro Jahr (96%).*
+*(Gruppe / min. Anwesend) bei höchstens dem Ausfall einer Runde pro Monat (75%) oder pro 2 Monate (88%) oder 2 pro Jahr (96%). Fett ist jeweils die Gruppe mit den wenigsten Fehlenden, aber mindestens 3 Beteiligten.*
 
 <table>
-<tr><th>Ausfallwahrscheinlichkeit</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr>
-<tr><td>1/Monat: 75%     </td><td>&gt;12&/gt;12     </td><td>7/7, &gt;12/&gt;11</td><td>3/3, 12/11        </td><td>8/7, &gt;12/&gt;10</td><td>3/2, 7/5, 10/7</td></tr>
-<tr><td>1 / 2 Monate: 88%</td><td>6/6, &gt;12/&gt;11</td><td>3/3, &gt;12/&gt;11</td><td>7/6, &gt;12/&gt;10</td><td>5/4, 10/8         </td><td>5/3, 8/5, 11/7</td></tr>
-<tr><td>2 / Jahr: 96%    </td><td>2/2, &gt;12/&gt;11</td><td>8/7, &gt;12/&gt;10</td><td>4/3, 9/7          </td><td>3/2, 6/4, 11/8    </td><td>6/3, 8/4</td></tr>
+<tr><th>Spielwahrscheinlichkeit</th><th>Jeder fehlt 1×/J 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr>
+<tr><td>75% (1/Monat fällt aus)</td><td><strong>&gt;12/&gt;12</strong>     </td><td><strong>7/7</strong>, &gt;12/&gt;11</td><td><strong>3/3</strong>, 12/11        </td><td><strong>8/7</strong>, &gt;12/&gt;10</td><td>3/2, <strong>7/5</strong>, 10/7</td></tr>
+<tr><td>88% (1/2M fällt aus)   </td><td><strong>6/6</strong>, &gt;12/&gt;11</td><td><strong>3/3</strong>, &gt;12/&gt;11</td><td><strong>7/6</strong>, &gt;12/&gt;10</td><td><strong>5/4</strong>, 10/8         </td><td><strong>5/3</strong>, 8/5, 11/7</td></tr>
+<tr><td>96% (2/Jahr fällt aus) </td><td>2/2, <strong>&gt;12/&gt;11</strong></td><td><strong>8/7</strong>, &gt;12/&gt;10</td><td><strong>4/3</strong>, 9/7          </td><td>3/2, <strong>6/4</strong>, 11/8    </td><td><strong>6/3</strong>, 8/4</td></tr>
 </table>
+
+## Fazit aus (2)
+
+Die folgerung aus (2) ist damit in Kurzform: Jede Kampagne und Jedes System sollte so designt sein, dass Spieler problemlos für eine Runde aussetzen können.
+
+In Technophob haben wir das durch eine Auftragsstruktur im Stil von Shadowrun und durch ein einheitliches Hauptquartier verwirklicht: Wir starten auf Traum Anderer
