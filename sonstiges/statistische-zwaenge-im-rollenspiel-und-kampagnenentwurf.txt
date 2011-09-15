@@ -1,7 +1,7 @@
 Statistische Zwänge im Rollenspiel- und Kampagnendesign
 =======================================================
 
-*Ein Spiel für durchschnittliche Gruppen muss (1) entweder mit 2 oder mit 8 Beteiligten gut spielbar sein, und (2) fehlende Leute verkraften.*
+*Ein Spiel für durchschnittliche Gruppen muss (1) entweder mit 2 oder mit 9 Beteiligten gut spielbar sein, und (2) fehlende Leute verkraften.*
 
 <!--auch die SL könnte fehlen → Spiel muss auf SL-Wechsel eingestellt sein.-->
 
@@ -374,6 +374,8 @@ done
 
 Fangen wir bei (2) an und bauen das statistische Fundament für 1 auf.
 
+## (2): Jedes Spiel und jede Kampagne muss fehlende Leute verkraften
+
 Dass Statistik oft dem gesunden Menschenverstand widerspricht, ist allgemein bekannt, und es trifft uns auch im Rollenspiel. Der verbreitetste Beleg ist die Wahrscheinlichkeit, dass unter 23 Leuten 2 am gleichen Tag Geburtstag haben. Dabei muss jeder Termin mit jedem anderen verglichen werden, so dass die [Wahrscheinlichkeit bei über 50% liegt](http://de.wikipedia.org/wiki/Geburtstagsparadoxon).
 
 Bei Rollenspielrunden kommt ein ähnlicher Effekt zum tragen, genauer gesagt bei der Frage, ob an einem beliebigen Abend genügend Spieler da sind, um spielen zu können.
@@ -388,7 +390,7 @@ Jetzt lassen wir erstmal alle [Sonderfälle](#sonder) weg und nehmen an, dass di
 
 Desto mehr Leute mitspielen, desto stärker fällt das in’s Gewicht.
 
-## Wahrscheinlichkeit, dass alle da sind
+### Wahrscheinlichkeit, dass alle da sind
 
 <table>
 <tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr>
@@ -414,7 +416,7 @@ Größere Gruppen, bei denen immer alle da sein müssen, funktionieren nur in ex
 
 Können wir dagegen spielen, wenn alle bis auf eine da sind, dann ändert sich das Bild deutlich:
 
-## Wahrscheinlichkeit, dass höchstens eine fehlt
+### Wahrscheinlichkeit, dass höchstens eine fehlt
 
 <table>
 <tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr>
@@ -432,7 +434,7 @@ Solange die Leute höchstens 6× im Jahr fehlen (also alle 2 Monate), und auch g
 Lassen wir sogar 2 fehlende zu, ist die Spielfähigkeit selbst dann bis 7 Teilnehmer gegeben, wenn jeder einmal pro Monat ausfällt, und bei verlässlicheren Leuten ist sie fast sicher:
 
 
-## Wahrscheinlichkeit, dass höchstens zwei fehlen
+### Wahrscheinlichkeit, dass höchstens zwei fehlen
 
 *99,9 Prozent werden hier als 99% geschrieben, um nicht den falschen Eindruck zu erwecken, die Spielfähigkeit sei zu 100% gesichert.*
 
@@ -452,9 +454,11 @@ Wenn sie eigentlich 5 Leute sind, die 6× im Jahr nicht können und spielen, sob
 
 Daher bereiten wir jetzt nur noch Daten für Punkt (1) vor: Wenn wir wollen, dass höchstens eine von 8 Runden ausfällt, müssen wir den Ausfall von Spielern tolerieren, unsere Runde muss dann entsprechend größer sein: Die entsprechenden Wahrscheinlichkeiten sind:
 
-## Maximale frustfreie Gruppengröße
+### Maximale frustfreie Gruppengröße
 
 *(Gruppe / min. Anwesend) bei höchstens dem Ausfall einer Runde pro Monat (75%) oder pro 2 Monate (88%) oder 2 pro Jahr (96%). Fett ist jeweils die Gruppe mit den wenigsten Fehlenden, aber mindestens 3 Beteiligten.*
+
+<a name="maxgru"></a>
 
 <table>
 <tr><th>Spielwahrscheinlichkeit</th><th>Jeder fehlt 1×/J 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr>
@@ -463,8 +467,57 @@ Daher bereiten wir jetzt nur noch Daten für Punkt (1) vor: Wenn wir wollen, das
 <tr><td>96% (2/Jahr fällt aus) </td><td>2/2, <strong>&gt;12/&gt;11</strong></td><td><strong>8/7</strong>, &gt;12/&gt;10</td><td><strong>4/3</strong>, 9/7          </td><td>3/2, <strong>6/4</strong>, 11/8    </td><td><strong>6/3</strong>, 8/4</td></tr>
 </table>
 
-## Fazit aus (2)
+### Fazit aus (2)
 
 Die folgerung aus (2) ist damit in Kurzform: Jede Kampagne und Jedes System sollte so designt sein, dass Spieler problemlos für eine Runde aussetzen können.
 
-In Technophob haben wir das durch eine Auftragsstruktur im Stil von Shadowrun und durch ein einheitliches Hauptquartier verwirklicht: Wir starten auf Traum Anderer
+In Technophob haben wir das durch eine Auftragsstruktur im Stil von Shadowrun und durch ein einheitliches Hauptquartier verwirklicht: Wir starten auf „Traum Anderer“, gehen auf einen Planeten, schmuggeln unsere Waren und kehren dann auf „Traum Anderer“ zurück, um bei Kjeol einen weiteren Autrag zu suchen.
+
+*kommen wir dann zu (1):*
+
+## (1): Jedes Spiel muss entweder mit 2 bis 7 oder mit 3 bis 9 Leuten gut spielbar sein
+
+Diese These mag für sich genommen radikal klingen, gerade weil ihr bisher kaum ein Rollenspiel genügt, sie folgt allerdings direkt aus der Statistik — und ist meiner Ansicht nacd einer der Hauptgründe dafür, dass sich Rollenspiele noch nicht viel weiter verbreitet haben.
+
+### Warum das gilt
+
+Die Begründung liegt darin, was passiert, wenn eine Runde zu groß wird, ulso wenn viele Leute anfangen, Rollenspiele zu spielen und dafür bestehende Runden suchen.
+
+Wenn neue Spieler zu einer Runde dazustoßen, wächst die Runde an, bis sie so viele Leute hat, dass sie unübersichtlich wird. Dann bringt es fär die Runde nichts behr, gröjer zu werden. Sollten noch mehr Leute dazu kommen, muss sich die Runde teilen, um sie aufnehmen zu können.
+
+Die Bedingung für eine erfolgreiche Teilung ist aber, dass die Runde sowohl vorher als auch nach die Teilung spielfähig ist[^sf-laber].
+
+[^sf-laber]: Damit sollte auch klar sein, warum ich so auf der Begründung der Spielfähigkeit herumgeritten bin :)
+
+Wenn das System oder die Kampagne nun z.B. für eine SL und 3-6 Spieler gut funktioniert, also für 4-7 Beteiligte, muss die Runde geteilt werden, wenn der 8. dazu kommt. Dann haben wir im Bestfall 2 4-er Gruppen, die aber nur zu 60 - 72% vollständig sind - und da das System mindestens 4 Leute braucht, muss jeder 3. bis jeder 4. Abend ausfallen. Zusätzlich gibt es wahrscheinlich Spieler, die sich nicht trennen wollen, so dann eine Runde größer ist als die andere oder einige Spieler in beiden Gruppen sind, die dann aber nicht am gleichen Abend sein können. Realistischer als der Bestfall ist also die Annahme, dass aus einer 8-er Gruppe eine 3-er und eine 5-er Gruppe werden - was nur funktionieren kann, wenn das System mit einer SL und *zwei* Spielerinnen gut funktioniert. Selbst dann ist die 3-er-Gruppe aber nur zu 68-78% spielfähig. Wenn Eltern dabei sind (fehlen mindestens 6× im Jahr), erreicht sie nicht die 75%, die ⅔ der Spieler in der Umfrage bei Tanelorn als Minimalkriterium für die Spielfähigkeit genannt haben.
+
+Damit sowohl die große, als auch die kleinen Gruppen spielfähig sind, muss die Ausgangsgruppe daher 9 Leute haben, so dass die kleinen Gruppen 4 und 5 Beteiligte erhalten, oder die kleinen Gruppen müssen auch mit 2 Teilnehmern spielfähig sein, also mit SL und *einer* Spielerin.
+
+Die Ausgangsgruppe hat dann je nach Spielabend zwischen 8 und 10 Anwesenden, 7-9 Charaktere.
+
+Es werden nur in etwa ⅓ der Runden 9 Spieler da sein (32 bis 47%), 8 sind allerdings schon in 2 von 3 Runden da. Ein Spiel mit allen Beteiligten muss also möglich sein und Spaß machen. Die größte Schwierigkeit ist dabei vermutlich, dass die SL den Überblick behält und die Spieler am Ball bleiben und sich nicht gegenseitig blockieren.
+
+Als Beispiel, wie es nicht geht, erinnere ich mich gerne an einen Gurps-Kampf mit 8 Spielern. Wir haben erst 2 Stunden lang gewürfelt, um 3 Sekunden Kampf abzuhandeln, dann habe ich erkannt, dass das nicht funktioniert und zurzerhand angeboten, dass wir die Würfel weglassen und ich einfach beschreibe, was kassiert. Der Kampf hat dann noch viel Spaß gemacht, aber ihn mit den vollen Regeln ausauspielen wäre schlicht langweilig gewesen, weil den die meisten von uns den Großteil der Zeit hätten warten müssen. Die Regeln waren also nicht für 9 Beteiligte geeignet.
+
+Wer hatten es dabei zwar geschafft, habwbegs den Überblick zu behalten (mit ein paar Ausnahmen), aber Einzelaktionen dauerten so lange, dass der Kampf die Dauer überschritt, für die Leute am Stück konzentriert mitdenken können.
+
+### Nach oben skalieren
+
+Um das besser zu machen, also um das System besser nach oben skalieren zu lassen, kann die Runde durch Skizzen oder Battlemaps und einfache Initiative-Regeln helfen, die Übersicht zu wahren (wir nutzen in unkritischen Situationen gerne die einfache Regel: „Erst seid ihr dran, denn die Gegner; in der Reihenfolge, in der wir am Tisch sitzen“, oder „einer von euch, dann sein Gegner, dann der nächste von euch“ — [komplexeres][init] nur, wenn es uns wirklich wichtig scheint), dazu klare Fähigkeiten mit wenigen Modifikatoren oder Standardmodifikatoren (ich nehme gerne „wenn es einen klaren Vorteil gibt: +3“) und schnelle Abhandlung der Einzelhandlungen, so dass wir häufig durchwechseln und alle aktiv sein können (die Zeit darf reichen, um den nächsten Schritt zu planen, aber nicht, um sich zu langweilen :) ). Auch dazu gehören Schnitttechniken der SL, um lange, aber unwichtige Handlungen abzukürzen.
+
+[init]: http://1w6.org/deutsch/module/initiative-modul-init "Initiative Modul (Init)"
+
+Außerdem ist allen nützlich, was der SL Arbeit abnimmt, also z.B. eine Co-SL, die Regelfragen klärt oder NSCs übernimmt und auch einfach für einen Teil der Gruppe leiten kann, wenn sich die Charaktere aufteilen. Genauso gehört es dazu, dass Spielerinnen selbst für kurze Zeit oder auch dauerhaft für sie interessante NSCs führen.
+
+### Nach unten skalieren
+
+Um mit sehr kleinen Runden zu funktionieren, muss
+
+### Fazit
+
+Um dynamisch wachsende Rollenspielrunden und damit eine bessere Verbreitung von Rollenspielen zu ermöglichen, müssen Rollenspielsystem und Kampagnen mit Runden mit einer SL und 1-6 oder 2-8 Spielerinnen spielbar sein.
+
+
+Im EWS versuchen wir Skalierbarkeit nach oben durch schnelle Interaktionen[^schnell] und einfache Regelmechanismen und Modifikatoren zu erreichen - zusammen mit [SL-Tipps](http://1w6.org/deutsch/sl-tipps) auf [1w6.org](http://1w6.org).
+
+[^schnell]: Eine Kampfhandlung im EWS-Nahkampf entspricht etwa 3 Handlungen in Gurps oder 4-6 in DSA: Bis jemand getroffen wird — im EWS 2 Würfe (Angreifer und Verteidiger, es trifft wer besser ist), in DSA und Gurps eine Serie von Attacken und Paraden.
