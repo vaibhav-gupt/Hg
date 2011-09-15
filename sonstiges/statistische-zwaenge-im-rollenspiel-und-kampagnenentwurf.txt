@@ -372,20 +372,6 @@ done
 12 8 0.842356324196
 -->
 
-<!-- ## Wahrscheinlichkeit, dass alle da sind -->
-
-<!-- <table> -->
-<!-- <tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr> -->
-<!-- <tr><td>2</td><td>96%</td><td>92%</td><td>85%</td><td>77%</td><td>56%</td></tr> -->
-<!-- <tr><td>3</td><td>94%</td><td>88%</td><td>78%</td><td>68%</td><td>42%</td></tr> -->
-<!-- <tr><td>4</td><td>92%</td><td>85%</td><td>72%</td><td>60%</td><td>32%</td></tr> -->
-<!-- <tr><td>5</td><td>90%</td><td>82%</td><td>66%</td><td>53%</td><td>24%</td></tr> -->
-<!-- <tr><td>6</td><td>89%</td><td>78%</td><td>61%</td><td>46%</td><td>18%</td></tr> -->
-<!-- <tr><td>7</td><td>87%</td><td>75%</td><td>56%</td><td>41%</td><td>13%</td></tr> -->
-<!-- <tr><td>8</td><td>85%</td><td>72%</td><td>51%</td><td>36%</td><td>10%</td></tr> -->
-<!-- <tr><td>9</td><td>83%</td><td>69%</td><td>47%</td><td>32%</td><td>8%</td></tr> -->
-<!-- </table> -->
-
 Fangen wir bei (2) an und bauen das statistische Fundament für 1 auf.
 
 Dass Statistik oft dem gesunden Menschenverstand widerspricht, ist allgemein bekannt, und es trifft uns auch im Rollenspiel. Der verbreitetste Beleg ist die Wahrscheinlichkeit, dass unter 23 Leuten 2 am gleichen Tag Geburtstag haben. Dabei muss jeder Termin mit jedem anderen verglichen werden, so dass die [Wahrscheinlichkeit bei über 50% liegt](http://de.wikipedia.org/wiki/Geburtstagsparadoxon).
@@ -394,5 +380,34 @@ Bei Rollenspielrunden kommt ein ähnlicher Effekt zum tragen, genauer gesagt bei
 
 Beginnen wir erstmal mit einer Annahme: Wir spielen am Wochenende und jeder von uns kann an 4 zufälligen Wochenenden nicht; Weihnachten und ähnliche Tage mal außen vor lassend.[^wochenende] Das sind zum Beispiel der eigene Geburtstag, der des Lebensgefährten oder eines engen Freundes und die Geburtstage der Eltern. Bei Familien kommen noch zwei Kindergeburtstage dazu.
 
-
 [^wochenende]: Die Annahme dient nur der einfacheren Beschreibung. Sie lässt sich einfach auf jede andere Spielfrequenz übertragen: Verlängert einfach die Zeiträume entsprechend.
+
+Damit kommen wir auf eine Wahrscheinliche Teilnahme an einem beliebigen Spielabend von (50-4)/50 = 92%, bzw. (50-6)/50 = 88% bei Eltern. Das ganze unter der Annahme, dass wir nie krank sind (oder statt Geburtstagsfeiern mal krank sind). Die echten Zahlen liegen vermutlich etwas höher, aber das können wir hier ignorieren: Es geht nur darum, eine Untergrenze zu finden. Wir gehen effektiv davon aus, dass die Mitspieler nur einmal alle 3 bzw. 2 Monate ausfallen.
+
+Jetzt lassen wir erstmal alle [Sonderfälle](#sonder) weg und nehmen an, dass die Ausfallwahrscheinlichkeit für alle gleich groß ist. Wenn wir zu zweit sind, ist die Wahrscheinlichkeit, dass eine von uns fehlt, gerade 1-0.92² = 15,36%, bzw. 1-0.88² = 22,56% bei Eltern. Die Runde fällt also einmal alle 4-7 Wochen aus (statt einmal alle 2 bis 3 Monate, wenn wir nur eine Beteiligte anschauen).
+
+Desto mehr Leute mitspielen, desto stärker fällt das in’s Gewicht.
+
+## Wahrscheinlichkeit, dass alle da sind
+
+<table>
+<tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr>
+<tr><td>2</td><td>96%</td><td>92%</td><td>85%</td><td>77%</td><td>56%</td></tr>
+<tr><td>3</td><td>94%</td><td>88%</td><td>78%</td><td>68%</td><td>42%</td></tr>
+<tr><td>4</td><td>92%</td><td>85%</td><td>72%</td><td>60%</td><td>32%</td></tr>
+<tr><td>5</td><td>90%</td><td>82%</td><td>66%</td><td>53%</td><td>24%</td></tr>
+<tr><td>6</td><td>89%</td><td>78%</td><td>61%</td><td>46%</td><td>18%</td></tr>
+<tr><td>7</td><td>87%</td><td>75%</td><td>56%</td><td>41%</td><td>13%</td></tr>
+<tr><td>8</td><td>85%</td><td>72%</td><td>51%</td><td>36%</td><td>10%</td></tr>
+<tr><td>9</td><td>83%</td><td>69%</td><td>47%</td><td>32%</td><td>8%</td></tr>
+</table>
+
+In der Tabelle sind zusätzlich Werte für besonders verlässliche Mitspieler, die nur ein- oder zweimal im Jahr fehlen, und ein Wert für Leute, die einmal im Monat fehlen.
+
+Nach einer [Umfrage im Tanelorn][tanefehl2011-09] würden ⅔ der Leute aussteigen, wenn eine Runde häufiger als bei jedem 4. Treffen ausfällt, die Runde mit einer unter 75% liegenden Wahrscheinlichkeit stattfindet.
+
+[tanefehl2011-09]: http://tanelorn.net/index.php/topic,70047.0.html "Wie oft darf eine Runde ausfallen, ohne dass ihr aussteigt?"
+
+Wenn zum Spielen immer alle da sein müssen, heißt das, dass nur Runden, in denen die einzelnen Leute jeweils höchstens zweimal im Jahr fehlen mit mehr als 3 Beteiligten spielbar sind. Schon bei 4 Fehlzeiten im Jahr und 4 Beteiligten (also z.B. einer SL und 3 Spielern) fällt die Runde häufiger als jedes 4. Mal aus.
+
+Größere Gruppen, bei denen immer alle da sein müssen, funktionieren nur in extrem strukturierten Umgebungen, z.B. als Schul-AG, oder wenn die Beteiligten extrem verlässlich sind. Bei nur 2 Fehltagen im Jahr könnte z.B. eine Gruppe von 5 Leuten an 4 von 5 Abenden spielen.
