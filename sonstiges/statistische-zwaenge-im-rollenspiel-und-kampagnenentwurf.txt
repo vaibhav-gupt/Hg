@@ -511,13 +511,38 @@ Außerdem ist allen nützlich, was der SL Arbeit abnimmt, also z.B. eine Co-SL, 
 
 ### Nach unten skalieren
 
-Um mit sehr kleinen Runden zu funktionieren, muss
+Um mit sehr kleinen Runden zu funktionieren, sollte die Vorbereitungszeit für die SL reduziert werden, da eine oder zwei Spielerinnen sich in 15 Minuten durch einen Plot brennen können, der in größeren Runden mehrere Stunden in Anspruch nimmt. Möglichkeiten wären Würfeltabellen, die direkt an die Hintergrundgeschichte(-n) der Charaktere koppeln.
 
-### Fazit
+Ein Plot braucht eine Aufgabe, Eine Bedeutung für die SCs, NSCs und einen Ort.
+
+Beispielsweise könnte die SL für ein Abenteuer einfach einen Hintergrund des Charakters wählen — dank sprechender Eigenschaften und Fertigkeiten eignet sich dazu im 1w6-System fast jeder Charakterwert — und dann auf 3 Listen würfeln, um einen Rahmen für ein Abenteuer zu erhalten: Mittler, Rolle des Mittlers und Ort. Dann könnte sie auf eine Tabelle für Aufgaben würfeln: Verb (was ist zu tun) und Objekt (womit).
+
+In Technophob könnte das in etwa so aussehen (Grobentwurf):
+
+* Charakterwert: Einfach einen wählen.
+* Mittler: 6: Schmuggler, 5: Raumpatrouille, 4: Rebellen/Anarchisten, 3: Piraten, 2: Unbescholtene Bürger, 1: Kleinkriminelle.
+* Rolle des Mittlers in Bezug auf den Charakterwert: 6: Chance, 5: Bedrohung, 4: Legende/Förderer, 3: Völlig unfähig, 2: Gleichgesinnt, 1: Gegenteil.
+* Schauplatz: 6: Handelsstation, 5: Piratenstation, 4: Technophoben-Planet mit Raumhafen (nochmal auf Gesellschaftsform würfeln), 3: Technophobenplanet ohne Raumhafen (…), 2: Traum Anderer, 1: Asteroiden-Habitat.
+* Gesellschaftsform: 6: Utopie/Distopie (nochmal würfeln), 5: Altes Rom (Brot und Spiele), 4: Wilder Westen, 3: Mittelalter, 2: Moderne Demokratie, 1: Kolonialzeit.
+* Utopie/Distopie: 6: Ökoparadies, 5: Konzerndiktatur, 4: Vergnügungswelt, 3: Kirchenstaat, 2: Kommunismus, 1: Überwachungsstaat.
+
+Aufgabe: 2× würfeln:
+
+* 6: beschaffe/rette    | Wertvolle Ware
+* 5: zerstöre/besiege   | Gefährliche Ware
+* 4: schmuggle (zu)     | Wertvolle Person (würfle auf Rolle oben)
+* 3: untersuche/verstehe| Gefährliche Person (würfle auf Rolle oben)
+* 2: sichere/beschütze  | Schöne(-r) Region/Ort
+* 1: überstehe/entkomme | Gefährliche(-r) Region/Ort
+
+Es gibt außerdem inzwischen einige Indie-RPGs, die sich an extrem kleine Runden richten. Nachdem PiHalbe am 30.8.2011 einen [Podcast (PiCast Folge 30: Spieleranzahl)](http://pihalbe.org/audio/picast-%E2%80%94-folge-30-%E2%80%94-spieleranzahl-801) veröffentlicht hat, in dem er sagt, dass er lieber kleine Runden mag, haben wir vielleicht das Glück, dass er sich in der nächsten Zeit dieses Themas annimmt und tiefe Einblicke in die Kunst des Leitens mit Kleinstrunden bietet (*wink* :) ).
+
+## Fazit
 
 Um dynamisch wachsende Rollenspielrunden und damit eine bessere Verbreitung von Rollenspielen zu ermöglichen, müssen Rollenspielsystem und Kampagnen mit Runden mit einer SL und 1-6 oder 2-8 Spielerinnen spielbar sein.
 
-
-Im EWS versuchen wir Skalierbarkeit nach oben durch schnelle Interaktionen[^schnell] und einfache Regelmechanismen und Modifikatoren zu erreichen - zusammen mit [SL-Tipps](http://1w6.org/deutsch/sl-tipps) auf [1w6.org](http://1w6.org).
+Im EWS versuchen wir Skalierbarkeit nach oben durch schnelle Interaktionen[^schnell] und einfache Regelmechanismen und Modifikatoren zu erreichen - zusammen mit [SL-Tipps](http://1w6.org/deutsch/sl-tipps) auf [1w6.org](http://1w6.org). Die Skalierbarkeit nach unten unterstützen sprechende Charakterwerte und schnelle Erschaffung von NSCs[^nscs-minimal]. Gerade bei Skalierung nach unten ist dabei das Setting sehr wichtig, da die Herausforderung stark in der schnellen Erschaffung von Plots liegt. In beide Richtungen gibt es aber noch Verbesserungspotintial.
 
 [^schnell]: Eine Kampfhandlung im EWS-Nahkampf entspricht etwa 3 Handlungen in Gurps oder 4-6 in DSA: Bis jemand getroffen wird — im EWS 2 Würfe (Angreifer und Verteidiger, es trifft wer besser ist), in DSA und Gurps eine Serie von Attacken und Paraden.
+
+[^nscs-minimal]: Um schnell einen Erinnerungswürdigen NSC zu erschaffen, nutze einfach [Interessante Charaktere darstellen Teil 2.5: Was brauchen NSCs mindestens?](http://1w6.org/deutsch/sl-tipps/interessante-charaktere-darstellen/was-brauchen-nscs).
