@@ -546,3 +546,5 @@ Im EWS versuchen wir Skalierbarkeit nach oben durch schnelle Interaktionen[^schn
 [^schnell]: Eine Kampfhandlung im EWS-Nahkampf entspricht etwa 3 Handlungen in Gurps oder 4-6 in DSA: Bis jemand getroffen wird — im EWS 2 Würfe (Angreifer und Verteidiger, es trifft wer besser ist), in DSA und Gurps eine Serie von Attacken und Paraden.
 
 [^nscs-minimal]: Um schnell einen Erinnerungswürdigen NSC zu erschaffen, nutze einfach [Interessante Charaktere darstellen Teil 2.5: Was brauchen NSCs mindestens?](http://1w6.org/deutsch/sl-tipps/interessante-charaktere-darstellen/was-brauchen-nscs).
+
+*PS: Die Daten stammen alle aus dem Skript [spielfaehig.py](https://bitbucket.org/ArneBab/1w6/src/57189e02b9f6/sonstiges/Skripte/spielfaehig.py).*
