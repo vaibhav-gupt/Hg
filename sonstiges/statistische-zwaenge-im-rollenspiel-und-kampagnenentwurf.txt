@@ -567,20 +567,31 @@ In Technophob könnte das in etwa so aussehen (Grobentwurf):
 
 * Utopie/Distopie: 6: Ökoparadies, 5: Konzerndiktatur, 4: Vergnügungswelt, 3: Kirchenstaat, 2: Kommunismus, 1: Überwachungsstaat.
 
+* Plot-Twist/Verwicklung: Schau dir das andere an. Was würde dein bösartiges SL-Grinsen wecken? Perfekt!
+
 #### Aufgabe: 2× würfeln:
 
 <table><tr><th>Wurf</th><th>Handlung</th><th>Ding</th></tr>
-<tr><td>6</td><td>beschaffe/rette</td><td>Wertvolle Ware</td></tr>
-<tr><td>5</td><td>zerstöre/besiege</td><td>Gefährliche Ware</td></tr>
-<tr><td>4</td><td>schmuggle (zu)</td><td>Wertvolle Person (würfle auf Rolle oben)</td></tr>
-<tr><td>3</td><td> untersuche/verstehe</td><td>Gefährliche Person (würfle auf Rolle oben)</td></tr>
-<tr><td>2</td><td>sichere/beschütze</td><td>Schöne(-r) Region/Ort</td></tr>
-<tr><td>1</td><td>überstehe/entkomme</td><td>Gefährliche(-r) Region/Ort</td></tr>
+<tr><td>6</td><td>beschaffe/rette</td><td>Gegenstand</td></tr>
+<tr><td>5</td><td>zerstöre/besiege</td><td>Person/Gruppe/Feinde (würfle auf Rolle oben)</td></tr>
+<tr><td>4</td><td>suche/schmuggle/beschütze</td><td>Planet/Ort/Region/Transportmittel</td></tr>
+<tr><td>3</td><td>untersuche/verstehe</td><td>Verbrechen/Situation</td></tr>
+<tr><td>2</td><td>organisiere/lenke</td><td>Unternehmen/Handlung</td></tr>
+<tr><td>1</td><td>überstehe/entkomme</td><td>Bedrohung/Fremdartiges</td></tr>
 </table>
 
 #### Belohnung: Pass es an deine Runde an; 2× würfeln
 
-…
+*Diese Beispiele sind an die Gruppe von Technophob angepasst: Kass, Lomo nan Tar, Chessos und Nayres. Schreib sie auf deine eigene Runde um. Zwei mal das gleiche zu würfeln bedeutet „richtig viel“.*
+
+* 6: Geld verdienen (Lomo nan Tar, Chessos)
+* 5: Leben retten (Lomo nan Tar)
+* 4: Neue Ausrüstung (Chessos, Kass)
+* 3: Kontakte knüpfen (Nayres)
+* 2: Fähigkeiten lernen/verbessern (Nayres)
+* 1: Geheimnisse aufdecken (Kass)
+
+#### Indie und PiHalbe
 
 Es gibt außerdem inzwischen einige Indie-RPGs, die sich an extrem kleine Runden richten. Nachdem PiHalbe am 30.8.2011 einen [Podcast (PiCast Folge 30: Spieleranzahl)](http://pihalbe.org/audio/picast-%E2%80%94-folge-30-%E2%80%94-spieleranzahl-801) veröffentlicht hat, in dem er sagt, dass er lieber kleine Runden mag, haben wir vielleicht das Glück, dass er sich in der nächsten Zeit dieses Themas annimmt und tiefe Einblicke in die Kunst des Leitens mit Kleinstrunden bietet (*wink* :) ).
 
