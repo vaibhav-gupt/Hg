@@ -414,7 +414,7 @@ Desto mehr Leute mitspielen, desto stärker fällt das in’s Gewicht.
 
 In der Tabelle sind zusätzlich Werte für besonders verlässliche Mitspieler, die nur ein- oder zweimal im Jahr fehlen, und ein Wert für Leute, die einmal im Monat fehlen. Die Zahlen sind alle gerundet.
 
-Nach einer [Umfrage im Tanelorn][tanefehl2011-09] würden ⅔ der Leute aussteigen, wenn eine Runde häufiger als bei jedem 4. Treffen ausfällt, die Runde mit einer unter 75% liegenden Wahrscheinlichkeit stattfindet.
+Nach einer [Umfrage im Tanelorn][tanefehl2011-09] würden ⅔ der Leute aussteigen, wenn eine Runde häufiger als bei jedem 4. Treffen ausfällt, die Runde also mit einer unter 75% liegenden Wahrscheinlichkeit stattfindet.
 
 [tanefehl2011-09]: http://tanelorn.net/index.php/topic,70047.0.html "Wie oft darf eine Runde ausfallen, ohne dass ihr aussteigt?"
 
