@@ -557,17 +557,29 @@ In Technophob könnte das in etwa so aussehen (Grobentwurf):
 
 * Charakterwert als Ausgangspunkt: Einfach einen wählen.
 
-* Mittler: 6: Schmuggler, 5: Raumpatrouille, 4: Rebellen/Anarchisten, 3: Piraten, 2: Unbescholtene Bürger, 1: Kleinkriminelle.
+<table><tr><th>Wurf</th><th>Mittler</th><th>Rolle des Mittlers</th><th>Schauplatz</th></tr>
+<tr><td>6</td><td>Schmuggler</td><td>Chance</td><td>Handelsstation</td></tr>
+<tr><td>5</td><td>Raumpatroullie</td><td>Bedrohung</td><td>Piratenstation</td></tr>
+<tr><td>4</td><td>Rebellen/Anarchisten</td><td>Legende/Förderer</td><td>Technophobenplanet mit Raumhafen</td></tr>
+<tr><td>3</td><td>Piraten</td><td>Völlig unfähig</td><td>Technophobenplanet ohne Raumhafen</td></tr>
+<tr><td>2</td><td>Unbescholtene Bürger</td><td>Gleichgesinnt</td><td>Traum Anderer</td></tr>
+<tr><td>1</td><td>Kleinkriminelle</td><td>Gegenteil</td><td>Asteroiden-Habitat</td></tr>
+</table>
 
-* Rolle des Mittlers in Bezug auf den Charakterwert: 6: Chance, 5: Bedrohung, 4: Legende/Förderer, 3: Völlig unfähig, 2: Gleichgesinnt, 1: Gegenteil.
+#### Technophoben-Planeten
 
-* Schauplatz: 6: Handelsstation, 5: Piratenstation, 4: Technophoben-Planet mit Raumhafen (nochmal auf Gesellschaftsform würfeln), 3: Technophobenplanet ohne Raumhafen (…), 2: Traum Anderer, 1: Asteroiden-Habitat.
+<table><tr><th>Wurf</th><th>Gesellschaftsform</th><th>Utopie/Distopie</th></tr>
+<tr><td>6</td><td>Utopie/Distopie</td><td>Ökoparadies</td></tr>
+<tr><td>5</td><td>Altes Rom (Brot und Spiele)</td><td>Konzerndiktatur</td></tr>
+<tr><td>4</td><td>Wilder Westen</td><td>Vergnügungswelt</td></tr>
+<tr><td>3</td><td>Mittelalter</td><td>Kirchenstaat</td></tr>
+<tr><td>2</td><td>Moderne Demokratie</td><td>Kommunismus</td></tr>
+<tr><td>1</td><td>Kolonialzeit</td><td>Überwachungsstaat</td></tr>
+</table>
 
-* Gesellschaftsform: 6: Utopie/Distopie (nochmal würfeln), 5: Altes Rom (Brot und Spiele), 4: Wilder Westen, 3: Mittelalter, 2: Moderne Demokratie, 1: Kolonialzeit.
+#### Plot-Twist/Verwicklung
 
-* Utopie/Distopie: 6: Ökoparadies, 5: Konzerndiktatur, 4: Vergnügungswelt, 3: Kirchenstaat, 2: Kommunismus, 1: Überwachungsstaat.
-
-* Plot-Twist/Verwicklung: Schau dir das andere an. Was würde dein bösartiges SL-Grinsen wecken? Perfekt!
+Schau dir das andere an. Was würde dein bösartiges SL-Grinsen wecken? Perfekt!
 
 #### Aufgabe: 2× würfeln:
 
