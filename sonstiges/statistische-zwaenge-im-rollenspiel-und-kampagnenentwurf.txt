@@ -1,7 +1,7 @@
 Statistische Zwänge im Rollenspiel- und Kampagnendesign
 =======================================================
 
-*Ein Spiel für durchschnittliche Gruppen muss (1) fehlende Leute verkraften und (2) entweder mit 2 oder mit 9 Beteiligten gut spielbar sein.*
+*Ein Spiel für durchschnittliche Gruppen muss [(1)](#stat1) fehlende Leute verkraften und [(2)](#stat2) entweder mit 2 oder mit 9 Beteiligten gut spielbar sein.*
 
 <!--auch die SL könnte fehlen → Spiel muss auf SL-Wechsel eingestellt sein.-->
 
@@ -372,7 +372,9 @@ done
 12 8 0.842356324196
 -->
 
-Fangen wir bei (1) an und bauen das statistische Fundament für (2) auf.
+Fangen wir bei [(1)](#stat1) an und bauen das statistische Fundament für [(2)](#stat2) auf.
+
+<a name="stat1"></a>
 
 ## (1): Jedes Spiel und jede Kampagne muss fehlende Leute verkraften
 
@@ -394,7 +396,9 @@ Beginnen wir erstmal mit einer Annahme: Wir spielen am Wochenende und jeder von 
 
 Damit kommen wir auf eine wahrscheinliche Teilnahme an einem beliebigen Spielabend von (50-4)/50 = 92%, bzw. (50-6)/50 = 88% bei Eltern. Das ganze unter der Annahme, dass wir nie krank sind (oder statt Geburtstagsfeiern mal krank sind). Die echten Zahlen liegen vermutlich etwas höher, aber das können wir hier ignorieren: Es geht nur darum, eine Untergrenze zu finden. Wir gehen effektiv davon aus, dass die Mitspieler nur einmal alle 3 bzw. 2 Monate ausfallen.
 
-Jetzt lassen wir erstmal alle [Sonderfälle](#sonder) weg und nehmen an, dass die Ausfallwahrscheinlichkeit für alle gleich groß ist. Wenn wir zu zweit sind, ist die Wahrscheinlichkeit, dass eine von uns fehlt, gerade 1-0.92² = 15,36%, bzw. 1-0.88² = 22,56% bei Eltern. Die Runde fällt also einmal alle 4-7 Wochen aus (statt einmal alle 2 bis 3 Monate, wenn wir nur eine Beteiligte anschauen).
+Jetzt lassen wir erstmal alle Sonderfälle[^sonder] weg und nehmen an, dass die Ausfallwahrscheinlichkeit für alle gleich groß ist. Wenn wir zu zweit sind, ist die Wahrscheinlichkeit, dass eine von uns fehlt, gerade 1-0.92² = 15,36%, bzw. 1-0.88² = 22,56% bei Eltern. Die Runde fällt also einmal alle 4-7 Wochen aus (statt einmal alle 2 bis 3 Monate, wenn wir nur eine Beteiligte anschauen).
+
+[^sonder]: Sonderfälle: (a) Ein verlässlicher Spieler: Nimm einfach die Zahlen der 1 kleineren Runde. (b) Ein unverlässlicher Spieler: Nimm die eins kleinere Runde und multipliziere mit der Spielwahrscheinlichkeit des Spielers. (c) Korrelliertes Fehlen (FreundIn?): Nimm die eins kleinere Runde für keiner fehlt (2 zählen als einer), nimm die 2 kleinere Runde für 1-er fehlt und multiplizier mit der Spielwahrscheinlichkeit von beiden.
 
 Desto mehr Leute mitspielen, desto stärker fällt das in’s Gewicht.
 
@@ -485,7 +489,9 @@ In Technophob haben wir das durch eine Auftragsstruktur im Stil von Shadowrun un
 
 In verschiedenen Runden hatten wir schon Kryokapseln, die gerne mal fehlfunktionen haben, so dass sie die Insassen erst am nächsten Spielabend raus konnten :)
 
-*kommen wir dann zu (2): (direkt zu [Fazit 2 mit Lösungsansätzen](#fazit2))*
+*kommen wir dann zu [(2)](#stat2): (direkt zu [Fazit 2 mit Lösungsansätzen](#fazit2))*
+
+<a name="stat2"></a>
 
 ## (2): Jedes Spiel muss entweder mit 2 bis 7 oder mit 3 bis 9 Leuten gut spielbar sein
 
@@ -555,7 +561,7 @@ In Technophob könnte das in etwa so aussehen (Grobentwurf):
 
 #### Situation
 
-* Charakterwert als Ausgangspunkt: Einfach einen wählen.
+*Charakterwert als Startpunkt: Wähl einfach einen Wert des Charakters - im Zweifel würfel einen aus. Von ihm geht alles aus. Dann würfel, was damit passiert, durch wen und wo.*
 
 <table><tr><th>Wurf</th><th>Mittler</th><th>Rolle des Mittlers</th><th>Schauplatz</th></tr>
 <tr><td>6</td><td>Schmuggler</td><td>Chance</td><td>Handelsstation</td></tr>
@@ -579,7 +585,9 @@ In Technophob könnte das in etwa so aussehen (Grobentwurf):
 
 #### Plot-Twist/Verwicklung
 
-Schau dir das andere an. Was würde dein bösartiges SL-Grinsen wecken? Perfekt!
+Schau dir die bisherigen Würfelergebnisse an. Was würde dein bösartiges SL-Grinsen wecken? Perfekt!
+
+Und KISS: Halte es einfach. Die Spielerinnen machen es dann schon selbst kompliziert.
 
 #### Aufgabe: 2× würfeln:
 
