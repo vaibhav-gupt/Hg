@@ -479,7 +479,7 @@ Daher bereiten wir jetzt nur noch Daten für Punkt (2) vor: Wenn wir wollen, das
 
 ### Fazit aus (1)
 
-Die folgerung aus (1) ist damit in Kurzform: Jede Kampagne und Jedes System sollte so designt sein, dass Spieler problemlos für eine Runde aussetzen können.
+Die Folgerung aus (1) ist damit in Kurzform: Jede Kampagne und Jedes System sollte so designt sein, dass Spieler problemlos für eine Runde aussetzen können.
 
 In Technophob haben wir das durch eine Auftragsstruktur im Stil von Shadowrun und durch ein einheitliches Hauptquartier verwirklicht: Wir starten auf „Traum Anderer“, gehen auf einen Planeten, schmuggeln unsere Waren und kehren dann auf „Traum Anderer“ zurück, um bei Kjeol einen weiteren Autrag zu suchen.
 
@@ -489,13 +489,13 @@ In verschiedenen Runden hatten wir schon Kryokapseln, die gerne mal fehlfunktion
 
 ## (2): Jedes Spiel muss entweder mit 2 bis 7 oder mit 3 bis 9 Leuten gut spielbar sein
 
-Diese These mag für sich genommen radikal klingen, gerade weil ihr bisher kaum ein Rollenspiel genügt, sie folgt allerdings direkt aus der Statistik — und ist meiner Ansicht nacd einer der Hauptgründe dafür, dass sich Rollenspiele noch nicht viel weiter verbreitet haben.
+Diese These mag für sich genommen radikal klingen, gerade weil ihr bisher kaum ein Rollenspiel genügt, sie folgt allerdings direkt aus der Statistik — und ist meiner Ansicht nach einer der Hauptgründe dafür, dass sich Rollenspiele noch nicht viel weiter verbreitet haben.
 
 ### Warum das gilt
 
 Die Begründung liegt darin, was passiert, wenn eine Runde zu groß wird, also wenn viele Leute anfangen, Rollenspiele zu spielen und dafür bestehende Runden suchen.
 
-Wenn neue Spieler zu einer Runde dazustoßen, wächst die Runde an, bis sie so viele Leute hat, dass sie unübersichtlich wird. Dann bringt es für die Runde nichts behr, größer zu werden. Sollten noch mehr Leute dazu kommen, muss sich die Runde teilen, um sie aufnehmen zu können.
+Wenn neue Spieler zu einer Runde dazustoßen, wächst die Runde an, bis sie so viele Leute hat, dass sie unübersichtlich wird. Dann bringt es für die Runde nichts mehr, größer zu werden. Sollten noch mehr Leute dazu kommen, muss sich die Runde teilen, um sie aufnehmen zu können.
 
 Die Bedingung für eine erfolgreiche Teilung ist aber, dass die Runde sowohl vorher als auch nach die Teilung spielfähig ist[^sf-laber].
 
@@ -525,11 +525,11 @@ Wir hatten es dabei zwar geschafft, halbwegs den Überblick zu behalten (mit ein
 
 Wenn wir wollen, dass sich Rollenspiele einfacher verbreiten können und dass Gruppen eine Teilung überstehen, muss jedes System entweder mit 2 bis 6 oder mit 3 bis 9 Beteiligten gut spielbar sein.
 
-Da das bisher meist schwierig ist, brauchen wir möglichkeiten, die das einfacher machen.
+Da das bisher meist schwierig ist, brauchen wir Möglichkeiten, die das einfacher machen.
 
 ### Nach oben skalieren
 
-Um das besser zu machen, also um das System besser nach oben skalieren zu lassen, können Skizzen oder Battlemaps und einfache Initiative-Regeln helfen, die Übersicht zu wahren (wir nutzen in unkritischen Situationen gerne die einfache Regel: „Erst seid ihr dran, denn die Gegner; in der Reihenfolge, in der wir am Tisch sitzen“, oder „einer von euch, dann sein Gegner, dann der nächste von euch“ — [komplexeres][init] nur, wenn es uns wirklich wichtig scheint).
+Um das besser zu machen, also um das System besser nach oben skalieren zu lassen, können Skizzen oder Battlemaps und einfache Initiative-Regeln helfen, die Übersicht zu wahren (wir nutzen in unkritischen Situationen gerne die einfache Regel: „Erst seid ihr dran, dann die Gegner; in der Reihenfolge, in der wir am Tisch sitzen“, oder „einer von euch, dann sein Gegner, dann der nächste von euch“ — [komplexeres][init] nur, wenn es uns wirklich wichtig scheint).
 
 Ein weitere Vorteil sind klare Fähigkeiten mit wenigen Modifikatoren oder Standardmodifikatoren (ich nehme gerne „wenn es einen klaren Vorteil gibt: +3“), so dass nicht lange gesucht werden muss, was nun genau gewürfelt werden muss.
 
