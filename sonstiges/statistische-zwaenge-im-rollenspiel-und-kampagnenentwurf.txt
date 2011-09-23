@@ -541,6 +541,8 @@ Ein weitere Vorteil sind klare Fähigkeiten mit wenigen Modifikatoren oder Stand
 
 Allgemein ist die schnelle Abhandlung der Einzelhandlungen wichtig, so dass die Spieler häufig durchwechseln und alle aktiv sein können (die Wartezeit darf reichen, um den nächsten Schritt zu planen, aber nicht, um sich zu langweilen :) ).
 
+Dazu können komplexere Regelteile weggelassen werden, sobald mehr als 5 Spieler in der Runde sind. Z.B. könnte im EWS das Modul [Taktische Kämpfe (TakM)](/deutsch/module/taktische-kaempfe-takm) nur genutzt werden, solange die Spieler überschaubar sind.
+
 Unabhängig vom Regelwerk kann die SL Schnitttechniken nutzen, um lange, aber unwichtige Handlungen abzukürzen: „ihr klärt die Formalitäten ab. Nach zwei stressigen Stunden kommt ihr endlich aus dem Bürgerbüro. Wollt ihr am Nachmittag noch was wichtiges machen, oder können wir gleich zu den Abendnachrichten springen?“
 
 [init]: http://1w6.org/deutsch/module/initiative-modul-init "Initiative Modul (Init)"
