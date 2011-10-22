@@ -1,0 +1,39 @@
+Hi Daniel, 
+
+Erstmal die Beschreibung: 
+
+------ ------ ------ ------ ------ ------ 
+# Der Trekk
+
+<em>Ein Kurzrollenspiel für die Zeit zwischen den Runden</em>
+
+2 Stunden Zeit und du weißt nicht, was du machen willst? Rollenspiel wär’ toll, aber das dauert immer so lange? Wir wollen zeigen, dass das auch anders geht. 
+
+Der Trekk liefert vollständige Regeln und ein Grundszenario auf einem Din-A4 Blatt. Vorgefertigte Charaktere sind auf Spielkarten. Und wenn ihr doch länger spielen wollt, gibt es Zusatzszenarien auf ausliegenden Flyern. 
+
+Und die Schriftgröße ist größer als 5 Punkt :)
+
+Hindergrund: Die Verwendeten Regeln sind eine gekürzte aber zu den langen Regeln kompatible Version des 1w6-Systems, eines frei lizensierten Regelwerks, das von jedem verändert werden kann und darf. 
+
+Den Handlungsort haben wir extra für den Trekk entwickelt. Er baut auf der Fantasywelt Erynnia auf, wo es gepasst hat. 
+
+Die Lizenz ist die GPLv3. Du kannst es nutzen, ändern, weitergeben und sogar verkaufen, wie du willst, solange du anderen mit deinen Beiträgen das gleiche erlaubst. 
+
+Weitere Infos: 
+
+1w6-System: http://1w6.org
+Erynnia: http://erynnia.de
+Lizenz: http://1w6.org/deutsch/anhang/freies-rollenspiel
+------ ------ ------ ------ ------ ------ 
+
+Als Bildmaterial haben wir z.B. Banner zum Grundregelwerk: 
+- http://1w6.org/files/Drachen-Banner-farbig.png
+- http://1w6.org/files/Drachen-Banner-farbig-300-112.png
+- http://1w6.org/files/Drachen-Banner-150x30_0.png
+
+Für den Trekk haben wir bisher die noch unfertige Karte und zwei Charakterbilder: 
+- http://1w6.org/files/karte_trekk-v0.4.jpg
+- http://1w6.org/releases/charakterkarten-v0.3.pdf
+
+Liebe Grüße, 
+Arne

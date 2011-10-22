@@ -1,0 +1,39 @@
+Notizen
+=======
+
+* Eine Seitenleiste hat aktuell (v2.3.4) 43 Zeilen.
+
+* ews-dok.sla aktualisieren: Rechtsklick auf ersten Frame der Seitenleiste -> Text Laden -> Textfilter -> "Seitenleiste" wählen -> ersten Eintrag durch "EWS Fluss" ersetzen (workaround) -> OK. Das gleiche für Hauptleiste mit Textfilder "Hauptleiste". 
+
+Fehlende Bilder
+---------------
+
+Die Bilder haben aktuell absolute Pfade, so dass sie nachgeladen werden müssen. Um das einfach zu machen hat Scribus eine Bilderverwaltung. Gib einfach deinen Klon des 1w6-repos als Suchpfad an: 
+
+Extras → Bilder verwalten → fehlendes Bild anwählen → Suchen → Ordner angeben und „rekursive Suche“ aktivieren → Suche starten. 
+
+Importfilter
+------------
+
+Importfilter laden die Texteigenschaften in einer Kaskade aus dem Quelltext in das Scribus-Dokument. Dank ihnen können wir in den Quelldateien arbeiten (im Ordner Scribus-Quellen) und dann den Text mit wenigen Klicks in das formatierte Heft bringen, so dass die Arbeit zur Veröffentlichung eines neuen Heftes minimal wird. 
+
+Grundlegende Infos: http://wiki.scribus.net/index.php/Text_importieren_und_gleichzeitig_formatieren
+
+Leider scheint Scribus die Filter nicht im Dokument zu speichern, so dass jeder neu dazu kommende sie neu anlegen muss. Screenshots davon, wie sie aussehen sind in importfilter-seitenleiste.png und importfilter-hauptleiste.png. Die Reihenfolge der Einträge ist wichtig. 
+
+Die ersetzen-Einträge darin brauchen allerdings etwas Erklärung. Auf den Bildern sind nur Ersetzungen von Leerzeichen-irgendwas zu irgendwas-Leerzeichen zu sehen. In Wirklichkeit sind die Leerzeichen allerdings Rahmenumbrüche: Wo also die Leerzeichen stehen muss ein Rahmenumbruch eingefügt werden: Ihn in den Textfilter einzufügen ist nicht ganz trivial, deswegen habe ich hier die Zeichen in emacs eingegeben. Sie können (zumindest via emacs) einfach kopiert und dann in den Textfilter eingefügt werden. 
+
+    ** → **
+    * → *
+    ## → ##
+    # → #
+    <fuss> → <fuss>
+     → 
+
+Das erste ist jeweils ^L (Seitenumbruch (Form End): eingegeben via C-q C-l) und das zweite ^[ (Escape, das verwendet Scribus für Rahmenumbrüche: eingegeben via C-q C-[). 
+
+Unter GNU/Linux können die einfach mit kate oder emacs geöffnet und rauskopiert werden, vermutlich auch mit gvim. Ob Notepad++ unter Windows das kann weiß ich nicht, hoffe es aber. Vor dem ** sollte entweder ein ^L oder ein Ankh-Symbol oder ähnliches zu sehen sein. Hinter dem 2. ** ein ^[ oder ein dicker Pfeil nach links o.ä.. Die können dann einfach in die ersetzen-Felder eingefügt werden. 
+
+(Ich habe eine ganze Weile gebraucht, um die Textfilter mit sauberen Seitenumbrüchen zum Laufen zu kriegen. Ich hoffe, dir fällt es mit der Anleitung hier leichter!)
+
+Nebenbei: Danke an Pillus666 fürs Testen!
