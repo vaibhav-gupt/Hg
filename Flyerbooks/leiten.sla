@@ -136,7 +136,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT FCOLOR="White" SCOLOR="White" KERN="0" CH=" Re­geln "/>
             <para PARENT="Untertitel"/>
-            <ITEXT FCOLOR="White" SCOLOR="White" CH="Als Re­gel­werk ver­wen­den Flyer­bü­cher das freie 1w6-Sys­tem. Die Cha­rak­tere ha­ben ei­ne Rei­he Ei­gen­schaf­ten, Be­ru­fe, Fer­tig­kei­ten und Merk­ma­le, die sie von der Mas­se ab­he­ben. Be­ru­fe und Fer­tig­kei­ten ha­ben einen Zah­len­wert (6-18). Ei­gen­schaf­ten und Merk­ma­le ha­ben nur Plus­se (+: Stär­ke) oder Mi­nus­se (-: Schwä­che).  "/>
+            <ITEXT FCOLOR="White" SCOLOR="White" CH="Als Re­gel­werk ver­wen­den Flyer­bü­cher das freie 1w6-Sys­tem. Die Cha­rak­tere ha­ben ei­ne Rei­he Ei­gen­schaf­ten, Be­ru­fe, Fer­tig­kei­ten und Merk­ma­le, die sie von der Mas­se ab­he­ben. Be­ru­fe und Fer­tig­kei­ten ha­ben einen Zah­len­wert (6-18). Ei­gen­schaf­ten und Merk­ma­le ha­ben nur Plus­se (Stär­ke) oder Mi­nus­se (Schwä­che).  "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT FCOLOR="White" KERN="0" CH="Bei­spie­le: Ge­schick, In­tel­li­genz oder Stolz sind Ei­gen­schaf­ten. Tisch­le­rin ist ein Be­ruf, Waf­fen­los ei­ne Fer­tig­keit. Merk­ma­le wä­ren Reich (+) und Süch­tig (-)."/>
             <para PARENT="Beispiel"/>
