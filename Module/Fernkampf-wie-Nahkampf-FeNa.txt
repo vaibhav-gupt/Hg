@@ -1,0 +1,20 @@
+Fernkampf wie Nahkampf (FeNa)
+=============================
+
+*Fernkampf wird gehandhabt wie Nahkampf mit Modifikatoren, so dass wir wieder ein einheitliches System haben.*
+
+## Einleitung
+
+Dass Fernkampf und Nahkampf unterschiedliche Regeln haben, stört mich seit langem. Dieses Modul ändert das.
+
+Fernkampf wird dann genau wie Nahkampf als Wettstreit gehandhabt: Schütze und Ziel würfeln beide und wer besser ist, erreicht sein Ziel. Bei einem entfernten Nahkämpfer bedeutet das entweder in Deckung zu kommen oder näher an den Schützen heran zu kommen.
+
+Auf ein unbewegtes Ziel zu schießen wird genauso gehandhabt, wie im Nahkampf einen Gegner zu schlagen, der sich nicht wehrt: Durch einen Wurf gegen Mindestwurf 12 - außerhalb von Kämpfen nur Mindestwurf 9. 
+
+Durch das FeNa-Modul wird der Fernkampf schneller und ein Stückweit abstrakter, gleichzeitig aber auch persönlicher: Durch die Möglichkeit des Gegenangriffes wird der Gegner vom reinen Ziel zu einem Wesen, mit dem sich der Schütze sich wirklich auseinandersetzen muss. 
+
+Dafür werden Fernkampf und Nahkampf zu verwandten Fähigkeiten: Wer das eine kann, kann auch das andere, allerdings mit 3 Punkten Malus.
+
+## Grundlagen
+
+Ein Angriff im Fernkampf wird gehandhabt wie 
