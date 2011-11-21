@@ -17,4 +17,8 @@ Dafür werden Fernkampf und Nahkampf zu verwandten Fähigkeiten: Wer das eine ka
 
 ## Grundlagen
 
-Ein Angriff im Fernkampf wird gehandhabt wie 
+Ein Angriff eines Fernkämpfers auf einen anderen Fernkämpfer wird gehandhabt wie ein Angriff im Nahkampf: Beide würfeln und der Bessere trifft. Unterschiedliche Situationen werden durch Mali ausgedrückt. Der einzige Bonus ist “keinen Schaden verursachen wollen” (+6), weil dabei einer der Kontrahenten weniger tun will als der andere. 
+
+Ein Angriff eines Fernkämpfers gegen einen Nahkämpfer wird auf die gleiche Art gehandhabt. Wenn der Nahkämpfer zu weit entfernt ist, um den Fernkämpfer treffen zu können, erhält er einen Bonus von 6 (keinen Schaden) aber einen Malus von 3 (falsche Fertigkeit), und wenn er gewinnt, wird er nicht getroffen und kann näher an den Angreifer heran kommen: Pro Punkt Differenz einen Meter, bis zu einem Maximum in Höhe eines Drittels der höchsten passenden Eigenschaft.
+
+
