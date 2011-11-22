@@ -19,5 +19,13 @@ Dafür werden Fernkampf und Nahkampf zu verwandten Fähigkeiten: Wer das eine ka
 
 Ein Angriff eines Fernkämpfers auf einen anderen Fernkämpfer wird gehandhabt wie ein Angriff im Nahkampf: Beide würfeln und der Bessere trifft. Unterschiedliche Situationen werden durch Mali ausgedrückt. Der einzige Bonus ist “keinen Schaden verursachen wollen” (+6), weil dabei einer der Kontrahenten weniger tun will als der andere. 
 
+An Mali gibt es Sichtbehinderungen (-3 für Nebel, -6 für kaum Sicht, -9 für Blindschüsse), Deckung des Gegners (-3 für 3/4 Deckung, -6 für fast volle Deckung), Behinderungen (z.B. Deckung, die dem Kämpfer selbst in die Quere kommt: -3; Schießscharten haben keinen Malus), gezielte Schüsse (-3 für Arm/Bein, -6 für Hand/Kopf, -9 für Auge). 
+
+Die Dauer eines Kampfes (1s +1s pro 3 Punkte, die das höhere Ergebnis unter 12 liegt). TODO!
+
 Ein Angriff eines Fernkämpfers gegen einen Nahkämpfer wird auf die gleiche Art gehandhabt. Wenn der Nahkämpfer zu weit entfernt ist, um den Fernkämpfer treffen zu können, erhält er einen Bonus 3 (Der Bonus besteht aus dem Bonus von 6 für “keinen Schaden” und dem Malus von 3 für die falsche Fertigkeit). Wenn er gewinnt, wird er nicht getroffen und kann näher an den Angreifer heran kommen: Pro Punkt Differenz einen Meter, bis zu einem Maximum in Höhe eines Drittels der höchsten passenden Eigenschaft.
+
+Ist der Fernkämpfer so weit weg, dass er sich keinerlei Sorgen machen muss, getroffen zu werden, dann erhält er einen Bonus vorn 3 (entspannte Situation). 
+
+Wenn der Nahkämpfer in Reichweite ist, erhält der Fernkämpfer einen Malus von 0, 3 oder 6 Punkten, wenn er schießen will, je nach Sperrigkeit seiner Waffe. Eine Pistole oder abgesägte Schrotflinte gibt keinen Malus, ein kurzes Gewehr einen Malus von 3 und ein Scharfschützengewehr oder Bogen einen Malus von 6. Ist die Fernkampfwaffe nicht zum Parieren geeignet, gilt der Fernkämpfer als Unbewaffnet. Wenn der Nahkämpfer bewaffnet ist, erhält der Fernkämpfer dann zusätzlich 3 Punkte Malus. 
 
