@@ -5,7 +5,7 @@ Fernkampf wie Nahkampf (FeNa)
 
 ## Einleitung
 
-Dass Fernkampf und Nahkampf unterschiedliche Regeln haben, stört mich seit langem. Dieses Modul ändert das.
+Dass Fernkampf und Nahkampf im Fokusmodul Kampf (Foka) unterschiedliche Regeln haben, stört mich seit langem. Dieses Modul ändert das. Es ist eine Erweiterung des FoKa und verwendet Konzepte aus dem Foka - und passt sie an.
 
 Fernkampf wird dann genau wie Nahkampf als Wettstreit gehandhabt: Schütze und Ziel würfeln beide und wer besser ist, erreicht sein Ziel. Bei einem entfernten Nahkämpfer bedeutet das entweder in Deckung zu kommen oder näher an den Schützen heran zu kommen.
 
@@ -17,15 +17,30 @@ Dafür werden Fernkampf und Nahkampf zu verwandten Fähigkeiten: Wer das eine ka
 
 ## Grundlagen
 
-Ein Angriff eines Fernkämpfers auf einen anderen Fernkämpfer wird gehandhabt wie ein Angriff im Nahkampf: Beide würfeln und der Bessere trifft. Unterschiedliche Situationen werden durch Mali ausgedrückt. Der einzige Bonus ist “keinen Schaden verursachen wollen” (+6), weil dabei einer der Kontrahenten weniger tun will als der andere. 
+Ein Angriff eines Fernkämpfers auf einen anderen Fernkämpfer wird gehandhabt wie ein Angriff im Nahkampf: Beide würfeln und der Bessere trifft. Unterschiedliche Situationen werden durch Mali ausgedrückt. Der einzige Bonus ist “keinen Schaden verursachen wollen” (+6), weil dabei einer der Kontrahenten weniger tun will als der andere. Statt den bisherigen 2 Schüssen pro Runde haben Fernkämpfer genau wie Nahkämpfer einen Angriff pro Runde, aber beliebig viele Verteidigungen.
 
-An Mali gibt es Sichtbehinderungen (-3 für Nebel, -6 für kaum Sicht, -9 für Blindschüsse), Deckung des Gegners (-3 für 3/4 Deckung, -6 für fast volle Deckung), Behinderungen (z.B. Deckung, die dem Kämpfer selbst in die Quere kommt: -3; Schießscharten haben keinen Malus), gezielte Schüsse (-3 für Arm/Bein, -6 für Hand/Kopf, -9 für Auge). 
+An Mali gibt es Sichtbehinderungen (-3 für Nebel, -6 für kaum Sicht, -9 für Blindschüsse), Deckung des Gegners (-3 für 3/4 Deckung, -6 für fast volle Deckung), Behinderungen (z.B. Deckung, die dem Kämpfer selbst in die Quere kommt: -3; Schießscharten haben keinen Malus), gezielte Schüsse (-3 für Arm/Bein, -6 für Hand/Kopf, -9 für Auge), Bewegungseinschränkungen (z.B. schlechter Boden +3) und von der SL je nach Situation vergebene Mali. 
 
-Die Dauer eines Kampfes (1s +1s pro 3 Punkte, die das höhere Ergebnis unter 12 liegt). TODO!
+Die Dauer einer Kampfrunde ist eine Sekunde plus eine weitere Sekunde je 3 Punkte, die das höhere Ergebnis unter 12 liegt. Wer unter 12 würfelt, trifft nicht beim ersten Schuss. 
 
 Ein Angriff eines Fernkämpfers gegen einen Nahkämpfer wird auf die gleiche Art gehandhabt. Wenn der Nahkämpfer zu weit entfernt ist, um den Fernkämpfer treffen zu können, erhält er einen Bonus 3 (Der Bonus besteht aus dem Bonus von 6 für “keinen Schaden” und dem Malus von 3 für die falsche Fertigkeit). Wenn er gewinnt, wird er nicht getroffen und kann näher an den Angreifer heran kommen: Pro Punkt Differenz einen Meter, bis zu einem Maximum in Höhe eines Drittels der höchsten passenden Eigenschaft.
 
-Ist der Fernkämpfer so weit weg, dass er sich keinerlei Sorgen machen muss, getroffen zu werden, dann erhält er einen Bonus vorn 3 (entspannte Situation). 
+Ist der Fernkämpfer so weit weg, dass er sich keinerlei Sorgen machen muss, getroffen zu werden, dann erhält er einen Bonus von 3 (entspannte Situation). 
 
-Wenn der Nahkämpfer in Reichweite ist, erhält der Fernkämpfer einen Malus von 0, 3 oder 6 Punkten, wenn er schießen will, je nach Sperrigkeit seiner Waffe. Eine Pistole oder abgesägte Schrotflinte gibt keinen Malus, ein kurzes Gewehr einen Malus von 3 und ein Scharfschützengewehr oder Bogen einen Malus von 6. Ist die Fernkampfwaffe nicht zum Parieren geeignet, gilt der Fernkämpfer als Unbewaffnet. Wenn der Nahkämpfer bewaffnet ist, erhält der Fernkämpfer dann zusätzlich 3 Punkte Malus. 
+Wenn der Nahkämpfer in Nahkampf-Reichweite ist, erhält der Fernkämpfer einen Malus von 0, 3 oder 6 Punkten, wenn er schießen will, je nach Sperrigkeit seiner Waffe. Eine Pistole oder abgesägte Schrotflinte gibt zum Beispiel keinen Malus, ein kurzes Gewehr einen Malus von 3 und ein Scharfschützengewehr oder Bogen einen Malus von 6. Ist die Fernkampfwaffe nicht zum Parieren geeignet, gilt der Fernkämpfer als Unbewaffnet. Wenn der Nahkämpfer bewaffnet ist, erhält der Fernkämpfer dann zusätzlich 3 Punkte Malus für den Kampf unbewaffnet gegen bewaffnet (verursacht aber trotzdem seinen Waffenschaden, wenn er trifft). 
 
+Bei mehreren Gegnern im Fernkampf bekommt ein Charakter erst dann einen Malus von 3 für jeden Gegner nach dem ersten, wenn die Gegner ihn das erste Mal angreifen. Realistischer wäre es zwar, ihm Mali für jeden zu geben, auf den er achten will, aber dann müssten wir immer vorher klären, wer wen beachtet, und wenn wir jemanden vergessen hätten, dürften wir gegen den nicht würfeln (and nicht würfeln dürfen ist unschön).  Daher erhält er einfach für jede Handlung nach der *zweiten* einen additiven Malus von 3 (also bei der ersten Handlung keinen Malus, bei der zweiten auch keinen, bei der 3. einen Malus von 3, bei der vierten einen von 6, bei der 5. einen von 9, usw.. Als Handlung gelten hier sowohl Angriff als auch Verteidigung). Damit hat der Fernkämpfer die gleiche Anzahl nicht erschwerter Handlungen wie der Nahkämpfer. 
+
+Und auch wenn ein Gegner sich nicht wehrt, funktionieren Nahkampf und Fernkampf gleich: Der Angreifer würfelt gegen 12. Wenn er inklusive aller Mali und Boni den Wert 12 erreicht, trifft er. Die Differenz zu 12 wird wie üblich zum Schaden der Waffe addiert.
+
+### Option: Keine Samurai: Nahkämpfer sterben schneller
+
+Wenn Nahkämpfer gegenüber Fernkämpfern stärker benachteiligt sein sollen, was vermutlich realistisch ist, könnt ihr den Bonus von 3 weglassen. Dann würfeln sie mit genau ihrem Wert.
+
+### Option: Zweikämpfe über mehrere Runden
+
+Wenn ein Kampf zwischen zwei Gegnern mehr als eine Sekunde dauert, können derweil andere Charaktere mehrfach handeln. Der Ausgang des Zweikampfes steht erst nach Ablauf der Zeit fest, da beide Kämpfer immernoch auf die Rest-Umgebung reagieren können. Sie können ihren Kampf dann zu jederzeit abbrechen, aber wer es tut, riskiert vom Anderen angegriffen zu werden, ohne sich wehren zu werden.  Er gilt dann als sich nicht wehrender Gegner, so dass sein Angreifer nur gegen 12 würfeln muss.zs
+
+## Beispiel
+
+…
