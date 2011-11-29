@@ -5,25 +5,29 @@ Fernkampf wie Nahkampf (FeNa)
 
 ## Einleitung
 
-Dass Fernkampf und Nahkampf im Fokusmodul Kampf (Foka) unterschiedliche Regeln haben, stört mich seit langem. Dieses Modul ändert das. Es ist eine Erweiterung des FoKa und verwendet Konzepte aus dem Foka - und passt sie an.
+Dass Fernkampf und Nahkampf im Fokusmodul Kampf (Foka) unterschiedliche Regeln haben, stört mich seit langem. Dieses Modul ändert das. Es ist eine Erweiterung des FoKa und verwendet Konzepte aus dem Foka - und es passt sie an.
 
-Fernkampf wird dann genau wie Nahkampf als Wettstreit gehandhabt: Schütze und Ziel würfeln beide und wer besser ist, erreicht sein Ziel. Bei einem entfernten Nahkämpfer bedeutet das entweder in Deckung zu kommen oder näher an den Schützen heran zu kommen.
+Fernkampf wird dann genau wie Nahkampf als Wettstreit gehandhabt: Schütze und Ziel würfeln beide und wer besser ist, erreicht sein Ziel. Bei einem entfernten Nahkämpfer bedeutet das, entweder in Deckung zu kommen oder näher an den Schützen heran zu kommen.
 
-Auf ein unbewegtes Ziel zu schießen wird genauso gehandhabt, wie im Nahkampf einen Gegner zu schlagen, der sich nicht wehrt: Durch einen Wurf gegen Mindestwurf 12 - außerhalb von Kämpfen nur Mindestwurf 9. 
+Auf ein unbewegtes Ziel zu schießen wird genauso gehandhabt, wie im Nahkampf einen Gegner zu schlagen, der sich nicht wehrt: Durch einen Wurf gegen Mindestwurf 12 - außerhalb von Kämpfen nur Mindestwurf 9 - allerdings mit allen Mali, die auch sonst gelten. 
 
-Durch das FeNa-Modul wird der Fernkampf schneller und ein Stückweit abstrakter, gleichzeitig aber auch persönlicher: Durch die Möglichkeit des Gegenangriffes wird der Gegner vom reinen Ziel zu einem Wesen, mit dem sich der Schütze sich wirklich auseinandersetzen muss. 
+Durch das FeNa-Modul wird der Fernkampf schneller und ein Stückweit abstrakter, gleichzeitig aber auch persönlicher: Durch die Möglichkeit des Gegenangriffes wird der Gegner vom reinen Ziel zu einem Wesen, mit dem sich der Schütze wirklich auseinandersetzen muss. 
 
-Dafür werden Fernkampf und Nahkampf zu verwandten Fähigkeiten: Wer das eine kann, kann auch das andere, allerdings mit 3 Punkten Malus.
+Dafür werden Fernkampf und Nahkampf zu verwandten Fähigkeiten: Wer das eine kann, kann auch das andere, allerdings mit 0-6 Punkten Malus (je nach Waffe).
 
 ## Grundlagen
 
-Ein Angriff eines Fernkämpfers auf einen anderen Fernkämpfer wird gehandhabt wie ein Angriff im Nahkampf: Beide würfeln und der Bessere trifft. Unterschiedliche Situationen werden durch Mali ausgedrückt. Der einzige Bonus ist “keinen Schaden verursachen wollen” (+6), weil dabei einer der Kontrahenten weniger tun will als der andere. Statt den bisherigen 2 Schüssen pro Runde haben Fernkämpfer genau wie Nahkämpfer einen Angriff pro Runde, aber beliebig viele Verteidigungen.
+Ein Angriff eines Fernkämpfers auf einen anderen Fernkämpfer wird gehandhabt wie ein Angriff im Nahkampf: Beide würfeln und der Bessere trifft. Unterschiedliche Situationen werden durch Mali ausgedrückt. Die einzigen Boni sind “keinen Schaden verursachen wollen” (+6) und „entspannte Situation“, weil dabei einer der Kontrahenten weniger tun will als der andere, bzw. weniger tun muss. Statt den bisherigen 2 Schüssen pro Runde haben Fernkämpfer genau wie Nahkämpfer einen Angriff pro Runde, aber beliebig viele Verteidigungen.
 
-An Mali gibt es Sichtbehinderungen (-3 für Nebel, -6 für kaum Sicht, -9 für Blindschüsse), Deckung des Gegners (-3 für 3/4 Deckung, -6 für fast volle Deckung), Behinderungen (z.B. Deckung, die dem Kämpfer selbst in die Quere kommt: -3; Schießscharten haben keinen Malus), gezielte Schüsse (-3 für Arm/Bein, -6 für Hand/Kopf, -9 für Auge), Bewegungseinschränkungen (z.B. schlechter Boden +3) und von der SL je nach Situation vergebene Mali. 
+An Mali gibt es Sichtbehinderungen (-3 für Nebel, -6 für kaum Sicht, -9 für Blindschüsse), Deckung des Gegners (-3 für 3/4 Deckung, -6 für fast volle Deckung), Behinderungen (z.B. Deckung, die dem Kämpfer selbst in die Quere kommt: -3; sinnvoll gebaute Schießscharten haben keinen Malus), gezielte Schüsse (-3 für Arm/Bein, -6 für Hand/Kopf, -9 für Auge), Bewegungseinschränkungen (z.B. schlechter Boden -3) und von der SL je nach Situation vergebene Mali. 
 
-Die Dauer einer Kampfrunde ist eine Sekunde plus eine weitere Sekunde je 3 Punkte, die das höhere Ergebnis unter 12 liegt. Wer unter 12 würfelt, trifft nicht beim ersten Schuss. 
+Zusätzlich erhält er einen Malus von 3 für weit entfernte Gegner (bei den meisten Waffen über 5m bis 50m) und von 6 für sehr große Entfernungen (bei den meisten Waffen über 50m). 
 
-Ein Angriff eines Fernkämpfers gegen einen Nahkämpfer wird auf die gleiche Art gehandhabt. Wenn der Nahkämpfer zu weit entfernt ist, um den Fernkämpfer treffen zu können, erhält er einen Bonus 3 (Der Bonus besteht aus dem Bonus von 6 für “keinen Schaden” und dem Malus von 3 für die falsche Fertigkeit). Wenn er gewinnt, wird er nicht getroffen und kann näher an den Angreifer heran kommen: Pro Punkt Differenz einen Meter, bis zu einem Maximum in Höhe eines Drittels der höchsten passenden Eigenschaft.
+Die Dauer einer Kampfrunde ist eine Sekunde plus eine weitere Sekunde je 3 Punkte, die das höhere Ergebnis unter 12 liegt. Wer unter 12 würfelt, trifft also nicht beim ersten Schuss (und andere können vielleicht eingreifen). 
+
+Ein Angriff eines Fernkämpfers gegen einen Nahkämpfer wird auf die gleiche Art gehandhabt. Wenn der Nahkämpfer zu weit entfernt ist, um den Fernkämpfer treffen zu können, erhält er einen Bonus 3 (Der Bonus besteht aus dem Bonus von 6 für “keinen Schaden” und dem Malus von 3 für die falsche Fertigkeit). 
+
+Wenn der Nahkämpfer gewinnt, wird er nicht getroffen und kann näher an den Angreifer heran kommen: Pro Punkt Differenz einen Meter, bis zu einem Maximum in Höhe eines Drittels der höchsten passenden Eigenschaft.
 
 Ist der Fernkämpfer so weit weg, dass er sich keinerlei Sorgen machen muss, getroffen zu werden, dann erhält er einen Bonus von 3 (entspannte Situation). 
 
@@ -35,7 +39,7 @@ Und auch wenn ein Gegner sich nicht wehrt, funktionieren Nahkampf und Fernkampf 
 
 ### Option: Keine Samurai: Nahkämpfer sterben schneller
 
-Wenn Nahkämpfer gegenüber Fernkämpfern stärker benachteiligt sein sollen, was vermutlich realistisch ist, könnt ihr den Bonus von 3 weglassen. Dann würfeln sie mit genau ihrem Wert.
+Wenn Nahkämpfer gegenüber Fernkämpfern stärker benachteiligt sein sollen, was vermutlich realistisch ist, könnt ihr den Bonus von 3 weglassen. Dann würfeln sie mit genau ihrem Wert, um nicht getroffen zu werden und näher zu kommen.
 
 ### Option: Zweikämpfe über mehrere Runden
 
@@ -61,9 +65,8 @@ Er sprintet los.  Der Roboter ruckt herum.  Der Laser zuckt hoch.  Rolf wirft si
 
 *Rolf ist ein mittelmäßiger Kämpfer (12).  Der Roboter hat nur eine rudimentäre Zielerkennung (9).  In seiner eigentlichen Aufgabe muss er sich nicht um schnelle Ziele kümmern.  Rolf hat einen Bonus von 6, weil er nicht zu treffen versucht, und einen Malus von 3 weil er keine Fernkampfwaffe hat.  Also steht es mit 3 Punkten Bonus 15 gegen 9.  Nur jeder 6. Schuss dürfte treffen.  Rolf würfelt eine 3, der Roboter eine 2.  12 gegen 11.  Der Schuss geht gerade so fehl.*
 
-Direkt neben Rolf brennt sich ein Laser in die Wand des Ganges.  Dann ist Rolf in Reichweite.  Er hebt das Rohr und versucht es der Roboter in das Schultergelenk zu rammen.  Zur gleichen Zeit zuckt der Laser wieder herum.
+Direkt neben Rolf brennt sich ein Laser in die Wand des Ganges.  Dann ist Rolf in Reichweite.  Er hebt das Rohr und versucht es dem Roboter in das Schultergelenk zu rammen.  Zur gleichen Zeit zuckt der Laser wieder herum.
 
 *Diesmal hat Rolf keinen Bonus, und der Roboter mit seiner kurzen Laserpistole keinen Malus.  Also steht es 12 gegen 9.  Rolf würfelt eine 2.  Der Roboter eine 6.  Es steht also 14 gegen 15; für den Roboter.*
 
-Als sich der Laserstrahl in sein Bein brennt und Kleidung und Fleisch zu einer brodelnden Masse verschmelzen, schwindet Rolfs Bewusstsein mit rasender Geschwindigkeit.  Das letzte, was er hört, bevor sich dunkle Stille über seinen Geist legt, ist die Stimme seines Zöglings:  “Das ist der Letzte!  Was liegt da vor dem Schott?  Das kann nicht sein!  Rolf!”
-
+Als sich der Laserstrahl in sein Bein brennt und Kleidung und Fleisch zu einer brodelnden Masse verschmelzen, schwindet Rolfs Bewusstsein mit rasender Geschwindigkeit.  Das letzte, was er hört, bevor sich dunkle Stille über seinen Geist legt, ist die Stimme seines Zöglings:  “Das ist der Letzte!  Was liegt da vor dem Schott?  Das darf nicht sein!  Rolf!”
