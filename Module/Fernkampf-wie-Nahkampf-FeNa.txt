@@ -39,8 +39,31 @@ Wenn Nahkämpfer gegenüber Fernkämpfern stärker benachteiligt sein sollen, wa
 
 ### Option: Zweikämpfe über mehrere Runden
 
-Wenn ein Kampf zwischen zwei Gegnern mehr als eine Sekunde dauert, können derweil andere Charaktere mehrfach handeln. Der Ausgang des Zweikampfes steht erst nach Ablauf der Zeit fest, da beide Kämpfer immernoch auf die Rest-Umgebung reagieren können. Sie können ihren Kampf dann zu jederzeit abbrechen, aber wer es tut, riskiert vom Anderen angegriffen zu werden, ohne sich wehren zu werden.  Er gilt dann als sich nicht wehrender Gegner, so dass sein Angreifer nur gegen 12 würfeln muss.zs
+Wenn ein Kampf zwischen zwei Gegnern mehr als eine Sekunde dauert, können derweil andere Charaktere mehrfach handeln. Der Ausgang des Zweikampfes steht erst nach Ablauf der Zeit fest, da beide Kämpfer immernoch auf die Rest-Umgebung reagieren können. Sie können ihren Kampf dann zu jederzeit abbrechen, aber wer es tut, riskiert vom Anderen angegriffen zu werden, ohne sich wehren zu werden.  Er gilt dann als sich nicht wehrender Gegner, so dass sein Angreifer nur gegen 12 würfeln muss.
 
 ## Beispiel
 
-…
+Rolf Remmings sitzt seit 3 Tagen in seiner Kabine und versucht nicht darüber nachzudenken, dass er als Kapitän des Schiffes von dem Bordingenieur eingesperrt wurde. Bisher standen zu jeder Tages- und Nachtzeit 3 Wartungsroboter mit angebauten Laserwaffen. 
+
+Als er heute allerdings durch die Risse in dem ausgebrannten Schott blickt, das seine Kabine von den Schiffsgängen trennt, erkennt er nur einen einzelnen Roboter im Gang. Also nimmt er eine Platine von der Wand, reißt ein lockeres Lüftungsrohr ab und geht zum Schott. 
+
+*10cm vor das Schott. Soweit kann er gehen, ohne dass die Roboter reagieren. Soweit reicht sein Sicherheitsbereich.*
+
+Stück für Stück stemmt er das Schott auf.  Wie erwartet ignoriert ihn der Roboter.  Immerhin ist er noch nicht wirklich aus seinem Zimmer herausgekommen.  Dann ist das Schott weit genug offen, dass er hindurch kann. 
+
+*Der Rest seiner Crew.  Hoffentlich war ihnen nichts passiert.  Der Ingenieur hatte immer seltsame Blicke auf Rolfs Zögling geworfen.  Hätte er doch diesen Irren nie eingestellt.  Es gab einfach kaum mehr gute Leute, die eine Reise in die Leere riskieren wollten, seit sich das All auch aus der eigenen Wohnung erforschen ließ.*
+
+Er hebt langsam die Stange.  
+
+*Der Roboter steht 5 Meter entfernt.  3 Schritte.  Ein Schuss.  Wenn er den übersteht, erreicht er den Roboter.*
+
+Er sprintet los.  Der Roboter ruckt herum.  Der Laser zuckt hoch.  Rolf wirft sich zur Seite.  Versucht weiter zu kommen.  Der Laser blitzt.  
+
+*Rolf ist ein mittelmäßiger Kämpfer (12).  Der Roboter hat nur eine rudimentäre Zielerkennung (9).  In seiner eigentlichen Aufgabe muss er sich nicht um schnelle Ziele kümmern.  Rolf hat einen Bonus von 6, weil er nicht zu treffen versucht, und einen Malus von 3 weil er keine Fernkampfwaffe hat.  Also steht es mit 3 Punkten Bonus 15 gegen 9.  Nur jeder 6. Schuss dürfte treffen.  Rolf würfelt eine 3, der Roboter eine 2.  12 gegen 11.  Der Schuss geht gerade so fehl.*
+
+Direkt neben Rolf brennt sich ein Laser in die Wand des Ganges.  Dann ist Rolf in Reichweite.  Er hebt das Rohr und versucht es der Roboter in das Schultergelenk zu rammen.  Zur gleichen Zeit zuckt der Laser wieder herum.
+
+*Diesmal hat Rolf keinen Bonus, und der Roboter mit seiner kurzen Laserpistole keinen Malus.  Also steht es 12 gegen 9.  Rolf würfelt eine 2.  Der Roboter eine 6.  Es steht also 14 gegen 15; für den Roboter.*
+
+Als sich der Laserstrahl in sein Bein brennt und Kleidung und Fleisch zu einer brodelnden Masse verschmelzen, schwindet Rolfs Bewusstsein mit rasender Geschwindigkeit.  Das letzte, was er hört, bevor sich dunkle Stille über seinen Geist legt, ist die Stimme seines Zöglings:  “Das ist der Letzte!  Was liegt da vor dem Schott?  Das kann nicht sein!  Rolf!”
+
