@@ -15,6 +15,8 @@ Dabei gibt jede Handlung in Stresssituationen einen Erschöpfungspunkt. Diese Pu
 
 Wenn bei einem Wurf der Absolutwert des Ergebnisses unter oder gleich dem Erschöpfungswert ist, strauchelt der Charakter. Als Ergebnis des Wurfes wird dann sein Fertigkeitswert - 6 +- Boni oder Mali genommen, es sei denn das Ergebnis war bereits niedriger.
 
+Außerdem sinkt der Wert seinr Erschöpfungseigenschaft um 3, was auch seinen Puffer um 1 reduziert. Die Eigenschaft regeneriert sich pro Woche um eine Anzahl von Punkten gleich einem Drittel des Eigenschaftswertes.
+
 Im Kampf wird der Charakter dadurch erstens wohl sehr heftig getroffen (das simuliert den Effekt des Strauchelns). Zweitens muss er nach der Handlung (unabhängig davon, ob er in einem Kamf ist) gegen Ohnmacht würfeln.
 
 Hat er im Kampf durch das Straucheln eine Wunde erhalten (weil sein Gegner ihn getroffen hat), ist die Probe gegen Ohnmacht durch die Wunde um weitere 3 Punkt erschwert. Dafür entfällt die zweite Probe gegen Ohnmacht (durch Straucheln). Er würfelt also nur einmal, allerdings erschwert.
