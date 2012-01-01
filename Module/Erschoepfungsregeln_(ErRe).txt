@@ -1,0 +1,25 @@
+Erschöpfungsregeln (ErRe)
+=========================
+
+Charaktere haben einen Erschöpfungswert, der sich mit Erschöpfung füllt, und eine Erschöpfungsschwelle, bis zu der Erschöpfung nicht auf den Erschöpfungswert addiert wird. Ein hoher Erschöpfungswert bringt bei jeder Probe das Risiko mit sich, dass der Charakter strauchelt oder gar zusammenbricht.
+
+Dabei gibt jede Handlung in Stresssituationen einen Erschöpfungspunkt. Diese Punkt füllen erst einen Puffer in Höhe eines Drittels einer passenden Eigenschaft auf (die Erschöpfungsschwelle). Ist dieser Puffer voll, werden weitere Punkte zu dem Erschöpfungwert addiert.
+
+Wenn bei einem Wurf der Absolutwert des Ergebnisses unter oder gleich dem Erschöpfungswert ist, strauchelt der Charakter. Als Ergebnis des Wurfes wird dann sein Fertigkeitswert - 6 +- Boni oder Mali genommen, es sei denn das Ergebnis war bereits niedriger.
+
+Der Charakter wird dadurch erstens wohl sehr heftig getroffen (das simuliert den Effekt des Strauchelns) und zweitens muss er nach der Handlung gegen Ohnmacht würfeln. Hat er durch das Straucheln eine Wunde erhalten (weil sein Gegenr ihn getroffen hat), ist die Probe gegen Ohnmacht durch die Wunde um weitere 3 Punkt erschwert. Dafür entfällt die zweite Probe gegen Ohnmacht (durch Straucheln), er würfelt also nur einmal.
+
+Dieser Malus von 3 gilt nur direkt nach dem Straucheln. Erhält der Charakter später noch eine weitere Wunde, ohne vorhr zu straucheln, hat er nur die Mali aus den Wunden aber nicht durch die Erschöpfung.
+
+Wenn der Wurf gegen Ohnmacht durch Erschöpfung erschwert ist, muss er mit einer zu Erschöpfung passenden Eigenschaft gemacht werden. Misslingt der Wurf gegen Ohnmacht nach dem Straucheln, bricht der Charakter usammen. Er ist nicht notwendigerweise Ohnmächtig, aber in jedem Fall unfähig zu weiteren komplexen Handlungen.
+
+Eine kurze Pause (schon ein paar Sekunden) frischt den Puffer wieder auf, aber der angesammelte Erschöpfungswert bleibt. Der Charakter muss allerdings erst wieder gegen Straucheln würfeln, wenn sein Puffer voll ist.
+
+Der Erschöpfungswert sinkt pro Stunde um eine Anzahl von Punkten gleich dem drittel der passenden Eigenschaft (die auch den Puffer gibt). Eine Nacht Schlaf senkt den Erschöpfungswert auf 0.
+
+Option: Krasse Erschöpfung
+--------------------------
+
+Der Charakter erhält pro Handlung 3 Punkte Erschöpfung, dafür hat er die ganze Eigenschaft als Puffer.
+
+Er hat dadurch im Durchschnitt 7 Handlungen, bevor es kritisch wird. Jedes + in der dafür gewählten Eigenschaft gibt ihm eine weitere Handlung.
