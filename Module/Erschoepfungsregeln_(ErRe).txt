@@ -1,30 +1,70 @@
 Erschöpfungsregeln (ErRe)
 =========================
 
+Einführung
+----------
+
 Charaktere haben einen Erschöpfungswert, der sich mit Erschöpfung füllt, und eine Erschöpfungsschwelle, bis zu der Erschöpfung nicht auf den Erschöpfungswert addiert wird. Ein hoher Erschöpfungswert bringt bei jeder Probe das Risiko mit sich, dass der Charakter strauchelt oder gar zusammenbricht.
+
+Die stärkste Auswirkung davon ist, dass sich die Dynamik von Kämpfen grundlegend ändert. Wo vorher ein überragender Charakter regelrecht durch schwache Gegner hindurchschneiden konnte, muss er sich nun immer wieder Momente der Ruhe erarbeiten.
+
+Grundlagen
+----------
 
 Dabei gibt jede Handlung in Stresssituationen einen Erschöpfungspunkt. Diese Punkt füllen erst einen Puffer in Höhe eines Drittels einer passenden Eigenschaft auf (die Erschöpfungsschwelle). Ist dieser Puffer voll, werden weitere Punkte zu dem Erschöpfungwert addiert.
 
 Wenn bei einem Wurf der Absolutwert des Ergebnisses unter oder gleich dem Erschöpfungswert ist, strauchelt der Charakter. Als Ergebnis des Wurfes wird dann sein Fertigkeitswert - 6 +- Boni oder Mali genommen, es sei denn das Ergebnis war bereits niedriger.
 
-Der Charakter wird dadurch erstens wohl sehr heftig getroffen (das simuliert den Effekt des Strauchelns) und zweitens muss er nach der Handlung gegen Ohnmacht würfeln. Hat er durch das Straucheln eine Wunde erhalten (weil sein Gegenr ihn getroffen hat), ist die Probe gegen Ohnmacht durch die Wunde um weitere 3 Punkt erschwert. Dafür entfällt die zweite Probe gegen Ohnmacht (durch Straucheln), er würfelt also nur einmal.
+Im Kampf wird der Charakter dadurch erstens wohl sehr heftig getroffen (das simuliert den Effekt des Strauchelns). Zweitens muss er nach der Handlung (unabhängig davon, ob er in einem Kamf ist) gegen Ohnmacht würfeln.
 
-Dieser Malus von 3 gilt nur direkt nach dem Straucheln. Erhält der Charakter später noch eine weitere Wunde, ohne vorhr zu straucheln, hat er nur die Mali aus den Wunden aber nicht durch die Erschöpfung.
+Hat er im Kampf durch das Straucheln eine Wunde erhalten (weil sein Gegner ihn getroffen hat), ist die Probe gegen Ohnmacht durch die Wunde um weitere 3 Punkt erschwert. Dafür entfällt die zweite Probe gegen Ohnmacht (durch Straucheln). Er würfelt also nur einmal, allerdings erschwert.
 
-Wenn der Wurf gegen Ohnmacht durch Erschöpfung erschwert ist, muss er mit einer zu Erschöpfung passenden Eigenschaft gemacht werden. Misslingt der Wurf gegen Ohnmacht nach dem Straucheln, bricht der Charakter usammen. Er ist nicht notwendigerweise Ohnmächtig, aber in jedem Fall unfähig zu weiteren komplexen Handlungen.
+Dieser Malus von 3 gilt nur direkt nach dem Straucheln. Erhält der Charakter später noch eine weitere Wunde, ohne vorher zu straucheln, hat er nur die Mali aus den Wunden aber nicht durch die Erschöpfung.
 
-Eine kurze Pause (schon ein paar Sekunden) frischt den Puffer wieder auf, aber der angesammelte Erschöpfungswert bleibt. Der Charakter muss allerdings erst wieder gegen Straucheln würfeln, wenn sein Puffer voll ist.
+Wenn der Wurf gegen Ohnmacht durch Erschöpfung erschwert ist, muss er mit einer zu Erschöpfung passenden Eigenschaft gemacht werden. Misslingt der Wurf gegen Ohnmacht nach dem Straucheln, bricht der Charakter zusammen. Er ist nicht notwendigerweise ohnmächtig, aber in jedem Fall unfähig zu weiteren komplexen Handlungen.
+
+Eine kurze Pause (schon eine Kampfrunde) frischt den Puffer wieder auf, aber der angesammelte Erschöpfungswert bleibt. Der Charakter muss allerdings erst dann wieder gegen Straucheln würfeln, wenn sein Puffer erneut voll ist. Solange er noch freien Puffer hat, behindert ihn seine Erschöpfung nicht. Erfahrene Kämpfer versuchen daher, immer wieder kurze Atempausen zu haben, so dass sie ihren Puffer nie ganz ausschöpfen. Spätestens im Kampf einr gegen zwei ist das allerdings fast unmöglich.
+
+In einer Ruhepause gilt ein Charakter als abgelenkt: Alle seine Würfe haben einen Malus von 3. Muss er handeln, gilt die Pause niccht als Pause. Wenn er sich also verteidigen muss, regeneriert sich sein Puffer nicht.
 
 Der Erschöpfungswert sinkt pro Stunde um eine Anzahl von Punkten gleich dem drittel der passenden Eigenschaft (die auch den Puffer gibt). Eine Nacht Schlaf senkt den Erschöpfungswert auf 0.
+
+Im Durchschnitt kann ein normaler Charakter 13 mal handeln, bevor er sich Sorgen um Erschöpfung machen muss (dann ist sein Erschöpfungswert bei 9, die Wahrscheinlichkeit des Strauchelns also bei 17%). Ein schwacher Charakter verbraucht für die gleichen Handlungen mehr Kraft, hat also nur 10 Handlungen, bevor er sich sorgen machen muss (dann ist der Erschöpfungswert bei 6).
 
 Option: Krasse Erschöpfung
 --------------------------
 
-Der Charakter erhält pro Handlung 3 Punkte Erschöpfung, dafür hat er die ganze Eigenschaft als Puffer.
+Der Charakter erhält pro Handlung 3 Punkte Erschöpfung, dafür hat er die ganze Eigenschaft als Puffer. Er hat also weiterhin freie Handlungen gleich eines  Drittels seiner Eigenschaft, aber der Effekt von Erschöpfung über seinem Puffer wird deutlich stärker und die Eigenschaft wichtiger.
 
 Er hat dadurch im Durchschnitt 7 Handlungen, bevor es kritisch wird. Jedes + in der dafür gewählten Eigenschaft gibt ihm eine weitere Handlung.
 
 Option: Bleibende Erschöpfung
 -----------------------------
 
-*Minimalwert für den Erschöpfungswert, z.B. durch Magie oder schlechten/fehlenden Schlaf.*
+Es gibt zwei Arten, wie Erschöpfung bleiben kann.
+
+1. Durch eine Reduzierung der Eigenschaft kann der Puffer sinken, so dass Ruhepausen weniger bringen. Das passiert meist durch Wunden an der Erschöpfungs-Eigenschaft. Der Charakter bricht in längeren Auseinandersetzungen  schneller zusammen, hält aber anfangs genausogut durch, wie sonst.
+
+2. Durch bleibende Erschöpfungspunkte. Hierbei sinkt der Erschöpfungswert nicht mehr auf 0, sondern nur auf einen Minimalwert. Sobald der Puffer aufgebraucht ist, steigt der Erschöpfungswert wieder von diesem Minimalwert aus. Bei hohem Minimalwert kann bereits direkt nach Aufbrauchen des Puffers die Gefahr des Strauchelns bestehen. Bleibende Erschöpfungspunkte eignen sich vor allem für Magie (zum Beispiel, wenn der Charakter mehr Kraft genutzt hat, als ihm eigentlich zur Verfügung steht) und für fehlenden Schlaf.
+
+### Nachteil: Schlechter Schlaf / Schlaflosigkeit (- / --)
+
+Statt in einer Nacht die gesamte Erschöpfung zu regenerieren, bekommt der Charakter nur seine Erschöpfungsschwelle pro Nacht (-), bzw. pro Woche (--) zurück.
+
+Wenn sein Erschöpfungswert über seine Erschöpfungsschwelle steigt, hat er automatisch einen Minimalert in Höhe der Differenz - und dieser Minimalwert wird nur durch die geschwächte nächtliche Regeneration wieder reduziert (uw seine Erschöpfungsschwelle pro Tag bzw. pro Woche).
+
+Kategorien
+----------
+
+Wenn das Kategoriesystem verwendet wird, erhält ein Charakter, der eine Fähigkeit aus einer niedrigeren Kategorie als seiner Erschöpfungseigenschaft nutzt, pro Kaategorie Unterschied nur ein Drittel der Erschöpfung. Liegt die Fähigkeit in iner höheren Kategorie, erhält er pro Kategorie Unterschied das Dreifache an Erschöpfung.
+
+Bei Fertigkeiten geben die unterstützenden Eigenschaften die Kategorie an.
+
+Hat also ein Barbar mit der Stärke eines Bären (Kategorie darüber) nicht auch die Konstitution eines Bären, erhält er pro Handlung nicht nur einen sondern 3 Punkte Erschöpfung. Mit der Option "krasse Erschöpfung" sogar 9 Punkte pro Handlung.
+
+Hat er aber nur die Konstitution des Bären, aber nicht dessen Stärke (und nutzt diese Konstitution nicht als unterstützende Eigenschaft im Kampf), dann erhält er nur ein Drittel der Erschöpfung, hält also fast ewig durch (verzichtet aber auf einen Bonus von 8 durch die Eigenchaft auf der höheren Kategorie).
+
+Beispiel
+--------
+
+*TODO*
