@@ -23,3 +23,8 @@ Option: Krasse Erschöpfung
 Der Charakter erhält pro Handlung 3 Punkte Erschöpfung, dafür hat er die ganze Eigenschaft als Puffer.
 
 Er hat dadurch im Durchschnitt 7 Handlungen, bevor es kritisch wird. Jedes + in der dafür gewählten Eigenschaft gibt ihm eine weitere Handlung.
+
+Option: Bleibende Erschöpfung
+-----------------------------
+
+*Minimalwert für den Erschöpfungswert, z.B. durch Magie oder schlechten/fehlenden Schlaf.*
