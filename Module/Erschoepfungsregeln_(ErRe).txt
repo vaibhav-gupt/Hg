@@ -72,9 +72,7 @@ Bei Fertigkeiten gibt die höchste unterstützende Eigenschaft die Kategorie an.
 
 Hat also ein Barbar mit der Stärke eines Bären (Kategorie darüber) nicht auch die Konstitution eines Bären, erhält er pro Handlung nicht nur einen, sondern 3 Punkte Erschöpfung. Mit der Option "krasse Erschöpfung" sogar 9 Punkte pro Handlung.
 
-Hat er aber nur die Konstitution des Bären, aber nicht dessen Stärke (und nutzt diese Konstitution nicht als unterstützende Eigenschaft im Kampf), dann erhält er nur ein Drittel der Erschöpfung, hält also nicht 13 sondern 39 Handlungen lang durch (verzichtet aber auf einen Bonus von 8 durch die Eigenchaft auf der höheren Kategorie). Er könnte 6 Zweikämpfe ohne Pause durchstehen.
+Hat er aber nur die Konstitution des Bären, aber nicht dessen Stärke (und nutzt diese Konstitution nicht als unterstützende Eigenschaft im Kampf), dann erhält er nur ein Drittel der Erschöpfung, hält also nicht 13 sondern 39 Handlungen lang durch (verzichtet aber auf einen Bonus von 8 durch die Eigenschaft auf der höheren Kategorie). Er könnte 6 Zweikämpfe ohne Pause durchstehen.
 
 Beispiel
 --------
-
-*TODO*
