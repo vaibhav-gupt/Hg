@@ -11,13 +11,13 @@ Die stärkste Auswirkung davon ist, dass sich die Dynamik von Kämpfen grundlege
 Grundlagen
 ----------
 
-Jede Handlung in Stresssituationen gibt einen Erschöpfungspunkt. Diese Punkt füllen erst einen Puffer in Höhe eines Drittels einer passenden Eigenschaft auf (die Erschöpfungsschwelle). Ist dieser Puffer voll, werden weitere Punkte zu dem Erschöpfungwert addiert.
+Jede Handlung in Stresssituationen gibt Erschöpfung. Diese Erschöpfung füllt erst einen Puffer in Höhe eines Drittels einer passenden Eigenschaft auf (die Erschöpfungsschwelle). Ist dieser Puffer voll, werden pro Handlung 3 weitere Punkte zu dem Erschöpfungwert addiert.
 
-Ein Charakter hat also sozusagen freie Handlungen in Höhe eines Drittels seiner Eigenschaft. Alle darüber hinausgehenden Handlungen erhöhen seinen Erschöpfungswert. Handlungen sind hier alles anstrengende, das ein Charakter tut, selbst wenn er nur versucht, sich zu verteidigen.
+Ein Charakter hat also sozusagen freie Handlungen in Höhe eines Drittels seiner Eigenschaft. Alle darüber hinausgehenden Handlungen erhöhen seinen Erschöpfungswert um jeweils 3. Handlungen sind hier alles anstrengende, das ein Charakter tut, selbst wenn er nur versucht, sich zu verteidigen.
 
-Wenn bei einem beliebigen Wurf der Absolutwert des Ergebnisses unter oder gleich dem Erschöpfungswert ist, strauchelt der Charakter. Als Ergebnis des Wurfes wird dann sein Fertigkeitswert - 6 (+- Boni oder Mali) genommen, es sei denn das Ergebnis war bereits niedriger.
+Wenn bei einem beliebigen Wurf der Absolutwert des Ergebnisses unter dem Erschöpfungswert ist, strauchelt der Charakter. Als Ergebnis des Wurfes wird dann sein Fertigkeitswert - 6 (+- Boni oder Mali) genommen, es sei denn das Ergebnis war bereits niedriger.
 
-Außerdem sinkt der Wert seinr Erschöpfungseigenschaft um 3, was auch seinen Puffer um 1 reduziert. Die Eigenschaft regeneriert sich wi normaler Schaden, also pro Woche um eine Anzahl von Punkten gleich einem Drittel des Eigenschaftswertes.
+Außerdem sinkt der Wert seinr Erschöpfungseigenschaft um 3, was auch seinen Puffer um 1 reduziert. Die Eigenschaft regeneriert sich wie normaler Schaden, also pro Woche um eine Anzahl von Punkten gleich einem Drittel des Eigenschaftswertes.
 
 In einem Kampf wird der Charakter dadurch erstens wahrscheinlich sehr heftig getroffen (das simuliert den Effekt des Strauchelns). Zweitens muss er nach der Handlung (unabhängig davon, ob er in einem Kamf ist) gegen Ohnmacht würfeln.
 
@@ -33,18 +33,18 @@ In einer Ruhepause gilt ein Charakter als abgelenkt: Alle seine Würfe haben ein
 
 Der Erschöpfungswert sinkt pro Stunde um eine Anzahl von Punkten gleich dem Drittel der passenden Eigenschaft (die auch den Puffer gibt). Eine Nacht Schlaf senkt den Erschöpfungswert auf 0.
 
-Im Durchschnitt kann ein normaler Charakter (Fertigkeit 12) mit diesen Regeln 13 mal handeln, bevor er sich Sorgen um Erschöpfung machen muss (dann ist sein Erschöpfungswert bei 9, die Wahrscheinlichkeit des Strauchelns also bei 17%). Das sind bei Zeikämpfen etwa 7 Kampfrunden (normale Zweikämpfe sind im EWS nach 3 Runden entschieden,l ein Charakter hält also zwei bis drei Zweikämpfe ohne Pause durch).
+Im Durchschnitt kann ein normaler Charakter (Fertigkeit 12) mit diesen Regeln 7 mal handeln, bevor er sich Sorgen um Erschöpfung machen muss (dann ist sein Erschöpfungswert bei 9, die Wahrscheinlichkeit des Strauchelns also bei 17%). Das sind bei Zeikämpfen etwa 3 Kampfrunden (normale Zweikämpfe sind im EWS nach 3 Runden entschieden), ein normaler Charakter hält also bis zu zwei Zweikämpfe ohne Pause durch).
 
-Ein schwacher Charakter (Fertigkeit 9) hat dagegen nur 10 Handlungen, bevor er sich Sorgen machen muss (dann ist der Erschöpfungswert bei 6).
+Ein schwacher Charakter (Fertigkeit 9) hat dagegen nur 6 Handlungen, bevor er sich Sorgen machen muss (dann ist der Erschöpfungswert bei 6).
 
-Option: Krasse Erschöpfung
+Option: Schwache Erschöpfung
 --------------------------
 
-Der Charakter erhält pro Handlung 3 Punkte Erschöpfung, dafür hat er die ganze Eigenschaft als Puffer. Er hat also weiterhin freie Handlungen gleich eines  Drittels seiner Eigenschaft, aber der Effekt von Erschöpfung über seinem Puffer wird deutlich stärker und die Eigenschaft wichtiger.
+Der Charakter erhält pro Handlung 1 Punkt Erschöpfung. Er hat also weiterhin freie Handlungen gleich eines  Drittels seiner Eigenschaft, aber der Effekt von Erschöpfung über seinem Puffer wird deutlich schwächer und die Eigenschaft wichtigerweniger wichtig.
 
-Er hat dadurch im Durchschnitt 7 Handlungen, bevor es kritisch wird. Jedes + in der dafür gewählten Eigenschaft gibt ihm eine weitere Handlung.
+Er hat dadurch im Durchschnitt 13 Handlungen, bevor es kritisch wird. Jedes + in der dafür gewählten Eigenschaft gibt ihm eine weitere Handlung, jedes + in der Fertigkeit gibt 3 weitere Handlungen.
 
-Hier müssen Kämpfer Pausen währen den Kämpfen einlegen, um nicht im zweiten Zweikampf vor Erschöpfung zu Boden zu gehen.
+Hier können vor allem sehr gute Kämpfer sehr lange durchhalten, so dass sich die Option für cinematische Runden eignet.
 
 Option: Bleibende Erschöpfung
 -----------------------------
@@ -76,3 +76,75 @@ Hat er aber nur die Konstitution des Bären, aber nicht dessen Stärke (und nutz
 
 Beispiel
 --------
+
+Naga und Krom stellen sich in einer engen Schlucht 10 Verfolgern entgegen. Naga ist schmächtig, aber eine Meisterin der schmalen Klinge (21). Seine Erschöpfungsschelle ist nur 3 (Ausdauer 9). Krom ist ein bulliger Barbar mit Keule (Fertigkeit 18). Seine Erschöpfungsschwelle ist 6 (Konstitution 18). Die Verfolger sind einfache Stadtwachen mit Schwertern und Lederrüstung (Erschöpfungsschwelle 4, Fertigkeit 12).
+
+*(wir werden nicht alle Würfelwürfe im Detail beschreiben, sondern hauptsächlich die für das Modul wichtigen)*
+
+Naga und Krom weichen ein Stück in die Schlucht zurück, um nicht eingekreist zu werden. Die erste Wache tritt ihnen alleine gegenüber. Ohne zu zögern lässt Naga ihre Klinge vorschnellen.
+
+*21 gegen 12. 2 gegen einen, also Bonus von 3 für Naga. Naga wirft eine 4, die Wache eine 1. 28 gegen 11, 17 Punkt Differenz. Die Wache geht mit einer kritischen Wunde zu Boden.*
+
+Der Stahl beist sich tief durch das Leder in den Brustkorb der Wache und sie sinkt seufzend zu Boden. Naga hat eine von seinen 3 freien Handlungen verbraucht, und schon springen zwei weitere Wachen über ihre sterbende Gefährtin.
+
+Die erste Wache schwingt ihr Schwert gegen Naga. Naga täuscht einen Rückzug an, zuckt dann vor und versucht ihre Klinge in den Hals der Wache zu versenken.
+
+*Es steht 12 gegen 21. Die Wache wirft eine 2, Naga eine 5 (wiederwürfeln bringt keine weitere 5). 14 gegen 16. 2 Punkte Differenz für Naga. Mit dem Schaden der schmalen Klinge (3) abzüglich der Lederrüstung (3) bleiben 2 Punkte Schaden. Keine Wunde.*
+
+Nagas Klinge kratzt über den Kragen der Lederrüstung und hinterlässt einen schmerzhaften, aber nicht direkt gefährlichen Schnitt am Hals der Wache. Naga hat ihre zweite freie Handlung verbraucht.
+
+Krom hat mehr Glück und streckt seine Gegnerin mit einem heftigen Schlag zu Boden. Er hat erst eine von 6 freien Handlungen genutzt.
+
+Naga greift sofort erneut an und diesmal sitzt ihr Angriff. Die Wache geht mit einer heftig blutenden Bauchwunde zu Boden. Naga hat ihre freien Handlungen verbraucht und es bleiben noch 7 Wachen.
+
+Krom, der um die Kondition seiner Kampfgefährtin weiß, tritt einen Schritt vor während Naga sich einen Schritt zurückfallen lässt, um zu verschnaufen. Die nächsten zwei Wachen stürzen sich zusammen auf Krom.
+
+*...was Krom einen Malus von 3 für den Kampf gegen 2 Gegner einbringt. Er sit nur noch bei 15 gegen 12.*
+
+Mit viel Glück gelingt es Krom, eine der Wachen zu verwunden und die andere mit einem knapp streifenden Hieb auf Abstand zu halten. Er verzichtet auf seinen Angriff. Die Gefahr, selbst verletzt zu werden, ist im Kampf gegen zwei zu groß, und nächste Runde wird Naga wieder fit sein. Krom hat 3 seiner 6 freien Handlungen verbraucht.
+
+Nach ihre kurzen Verschnaufpause springt Naga wieder vor, und ihre Klinge findet treffsicher ihr Ziel im Hals der verletzten Wache. Krom trifft die unverletzte Wache. Als diese darauf mit einem verzweifelten Ausfall versucht, Kroms Waffenarm zu erwischen, zerschmettert dessen Keule ihren Arm. Naga hat eine von 3 Handlungen verbraucht, Krom 5 von 6. Und es kommen noch 5 Wachen.
+
+Die nächsten beiden stürzen sich gemeinsam auf Naga. Eine geht sofort zu Boden, die zweite wird in Kroms Gegenangriff in den Staub geschmettert. Jetzt sind allerdings sowohl Naga als auch Krom an der Grenze ihrer freien Handlungen, und die Wachen scheinen nicht gewillt, ihnen eine Ruhepause zu gönnen.
+
+In der ersten Runde geht keine der Wachen zu Boden, auch wenn beide verwundet werden. Krom und Naga handeln beide zweimal, haben nun also einen Erschöpfungswert von 6. In der nächsten Runde können sie ihre Gegner ausschalten, doch ihre Erschöpfung ist bei 9. Die letzte Wache wirft sich todesmutig aus Naga - und stürzt blutend zu Boden. Nagas Erschöpfung ist bei 12.
+
+*Hätte Naga sich keine Ruhepause gegönnt, wäre ihre Erschöpfung jetzt nicht bei 12, sondern bereits bei 21 und sie hätte schon bei der vorherigen Handlung ein 7% Risiko gehabt zu straucheln.*
+
+Am Ende der Schlucht erwartet Naga un Krom ein Aufstieg über die Felsen.
+
+*Die SL legt fest, dass der Aufstieg eine Schwierigkeit von 9 hat und 2 Handlungen entspricht. Doppelt so viele, wenn die Probe fehlgeht. Doch Naga muss auf ihren Beruf ausweichen: Schatzsucherin 9. Mit Eigenschaftsbonus gerade mal 10. Sie wirft eine 3, rutscht also immer wieder ab und wird am Ende von Krom hochgezogen. Durch die 4 Handlungen braucht sie ihren Puffer auf und erhöht ihre Erschöpfung um einen weiteren Schritt auf 15.*
+
+Kaum sind beide schwer atmend oben angekommen, tauchen hinter Felsen grinsende Fremdländer auf. Nach kurzen Verhandlungen (in denen Naga und Krom wider zu Atem kommen) kommt es zum Kampf. Naga als Sklavin zu verkaufen ist für Krom nicht akzeptabel - und für Naga erst recht nicht.
+
+Insgesamt stehen Naga und Krom 6 Fremdländer mit Säbeln gegenüber. Und hier gibt es nur den Abgrund im Rücken, der verhindert, dass sie ganz eingekreist werden. Aber der vermittelt höchstens trügerische Sicherheit.
+
+Sowohl Krom als auch Naga stehen nun je 2 Gegnern gegenüber. Und diese sind geübter als die Wachen (15).
+
+Trotz allem sind Nagas Gegner schon nach ein paar Lidschlägen verwundet und Nagas Gegenangriff lässt einen von ihnen zu Boden gehen. Doch Naga atmet schwer. Die freien Handlungen sind schon ausgeschöpft.
+
+Krom hat größere Probleme mit seinen Gegnern. Er hat bereits eine Wunde eingesteckt und seine Gegner haben nur Kratzer. Aber er hat noch 3 freie Handlungen.
+
+Bevor ein Gegner die Lücke vor Naga füllen kann, springt sie Krom zu Hilfe, und ihr Treffer streckt einen seiner Gegner nieder. Krom gelingt es, seinen Gegner ebenfalls zu verwunden, und Naga erwischt ihren eigenen Gegner noch in dessen Angriff am Waffenarm. Doch nun ist Nagas Erschöpfung auf 21 gestiegen. Und die verbleibenden zwei Fremdländer greifen in den Kampf ein.
+
+Ohne lange zu zögern setzt Naga dem getroffenen nach.
+
+*Sie würfelt eine 2 - und strauchelt denn mit 21 minus 3 für den zweiten Gegner und plus 2 für den Wurf kommt sie nur auf 20: weniger als ihre Erschöpfung. Ihr Effektivwurf ist damit 21 - 6 und -3 für zwei Gegner, also 12. Ihr Gegner wirft eine 2, kommt also mit seinem Wundmalus auf 14. Differnz 2, plus 3 für den Säbelschaden, minus 3 für Naga Lederrüstung. Gerade so keine Wunde.*
+
+Noch in ihrem Angriff taumelt Naga vor Erschöpfung, und der Säbel ihres Gegners erwischt sie am Bein.
+
+*Sie würfelt nun eine Nullprobe gegen Erschöpfung: Ausdauer 9 +- W6. Die Probe gelingt ohne Probleme, doch ihre Ausdauer sinkt um 3 auf 6 - und damit sinkt auch ihr Puffer auf 2. Ihre Erschöpfung steigt weiter auf 24.*
+
+Als er ihr Straucheln sieht, grinst der Fremdländer sie böse an "Streck die Waffe. Wir wollen unsere Ware nicht verletzen und du kannst nichtmal mehr stehen."
+
+Im gleichen Moment zerschmettert Krom einem seiner Gegner den Schädel.
+
+Der Grinsende wendet sich um, das Grinsen erstirbt und Naga wagt einen letzten Ausfall.
+
+*Diesmal steht ihr nur einer gegenüber. Sie braucht aber eine 4 oder 6, um nicht reneut zu straucheln. Ihre Spielerin fleht ihren Würfel um Unterstützung an, dann wirft sie den W6. Der Sechsseiteer prallt an einer Flache ab und rollt gegen eine  Bleistift. Nagas pielerin beugt sich vor - und seufzt erleichtert: 4.*
+
+Ihre Klinge durchbohrt ihren Gegner. Dann reißt sie ihre Waffe heraus und zischt die anderen an: "Ich bin keine Ware, und ihr seid totes Fleisch."
+
+Krom lässt ihren Worten Taten folgen und Momente später liegen die letzten Fremdländer tot auf den Steinen.
+
+Naga setzt sich schwer atmend und versucht Atem zu schöpfen, während Krom die Leichen über den Rand der Schlucht wirft.
