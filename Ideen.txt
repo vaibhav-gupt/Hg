@@ -2325,3 +2325,14 @@ Ermutigende Worte und ein Ansprechen der für den Charakter wichtigsten Grundwer
 ### Resonanz des Benutzers in Neuronalen Interfaces
 
 Es gibt Gerüchte, dass neuronale Interfaces nach langjähriger Benutzung …Echo, Tote im Netz, ganze Geisterschiffe, System streitet alles ab, Schiffe mit gestorbener Crew gereinigt werden, Abbild dessen, was die Crew im Schiff gesehen hat.
+
+
+------
+
+Was mMn nicht passieren darf: Die Chars sind im Kampf und einer macht Storykampf (besiegt Gegner durch coole Aktionen, obwohl sein Char nicht die Werte dazu hat) während der andere taktisch arbeitet (benutzt seine Werte, um zu gewinnen). Hier entwertet entweder der Storyspieler die Werte des Taktikers oder der Taktiker entwertet die Erzählungen des Storyspielers, weil sie nicht gelten.
+
+Regeln, die einen Bonus für gute Erzählung liefern, geben beiden Raum und balancieren ihre Fähigkeiten explizit. Regeln, die diesen Bonus nur bieten, wenn der Char dafür in der Szene auf Werte mit gleichem Wert verzichtet, balancieren es sowohl in den Augen der Storyspielers als auch des Taktikers.
+
+Ich würde das bisher improvisieren. Allerdings wäre es nicht allzu kompliziert, das in 1w6 zu implementieren. Ich würde einfach die Regeln für die Welt hinter der Welt anpassen. Du kannst durch coole Story einen Bonus von 1 pro aufgegebenem + rausholen.
+
+→ http://tanelorn.net/index.php/board,4.0.html
