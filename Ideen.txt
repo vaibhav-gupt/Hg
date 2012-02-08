@@ -2336,3 +2336,32 @@ Regeln, die einen Bonus für gute Erzählung liefern, geben beiden Raum und bala
 Ich würde das bisher improvisieren. Allerdings wäre es nicht allzu kompliziert, das in 1w6 zu implementieren. Ich würde einfach die Regeln für die Welt hinter der Welt anpassen. Du kannst durch coole Story einen Bonus von 1 pro aufgegebenem + rausholen.
 
 → http://tanelorn.net/index.php/board,4.0.html
+
+
+------
+
+Kommentar zu http://glgnfz.blogspot.com/2012/01/robin-du-bloder-hund.html
+
+Robin schreibt über einen unstrukturierten Dungeon ohne Story-Elemente. Was genau daran das Problem sein soll, verstehe ich nicht. 
+
+Klar gibt es Dungeons mit Storyelementen und mit komplexen taktischen Planungen, usw. Von denen schreibt er aber nicht - wie er direkt am Anfang deutlich macht. 
+
+Was in dem Zitat noch fehlt ist:
+
+<i>Ein Nachteil des unstrukturierten Stils ist es, dass SL eher vom Leiten dieses Stils ermüden als die Spieler vom Spielen. Weil die hundertste Begegnung, die du für den Dungeon erfindest, mehr oder weniger wie die zehnte ist, wird der Abenteuerentwurf über kurz oder lang eintönig.</i>
+
+Statt „noch immer“ wäre vielleicht die Formulierung „weiterhin“ besser gewesen. Aber der Schnitzer kommt nicht vom Autor, sondern vom Übersetzer. Und ich kann aus erster Hand sagen, dass da keine Absicht dahinter steht :)
+
+Im Vergleich zu einer Detektivgeschichte ist ein Dungeon extrem einfach zu leiten und zu planen. Eigentlich fällt mir keine Art der Planung ein, die leichter ist als der Dungeon mit Wänden, durch die man nicht durchlaufen kann, und stimmungsvollen Dingen, die man findet.
+
+Er macht Spaß zu spielen und kann fast ohne Vorbereitung geleitet werden. Unsere Dungeonslayer-Runden haben das klar bewiesen. Ich habe mich als SL wirklich gar nicht vorbereitet und es kam eine tolle Runde dabei heraus: <a href="http://1w6.org/blog/drak/2009-11-26-dungeonslayers-spielbericht">Dungeonslayers Spielbericht (top!)</a>
+
+Für mich als SL war das Abenteuer komplett unstrukturiert, denn ich musste keine komplexen Beziehungen im Auge behalten und konnte mich voll und ganz auf stimmungsvolle Beschreibungen konzentrieren. 
+
+Insofern hat er meiner Ansicht nach voll und ganz Recht damit, dass Dungeons am einfachsten zu leiten sind und sich daher für Anfänger eignen.
+
+@Georgios: Primitiver Dungeon stimmt. Schlecht dagegen nicht. Wenn die Spieler die Art zu spielen mögen, ist ein primitiver Dungeon genau das richtige. Und damit gut. Er schreibt über die Planungsstruktur Dungeon, nicht über den Dungeon als Hintergrund für andere Planungsstrukturen.
+
+Und ich persönlich habe viele Dungeons geleitet. Sie haben sich als idealer Schauplatz für Stimmungsaufbau erwiesen, gerade weil sie einfach sind. 
+
+Einige der intensivsten Spielabende waren von der Grundstruktur her primitive Dungeons.
