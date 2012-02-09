@@ -6,11 +6,13 @@ Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern. Einige Teile 
 Inhalt:
 
 * Eindrücke
-* Änderungen zum Spiel mit kleineren Runden
-* Was hat geklappt?
+* [Änderungen zum Spiel mit kleineren Runden](#aenderungen)
+* [Was hat geklappt?](eindruecke)
 * Was ging schief?
 * Tipps
 * Fragen
+
+<a name="eindruecke"></a>
 
 Eindrücke
 ---------
@@ -20,6 +22,8 @@ Zuerst mal meine Eindrücke zu der Runde. Wir waren insgesamt 9 Leute, 4 davon h
 Es war eine Impro-Runde (weil ich mich auf das falsche System vorbereitet hatte; Fluch auf meine Vergesslichkeit: Ich hatte die [Flyerbücher](http://flyer.1w6.org) dabei, aber ein Spieler hatte die schon gespielt). Charaktere waren frei erschaffen, mit Ideen aus [Technophob](http://1w6.org/proj/technophob), aber ohne feste Einschränkungen. 
 
 Ich habe sie in einem Schiff abstürzen lassen. Dann sind sie auf einem Eisplanet gelandet. von dem aus ihr Schiff abgeschossen worden war. Dort wollten sie dann die Einrichtung untersuchen, aus der die Schüsse kamen, und haben sich dazu mit den Wachen ein Feuergefecht geleistet.
+
+<a name="aenderungen"></a>
 
 Änderungen zum sonstigen Spiel
 ------------------------------
