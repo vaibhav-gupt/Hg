@@ -5,9 +5,9 @@ Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern. Einige Teile 
 
 Inhalt:
 
-* Eindrücke
+* [Eindrücke](eindruecke)
 * [Änderungen zum Spiel mit kleineren Runden](#aenderungen)
-* [Was hat geklappt?](eindruecke)
+* [Was hat geklappt?](geklappt)
 * Was ging schief?
 * Tipps
 * Fragen
@@ -28,3 +28,21 @@ Ich habe sie in einem Schiff abstürzen lassen. Dann sind sie auf einem Eisplane
 Änderungen zum sonstigen Spiel
 ------------------------------
 
+Das wir mehr Leute als sonst waren, wenig Zeit hatten und viele neue Spieler dabei waren, habe wir ein Paar Anpassungen vorgenommen. 
+
+Statt der normalen Erschaffung habe ich den Spielerinnen einfach gesagt, dass sie 7 starke Werte haben. Dadurch waren hohe Werte zu billig und die Charaktere nicht völlig balanciert, aber was solls? Selbst so haben mir zwei Spielerinnen gesagt, dass ihnen die Unterscheidung zwischen Eigenschaften, Fertigkeiten und Merkmalen zu kompliziert war.
+
+Dann habe ich die Geschichte aus den Stärken und Schwächen der Charaktere entwickelt: Eine hat kein Wasser vertragen, deswegen sind sie auf einem Eisplaneten abgestürzt. Leider habe ich zu wenig soziales eingebracht.
+
+Die Charaktere waren [schwarzgepanzerter Synarchu], eine fliegende Assassinen-Drone, ein metaphysisches WEsen, das dem Gegenüber immer ihn selbst gespiegelt hat, eine zweiköpfige Medusa und Sirene, von zwei Spielerinnen gemeinsam gespielt, ein Jäger mit Tarnsystem, eine männerhassende Space-Amazone und ein tief-Philosophischer Monrithgad. 
+
+Damit waren die Charaktere sehr vielfältig, aber die Spielwerte gaben eine Richtschnur, um sie zusammenzubringen. Ich wusste, womit ich arbeiten konnte.
+
+<a name="geklappt"></a>
+
+Was hat geklappt?
+-----------------
+
+
+
+(Flyerbücher sind hilfreich. Besser noch weitergehen: Keine Unterscheidung zwischen Eigenschaften und Merkmalen: Alle geben einfach Boni. Dadurch wird das Konzept noch einfacher: Fertigkeiten zum Würfeln, Eigenschaften für Boni und Sonderzeug, Probleme für Abzüge)
