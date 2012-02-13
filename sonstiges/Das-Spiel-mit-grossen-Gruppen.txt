@@ -43,6 +43,6 @@ Damit waren die Charaktere sehr vielfältig, aber die Spielwerte gaben eine Rich
 Was hat geklappt?
 -----------------
 
-
+Die schnelle Erschaffung ging gut, auch wenn es für neue Spieler wahrscheinlich noch besser wäre, den Unterschied zwischen Eigenschaften und Merkmalen zu ignorieren, ud die Stuktur zu vereinfachen. Eigenschaften, Fertigkeiten, Berufe und Merkmalen sind 4 unterschiedliche Typen von Werten. Die auf 3 zu reduzieren würde die Komplexität deutlich mindern. Ein Neuling im Rollenspiel muss bereits im Kopf behalten, wie das Spiel funktioniert (Ich habe einen Charakter. Wir Spielen eine Geschichte. Bei Konflikten würfeln wir), wer dabei ist (alle anderen Charaktere) und was er für seinen Charakter will. Den Charakter in 4 Teilbereiche zu strukturieren kann da recht viel sein, vor allem, wenn er keine Vorlage hat.
 
 (Flyerbücher sind hilfreich. Besser noch weitergehen: Keine Unterscheidung zwischen Eigenschaften und Merkmalen: Alle geben einfach Boni. Dadurch wird das Konzept noch einfacher: Fertigkeiten zum Würfeln, Eigenschaften für Boni und Sonderzeug, Probleme für Abzüge)
