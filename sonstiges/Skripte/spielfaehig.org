@@ -1,0 +1,12 @@
+# -*- org-babel-python-command: "python3"; -*-
+
+Spielfähig: Ein Skript, um zu prüfen, wie wahrscheinlich eine Rollenspielrunde spielfähig ist.
+
+#+sourcename: spiel
+#+source spiel(p,n,min_spieler)4
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.75, 5, 3)
+#+end_src
+#+results:
+: 0.896484375

@@ -1,0 +1,48 @@
+Das Spiel mit großen Gruppen: Rückblick, Ideen und Fragen
+=========================================================
+
+Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern. Einige Teile der Runde haben gut funktioniert, andere dagegen sind sehr zerfasert. Daher habe ich mir Gedanken gemacht, wie ich das nächste Mal besser leiten kann - und welche Herausforderungen noch eine Lösung brauchen. 
+
+Inhalt:
+
+* [Eindrücke](eindruecke)
+* [Änderungen zum Spiel mit kleineren Runden](#aenderungen)
+* [Was hat geklappt?](geklappt)
+* Was ging schief?
+* Tipps
+* Fragen
+
+<a name="eindruecke"></a>
+
+Eindrücke
+---------
+
+Zuerst mal meine Eindrücke zu der Runde. Wir waren insgesamt 9 Leute, 4 davon hatten noch nicht gespielt. Das Alter lag schätzungsweise zwischen 14-18 (5 Leute) bzw. 29-35 (wir alten Säcke halt :) ).
+
+Es war eine Impro-Runde (weil ich mich auf das falsche System vorbereitet hatte; Fluch auf meine Vergesslichkeit: Ich hatte die [Flyerbücher](http://flyer.1w6.org) dabei, aber ein Spieler hatte die schon gespielt). Charaktere waren frei erschaffen, mit Ideen aus [Technophob](http://1w6.org/proj/technophob), aber ohne feste Einschränkungen. 
+
+Ich habe sie in einem Schiff abstürzen lassen. Dann sind sie auf einem Eisplanet gelandet. von dem aus ihr Schiff abgeschossen worden war. Dort wollten sie dann die Einrichtung untersuchen, aus der die Schüsse kamen, und haben sich dazu mit den Wachen ein Feuergefecht geleistet.
+
+<a name="aenderungen"></a>
+
+Änderungen zum sonstigen Spiel
+------------------------------
+
+Das wir mehr Leute als sonst waren, wenig Zeit hatten und viele neue Spieler dabei waren, habe wir ein Paar Anpassungen vorgenommen. 
+
+Statt der normalen Erschaffung habe ich den Spielerinnen einfach gesagt, dass sie 7 starke Werte haben. Dadurch waren hohe Werte zu billig und die Charaktere nicht völlig balanciert, aber was solls? Selbst so haben mir zwei Spielerinnen gesagt, dass ihnen die Unterscheidung zwischen Eigenschaften, Fertigkeiten und Merkmalen zu kompliziert war.
+
+Dann habe ich die Geschichte aus den Stärken und Schwächen der Charaktere entwickelt: Eine hat kein Wasser vertragen, deswegen sind sie auf einem Eisplaneten abgestürzt. Leider habe ich zu wenig soziales eingebracht.
+
+Die Charaktere waren [schwarzgepanzerter Synarchu], eine fliegende Assassinen-Drone, ein metaphysisches WEsen, das dem Gegenüber immer ihn selbst gespiegelt hat, eine zweiköpfige Medusa und Sirene, von zwei Spielerinnen gemeinsam gespielt, ein Jäger mit Tarnsystem, eine männerhassende Space-Amazone und ein tief-Philosophischer Monrithgad. 
+
+Damit waren die Charaktere sehr vielfältig, aber die Spielwerte gaben eine Richtschnur, um sie zusammenzubringen. Ich wusste, womit ich arbeiten konnte.
+
+<a name="geklappt"></a>
+
+Was hat geklappt?
+-----------------
+
+Die schnelle Erschaffung ging gut, auch wenn es für neue Spieler wahrscheinlich noch besser wäre, den Unterschied zwischen Eigenschaften und Merkmalen zu ignorieren, ud die Stuktur zu vereinfachen. Eigenschaften, Fertigkeiten, Berufe und Merkmalen sind 4 unterschiedliche Typen von Werten. Die auf 3 zu reduzieren würde die Komplexität deutlich mindern. Ein Neuling im Rollenspiel muss bereits im Kopf behalten, wie das Spiel funktioniert (Ich habe einen Charakter. Wir Spielen eine Geschichte. Bei Konflikten würfeln wir), wer dabei ist (alle anderen Charaktere) und was er für seinen Charakter will. Den Charakter in 4 Teilbereiche zu strukturieren kann da recht viel sein, vor allem, wenn er keine Vorlage hat.
+
+(Flyerbücher sind hilfreich. Besser noch weitergehen: Keine Unterscheidung zwischen Eigenschaften und Merkmalen: Alle geben einfach Boni. Dadurch wird das Konzept noch einfacher: Fertigkeiten zum Würfeln, Eigenschaften für Boni und Sonderzeug, Probleme für Abzüge)
