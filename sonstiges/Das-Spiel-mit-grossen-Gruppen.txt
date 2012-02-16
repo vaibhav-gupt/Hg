@@ -43,11 +43,17 @@ Damit waren die Charaktere sehr vielfältig, aber die Spielwerte gaben eine Rich
 Was hat geklappt?
 -----------------
 
-Die schnelle Erschaffung ging gut, auch wenn es für neue Spieler wahrscheinlich noch besser wäre, den Unterschied zwischen Eigenschaften und Merkmalen zu ignorieren, ud die Stuktur zu vereinfachen. Eigenschaften, Fertigkeiten, Berufe und Merkmalen sind 4 unterschiedliche Typen von Werten. Die auf 3 zu reduzieren würde die Komplexität deutlich mindern[^komplexitaet].
+Die schnelle Erschaffung ging gut, auch wenn es für neue Spieler wahrscheinlich noch besser wäre, den Unterschied zwischen Eigenschaften und Merkmalen zu ignorieren, und die Stuktur zu vereinfachen. Eigenschaften, Fertigkeiten, Berufe und Merkmalen sind 4 unterschiedliche Typen von Werten. Die auf 3 zu reduzieren würde die Komplexität deutlich mindern[^komplexitaet].
+
+Die dadurch unterschiedlicher Macht der Chararktere hat keinerlei Probleme gemacht (allerdings war es auch nur ein One-Shot).
 
 [^komplexitaet]: Ein Neuling im Rollenspiel muss bereits im Kopf behalten, wie das Spiel funktioniert (Ich habe einen Charakter. Wir Spielen eine Geschichte. Bei Konflikten würfeln wir), wer dabei ist (alle anderen Charaktere) und was er für seinen Charakter will. Den Charakter in 4 Teilbereiche zu strukturieren kann da recht viel sein, vor allem, wenn er keine Vorlage hat.
 
+Auch die Anfangsszene im Raumschiff lief sehr gut. Die Cahrarktere haben sich unterhalten, und wann immer die Szene langweilig zu werden drohte, habe ich etwas interaktion eingeworfen: Erst die Sichtung der zerstörten Station (dahin wollten sie eigentlich), dann den ersten Beschuss ihres Schiffes, dann weiteren Beschuss, wegen dem sie langen mussten und abstürzten. 
 
+Nach dem Absturz wurde es dann etwas schwieriger.
+
+Insgesamt würde ich sagen, dass wir viel Spaß hatten. Leider hat dabei nicht alles funktioniert - sonst hätte es noch viel intensiver werden können. Gehen wir also zu dem über, was ich zukünftig anders machen will. Oder zumindest veruchen will, anders zu machen.
 
 <a name=schief"></a>
 
@@ -56,7 +62,7 @@ Was ging schief?
 
 ### Die Runde zerfaserte
 
-Unter den Broplemen war für mich der größte Faktor, dass die Runde stark zerfaserte. Sobald die mit dem Schiff agestärzt waren und raus konnten, haben sie Angefangen, jöllig verschiedene Dinge zu tan. 
+Unter den Problemen war für mich der größte Faktor, dass die Runde stark zerfaserte. Sobald die mit dem Schiff agestärzt waren und raus konnten, haben sie Angefangen, jöllig verschiedene Dinge zu tan. 
 
 Der Synachuhat begonnen, einen cololen Schlitten zu planen, mit dem sie reisen könnten. Andere wollten nicht darauf warten. Undn auch nicht tun, was der Synachu wollte. 
 
@@ -97,7 +103,11 @@ Nach dieser etwas längeren Semlstkritik mal wieder zurüch ins Positive: Wie la
 
 ### Einfache, schnelle Regeln
 
-Der erste Punkt ist offensichtlich: Verwendet ein schnelles Regelwerk, so dass zu dem alleine von der Gruppengröße her gegebenen aufwand nicht noch zusätlicher Aufwand durch die Regeln kommt. Wenn ihr ein auf 1w6 basierendes Regelwerk nutzt, habt ihr den Punkt bereits erfüllt. In dem Fall müsst ihr nur darauf achten, keine Module zu nutzen, die die Regeln stark verlangsamen. Wenn ihr in kleineren Runden Zusatzmodule nutzt, könnte es sich anbieten, die in großer Runde wegzulassen. Die [Flyerbücher](http://flyer.1w6.org) sind ein Ansatz für minimierte Regeln mit neuen Spielern. Bei erfahrenen 1w6-Spielern dürfte das Grundsystem schneller sein, weil darin der Effektivwert von Fertigkeiten bereits berechnet ist, so dass die Frage wegfällt, welche Eigenschaften eine bestimmte Probe stützen. Durch die etwas komplexere Erschaffung habt ihr dann ein noch etwas schnelleres Spiel.
+Der erste Punkt ist offensichtlich: Verwendet ein schnelles Regelwerk, so dass zu dem alleine von der Gruppengröße her gegebenen aufwand nicht noch zusätlicher Aufwand durch die Regeln kommt. Wenn ihr ein auf 1w6 basierendes Regelwerk nutzt, habt ihr den Punkt bereits erfüllt. In dem Fall müsst ihr nur darauf achten, keine Module zu nutzen, die die Regeln stark verlangsamen. Wenn ihr in kleineren Runden Zusatzmodule nutzt, könnte es sich anbieten, die in großer Runde wegzulassen. 
+
+Die [Flyerbücher](http://flyer.1w6.org) scheinen sich für große Gruppen anzubieten, sind allerdings ein Ansatz für minimierte Regeln mit neuen Spielern und neuen Charakteren. Bei erfahrenen 1w6-Spielern oder länger laufenden Runden dürfte das Grundsystem schneller sein, weil darin der Effektivwert von Fertigkeiten bereits in der Erschaffung und bei der Steigerung berechnet ist, so dass die Frage wegfällt, welche Eigenschaften eine bestimmte Probe stützen. Dafür werden die einzelnen Proben etwas weniger Einzigartig, weil nicht für jede Probe einzeln die passenden Eigenschaften sichtbar werden. Aber das ist ein Preis, der in großen Gruppen durch die Zeitersparnis[^flyerzeit] gut wettgemacht werden sollte.
+
+[^flyerzeit]: Durch die etwas komplexere Erschaffung habt ihr mit dem Grundsystem ein im Vergleich zu den [Flyerbüchern](http://flyer.1w6.org) noch etwas schnelleres Spiel. Bei normalen Proben fallen zwei Schritte weg: Statt (1) „Fertigkeit wählen“, (2) „passende Eigenschaften suchen“, (3) „Eigenschaftsboni verrechnen“, (4) „sonstige Boni verrechnen“, (5) „würfeln“, (6) „Fertigkeit ± Ergebnis“, (7) „vergleichen“ gibt es nur noch (1) „Fertigkeit wählen“, (2) „sonstige Boni verrechnen“, (3) „würfeln“, (4) „Fertigkeit ± Ergebnis“, (5) „vergleichen“.
 
 
 
