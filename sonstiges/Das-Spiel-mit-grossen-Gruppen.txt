@@ -109,6 +109,25 @@ Die [Flyerbücher](http://flyer.1w6.org) scheinen sich für große Gruppen anzub
 
 [^flyerzeit]: Durch die etwas komplexere Erschaffung habt ihr mit dem Grundsystem ein im Vergleich zu den [Flyerbüchern](http://flyer.1w6.org) noch etwas schnelleres Spiel. Bei normalen Proben fallen zwei Schritte weg: Statt (1) „Fertigkeit wählen“, (2) „passende Eigenschaften suchen“, (3) „Eigenschaftsboni verrechnen“, (4) „sonstige Boni verrechnen“, (5) „würfeln“, (6) „Fertigkeit ± Ergebnis“, (7) „vergleichen“ gibt es nur noch (1) „Fertigkeit wählen“, (2) „sonstige Boni verrechnen“, (3) „würfeln“, (4) „Fertigkeit ± Ergebnis“, (5) „vergleichen“.
 
+### Explizite positive Verbindungen
+
+Um ein zu starkes Zerrsafern der Gruppe zu vermeiden, lasst jeden in der Gruppe sich einen anderen aussuchen, mit dem ihn etwas positives verbindet. Das kann ein gemeinsames Erlebnis sein, oder frühere Hilfe. Wichtig ist, dass es dem Charakter noch heute etwas bedeutet, dass also noch heute eine positive Bindung zu diesem Charakter besteht. Sie muss nicht erwiedeirt werden, aber sie sollte da sein. Zusammen mit Sympatien zwischen den Spielern sollte es damit für jeden Spieler im Schnitt mindestens 2 Leite geben, mit denen er interagiert, oder die er zumindest schätzt. Manche werden nur einen haben und manche viel, aber jeder hat natärliche Ansprechpartner, und die Warscheinlichkeit, dass es eine ganz abgeschlossene Untergruppe gibt, ist deutlich geringer. 
+
+Wenn ihr in Gruppen bit bestehender Trennung spielt, macht einfich aus dem einen positiven Kontakt 2 positive Kontakte. Dann ist abgrenzende Subgruppenbildung fast ausgeschlossen.
 
 
-(Flyerbücher sind hilfreich. Besser noch weitergehen: Keine Unterscheidung zwischen Eigenschaften und Merkmalen: Alle geben einfach Boni. Dadurch wird das Konzept noch einfacher: Fertigkeiten zum Würfeln, Eigenschaften für Boni und Sonderzeug, Probleme für Abzüge)
+### Handlung in Szenen strukturieren
+
+Positive Verbindungen helfen allerdings wenig, wenn die Gruppe auseinanderläuft, weil die Charaktere unterschiedliche Dinge tun. Um das zu vermeiden, kannst du als SL die Szenen so strukturieren, dass sie bestimmte Aktivitätetn fördern, also sozusagen tas Thema der Szene durch den Entwurf der Szene vorgeben (ich höre jetzn schon die ARS-ler schreien. Wenn ihr eure Runden mit 8 Spielern im unstrukturierten Spiel hinbekommt, ohne dass sich die meiste Zeit die Hälfte langweilt, verratet mir bitte euren Trick). 
+
+Wenn die Szene zum Kennenlernen da ist, dann mach sie in einem abgeschlossenen Raum oder en einer Oase ab Abend (nachts Reisen ist da keine gute Idee). Wenn es um Planung geht, dann sorge dafür, dass es ohne Planung nicht weitergeht und dass das für alle kristallklar ist. Zum Beispiel indem alle ungeplanten Aktionen schnell schief gehen (denk dran: Du kontrollierst die Welt und was du noch nicht beschrieben hast, kanst du immernoch ändern). Und wenn es um Kampf geht, sorge dafür, dass alle mit dem gleichen Problem konfrontiert sind. 
+
+Das musst du nicht immer und zu jeder Zeit so halten, aber da du nicht skalierst, sollte die Gruppe in jeder Handlungsrelevanten Situation zusammen sein. Und wo das nicht geht, hol dir eine Co-SL.
+
+### Hol dir eine CO-SL
+
+
+
+
+
+(Flyerbücher sind hilfreich. Bei Erschaffung in der Runde  Besser noch weitergehen: Keine Unterscheidung zwischen Eigenschaften und Merkmalen: Alle geben einfach Boni. Dadurch wird das Konzept noch einfacher: Fertigkeiten zum Würfeln, Eigenschaften für Boni und Sonderzeug, Probleme für Abzüge)
