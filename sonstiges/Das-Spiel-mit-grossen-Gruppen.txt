@@ -5,12 +5,12 @@ Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern. Einige Teile 
 
 Inhalt:
 
-* [Eindrücke](eindruecke)
+* [Eindrücke](#eindruecke)
 * [Änderungen zum Spiel mit kleineren Runden](#aenderungen)
-* [Was hat geklappt?](geklappt)
-* Was ging schief?
-* Tipps
-* Fragen
+* [Was hat geklappt?](#geklappt)
+* [Was ging schief?](#schief)
+* [Tipps](#tipps)
+* [Fragen](#fragen)
 
 <a name="eindruecke"></a>
 
@@ -94,6 +94,8 @@ Besser wäre noch eine soziale Situation gewesen. Alle hätten an einem Tisch si
 
 Auf die Art wäre für alle klar, was sie gerade machen können. Das heißt: Stärker lenkende Szenen für größere Gruppen (falls du mitgespielt hast und dir noch ein Problem fehlt, schreib es bitte!)
 
+<a name="tipps"></a>
+
 Tipps für große Runden
 ----------------------
 
@@ -131,6 +133,8 @@ Das musst du nicht immer und zu jeder Zeit so halten, und solange die Gruppe wie
 ### Hol dir eine CO-SL
 
 Aber selbst so kann es dir zu kompliziert werden, alle Aktionen gleichzeitig im Kopf zu behalten. In dem Fall denk an einen Ausspruch eines berühmten PRogrammieres: „Die SL skaliert nicht“ (OK, der Ausspruch gets etwas anders, aber im Kern sagt er das - wenn du weißt, was ich meine, schreib doch einen KOmmentar :) ). Wenn du merkst, dass du den Überblick verlierst, scheue nicht davor zurück, das deinen Spielerinnen zusagen und zu fragen, ob eine von ihnen dir in der Szene als CO-SL zur Seite stehen kann, z.B. um den Kampf zu regeln oder ein paar NSCs zu spielen. Solange die Aufgabenteilung klar ist, sollte das one allzu große Inkonsistenzen funktionieren. Und ein paar kleine Ungereimtheiten sind auch kein Beinbruch, solange ihr sie offen zugeben könnt. das passiert halt beim Spiel an der Belastungsgrenze :).
+
+<a name="fragen"></a>
 
 Fragen
 ------
