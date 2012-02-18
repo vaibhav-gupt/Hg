@@ -1,7 +1,7 @@
 Das Spiel mit großen Gruppen: Rückblick, Ideen und Fragen
 =========================================================
 
-Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern. Einige Teile der Runde haben gut funktioniert, andere dagegen sind sehr zerfasert. Daher habe ich mir Gedanken gemacht, wie ich das nächste Mal besser leiten kann - und welche Herausforderungen noch eine Lösung brauchen. 
+Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern bei [ben](/uzanto/ben). Einige Teile der Runde haben gut funktioniert, andere dagegen sind sehr zerfasert. Daher habe ich mir Gedanken gemacht, wie ich das nächste Mal besser leiten kann - und welche Herausforderungen noch eine Lösung brauchen. 
 
 Inhalt:
 
@@ -17,24 +17,25 @@ Inhalt:
 Eindrücke
 ---------
 
-Zuerst mal meine Eindrücke zu der Runde. Wir waren insgesamt 9 Leute, 4 davon hatten noch nicht gespielt. Das Alter lag schätzungsweise zwischen 14-18 (5 Leute) bzw. 29-35 (wir alten Säcke halt :) ).
+Zuerst mal ganz kurz meine Eindrücke zu der Runde. Wir waren insgesamt 9 Leute, 4 davon hatten noch nicht gespielt. Das Alter lag schätzungsweise zwischen 14-18 (5 Leute) bzw. 20-35 (wir alten Säcke halt, die schon eigene Kinder haben :) ).
 
-Es war eine Impro-Runde (weil ich mich auf das falsche System vorbereitet hatte; Fluch auf meine Vergesslichkeit: Ich hatte die [Flyerbücher](http://flyer.1w6.org) dabei, aber ein Spieler hatte die schon gespielt). Charaktere waren frei erschaffen, mit Ideen aus [Technophob](http://1w6.org/proj/technophob), aber ohne feste Einschränkungen. 
+Es war eine Impro-Runde (weil ich mich auf das falsche System vorbereitet hatte - Fluch auf meine Vergesslichkeit: Ich hatte die [Flyerbücher](http://flyer.1w6.org) dabei, aber ein Spieler hatte die schon gespielt). Charaktere waren frei erschaffen, mit Ideen aus [Technophob](http://1w6.org/proj/technophob), aber ohne feste Einschränkungen - abgesehen von der Machtstufe (7 starke Werte, also angehende Helden). 
 
-Ich habe sie in einem Schiff abstürzen lassen. Dann sind sie auf einem Eisplanet gelandet. von dem aus ihr Schiff abgeschossen worden war. Dort wollten sie dann die Einrichtung untersuchen, aus der die Schüsse kamen, und haben sich dazu mit den Wachen ein Feuergefecht geleistet.
+Ich habe sie in einem Schiff abstürzen lassen. Dann sind sie auf einem Eisplanet gelandet. von dem aus ihr Schiff abgeschossen worden war. Dort wollten sie dann die Einrichtung untersuchen, aus der die Schüsse kamen, und haben sich dazu mit den Wachen ein Feuergefecht geleistet. Und abgesehen von dem teilweise recht heftigem Zerfasern (und ein paar gruppeninternen Querelen) hat die Runde viel Spaß gemacht.
 
 <a name="aenderungen"></a>
 
 Änderungen zum sonstigen Spiel
 ------------------------------
 
-Das wir mehr Leute als sonst waren, wenig Zeit hatten und viele neue Spieler dabei waren, habe wir ein Paar Anpassungen vorgenommen. 
+Das wir mehr Leute als sonst waren, wenig Zeit hatten und viele neue Spieler dabei waren, habe wir ein paar Anpassungen vorgenommen. 
 
-Statt der normalen Erschaffung habe ich den Spielerinnen einfach gesagt, dass sie 7 starke Werte haben. Dadurch waren hohe Werte zu billig und die Charaktere nicht völlig balanciert, aber was solls? Selbst so haben mir zwei Spielerinnen gesagt, dass ihnen die Unterscheidung zwischen Eigenschaften, Fertigkeiten und Merkmalen zu kompliziert war.
+Statt der normalen Erschaffung habe ich den Spielerinnen einfach gesagt, dass sie 7 Punkte haben und 2 Plusse haben einfach 2 Punkte gekostet, statt wie sonst 3 Punkte zu brauchen. Dadurch waren hohe Werte zu billig und die Charaktere nicht völlig balanciert, aber was solls? Selbst so haben mir zwei Spielerinnen gesagt, dass ihnen die Unterscheidung zwischen Eigenschaften, Fertigkeiten und Merkmalen zu kompliziert war. Lieber etwas einfacher und unbalancierter als komplex und perfekt und damit jemanden überfordern. Die Überforderung lässt sich viel schwerer kitten als die Spielbalance (komplexer machen kann man Regeln nachträglich immer noch, wenn alle die Grundlagen kennen).
 
-Dann habe ich die Geschichte aus den Stärken und Schwächen der Charaktere entwickelt: Eine hat kein Wasser vertragen, deswegen sind sie auf einem Eisplaneten abgestürzt. Leider habe ich zu wenig soziales eingebracht.
+Dann habe ich die Geschichte aus den Stärken und Schwächen der Charaktere entwickelt: Eine hat kein Wasser vertragen, deswegen sind sie auf einem Eisplaneten abgestürzt. Leider habe ich zu wenig Soziales eingebracht.
 
-Die Charaktere waren [schwarzgepanzerter Synarchu], eine fliegende Assassinen-Drone, ein metaphysisches WEsen, das dem Gegenüber immer ihn selbst gespiegelt hat, eine zweiköpfige Medusa und Sirene, von zwei Spielerinnen gemeinsam gespielt, ein Jäger mit Tarnsystem, eine männerhassende Space-Amazone und ein tief-Philosophischer Monrithgad. 
+Die Charaktere waren ein schwarzgepanzerter Synarchu, eine fliegende Assassinen-Drone, ein metaphysisches Wesen, das dem Gegenüber immer ihn selbst gespiegelt hat, eine zweiköpfige Medusa und Sirene, von zwei Spielerinnen gemeinsam gespielt, ein Jäger mit Tarnsystem, eine männerhassende Space-Amazone und ein tief-philosophischer 
+Monrithgad mit Tentakelähnlichen Pflanzenfasern. 
 
 Damit waren die Charaktere sehr vielfältig, aber die Spielwerte gaben eine Richtschnur, um sie zusammenzubringen. Ich wusste, womit ich arbeiten konnte.
 
@@ -43,46 +44,48 @@ Damit waren die Charaktere sehr vielfältig, aber die Spielwerte gaben eine Rich
 Was hat geklappt?
 -----------------
 
-Die schnelle Erschaffung ging gut, auch wenn es für neue Spieler wahrscheinlich noch besser wäre, den Unterschied zwischen Eigenschaften und Merkmalen zu ignorieren, und die Stuktur zu vereinfachen. Eigenschaften, Fertigkeiten, Berufe und Merkmalen sind 4 unterschiedliche Typen von Werten. Die auf 3 zu reduzieren würde die Komplexität deutlich mindern[^komplexitaet].
+Die schnelle Erschaffung hat gut funktioniert, auch wenn es für neue Spielerinnen wahrscheinlich noch besser wäre, den Unterschied zwischen Eigenschaften und Merkmalen zu ignorieren, und die Stuktur zu vereinfachen. Eigenschaften, Fertigkeiten, Berufe und Merkmalen sind 4 unterschiedliche Arten von Werten. Sie auf 3 zu reduzieren würde die Komplexität deutlich mindern[^komplexitaet].
 
-Die dadurch unterschiedlicher Macht der Chararktere hat keinerlei Probleme gemacht (allerdings war es auch nur ein One-Shot).
+Die durch die Vereinfachungen unterschiedlicher Macht der Chararktere hat keinerlei Probleme gemacht (allerdings war es auch nur ein One-Shot).
 
-[^komplexitaet]: Ein Neuling im Rollenspiel muss bereits im Kopf behalten, wie das Spiel funktioniert (Ich habe einen Charakter. Wir Spielen eine Geschichte. Bei Konflikten würfeln wir), wer dabei ist (alle anderen Charaktere) und was er für seinen Charakter will. Den Charakter in 4 Teilbereiche zu strukturieren kann da recht viel sein, vor allem, wenn er keine Vorlage hat.
+[^komplexitaet]: In eine Rollenspielrunde einzusteigen ist relativ komplex. Neulinge im Rollenspiel müssen bereits im Kopf behalten, wie das Spiel funktioniert (Ich habe einen Charakter. Wir Spielen eine Geschichte. Bei Konflikten würfeln wir), wer dabei ist (alle anderen Charaktere, gerade bei großen Runden also sehr viel) und was sie für ihre Charakter wollen. Den Charakter in 4 Teilbereiche zu strukturieren kann da kompliziert wirken, vor allem, wenn es keine Vorlagen gibt - also keine Charakterklassen. Für [Technophob](http://1w6.org/proj/technophob) haben wir daher Beispielcharaktere genutzt, die die Rolle von Charakterklassen übernehmen, ohne die Erschaffung über Klassen zu erzwingen.
 
-Auch die Anfangsszene im Raumschiff lief sehr gut. Die Cahrarktere haben sich unterhalten, und wann immer die Szene langweilig zu werden drohte, habe ich etwas interaktion eingeworfen: Erst die Sichtung der zerstörten Station (dahin wollten sie eigentlich), dann den ersten Beschuss ihres Schiffes, dann weiteren Beschuss, wegen dem sie langen mussten und abstürzten. 
+Auch die Anfangsszene im Raumschiff lief sehr gut. Die Cahrarktere haben sich unterhalten, und wann immer die Szene langweilig zu werden drohte, habe ich etwas Interaktion eingeworfen: Erst die Sichtung der zerstörten Station (dahin wollten sie eigentlich), dann den ersten Beschuss ihres Schiffes, dann weiteren Beschuss, wegen dem sie landen mussten und abstürzten. 
 
 Nach dem Absturz wurde es dann etwas schwieriger.
 
-Insgesamt würde ich sagen, dass wir viel Spaß hatten. Leider hat dabei nicht alles funktioniert - sonst hätte es noch viel intensiver werden können. Gehen wir also zu dem über, was ich zukünftig anders machen will. Oder zumindest veruchen will, anders zu machen.
+Insgesamt würde ich sagen, dass wir viel Spaß hatten. Leider hat dabei aber nicht alles funktioniert - sonst hätte es vermutlich noch viel intensiver werden können. Gehen wir also zu dem über, was ich zukünftig anders machen will. Oder zumindest versuchen will, anders zu machen.
 
-<a name=schief"></a>
+<a name="schief"></a>
 
 Was ging schief?
 ----------------
 
 ### Die Runde zerfaserte
 
-Unter den Problemen war für mich der größte Faktor, dass die Runde stark zerfaserte. Sobald die mit dem Schiff agestärzt waren und raus konnten, haben sie Angefangen, jöllig verschiedene Dinge zu tan. 
+Unter den Problemen war für mich der größte Faktor, dass die Runde stark zerfaserte. Sobald die mit dem Schiff abgestürzt waren und raus konnten, haben sie angefangen, völlig verschiedene Dinge zu tun. 
 
-Der Synachuhat begonnen, einen cololen Schlitten zu planen, mit dem sie reisen könnten. Andere wollten nicht darauf warten. Undn auch nicht tun, was der Synachu wollte. 
+Der Synachu hat begonnen, einen coolen Schlitten zu planen, mit dem sie reisen könnten. Andere wollten allerdings nicht darauf warten. Und auch nicht tun, was der Synachu wollte. 
 
-Hier haben sich keine Gruppenstrukturen regeben, zumindest keine für die gesamte Gruppe, und wir hatten nicht die Zeit, um so eine Struktur zu klären und gleichzeitig eine Geschichte zu erleben. 
+Hier haben sich keine Gruppenstrukturen ergeben, zumindest keine für die gesamte Gruppe, und wir hatten nicht die Zeit, um so eine Struktur zu klären und gleichzeitig eine Geschichte zu erleben. Das heißt nicht, dass wir eine Hierarchie gebraucht hätten. Was fehlte, war ein bereits etablierter Prozess, wie die Gruppe Entscheidungen trifft. In kleineren Gruppen, formt sich dieser Prozess schnell und organisch. In größeren dagegen ist es einfach, sich aus der Gruppe rauszunehmen, so dass sich leicht Untergruppen bilden können. Im Verlauf einer Kampagne würden die sich vermutlich verbinden, doch in einem kurzen One-Shot braucht es Tricks.
 
-Eine bessere struktur hätte helfen können. Z.B. Indem ich den Spielern gesagt hätte: „Nehmt euch einen beliebigen anderen. Ihr seid euch schon einmal begegnet. Wann war das, und was habt ihr gemacht?“
+Eine bei der Erschaffung etablierte Struktur hätte dabei helfen können. Z.B. indem ich den Spielerinnen gesagt hätte: „Nehmt euch eine beliebige Andere. Ihr seid euch schon einmal begegnet. Wann war das, und was habt ihr gemacht?“
 
-Dadurch hätten bereits am Anfang jeder einen anderen Charakter, mit dem es eine Verbindung gibt, und die Verbindungen zwischen den Spielern hätten vermutlich eine weitere Verbindung geliefert, so dass wir eine vollständig verbundene Gruppe gehabt hätten.
+Dadurch hätte bereits am Anfang jede einen anderen Charakter, mit dem es eine Verbindung gibt, und die Verbindungen zwischen den Spielerinnen hätten vermutlich eine weitere Verbindung geliefert, so dass wir eine vollständig verbundene Gruppe gehabt hätten.
 
 Besonders deutlich ist mir das geworden, als mir aufgefallen ist, dass die Charaktere sich nichtmal wirklich vorgestellt hatten. Sie hatten sich zwar beschrieben, aber nicht die Namen genannt.
 
-Vielleicht hätte ich die Interaktion etwas forcieren sollen, z.Bn mit der Frage:- „Wie wäre es, wenn ihr euch erstmal vorstellt?“
+Vielleicht hätte ich auch die Interaktion etwas forcieren sollen, z.B. mit der Frage:- „Wie wäre es, wenn ihr euch erstmal vorstellt?“ 
+
+Vielleicht hätte auch das schon geholfen.
 
 ### Die SL skaliert nicht
 
-Zusätzlich zum zerfasern, brauchten immer wieder mehrere Spieler gleichzeitig meine Aufmerksamkeit, so dass ich häufiger der Flaschenhals im Spiel war. Die haben viele unterschiedliche Dinge getan, die nicht zusammenhingen. Einer hat was gebut, zwei sind losgegangen, einer ist in die andere Richtung gelaufen und einer hat gewartet, dass ihn jemand anspricht. Das unter einen Hut und Woordiniert zu kriegen, war oft kaum machbar.
+Zusätzlich zum zerfasern, brauchten immer wieder mehrere Spieler gleichzeitig meine Aufmerksamkeit, so dass ich häufiger der Flaschenhals im Spielfluss war. Sie haben viele unterschiedliche Dinge getan, die nicht zusammenhingen. Eine hat was gebaut, zwei sind losgegangen, eine ist in die andere Richtung gelaufen und eine hat gewartet, dass sie jemand anspricht. Das unter einen Hut und koordiniert zu kriegen war oft kaum machbar.
 
-Hier hätte es vielleicht geholfen, einen der Spieler als Ko-SL zu rekrutieren. 
+Hier hätte es geholfen, eine der Spielerinnen als Co-SL zu rekrutieren. 
 
-Eine andere Möglichkeit wäre gewesen, das Abenteuer stärker zu strukturieren, ulso effektiv den Spielerinnen weniger Freiheit zu geben[^onepagedungeons]. Am Besten mit einer Startpunkt, der Klare Wege und Ziele bietet und dadurch ohne großen Aufwand spielbar wäre. Auf die Art hätten dann alle eine festere Verbindung, so dass sie eher zusammenbleiben würden. Alle wollten dasselbe tun. Wichtig wäre hier, dass ein alleine handeln nicht einfach geht, so dass Interaktion und interne Kommunikation notwendig ist.
+Eine andere Möglichkeit wäre gewesen, das Abenteuer stärker zu strukturieren, also effektiv den Spielerinnen weniger Freiheit zu geben[^onepagedungeons]. Am Besten mit einem Startpunkt, der klare Wege und Ziele bietet und dadurch ohne großen Aufwand spielbar wäre. Auf die Art hätten dann alle eine festere Verbindung, so dass sie eher zusammenbleiben würden. Alle würden dasselbe tun wollen. Wichtig wäre hier, dass Einzelhandlungen nicht einfach so gestartet werden können, sondern abgesprochen sein müssen, so dass Interaktion und interne Kommunikation notwendig ist. Eine Luftschleuse, die von innen bedient wird, hätte helfen können.
 
 [^onepagedungeons]: Ich denke seit längerem darüber nach, die One-Page-Dungeons von Dungeonslayer in das 1w6-System zu konvertieren und hoffe, das dadurch die Struktur der Runden steigen würde. Allerdings bin ich nicht sicher, ob das nicht ein Symptombasteln ist. Oder Faulheit: Dungeons sind leichter zu leiten, und ich bin durch Job und Familie in letzter Zeit weniger fit als früher. Und ich bin nicht sicher, ob es wirklich helfen würde, weil die Runde natürlich genausogut noch stärker zerfasern könnte, wenn jeder einen anderen Teil des Dungeons sehen will.
 
@@ -147,3 +150,15 @@ Nachdem ich nun meine Erfahrungen mit großen Gruppen in timmps verarbeitet habe
 * Was haltet ihr von den Tipps, die ich hier geschrieben habe? Könnt ihr sie bestätigen, oder seht ihr es anders?
 
 Und damit beschließe ich diesen Artikel erstmal. Ich freue mich schon auf eure Kommentare!
+
+*PS: Dieser Text ist konsequent weiblich gehalten (zumindest sind Spielerinnen und SL weiblich. Charakter ist nicht geändert, weil ich dafür keine schön klingende weibliche Form kenne. Wenn ihr eine kennt, schreibt das doch). Um mal zu zeigen, wie sich viele Frauen bei konsequent männlich geschriebenen Texten fühlen und damit einen Gegenpol zum reaktionären männlichschreiben zu bieten. Und ja: Wenn der Großteil der Texte im Netz und in Rollenspielen konsequent weiblich geschrieben wäre, würde ich die männliche Form verwenden - und wenn beides gleich verteilt wäre, würde ich auch gleich verteilt schreiben. Wer das seltsam findet, sollte mal hier vorbeischauen: [Schauspieler und Schauspielerinnen und SchauspielerInnen](http://elab.or.at/2008/08/schauspieler-und-schauspielerinnen-und-schauspielerinnen-2/): „Einfach wieder so zu tun als wär die Sprache – was Gleichbehandlung betrifft – egal, geht…inzwischen nicht
+mehr“ - mit Referenzen zu psychologischen Studien. Wer nun den Flamewar eröffnen will, sei herzlich eingeladen, das woanders zu tun.*
+
+
+
+
+
+
+
+
+
