@@ -3,6 +3,8 @@ Das Spiel mit großen Gruppen: Rückblick, Ideen und Fragen
 
 Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern bei [ben](/uzanto/ben). Einige Teile der Runde haben gut funktioniert, andere dagegen sind sehr zerfasert. Daher habe ich mir Gedanken gemacht, wie ich das nächste Mal besser leiten kann - und welche Herausforderungen noch eine Lösung brauchen. 
 
+Ein Teil meiner Motivation, diesen Text so ausführlich zu schreiben ist, dass Rollenspiele große Gruppen besser unterstützen müssen, wenn wir ein organisches Wachstum von Rollenspielrunden ermöglichen wollen. Details findest du in dem Artikel [Statistische Zwänge im Rollenspiel- und Kampagnendesign](/deutsch/gedanken/statistische-zwaenge-im-rollenspiel-und-kampagnendesign).
+
 Inhalt:
 
 * [Eindrücke](#eindruecke)
