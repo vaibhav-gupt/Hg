@@ -104,17 +104,20 @@ Auf die Art wäre für alle klar, was sie gerade machen können. Das heißt: St�
 Tipps für große Runden
 ----------------------
 
-Nach dieser etwas längeren Semlstkritik mal wieder zurüch ins Positive: Wie lassen sich große Runden effektiver leiten? Oder genauer: Wie können wir in einer großen Runde mehr gemeinsamen Spaß haben?
+Nach dieser etwas längeren Seblstkritik mal wieder zurüch ins Positive: Wie lassen sich große Runden effektiver leiten? Oder genauer: Wie können wir in einer großen Runde mehr gemeinsamen Spaß haben?
 
-**Regelaufwand → einfache Regeln. Zerfasern → Explizite Bindungen zwischen Charakteren. Auseinanderlaufen → Szenen strukturieren. Die SL skaliert nicht → Co-SL für klare Aufgaben (z.B. Kämpfe).**
+* *Regelaufwand* → Einfache Regeln. 
+* *Zerfasern* → Explizite Bindungen zwischen Charakteren. 
+* *Auseinanderlaufen* → Szenen strukturieren. 
+* *Die SL skaliert nicht* → Co-SL für klare Aufgaben (z.B. Kämpfe).
 
 ### Einfache, schnelle Regeln
 
-Der erste Punkt ist offensichtlich: Verwendet ein schnelles Regelwerk, so dass zu dem alleine von der Gruppengröße her gegebenen aufwand nicht noch zusätlicher Aufwand durch die Regeln kommt. Wenn ihr ein auf 1w6 basierendes Regelwerk nutzt, habt ihr den Punkt bereits erfüllt. In dem Fall müsst ihr nur darauf achten, keine Module zu nutzen, die die Regeln stark verlangsamen. Wenn ihr in kleineren Runden Zusatzmodule nutzt, könnte es sich anbieten, die in großer Runde wegzulassen. 
+Der erste Punkt ist offensichtlich: Verwendet ein schnelles Regelwerk, so dass zu dem durch die Gruppengröße gegebenen Aufwand nicht noch zusätzlicher Zeitbedarf durch die Regeln kommt. Wenn ihr ein auf 1w6 basierendes Regelwerk nutzt, habt ihr den Punkt bereits erfüllt. In dem Fall müsst ihr nur darauf achten, keine Module zu nutzen, die die Regeln stark verlangsamen. Wenn ihr in kleineren Runden Zusatzmodule nutzt, könnte es sich anbieten, die in größeren Runden wegzulassen. 
 
-Die [Flyerbücher](http://flyer.1w6.org) scheinen sich für große Gruppen anzubieten, sind allerdings ein Ansatz für minimierte Regeln mit neuen Spielern und neuen Charakteren. Bei erfahrenen 1w6-Spielern oder länger laufenden Runden dürfte das Grundsystem schneller sein, weil darin der Effektivwert von Fertigkeiten bereits in der Erschaffung und bei der Steigerung berechnet ist, so dass die Frage wegfällt, welche Eigenschaften eine bestimmte Probe stützen. Dafür werden die einzelnen Proben etwas weniger Einzigartig, weil nicht für jede Probe einzeln die passenden Eigenschaften sichtbar werden. Aber das ist ein Preis, der in großen Gruppen durch die Zeitersparnis[^flyerzeit] gut wettgemacht werden sollte.
+Die [Flyerbücher](http://flyer.1w6.org) scheinen sich dabei für große Gruppen anzubieten, sind allerdings in erster Linie ein Ansatz für minimierte Regeln *mit neuen Spielern und neuen Charakteren*. Bei erfahrenen 1w6-Spielern oder länger laufenden Runden dürfte das Grundsystem schneller sein, weil darin der Effektivwert von Fertigkeiten bereits in der Erschaffung und bei der Steigerung berechnet ist, so dass die Frage wegfällt, welche Eigenschaften eine bestimmte Probe stützen. Dafür werden die einzelnen Proben etwas weniger einzigartig, weil nicht für jede Probe einzeln die passenden Eigenschaften sichtbar werden. Aber das ist ein Preis, der durch die in großen Gruppen essenzielle Zeitersparnis[^flyerzeit] gut wettgemacht werden sollte.
 
-[^flyerzeit]: Durch die etwas komplexere Erschaffung habt ihr mit dem Grundsystem ein im Vergleich zu den [Flyerbüchern](http://flyer.1w6.org) noch etwas schnelleres Spiel. Bei normalen Proben fallen zwei Schritte weg: Statt (1) „Fertigkeit wählen“, (2) „passende Eigenschaften suchen“, (3) „Eigenschaftsboni verrechnen“, (4) „sonstige Boni verrechnen“, (5) „würfeln“, (6) „Fertigkeit ± Ergebnis“, (7) „vergleichen“ gibt es nur noch (1) „Fertigkeit wählen“, (2) „sonstige Boni verrechnen“, (3) „würfeln“, (4) „Fertigkeit ± Ergebnis“, (5) „vergleichen“.
+[^flyerzeit]: Durch die etwas komplexere Erschaffung habt ihr mit dem Grundsystem ein im Vergleich zu den [Flyerbüchern](http://flyer.1w6.org) noch etwas schnelleres Spiel. Bei normalen Proben fallen zwei Schritte weg: Statt (1) „Fertigkeit wählen“, (2) „passende Eigenschaften suchen“, (3) „Eigenschaftsboni verrechnen“, (4) „sonstige Boni verrechnen“, (5) „würfeln“, (6) „Fertigkeit ± Wurf“, (7) „vergleichen“ gibt es nur noch (1) „Fertigkeit wählen“, (2) „sonstige Boni verrechnen“, (3) „würfeln“, (4) „Fertigkeit ± Wurf“, (5) „vergleichen“. Ein Unterwürfelsystem spart dabei übrigens einen weiteren Schritt ein (Fertigkeit ± Wurf), verliert dadurch aber [Skalierbarkeit](/deutsch/regeln/hintergrund-der-regeln/warum-das-1w6-system-skaliert), die für 1w6 ein wichtiges Designelement ist (um für jegliche Welten nutzbar zu sein und für lange Kampagnen die ganze Bandbreite von schwachen zu mächtigen Charakteren interessant zu halten).
 
 ### Explizite positive Verbindungen
 
