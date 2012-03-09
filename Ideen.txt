@@ -2365,3 +2365,21 @@ Insofern hat er meiner Ansicht nach voll und ganz Recht damit, dass Dungeons am 
 Und ich persönlich habe viele Dungeons geleitet. Sie haben sich als idealer Schauplatz für Stimmungsaufbau erwiesen, gerade weil sie einfach sind. 
 
 Einige der intensivsten Spielabende waren von der Grundstruktur her primitive Dungeons.
+
+------
+
+# Auge um Auge
+
+Wann immer ein Charakter durch das Triggern einer seiner Schwächen eine bedeutende Niederlage erlebt, erhält er einen AuA ( :) ). 
+
+Später kann er diese Punkte nutzen, um Boni zu erhalten, so dass Verlust-dann-Gewinn-Strukturen begünstigt werden und es einen Anreiz gibt, Schwächen zu haben: Sie schaden dem Char in weniger wichtigen Situationen, helfen ihm aber in wichtigen.
+
+Mögliche Einschränkung: Er darf diese Punkte nur für Dinge nutzen, die von seinen Stärken abgedeckt sind: Eine entsprechende Eigenschaft oder ein Merkmal. 
+
+Ideen: 
+
+- Temporär Eigenschaft + X (oder allgemein einen Bonus von X). 
+- Wiederwürfeln. 
+- … (siehe noch nicht geschriebener Text im Notizheft)
+
+Der Name Auge um Auge passt für härtere Hindergründe.
