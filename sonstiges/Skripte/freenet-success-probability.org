@@ -1,0 +1,56 @@
+# -*- org-babel-python-command: "python3"; org-babel-gnuplot-command: "pyxplot"; -*-
+
+Plotting the probability of successfully retrieving a certain file in freenet, given different redundancies and chunk retrieval probabilities.
+
+     (org-babel-do-load-languages
+      'org-babel-load-languages
+      '((python . t)
+      (sh . t)))
+
+#+sourcename: success
+#+source success()
+#+begin_src python
+# encoding: utf-8
+from spielfaehig import spielfähig
+from collections import defaultdict
+data = []
+res = []
+for chunknumber in range(5, 105, 5):
+    for chunkprob in range(5, 100):
+        for redundancy in range(2,6):
+            retrievalprob = spielfähig(chunkprob/100, chunknumber, int(chunknumber/redundancy) + 1)
+            res.append(str((chunkprob, chunknumber, int(chunknumber/redundancy) + 1)))
+            data.append((chunknumber, chunkprob, redundancy, retrievalprob))
+byred = defaultdict(list)
+for num, prob, red, retrieval in data:
+    byred[red].append((num, prob, retrieval))
+csv = "; num prob retrieval"
+for red in byred:
+    csvtmp = "" # csv
+    for num, prob, retrieval in byred[red]:
+        csvtmp += "\n" + str(num) + " " + str(prob) + " " + str(retrieval)
+    with open(str(red)+".csv", "w") as f:
+        f.write(csvtmp)
+#+end_src
+#+results:
+: None
+
+#+begin_src sh
+# num, prob, retrieval
+echo "
+set term png
+set width 15
+set xlabel \"chunk probability\"
+set ylabel \"retrieval probability\"
+set output freenet-prob-redundancy-2.png
+plot \"2.csv\" using 2:3 select (\$1 == 5) title \"5 chunks\", \"\" using 2:3 select (\$1 == 10) title \"10 chunks\", \"\" using 2:3 select (\$1 == 30) title \"30 chunks\", \"\" using 2:3 select (\$1 == 100) title \"100 chunks\"
+set output freenet-prob-redundancy-3.png
+plot \"3.csv\" using 2:3 select (\$1 == 5) title \"5 chunks\", \"\" using 2:3 select (\$1 == 10) title \"10 chunks\", \"\" using 2:3 select (\$1 == 30) title \"30 chunks\", \"\" using 2:3 select (\$1 == 100) title \"100 chunks\"
+set output freenet-prob-redundancy-4.png
+plot \"4.csv\" using 2:3 select (\$1 == 5) title \"5 chunks\", \"\" using 2:3 select (\$1 == 10) title \"10 chunks\", \"\" using 2:3 select (\$1 == 30) title \"30 chunks\", \"\" using 2:3 select (\$1 == 100) title \"100 chunks\"
+
+" > plot.pyx
+pyxplot plot.pyx &
+
+#+end_src
+#+results:
