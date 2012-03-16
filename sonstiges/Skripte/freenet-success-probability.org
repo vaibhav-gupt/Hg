@@ -2,10 +2,13 @@
 
 Plotting the probability of successfully retrieving a certain file in freenet, given different redundancies and chunk retrieval probabilities.
 
-     (org-babel-do-load-languages
-      'org-babel-load-languages
-      '((python . t)
-      (sh . t)))
+* Static situation
+
+Firstoff  we can calculate the retrievability of a given file with different redundancy levels, given fixed chunk retrieval probabilities.
+
+Files in Freenet are cut into segments which are again cut into up to 256 chunks each. With the current redundancy of 100%, only half the chunks of a segment have to be retrieved to get the whole file. I call that redundancy “2x”, because it inserts data 2x the size of the file (actually that’s just what I used in the code and I don’t want to force readers - or myself - to make mental jumps while switching from prosa to code). 
+
+We know from the tests done by digger3, that after 14 days about 50% of the chunks are still retrievable, and after 30 days about 30%. Let’s look how that affects our retrieval probabilities.
 
 #+sourcename: success
 #+source success()
@@ -31,26 +34,26 @@ for red in byred:
         csvtmp += "\n" + str(num) + " " + str(prob) + " " + str(retrieval)
     with open(str(red)+".csv", "w") as f:
         f.write(csvtmp)
+
+# now plot the files
+
+plotcmd = """
+set term png
+set width 15
+set xlabel "chunk probability"
+set ylabel "retrieval probability"
+set output freenet-prob-redundancy-2.png
+plot "2.csv" using 2:3 select ($1 == 5) title "5 chunks", "" using 2:3 select ($1 == 10) title "10 chunks", "" using 2:3 select ($1 == 30) title "30 chunks", "" using 2:3 select ($1 == 100) title "100 chunks"
+set output freenet-prob-redundancy-3.png
+plot "3.csv" using 2:3 select ($1 == 5) title "5 chunks", "" using 2:3 select ($1 == 10) title "10 chunks", "" using 2:3 select ($1 == 30) title "30 chunks", "" using 2:3 select ($1 == 100) title "100 chunks"
+set output freenet-prob-redundancy-4.png
+plot "4.csv" using 2:3 select ($1 == 5) title "5 chunks", "" using 2:3 select ($1 == 10) title "10 chunks", "" using 2:3 select ($1 == 30) title "30 chunks", "" using 2:3 select ($1 == 100) title "100 chunks"
+"""
+with open("plot.pyx", "w") as f:
+    f.write(plotcmd)
+
+from subprocess import Popen
+Popen(["pyxplot", "plot.pyx"])
 #+end_src
 #+results:
 : None
-
-#+begin_src sh
-# num, prob, retrieval
-echo "
-set term png
-set width 15
-set xlabel \"chunk probability\"
-set ylabel \"retrieval probability\"
-set output freenet-prob-redundancy-2.png
-plot \"2.csv\" using 2:3 select (\$1 == 5) title \"5 chunks\", \"\" using 2:3 select (\$1 == 10) title \"10 chunks\", \"\" using 2:3 select (\$1 == 30) title \"30 chunks\", \"\" using 2:3 select (\$1 == 100) title \"100 chunks\"
-set output freenet-prob-redundancy-3.png
-plot \"3.csv\" using 2:3 select (\$1 == 5) title \"5 chunks\", \"\" using 2:3 select (\$1 == 10) title \"10 chunks\", \"\" using 2:3 select (\$1 == 30) title \"30 chunks\", \"\" using 2:3 select (\$1 == 100) title \"100 chunks\"
-set output freenet-prob-redundancy-4.png
-plot \"4.csv\" using 2:3 select (\$1 == 5) title \"5 chunks\", \"\" using 2:3 select (\$1 == 10) title \"10 chunks\", \"\" using 2:3 select (\$1 == 30) title \"30 chunks\", \"\" using 2:3 select (\$1 == 100) title \"100 chunks\"
-
-" > plot.pyx
-pyxplot plot.pyx &
-
-#+end_src
-#+results:
