@@ -63,10 +63,10 @@ So what does this tell us?
 #+CAPTION: Retrieval probability of a given file in a static case. redundancy 100% (2)
 [[file:./freenet-prob-redundancy-2.png]]
 #+CAPTION: Retrieval probability of a given file in a static case. redundancy 100% (3)
-#+ATTR_HTML: width="300" alt="redandancy 200% (3)"
+#+ATTR_HTML: width="300" alt="redundancy 200% (3)"
 [[file:./freenet-prob-redundancy-3.png]]
 #+CAPTION: Retrieval probability of a given file in a static case. redundancy 100% (4)
-#+ATTR_HTML: width="300" alt="redandancy 300% (4)"
+#+ATTR_HTML: width="300" alt="redundancy 300% (4)"
 [[file:./freenet-prob-redundancy-4.png]]
 
 This looks quite good. After all, we can push the lifetime as high as we want by just increasing redundancy. 
@@ -220,6 +220,70 @@ return spielfähig(0.663, 150, 100)
 #+results:
 : 0.500313163333
 
-66% would be reached in the current network after about 10 days (between 1 week and 2 weeks), and in a zero redundancy network after 20 days. [[http:http://127.0.0.1:8888/USK@sCzfyxndzgtfzoPRUQExz4Y6wNmLDzOpW04umOoIBAk,~X5tIffdcfNWPIKZ2tHgSGPqIk9au31oJ301qB8kTSw,AQACAAE/fetchpull/421/][fetch-pull-stats]] 
+66% would be reached in the current network after about 10 days (between 1 week and 2 weeks), and in a zero redundancy network after 20 days. [[http://127.0.0.1:8888/USK@sCzfyxndzgtfzoPRUQExz4Y6wNmLDzOpW04umOoIBAk,~X5tIffdcfNWPIKZ2tHgSGPqIk9au31oJ301qB8kTSw,AQACAAE/fetchpull/421/][fetch-pull-stats]]
 
 At the same time, though, the chunk replacement rate increased by 50%, so the mean chunk lifetime decreased by factor 2/3. So the lifetime of a file would be 2 weeks.
+
+** Generalize this
+
+So, now we have calculations for redundancy 1, 1.5, 2 and 3. Let’s see if we can find a general (if approximate) rule for redundancy. 
+
+From the [[file:fetch_dates_graph-2012-03-16.png][fetch-pull-graph]] from digger3 we see empirically, that between one week and 18 weeks each doubling of the lifetime corresponds to a reduction of the chunk retrieval probability of 15% to 20%.
+
+Also we know that 50% probability corresponds to 4 weeks lifetime. 
+
+And we know that redundancy x has a minimum required chunk probability of 1/x.
+
+With this, we can model the required chunk lifetime as a function of redundancy:
+
+=chunk lifetime = 4 * 2**((0.5-1/x)/0.2)=
+
+with x as redundancy. /Note: this function is purely empirical and approximate./
+
+Having the chunk lifetime, we can now model the lifetime of a file as a function of its redundancy:
+
+=file lifetime = (2/x) * 4 * (2**((0.5-1/x)/0.2))=
+
+We can now use this function to find an optimum of the redundancy if we are only concerned about file lifetime. Naturally we could get the trusty wxmaxima and get the derivative of it to find the maximum. But that is not installed right now, and my skills in getting the derivatives by hand are a bit rusty (note: install running). So we just do it graphically. The function is not perfectly exact anyway, so the errors introduced by the graphic solution should not be too big compared to the errors in the model.
+
+Note however, that this model is only valid in the range between 20% and 90% chunk retrieval probability, because the approximation for the chunk lifetime does not hold anymore for values above that. Due to this, redundancy values close to or below 1 won’t be correct.
+
+Also keep in mind that it does not include the effect due to the higher rate of removing dead space - which is space that belongs to files which cannot be recovered anymore. This should mitigate the higher storage requirement of higher redundancy.
+
+#+sourcename: success
+#+source success()
+#+begin_src python
+# encoding: utf-8
+plotcmd = """
+set term png
+set width 15
+set xlabel "redundancy"
+set ylabel "lifetime [weeks]"
+set output "freenet-prob-function.png"
+set xrange [0:10]
+plot (2/x) * 4 * (2**((0.5-1/x)/0.2))
+"""
+with open("plot.pyx", "w") as f:
+    f.write(plotcmd)
+
+from subprocess import Popen
+Popen(["pyxplot", "plot.pyx"])
+#+end_src
+#+results:
+: None
+
+[[freenet-prob-function.png]]
+
+* Summary: Merit and outlook
+
+Now, what do we make of this? 
+
+Firstoff: If the equations are correct, an increase in redundancy would improve the lifetime of files by a maximum of almost a week. Going further reduces the lifetime, because the increased replacement of old data outpaces the improvement due to the higher redundancy.
+
+Also higher redundancy needs a higher storage capacity, which reduces the overall capacity of freenet. This should be partially offset by the faster purging of dead storage space. 
+
+The results support an increase in redundancy from 2 to 3, but not to 4. 
+
+Well, and aren’t statistics great? :)
+
+If you are interested in other applications of the same theory, you might enjoy my text [[http://1w6.org/english/statistical-constraints-design-rpgs-campaigns][Statistical constraints for the design of roleplaying games (RPGs) and campaigns]] (german original: [[http://1w6.org/deutsch/gedanken/statistische-zwaenge-im-rollenspiel-und-kampagnendesign][Statistische Zwänge beim Rollenspiel- und Kampagnendesign]]). The script spielfaehig.py I used for the calculations was written for a forum discussion which evolved into that text :)
