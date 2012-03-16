@@ -57,3 +57,86 @@ Popen(["pyxplot", "plot.pyx"])
 #+end_src
 #+results:
 : None
+
+So what does this tell us? 
+
+#+CAPTION: Retrieval probability of a given file in a static case. redundancy 100% (2)
+[[file:./freenet-prob-redundancy-2.png]]
+#+CAPTION: Retrieval probability of a given file in a static case. redundancy 100% (3)
+#+ATTR_HTML: width="300" alt="redandancy 200% (3)"
+[[file:./freenet-prob-redundancy-3.png]]
+#+CAPTION: Retrieval probability of a given file in a static case. redundancy 100% (4)
+#+ATTR_HTML: width="300" alt="redandancy 300% (4)"
+[[file:./freenet-prob-redundancy-4.png]]
+
+This looks quite good. After all, we can push the lifetime as high as we want by just increasing redundancy. 
+
+Sadly it is also utterly wrong :)
+Let’s try to get closer to ther real situation.
+
+* Dynamic Situation: The redundancy affects the replacement rate of chunks
+
+To find a better approximation of the effects of increasing the redandancy, we have to stop looking at freenet as a fixed store and have to start seeing it as a process. More exactly: We have to look at the replacement rate.
+
+** Math
+
+A look on the stats from digger3 shows us, that after 2 weeks 50% of the chunks are gone. Let’s call this the propout rate. The dropout rate consists of churn and chunk replacement: 
+
+=dropout = churn + replacement=
+
+Since after one day the dropout rate is about 10%, I’ll assume that the churn is lower than 10%. So for the following parts, I’ll just ignore the churn (naturally this is wrong, but since the churn is not affected by redundancy, I just take it as constant factor. It should reduce the negative impacts of incriesing redundancy). So we will only look at replacement of blocks.
+
+Replacement consists of new inserts and healing of old files. 
+
+=replacement = insert + healing=
+
+If we increase the redundancy from 2 to 3, the insert and healing rate should both increase by 50%, so the replacement rate should increase by 50%, too. The healing rate might increase a bit more,  because healing can now restore 66% of the file as long as at least 33% are available. I’ll ignore that, too, for the time being (which is wrong again. We will need to keep this in mind when we look at the result).
+
+=redundancy 2 → 3 ⇒ replacement rate × 1.5=
+
+Increasing the replacement rate by 50% /should/ decrease the lifetime of chunks by 1/1.5, or:
+
+=chunk lifetime × 2/3=
+
+So we will be at the 50% limit not after 2 weeks, but after 10 days. But on the other hand, redundancy 3 only needs 33% chunk probability, which has × the lifetime of 50% chunk probability. So the file lifetime should change by 2×2/3 = 4/3:
+
+=file lifetime × 4/3 = file lifetime +33%=
+
+Now doesn’t that look good? 
+
+As you can imagine, this pretty picture hides a clear drawback: The total storage capacity of Freenet gets reduced by 33%, too, because now every file requires 1.5× as much space as before. 
+
+** Caveats (whoever invented that name? :) )
+
+We ignored churn, so the chunk lifetime reduction should be a bit less than the estimated 33%%. That’s good and life is beautiful, right? :)
+
+NO. We also ignored the increase in the healing rate. This should be higher, because every retrieved file can now insert more of itself in the healing process. If we had no new inseits, I would go as far as saying that the healing-rate might actually double with the increased redundancy. So in a network completely filled network without new data, the effects of the higher redundancy and the higher replacement rate would exactly cancel. But the higher redundancy would be able to store less files. Since we are constantly pushing new data into the network (for example via discussions in Sone), this should not be the case. 
+
+** Dead space
+
+Aside from hiding some bad effects, this simple model also hides a nice effect: A decreased amount of dead space.
+
+Firstoff, lets define it:
+
+** What is dead space?
+
+Dead space is the part of the storage space which cannot be used for retrieving files. With any redundancy, that dead space is just about the size of the original file without redundancy multiplier. So for redundancy 2, the storage space occupied by the file is dead, when less than 50% are available. With redundancy 3, it is deas when less than 33% are available. 
+
+** Effect
+
+That dead space is replaced like any other space, but it is never healed. So the higher replacement rate means that dead space is recovered more quickly. So, while a network with higher redundancy can store less files overally, those files which can no longer be retrieved take up less space. I won’t add the math for that, here, though (because I did not do that yet).
+
+** Closing
+
+So, as closing remark, we can say that increasing the redandancy will likely increase the lifetime of files. It will also reduce the overall storage space in Freenet, though. I think it would be worthwhile.
+
+It might also be possible to give probability estimates in the GUI which show how likely it is that we can retrieve a given file after a few percent were downloaded: If more than 1/redundancy chunks succeed, the probability to get the file is high. if close to 1/redundancy succeed, the file will be slow, because we might have to wait for nodes which went online and will come back at some point. Essentially we will have to hope for churn. If much less than 1/redundancy of the chunks succeed, we can stop trying to get the file.
+
+Just use the code in here for that :)
+
+* Appendix: Motivation: Why redundancy after all
+
+redundancy 1: 1 chunk fails ⇒ file fails.
+redundancy 2: 50%
+redundancy 3: 33%
+
