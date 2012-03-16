@@ -6,7 +6,7 @@ Plotting the probability of successfully retrieving a certain file in freenet, g
 
 Firstoff  we can calculate the retrievability of a given file with different redundancy levels, given fixed chunk retrieval probabilities.
 
-Files in Freenet are cut into segments which are again cut into up to 256 chunks each. With the current redundancy of 100%, only half the chunks of a segment have to be retrieved to get the whole file. I call that redundancy “2x”, because it inserts data 2x the size of the file (actually that’s just what I used in the code and I don’t want to force readers - or myself - to make mental jumps while switching from prosa to code). 
+Files in Freenet are cut into segments which are again cut into up to 256 chunks each. With the current redundancy of 100%, only half the chunks of a segment have to be retrieved to get the whole file. I call that redundancy “2x”, because it inserts data 2x the size of the file (actually that’s just what I used in the code and I don’t want to force readers - or myself - to make mental jumps while switching from prose to code). 
 
 We know from the tests done by digger3, that after 14 days about 50% of the chunks are still retrievable, and after 30 days about 30%. Let’s look how that affects our retrieval probabilities.
 
@@ -72,19 +72,19 @@ So what does this tell us?
 This looks quite good. After all, we can push the lifetime as high as we want by just increasing redundancy. 
 
 Sadly it is also utterly wrong :)
-Let’s try to get closer to ther real situation.
+Let’s try to get closer to the real situation.
 
 * Dynamic Situation: The redundancy affects the replacement rate of chunks
 
-To find a better approximation of the effects of increasing the redandancy, we have to stop looking at freenet as a fixed store and have to start seeing it as a process. More exactly: We have to look at the replacement rate.
+To find a better approximation of the effects of increasing the redundancy, we have to stop looking at freenet as a fixed store and have to start seeing it as a process. More exactly: We have to look at the replacement rate.
 
 ** Math
 
-A look on the stats from digger3 shows us, that after 2 weeks 50% of the chunks are gone. Let’s call this the propout rate. The dropout rate consists of churn and chunk replacement: 
+A look on the stats from digger3 shows us, that after 2 weeks 50% of the chunks are gone. Let’s call this the dropout rate. The dropout rate consists of churn and chunk replacement: 
 
 =dropout = churn + replacement=
 
-Since after one day the dropout rate is about 10%, I’ll assume that the churn is lower than 10%. So for the following parts, I’ll just ignore the churn (naturally this is wrong, but since the churn is not affected by redundancy, I just take it as constant factor. It should reduce the negative impacts of incriesing redundancy). So we will only look at replacement of blocks.
+Since after one day the dropout rate is about 10%, I’ll assume that the churn is lower than 10%. So for the following parts, I’ll just ignore the churn (naturally this is wrong, but since the churn is not affected by redundancy, I just take it as constant factor. It should reduce the negative impacts of increasing redundancy). So we will only look at replacement of blocks.
 
 Replacement consists of new inserts and healing of old files. 
 
@@ -110,7 +110,7 @@ As you can imagine, this pretty picture hides a clear drawback: The total storag
 
 We ignored churn, so the chunk lifetime reduction should be a bit less than the estimated 33%%. That’s good and life is beautiful, right? :)
 
-NO. We also ignored the increase in the healing rate. This should be higher, because every retrieved file can now insert more of itself in the healing process. If we had no new inseits, I would go as far as saying that the healing-rate might actually double with the increased redundancy. So in a network completely filled network without new data, the effects of the higher redundancy and the higher replacement rate would exactly cancel. But the higher redundancy would be able to store less files. Since we are constantly pushing new data into the network (for example via discussions in Sone), this should not be the case. 
+NO. We also ignored the increase in the healing rate. This should be higher, because every retrieved file can now insert more of itself in the healing process. If we had no new inserts, I would go as far as saying that the healing-rate might actually double with the increased redundancy. So in a network completely filled network without new data, the effects of the higher redundancy and the higher replacement rate would exactly cancel. But the higher redundancy would be able to store less files. Since we are constantly pushing new data into the network (for example via discussions in Sone), this should not be the case. 
 
 ** Dead space
 
@@ -120,15 +120,15 @@ Firstoff, lets define it:
 
 ** What is dead space?
 
-Dead space is the part of the storage space which cannot be used for retrieving files. With any redundancy, that dead space is just about the size of the original file without redundancy multiplier. So for redundancy 2, the storage space occupied by the file is dead, when less than 50% are available. With redundancy 3, it is deas when less than 33% are available. 
+Dead space is the part of the storage space which cannot be used for retrieving files. With any redundancy, that dead space is just about the size of the original file without redundancy multiplier. So for redundancy 2, the storage space occupied by the file is dead, when less than 50% are available. With redundancy 3, it is dead when less than 33% are available. 
 
 ** Effect
 
-That dead space is replaced like any other space, but it is never healed. So the higher replacement rate means that dead space is recovered more quickly. So, while a network with higher redundancy can store less files overally, those files which can no longer be retrieved take up less space. I won’t add the math for that, here, though (because I did not do that yet).
+That dead space is replaced like any other space, but it is never healed. So the higher replacement rate means that dead space is recovered more quickly. So, while a network with higher redundancy can store less files overall, those files which can no longer be retrieved take up less space. I won’t add the math for that, here, though (because I did not do that yet).
 
 ** Closing
 
-So, as closing remark, we can say that increasing the redandancy will likely increase the lifetime of files. It will also reduce the overall storage space in Freenet, though. I think it would be worthwhile.
+So, as closing remark, we can say that increasing the redundancy will likely increase the lifetime of files. It will also reduce the overall storage space in Freenet, though. I think it would be worthwhile.
 
 It might also be possible to give probability estimates in the GUI which show how likely it is that we can retrieve a given file after a few percent were downloaded: If more than 1/redundancy chunks succeed, the probability to get the file is high. if close to 1/redundancy succeed, the file will be slow, because we might have to wait for nodes which went online and will come back at some point. Essentially we will have to hope for churn. If much less than 1/redundancy of the chunks succeed, we can stop trying to get the file.
 
@@ -146,7 +146,7 @@ Let’s start with redundancy 1. If one chunk fails, the whole file fails.
 
 Compared to freenet today the replacement rate would be halved, because each file takes up only half the current space. So the 50% dead chunks rate would be reached after 4 weeks instead of after 2 weeks. And 90% would be after 2 days instead of after 1 day. We can guess that 99% would be after a few hours.
 
-Let’s take a file with 100 chunks as example. That’s 100× 32 kiB, or about 3 Megabyte. After a few hours the chance will be very high that it will have lost one chunk and will be unretrievable. Freenet will still have 99% of the chunks, but they will be wasted space, because the file cannot be recovered anymore. The average lifetime of a file will just be a few hours.
+Let’s take a file with 100 chunks as example. That’s 100× 32 kiB, or about 3 Megabyte. After a few hours the chance will be very high that it will have lost one chunk and will be irretrievable. Freenet will still have 99% of the chunks, but they will be wasted space, because the file cannot be recovered anymore. The average lifetime of a file will just be a few hours.
 
 With 99% probability of retrieving a chunk, the probability of retrieving a file will be only about 37%. 
 
