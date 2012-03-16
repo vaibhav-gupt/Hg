@@ -140,3 +140,86 @@ redundancy 1: 1 chunk fails ⇒ file fails.
 redundancy 2: 50%
 redundancy 3: 33%
 
+** No redundancy
+
+Let’s start with redundancy 1. If one chunk fails, the whole file fails.
+
+Compared to freenet today the replacement rate would be halved, because each file takes up only half the current space. So the 50% dead chunks rate would be reached after 4 weeks instead of after 2 weeks. And 90% would be after 2 days instead of after 1 day. We can guess that 99% would be after a few hours.
+
+Let’s take a file with 100 chunks as example. That’s 100× 32 kiB, or about 3 Megabyte. After a few hours the chance will be very high that it will have lost one chunk and will be unretrievable. Freenet will still have 99% of the chunks, but they will be wasted space, because the file cannot be recovered anymore. The average lifetime of a file will just be a few hours.
+
+With 99% probability of retrieving a chunk, the probability of retrieving a file will be only about 37%. 
+
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.99, 100, 100)
+#+end_src
+#+results:
+: 0.366032341273
+
+To achieve 90% retrievability of the file, we need a chunk availability of 99,9%! The file is essentially dead directly after the insert finishes.
+
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.999, 100, 100)
+#+end_src
+#+results:
+: 0.904792147114
+
+
+** 1% redundancy
+
+Now, lets add one redundant chunk. Almost nothing will have changed for inserting and replacing, but now the probability of retrieving the file when the chunks have 99% availability is 73%!
+
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.99, 101, 100)
+#+end_src
+#+results:
+: 0.732064682546
+
+The replacement rate is increased by 1%, as is the storage space.
+
+To achieve 90% retrievability, we actually need a chunk availability of 99,5%. So we might have 90% retrievability one hour after the insert. 
+
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.995, 101, 100)
+#+end_src
+#+results:
+: 0.908655654736
+
+Let’s check for 50%: We need a chunk probability of about 98,4%
+
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.984, 101, 100)
+#+end_src
+#+results:
+: 0.518183035909
+
+The mean lifetime of a file changed from about zero to a few hours.
+
+** 50% redundancy
+
+Now, let’s take a big step: redundancy 1.5. Now we need 71,2% block retrievability to have a 90% chance of  retrieving one file. 
+
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.712, 150, 100)
+#+end_src
+#+results:
+: 0.904577767501
+
+for 50% retrievability we need 66,3% chunk availability. 
+
+#+begin_src python
+from spielfaehig import spielfähig
+return spielfähig(0.663, 150, 100)
+#+end_src
+#+results:
+: 0.500313163333
+
+66% would be reached in the current network after about 10 days (between 1 week and 2 weeks), and in a zero redundancy network after 20 days. [[http:http://127.0.0.1:8888/USK@sCzfyxndzgtfzoPRUQExz4Y6wNmLDzOpW04umOoIBAk,~X5tIffdcfNWPIKZ2tHgSGPqIk9au31oJ301qB8kTSw,AQACAAE/fetchpull/421/][fetch-pull-stats]] 
+
+At the same time, though, the chunk replacement rate increased by 50%, so the mean chunk lifetime decreased by factor 2/3. So the lifetime of a file would be 2 weeks.
