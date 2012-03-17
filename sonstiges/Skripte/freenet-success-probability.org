@@ -6,9 +6,9 @@ Plotting the probability of successfully retrieving a certain file in freenet, g
 
 Firstoff  we can calculate the retrievability of a given file with different redundancy levels, given fixed chunk retrieval probabilities.
 
-Files in Freenet are cut into segments which are again cut into up to 256 chunks each. With the current redundancy of 100%, only half the chunks of a segment have to be retrieved to get the whole file. I call that redundancy “2x”, because it inserts data 2x the size of the file (actually that’s just what I used in the code and I don’t want to force readers - or myself - to make mental jumps while switching from prose to code). 
+Files in Freenet are cut into segments which are again cut into up to 256 chunks each. With the current redundancy of 100%, only half the chunks of each segment have to be retrieved to get the whole file. I call that redundancy “2x”, because it inserts data 2x the size of the file (actually that’s just what I used in the code and I don’t want to force readers - or myself - to make mental jumps while switching from prose to code). 
 
-We know from the tests done by digger3, that after 14 days about 50% of the chunks are still retrievable, and after 30 days about 30%. Let’s look how that affects our retrieval probabilities.
+We know from the tests done by digger3, that after 31 days about 50% of the chunks are still retrievable, and after 30 days about 30%. Let’s look how that affects our retrieval probabilities.
 
 #+sourcename: success
 #+source success()
@@ -43,7 +43,7 @@ set width 15
 set xlabel "chunk probability"
 set ylabel "retrieval probability"
 set output freenet-prob-redundancy-2.png
-plot "2.csv" using 2:3 select ($1 == 5) title "5 chunks", "" using 2:3 select ($1 == 10) title "10 chunks", "" using 2:3 select ($1 == 30) title "30 chunks", "" using 2:3 select ($1 == 100) title "100 chunks"
+plot "2.csv" using 2:3 select ($1 == 5) title "5 chunks", "" using 2:3 select ($1 == 10) title "10 chunks", "" using 2:3 select ($1 == 30) title "30 chunks", "" using 2:3 select ($1 == 60) title "60 chunks",  "" using 2:3 select ($1 == 100) title "100 chunks"
 set output freenet-prob-redundancy-3.png
 plot "3.csv" using 2:3 select ($1 == 5) title "5 chunks", "" using 2:3 select ($1 == 10) title "10 chunks", "" using 2:3 select ($1 == 30) title "30 chunks", "" using 2:3 select ($1 == 100) title "100 chunks"
 set output freenet-prob-redundancy-4.png
@@ -80,7 +80,7 @@ To find a better approximation of the effects of increasing the redundancy, we h
 
 ** Math
 
-A look on the stats from digger3 shows us, that after 2 weeks 50% of the chunks are gone. Let’s call this the dropout rate. The dropout rate consists of churn and chunk replacement: 
+A look on the stats from digger3 shows us, that after 4 weeks 50% of the chunks are gone. Let’s call this the dropout rate. The dropout rate consists of churn and chunk replacement: 
 
 =dropout = churn + replacement=
 
@@ -98,7 +98,7 @@ Increasing the replacement rate by 50% /should/ decrease the lifetime of chunks 
 
 =chunk lifetime × 2/3=
 
-So we will be at the 50% limit not after 2 weeks, but after 10 days. But on the other hand, redundancy 3 only needs 33% chunk probability, which has × the lifetime of 50% chunk probability. So the file lifetime should change by 2×2/3 = 4/3:
+So we will be at the 50% limit not after 4 weeks, but after 10 days. But on the other hand, redundancy 3 only needs 33% chunk probability, which has × the lifetime of 50% chunk probability. So the file lifetime should change by 2×2/3 = 4/3:
 
 =file lifetime × 4/3 = file lifetime +33%=
 
@@ -144,7 +144,7 @@ redundancy 3: 33%
 
 Let’s start with redundancy 1. If one chunk fails, the whole file fails.
 
-Compared to freenet today the replacement rate would be halved, because each file takes up only half the current space. So the 50% dead chunks rate would be reached after 4 weeks instead of after 2 weeks. And 90% would be after 2 days instead of after 1 day. We can guess that 99% would be after a few hours.
+Compared to freenet today the replacement rate would be halved, because each file takes up only half the current space. So the 50% dead chunks rate would be reached after 8 weeks instead of after 4 weeks. And 90% would be after 2 days instead of after 1 day. We can guess that 99% would be after a few hours.
 
 Let’s take a file with 100 chunks as example. That’s 100× 32 kiB, or about 3 Megabyte. After a few hours the chance will be very high that it will have lost one chunk and will be irretrievable. Freenet will still have 99% of the chunks, but they will be wasted space, because the file cannot be recovered anymore. The average lifetime of a file will just be a few hours.
 
