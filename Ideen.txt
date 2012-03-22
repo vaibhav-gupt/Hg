@@ -2383,3 +2383,9 @@ Ideen:
 - … (siehe noch nicht geschriebener Text im Notizheft)
 
 Der Name Auge um Auge passt für härtere Hindergründe.
+
+------ 
+
+Template = Vorlage!
+
+
