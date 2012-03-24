@@ -192,7 +192,7 @@ Alle in Sicherheit
 * Logan angeheuert (500cr + Urlaub auf Tropeninsel)
 * Auf zu neuen Ufern
 
-# 2 Punkte für Fox, 1 zus. Punkt für Kalem, 1 zus. Punkt Logan
+*2 Punkte für Fox, 1 zus. Punkt für Kalem, 1 zus. Punkt Logan*
 
 
 
@@ -277,7 +277,7 @@ Alle in Sicherheit
 ** Rast... Sskreszta in Kokon, Kalem in Tropenzelt (warm), Fox Wache... 
 ** Fox weckt Kalem: Statik verschwunden. Kalem Wache. 
 
-# --CUT--
+*--CUT--*
 
 
 
@@ -360,7 +360,7 @@ Graben im See
 *** Sskreszta mit Psi-Sinn durch Staub gegangen, kein Mädchen/Tatzen. 
 *** Kalem heilt Sskresztas Genick + Kratzer. 
 
-# Fox immer wieder Wahrnehmung, Punkt? 
+*Fox immer wieder Wahrnehmung, Punkt?*
 
 *** Engpass im Gang, Fox sieht von hinten zwei Minen. # Fox Punkt? 
 *** Kalem und Sskreszta zurück. Sskreszta mit ganzer Psikraft und 1min Konzentration Minen mit höchster Geschwindigkeit weggeschleudert. Winzige Explosionen... (Puff). 
@@ -419,7 +419,7 @@ Kampf:
 * Energiezelle explodiert. Nuklearexplosion? 
 
 * Aufwachen, nicht fühlen, sehen, hören. Sicht kommt langsam zurück. Fox schwer verletzt, aus dem Bein ein Teil herausgerissen. Kalem schwer verletzt, beide Arme gebrochen, unbenutzbar, Rüstung gebrochen. Sskreszta schwer verletzt, tiefer Bauchschnitt. 
-# Anmerkung: Panikprobe, Kalem versaut sie. 
+*Anmerkung: Panikprobe, Kalem versaut sie.*
 * Sskreszta kriecht zu Medkit. Kalem versucht aufstehen, Fehler, Ohnmacht. 
 * Sskreszta bekommt Medkit aktiv (Halb override). Erst Schmerzmittel und Stim dann Bauch halb geflickt. 
 * Sskreszta heilt Fox, der gekommen ist. 
@@ -430,6 +430,7 @@ Kampf:
 
 
 ''Date: 2005-01-30 19:30:28 0100''
+
 ==Eiersuche-Wasserfall==
 
 * Nach Versorgung (med) zum Wasser
@@ -500,6 +501,7 @@ Nachdem sich herausgestellt hatte, dass die generalin Fox befreite und das recht
 
 
 ''Date: 2005-04-18 21:13:27 0200''
+
 ==Planetbound==
 
 *--aus Aufnahmen raushören-
@@ -549,6 +551,7 @@ Sskreszta sagt, dass sie sich bei den Polizisten entschuldigen sollten.
 Etaros schreitet hinein (strahlt wieder Autorität aus). 
 
 Erzählt von seinem Plan: 
+
 * Es gibt ein Gegenstück zu dem Ei. 
 * Will Hierund zurückholen. 
 * Er wird auf einem Schiff gefangengehalten, einem Xynoc-Schiff. 
@@ -724,128 +727,6 @@ Syarchu seilt sich von der Decke ab, direkt zum Schiff, weicht einem Soldaten in
 Syarchu erreicht das Luftschott des Cockpits. Öffnet es mit dem druck der einen Waffe. Automatisches Feuer aus der anderen zerfetzt den verdutzten Soldaten auf der anderen Seite. Dahinter stehen schwarz gekleidete Space Marines. 
 
 *cut-
-
-==Nebenplot: Piraten und Zerg==
-
-===Über Makis aka Minea aka Gaia===
-Eine ehemalige Drogenabhängige, die Priesterin wurde, nachdem ein Keimling (eine intelligente Pflanze, die in Symbiose mit Menschen lebt) sie als Wirt genommen hat, dann das Priesteramt aufgegeben hat als die Oberhäupter für den Staat und Macht (eine Monarchie/ein König hat sie vereinnahmt) ihren Glauben teilweise verraten haben, daraufhin Piraten wurde und jetzt seit einem halben Standard (1 Jahr) mit den Piraten unterwegs ist. 
-Sie heißt Minea, ihr Keimling heißt Makis und ihr gemeinsamer Priesterinnenname ist Gaia, und den trägt sie auch als Piratin noch. 
-
-===Ereignisschnipsel===
-
-"''Übertragung 1, anfang''
-
-Ich spreche diese Worte in den Funk meines Gefährten. Meines Reisegefährten, soll das heißen. Ich weiß nicht, wer ihn hört, aber eigentlich ist es auch irrelevant, denn wem sollte das auch helfen. 
-
-Vor ein paar Tagen haben wir einen neuen Fang auf unserer Basis abgeliefert. Sie liegt auf einem Planeten tief in kaum bekanntem Gebiet und vom Gezeitennebel verborgen, aber irgendwie leben dort Wesen, die uns schon Probleme gemacht haben. 
-
-Der Gefangene war ein Zerg, inzwischen ist er auseinandergenommen und seziert, um die Wirkung harter Strahlung auf Zerghaut überprüfen zu können (wir schaffen es noch nicht effizient, in Zergschiffe reinzukommen, ohne dass deren Immunsystem uns wieder hinausbefördert, und die Techs hatten gehofft, mit diesem Zerg mehr lernen zu können). Das Biest war ein Telepath der unangenehmen Sorte, deswegen wurden wir geschickt, weil ein Telepath meistens nur eine der beiden Personen in unseren Köpfen beeinflussen kann: Den Wirt oder den Keimling, und in dem Moment übernimmt dann einfach der andere, was für den Telepathen meistens unangenehme Auswirkungen hat. 
-
-Wir haben ihn zusammen mit einem Zerg-Ei auf den Planeten gebracht und wurden auf dem Weg von Zerg angegriffen, die nach unserem Wissen auf dem Planeten nichtmal hätten sein dürfen. 
-
-Er selbst war sehr heftig, 5 Meter lang, 3 Meter groß, auf 4 Chitinbeinen laufend. 
-
-Als der Boden plötzlich begann du brodeln habe ich seine Kraft auch gleich noch einmal spüren dürfen. In dem Moment, als das Ei in den Boden gezogen wurde, sprang ich schon zu ihm und schlang meine Klingenketten um seinen Hals. Er bäumte sich auf und meine Klingen glitten einfach an seiner Panzerung ab, bis Njilnor (das ist der Name meines Gefährten) ihm seine Psi-Klingen an unschöner Stelle in den Körper rammte. 
-
-Ich sollte vielleicht ein bisschen was über Njilnor sagen, immerhin benutze ich seinen Funk. 
-
-Er ist ein Synachu und wurde bei einem Unfall fast getötet. Der Keimling, der von ihm Besitz ergriffen hat, war seine Rettung. Ich habe ihn bei einem Überfall auf seinen Planeten kennengelernt, und wir hatten uns noch keine halbe Umdrehung unterhalten, als er sein Vertrauen in das Kastensystem seiner Spezies aufgegeben hat. Eine Umdrehung später folgte er uns in unser Schiff. Ich weiß, dass ich ihm meistens vertrauen kann, aber dann und wann würde ich ihn am liebsten erschießen, und Makis ist derselben Meinung. 
-
-Zurück zur Geschichte. 
-Ich verlor den Halt auf dem großen Zerg und stürzte hart zu Boden. Kaum dass ich wieder stand griffen uns Zerg an. 
-
-Zwei der Zerg waren in meinem Rücken, bevor ich sie wahrnahm. Der Erste sprang in seinem Schwung an mir vorbei, der Zweite rammte mir seine Klauen durch den Rücken und spießte mich an ihnen auf. Mein Versuch, ihm die Klingenketten über meinen Rücken in den Hals zu schlagen, riss mir nur selbst den Rücken auf, und als er seine Klauen wieder aus meinem Körper zerrte, riss er mir einige meiner Rippen durch. Ein Stück weiter zur Mitte, und er hätte Makis' Gehirn beschädigt. ihr Pflanzenhirn liegt neben meinem Herz, und es ist bei weitem wichtiger. 
-
-Ich stürze zu Boden und verhielt mich ruhig, während Makis begann meinen Körper zu heilen. Binnen einer Minute war ich wieder fit, meine Knochen geheilt, wenn auch noch etwas zu flexibel. Mein eigener Körper braucht immer etwas, um die Pflanzenfasern von Makis durch Knochen zu ersetzen, das sagt sie zumindest. Leider war da der Kampf auch schon vorbei. 
-
-Das Ei war verschwunden, der Zerg schwer verletzt (Njilnor sagte, er wäre sogar von seiner eigenen Art angegriffen worden), aber wir kamen binnen einer halben Umdrehung an usnerer Station an, nachdem ich dem Zerg gesagt hatte, dass er nur überleben konnte, wenn er dorthin ging, jetzt nachdem ihn selbst seine eigene Art im Stich gelassen hatte. Natürlich erlebte er kaum den nächsten Tag, aber das sagte ich schon. 
-
-Wir sahen uns kurz in der Station um, dann gingen wir das Ei suchen. Die Techs sagten, sie bräuchten es, um das Tor zu dem Tempel zu öffnen, der in der Nähe unserer Basis liegt. Sie vermuten, dass es dort einen Schatz gibt. 
-
-Jetzt, wo ich diese Worte spreche, sind wir in diesem Tempel, aber ich muss die Übertragung unterbrechen, der Funk braucht neue Energie und es dauert etwas, die Energiezelle des Blasters einzusetzen. Njilnor behauptet zumindest, dass wir sie benutzten können, und ich werde das gerne ihm überlassen. Tech war noch nie mein Freund, zumindest dann nicht mehr, wenn jemand versucht sie mir zu erklären oder, noch schlimmer, ich sie reparieren muss. 
-
-''Übertragung 1 beendet.''" 
-
------
-
-"''Übertragung 2, anfang.'' 
-
-Die Energiezelle ist drin, und der Funkenschlag hat auch wieder aufgehört. 
-
-Ich war gerade dabei von dem Ei zu erzählen, glaub ich. Makis bestätigt es. 
-
-Wir haben uns auf den Weg gemacht, um draußen die Spur des Eis wiederr aufzunehmen. Die Techs stellten uns einen Buggy und einige Waffen. Die nützlichsten waren definitiv der Raketenwerfer und der Granatwerfer. 
-
-Von dem Ort aus, wo wir angegriffen wurden, hatte Njillnor das Ei nach links verschwinden gespürt (er ist Psioniker, wie alle seiner Spezies, soweit ich weiß). Wir jagten mit dem Jeep hinterher und trafen auf einen Trupp Zerg. Einen Overlord alleine hätten wir ja besiegen können, einen Ultralisken alleine auch, aber die beiden zusammen mit zwei Wächtern und mehreren Zerglingen und Hydralisken,  waren doch eine ordentliche Herausforderung. 
-
-Auf halben Weg, wir sahen schon die Staubwolke der Zerg, begannen auch plötzlich Trommeln zu schlagen.. Ich sprang vom Buggy und rannte in Richtung der Trommeln. Nach ein paar Augenblicken nur erschien ein Mann mit Stab und weißer Robe auf einer Düne. Ich wollte gerade an ihm vorbei, als ich hinter der Düne etwa 30 Bewaffnete sah. 
-
-Einen Moment später hatte der Berobte meine Kettenklinge um den Hals. Er versuchte mich mit Illusionen zu blenden, erschien hinter und über mir. Dann schlug er plötzlich von vorne mit dem Stab nach sich selbst, der Stab fuhr durch sienen Körper und traf meine Kettenklinge. Ich habe keine HAnung, wie er das gemacht hat, aber obwohl ich versucht habe, ihn noch zu erwischen, traf ich ihn kein einziges Mal. 
-
-Die Schützen hinter ihm schossen auf die Zerg und vernichteten sie. 
-
-Kurz darauf explodierte die Granatenkette, dei Njillnor vor unserem Buggy in den Boden gepflanzt hatte, als Zerg reinliefen, die eigentlich tot sein sollten. Vielleicht waren auch die Schützen nur Illusionen. 
-
-Wir verfolgten die restlichen Zerg und ich holte den Overlord mit dem Granatwerfer vom Himmel, während Njillnor die meisten der anderen Zerg mit dem Buggy ablenkte (und dabei den Buggy zerstörte. Danke für 18 stunden Fußmarsch) und mit zwei Explosionen durch überladene schwächere Waffen fast vollständig vernichtete. Er sagte, es wäre ein Wächter übriggeblieben, und ich bin froh, dass ichg den nicht gesehen habe. Haben eine verdammt gute Panzerung die Biester. 
-
-Um das Ei zu finden, wühlte ich in den Eingeweiden des Overlords. Ich musste seine Knochenplatte und Rippen herausbrechen, um unter ihm dann eine Art lebenden Teppich zu finden, auf dem sich ein Wurm bewegte. Ein Armlanger Wurm, sollte ich vielleicht hinzufügen. Njillnor sagte, er wäre extrem stark, allerdings nicht psionisch aktiv. 
-
-Wir brachten den Wurm zurück zur Basis und übergaben ihn den Techs. 
-Dann unterhielten wir uns mit einem Wissenschaftler, der an den Schriften des Tempels arbeitete, um sie zu entschlüsseln. Ich setzte mich später mit ihm ran, während Njillnor dem Tech klarmachte, dass der Wurm und der Teppich gefährlich waren (und der Tech darauf eine Abwehreinrichtung aufbaute, die bei durchbrechen der Gitterstäbe des Zergwurms die gesamte Basis zerstören wird). 
-
-Die Schwirften waren und sind sehr verworren. Inzwischen weiß ich, dass ich Recht hatte und Makis sich verschätzt hat. Es ist ein Schatz und kein Gefängnis, in dem etwas lebt, das den ganzen Planeten vernichten wird, wenn es frei wird. 
-
-OK, jetzt reicht es. Ich bin Makis, und mir langt das Gemeckere. Gut, ich hatte unrecht, aber was ist schon damit? Ab jetzt erzähle ich. 
-
-Wir entschlüsselten den Text dann doch noch, und auch wenn Minea keine guten Argumente auf ihrer Seite hatte, bis wir dann doch einen Tag später nochmal komplett darüber gegangen sind, und es gemeinsam dem Wissenschaftler erzählten. 
-Was danach passiert ist, kann ich nur aus Mineas Erinnerung rekonstruieren. 
-
-Nein Minea, du erzählst das nicht. Ich habe gesagt, ich erzähle, und damit erzähle ich auch!
-
-Während ich schlief, hat sie den Tech überzeugt, in den Tempel zu gehen und ihre Idee auszuprobieren, und jetzt sitzen wir in dem Tempel fest. 
-
-Erst sind wir zum Tempel und haben die Emissionen der Schrifttafel für "Willen" auf den Teil übergeleitet, in dem nach ihrer Meinung Schatz stand (da dachte ich noch, es würde eher Sarakophag heißen). Die Emissionen davon gingen dann auf "Macht", und das Tor sollte sich öffnen. Was nicht geschah. 
-
-Danach hat sie eins der Fenster des Buggies mit schwarzem Klebeband beklebt und es als Spiegel benutzt, umd Licht auf das "Willen"-Symbol zu lenken. Schnapsidee, aber sie funktionierte. Wir hörten trommeln, dann wurden wir zum Buggy an die Waffen eingeteilt, die Wachen des Wissenschaftlers kannten sich angeblich schon damit aus. 
-
-Ich, bzw. Minea rannte einer Eingebung folgend plötzlich in den Tempel, und aus dem nun geöffneten Tor schwebten drei berobte Gestalten. 
-
-Als ich auf sie zuging, wurde ich plötzlich zurückgeschleudert.  Ich stieß mich an der Säule ab, gegen die ich geschleudert wurde, und diesmal spüte ich den Stoß bevor er mich traf, konnte ausweichen und gerade noch durch das sich schließende Tor hinter ihnen springen. 
-
-Ich stand im Dunkeln. Glücklicherweise hat der Blaster Statuslichter, damit hatte ich zumindest etwas Licht. 
-
-Der Gang war völlig glatt, keine Inschriften und auch nichts sonstiges. Am anderen Ende war ein  Schottähnliches Tor, das von einem Schutzschild geschützt wurde. Ein Schuss mit dem Blaster ließ es sich öffnen. Bevor ich durchlief, zeichnete ich mit der Griffseite des Blasters eine Skizze auf den Boden, um Nachfolgenden zu sagen, dass sie das Tor aufschießen können. 
-
-Hinter dem Tor waren Pflanzen, und es schien, als würden sie unter blauem Himmel stehen. Und hier sollte wieder Minea übernehmen, sie kann besser schwärmen, als ich. Muss mit ihren Drogenexzessen zu tun haben, in die sie sich gestütrzt hatte, bevor ich Teil von ihr wurde. 
-
-Und die ich auch wieder versucht habe zu erreichen, aber du hast ja schön alle Drogen neutralisiert, die irgendwie in meinen Körper kamen.  Weißt du noch, wie sauer ich damals war? Aber egal, es war am Ende doch gut so. Ich übernehme. 
-
-Die Höhle erschien wie ein Urwald, voller Leben, Pflanzen und Tiere, sogar ein schwacher Luftzug, und der blaue Himmel über dem Kopf. 
-
-Njillnor kam auch bald nach, und auch er genoss die Landschaft für einen Moment, bevor wir weitergingen (obwohl ich ihn fast erschossen hätte, als er durch das Tor kam). 
-
-Überkopf war ein Portal in vielleicht 40 Meter Höhe, also unerreichbar. 
-Etwas weiter dagegen war ein Tor, in das wir eintreten konnte und das in einen Gang führte. 
-
-In dem Gang war Gras, Hüfthoch und sattgrün. 
-
-Ich mähte einen Pfad mit meinen Klingenketten hindurch, und Njillnor tat mit seinen Psi-Klingen dasselbe. 
-
-Das Gras war recht klebrig, und kaum waren wir auf der anderen Seite des Gangs an einem weiterem Portal, hörten wir ein Rauschen und es wuchs binnen Momenten nach. Ich glaube, so schnell bin ich selten durch ein Portal geflohen, wie in diesem Gang. 
-
-Nach dem Portal sind wir erst einer Abzweigung nach rechts gefolgt, in der uns 3 Skarabäen angriffen, die zum Glück nicht lange durchhielten (einer versuchte mir seine Klauen in den Hals zu rammen. Ich weiß nicht, was mich dazu brachte, aber ich wusste, dass ich nur eine Chance hatte, wenn ich jegliche Chance ihn zu treffen gleich abschrieb und nur versuchte, nicht erwischt zu werden). Njillnor hat das Biest dann von hinten erschlagenn, während  ich es mit meinen Klingenketten halwegs auf Abstand hielt. 
-
-Nachdem wir erkannt hatten, dass der Rechte Gang eine Sackgasse war, gingen wir nach Links weiter und erreichten schnell eine zweite Höhle. 
-
-Dort trat ein Mann in Kutte auf uns zu. Wir stellten uns vor, dann fragte ich ihn, wer er war. Er streckte seine Hand aus seinem Ärmel, und wir sahen eine Skelletthand auf uns deuten. 
-
-Njillnor trat einen Schritt vor. Ich spannte die Muskeln, dann sprang ich auf Njillnors Hand, wurde von ihm weitergeschleudert, flog direkt am Kopf des Berobten vorbei und riss ihm die Kapuze herunter, während ich hinter ihm wieder auf den Boden kam. 
-
-Ein alter Mann mit unendlich tiefen schwarzen Augen, die funkelten wie die Oberfläche eines Höhlensees. Kaum hatten wir sie erblickt, legte sich Schwärze über uns. 
-
-Und jetzt gerade versuche ich zumindest die Außenwelt wissen zu lassen, was mit uns passiert ist, während wir hier im Dunkeln sitzen und nicht wissen, wie es weitergehen wird. 
-
-''Übertragung 2, ende.''"
 
 ==Schildforschung und Selbstschutz==
 
@@ -1027,13 +908,55 @@ Er kam in den Gang und erzeugte Nebel. Unsere Schuesse in den Nebel hatten keine
 
 Nach kurzer Zeit hoerte das Gewehr auf zu feuern. Wir waren noch zu weit vom Aufzug entfernt, um durch den Schacht fliehen zu koennen.
 
-==Was fehlt: Faehige Gegner, Xynoc und Llovara==
+Was fehlt: Faehige Gegner, Xynoc und Llovara
+=================
 
 * Kampf gegen die Spezialeinheit. Flucht. Fox als einziger unverletzt. Wird uns in die Schuhe geschoben. 
 * Tarnschild installiert. Aus dem Unterirdischen Hangar durch das Wasserschott raus, Schlachtschiff über dem See, von unten runter geholt. Unsichtbare im Hangar. 
+
+Ein Verlust im Subraum
+======
+
+<!--nach Fähige Gegner-->
+
+°Sskreszta schreit gequält auf. Dann sinkt sie nach vorne und ihr Kopf fällt auf die breite Brust des Vogelmannes, der quer über ihrem Pilotensitz liegt. Und trotz der schmerzverzerrten Züge liegt auf ihren Lippen ein leises Lächeln, während der Brustkorb unter ihrem Kopf sich langsam hebt und senkt.° 
+
+Das ist eine Erinnerung an die ich gerne denke, auch wenn sie schmerzhaft war. Heute werde ich meine Aufzeichnung sanfter führen und meinen Kristall mit dem füllen, was passiert ist und was ich dabei gefühlt habe, schließlich wird diese Aufzeichnung wohl keinen aus der Flotte erreichen, und das sollte sie auch nicht.
+
+Wir sind nicht mehr in dem Unterseeischen Hangar auf Styro, in dem unser Schiff mit dem Tarnschild aufgerüstet werden sollte, nachdem er angegriffen wurde. Space Marines griffen uns an, waren aber den Schiffsgeschützen und meinem Psi-Verstärker nicht gewachsen. Wir sind dann aus dem Hangar durch eine dünne Wasserschicht geflogen und Kalem hatte die Hülle zum Glück bereits wieder repariert. Oben erwartete uns ein interstellares Kampfschiff der Raumpatroullie, allerdings mit deaktivierten Schilden. 
+
+°Fox' Gleiter bricht aus der Wasseroberfläche. Direkt über ihm füllt der düstere Schatten des Kampfschiffes den Himmel. Ohne Verzögerung taucht der Gleiter wieder nach unten und jagt auf der Höhe der Wasserlinie davon. Ein Nebel aus Wasser füllt die Luft, als seine Schilde das Wasser wieder berühren. Dann schießt ein Sskresztas Jäger aus dem Windschatten nach oben, ein winziger Punkt gegen das interstellare Schiff über ihnen. Der Jäger zuckt zur Seite, erreicht das Heck des Schiffes und huscht zurück in den Windschatten des Gleiters. Augenblicke später verstummen die Triebwerke des Kampfschiffes und es beginnt einen immer schneller werdenden Sturz zu der Oberfläche des Sees.° 
+
+Er hat versucht uns mit einem Traktorstrahl zu fixieren und so in Reichweite zu halten. Zu unsrem Glück hat er nicht gleich seine ganze Kraft verwendet, ansonsten hätten wir kaum entkommen können. Er hätte uns sonst mit in das Wasser hiein reißen können, was unsere gerade reparierte Hülle wohl nicht lange ausgehalten hätte. 
+
+°Ein Ruck geht durch den Gleiter. Er wird langsamer und die Sensoren des Cockpits leuchten auf. Einen Augenblick später füllt Schwarm Raketen die Luft über ihm, während er nur Meter über der Wasseroberfläche entlang rauscht. Plötzlich taucht er etwas tiefer, und Wasser schießt als feiner Nebel in die Höhe, wo sein Rumpf den See berührt. Seine Geschütze feuern und Raketen explodieren in der Luft. Durch die Explosionen schißt Sskresztas Jäger auf den Bug des Schiffes zu, wo Fox in Sskresztas Cockpit die Quellen des Traktorstrahlt aufstrahlen lässt. Drei kleine Explosionen auf der Hülle des Schiffes lassen den Gleiter wieder nach vorne schießen, als der Traktostrahl ausfällt. Augenblicke darauf berührt das Kampfschiff den See und eine Wasserwoge rollt auf den Gleiter zu, während das Kampfschiff in das Wasser des Sees eintaucht.°
+
+Wir flohen vor den Schiffen und wurden von 5 Stellarjägern angegriffen. Ich versuchte mehrfach in ihren Geist einzudringen, aber sie hatten sich jedesmal wieder unter Kontrolle, bevor ich etwas bewirken konnte. Kalem saß an unseren Geschützen, während Fox ausweichmanöver flog und ich im Psi-Jäger die Angriffe der stellaren Jäger ignorieren konnte, da sie für meinen Gefahrensinn berits Sekunden voraus erkennbar waren. 
+
+Ihnen folgen allerdings 8 weitere, und als wir überlegten, ob wir uns ihnen stellen sollten, berührte Etaros meinen Geist, ohne dass ich ihn hätte eindringen spüren. Er gab uns Koordinaten, und wir machten uns sofort auf den Weg. 
+
+Unterwegs griffen uns 16 kleine planetare Abfangjäger ab, von denen ich die Hälfte im gebirge vernichtete, während Kalem die Reichweite der Geschütze ausreizte, um sie zu erreichen. 
+
+°6 Jäger fliegen eine weiter Kurve um einen Berggipfel. Direkt auf der Flanke des Berges sitzt Ssksresztas Jäger unter einen Felsvorsprung. Plötzlich gerät einer der Jäger ins Taumeln und vor dem Inneren Auge Skresztas fließt Blut aus dessen zerquetschtem Brustkorb über die Konsolen im Cockpit. Als sich die Abfangjäger dem Felsvorsprung zudrehen, wirbelt Schnee auf und der Psi-Jäger verschwindet nur Augenblick darauf auf der anderen Seite des Hügels. Noch während die Raketen den Felsvorsprung zerreißen, gerät der nächste der Abfangjäger ins taumeln. Augenblicke darauf ziehen die Wände eines Gebirgstals an Sskreszta vorbei, als ihr Psi-Jäger wieder am Heck des Gleiters von Fox schwebt.°
+
+°Der Psi-Jäger fliegt in eine Höhle und hält abrupt vor der Hochgewachsenen Gestalt Etaros. Ein immer wieder hell flackernder Psi-Schild umgibt den Vogelmenschen wie auch den Jäger, und Etaros bleibt still stehen, als der Überschallknall die Stille in der Höhle zerreißt. Die Tür des Jägers fällt auf und Sskreszta wendet ihren Kopf nach hinten und wieder läuft ein Prickeln über ihre Haut, als die Präsenz von Etaros sie einhüllt. Er faltet seine Flügel und tritt mit langsamen Schritten in den Jäger. Sskresztas Augen hängen an seiner Gestalt. Ihre Glieder scheinen gelähmt, ihre Lippen unmöglich zu öffnen. Dann nickt er kurz. Sie wendet ihren Blick mit schwachem Zögern auf den Hauptbildschirm, dann schießt der Jäger aus der Höhle. Die Luft in der Höhle erzittert unter einem zweiten Überschallknall. Dann herrscht Stille. Kein Laut dringt in die Höhle, und ganz langsam kehrt wieder Ruhe ein. Ein dritter Überschallknall lässt Steinbrocken aus der Decke brechen. Sskresztas Jäger steht erneut in der Mitte der Höhle und verlässt sie einen Wimpernschlag später wieder mit 12 Sprungkartuschen, die ihm hinterher schweben.° 
+
+Ich habe die Kontrolle über meine Visualisierung weiter verloren als ich dachte. Nachdem wir Etaros an Bord hatten, versuchten wir den Planeten zu verlassen. Als wir zu Scannen versuchten, erkannten wir ein Impulsnetz, dass den gesamten Planeten umspannte und uns eine Flucht fast unmöglich machte. In der Kantine hatte dann Antov die Idee, das Impulsnetz mit einem Psi-Schild zu schwächen, so dass wir durchbrechen könnten. Um auf die nötige Geschwindigkeit zu kommen, beschleunigten wir direkt oberhalb der Atmosphäre. Nach einer Stunde flog um den Äquator zog Fox den Bug etwas nach unten, und wir prallten von der Atmosphäre nach oben auf das Impulsnetz um es an seiner schwächsten Stelle zu durchstoßen.
+
+°Verschiedene Kleinteile im Frachtraum reißen sich aus den Verankerungen, als der Gleiter von der Atmosphäre nach oben geschleudert wird. Sskreszta lässt ihren Geist zu dem Impulsnetz wandern, spürt den Flugweg des Gleiters. Sie greift aus in das Netz und schafft einen von einem SChild umgebenen Kanal. Die Trajektorie des Gleiters steigt, dann flucht sie. Die Darstellung des Impulsnetzes füllt den gesamten Schirm, als sie ihren ersten Schild fällen lässt und erneut ausgreift. Einen Augenblick später fliegt in den geschaffenen Kanal. Anzeigen flackern, zeigen den Geschwindigkeitsverlust, zeigen den Weg durch das Impulsnetz. Dann löst sich der Gleiter aus dem Netz und die Sensoren eröffnen den Blick auf die Weite des Alls. Und auf eine kleine Armada der Raumpatroullie.° 
+
+<!--Ich hätte nur einen Versuch gehabt. Mit einem Verhundertfachenden Psi-Verstärker habe ich 600m ESP (und 1.000 t und 3.000 km PK) -->
+
+
+Was fehlt
+======
+
 * Durch die verbotene Zone. Kalem wird rausgerissen (Jungh Ei?). Psi-Projektion: Bei Xynoc-Schiff ein rotes Auge. Flucht zurück, mit Kalem. 
 * Xynoc Schiff: Außen: Ebenen. Innen: Mehrere durch Gänge verbundene Räume. Fox kann sie finden. Hieramel angekettet und in zwei Dimensionen geteilt. Fox schafft es im Kontrollzentrum, die Dimensionen zu verbinden. Spürt ankommende Sprünge: Rote Augen. Flucht raus. Mit Gauss-Kanone aus dem Schiff Xynoc beschäftigt. Protektor folgt uns: Rotes Auge. Protektor packt Kalem. Sie altert und bricht zusammen. Er packt Sskreszta. Dann erwischt ihn (jemand. Etaros?). Sprung weg. Etaros bekommt von Kalem das Jungh-Ei auf die Brust gesetzt, um Etaros und Hieramel wieder zu verbinden. Das Ei verbindet sich mit ihm. Er wacht nicht auf. Aus ihm hervorpeitschende weiße Tentakel brechen unser militärisches Medkit auf. Viel Betäubung kriegt ihn ruhig. 
 * Ruhepause: Llovara. Auf Karren zum größten Tempel. Kyrie wiedergesehen: Ist Hohepriesterin und kämpft einen verdeckten Kampf gegen den Glauben an die Göttin (Sskreszte) und für Rationalität. Ein Jahr vergeht. Andere Reiche greifen sie an. Wir greifen ein, um die Stadt zu retten und zerstören damit Kyries Erfolge („die Göttin greift ein“). 
 * Seltsame Verwerfungen treten auf. Fox entdeckt eine Zat-Basis in einem Dimensionsverschobenen Teil des Planeten. Wo in unserer Ebene einfach Terraner leben, existiert dort eine rapide wachsende Zat-Basis. Die Zat werden immer stärker und der Planet wird Stück für Stück vereinnahmt. Die verschiebung löst sich auf. Erdbeben erschüttern die Stadt. Wir fliehen, und diesmal kommt Kyrie mit. Der Boden draußen wird dunkel und bricht auf. Zat steigen daraus hervor und stürmen heran. 
 * Fox ruft das Schiff. Ein Berobter taucht auf. Jodi Crown. Er droht Sskreszta mit dem Tod. Wir kommen in letzter Sekunde in den Frachtraum. Etaros verändert sich. Weiß leuchtende Tentakel brechen aus ihm hervor und seine Psi-Kraft steigt ins Unermessliche. Er zwingt Sskreszta, sich zwischen ihm und Kyrie zu entscheiden. Sie entscheidet sich für Kyrie und wirft Etaros’ Amulett raus. Kyrie stirbt. Etaros kämpft gegen den Berobten und wird schwer verletzt. Sskrezta geht nochmal raus. Fox schneidet mit dem Schiffsblaster durch Zat. Sie holt Etaros und das Amulett wieder rein („du wirst sie wiederholen“). Ein Zat-Schwarm beginnt sich zu manifestieren. Subraumkanäle öffnen sich. Kyrie steht wieder auf, wacklig, aber am Leben. Fox springt. Kyrie stirbt erneut. Sskreszta bricht zusammen. 
 * Traum: Piraten und Zat. 
+
+
+
