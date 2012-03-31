@@ -1,6 +1,9 @@
 Konsequenzen (Kons)
 ===================
 
+Konsequenzen (Kons)
+===================
+
 Wann immer ein Charakter vollständig besiegt werden würde, kann sich seine Spielerin entscheiden, stattdessen langfristige Konsequenzen auf sich zu nehmen und im Gegenzug die Erschwernisse durch erhaltenen Schaden zeitweise zu ignorieren - oder auch einfach nicht zu sterben.
 
 Dadurch erhalten Charaktere deutlich mehr Stehkraft, die allerdings durch interessante langfristige Komplikationen „kompensiert“ wird. Wenn er sich nicht um diese Komplikationen kümmert, werden weitere Komplikationen immer schlimmer, bis der Charakter unspielbar wird.
@@ -36,4 +39,3 @@ Beispiel
 *Ein paar Spielabende später erhält Naraka erneut eine kritische Wunde. Ihre Spielerin erhöht bleibenden Schaden auf -- und wählt den Nachteil Querschnittsgelähmt. Naraka wird nun im Hintergrund bleiben. Als Ausgleich gibt ihm seine Spielerin den Vorteil Unnatürliches Glück (++), der es ihr ermöglicht, zweimal pro Spielrunde festzulegen, dass Narakas Entscheidung die richtige gewesen ist (solange die SL kein starkes Veto einlegt und eine Alternative anbietet).*
 
 *Die Nachteile für --- sind allerdings so heftig, dass Narakas Spielerin entscheidet, sobald wie möglich das verletzte Auge zurückzugewinnen und ihre SL bittet, mit ihr eine passende Geschichte dafür zu entwickeln. Lieber eine Steigerung verschieben als das Risiko einzugehen, ein Gehirn in einem Kasten zu werden. Das zerstörte Auge wieder zu heilen wird nur 3 Striche kosten, so dass der bleibende Schaden wieder auf - sinkt und beim nächsten Mal wieder nur ein Nachteil mit einem Wert von -- gewählt werden muss: Immernoch schlimm genug, aber erträglich.*
-
