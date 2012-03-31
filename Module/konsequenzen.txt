@@ -10,7 +10,7 @@ Da mit steigendem bleibenden Schaden die Nachteile bei einem Fehlschlag immer st
 Grundlagen
 ----------
 
-Der Ursprung dieses Moduls liegt in den Ideen zur Eskalation mit Folgen im Konfliktmodul (Konf) und noch nicht abgetippten Modulin zu Korrumpierung für eine 1w6 40k Adaption. Der Name „Konsequenzen“ ist von FATE inspiriert.
+Der Ursprung dieses Moduls liegt in den Ideen zur Eskalation mit Folgen im Konfliktmodul (Konf) und noch nicht abgetippten Modulen zu Korrumpierung für eine 1w6 40k Adaption. Der Name „Konsequenzen“ ist von FATE inspiriert.
 
 Charaktere erhalten den Wert „Bleibende Konsequenzen“: Dieser Wert steigt jedesmal um ein -, wenn der Charakter eigentlich besiegt worden wäre aber trotzdem weitermacht. 
 
