@@ -1,0 +1,61 @@
+Starcraft Modul
+===============
+
+Ideen: 
+
+* Inhalt des Moduls: 
+    - Konvertierungsregeln, mit denen aus den [Starcraft-Werten](http://classic.battle.net/scc/terran/unit.shtml) 1w6-Werte gemacht werden können. 
+    - Sonderregeln für Gruppenkämpfe. 
+    - Merkmale für Sonderfertigkeiten (persönliches Tarnfeld, …)
+
+* Ziele (Roadmap): 
+    1. Die Infiltrationsmissionen mit dem 1w6-System spielen können. 
+    2. Nicht-Militärkampagnen spielen können (Frachter, Wissenschaftler, …). 
+    3. In der Welt von StarCraft *leben* können. 
+
+* TP = Schadensresistenz * 3, dafuer nicht unter 0. => Wertebereiche wie Starcraft
+    - Terraner hat durchschnittlich 40 '=' 3*13
+    - Zergling hat 35 '=' 3*12
+    - Tassadar hat 300 = 3*100
+    - Nur für Einelkämpfe relevant. 
+
+* Wundschwelle = 1/3 Schadensresistenz. 
+
+* TP aus Schadensresistenz: Untereigenschaft mit 1/3 Kosten => TP 300 = 
+  SR 100 = normale Eigenschaft auf 39 = 9 Plusse = 45 Dreiecke = 
+  Halbgott, aber erreichbar (50 bis 150 Spielsitzungen).
+
+* Rüstung = 4 + Starcraft-Schutz (Marine: 4, Firebat 5, Battle Cruiser 13). Battle Cruiser / 3 = 4 ⇒ nur 1 Kategorie über der Panzerung des Marines. 
+
+* Waffe = 4 + Starcraft-Schaden. Bodenschaden und Luftschaden einzeln kaufen. In Spielen ohne Zivilisten kann das +4 bei Waffen und Rüstungen weggelassen werden (hebt sich gegenseitig auf)
+
+* Spiel über viele Kategorien (Tassadar = +2)
+
+* Terraner Marines mit durchschn. FW 13: Schaden 10, Chance 66%, 
+  durchschn. Schadensbonus durch Angriffswurf durchschnittlich 4 => 
+  (10+5)*0.66 => 10, passt). Rüstung + 4 wird durch Waffe +4 aufgehoben. 
+
+* Je stärker die Waffe, desto höher die *Fertigkeit*, damit der 
+  Durchschnittsschaden pro Angriff dem Schaden in StarCraft entspricht. 
+  13 ab Starcraft 6, 14 ab 8, 15 ab 16, 16 ab 21. +3 bei großer Reichweite. 
+
+* Gruppenkämpfe: 
+    - Für jede Art von Kämpfern einer Frontlinie zusammen würfeln; Durchschnittswert. 
+    - Ein Wurf System. Pro Wunde ein Teil der Frontlinie kampfunfähig. 
+    - Trefferpunkte geben Boni ⇒ Teil der Frontlinie pro Wunde: Waffe / 3*(Wundschwelle + Rüstung)
+    - Übermacht: 1/3 mehr: +1, 2/3 mehr: +2, doppelt so viele: +3. 3x so viele: +6. Es gilt nur die Zahl der an dem Kampf Beteiligten (Frontlinie). 
+    - Stärkere Einheiten ziehen ganze Gruppen von Gegnern aus der Frontreihe ab. Ein Tassadar kenn so die effektive Größe der Frontlinie deutlich verringern. 
+    - Wichtige Charaktere würfeln Einzelkämpfe. 
+    - Bei mehr als 3 Wunden: Nächste Reihe. Bei 9 Punkten Differenz: 2 Reihen weg, Möglicherweise drin stehende Chars sind von ihren Gegnern eingekreist. 
+    - Nur alle 3 Runden würfeln (=alle 6 Handlungen in einem Zweikampf). Gibt den Hintergrund für die Einzelkämpfe. 
+    - Ein Belagerungspanzer gilt auf Entfernung bei eng gedrängten Gegnern als 5 Einheiten (so viele trifft er mit einem Schuss). Auf kurze Entfernung nur als eine → Starcraft-Strategien sollen sinnvoll sein. v
+
+* Kosten in Charakterpunkten skaliert nach den Kosten in Starcraft: pro 10 Punkte Kosten 1 Dreieck ⇒ *(Bonus auf Waffen und Rüstungen weggelassen)* Marines: 5 Dreiecke. Rüstung 3 + Waffen (2x6) + TP 40 (13, |) + Fernkampf (13: +) ~ 5. Ghost: 10 Dreiecke: Rüstung 3 + Waffen (2x10) + Fernkampf (14 ~ ++) + TP 45 (14, ||) + Wahrnehmungsboost (9 statt 7 ~ 15 statt 12: +) + Tarnfeld (++) ~ 11.
+
+* Merkmale: 
+    - Persönliches Tarnfeld: ++: Macht unsichtbar. Zum entdecken Wahrnehmung um 9 erschwert. Auf kurze Entfernung (5m) also MW 18. Schleichen o.ä. setzt den Mindestwurf auf das Ergebnis des Wurfes + 9 (oft deutlich höher). Kostet Energie: 25+1/s. Skalieren: 25=3 ⇒ Energie in vollem Reaktor: 24. Kosten pro Minute: 6 ⇒ 1/(10s). Nicht-Militärs haben kleinere Reaktoren: 6-12 (=30s bis 90s). 
+    - Detektor: +: Erkennt Unsichtbares ⇒ kein Malus bei Wahrnehmung. Billiger als Tarnfeld, weil es viel seltener vorkommt, jemand anderen erkennen zu wollen, als sich zu tarnen. 
+    - …
+
+
+

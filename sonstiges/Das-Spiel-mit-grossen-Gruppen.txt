@@ -1,0 +1,158 @@
+Das Spiel mit großen Gruppen: Rückblick, Ideen und Fragen
+=========================================================
+
+Ende letzten Jahres hatte ich eine spannende Runde mit 8 Spielern bei [ben](/uzanto/ben). Einige Teile der Runde haben gut funktioniert, andere dagegen sind sehr zerfasert. Daher habe ich mir Gedanken gemacht, wie ich das nächste Mal besser leiten kann - und welche Herausforderungen noch eine Lösung brauchen. 
+
+Ein Teil meiner Motivation, diesen Text so ausführlich zu schreiben ist, dass Rollenspiele große Gruppen besser unterstützen müssen, wenn wir ein organisches Wachstum von Rollenspielrunden ermöglichen wollen. Details findest du in dem Artikel [Statistische Zwänge im Rollenspiel- und Kampagnendesign](/deutsch/gedanken/statistische-zwaenge-im-rollenspiel-und-kampagnendesign).
+
+Inhalt:
+
+* [Eindrücke](#eindruecke)
+* [Änderungen zum Spiel mit kleineren Runden](#aenderungen)
+* [Was hat geklappt?](#geklappt)
+* [Was ging schief?](#schief)
+* [Tipps](#tipps)
+* [Fragen](#fragen)
+
+<a name="eindruecke"></a>
+
+Eindrücke
+---------
+
+Zuerst mal ganz kurz meine Eindrücke zu der Runde. Wir waren insgesamt 9 Leute, 4 davon hatten noch nicht gespielt. Das Alter lag schätzungsweise zwischen 14-18 (5 Leute) bzw. 20-35 (wir alten Säcke halt, die schon eigene Kinder haben :) ).
+
+Es war eine Impro-Runde (weil ich mich auf das falsche System vorbereitet hatte - Fluch auf meine Vergesslichkeit: Ich hatte die [Flyerbücher](http://flyer.1w6.org) dabei, aber ein Spieler hatte die schon gespielt). Charaktere waren frei erschaffen, mit Ideen aus [Technophob](http://1w6.org/proj/technophob), aber ohne feste Einschränkungen - abgesehen von der Machtstufe (7 starke Werte, also angehende Helden). 
+
+Ich habe sie in einem Schiff abstürzen lassen. Dann sind sie auf einem Eisplanet gelandet. von dem aus ihr Schiff abgeschossen worden war. Dort wollten sie dann die Einrichtung untersuchen, aus der die Schüsse kamen, und haben sich dazu mit den Wachen ein Feuergefecht geleistet. Und abgesehen von dem teilweise recht heftigem Zerfasern (und ein paar gruppeninternen Querelen) hat die Runde viel Spaß gemacht.
+
+<a name="aenderungen"></a>
+
+Änderungen zum sonstigen Spiel
+------------------------------
+
+Das wir mehr Leute als sonst waren, wenig Zeit hatten und viele neue Spieler dabei waren, habe wir ein paar Anpassungen vorgenommen. 
+
+Statt der normalen Erschaffung habe ich den Spielerinnen einfach gesagt, dass sie 7 Punkte haben und 2 Plusse haben einfach 2 Punkte gekostet, statt wie sonst 3 Punkte zu brauchen. Dadurch waren hohe Werte zu billig und die Charaktere nicht völlig balanciert, aber was solls? Selbst so haben mir zwei Spielerinnen gesagt, dass ihnen die Unterscheidung zwischen Eigenschaften, Fertigkeiten und Merkmalen zu kompliziert war. Lieber etwas einfacher und unbalancierter als komplex und perfekt und damit jemanden überfordern. Die Überforderung lässt sich viel schwerer kitten als die Spielbalance (komplexer machen kann man Regeln nachträglich immer noch, wenn alle die Grundlagen kennen).
+
+Dann habe ich die Geschichte aus den Stärken und Schwächen der Charaktere entwickelt: Eine hat kein Wasser vertragen, deswegen sind sie auf einem Eisplaneten abgestürzt. Leider habe ich zu wenig Soziales eingebracht.
+
+Die Charaktere waren ein schwarzgepanzerter Synarchu, eine fliegende Assassinen-Drone, ein metaphysisches Wesen, das dem Gegenüber immer ihn selbst gespiegelt hat, eine zweiköpfige Medusa und Sirene, von zwei Spielerinnen gemeinsam gespielt, ein Jäger mit Tarnsystem, eine männerhassende Space-Amazone und ein tief-philosophischer 
+Monrithgad mit Tentakelähnlichen Pflanzenfasern. 
+
+Damit waren die Charaktere sehr vielfältig, aber die Spielwerte gaben eine Richtschnur, um sie zusammenzubringen. Ich wusste, womit ich arbeiten konnte.
+
+<a name="geklappt"></a>
+
+Was hat geklappt?
+-----------------
+
+Die schnelle Erschaffung hat gut funktioniert, auch wenn es für neue Spielerinnen wahrscheinlich noch besser wäre, den Unterschied zwischen Eigenschaften und Merkmalen zu ignorieren, und die Stuktur zu vereinfachen. Eigenschaften, Fertigkeiten, Berufe und Merkmalen sind 4 unterschiedliche Arten von Werten. Sie auf 3 zu reduzieren würde die Komplexität deutlich mindern[^komplexitaet].
+
+Die durch die Vereinfachungen unterschiedlicher Macht der Chararktere hat keinerlei Probleme gemacht (allerdings war es auch nur ein One-Shot).
+
+[^komplexitaet]: In eine Rollenspielrunde einzusteigen ist relativ komplex. Neulinge im Rollenspiel müssen bereits im Kopf behalten, wie das Spiel funktioniert (Ich habe einen Charakter. Wir Spielen eine Geschichte. Bei Konflikten würfeln wir), wer dabei ist (alle anderen Charaktere, gerade bei großen Runden also sehr viel) und was sie für ihre Charakter wollen. Den Charakter in 4 Teilbereiche zu strukturieren kann da kompliziert wirken, vor allem, wenn es keine Vorlagen gibt - also keine Charakterklassen. Für [Technophob](http://1w6.org/proj/technophob) haben wir daher Beispielcharaktere genutzt, die die Rolle von Charakterklassen übernehmen, ohne die Erschaffung über Klassen zu erzwingen.
+
+Auch die Anfangsszene im Raumschiff lief sehr gut. Die Cahrarktere haben sich unterhalten, und wann immer die Szene langweilig zu werden drohte, habe ich etwas Interaktion eingeworfen: Erst die Sichtung der zerstörten Station (dahin wollten sie eigentlich), dann den ersten Beschuss ihres Schiffes, dann weiteren Beschuss, wegen dem sie landen mussten und abstürzten. 
+
+Nach dem Absturz wurde es dann etwas schwieriger.
+
+Insgesamt würde ich sagen, dass wir viel Spaß hatten. Leider hat dabei aber nicht alles funktioniert - sonst hätte es vermutlich noch viel intensiver werden können. Gehen wir also zu dem über, was ich zukünftig anders machen will. Oder zumindest versuchen will, anders zu machen.
+
+<a name="schief"></a>
+
+Was ging schief?
+----------------
+
+### Die Runde zerfaserte
+
+Unter den Problemen war für mich der größte Faktor, dass die Runde stark zerfaserte. Sobald die mit dem Schiff abgestürzt waren und raus konnten, haben sie angefangen, völlig verschiedene Dinge zu tun. 
+
+Der Synachu hat begonnen, einen coolen Schlitten zu planen, mit dem sie reisen könnten. Andere wollten allerdings nicht darauf warten. Und auch nicht tun, was der Synachu wollte. 
+
+Hier haben sich keine Gruppenstrukturen ergeben, zumindest keine für die gesamte Gruppe, und wir hatten nicht die Zeit, um so eine Struktur zu klären und gleichzeitig eine Geschichte zu erleben. Das heißt nicht, dass wir eine Hierarchie gebraucht hätten. Was fehlte, war ein bereits etablierter Prozess, wie die Gruppe Entscheidungen trifft. In kleineren Gruppen, formt sich dieser Prozess schnell und organisch. In größeren dagegen ist es einfach, sich aus der Gruppe rauszunehmen, so dass sich leicht Untergruppen bilden können. Im Verlauf einer Kampagne würden die sich vermutlich verbinden, doch in einem kurzen One-Shot braucht es Tricks.
+
+Eine bei der Erschaffung etablierte Struktur hätte dabei helfen können. Z.B. indem ich den Spielerinnen gesagt hätte: „Nehmt euch eine beliebige Andere. Ihr seid euch schon einmal begegnet. Wann war das, und was habt ihr gemacht?“
+
+Dadurch hätte bereits am Anfang jede einen anderen Charakter, mit dem es eine Verbindung gibt, und die Verbindungen zwischen den Spielerinnen hätten vermutlich eine weitere Verbindung geliefert, so dass wir eine vollständig verbundene Gruppe gehabt hätten.
+
+Besonders deutlich ist mir das geworden, als mir aufgefallen ist, dass die Charaktere sich nichtmal wirklich vorgestellt hatten. Sie hatten sich zwar beschrieben, aber nicht die Namen genannt.
+
+Vielleicht hätte ich auch die Interaktion etwas forcieren sollen, z.B. mit der Frage:- „Wie wäre es, wenn ihr euch erstmal vorstellt?“ 
+
+Vielleicht hätte auch das schon geholfen.
+
+### Die SL skaliert nicht
+
+Zusätzlich zum zerfasern, brauchten immer wieder mehrere Spieler gleichzeitig meine Aufmerksamkeit, so dass ich häufiger der Flaschenhals im Spielfluss war. Sie haben viele unterschiedliche Dinge getan, die nicht zusammenhingen. Eine hat was gebaut, zwei sind losgegangen, eine ist in die andere Richtung gelaufen und eine hat gewartet, dass sie jemand anspricht. Das unter einen Hut und koordiniert zu kriegen war oft kaum machbar.
+
+Hier hätte es geholfen, eine der Spielerinnen als Co-SL zu rekrutieren. 
+
+Eine andere Möglichkeit wäre gewesen, das Abenteuer stärker zu strukturieren, also effektiv den Spielerinnen weniger Freiheit zu geben[^onepagedungeons]. Am Besten mit einem Startpunkt, der klare Wege und Ziele bietet und dadurch ohne großen Aufwand spielbar wäre. Auf die Art hätten dann alle eine festere Verbindung, so dass sie eher zusammenbleiben würden. Alle würden dasselbe tun wollen. Wichtig wäre hier, dass Einzelhandlungen nicht einfach so gestartet werden können, sondern abgesprochen sein müssen, so dass Interaktion und interne Kommunikation notwendig ist - vor und nach einer Einzelaktion. Eine Luftschleuse, die von innen bedient wird, hätte helfen können.
+
+[^onepagedungeons]: Ich denke seit längerem darüber nach, die One-Page-Dungeons von Dungeonslayer in das 1w6-System zu konvertieren und hoffe, das dadurch die Struktur der Runden steigen würde. Allerdings bin ich nicht sicher, ob das nur ein Symptombasteln ist. Oder Faulheit: Dungeons sind leichter zu leiten, und ich bin durch Job und Familie in letzter Zeit weniger fit als früher. Und ich bin nicht sicher, ob es wirklich helfen würde, weil die Runde natürlich genausogut noch stärker zerfasern könnte, wenn jeder einen anderen Teil des Dungeons sehen will.
+
+### Die Handlungen liefen auseinander
+
+Einer der Gründe für Einzelhandlungen waren Spieler, die in Konkurrenz zueinander standen und entweder ohne die anderen handeln oder die anderen auf ihren Weg holen wollten, ohne erstmal mit allen zu reden (Demokratie ist auch in Rollenspielrunden ein gutes Konzept). Da könnte ich vielleicht durch klarere Spielstruktur gegensteuern. Z.B. durch eine Situation, in der die Chararktere noch nichts machen, aber miteinander reden können. Ich hätte die Steuerung des Schiffes ausfallen lassen können, so dass erstmal alle zusammen sind. Der Autopilot hätte anspringen können und einen 30 Minuten Countdown starten. In dem sie nichts machen können als zu warten und zu reden.
+
+Besser wäre noch eine soziale Situation gewesen. Alle hätten an einem Tisch sitzen können („Ihr trefft euch in der Kneipe“ :) ), oder an den Wänden eines Rettungsbootes festgemacht sein, ähnlich wie Soldaten vor dem Absprung mit dem Fallschirm (es gibt schließlich einen guten Grund, warum diese Szene in Filmen beliebt ist). Da sehen sich alle und können erstmal nicht voneinander weg. 
+
+Auf die Art wäre für alle klar, was sie gerade machen können. Das heißt: Stärker lenkende Szenen helfen, größere Gruppen zusammenzuhalten (falls du mitgespielt hast und dir noch ein Problem fehlt, schreib es bitte!)
+
+<a name="tipps"></a>
+
+Tipps für große Runden
+----------------------
+
+Nach dieser etwas längeren Seblstkritik mal wieder zurüch ins Positive: Wie lassen sich große Runden effektiver leiten? Oder genauer: Wie können wir in einer großen Runde mehr gemeinsamen Spaß haben?
+
+* *Regelaufwand* → Einfache Regeln. 
+* *Zerfasern* → Explizite Bindungen zwischen Charakteren. 
+* *Auseinanderlaufen* → Szenen strukturieren. 
+* *Die SL skaliert nicht* → Co-SL für klare Aufgaben (z.B. Kämpfe).
+
+### Einfache, schnelle Regeln
+
+Der erste Punkt ist offensichtlich: Verwendet ein schnelles Regelwerk, so dass zu dem durch die Gruppengröße gegebenen Aufwand nicht noch zusätzlicher Zeitbedarf durch die Regeln kommt. Wenn ihr ein auf 1w6 basierendes Regelwerk nutzt, habt ihr den Punkt bereits erfüllt. In dem Fall müsst ihr nur darauf achten, keine Module zu nutzen, die die Regeln stark verlangsamen. Wenn ihr in kleineren Runden Zusatzmodule nutzt, könnte es sich anbieten, die in größeren Runden wegzulassen. 
+
+Die [Flyerbücher](http://flyer.1w6.org) scheinen sich dabei für große Gruppen anzubieten, sind allerdings in erster Linie ein Ansatz für minimierte Regeln *mit neuen Spielern und neuen Charakteren*. Bei erfahrenen 1w6-Spielern oder länger laufenden Runden dürfte das Grundsystem schneller sein, weil darin der Effektivwert von Fertigkeiten bereits in der Erschaffung und bei der Steigerung berechnet ist, so dass die Frage wegfällt, welche Eigenschaften eine bestimmte Probe stützen. Dafür werden die einzelnen Proben etwas weniger einzigartig, weil nicht für jede Probe einzeln die passenden Eigenschaften sichtbar werden. Aber das ist ein Preis, der durch die in großen Gruppen essenzielle Zeitersparnis[^flyerzeit] gut wettgemacht werden sollte.
+
+[^flyerzeit]: Durch die etwas komplexere Erschaffung habt ihr mit dem Grundsystem ein im Vergleich zu den [Flyerbüchern](http://flyer.1w6.org) noch etwas schnelleres Spiel. Bei normalen Proben fallen zwei Schritte weg: Statt (1) „Fertigkeit wählen“, (2) „passende Eigenschaften suchen“, (3) „Eigenschaftsboni verrechnen“, (4) „sonstige Boni verrechnen“, (5) „würfeln“, (6) „Fertigkeit ± Wurf“, (7) „vergleichen“ gibt es nur noch (1) „Fertigkeit wählen“, (2) „sonstige Boni verrechnen“, (3) „würfeln“, (4) „Fertigkeit ± Wurf“, (5) „vergleichen“. Ein Unterwürfelsystem spart dabei übrigens einen weiteren Schritt ein (Fertigkeit ± Wurf), verliert dadurch aber [Skalierbarkeit](/deutsch/regeln/hintergrund-der-regeln/warum-das-1w6-system-skaliert), die für 1w6 ein wichtiges Designelement ist (um für jegliche Welten nutzbar zu sein und für lange Kampagnen die ganze Bandbreite von schwachen zu mächtigen Charakteren interessant zu halten).
+
+### Explizite positive Bindungen
+
+Um ein zu starkes Zerfasern der Gruppe zu vermeiden, lasst jede in der Gruppe eine andere aussuchen, mit der sie etwas positives verbindet. Das kann ein gemeinsames Erlebnis sein, oder frühere Hilfe. Wichtig ist, dass es dem Charakter noch heute etwas bedeutet, dass also noch heute eine positive Bindung zu diesem Charakter besteht. Sie muss nicht erwiedert werden, aber sie sollte da sein. Zusammen mit Sympatien zwischen den Spielerinnen sollte es damit für jede Spielerin im Schnitt mindestens 2 Leute geben, mit denen sie interagiert, oder die sie zumindest schätzt. Manche werden nur eine haben und manche viele, aber jede hat natürliche Ansprechpartnerinnen. Dadurch ist die Wahrscheinlichkeit deutlich geringer, dass es eine ganz abgeschlossene Untergruppe gibt.
+
+Wenn ihr in Gruppen mit bestehender Trennung spielt, macht einfach aus dem einen positiven Kontakt 2 positive Kontakte. Dann ist abgrenzende Subgruppenbildung fast ausgeschlossen.
+
+### Die Handlung in Szenen strukturieren
+
+Positive Bindungen helfen allerdings wenig, wenn die Gruppe auseinanderläuft, weil die Charaktere unterschiedliche Dinge tun (obwohl sie sich vielleicht absprechen). Um das zu vermeiden, kannst du als SL die Szenen so strukturieren, dass sie bestimmte Aktivitäten fördern, also sozusagen das Thema der Szene durch den Entwurf der Szene vorgeben (ich höre jetzt schon die ARS-ler schreien. Wenn ihr eure Runden mit 8 Spielern im unstrukturierten Spiel hinbekommt, ohne dass sich die Hälfte der Spielerinnen die meiste Zeit langweilt, verratet mir bitte euren Trick). 
+
+Bei dieser Technik ist es wichtig - deutlich mehr noch als bei den anderen - dass deine Spieler damit einverstanden sind, dass du so leitest. Sag ihnen vorher „Da wir heute so viele sind, würde ich gerne klar strukturierte Szenen nutzen, um zu verhindern, dass wir zu sehr auseinanderlaufen. Wenn euch das an irgendeinem Punkt zu eng scheinen sollte, sagt es einfach. Ist das für euch in Ordnung?“. Wenn sie zustimmen, kannst du die Struktur nutzen. Alternativ braucht ihr vielleicht was anderen Spaßiges, das die Hälfte der Runde machen kann, während du mit den anderen Spielst. Wir hatten dafür zu Schulzeiten eine Konsole im Nebenzimmer…
+
+Wenn die Szene zum Kennenlernen da ist, dann mach sie in einem abgeschlossenen Raum oder en einer Oase am Abend (nachts Reisen ist da keine gute Idee). Wenn es um Planung geht, dann sorge dafür, dass es ohne Planung nicht weitergeht und dass das für alle kristallklar ist. Zum Beispiel indem alle ungeplanten Aktionen schnell an eigentlich vorhersehbaren Problemen scheitern (denk dran: Du kontrollierst die Welt und was du noch nicht beschrieben hast, kannst du immernoch ändern). Und wenn es um Kampf geht, sorge dafür, dass alle mit dem gleichen Problem konfrontiert sind. 
+
+Eine weitere Alternative ist, dass du, wann immer die Runde zu sehr auseinander läuft, das Spiel explizit unterbrichst und sagst „Wir sind wieder ganz schön auseinandergelaufen. Wer Ideen hat, wie wir die Gruppe wieder zusammenkriegen, melde sich bitte. Dann stimmen wir ab, wie es weiter geht.“
+
+Das musst du nicht immer und zu jeder Zeit so halten, und solange die Gruppe wieder zusammenfindet, kann auch mal eine Szene getrennt sein, aber da du nicht skalierst, sollte die Gruppe in jeder Handlungsrelevanten Situation zusammen sein. Und wo das wirklich nicht geht, hol dir eine Co-SL.
+
+### Hol dir eine CO-SL
+
+Aber selbst so kann es dir zu kompliziert werden, alle Aktionen gleichzeitig im Kopf zu behalten. In dem Fall denk an den Ausspruch eines berühmten Programmieres: „Die SL skaliert nicht“ (OK, der Ausspruch geht etwas anders, aber im Kern sagt er das - wenn du weißt, was ich meine, schreib doch einen Kommentar :) ). 
+
+Wenn du merkst, dass du den Überblick verlierst, scheue nicht davor zurück, das deinen Spielerinnen zu sagen. Du kannst sie dann fragen, ob eine von ihnen dir in der Szene als CO-SL zur Seite stehen würde, z.B. um den Kampf zu regeln oder ein paar NSCs zu spielen. Solange die Aufgabenteilung klar ist, sollte das ohne allzu große Inkonsistenzen funktionieren. Und ein paar kleine Ungereimtheiten sind auch kein Beinbruch, solange ihr sie offen zugeben könnt. Das passiert halt beim Spiel an der Belastungsgrenze manchmal :).
+
+<a name="fragen"></a>
+
+Fragen
+------
+
+Nachdem ich nun meine Erfahrungen mit großen Gruppen in Tipps verarbeitet habe (die eine Runde war beileibe nicht die einzige, sie war nur die erste große Runde seit langer Zeit, die ich ohne Co-SL geleitet habe), würde ich von euch gerne wissen, welche Erfahrungen ihr mit großen Runden gemacht habt, und wie ihr damit umgeht.
+
+* Habt ihr schon Runden mit mehr als 6 Spielerinnen geleitet? Wie ist es gelaufen?
+* Hattet ihr mit großen Runden Probleme, die ich hier nicht genannt habe? Wie seid ihr damit umgegangen?
+* Habt ihr eigene Tipps und Techniken, wie ihr mit großen Runden umgeht? Wie sorgt ihr dafür, dass die Runde läuft? 
+* Was haltet ihr von den Tipps, die ich hier geschrieben habe? Könnt ihr sie bestätigen, oder seht ihr es anders?
+
+Und damit beschließe ich diesen Artikel erstmal. Ich freue mich schon auf eure Kommentare!
