@@ -2391,5 +2391,3 @@ Der Name Auge um Auge passt für härtere Hindergründe.
 ------ 
 
 Template = Vorlage!
-
-
