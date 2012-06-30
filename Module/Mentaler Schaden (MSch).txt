@@ -1,0 +1,115 @@
+UNBEARBEITETE VERSION AUS DEM WIKI
+
+AKTUALISIERUNG NOTIG
+
+ToDo: 
+
+* Mentale Narben fressen keine Erfahrung. Der Nachteil kostet den Char effektiv schon Punkte. Ihne wegzukaufen kostet dann die Erfahrung, es sei denn die Spielerin will ihn behalten. 
+
+* Auf Dreiecke und Plusse umschreiben. 
+
+
+
+=Mentaler Schaden=
+
+==Einführung==
+
+Angst, Horror, schreckliche Erlebnisse und Telepathische Angriffe verursachen psychischen Schaden. Psychischer Schaden wird wie physischer abgehandelt, entsteht aber in anderen Situationen. 
+
+Diese Situationen ins Rollenspiel zu bringen, kann es um eine sehr interessante Nuance bereichern, soweit sogar, dass Kämpfe eine merkliche psychologische Komponente erhalten. Ob das gewünscht ist, liegt in der Hand der jeweilligen Gruppe. 
+
+Diese Regeln schneiden das Thema nur an und lassen all die komplexeren Aspekte wie Motivation und Moral vorerst außen vor, geben aber ein grundgerüst, auf dem jede gruppe weiter aufbauen kann. 
+
+==Grundlagen==
+
+===Mentale Trefferpunkte===
+
+Die Basis für den mentalen Schaden, den ein Charakter einstecken kann ist die Mentale Stabilität oder alternativ die Willenskraft. 
+
+Diese wird verdoppelt um die mentalen TP festzulegen. 
+
+Die mentale Wundschwelle eines Charakters beträgt 1/3 seiner Willenskraft. 
+
+===Mentaler Schaden===
+
+Mentaler Schaden darf nicht mit Erschöpfung verwechselt werden. Erschöpfung erhält ein Charakter wenn er sich längere Zeit angestrengt hat, mentalen Schaden dagegen in Situationen, die die Integrität der Persönlichkeit oder der Emotionen, also der Psyche angreifen. Dazu gehört es beispielsweise, Freunde grausam sterben zu sehen, den eigenen Vater von der Decke baumeln zu sehen, wo er sich erhängt hat, oder eben psychische Angriffe von Psionikern abzubekommen.
+
+===Mentale Wunden===
+
+Jedes dieser Erlebnisse bewirkt eine bestimmte Menge an Schaden. Überschreitet der Schaden die mentale Wundschwelle des Charakters, so nimmt er eine Wunde. Überschreitet er die Willenskraft des Charakters, erhält er eine schwere Wunde. 
+
+Diese Wunden geben die selben Mali wie körperliche Wunden (Wunde: -3, schwere Wudne: -6 (während das Adrenalin pumpt) / -12 (nachdem der äußere Horror nachgelassen hat und der Innere spürbar wird)
+
+===Mentale Narben===
+
+====Ursache====
+
+Wirklich schreckliche und/oder einschneidende Ereignisse erzeugen nicht nur mentalen Schaden, sondern können mentale Narben hinterlassen (Spielleiterentscheidung). 
+
+Oft passiert das bei schweren mentalen Wunden, allerdings nicht immer (Spielleiterentscheidung). Narben können auch entstehen, wenn regeltechnisch kein mentaler Schaden entsteht (nicht aller Schaden wird regeltechnisch erfasst, und manche Erlebnisse hinterlassen aufgrund der Vorgeschichte des Charakters auf jeden Fall Narben). 
+
+====Auswirkungen====
+
+Psychische Narben können als eine Quelle der Kraft erscheinen, weil sie dem Charakter eine sehr starke Motivation geben, aber sie schwächen ihn immer. Manche Aufgaben lassen sich ohne mentale Narben kaum erfüllen, da die Narben es ermöglichen, alle Kraft nur auf ein Ziel zu konzentrieren, wodurch aber viele andere Gebiete vernachlässigt werden. 
+
+Psychische Narben verringern effektiv die Lernfähigkeit von Charakteren und erzeugen Schwachstellen, über die der Charakter leicht angegriffen werden kann. 
+
+Wird ein Charakter in irgendeiner Situation mit seiner psychischen Narbe konfrontiert, was meistens verbal passiert, aber auch (und sehr effizient) psionisch herbei geführt werden kann, bekommt er Abzüge als ob er (je nach Tiefe der Narbe) eine Wunde oder schwere Wunde bekommen hätte. 
+
+Dafür geben psychische Narben ihm eine erhöhte Stabilität gegenüber den meisten schrecklichen Erlebnissen. Durch die Abstumpfung bekommt er drei zusätzliche Punkte auf seine mentale Wundschwelle, solange nicht die Schwachstelle angegriffen wird. Für jeglichen mentalen Schaden gegen seine Schwachstelle wird seine Wundschwelle allerdings um 3 reduziert (was sie oft auf 1 reduziert, fällt sie unter Null, führt jeder Angriff auf die Schwachstelle zum sofortigen Zusammenbruch). 
+
+Diese Schwachstelle führt, wenn sie von anderen getroffen und die Wundschwelle überschritten wird, zu irrationalen und vom Charakter nicht kontrollierbaren Reaktionen. Das wird durch einen Nachteil ausgedrückt, der nur gilt, wenn die Narbe getroffen wird (alles von Stummheit bis Berserker). 
+
+Eine psychische Narbe wird als 15GeP-Nachteil betrachtet. Ein Charakter mit einer Mentalen Narbe erhält jeden Spielabend 1/3 weniger EP, die von seiner Narbe absorbiert werden, bis sie 15EP aufgenommen hat. 
+
+Gleichzeitig erzeugt eine Narbe einen psychischen Nachteil, der von Fanatismus bis Schüchternheit alles sein kann und etwa 15 GeP betragen sollte und die Auswirkungen des Schocks auf die Psyche des Charakters zeigt. 
+
+====Auflösen von mentalen Narben====
+
+Beim Auflösen der Narbe nimmt der Charakter noch einmal den psychischen Schaden, der sie verursacht hat. Je nach Art der Behandlung bekommt er ihn auf einmal (was zu einer neuen Narbe führen kann) oder in kleinen Häppchen. 
+
+Die 15GeP fließen dabei zurück und können entweder zum Auflösen des Nachteils, der durch die Narbe kam, oder zum Erwerb neuer Fertigkeiten oder Vorteile genutzt werden, was heißt, dass der Charakter dann in den nächsten Wochen einen starken Entwicklungssprung macht. 
+
+Wird die also Narbe kuriert, werden die gespeicherten Punkte frei und können während den nächsten 2 Wochen (InPlay) ausgegeben werden. Das repräsentiert begeistertes Lernen, das die Lücke, die die Narbe hinterlassen hat, ausfüllt. 
+
+Mit diesen Punkten kann auch der durch die Narbe entstandene Nachteil weggekauft werden. 
+-----
+
+==Mentale Narben in der [[RaumZeit]] Kampagne==
+
+Mentale Narben können Charaktere bei einschneidenden Erlebnissen erhalten. 
+Oft passiert das bei schweren mentalen Wunden, allerdings nicht immer (Spielleiterentscheidung). Narben können auch entstehen, wenn regeltechnisch kein mentaler Schaden entsteht (nicht aller Schaden wird regeltechnisch erfasst, und manche erlebnisse hinterlassen aufgrund der Vorgeschichte des Charakters auf jeden Fall Narben). 
+
+Eine mentale Narbe erhöht die Wundschwelle um 3 Punkte. Jeder Charakter der eine mentale Narbe erhält bekommt gleichzeitig einen Gurps 10 Punkte Nachteil,  vorzugsweise aber nicht ausschließlich geistig. 
+
+Gleichzeitig bekommt der Charakter 1/9 weniger Erfahrungpunkte für Spielabende, die in der Narbe "gespeichert" werden. 
+
+Wird die Narbe irgendwann kuriert, werden die gespeicherten Punkte frei und können während den nächsten 2 Wochen (InPlay) ausgegeben werden. Das repräsentiert begeistertes Lernen, das die Lücke, die die Narbe hinterlassen hat, ausfüllt. Mit diesen Punkten kann auch der durch die Narbe entstandene Nachteil weggekauft werden. 
+
+Vernarbung einer Wunde bedeutet übrigens auch, dass der erlittene mentale Schaden verschwindet, da er durch die Narbe kompensiert wird. 
+
+Bei der Kurierung der Narbe erleidet der Charakter meistens den mentalen Schaden erneut, der zu der Narbe geführt hat. 
+
+-----
+
+==Mentaler Schaden und Heilung==
+
+Mentaler Schaden heilt langsam. Wunden heilen erst, wenn der mentale Schaden auf 0 gesunken ist. 
+
+Bleibt der mentale Schaden für längere Zeit bestehen, können die Wunden vernarben und bleibende Psychosen hinterlassen. Wenn der Charakter wieder mentalen Schaden erhält während eine Wunde heilt, wird der Heilungsprozess unterbochen, und die Heilung der Wunde beginnt erst wieder von vorne, wenn der Schaden geheilt ist. 
+
+Normale mentale Wunden können bei verzögerter Heilung vernarben und Marotten oder Nachteile bis zu 5 Punkte zur Folge haben. Schwere Wunden können Nachteile bis 30 Punkte nach sich ziehen. 
+
+Normalerweise heilt in drei Tagen ein Punkt mentaler Schaden, in drei Wochen heilen damit 7 Punkte und ein Charakter, der völlig fertig mit den Nerven war (durch dauernden Stress, ohne Wunden eingesteckt zu haben, mTP auf 0) heilt binnen etwa 9 Wochen fast völlig aus. Hat er eine mentale Wunde, verdoppelt sich die Heilungszeit (1 Punkt in 6 Tagen, völlige Heilung nach Nervenzusammenbruch nach 20 Wochen aka 4 Monaten), hat er eine schwere Wunde, vervierfacht sie sich (1 Punkt in 12 Tagen, 7 Punkte in 12 Wochen, völlige Heilung nach 41 Wochen aka 9 Monaten). 
+
+Die Heilung einer Wunde dauert eine Woche, die der Charakter in ruhiger und größtenteils stressfreier Umgebung verbringen muss. 
+
+Die Heilung einer schweren Wunde dauert unter denselben Bedingungen einen Monat. 
+
+Vernarbt eine mentale Wunde, so kostet sie bis zu 15EP (nach den bereits beschriebenen Regeln) und zieht die hier beschriebenen Nachteile nach sich. 
+
+Komplexere Heilungsregeln funktionieren analog zu der körperlichen Heilung. 
+
+==Beispiele für Schaden durch bestimmte Erlebnisse==
+
+...
