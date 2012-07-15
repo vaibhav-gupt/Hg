@@ -12,14 +12,16 @@ Anmerkung: Wir verdienen mit den Flyern kein Geld und Sie können die Flyer jede
 Was sind die Flyer?
 -------------------
 
-Die Grundflyer sind eine Anleitung zum Rollenspielen, das heißt, mit ihnen werden in der Gruppe gemeinsame Geschichten erschaffen und Abenteuer erlebt. Sie sind den Abenteuer-Spielbüchern ähnlich, bei denen in einem Buch nach jedem Abschnitt entscheidungen stehen, die die Leser in unterschiedliche Teile der Geschichte bringen. Statt das alle Abschnitte vorher geschrieben werden, gibt es allerdings eine Spielleitung (SL), die die Geschehnisse improvisiert. 
+Die Grundflyer sind eine Anleitung zum Rollenspielen, das heißt, mit ihnen werden in der Gruppe gemeinsame Geschichten erschaffen und Abenteuer erlebt. Sie sind den Abenteuer-Spielbüchern ähnlich, bei denen in einem Buch nach jedem Abschnitt Entscheidungen stehen, die die Leser in unterschiedliche Teile der Geschichte bringen. Statt dass alle Abschnitte vorher geschrieben werden, gibt es allerdings eine Spielleitung (SL), die die Geschehnisse improvisiert und dabei auf die Ideen aller Betiligten eingehen kann. 
 
-Diese SL beschreibt die Umgebung, stellt Personen dar, auf die die anderen Beteiligten treffen und überlegt sich spannende Komplikationen. Die anderen Beteiligten sind die Spieler und übernehmen jeweils die Rolle einer Hauptperson in der Geschichte, „Charakter“ genannt. Sie überlegen sich, was sie in der jeweiligen Situation tun wollen, beschreiben, wie sie Handel und stellen ihren Charakter dar, d.h. sie Sprechen in erster Person, was ihr Charakter sagt.
+Diese SL beschreibt die Umgebung, stellt Personen dar, auf die die anderen Beteiligten treffen und überlegt sich spannende Komplikationen. Die anderen Beteiligten sind die Spieler und übernehmen jeweils die Rolle einer Hauptperson in der Geschichte, „Charakter“ genannt. Sie überlegen sich, was sie in der jeweiligen Situation tun wollen, beschreiben, wie sie Handel und stellen ihren Charakter dar, d.h. sie sprechen in erster Person, was ihr Charakter sagt.
 
-Ablauf
------- 
+Einstieg
+-------- 
 
-Konkret suchen sich die Spieler eine der Charakterkarten aus, so dass sie ein Gerüst haben, das ihnen grobe Ideen gibt, was ihren Charakter ausmacht. Zusätzlich haben sie Werte auf dieser Karte. Sie sind das, was Rollenspiele von gemeinsamem Erzählen unterscheidet. Wenn nämlich unklar ist, ob eine Handlung gelingt, die jemand vorhat, kann einfach ausgewürfelt werden, ob die Handlung klappt.Auf diese Art erhalten Geschichten in Rollenspielen eine Zufallskomponente, durch die das Spiel spontaner wird. Die Regeln, wie das Abläuft, stehen auf dem Grundflyer, so dass ich sie hier nicht wiederholen werde. Stattdessen will ich kurz erklären, was das nun konkret bedeutet. Und der beste Weg dafür ist ein Spielbeispiel: 
+Konkret suchen sich die Spieler am Anfang eine der Charakterkarten aus, so dass sie ein Gerüst haben, das ihnen grobe Ideen gibt, was ihren Charakter ausmacht. Zusätzlich haben sie Werte auf dieser Karte. Durch diese Werte kann einfach ausgewürfelt werden, ob die Handlung klappt, wenn unklar ist, ob eine Handlung gelingt,  Sie sind das, was Rollenspiele von gemeinsamem Erzählen unterscheidet. Auf diese Art erhalten Geschichten in Rollenspielen eine Zufallskomponente, durch die das Spiel spontaner wird. 
+
+Die Regeln, wie das abläuft, stehen auf dem Grundflyer, so dass ich sie hier nicht wiederholen werde. Stattdessen will ich kurz erklären, was das nun konkret bedeutet. Und der beste Weg dafür ist ein Spielbeispiel: 
 
 Spielbeispiel
 -------------
@@ -58,27 +60,27 @@ SL: Entscheidungen
 
 Wenn einE SpielerIn dabei etwas tun will, sagt sie das den anderen Beteiligten. Wenn dafür ein Aspekt der Situation gebraucht wird, der nicht beschrieben wurde, muss die SL diesen Aspekt festlegen. Sie entscheidet sich meist zwischen 4 Möglichkeiten: 
 
-- Erfreuend: Dieser Aspeck fördert, was die Spielerin will, 
+- Erfreuend: Dieser Aspekt fördert, was die Spielerin will, 
 - Überraschend: Der Aspekt soll die Spielerin überraschen. 
 - Wahrscheinlich: Er ist genau, wie man erwarten würde, oder 
-- Fordernd: Er fordert die Spielerin heraus, indem sie sich mit einer ihrer Schwächen oder einer der Schwächen ihres Charakters auseinandersetzen muss oder auf andere Art in ihrem Wesen angegriffen wird. 
+- Fordernd: Er fordert die Spielerin heraus, indem sie sich mit einer ihrer Schwächen oder einer der Schwächen ihres Charakters auseinandersetzen muss oder auf andere Art mit Konfliktpunkten ihres Charakters oder Wesens konfrontiert wird. 
 
-Die SL muss also überlegen, ob es das Spiel am meisten bereichert, wenn sie auf die Frage der Spielerin die erfreuende, die überaschende, die wahrscheinlichste oder die fordernde Antwort gibt. Ansonsten braucht sie noch Namen und Werte, aber für beides gibt es auf den Flyern bereits Vorlagen.
+Die SL muss also überlegen, ob es das Spiel am meisten bereichert, wenn sie auf die Frage der Spielerin die erfreuende, die überraschende, die wahrscheinlichste oder die fordernde Antwort gibt. Zusätzlich braucht sie noch Namen und Werte, aber für beides gibt es auf den Flyern bereits Vorlagen.
 
 ### Beispiel
 
-Als Jochen Sven fragt, ob es jemanden gibt, der gelangweilt wirkt, muss Sven eine Entscheidung treffen. Offensichtlich will Jochen etwas verkaufen, also wäre die erfreuende Antwort, dass da jemand ist, der von den Waren begeistert ist und gleich sehr viel kauft. Überraschend wäre es dagegen, wenn sich diese Person als eine alte Bekannte herausstellt, die versucht, Awwar davon zu überzeugen, den Trekk aufzuhalten. Wahrscheinlich wäre allerdings eher, dass nur ein paar gelangweilte Halbstarke herumstehen. Und fordernd wäre es, wenn jemand Awwar beleidigen würde, weil er nicht zuhört. Für die erfreuende Antwort ist es Sven noch zu früh, denn das würde sehr viel Aufmerksamkeit auf Awwar lenken, der noch alleine ist. Das gleiche gilt für die überraschende und die fordernde, also wählt er die zu erwartende Antwort. 
+Als Jochen Sven fragt, ob es jemanden gibt, der gelangweilt wirkt, muss Sven eine Entscheidung treffen. Offensichtlich will Jochen etwas verkaufen, also wäre die erfreuende Antwort, dass da jemand ist, der von den Waren begeistert ist und gleich sehr viel kauft. Überraschend wäre es dagegen, wenn sich diese Person als eine alte Bekannte herausstellt, die versucht, Jochens Charakter Awwar davon zu überzeugen, den Trekk aufzuhalten. Wahrscheinlich wäre allerdings eher, dass nur ein paar gelangweilte Halbstarke herumstehen. Und fordernd wäre es, wenn jemand Awwar beleidigen würde, weil er nicht zuhört. Für die erfreuende Antwort ist es Sven noch zu früh, denn das würde sehr viel Aufmerksamkeit auf Awwar lenken, der noch alleine ist, und könnten die anderen SpielerInnen lange nur zuhören. Das gleiche gilt für die überraschende und die fordernde Antwort, also wählt er die zu erwartende. 
 
-Die auch mögliche Antwort, „nein, sie hören alle gebannt zu“ lässt Sven direkt außen vor, weil sie weder die wahrscheinlichste ist, noch sonstige offensichtliche Verteile bringt. Außerdem ist ein „nein“ als Antwort auf eine Spielerfrage in den meisten Fället weniger spannend, als ein „Ja, aber…“, „Ja, und dadurch…“ oder „Ja, wenn du…“. Jede Frage seitens der Spielerinnen, jede Idee ist ein Anstoß für die Geschichte, und es ist eine der Aufgaben der SL, diese Anstöße zu nutzen und dabei möglichst viele der anderen Spielerinnen miteinzubeziehen. 
+Die auch mögliche Antwort, „nein, sie hören alle gebannt zu“ lässt Sven direkt außen vor, weil sie weder die wahrscheinlichste ist, noch sonstige offensichtliche Verteile bringt. Außerdem ist ein „nein“ als Antwort auf eine Spielerfrage in den meisten Fällen weniger spannend, als ein „Ja, aber…“, „Ja, und dadurch…“ oder „Ja, wenn du…“. Jede Frage seitens der SpielerInnen und jede Idee ist ein Anstoß für die Geschichte. Und es ist eine der Aufgaben der SL, diese Anstöße zu nutzen und dabei möglichst viele der anderen Spielerinnen miteinzubeziehen. 
 
 Als Tamara später fragt, ob sie das Gespräch mitbekommt, wählt Sven die erfreuende Antwort, weil sie die beiden Hauptcharaktere zusammenführt. 
 
 Große Runden
 ------------
 
-Wenn in einer Runde mehr als 6 Spieler sind, ist es sehr emplehlenswert, der SL noch eine Co-SL an die Seite zu stellen. Große Gruppen teilen sich oft für einige Zeit in Untergruppen auf, und wenn mehrere SpielerInnen gleichzeitig Informationen brauchen, müssen sie sich sonst alle an eine SL wenden, was das Spiel stark ausbremsen kann. Eine CO-SL löst beide Probleme. 
+Wenn in einer Runde mehr als 6 Spieler sind, ist es sehr empfehlenswert, der SL noch eine Co-SL an die Seite zu stellen. Große Gruppen teilen sich oft für einige Zeit in Untergruppen auf, und wenn mehrere SpielerInnen gleichzeitig Informationen brauchen, müssen sie sich bei nur eine SL alle an die gleiche Person wenden, was das Spiel stark ausbremsen kann. Eine CO-SL löst diese Probleme. 
 
-Wichtig sind dabei eine klare Aufgabenteilung und effiziente Kömmunikation zwischen SL und Co-SL. Die SL trifft alle Entscheidungen, die die Gesamtgeschichte betreffen. Ist die Gruppe getrennt, kann die Co-SL für ihre Untergruppe Entscheidungen treffen, solange die die anderer Untergruppe nicht direkt betreffen. Andere Möglichkeiten sollten vorher abgesprochen werden. 
+Wichtig sind dabei eine klare Aufgabenteilung und effiziente Kömmunikation zwischen SL und Co-SL. Die SL trifft alle Entscheidungen, die die Gesamtgeschichte betreffen. Ist die Gruppe getrennt, kann die Co-SL für ihre Untergruppe Entscheidungen treffen, solange die die anderer Untergruppe nicht direkt betreffen. Andere Möglichkeiten sollten vorher abgesprochen werden. Falls sich dabei doch einmal Informationen widersprechen, lässt sich daas mit etwas Kreativität meistens auch lösen - und aus solchen Situationen können die spannendsten Geschichten entstehen.
 
 Wenn die Gruppen getrennt waren und wieder zusammenkommen, sollten die SL und die Co-SL sich gegenseitig auf den neusten Stand bringen: Was ist passiert? Gab es handlungsrelevante Ereignisse, die die andere SL auch wissen muss? Gibt es neue Personen? 
 
@@ -93,27 +95,33 @@ Die Frage lässt sich in 3 Schritten beantworten:
 
 ### (1) Kreativität um der Kreativität willen
 
-Erstens sind 1w6-Flyer Rollenspiele und damit Teil einer Kunstform, die jenseits von auftritten und ausstellungen Kreative Interaktion wirklich zu ihrer selbst willen fördert. All die Geschichten und Ideen, die in eine Runde einfließen, werden für diese Runde erschaffen. Sie können so noch stärker als Jazz und Improvisationstheater eigene Formen des Ausdrucks finden, da sie nur für die jeweilige Gruppe von 3-9 Spielern passen müssen.
+Erstens sind 1w6-Flyer Rollenspiele und damit Teil einer Kunstform, die jenseits von Auftritten und Ausstellungen kreative Interaktion wirklich um ihrer selbst willen fördert. All die Geschichten und Ideen, die in eine Runde einfließen, werden für diese Runde erschaffen. Sie können so noch stärker als Jazz und Improvisationstheater eigene Formen des Ausdrucks finden, da sie nur für die jeweilige Gruppe von 3-9 Spielern passen müssen.
 
-Dadurch sind sie gleichzeitig ein Wundervoller Inkubator sozialer und kreativer Fähigkeiten.
+Dadurch sind sie gleichzeitig ein wundervoller Inkubator sozialer und kreativer Fähigkeiten, da die Gruppe einen Schutzraum bietet, in der alle Beteiligten freier mit neuen Ideen und Interaktionsformen experimentieren können.
 
 ### (2) Leichter Zugang zur Gruppendynamik
 
-Zweitens ermöglicht das Format der Flyer einen sehr leichten Einstieg in das Spiel, und sie fördern durch ihre Plotstruktur eine Freisetzung der Dynamik der Gruppe. Die in den Charakteren und den Geschichten angelegten Potentiale geben Impulse für tief gehende Interaktionen der Spielerinnen. 
+Zweitens ermöglicht das Format der Flyer einen sehr leichten Einstieg in das Spiel, und die Flyer fördern durch ihre Plotstruktur eine Freisetzung der Dynamik der Gruppe. Die in den Charakteren und den Geschichten angelegten Potentiale geben Impulse für tief gehende Interaktionen der SpielerInnen. 
 
 ### (3) Nachhaltig frei
 
-Und drittens bauen die Regeln auf dem 1w6-System auf, das nicht nur für kurze Runden sondern auch für lange Kampagnen über mehrere Jahre geeignet ist und unter einer freien Lizenz steht (der GPL, der verbeitetsten Lizenz für freie Software). Dadurch kann jede Runde das Spiel für sich anpassen und diese Anpassungen wieder weitergeben. Gerade in einer Kunstform, die so stark die eigene Kreativität fordert und fördert wie Rollenspiele ist diese Möglichkeit ein wichtiger Aspekt. Durch freie Lizensierung wird jede einzelne Runde zu einem Inkubator für neue Spielformen wird und kann ihren eigenen Stil weitergeben, sobald die Mitglieder das Gefühl haben, dass sie etwas ganz eigenes gefunden haben, das euch für andere Interessant sein könnte.
+Und drittens bauen die Regeln auf dem 1w6-System auf, das nicht nur für kurze Runden sondern auch für lange Kampagnen mit über mehrere Jahre laufenden wöchentlichen Runden geeignet ist und unter einer freien Lizenz steht: Der GPL, der verbreitetsten Lizenz für freie Software. 
+
+Dadurch kann jede Runde das Spiel für sich anpassen und diese Anpassungen wieder weitergeben. 
+
+Gerade in einer Kunstform, die so stark die eigene Kreativität fordert und fördert wie Rollenspiele ist diese Möglichkeit ein wichtiger Aspekt. Durch freie Lizensierung wird jede einzelne Runde zu einem Inkubator für neue Spielformen und kann ihren eigenen Stil weitergeben, sobald die Mitglieder das Gefühl haben, dass sie etwas ganz eigenes gefunden haben, das euch für andere interessant sein könnte.
 
 Abschluss
 ---------
 
-Daher wäre es toll, wenn sie die Flyer testen würden, und wenn sie ihnen gefallen, sie weitergäben. Auf http://flyer.1w6.org gibt es dazu PDFs zum Herunderladen, zusammen mit den Quelldateien, die es einfach machen, die Flyer an ihre eigenen Vorstellungen anzupassen. Und natürlich würden wir uns freuen, wenn Sie uns von ihren Erfahrungen schreiben würden. Denn wie jedes soziale Projekt lebt auch die Erschaffung freier Rollenspielen von Rückmeldung.
+Daher wäre es toll, wenn sie die Flyer testen würden, und wenn sie ihnen gefallen, sie weitergäben. Auf http://flyer.1w6.org gibt es dazu PDFs zum herunterladen, zusammen mit den Quelldateien, die es einfach machen, die Flyer an ihre eigenen Vorstellungen anzupassen. 
+
+Und natürlich würden wir uns freuen, wenn Sie uns von ihren Erfahrungen schreiben würden. Denn wie jedes soziale Projekt lebt auch die Erschaffung freier Rollenspielen von Rückmeldung.
 
 Wer wir sind
 ------------ 
 
-Erschaffen wurden die 1w6-Flyer in einer Kooperation von Taysal und Arne Babenhauserheide während einem zweimonatigen gemeinsamen Kreativitätsschub. Die 1w6-Regeln werden von einer immer weiter wachsenden Gruppe an Bastlern und Testern gemeinsam entwickelt. Weitere Informationen über uns finden Sie auf 
+Erschaffen wurden die 1w6-Flyer in einer Kooperation von Taysal und Arne Babenhauserheide während einem zweimonatigen gemeinsamen Kreativitätsschub im Sommer 2010. Die 1w6-Regeln werden eit 2002 von einer immer weiter wachsenden Gruppe an Bastlern und Testern gemeinsam entwickelt. Weitere Informationen über uns finden Sie auf 
 
 http://leute.1w6.org
 
