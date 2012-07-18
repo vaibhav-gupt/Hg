@@ -215,10 +215,8 @@ estas 9 plus 3 je pluso.
 
 Problemoj ne bezonas valorojn. 
 
-Kaj tiel via rolulo estas 
-ludebla. 
-
-Mia slipo aspektas tiel: 
+Kaj tiel via rolulo estas lud-
+ebla. Mia slipo aspektas tiel:
 
     Niuve
     -----
