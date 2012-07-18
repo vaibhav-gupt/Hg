@@ -183,11 +183,11 @@ estas pli bona ol aliaj
 
 Ĉar mi nun povas preni ceteran
 bonan distingilon, mi plue 
-prenas kaŝiri. 
-
-Kaj nune, mia slipo aspektas tiel: 
+prenas kaŝiri. Kaj nune, mia 
+slipo aspektas tiel: 
 
     Niuve
+    -----
     
     Ŝtelistino ++
     -> Malplenigi poŝojn +
