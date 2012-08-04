@@ -1,4 +1,4 @@
-Was sind 1w6 Flyer?
+Was sind 1w6-Flyer?
 
 #+OPTIONS: toc:nil
 #+LaTeX_CLASS: leaflet

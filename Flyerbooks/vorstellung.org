@@ -21,11 +21,10 @@ sie sich in den letzten Jahrzehnten entwickelt haben.
 
 In diesem Umschlag sind dafür 3 Grundflyer, 3 Zusatz-Szenarien und 3
 Sets Charakterkarten, die zusammen 3 Versionen der 1w6-Flyer bilden:
-Freie Rollenspiele für 3-9 Beteiligte.
+Freie Rollenspiele für 3-9 Beteiligte. Dazu noch ein Flyer, der
+erklärt, was die 1w6-Flyer sind..
 
-Anmerkung: Wir verdienen mit den Flyern kein Geld und Sie können die
-Flyer jederzeit selbst nachdrucken (der Link auf die Quellen steht am
-Ende).
+/Anmerkung: Wir verdienen mit den Flyern kein Geld und Sie können die Flyer jederzeit selbst nachdrucken (der Link auf die Quellen steht am Ende)./
 
 ** Warum machen wir das?
 
@@ -34,8 +33,8 @@ interessant sein könnten. Und offen gesagt natürlich auch mit einem
 Eigeninteresse: ich hoffe, dass Sie sie lesen und wenn sie Ihnen
 gefallen, sie testen und anderen darüber erzählen.
 
-Daher zum Schluss noch zu den Punkten, die die Flyer von anderen Heften
-abheben: „Warum überhaupt 1w6 Flyer?“
+Daher will ich Ihnen kurz schreiben, was die Flyer von anderen Heften
+abhebt: „Warum überhaupt 1w6 Flyer?“
 
 Die Frage lässt sich in 3 Schritten beantworten:
 
@@ -88,13 +87,14 @@ Und natürlich würden wir uns freuen, wenn Sie uns von ihren Erfahrungen
 schreiben würden. Denn wie jedes soziale Projekt lebt auch die
 Erschaffung freier Rollenspielen von Rückmeldung.
 
+\newpage
 ** Wer wir sind
 
 Erschaffen wurden die 1w6-Flyer in einer Kooperation von Taysal und
 Arne Babenhauserheide während einem zweimonatigen gemeinsamen
 Kreativitätsschub im Sommer 2010. Die 1w6-Regeln werden eit 2002 von
 einer immer weiter wachsenden Gruppe an Bastlern und Testern gemeinsam
-entwickelt. Weitere Informationen über uns finden Sie auf der Seite
+entwickelt. Weitere Informationen über uns finden Sie auf der Seite:
 [[http://leute.1w6.org][leute.1w6.org]]
 
 Zur Zeit arbeiten wir an dem ersten Quellenbuch zu der Science-Fiction
@@ -105,15 +105,11 @@ in eine Welt der fast unbeschränkten Möglichkeiten und gleichzeitig
 exprem beschränkter Rechte geworfen werden, gewürzt mit einer gehörigen
 Dosis Mystik und fremden Spezies.
 
-Nun viel Spaß beim Spielen!
-
-Wir würden uns freuen, von Ihnen zu hören! 
+Nun viel Spaß beim Spielen. Wir würden uns freuen, von Ihnen zu hören! 
 
 → [[http://mitmachen.1w6.org][mitmachen.1w6.org]]
 
-Quellen zum ändern und selbst nachdrucken der Flyer:
-
-→ [[http://quellen.1w6.org][quellen.1w6.org]]
+Quellen zum ändern und selbst nachdrucken der Flyer: [[http://quellen.1w6.org][quellen.1w6.org]]
 
 \closing{Liebe Grüße,}
 \end{letter}
