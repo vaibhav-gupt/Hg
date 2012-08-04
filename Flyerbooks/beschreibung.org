@@ -1,8 +1,15 @@
 Was sind 1w6 Flyer?
 
 #+OPTIONS: toc:nil
-#+LaTeX_CLASS_OPTIONS: [a5paper]
+#+LaTeX_CLASS: leaflet
+##+LaTeX_CLASS_OPTIONS: [a5paper]
 #+LATEX_HEADER: \setlength{\parindent}{0cm}\setlength{\parskip}{2ex}\date{}\author{}
+#+DATE: 
+#+AUTHOR:
+
+# Testen:
+# \AddToBackground*{2}{% Background of a large page
+# \put(xxx,yyy){\includegraphics[scale=0.7]{linuxpinguin}}
 
 Die Flyer sind eine Anleitung zum Rollenspielen, das heißt, mit ihnen
 werden in der Gruppe gemeinsame Geschichten erschaffen und Abenteuer
@@ -82,7 +89,7 @@ werden.‘“
 Jochen: „‚Klar. Macht allerdings 3 Kupfermünzen. Suchen Sie sie schon
 einmal heraus. Sie sind doch die Leiterin der Wache, richtig?‘“
 
-...
+…
 
 * Kurz
 
@@ -91,6 +98,7 @@ eine Hauptperson und beschreiben, was sie tun. Die SL beschreibt die
 Umgebung und die nicht von SpielerInnen gespielten Personen. Die Flyer
 liefern dafür eine Ausgangssituation, die SL und SpielerInnen gemeinsam
 entwickeln.
+\newpage
 
 * SL: Entscheidungen
 
@@ -112,7 +120,6 @@ sie auf die Frage der Spielerin die erfreuende, die überraschende, die
 wahrscheinlichste oder die fordernde Antwort gibt. Zusätzlich braucht
 sie noch Namen und Werte, aber für beides gibt es auf den Flyern bereits
 Vorlagen.
-
 ** Beispiel
 
 Als Jochen Sven fragt, ob es jemanden gibt, der gelangweilt wirkt, muss
