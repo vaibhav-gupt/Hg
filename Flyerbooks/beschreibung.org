@@ -27,7 +27,7 @@ Rolle einer Hauptperson in der Geschichte, „Charakter“ genannt. Sie
 überlegen sich, was sie in der jeweiligen Situation tun wollen,
 beschreiben, wie sie Handel und stellen ihren Charakter dar, d.h. sie
 sprechen in erster Person, was ihr Charakter sagt.
-
+\newpage
 * Einstieg
 
 Konkret suchen sich die Spieler am Anfang eine der Charakterkarten aus,
