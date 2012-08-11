@@ -1,7 +1,7 @@
 Sskresztas Gedächtniskristall
 
 #+LaTeX_CLASS: book
-#+LaTeX_CLASS_OPTIONS: [a5paper,oneside] 
+#+LaTeX_CLASS_OPTIONS: [a5paper,twoside]
 ##+LaTeX_CLASS_OPTIONS: [a4paper,twoside,twocolumn] 
 
 [[./charbild-alt.jpg]]
@@ -3028,7 +3028,7 @@ Ich hoffe, wir sehen uns wieder, wenn ich von dem halben Jahr bei Mirel und Xoll
 [fn:warten]: Das kommt davon, wenn man zu lange wartet, bevor man das Log schreibt. Ich muss in der nächste Runde [[http://1w6.org/uzanto/inside][inside]] fragen, was wir bekommen haben... Nebenbei: Er ist wieder da! *freu* --- update: Er hat uns eine Blüte mit Jung-Eiern gegeben. 
 
 * Epilog
-** Epilog
+** Lizenz und Quelle
 
 /Das [[http://1w6.org/deutsch/regeln/][1w6-System]] ist ein schlankes, [[http://1w6.org/deutsch/anhang/das-ein-w-rfel-system-jetzt-unter-der-gplv3][frei lizensiertes]] ([[http://lizenz.1w6.org][GPL]]), universell einsetzbares [[http://de.wikipedia.org/wiki/Pen-&-Paper-Rollenspiel#Regelsysteme][Rollenspielregelwerk]], das es Weltenbastlern und Spielleitern erleichtern soll, ihre Welt oder Kampagne [[http://1w6.org/deutsch/regeln/das-ews-deine-beduerfnisse-anpassen/deine-welt-als-rollenspiel-veroeffentlichen][als Rollenspiel zu veröffentlichen]]./
 
