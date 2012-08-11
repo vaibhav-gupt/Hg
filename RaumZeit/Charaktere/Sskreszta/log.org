@@ -4,6 +4,8 @@ Sskresztas Gedächtniskristall
 #+LaTeX_CLASS_OPTIONS: [a5paper,oneside] 
 ##+LaTeX_CLASS_OPTIONS: [a4paper,twoside,twocolumn] 
 
+[[./charbild-alt.jpg]]
+
 /Aufzeichnungen von [[http://1w6.org/deutsch/kampagnen/w-chter-der-zeit/charaktere/sskreszta][Sskreszta]] , Raumpilotin und Psionikerin aus der alten Zeit, die nach 6.000 Jahren aus Ihrer Kryokapsel erwachte./
 
 /Die Einträge gibt es auch [[http://1w6.org/stichwort/sskreszta-log][im Weblog Format]] - inklusive [[http://1w6.org/stichwort/sskreszta-log/feed][RSS-feed]] ./
