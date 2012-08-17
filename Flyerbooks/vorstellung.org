@@ -90,12 +90,12 @@ Erschaffung freier Rollenspielen von Rückmeldung.
 \newpage
 ** Wer wir sind
 
-Erschaffen wurden die 1w6-Flyer in einer Kooperation von Taysal und
-Arne Babenhauserheide während einem zweimonatigen gemeinsamen
-Kreativitätsschub im Sommer 2010. Die 1w6-Regeln werden seit 2002 von
-einer immer weiter wachsenden Gruppe an Bastlern und Testern gemeinsam
-entwickelt. Weitere Informationen über uns finden Sie auf der Seite:
-[[http://leute.1w6.org][leute.1w6.org]]
+Erschaffen wurden die 1w6-Flyer in einer Kooperation von Taysal, Arne
+Babenhauserheide und der Illustratorin Trudy Wenzel während einem
+zweimonatigen gemeinsamen Kreativitätsschub im Sommer 2010. Die
+1w6-Regeln werden seit 2002 von einer immer weiter wachsenden Gruppe
+an Bastlern und Testern gemeinsam entwickelt. Weitere Informationen
+über uns finden Sie auf der Seite: [[http://leute.1w6.org][leute.1w6.org]]
 
 Zur Zeit arbeiten wir an dem ersten Quellenbuch zu der Science-Fiction
 Welt von Julian Groß: Technophob, das durch Techschmuggel das

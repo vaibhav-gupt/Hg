@@ -1,7 +1,7 @@
 Sskresztas Gedächtniskristall
 
 #+LaTeX_CLASS: book
-#+LaTeX_CLASS_OPTIONS: [a5paper,twoside]
+#+LaTeX_CLASS_OPTIONS: [a5paper, oneside]
 ##+LaTeX_CLASS_OPTIONS: [a4paper,twoside,twocolumn] 
 
 [[./charbild-alt.jpg]]
@@ -643,7 +643,7 @@ Geschehnisse nach dem Kampf im “Etablissement” und dem finden der Basis dahi
   /Geschichte, Stichworte, noch 5 mal, dann wieder Prosa/
 #+END_QUOTE
 
-** Rückkehr von dem Institut für Antriebstechnik
+*** Rückkehr von dem Institut für Antriebstechnik
 
 - 7,5kcr Belohnung erhalten, aller außer Kalem
 
@@ -655,13 +655,13 @@ Geschehnisse nach dem Kampf im “Etablissement” und dem finden der Basis dahi
 
 - => Auftrag für die Daten: untersuchungen (Liste mit Tieren...)
 
-** Reparaturen: 3 Wochen für Jäger
+*** Reparaturen: 3 Wochen für Jäger
 
 - Sskreszta und Fox: Stadtbesichtigungen, Verschiedene Fotos geschossen...
 
 - Kalem meistens unauffindbar
 
-** Vorbereitung auf die Expedition
+*** Vorbereitung auf die Expedition
 
 - 2 * Tropenausrüstungen (für 10kcr)
 
@@ -669,9 +669,9 @@ Geschehnisse nach dem Kampf im “Etablissement” und dem finden der Basis dahi
 
 - Für Kalem: Nur Medkit für 3kcr)
 
-** Flug zur Insel
+*** Flug zur Insel
 
-** Landungstest
+*** Landungstest
 
 - 300m über Boden kein Nebel mehr
 
@@ -683,7 +683,7 @@ Geschehnisse nach dem Kampf im “Etablissement” und dem finden der Basis dahi
 
 - Tiefenscan
 
-** Demonstration von Schutzschild
+*** Demonstration von Schutzschild
 
 - persönliches von Kalem: Versuch Blaster gegen Schädel Kalems zu schlagen
 
@@ -701,7 +701,7 @@ Geschehnisse nach dem Kampf im “Etablissement” und dem finden der Basis dahi
 
 - mögl. durch Blitzeinschläge
 
-** Höhlenscan am Berg
+*** Höhlenscan am Berg
 
 - auf 3 mögl. eingegrenzt
 
@@ -721,7 +721,7 @@ Geschehnisse nach dem Kampf im “Etablissement” und dem finden der Basis dahi
 
    - Plötzlich selbst raus, Schlange springt, erschossen
 
-** Dritte Höhle
+*** Dritte Höhle
 
 - 3 Stunden am Seil durch die Höhle gewandert... Langeweile...
 
@@ -729,7 +729,7 @@ Geschehnisse nach dem Kampf im “Etablissement” und dem finden der Basis dahi
 
 - In verschiedeneste Richtungen gegangen, immer dem Hauptgang nach
 
-** Eisfläche
+*** Eisfläche
 
 - Statik
 
