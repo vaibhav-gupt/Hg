@@ -1,0 +1,35 @@
+Ante Portas v0.1, Codename „Alea 1w6 Est“ ist jetzt online.
+
+> » Vier ganz normale Römer. Ein Würfel. Ein echt freies Rollenspiel. Und Sandalen.«
+
+Diese Veröffentlichung enthält die erste vollständige Sammlung von Ante Portas, einem 1w6-basierten Rollenspiel in der Zeit der Römer, Germanen and Gladiatoren. Sein Autor ist Ben alias [Alea1W6Est](/uzanto/alea1w6est), zu dessen Ehren der Codename dieses Releases gewählt wurde.
+
+<div style="float: left; width: 124px" align="center"><a href="" title="Ante Portas, Grund-Zettel und Charakter"><img src="" alt="Cover"  width="93" height="130"><br />
+- Regelwerk -</a><br /></div>
+<div style="float: left; width: 124px" align="center"><a href="" title="Ante Portas, Grund-Zettel und Charakter"><img src="" alt="Cover"  width="93" height="130"><br />
+- Regelwerk -</a><br /></div>
+<div style="float: left; width: 124px" align="center"><a href="" title="Ante Portas, Grund-Zettel und Charakter"><img src="" alt="Cover"  width="93" height="130"><br />
+- Regelwerk -</a><br /></div>
+
+<div style="float: left; width: 124px; padding-bottom: 2em" align="center"><a href="" title="Alle Ante Portas Dateien als Archiv"><img src="/files/svn-update_0.png" alt="Archiv"  width="64" height="64" /><br />
+- Alles Speichern -</a></div>
+<div style="float: left; width: 124px; padding-bottom: 2em" align="center"><a href="" title="Quelldateien zum selbst weiterentwickeln"><img src="/files/svn-update_0.png" alt="Quelldateien" title="Die Quelldateien zum selbst weiterentwickeln" width="64" height="64" /><br />
+- Quellen -</a></div>[^oxygen]
+
+[^oxygen]: Die Bilder Kaufen (kwalletmanager.png) und Quellen (svn-update.png) stammen von den Oxygen Icons aus [KDE](http://kde.org) und stehen unter der [LGPL](http://gnu.org/licenses/lgpl.html). Die Autoren sind Teil der Oxygen-Gruppe, also höchstens zwei von: Nuno F. Pinheiro, David Vignoni, David J. Miller, David Vignoni, Johann Ollivier Lapeyre, Kenneth Wimer, Nuno F. Pinheiro, Riccardo Iaconelli, David J. Miller. Genauer konnte ich es aus den Projektinfos nicht rauslesen.
+
+Dabei folgt Ante Portas dem Konzept der Flyerbücher und entwickelt es weiter zum Jeanstaschen-Format, das weitaus einfacher zu drucken und falten ist als die Flyer - und den Charakterzettel gleich auf den Grund-Zettel packt.
+
+Unabhängig von dem (tollen!) Inhalt stellt Ante Portas eine ganz besondere Neuerung (und Freude) dar, denn es ist das erste vollständige Quellenbuch zu 1w6, das wirklich von Außen kam: am 6. 5. 2012 kam hier der erste Kommentar von Ben [auf der Mitmachen-Seite](/deutsch/anhang/mitmachen#comment-1451): 
+
+> …Ich verwende das EWS mit meiner Gruppe schon fast ein Jahr und mittlerweile wächst der Wunsch, auch "Upstream" zu diesem tollen Projekt beizutragen…  
+> Ich habe ein kleines Rollenspiel namens Ante Portas geschrieben, das in einer römisch-antik angehauchten Parallelwelt spielt. Es verwendet das EWS plus einem von mir erstellten Modul für realistische Waffen und Kämpfe. Da ich meine Abenteuer historisch halbwegs korrekt schreibe und viel recherchiere, eignet es sich vermutlich auch für AGs, Projekttage etc. im Rahmen des Geschichts- oder Lateinunterrichts.  
+> [Ante Portas](/deutsch/anhang/mitmachen#comment-1451)
+
+Und das ist verdammt cool!
+
+Inzwischen hat Ante Portas [eine eigene Weltenseite](/deutsch/welten-und-kampagnen/ante-portas) auf 1w6 - und heute mit diesem Release einen großen Meilenstein geschafft: Es ist ein vollwertiges Release und steht auf der [Download-Seite](/deutsch/regeln/quellen).
+
+Die Bilder in Ante Portas nutzen nach Aussage von [Ben](/uzanto/alea1w6est) Inspirationen von existierenden Bildern oder bauen auf historischen Bildern auf. Ante Portas steht damit vollständig [unter der GPLv3](http://lizenz.1w6.org) (freie Lizenz).
+
+*PS: Ben hat eine Kurzbeschreibung seiner ersten Runde [im Forum Dokumentiert](/forum/allgemeines/regeln-welten-ideen/2012-06-10-bestiarium-mein-erstes-ews-projekt-548).*

@@ -1,0 +1,78 @@
+Die Marke 1w6
+=============
+
+> Drak: Hi Leute, ich hab’ Neuigkeiten »
+
+<div style="text-align: right; max-width: 68%; margin-left: 32%">« Dann immer raus damit.</div>
+
+> Drak: Sitzt ihr? Wenn nein, setzt euch besser ☺ »
+
+<div style="text-align: right; max-width: 68%; margin-left: 32%">« Das ist was großes, oder? <br />Nun spuck schon aus!</div>
+
+> Drak: Ich habe die Marke 1w6 registriert: Für Computerspiele, Online-Unterhaltung und Druckwerke.»
+
+<div style="text-align: right; max-width: 68%; margin-left: 32%">« Heißt das, du kannst mir verbieten, meine Würfel 1w6 zu nennen?!?</div>
+
+> Drak: Würfel sind Spielwaren, also nein. Eine Marke dafür wär außerdem schneller weg, als du gucken kannst: Allgemeine Ausdrücke können nur von Großkonzernen mit riesiger Rechtsabteilung registriert werden »
+
+<div style="text-align: right; max-width: 68%; margin-left: 32%">« Dann willst du der Dorp verbieten, 1w6-Freunde zu drucken!?!</div>
+
+> Drak: Definitiv nicht, die Dorpler sind verdammt cool! Und wenn du einen Weg weißt, wie ich mich rechtlich verbindlich verpflichten kann, das nicht zu tun, dann sag mir das bitte!»
+
+<div style="text-align: right; max-width: 68%; margin-left: 32%">« Was soll dann das ganze?</div>
+
+> Drak: Ich dachte schon, ihr würdet nie fragen ☺ »
+
+*(nachdem die offensichtlichsten Missverständnisse geklärt sind, jetzt weiter in Normaltext)*
+<!--break-->
+## Was bringt uns die Marke 1w6
+
+### 1w6.org ist sicher
+
+Der wichtigste Vorteil der Marke ist, dass 1w6.org sicher ist. Damit sollte uns nicht das gleiche passieren können wie Shareaza. Den Shareaza-Entwicklern wurde die Domain weggenommen und mit Spyware gefüllt, indem einfach jemand die Marke Shareaza registriert und dann die Domain beansprucht hat.
+
+### Qualitäts-Hinweis
+
+*„1w6“ als „die Autoren von 1w6 finden das gut“*
+
+Da 1w6 frei ist, kann jeder damit machen was er will. Grundlegend kann also jemand unsere Regeln kopieren, zu einem disfunktionalen System umschreiben und damit auf alle Cons fahren.
+
+Das kann er auch weiterhin.
+
+Er darf das dann aber nicht als das 1w6-System bewerben. Vom Urheberrecht her muss er sagen, dass das Ursprungswerk von uns stammt (durch die [wehrhaft-freie Lizensierung](http://lizenz.1w6.org)) und das er es verändert hat. Was jetzt dazu kommt ist, dass er, wenn er große Änderungen vornimmt, es entweder umbenennen oder uns fragen muss (fragen ist bei großen Änderungen am Grundsystem sowieso eine gute Idee, weil Regeldesign viele komplexe Ecken hat, die unser Bereich zum [Hintergrund der Regeln]() definitiv noch nicht alle abdeckt. Außerdem finden wir es toll zu hören, was ihr mit 1w6 macht :)
+
+Richtlinien:
+
+- Ein neues Modul nutzen ist kein Problem.
+- Einen Flyer rausbringen ist auch kein Problem.
+- Ein PDF mit kleinen Anpassungen der Grundregeln ins Netz stellen, auf dem steht „wandelt die Regeln von 1w6 ab“ (und irgendwo im Heft, wie es sie abwandelt) ist auch kein Problem.
+- Die Grundregeln auf w100 umzustellen, 300 Seiten Weltentext zu schreiben, das ganze als Buch zu drucken, es „1w6 3.0: super-toll“ zu nennen, damit auf alle Cons zu fahren und es als „das neue 1w6-System“ zu bewerben wäre nicht OK.
+- Ein Computerspiel zu schreiben, das seine eigenen Regeln nutzt, und das dann „1w6, der nächste Schritt“ zu nennen, wäre auch nicht OK (zumindest nicht ohne Rücksprache).
+
+> Ganz wichtig: Das alles gilt nur für die **Nutzung des Namens** 1w6. Wenn ihr den nicht verwendet, könnt ihr laut unserer [freien Lizenz](http://lizenz.1w6.org) alles mit unseren Werken machen, das ihr wollt, solange ihr das Ergebnis unter die gleiche Lizenz stellt. Und wenn ihr den Namen nur verwendet, um auf 1w6 zu verweisen, könnt ihr ihn auch jederzeit nutzen.
+
+Und ja: Die Einleitung gilt: Für Würfel und andere Spielwaren hat das keinerlei Bedeutung. DSA darf auch weiter „wirf 1w6“ sagen.
+
+## Verwendung von 1w6 durch andere
+
+- Alle Regeln hier gelten nur, wenn 1w6 als Benennung von Druckwerken, Online-Unterhaltung oder Computerspielen genutzt wird.
+
+- Wenn ihr unsere Regeln stark verändert, schreibt das dazu.
+
+- Mit Link und Markeninfo OK (1w6.org). Stellt einfach sicher, dass klar ist, dass 1w6 eine Marke von Arne Babenhauserheide ist (1w6.org). Das muss ich verlangen, weil nach Markenrecht die Marke sonst weg sein kann (ist vermutlich eine Sicherheit dagegen, dass Leute Marken registrieren und ein paar Jahre nur im ganz kleinen Kreis nutzen, um damit danach jemand anderem ans Bein pissen zu können).
+
+- [1w6.de](http://1w6.de): Alles OK, solange das weiter die Leute um Chris, Andy, Mark, usw. machen. Ich habe die Marke registriert, um zu vermeiden, dass mir 1w6.org weggenommen wird. Sie jetzt zu nutzen, um jemand anderem die Seite wegzunehmen wäre inkonsistent und beschissen. Will heißen: Das hier gilt, solange 1w6.de nicht in der Absicht verkauft/gekauft wird, damit den vorherigen und den nächsten Punkt zu umgehen:
+
+- Außer: Nicht für verherrlichung von Faschismus, Rassismus, Nationalismus oder sonstiger Diskriminierung.
+
+## Freie Lizensierung und Markenrecht
+
+Wie schon im Nutzen der Marke für uns geklärt, hat die Marke keinen direkten Einfluss auf die freie Lizensierung, denn Markenrecht ≠ Urheberrecht.
+
+Die einfachste Faustregel ist:
+
+- Frei verwendbar. 1w6 im Namen nur mit unserem OK. Wenn „Fanwerk zu 1w6“ o.ä. dabeisteht ist das auch ohne Rücksprache OK.
+
+## Hintergrund
+
+Ich mache mir schon lange Gedanken, wie 

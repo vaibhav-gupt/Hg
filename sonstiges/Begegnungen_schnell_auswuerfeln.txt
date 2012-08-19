@@ -1,0 +1,55 @@
+Begegnungen schnell auswürfeln - mit dem ±W6
+============================================
+
+Zufallstabellen in 1w6-Systemen werden sehr viel sauberer integriert erscheinen, wenn sie den ±W6 als Würfel verwenden. Um eine möglichst große Bandbreite von Ergebnissen zu haben, bietet es sich an, den Wert durch eine vergleichende Probe zu bestimmen: ±W6 - ±W6. 
+
+Auf die Art enthält jedes Ergebnis zusätzlich eine im positiven udn negativen symmetrische Skala, über die Ereignisse zum Beispiel in positive und negative aufgeteilt werden können. 
+
+Es kann damit sehr leicht als "Wettstreit zwischen positiven und negativen Ereignissen" betrachtet werden. 
+
+Die möglichen Ergebnisse eines ±w6 - ±W6 Wurfes mit Wahrscheinlichkeitn sind
+
+**Wert | relative Wahrscheinlichkeit [1/36]**
+
+* 11 | 1
+* 9 | 2
+* 7 | 3
+* 5 | 2
+* 4 | 2
+* 3 | 1
+* 2 | 4
+* 0 | 6
+* -2 | 4
+* -3 | 1
+* -4 | 2
+* -5 | 2
+* -7 | 3
+* -9 | 2
+* -11 | 1
+
+Bei dieser Verteilung bietet es sich an, für den Wert *0* das häufigste (wahrscheinlich neutrale) Ereigniss zu wählen, für +11 und -11 das schlimmst- bzw. bestmögliche, Für ±7 häufigere Kuriositäten und für ±2 häufige positive bzw. negative Eregnisse, wie auftauchende Wachen oder ein günstiger Händler. 
+
+Es wäre sogar möglich, einen Schritt weiter zu gehen und den Spielern den positiven Würfel zu geben. Auf die Art können sie zu einem kleinen Teil abschätzen, was pasieren wird und haben stärker das Gefühl, ihr Schicksal selbst in der Hand zu haben. Dabei bietet es sich dann an, Spieler bei +6/-5 noch einmal würfeln zu lassen und so kritische Ergebnisse zu erhalten, die die SL dann improvisieren kann. . 
+
+Der GAU (-5 + -5 + -5)_Spieler - (+6)_SL = -21 bringt der SL dann viel Freiraum zum Erzählen, genauso wie auch das positive Gegenstück (das z.B. den Hochelben entsprechen könnte, die Frodo und sam im Auenland getroffen haben, als der schwarze Reiter sie fast hatte). 
+
+NSCs auswürfeln
+---------------
+
+Das gleiche System kann natürlich genutzt werden, um NSCs auszuwürfeln.  
+
+Dabei bietet es sich an, mit ±W6 - ±W6 ein hervorstechendes Merkmal aus einer Zufallstabelle zu bestimmen. 
+
+Danach kann dann ein einzelner Wurf auf 12±W6 genutzt werden. Ist das Ergebnis größer als 12, gibt es die Höhe der starken Fertigkeit des NSCs an. Ist es aber kleiner als 12, gibt es die Höhe von dessen schwache Eigenschaft an. 
+
+Auf die Art entstehen die wichtigsten Erkennungsmerkmale des NSCs mit nur 3 Würfelwürfen - alles andere kann dann im Spiel hinzugefügt werden. 
+
+Modifikation: Höhe des ergebnis zeigt die absolute Stärke. 
+----------------------------------------------------------
+
+Beispiel: Piraten: Spieler werfen den Piratenwürfel, SL den Systemwürfel (verdeckt). Die Höhe der Einzelwerte zeigt an, wie stark die jeweilige Präsenz ist. Zwei 6-er beschreiben also eine Situation, in der System und Piraten beide stark sind, aber keiner die Überhand hat - z.B. eine teilweise besetzte Piratenstation. 
+
+Beispiel
+--------
+
+# TODO

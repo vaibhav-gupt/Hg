@@ -1,0 +1,90 @@
+Zufällige Namen aus dem Onomastikon holen (unter GNU/Linux)
+=========================================
+
+Einleitung
+----------
+
+Das [Onomastikon](http://www.gaminggeeks.org/Resources/KateMonk/) von Kate Monk ist meine Lieblingsquelle für Namen aller Art. Es bietet eine riesige Liste von Namen aus unserer Welt, sortiert nach Region und Ursprung der Namen. 
+
+Damit ist es problemlos möglich, sich für eine beliebige Region in fast jeder Welt passende Namen zu suchen. 
+
+Was aber fehlt ist die Möglichkeit, schnell zufällige Namen zu wählen. Daher habe ich ein kleines Skript geschrieben, um den Mangel zu beheben :)
+
+Das Skript
+----------
+
+Die Ausgabe enthält den Namen zusammen mit der Datei, aus der er stammt, so dass ich einfach ähnliche Namen finden kann, wenn der Hintergrund des entsprechenden NSCs wichtig werden sollte. 
+
+Das Skript ist nicht hundertprozentig poliert, so dass dann und wann Begriffe auftauchen, die mit drin hängen, aber keine Namen sind. Der Grund dafür ist, dass das Onomastikon selbst urheberrechtlich geschützt ist, so dass ich hier keine aufgeräumte Liste hochladen kann, in der die Namen stehen. 
+
+Stattdessen kannst du dir mit dem Skript hier selbst so eine Liste erstellen :) (sich das Onomastikon runterzuladen und privat zu bearbeiten ist urheberrechtlich erlaubt)
+
+[zufaellige-namen-aus-dem-onomastikon.sh](/files/zufaellige-namen-aus-dem-onomastikon-01.sh)
+
+Du brauchst ein GNU/Linux System wie [Kubuntu](http://kubuntu.org) (Ein \*BSD oder MacOSX *könnte* auch gehen, ungetestet) und [Python](http://python.org) (in den meisten Distros standardmäßig installiert). 
+
+Funktionsweise
+--------------
+
+Das Skript lädt erst mit wget eine Kopie des Onomastikons runter, holt dann alle Namen raus, strukturiert die Zeilen um (Namen vorne, Pfad hinten) und filtert raus, was keine Namen sind. 
+
+Danach hast du die Datei "alle-namen-vorne.txt", aus der du mit 
+
+    cat alle-namen-vorne.txt | shuf | head -n 12
+    
+zwölf zufällige Namen holen kannst. Hinter den Namen steht dabei jeweils, aus welcher Datei sie kommen, also wo du weitere ähnliche Namen findest. 
+
+Nebenbei hast du, nachdem du das Skript genutzt hast, auch noch eine lokale Kopie des Onomastikons auf deinem Rechner :) 
+
+Ich hoffe, die Namen helfen dir! 
+
+
+Das Skript im Detail
+--------------------
+
+### Teil 1: Onomastikon laden: wget
+
+    wget -m http://www.gaminggeeks.org/Resources/KateMonk/  
+    cd www.gaminggeeks.org/Resources/KateMonk/
+    
+### Teil 2: Namen extrahieren: grep und sed
+
+    grep \<td\> -r */ |sed "s/<td>//" | sed "s/<\/td>//" > alle-namen.txt
+
+### Teil 3: Liste aufräumen: Python
+
+    def is_good_line(l):  
+        return l.split(":")[1:] and (
+        not "Male" in l and  
+        not "Female" in l and  
+        not ".html" in l and  
+        not "nbsp" in l and  
+        not "href" in l and  
+        not "Surname" in l and  
+        not ".shtml" in l and  
+        not "Sources.htm" in l and  
+        not l.split(":")[2:]
+        )
+    
+    
+    with open("alle-namen.txt") as namen: 
+        names = [(j,i) for i,j in [line.split(":")  
+                 for line in namen if is_good_line(line)]]
+    
+    with open("alle-namen-vorne.txt", "w") as f:  
+        for i,j in names:  
+            k = i[:-2] + "      " + j + "\n"  
+            f.write(k.lstrip())
+
+
+### Teil 4: Namen aus der Liste holen: cat, shuf und head
+
+    cat alle-namen-vorne.txt | shuf | head -n 12
+
+
+Abschluss
+---------
+
+Jetzt viel Spaß beim spielen! 
+
+Und wenn dir dieser Tipp beim Leiten hilft, dann schreib uns doch einen Kommentar. Wir freuen uns über Rückmeldung!
