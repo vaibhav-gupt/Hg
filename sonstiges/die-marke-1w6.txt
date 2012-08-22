@@ -9,7 +9,7 @@ Die Marke 1w6
 
 <div style="text-align: right; max-width: 68%; margin-left: 32%">« Das ist was großes, oder? <br />Nun spuck schon aus!</div>
 
-> Drak: Ich habe die Marke 1w6 registriert: Für Computerspiele, Online-Unterhaltung und Druckwerke.»
+> Drak: Ich habe [die Marke 1w6 registriert](http://register.dpma.de/DPMAregister/marke/register/3020100634294/DE): Für Computerspiele, Online-Unterhaltung und Druckwerke.»
 
 <div style="text-align: right; max-width: 68%; margin-left: 32%">« Heißt das, du kannst mir verbieten, meine Würfel 1w6 zu nennen?!?</div>
 
@@ -55,7 +55,7 @@ Und ja: Die Einleitung gilt: Für Würfel und andere Spielwaren hat das keinerle
 
 ## Verwendung von 1w6 durch andere
 
-- Alle Regeln hier gelten nur, wenn 1w6 als Benennung von Druckwerken, Online-Unterhaltung oder Computerspielen genutzt wird.
+- Alle Regeln hier gelten nur, wenn 1w6 als Benennung von *Druckwerken*, *Online-Unterhaltung* oder *Computerspielen* genutzt wird (genauer: Klassen 41, 9 und 16 nach [Nizza-Klassifikation](http://dpma.de/service/klassifikationen/nizzaklassifikation/index.html) ([PDF](http://dpma.de/docs/service/klassifikationen/nizza/nizza10_teil1.pdf))). Brettspiele u.ä. fallen nicht darunter!
 
 - Wenn ihr unsere Regeln stark verändert, schreibt das dazu.
 
@@ -63,7 +63,7 @@ Und ja: Die Einleitung gilt: Für Würfel und andere Spielwaren hat das keinerle
 
 - [1w6.de](http://1w6.de): Alles OK, solange das weiter die Leute um Chris, Andy, Mark, usw. machen. Ich habe die Marke registriert, um zu vermeiden, dass mir 1w6.org weggenommen wird. Sie jetzt zu nutzen, um jemand anderem die Seite wegzunehmen wäre inkonsistent und beschissen. Will heißen: Das hier gilt, solange 1w6.de nicht in der Absicht verkauft/gekauft wird, damit den vorherigen und den nächsten Punkt zu umgehen:
 
-- Außer: Nicht für verherrlichung von Faschismus, Rassismus, Nationalismus oder sonstiger Diskriminierung.
+- Außer: Nicht für Verherrlichung von Faschismus, Rassismus, Nationalismus oder sonstiger Diskriminierung.
 
 ## Freie Lizensierung und Markenrecht
 
@@ -71,8 +71,22 @@ Wie schon im Nutzen der Marke für uns geklärt, hat die Marke keinen direkten E
 
 Die einfachste Faustregel ist:
 
-- Frei verwendbar. 1w6 im Namen nur mit unserem OK. Wenn „Fanwerk zu 1w6“ o.ä. dabeisteht ist das auch ohne Rücksprache OK.
+- Die Regeln sind frei verwendbar, wenn sie unter der freien Lizenz bleiben. Im Namen 1w6 nutzen nur mit unserem OK. Wenn „Fanwerk zu 1w6“ o.ä. dabeisteht ist das auch ohne Rücksprache OK.
 
 ## Hintergrund
 
-Ich mache mir schon lange Gedanken, wie 
+Ich habe schon lange überlegt, wie trotz freier Lizensierung eine für Spielrunden erkennbare Struktur geschaffen werden kann. Nachdem ich für die Übersetzung von Robins Laws etwas über 300€ bekommen hatte, habe ich entschieden, das Geld für eine Markenanmeldung zu nutzen.
+
+Und 1w6 war noch frei (im Gegensatz zu EWS, das nicht nur die [Elektrizitätswerke Schönau](http://www.ews-schoenau.de/) bezeichnet, sondern auch noch alles mögliche andere - von Großhandel bis Wirtschaftsschule).
+
+Also habe ich 1w6 registriert und nach einem halben Jahr die Bestätigung der Eintragung bekommen.
+
+## Abschluss
+
+Die Marke 1w6 sichert 1w6.org, und sie ermöglicht es Fans, von uns geprüfte Werke zu erkennen. 
+
+Wenn ihr noch fragen dazu habt, stellt sie bitte!
+
+
+
+
