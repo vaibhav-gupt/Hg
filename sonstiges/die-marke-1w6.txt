@@ -55,7 +55,7 @@ Und ja: Die Einleitung gilt: Für Würfel und andere Spielwaren hat das keinerle
 
 ## Verwendung von 1w6 durch andere
 
-- Alle Regeln hier gelten nur, wenn 1w6 als Benennung von *Druckwerken*, *Online-Unterhaltung* oder *Computerspielen* genutzt wird (genauer: Klassen 41, 9 und 16 nach [Nizza-Klassifikation](http://dpma.de/service/klassifikationen/nizzaklassifikation/index.html) ([PDF](http://dpma.de/docs/service/klassifikationen/nizza/nizza10_teil1.pdf))). Brettspiele u.ä. fallen nicht darunter!
+- Alle Regeln hier gelten nur, wenn 1w6 als Benennung von *Druckwerken*, *Unterhaltung* oder *Computerprogrammen* genutzt wird (genauer: Klassen 41, 9 und 16 nach [Nizza-Klassifikation](http://dpma.de/service/klassifikationen/nizzaklassifikation/index.html) ([PDF](http://dpma.de/docs/service/klassifikationen/nizza/nizza10_teil1.pdf))). Brettspiele u.ä. fallen nicht darunter.
 
 - Wenn ihr unsere Regeln stark verändert, schreibt das dazu.
 
@@ -85,8 +85,4 @@ Also habe ich 1w6 registriert und nach einem halben Jahr die Bestätigung der Ei
 
 Die Marke 1w6 sichert 1w6.org, und sie ermöglicht es Fans, von uns geprüfte Werke zu erkennen. 
 
-Wenn ihr noch fragen dazu habt, stellt sie bitte!
-
-
-
-
+Wenn ihr noch Fragen dazu habt, stellt sie bitte!
