@@ -2,7 +2,7 @@ Ante Portas v0.1, Codename „Alea 1w6 Est“ ist jetzt online.
 
 > » Vier ganz normale Römer. Ein Würfel. Ein echt freies Rollenspiel. Und Sandalen.«
 
-Diese Veröffentlichung enthält die erste vollständige Sammlung von Ante Portas, einem 1w6-basierten Rollenspiel in der Zeit der Römer, Germanen and Gladiatoren. Sein Autor ist Ben alias [Alea1W6Est](/uzanto/alea1w6est), zu dessen Ehren der Codename dieses Releases gewählt wurde.
+Diese Veröffentlichung enthält die erste vollständige Zusammenstellung von Ante Portas, einem 1w6-basierten Rollenspiel in der Zeit der Römer, Germanen and Gladiatoren. Sein Autor ist Ben alias [Alea1W6Est](/uzanto/alea1w6est), zu dessen Ehren der Codename dieses Releases gewählt wurde.
 
 <div style="float: left; width: 124px" align="center"><a href="" title="Ante Portas, Grund-Zettel und Charakter"><img src="" alt="Cover"  width="93" height="130"><br />
 - Regelwerk -</a><br /></div>
