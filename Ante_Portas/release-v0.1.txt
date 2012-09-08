@@ -2,7 +2,7 @@ Ante Portas v0.1, Codename „Alea 1w6 Est“ ist jetzt online.
 
 > » Vier ganz normale Römer. Ein Würfel. Ein echt freies Rollenspiel. Und Sandalen.«
 
-Diese Veröffentlichung enthält die erste vollständige Sammlung von Ante Portas, einem 1w6-basierten Rollenspiel in der Zeit der Römer, Germanen and Gladiatoren. Sein Autor ist Ben alias [Alea1W6Est](/uzanto/alea1w6est), zu dessen Ehren der Codename dieses Releases gewählt wurde.
+Diese Veröffentlichung enthält die erste vollständige Zusammenstellung von Ante Portas, einem 1w6-basierten Rollenspiel in der Zeit der Römer, Germanen and Gladiatoren. Sein Autor ist Ben alias [Alea1W6Est](/uzanto/alea1w6est), zu dessen Ehren der Codename dieses Releases gewählt wurde.
 
 <div style="float: left; width: 124px" align="center"><a href="" title="Ante Portas, Grund-Zettel und Charakter"><img src="" alt="Cover"  width="93" height="130"><br />
 - Regelwerk -</a><br /></div>
@@ -32,4 +32,4 @@ Inzwischen hat Ante Portas [eine eigene Weltenseite](/deutsch/welten-und-kampagn
 
 Die Bilder in Ante Portas nutzen nach Aussage von [Ben](/uzanto/alea1w6est) Inspirationen von existierenden Bildern oder bauen auf historischen Bildern auf. Ante Portas steht damit vollständig [unter der GPLv3](http://lizenz.1w6.org) (freie Lizenz).
 
-*PS: Ben hat eine Kurzbeschreibung seiner ersten Runde [im Forum Dokumentiert](/forum/allgemeines/regeln-welten-ideen/2012-06-10-bestiarium-mein-erstes-ews-projekt-548).*
+*PS: Ben hat auch eine Kurzbeschreibung seiner ersten Welt [im Forum dokumentiert](/forum/allgemeines/regeln-welten-ideen/2012-06-10-bestiarium-mein-erstes-ews-projekt-548).*
