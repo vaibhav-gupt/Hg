@@ -1,0 +1,5 @@
+Da die Gimp-Quelldateien der Karten riesig sind (28 MiB) liegen sie nicht hier im Repo, sondern auf unserem Webserver: 
+
+http://1w6.org/files/Kartenhintergrund-v0.1.xcf
+http://1w6.org/files/Karte_Trekk-v0.1.xcf
+

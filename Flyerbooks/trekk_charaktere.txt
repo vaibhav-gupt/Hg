@@ -1,0 +1,129 @@
+#Siuit
+##Botschafter und Kundschafter der Vogelmenschen
+„Schau hoch, du verschreckst ja die Tauben.“
+*Trickreich: +
+*Berufe: Botschafter: 9, Kundschafter: 9
+*Fliegen: 12
+*Kann fliegen: ++
+*Waffe: Krallen: 3, Flügel: 3
+*Rüstung: Gefieder: 1
+*Wundschwelle: 4
+Fliegen: Kann im Flug 15 kg tra­gen und fliegt dreimal so schnell wie ein rennender Mensch. 
+Die meisten Vogelmenschen leben in Städten in den Bergen. Sie sind menschengroß mit zwei mal vier Metern Spannweite. Nur wenige kommen in die Ebene, für Handel oder neue Kontakte. 
+Jeder Vogelmensch hat dabei einen Platz in der Hierarchie. Wer am höchsten steht spricht zuletzt. Wenn er gesprochen hat, gilt sein Wort. Sie sprechen mit ihrem ganzen Körper. Eine Änderung ihrer Haltung erzählt oft mehr als ganze Sätze von anderen Spezies. 
+Der gesprochene Teil ihrer Sprache besteht aus Pfeiflauten. Andere Sprachen lernen sie leicht. 
+Ziel: Kontakte unter Menschen knüpfen. 
+#Awwar
+##Händler der Katzenmenschen
+„Auch dein Gesicht will Lächeln. Gib ihm doch Freiheit.“
+*Gewandt: +, Gutgelaunt: +
+*Beruf: Händler: 9
+*Lokales Wissen: 12, Zum Lächeln bringen: 12
+*Instinktive Anpassung: +, Unbeugsamer Optimismus: +
+*Waffe:  Krallen: 2
+*Wundschwelle: 4
+Lokales Wissen: Würfel gegen eine von der SL gegebene Schwierigkeit. Gelingt der Wurf, sagt dir die SL ein Detail.
+Katzenmenschen sind überall in den Neuen Landen heimisch. Sie finden sich genauso unter den Stämmen der Echsenmenschen wie in den Städten der Vogelmenschen, doch niemals in großer Zahl. 
+Katzenmenschen bewegen sich meist graziler als Menschen und sind etwas kleiner und leichter. 
+Katzenmenschen passen sich instinktiv binnen Tagen den Verhaltensweisen und der Körpersprache ihrer Umgebung an als würden sie seit Jahren in der Gesellschaft leben. Sie gewinnen meist auch nach den schlimmsten Erlebnissen binnen Stunden ihren Optimismus zurück. 
+Ziel: Will neue interessante Leute kennenlernen, idealerweise welche, die rumkommen oder Waren brauchen. 
+#Rog’Ba
+##Echsenmensch mit Blutholz-Knüppel
+„Du machst das richtige oder das Falsche. Nur das gibt es.“
+*Stark: +, Massig: +, Denkt einfach: -
+*Beruf: Echsen-Krieger: 9
+*Knüppelkampf: 15
+*Waffe: Blutholz-Knüppel: Schaden 6. 
+*Schallknochen: +
+*Wundschwelle: 5
+Der Stamm von Rog’Ba lebt zwischen dem See und dem Gebirge. 
+Seinen Blutholz-Knüppel hat Rog’Ba in einer weitgerühmten Initiationsqueste aus den Weiten hinter den Bergen geholt. Er mag nicht sehr intelligent sein, aber das was er kann, kann er wirklich.
+Warum er hier ist: „Gefragt, ob helfe.“
+Er kann sich nicht mehr als 3 oder 4 Personen merken. Alle anderen sind einfach Teil des Trekks, Feinde oder Freunde.
+Seine Stimme wird von seinem hohlen Knochenkamm verstärkt und trägt über mehrere Tagesreisen, wenn er es wünscht. 
+Harsur Roal kennt er erst seit er im Trekk reist. 
+#Harsur Roal
+##Grazile Echsen-Erzählerin
+„Lass uns unsere Geschichten singen.“
+*Geschickt: +, Charismatisch: +, Intelligent: +
+*Berufe: Erzählerin: 9, Jägerin: 9
+*Gesang: 12, Beinschnitzerei: 12
+*Schallknochen: +
+*Waffe: Speer: Schaden: 3
+*Wundschwelle: 4
+Harsur Roal lebte mit ihrem Stamm am Kopf des Flusses Kanwau. Als sie die ersten Menschen erblickte, entschloss sie sich, mit ihnen zu reisen, um sie zu verstehen. Sie sieht keine Personen, sondern Zusammenhänge. Ihre Gedanken sind fremdartig aber scharf, und sie sieht Zusammenhänge wo andere nur Einzelhandlungen erkennen. Personen als Individuen sind ihr dagegen fremd. 
+Ihre Gesänge berühren sie Seele und ihr Klang scheint bis in Knochen zu reichen. Sie werden von ihrem hohlen Knochenkamm verstärkt und tragen über mehrere Tagesreisen, wenn sie es wünscht. 
+Rog’Ba kennt sie erst seit sie im Trekk reist, aber die Geschichte der Reise über die Berge kannte sie lange vorher. 
+Ziel: Menschen verstehen. Wie funktioniert ein Trekk? Wie funktioniert eine Stadt?
+#Gera aus Hochturm
+##Menschliche Wache mit klobiger Schrotflinte
+„Was wir hier machen ist wichtig.“
+*Entschlossen: +, Unfähig zu Kompromissen: -
+*Beruf: Wache: 12
+*Schrotflinte: 15
+*Waffe: Schrotflinte: 4 (bis 5 Personen: Schrot) oder 8 (1 Person: Einzelne Bleikugel oder <5m Abstand). Schwierigkeiten: ≤5m: 12, ≤30m: 15, ≤50m: 18 (nur mit Einzelkugeln)
+*Rüstung: Wams: 2
+*Wundschwelle: 4
+Die schweren Bronze-Schrotflinten aus der Manufaktur von Lydia Kaltschmied haben standardisierte Schraubkontakte und können mit eine Vielzahl von Zusätzen erweitert werden. Gera aus Hochturm nutzt bisher nur zwei verschiedene Läufe: Einen für Schrotmunition und einen für größere Bleikugeln. 
+Ihr Mann Hamul ist der Schmied Hochturms und kümmert sich dort um ihre Tochter Sem und ihren Sohn Rei, während Gera auf Reisen ist. 
+Warum sie dabei ist: „Wir können die Siedler nicht im Stich lassen! Jeder, der den Mut hat, Neues zu wagen, muss seine Chance bekommen!“
+#Kars aus Waldsee
+##Menschlicher Glücksritter
+„Mein Vater sagte immer: Kümmer dich um die Schwachen und suche dein Glück. Wahrer Reichtum braucht Geld und Achtung.“
+*Mutig: +, Beschützer der Schwachen: +
+*Beruf: Kämpfer: 9
+*Schwertkampf: 15, Begeistert erzählen: 12
+*Beschützt die Schwachen: -
+Waffe: Bronze-Schwert: 4
+Rüstung: Gehärtetes Leder: 3
+*Wundschwelle: 4
+Kars hat sich dem Trekk aus einem einzigen Grund angeschlossen: Um sein Glück zu suchen und dabei all jene zu verteidigen, die sich nicht selbst schützen können. 
+Seine Eigenschaft „Beschützer der Schwachen“ kann er immer dann nutzen, wenn er sich sich für Schwächere einsetzt, egal auf welche Art. 
+Wäre er nicht auf Abenteuer ausgezogen, hätte er es wohl wie sein Vater Ners zu einem passablen Müller und Bürgermeister gebracht, doch ihn riefen andere Aufgaben.
+#Tara Holzschnitt
+##Menschliche Tischlerin
+„Tu immer das, an was du glaubst, und dein Leben wird erfüllt sein.“
+*Selbstbewusst: +, Ein Händchen für Technik: +, Guter Ruf: +
+*Beruf: Tischlerin: 12
+*Knüppel: 12
+*Waffe: Knüppel: 1
+*Wundschwelle: 4
+Taras Vater war Künstler und hatte einen guten Stand bei Händlern. Sein Name hat Kraft und sie versteht diese Kraft zu nutzen. Seine Schnitte hängen in einigen Wagen der Händler. 
+Nach seinem Tod ließ sie das Kunsthandwerk beiseite und entschied sich, etwas nützliches zu tun. Ihr einziges Erinnerungsstück an ihn ist ein kleines Holztäfelchen, das er ihr zum sechsten Geburtstag geschenkt hat. Auf ihm ist der Spruch graviert: „Tu immer das, an was du glaubst, und dein Leben wird erfüllt sein.“
+Sie sucht eine unabhängige Gruppe, in deren Gemeinschaft sie andere Länder bereisen und deren Handwerkskunst kennenlernen kann.
+#Sotar Adepta
+##Menschliche Tech-Adeptin
+„Feuer schafft Dampf, Dampf schafft Kraft, Kraft gehorcht dem Geist.“
+*Eins mit der Dampfkraft: +
+*Beruf: Tech-Adeptin: 12
+*Dampfantriebe reparieren: 12
+*Tech-Magie: +, Prisma mit 4 Zaubern: +
+*Wundschwelle: 4
+Prisma: Ihre Meisterin hat ihr 4 Zauber in ein Prisma gebunden. Sotar selbst kann noch keine Zauber binden. 
+Magie: Zum Zaubern würfelt sie auf Tech-Adeptin gegen die Schwierigkeit des Zaubers.
+In der Nähe von Maschinen kann Sotar ohne Ermüdung zaubern. In der Wildnis (>20m vom Trekk) bricht sie nach 6 Zaubern zusammen und braucht eine Nacht Schlaf. 
+Zauber: Entferntes Auge: Kann ein beliebiges technisches Objekt, das sie berührt, zu ihrem Auge machen und dadurch sehen. Eins ihrer eigenen Augen erblindet. Hält an, bis Sotar einschläft. Schwierigkeit: 12
+Zauber: Heilfeuer: Der Verzauberte regeneriert eine Wunde pro Tag. Schwierigkeit: 12
+Zauber: Dampfkraft. Eine Maschine bringt die 1,5-fache Leistung, verbraucht aber doppelt so viel. Schwierigkeit: 9
+Zauber: Feuer wecken: Eine ausgefallene Maschine erwacht wieder. Dauert einen Tag. Schwierigkeit: 15
+Sotar reist mit dem Trekk, um ihre Ausbildung abzuzahlen.
+#Kurzregeln
+##Proben
+Wert + Boni aus passenden Eigenschaften ± W6. Bei Erreichen der Schwierigkeit gelingt die Probe. Ergebnis - Schwierigkeit gibt die Differenz. 
+Wettstreit: Beide würfeln Wert + Boni ± W6. Wer besser würfelt gewinnt, beim Gleichstand der der angefangen hat.
+##Werte und Schwierigkeiten: 
+6: Mickrig – Routine
+9: Schwach – Einfach
+12: Durchschnittlich – Fordernd
+15: Sehr gut – Schwer
+18: Überragend – Extrem schwer
+##Kampf
+Nahkampf: Beide würfeln (Wettstreit). Wer das höhere Ergebnis hat, trifft. Schaden: Waffenschaden - Rüstung + Differenz der Ergebnisse. 
+Fernkampf: Probe gegen Schwierigkeit. Schaden: Waffenschaden - Rüstung + Differenz zur Schwierigkeit. 
+Erreicht der Schaden die Wundschwelle, verursacht er eine Wunde, die alle Handlungen um 3 erschwert. 
+##Modifikatoren für Proben
+Gute Ausgangsposition: +1 bis +6
+Schön beschrieben: +1 bis +3
+Viel Zeit lassen: Bis +3
+Wunden: -3/Wunde
+Stark abgelenkt: -3
