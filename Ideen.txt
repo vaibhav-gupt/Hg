@@ -2391,3 +2391,19 @@ Der Name Auge um Auge passt für härtere Hindergründe.
 ------ 
 
 Template = Vorlage!
+
+------ 
+
+Ich sehe den Punk-Aspekt des Steampunk in dem, was in Shadowrun 3 und 4 verloren ging: Du hast den dreckigen Slum-Hacker mit aus Müll zusammengelötetem Deck, der in die Oberschichtpaläste eindringt und den mit Millionen von Nuyen ausgestatteten Konzernwachen zeigt, was Straßentech leisten kann.
+
+So in etwa wie die Leute in dem besetzten Haus in Paris, in dem ich letztes Jahr beim GNU Hacker Meeting übernachtet habe. Nur dass sie keine Fahrräder bauen, sondern Dampftech - und ihre Rechner nicht wie alle anderen bei den Großkonzernen kaufen (dann aber mit selbstgehackter Software aufmotzen) sondern mit der gleichen Dampftech antreiben, mit der sie sich aus dem Inneren ihres Verstecks nach außen katapultieren und sich gegen das Establishment stellen.
+
+Ein einzelner genialer Slum-Bastler kann Maschinen bauen, die es dem veralteten Schrott des Systems zeigen, und die Helden treten mit Genialität und Mut gegen die Maschinen der Antagonisten an, die Genialität durch Resourcen zu ersetzen versuchen und Horden von Arbeitern knechten, um den Erfindungen der Helden auch nur Nahe zu kommen.
+
+Effektiv das, was in Mechanical Dream ein Weirdsmith tun kann (übrigens meiner Meinung nach ein geniales Steampunk Setting).
+
+Und das ist etwas, das heute fehlt: An unseren Autos können wir nicht mehr rumschrauben. Die Tablets können wir nicht mal mehr selbst aktualisieren. Und die Handies sind für uns so unverständlich wie magische Artefakte, für die wir aus irgendeinem Grund Geld zahlen müssen. Freie Software gibt uns noch einen Teil dieses Schaffensgeistes, aber auch sie braucht Hardware, für die wir immer mehr Resourcen brauchen. 3D-Drucken könnte mit dem selbstreplizierenden [url=http://reprap.org/wiki/RepRap/de]RepRap[/url] noch in die Richtung gehen, aber auch da sind große Firmen dabei, zu versuchen, diese Graswurzelbewegung im Staub zurück zu lassen. 
+
+In Steampunk gewinnen in der Konfrontation die kleinen Bastler gegen den Leiter des Großkonzerns.
+
+Anders gesagt: Ich denke SLF hat das mit DIY sehr gut [url=http://tanelorn.net/index.php/topic,77056.msg1590164.html#msg1590164]ausgedrückt[/url].
