@@ -3,10 +3,6 @@ Die Marke 1w6
 
 > Drak: Hi Leute, ich hab’ Neuigkeiten »
 
-<div style="text-align: right; max-width: 68%; margin-left: 32%">« Dann immer raus damit.</div>
-
-> Drak: Sitzt ihr? Wenn nein, setzt euch besser ☺ »
-
 <div style="text-align: right; max-width: 68%; margin-left: 32%"><p>« Das ist was großes, oder? <br />Nun spuck schon aus!</p></div>
 
 > Drak: Ich habe [die Marke 1w6 registriert](http://register.dpma.de/DPMAregister/marke/register/3020100634294/DE): Für Computerspiele, Online-Unterhaltung und Druck­werke.»
