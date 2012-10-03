@@ -39,33 +39,29 @@ Der wichtigste Vorteil der Marke ist, dass [1w6.org](http://1w6.org) sicher ist.
 
 Da 1w6 frei ist, kann jeder damit machen was er will. Grundlegend kann also jemand unsere Regeln kopieren, zu einem disfunktionalen System umschreiben und damit auf alle Cons fahren.
 
-Das kann er auch weiterhin. Er darf das dann aber nicht als das 1w6-System bewerben. 
+Das kann er auch weiterhin. Er darf das dann aber nicht als „das 1w6-System“ bewerben. Wenn 1w6 draufsteht, finden wir das Werk also aus irgendeinem Grund gut. Ob wir es gründlich gegengelesen oder kichernd am Boden gelegen haben, werdet ihr aber wohl erst beim Lesen merken :)
 
-Vom Urheberrecht her muss er sagen, dass das Ursprungswerk von uns stammt (durch die [wehrhaft-freie Lizensierung](http://lizenz.1w6.org)) und dass er es verändert hat. Was jetzt dazu kommt ist, dass er, wenn er große Änderungen vornimmt, es entweder umbenennen oder uns fragen muss (fragen ist bei großen Änderungen am Grundsystem sowieso eine gute Idee, weil Regeldesign viele komplexe Ecken hat, die unser Bereich zum [Hintergrund der Regeln]() definitiv noch nicht alle abdeckt. Außerdem finden wir es toll zu hören, was ihr mit 1w6 macht :)
+Vom Urheberrecht her muss er sagen, dass das Ursprungswerk von uns stammt (durch die [wehrhaft-freie Lizensierung](http://lizenz.1w6.org)) und dass er es verändert hat. Was jetzt dazu kommt ist, dass er, wenn er große Änderungen vornimmt, es entweder umbenennen oder uns fragen muss (zu fragen ist bei großen Änderungen am Grundsystem sowieso eine gute Idee, weil Regeldesign viele komplexe Ecken hat, die unser Bereich zum [Hintergrund der Regeln](/deutsch/regeln/hintergruende) definitiv noch nicht alle abdeckt. Außerdem finden wir es toll zu hören, was ihr mit 1w6 macht :)
+
+## Verwendung von „1w6“ durch andere
+
+Alle Regeln hier gelten nur, wenn 1w6 als Benennung von *Druckwerken*, *Unterhaltung* oder *Computerprogrammen* genutzt wird (genauer: Klassen 41, 9 und 16 nach [Nizza-Klassifikation](http://dpma.de/service/klassifikationen/nizzaklassifikation/index.html) (Details im [PDF](http://dpma.de/docs/service/klassifikationen/nizza/nizza10_teil1.pdf))). Brettspiele u.ä. fallen nicht darunter.
 
 Richtlinien:
 
 - Ein neues Modul nutzen ist kein Problem.
 - Einen Flyer rausbringen ist auch kein Problem.
-- Ein PDF mit kleinen Anpassungen der Grundregeln ins Netz stellen, auf dem steht „wandelt die Regeln von 1w6 ab“ (und irgendwo im Heft, wie es sie abwandelt) ist auch kein Problem.
+- Wenn ihr unsere Regeln stark verändert, schreibt das dazu.
+- Ein PDF mit kleinen Anpassungen der Grundregeln ins Netz stellen, auf dem steht „wandelt die Regeln von 1w6 ab“ (und irgendwo im Heft, wie es sie abwandelt) ist OK - mit Link und Markeninfo ([1w6.org](http://1w6.org)). Stellt einfach sicher, dass klar ist, dass 1w6® eine Marke von Arne Babenhauserheide ist (1w6.org). Das muss ich verlangen, weil nach Markenrecht die Marke sonst weg sein kann (ist vermutlich eine Sicherheit dagegen, dass Leute Marken registrieren und ein paar Jahre nur im ganz kleinen Kreis nutzen, um damit danach jemand anderem ans Bein pissen zu können).
 - Die Grundregeln auf w100 umzustellen, 300 Seiten Weltentext zu schreiben, das ganze als Buch zu drucken, es „1w6 3.0: super-toll“ zu nennen, damit auf alle Cons zu fahren und es als „das neue 1w6-System“ zu bewerben wäre nicht OK.
 - Ein Computerspiel zu schreiben, das seine eigenen Regeln nutzt, und das dann „1w6, der nächste Schritt“ zu nennen, wäre auch nicht OK (zumindest nicht ohne Rücksprache).
+- Es für die Verherrlichung oder Verbreitung von Faschismus, Rassismus, Nationalismus oder sonstiger Diskriminierung zu nutzen wäre auch nicht OK. Dafür dürft ihr zwar urheberrechtlich unsere Regeln nutzen (echte Freiheit ist auch die Freiheit der Andersdenkenden - das schließt Arschlöcher mit ein), aber ihr dürft es nicht „1w6“ nennen. Ich weiß, dass das eine Grauzone ist. Wenn solcher Mist nicht euer erklärtes Ziel ist, seid ihr sicher, auch wenn ein paar Leute sich darüber aufregen mögen (Beispiel: [Barbaren](http://www.wildelande.de/)). Wenn ihr in der NPD oder entsprechenden Kameradschaften seid, habt ihr keine Ausrede: Verzieht euch.
 
-> Ganz wichtig: Das alles gilt nur für die **Nutzung des Namens** 1w6 **als Marke**. Wenn ihr den nicht verwendet (oder nur als Verweis), könnt ihr laut unserer [freien Lizenz](http://lizenz.1w6.org) alles mit unseren Werken machen, das ihr wollt, solange ihr das Ergebnis unter die gleiche Lizenz stellt. Und wenn ihr den Namen nur verwendet, um auf 1w6 zu verweisen, könnt ihr ihn auch jederzeit nutzen.
+> Ganz wichtig: Das alles gilt nur für die **Nutzung des Namens** 1w6 **als Marke**. Wenn ihr den nicht verwendet, könnt ihr laut unserer [freien Lizenz](http://lizenz.1w6.org) alles mit unseren Werken machen, das ihr wollt, solange ihr das Ergebnis unter die gleiche Lizenz stellt. Und wenn ihr den Namen nur verwendet, um auf 1w6 zu verweisen, könnt ihr ihn auch jederzeit nutzen. Und ja: Die Einleitung gilt: Für Würfel und andere Spielwaren hat das keinerlei Bedeutung. DSA darf auch weiter „wirf 1w6“ sagen, ohne dass das irgendwas mit der Marke 1w6 zu tun hat. Markenrecht ist nicht völlig kaputt… ☺
 
-Und ja: Die Einleitung gilt: Für Würfel und andere Spielwaren hat das keinerlei Bedeutung. DSA darf auch weiter „wirf 1w6“ sagen, ohne dass das irgendwas mit der Marke 1w6 zu tun hat.
+Weiteres:
 
-## Verwendung von 1w6 durch andere
-
-- Alle Regeln hier gelten nur, wenn 1w6 als Benennung von *Druckwerken*, *Unterhaltung* oder *Computerprogrammen* genutzt wird (genauer: Klassen 41, 9 und 16 nach [Nizza-Klassifikation](http://dpma.de/service/klassifikationen/nizzaklassifikation/index.html) ([PDF](http://dpma.de/docs/service/klassifikationen/nizza/nizza10_teil1.pdf))). Brettspiele u.ä. fallen nicht darunter.
-
-- Wenn ihr unsere Regeln stark verändert, schreibt das dazu.
-
-- Mit Link und Markeninfo ist es OK ([1w6.org](http://1w6.org)). Stellt einfach sicher, dass klar ist, dass 1w6 eine Marke von Arne Babenhauserheide ist (1w6.org). Das muss ich verlangen, weil nach Markenrecht die Marke sonst weg sein kann (ist vermutlich eine Sicherheit dagegen, dass Leute Marken registrieren und ein paar Jahre nur im ganz kleinen Kreis nutzen, um damit danach jemand anderem ans Bein pissen zu können).
-
-- Für die Seite [1w6.de](http://1w6.de) ist alles OK, solange das weiter die Leute um Chris, Andy, Mark, usw. machen. Ich habe die Marke registriert, um zu vermeiden, dass mir 1w6.org weggenommen wird. Sie jetzt zu nutzen, um jemand anderem die Seite wegzunehmen wäre inkonsistent und beschissen. Will heißen: Das hier gilt, solange 1w6.de nicht in der Absicht verkauft/gekauft wird, damit den vorherigen und den nächsten Punkt zu umgehen:
-
-- Außer: Nicht für Verherrlichung von Faschismus, Rassismus, Nationalismus oder sonstiger Diskriminierung. Dafür dürft ihr zwar urheberrechtlich unsere Regeln nutzen  (echte Freiheit ist auch die Freiheit der Andersdenkenden), aber wenn ihr das Ergebnis 1w6 nennen solltet, werde ich Wege suchen, euch Probleme zu machen.
+- Für die Seite [1w6.de](http://1w6.de) ist alles OK, solange das weiter die Leute um Chris, Andy, Mark, usw. machen. Das gleiche gilt für 1w6-Freunde und [die DORP](http://www.die-dorp.de/). Ich habe die Marke registriert, um zu vermeiden, dass mir 1w6.org weggenommen wird. Sie jetzt zu nutzen, um jemand anderem die Seite wegzunehmen wäre inkonsistent und beschissen. Das hier gilt, solange 1w6.de und die Rechte an 1w6-Freunde nicht in der Absicht verkauft/gekauft wird, den Namen zu nutzen, um die nicht-OK-Punkte in den Richtlinien zu umgehen.
 
 ## Freie Lizensierung und Markenrecht
 
@@ -83,7 +79,7 @@ Ich habe schon lange überlegt, wie trotz freier Lizensierung eine für Spielrun
 
 Und die Marke 1w6 war noch verfügbar (im Gegensatz zu EWS, das nicht nur die [Elektrizitätswerke Schönau](http://www.ews-schoenau.de/) bezeichnet, sondern auch noch alles mögliche andere - von Großhandel bis Wirtschaftsschule).
 
-Also habe ich 1w6 registriert und nach einem halben Jahr die Bestätigung der Eintragung bekommen. 
+Also habe ich 1w6 registriert und nach einem halben Jahr die Bestätigung der [Eintragung](http://register.dpma.de/DPMAregister/marke/register/3020100634294/DE) bekommen.
 
 ## Abschluss
 
