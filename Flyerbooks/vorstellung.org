@@ -1,4 +1,4 @@
-Brief an Jugendclubs u.ä.
+# Brief an Jugendclubs u.ä.
 
 #+LaTeX_CLASS: brief
 #+OPTIONS: toc:nil
@@ -6,10 +6,10 @@ Brief an Jugendclubs u.ä.
 \setkomavar{fromname}{Arne Babenhauserheide}
 \setkomavar{fromaddress}{Spöcker Str. 10\\76676 Graben-Neudorf}
 
-\begin{letter}{...NAME... \\ ...STRASSE... \\ ...PLZSTADT}
+\begin{letter}{\rule{7cm}{0.5pt} \\ \rule{7cm}{0.5pt} \\ \rule{7cm}{0.5pt}}
 
 
-\opening{Hallo ...NAME...,}
+\opening{\rule{6.5cm}{0.2pt}}
 
 Ich bin Arne Babenhauserheide und schreibe diesen Brief an Sie, weil ich
 meine Faszination für die aktuelle Spielform der Fantasy-Rollenspiele
@@ -48,16 +48,16 @@ Spielern passen müssen.
 
 Dadurch sind sie gleichzeitig ein wundervoller Inkubator sozialer und
 kreativer Fähigkeiten, da die Gruppe einen Schutzraum bietet, in dem
-alle Beteiligten freier mit neuen Ideen und Interaktionsformen
+alle Beteiligten mit neuen Ideen und Interaktionsformen
 experimentieren können.
 
 *** (2) Leichter Zugang zur Gruppendynamik
 
 Zweitens ermöglicht das Format der Flyer einen sehr leichten Einstieg
-in das Spiel, und die Szenarien der Flyer fördern durch ihre
-Plotstruktur eine Freisetzung der Dynamik der Gruppe. Die in den
-Charakteren und Geschichten angelegten Potentiale geben Impulse für
-tief gehende Interaktionen aller Beteiligten.
+in das Spiel, und die Szenarien der Flyer fördern eine Freisetzung der
+Dynamik der Gruppe. Die in den Charakteren und Geschichten angelegten
+Potentiale geben Impulse für tief gehende Interaktionen aller
+Beteiligten.
 
 *** (3) Nachhaltig frei
 
@@ -66,16 +66,15 @@ kurze Runden sondern auch für lange Kampagnen mit über viele Jahre
 laufenden, wöchentlichen Runden geeignet ist und unter einer freien
 Lizenz steht: Der GPL, der verbreitetsten Lizenz freier Software.
 
-Durch die Lizenz kann jede Runde das Spiel für sich anpassen und diese
+Durch diese Lizenz kann jede Runde das Spiel für sich anpassen und die
 Anpassungen weitergeben.
 
 Gerade in einer Kunstform, die so stark die eigene Kreativität fordert
-und fördert wie Rollenspiele, ist diese Möglichkeit ein wichtiger
-Aspekt.  Durch freie Lizensierung wird jede einzelne Runde zum
-Nährboden für neue Spielformen und kann ihren eigenen Stil
-weitergeben, sobald die Mitglieder das Gefühl haben, dass sie etwas
-ganz eigenes gefunden haben, das euch für andere interessant sein
-könnte.
+und fördert wie Rollenspiele, ist diese Möglichkeit wichtig.  Durch
+freie Lizensierung wird jede einzelne Runde zum Nährboden für neue
+Spielformen und kann ihren eigenen Stil weitergeben, sobald die
+Mitglieder das Gefühl haben, dass sie etwas ganz eigenes gefunden
+haben, das euch für andere interessant sein könnte.
 
 Daher wäre es toll, wenn Sie die Flyer testen und weitergeben würden,
 wenn sie ihnen gefallen. Auf der Webseite [[http://flyer.1w6.org][flyer.1w6.org]] gibt es dazu
@@ -84,18 +83,17 @@ machen, die Flyer an Ihre eigenen Vorstellungen anzupassen.
 
 Und natürlich würden wir uns freuen, von Ihnen zu hören, welche
 Erfahrungen Sie mit den Flyern machen. Denn wie jedes soziale Projekt
-lebt auch die Erschaffung freier Rollenspielen von Rückmeldung.
+lebt auch die Erschaffung freier Rollenspiele von Rückmeldung.
 
 \newpage
-** Wer wir sind
+** Wer sind wir?
 
 Erschaffen wurden die 1w6-Flyer in einer Kooperation von Taysal, Arne
 Babenhauserheide und der Illustratorin Trudy Wenzel während eines
 zweimonatigen gemeinsamen Kreativitätsschubs im Sommer 2010. Die dabei
-verwendeten 1w6-Regeln werden seit 2002 von einer immer weiter
-wachsenden Gruppe an Bastlern und Testern gemeinsam
-entwickelt. Mehr über uns finden Sie auf der Seite:
-[[http://leute.1w6.org][leute.1w6.org]]
+verwendeten 1w6-Regeln werden seit 2002 durch eine immer weiter
+wachsende Gruppe von Bastlern und Testern gemeinsam entwickelt. Mehr
+über uns finden Sie auf unserer Webseite unter [[http://leute.1w6.org][leute.1w6.org]]
 
 Nun viel Spaß beim Spielen. Wir würden uns freuen, von Ihnen zu hören! 
 
