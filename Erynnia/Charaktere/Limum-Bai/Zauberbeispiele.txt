@@ -1,0 +1,85 @@
+Mindestwürfe:
+=============
+Routine: 6
+Einfach: 9
+Fordernd: 12
+Schwer: 15
+Überragend: 18
+
+Geist beherrschen:
+==================
+Routine:
+    - Eigene Emotionen verstärken / schwächen (Hilft bei der Meditation)
+    - Eigene Emotionen lesen
+
+Einfach (Emotionen);
+    - Emotionen verstärken / schwächen (Eine schon vorhandene vielleicht auch unterdrückte Emotion ausbrechen lassen)
+    - Emotionen lesen (Erkennen welche Emotionen vorherrschend im Geist des Gegenüber vorhanden sind)
+    - Eigenen Geist härten
+
+Fordernd (Momentane Gedanken):
+    - Geist härten
+    - Emotion erzeugen (Erzeugt eine Emotion die noch nicht vorhanden ist)
+    - Gedanken eingeben (Gibt einen Gedanken in den Geist ein welcher die Oberhand gewinnt)
+    - Gedanken lesen (Liest die momentanen Gedanken des Ziels)
+    - (Obere Mittelklasse) Emotion nehmen (Nimmt dem Gegenüber für eine bestimmte Zeit eine Emotion wie z.B. Hass)
+
+Schwer: (Bis zum Unterbewusstsein):
+    - Koma verursachen (Trennt den Geist des Gegenüber von seinem Körper und versetzt diesen in einen komatösen Zustand)
+    - Erinnerungen manipulieren / löschen
+    - Gedächtnis lesen (Liest das komplette Gedächtnis der Person und lässt den Mönch gezielt nach Erinnerungen suchen)
+
+Überragend(Alles :-]):
+    - Neue Persönlichkeit erzeugen (Die alte Persönlichkeit des Gegenüber wird ins Unterbewusstsein
+      verschoben und durch die neue Pesönlichkeit ersetzt diese verliert alle Erinnerungen an den Eingriff.
+
+Materie beherrschen:
+====================
+Alle diese Zauber funktionieren durch reine physische Kraft
+
+Routine (Einfache Bewegungen):
+    - Ding holen (Lässt ein Ding auf den Mönch zufliegen)
+    - Ding schweben lassen (Lässt ein Ding nach oben schweben)
+    - Drücken (Drückt gegen ein Ding)
+    - Ziehen (Zieht an einem Ding)
+    - Werfen (Lässt ein Ding in einer geraden Bahn fliegen)
+
+Einfach
+    - Schweben und bewegen (Lässt ein Ding Schweben und sich dabei bewegen)
+    - Telekinetische Wand erzeugen die eine Barriere dastellt
+
+Fordernd (Ding entlang eines Pfades bewegen):
+    - Fliegen (Dinge fliegen lassen und dabei beeinflussen)
+    - Hindernis (Dinge aus der Umgebung werden angezogen und bombardieren das Ziel)
+    - Telekinetische Kugel (Das Ziel wird in einer unsichtbaren Kugel eingeschlossen)
+    - Reflektierende Kugel (Eine unsichtbare Kugel welche Geschosse reflektiert)
+
+Schwer (Die Zauber werden "intelligent"):
+    - Ding kämpfen lassen
+    - Splatter (Lässt ein Ding von innen heraus zerplatzen)
+
+Überragend (Sehr kleine Dinge genau kontrollieren):
+    - Telekinetischer Hieb (Grundschaden 6 + Differenz des Aktivierungswurfs)
+    - Luft beeinflussen um einen Sturm zu erzeugen
+
+Erläuterung:
+============
+Formen gibt an wie genau die Kraft verwendet werden kann
+Aktivieren gibt an wie viel Kraft aufgewendet werden muss dies ergibt sich aus Masse und Geschwindigkeit
+
+Aktivieren:
+===========
+Mindestwürfe
+    - Routine (6): Leere Tasse, (<1kg)
+    - Einfach (9): Faustgroßer Stein (5kg)
+    - Fordernd (12): Mensch (100kg)
+    - Schwer (15): Pferd (250kg)
+    - Überragend (18): Kutsche (500kg)
+
+Modifikation des Aktivieren-MW durch Geschwindigkeit
+====================================================
+    - Sehr langsam: -3
+    - Langsam: ±0
+    - Etwas schneller: +3
+    - Schnell (Kampftauglich): +6
+    - Sehr schnell (Pfeil): +9
