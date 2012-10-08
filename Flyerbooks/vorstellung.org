@@ -1,17 +1,15 @@
-Brief an Jugendclubs u.ä.
+# Brief an Jugendclubs u.ä.
 
 #+LaTeX_CLASS: brief
 #+OPTIONS: toc:nil
 
-# Brief an Jugendclubs u.ä.
-
 \setkomavar{fromname}{Arne Babenhauserheide}
 \setkomavar{fromaddress}{Spöcker Str. 10\\76676 Graben-Neudorf}
 
-\begin{letter}{...NAME... \\ ...STRASSE... \\ ...PLZSTADT}
+\begin{letter}{\rule{7cm}{0.5pt} \\ \rule{7cm}{0.5pt} \\ \rule{7cm}{0.5pt}}
 
 
-\opening{Hallo ...NAME...,}
+\opening{\rule{6.5cm}{0.2pt}}
 
 Ich bin Arne Babenhauserheide und schreibe diesen Brief an Sie, weil ich
 meine Faszination für die aktuelle Spielform der Fantasy-Rollenspiele
@@ -22,19 +20,19 @@ sie sich in den letzten Jahrzehnten entwickelt haben.
 In diesem Umschlag sind dafür 3 Grundflyer, 3 Zusatz-Szenarien und 3
 Sets Charakterkarten, die zusammen 3 Versionen der 1w6-Flyer bilden:
 Freie Rollenspiele für 3-9 Beteiligte. Dazu noch ein Flyer, der
-erklärt, was die 1w6-Flyer sind..
+erklärt, was die 1w6-Flyer sind.
 
 /Anmerkung: Wir verdienen mit den Flyern kein Geld und Sie können die Flyer jederzeit selbst nachdrucken (der Link auf die Quellen steht am Ende)./
 
 ** Warum machen wir das?
 
 Ich schicke Ihnen die Flyer, weil ich denke, dass sie für Sie
-interessant sein könnten. Und offen gesagt natürlich auch mit einem
-Eigeninteresse: ich hoffe, dass Sie sie lesen und wenn sie Ihnen
-gefallen, sie testen und anderen darüber erzählen.
+interessant sein könnten. Und offen gesagt natürlich auch, weil ich
+hoffe, dass Sie sie lesen und wenn sie Ihnen gefallen, sie testen und
+anderen darüber erzählen.
 
 Daher will ich Ihnen kurz schreiben, was die Flyer von anderen Heften
-abhebt: „Warum überhaupt 1w6 Flyer?“
+abhebt: „Warum überhaupt 1w6-Flyer?“
 
 Die Frage lässt sich in 3 Schritten beantworten:
 
@@ -45,57 +43,57 @@ die jenseits von Auftritten und Ausstellungen kreative Interaktion um
 ihrer selbst Willen fördert. All die Geschichten und Ideen, die in
 eine Runde einfließen, werden für diese Runde erschaffen. Sie können
 so noch stärker als Jazz und Improvisationstheater eigene Formen des
-Ausdrucks finden, da die Formen nur für die jeweilige Gruppe von 3-9
+Ausdrucks finden, da diese Formen nur für die jeweilige Gruppe von 3-9
 Spielern passen müssen.
 
 Dadurch sind sie gleichzeitig ein wundervoller Inkubator sozialer und
-kreativer Fähigkeiten, da die Gruppe einen Schutzraum bietet, in der
-alle Beteiligten freier mit neuen Ideen und Interaktionsformen
+kreativer Fähigkeiten, da die Gruppe einen Schutzraum bietet, in dem
+alle Beteiligten mit neuen Ideen und Interaktionsformen
 experimentieren können.
 
 *** (2) Leichter Zugang zur Gruppendynamik
 
-Zweitens ermöglicht das Format der Flyer einen sehr leichten Einstieg in
-das Spiel, und die Flyer fördern durch ihre Plotstruktur eine
-Freisetzung der Dynamik der Gruppe. Die in den Charakteren und den
-Geschichten angelegten Potentiale geben Impulse für tief gehende
-Interaktionen der SpielerInnen.
+Zweitens ermöglicht das Format der Flyer einen sehr leichten Einstieg
+in das Spiel, und die Szenarien der Flyer fördern eine Freisetzung der
+Dynamik der Gruppe. Die in den Charakteren und Geschichten angelegten
+Potentiale geben Impulse für tief gehende Interaktionen aller
+Beteiligten.
 
 *** (3) Nachhaltig frei
 
 Und drittens bauen die Regeln auf dem 1w6-System auf, das nicht nur für
-kurze Runden sondern auch für lange Kampagnen mit über mehrere Jahre
-laufenden wöchentlichen Runden geeignet ist und unter einer freien
-Lizenz steht: Der GPL, der verbreitetsten Lizenz für freie Software.
+kurze Runden sondern auch für lange Kampagnen mit über viele Jahre
+laufenden, wöchentlichen Runden geeignet ist und unter einer freien
+Lizenz steht: Der GPL, der verbreitetsten Lizenz freier Software.
 
-Dadurch kann jede Runde das Spiel für sich anpassen und diese
-Anpassungen wieder weitergeben.
+Durch diese Lizenz kann jede Runde das Spiel für sich anpassen und die
+Anpassungen weitergeben.
 
 Gerade in einer Kunstform, die so stark die eigene Kreativität fordert
-und fördert wie Rollenspiele ist diese Möglichkeit ein wichtiger Aspekt.
-Durch freie Lizensierung wird jede einzelne Runde zu einem Inkubator für
-neue Spielformen und kann ihren eigenen Stil weitergeben, sobald die
-Mitglieder das Gefühl haben, dass sie etwas ganz eigenes gefunden haben,
-das euch für andere interessant sein könnte.
+und fördert wie Rollenspiele, ist diese Möglichkeit wichtig.  Durch
+freie Lizensierung wird jede einzelne Runde zum Nährboden für neue
+Spielformen und kann ihren eigenen Stil weitergeben, sobald die
+Mitglieder das Gefühl haben, dass sie etwas ganz eigenes gefunden
+haben, das euch für andere interessant sein könnte.
 
-Daher wäre es toll, wenn Sie die Flyer testen würden, und wenn sie
-ihnen gefallen, sie weitergäben. Auf der Webseite [[http://flyer.1w6.org][flyer.1w6.org]] gibt es
-dazu PDFs zum herunterladen, zusammen mit den Quelldateien, die es
-einfach machen, die Flyer an Ihre eigenen Vorstellungen anzupassen.
+Daher wäre es toll, wenn Sie die Flyer testen und weitergeben würden,
+wenn sie ihnen gefallen. Auf der Webseite [[http://flyer.1w6.org][flyer.1w6.org]] gibt es dazu
+PDFs zum herunterladen, zusammen mit den Quelldateien, die es einfach
+machen, die Flyer an Ihre eigenen Vorstellungen anzupassen.
 
-Und natürlich würden wir uns freuen, wenn Sie uns von ihren Erfahrungen
-schreiben würden. Denn wie jedes soziale Projekt lebt auch die
-Erschaffung freier Rollenspielen von Rückmeldung.
+Und natürlich würden wir uns freuen, von Ihnen zu hören, welche
+Erfahrungen Sie mit den Flyern machen. Denn wie jedes soziale Projekt
+lebt auch die Erschaffung freier Rollenspiele von Rückmeldung.
 
 \newpage
-** Wer wir sind
+** Wer sind wir?
 
 Erschaffen wurden die 1w6-Flyer in einer Kooperation von Taysal, Arne
-Babenhauserheide und der Illustratorin Trudy Wenzel während einem
-zweimonatigen gemeinsamen Kreativitätsschub im Sommer 2010. Die
-1w6-Regeln werden seit 2002 von einer immer weiter wachsenden Gruppe
-an Bastlern und Testern gemeinsam entwickelt. Weitere Informationen
-über uns finden Sie auf der Seite: [[http://leute.1w6.org][leute.1w6.org]]
+Babenhauserheide und der Illustratorin Trudy Wenzel während eines
+zweimonatigen gemeinsamen Kreativitätsschubs im Sommer 2010. Die dabei
+verwendeten 1w6-Regeln werden seit 2002 durch eine immer weiter
+wachsende Gruppe von Bastlern und Testern gemeinsam entwickelt. Mehr
+über uns finden Sie auf unserer Webseite unter [[http://leute.1w6.org][leute.1w6.org]]
 
 Nun viel Spaß beim Spielen. Wir würden uns freuen, von Ihnen zu hören! 
 
