@@ -1,0 +1,175 @@
+Testspiel des EWS für Terra Phantasia ( http://www.rpgs.info/modules.php?name=Forums&file=viewtopic&p=3979#3979 )
+Gespielt am 05.09.2006
+
+---------------
+Eine kleine Dokumentation des ersten Testspiels. 
+ 
+ Charakter: 
+ Name: Fenlor Davenoth 
+ 
+ Alter: 31 
+ 
+ 
+ Wichtiger Gegenstand: 
+ - Fenlors Langschwert (s.u.) 
+ 
+ Eigenschaften: 
+ - Mut (15) 
+ - Stolz (15) (*) 
+ 
+ Fertigkeiten: 
+ - Schwertkampf (15) 
+ - Schildblock (15) 
+ - Anführer (15) 
+ 
+ Beruf/Hintergrund: 
+ 
+ Merkmale: 
+ - Positiv: 
+ -- Beruf: Söldner (ehemaliger Armeesoldat) 
+ -- 
+ - Negativ: 
+ -- Egozentrik 
+ -- 
+ 
+ Ausrüstung: 
+ - (**)Ein silbernes Langschwert, welches ihn durch zahllose Schlachten begleitet hat. 
+ Es trägt am Griff seine Initialen und war ein Geschenk seines ehemaligen Vorgesetzten 
+ für außerordentliche Leistungen im Kampf. Schaden: 1W6 
+ - Schild 
+ 
+ Trefferpunkte (Wundschwelle): 30 (5) 
+ 
+ Anmerkungen: 
+ (*) In seiner jahrelangen Erfahrung dutzender Kämpfe und Schlachten hat Fenlor schon so manche Verletzungen davon getragen und so manche Narbe behalten. Inzwischen hat er zu viel gesehen und erlebt um es einem schwächlichen Gegner zu "erlauben" ihn zu töten. 
+ Fenlor ist fest davon überzeugt, dass er jedem Gegner trotzen und sich den Zeitpunkt seines Todes selbst bestimmen kann. Sein unbändiger Stolz hilft ihm dabei, die Verletzungen, welche die ihm unwürdigen Gegner ihm beibringen, einfach zu ignorieren und weiter zu kämpfen. Er ist (schlicht und ergreifend) zu stolz um zu sterben... 
+ (**): Besondere Ausrüstung. Gehört zum Charakter.
+
+--
+
+Es ist spät in der Nacht, als Fenlor mit einer kleinen Gruppe Söldner endlich einen Platz für das Nachtlager findet. 
+ Sie sind den ganzen Tag gelaufen, um in zwei Wochen bei Schloss Ragren anzukommen, wo sie sich gegen guten Sold der Belagerung anschließen wollen. Sie teilen noch Wachen ein, dann legen sie sich auf ihre Bettrollen, wie jede Nacht mit einer Hand an der Waffe und einem halben Auge offen. 
+ 
+ Der Mond steht am Himmel, als Fenlor durch ein Knacken aufwacht. Der Posten döst auf eine Lanze gestützt, und dahinter schält sich ein dunkler Schatten aus den Bäumen um die Lichtung.
+
+--
+
+Fenlor festigt den Griff um sein Langschwert, bleibt jedoch regungslos liegen. Mit den inzwischen geöffneten Augen fixiert er den Schatten und verfolgt jede seiner Bewegungen. Sollte er sich dem Söldner nähern, oder einen seiner Männer angreifen, so wird Fenlor sich in die Höhe stemmen und mit gezogener Waffe auf den Schatten zustürmen.
+
+--
+
+In der Dunkelheit blitzt ein Reflex des Feuerscheins auf Metall. Dann gleitet der Schatten mit geisterhafter Geschwindigkeit auf den Posten zu.
+
+-- 
+
+Einen plötzlichen, lauten Schrei ausstoßend springt Fenlor in die Höhe und stürmt auf den Schatten zu. Er versucht, das Überaschungsmoment zu nutzen um den potentiellen Gegner überrumpeln zu können. 
+ Im Lauf holt er aus, schlägt jedoch noch nicht zu, sondern wartet erst die Reaktion des Schattens ab. Denn sicher ist sich Fenlor nicht, ob es sich bei dem Schatten um Freund oder Feind handelt.
+
+--
+
+Der Schatten erstarrt als Fenlor aufschreit und auf ihn zu stürmt. Doch als Fenlor zögert blitzt plötzlich eine Dolchklinge in dem Schatten auf und zuckt in Richtung seines Bauches. 
+ 
+ Erster Regelteil: Würfel einmal Mut, wie sehr dein Ruf die Anderen mitreißt. Solltest du sehr gut oder besser erreichen (15) sind sie binnen 3s (drei Runden) wach und Kampfbereit. Solltest du überragend erreichen (1Cool sind sie sofort Kampfbereit. 
+ Ansonsten brauchen sie 10s (durchschnittlich: 12) bis 30s (schwach: 9) um ihre Situation zu begreifen. 
+ 
+ Zweiter Regelteil: Der Dolch des Schattens jagt auf deinen Bauch zu. Wie willst du ihn erwischen? Die Frage ist: Kriegt er dich oder du ihn? Und wie versuchst du ihn zu kriegen. 
+ 
+ Der Schatten hat duchschnittliche Kampffertigkeiten (12). er würfelt für seinen Angriff eine 3, zieht also 3 von 12 ab und kommt auf einen dürftigen Angriff (9). 
+ 
+ Um seinem Angriff zu entgehen und ihn stattdessen zu treffen musst du auf deinen Wert (Schwert: FW 15, da du deinen Schild nicht hast) würfeln. Wenn du nicht gerade zwei 5en hintereinander würfelst wirst du ihn treffen. 
+ Also Beschreib, was du vorhast, und dann wirf den +-W6. Das Ergebnis modifiziert deinen FW (15).
+
+--
+
+So, die Würfelergebnisse: 
+ Anscheinend scheint der Ruf dermaßen markerschütternd gewesen zu sein, dass alle Soldaten kerzengerade in ihren Wolldecken stehen (Wurfergebnis: 6). 
+ 
+ Fenlor registriert dies aus dem Augenwinkel und setzt seinen Angriff ungehemmt fort. Den heransausenden Dolch pariert er (Wurfergebnis 5, was doch heisst dass ich mit 10 immer noch eins höher bin als der Angreifer, oder?) und holt seinerseits zum Gegenschlag aus. Weniger wuchtig als gewünscht, aber immer noch kräftig genug saust die Klinge auf den Schatten zu (Wurfergebnis: 2).
+
+--
+
+Die Klinge seines Schwertes trifft auf den Schatten und reißt die dunklen Luumpen an dessen Bauch auf (2 Punkte Schaden). Er zuckt zusammen, reißt seinen Dolch jedoch sofort wieder in die Höhe. 
+ 
+ Unter den Lumpen sieht Fenlor ein dünnes graues Leinenwams, das langsam von Blut dunkel gefärbt wird. 
+ 
+ Zur gleichen Zeit springen die anderen Söldner auf und rufen Schmähungen zum Waldrand, wo sich zerlöumpte Gestalten aus den Schatten lösen. 
+ 
+ Direkt hinter Fenlors Gegner tritt eine hochgewachsene Gestalt in Kettenrüstung aus dem Wald und schreitet mit gezogenem Schwert auf ihn zu. Es bleiben ihm vielleicht noch zwei oder drei Handlungen, dann wird ihn dieser zweite Feind erreicht haben. 
+ 
+ Regelteil:; Der Angreifer trug dunkle Lumpen, die ihm zumindest etwas Schutz gaben (RS: 1). Mit 10 warst du einen Punkt höher als dein Gegner mit 9. Also verursachst du 1 (Differnz) + 2 (Schaden deines Schwertes) -1 (Rüstungsschutz) = 2 Punkte Schaden. 
+ 
+ Und damit bist du dran mit Handeln. Was tust du? 
+ 
+ (Anmerkung: Die Möglichkeit von kritischen Treffer habe ich ignoriert, da ich hier nur die Grundregeln nutze). 
+ 
+ (Anmerkung 2: 2 Runden können ausreichen, deinen Gegner zu besiegen).
+
+--
+
+Fenlor holt erneut aus, um seinen Gegner endgültig dem Erdboden gleich zu machen, scheint jedoch auch diesmal nicht ideal zu treffen (Wurfergebnis: 5). 
+ Die Wucht des Schlages, soll diese Ungenauigkeit jedoch wieder kompensieren (Wurfergebnis für Schwertschaden: 5). 
+ 
+ Noch während des Schlags brüllt Fenlor jedoch den ersten Befehl an seine Kumpanen, sich den Schatten entgegen zu stellen (Wurfergebnis: 3). Den Hünen bewahrt er sich für den eigenen Ruhm auf.
+
+--
+
+Während Fenlor ausholt, tritt der Schatten einen Schritt zur Seite, und als der Schwert herabsaust versucht er sich herumzuwerfen und das Messer in Fenlors Brust zuu stechen. Doch sein Schritt greift zu kurz. (9) Das Schwert erwischt ihn an der Schulter und das hässliche Krachen von Knochen schallt zum ersten doch sicher nicht zum letzten Mal durch diese Nacht. (Sein Gegner trägt eine Wunde davon) 
+ 
+ Er taumelt rückwärts und versucht mit unsicheren Schritten zu entkommen. 
+ 
+ Auf der Lichtung haben sich die Söldner formiert und machen sich bereit unter den Räubern schreckliche Ernte zu halten. 
+ 
+ Und hinter Fenlors Gegner tritt der Anführer der Räuber heran, eine Gestalt in Kutte und Kettenhemd, die mit gleitenden Schritten näher kommt. 
+ 
+ Regelteil: Sein Gegner erhält 1+5-1=5 Punkte Schaden, was über seiner Wundschwelle liegt. Durch die Wunde erhält er einen Malus von 3 auf jegliche Handlungen und kann seinen rechten Arm nun nicht mehr verwenden. Da er sich nun mit der linken Hand oder ohne Waffen wehren muss, bekommt er einen weiteren Malus von 3 und versucht sich zurückzuziehen (was ihm einen Bonus von 9 gibt. Er wird aber keinen Schaden mehr verursachen).
+
+--
+
+Fenlor schnaubt verächtlich als er dem wimmernden Räuber nachblickt, der sich unsicheren Schrittes zurückzieht. Auf der Suche nach einem neuen, vielleicht ebenbürtigen Gegner fixiert er nun den Räuberhauptmann und hebt in einer stillen Herausforderung sein Schwert, auf die Brust des Gegners deutend. Ein kurzes Nicken, dann stößt sich Fenlor ab und lässt den ersten, unpräzisen Hieb auf den Gegner niedersausen (Wurfergebnis 5), jedoch scheint die gesammelte Wut auf den geflohenen Feigling sich in dem Schlag zu entladen (potentieller Schwertschaden: 5).
+
+--
+
+(autsch, du hast echt grade kein Glück mit dem Würfeln...) 
+ 
+ Der Hauptmann der Räuber wartet unbewegt, bis Fenlor ihn fast erreicht hat, dann springt er plötzlich einen Schritt nach vorne direkt in Fenlors Schlag. Während sein einer Arm Fenlors Schwerthand zur Seite schiebt, rammt der Andere das Schwert in seine Eingeweide (12 Schaden). Der Anführer blickt auf und für einen Moment trifft sein Blick auf Fenlors. Unter seiner Kapuze blicken Fenlor die Augen einer Frau entgegen, abgehärmt, ausgezehrt, und von tiefstem Hass erfüllt. Plötzlich tritt seine Gegnerin mit einem befriedigten, bösartigen Grinsen zurück. 
+ 
+ Während das Schwert aus seinen Eingewieden gleitet spürt Fenlor, wie das Leben immer schneller aus seinem Körper sickert. Ein schwächerer Mensch wäre mit eines solchen Wunde wohl zusammengebrochen, doch noch hält ihn sein Stolz aufrecht. 
+ 
+ Gerade als sie das Schwert senkt, um es im Gras abzuwischen, wirft die Hauptfrau einen abschätzigen Blick auf Fenlor und zuckt zusammen, als sie ihn noch immer kampfbereit vor sich stehen sieht. 
+ 
+ Regelteil: Deine Feindin hatte eine 6 und kam als gute Schwertkämpferin (14) damit auf 20. Gegen deine 10 ist das eine Differenz von 10. Dazu kam ein Schadenswurf von 2, also 12 Schaden. Du hast damit also eine Wunde (und hättest du nicht Stolz 15 als Schadensresistenz, wäre das eine kritische Wunde). Bis sie ausgeheilt ist (auf Reisen bei dir etwa 12 Wochen, in Ruhe 6) hast du einen Abzug von 3 auf alle Werte. 
+ 
+ Deine Gegnerin hätte dich auch gerade sofort Matt setzen können, da die Differenz über 9 lag, hat dir aber stattdessen lieber den Schaden reingewürgt, um dich jämmerlich verenden zu sehen. 
+ Was nicht so ganz geklappt hat Smile 
+ 
+ Und nebenbei: Du bist dran, sie hat nicht gehandelt Smile
+
+--
+
+Fenlor versucht, seine Gegnerin zur Aufgabe zu bewegen, indem er ihr versucht, die Sinnlosigkeit der Lage klar zu machen. Dazu rafft er all seinen Stolz und Mut zusammen und stellt sich aufrecht vor sie hin, das Schwert gesenkt. Dann sagt er laut und deutlich, so dass ihn alle hören können: "Gebt auf, Räuber. Ihr wisst, dass ihr schlussendlich doch unterliegen werdet." Fenlor deutet auf seine Männer, welche kampfbereit hinter ihm stehen. "Diese Männer sind allesamt kampferprobte Veteranen. Eure Chancen dieses Schlachtfeld lebend zu verlassen sind nicht größer als die Meinigen. Flieht und verlasst diesen Ort lebend. Oder bleibt und sterbt, zusammen mit mir." 
+ 
+ Regeltechnisches: Da diese Aktion im Angesicht einer "überlegenen" Gegnerin großen Mut erfordert habe ich vorsorglich mal einen Test auf Mut abgelegt, ob Fenlor die Worte überhaupt überzeugend rüber bringt (Würfelergebnis: 6). Außerdem habe ich einen Test auf "Stolz" abgelegt, um zu prüfen, ob er es schafft den bohrenden Schmerz zu ignorieren und sich aufrecht hinzustellen. (Ergebnis: 1).
+
+--
+
+ Für einen Moment wankt die Schurkin, dann hebt sie die Spitze ihres Schwertes vor Fenlors Brust. 
+ Mit einer Stimme wie Sandpapier ruft sie "Zurück!" 
+ Dann beugt sie sich ein Stück nach vorne. "Du bist mutig, aber das soll dich Klugheit lehren!" und während sie sich umdreht stößt sie ihre Hand nach vorne und rammt die Klinge in deine Schulter. 
+ 
+ Regeleinschub: 
+ Kurzfassung: Sie wirft gg 9, um dich zu treffen. FW 14 => Grunddifferenz: 5. Wirft eine 3 => Diff 5-3 = 2. Schadenswurf: 1 => Schaden: 3TP, keine Wunde. 
+ 
+ Langform: Sie ist noch immer erschüttert von deinem Aufruf sich zu ergeben und handelt gegen ihre Überzeugung (auf zwei Arten) => FW-3. Allerdings ist die Klinge bereuts aufgesetzt => min. FW+3. Wurf gegen 9 (im Kampf wäre es selbst gegen einen sich nicht aktiv wehrenden aber auch nicht stillstehenden Gegner gegen 12 (wg Stress), außerhalb der Kämpfe ist der Grundmindestwurf 9): Sie hat einen FW von 14 (+3 -3), also eine Grunddifferenz von 5. Wirft eine 3, also Diff: 5-3=2. Schadenswurf ergibt eine 1, also 3 Punkte Schaden in deiner Schulter, was dich noch um eine Wunde herumkommen lässt. 
+ 
+ Dann wirbelt sie vollends herum und flieht in den Wald. 
+ 
+ Überall um euch herum ziehen sich die Räuber zurück, und die Verletzten unter euch lassen sich von ihren Kameraden behandeln, und ihr findet binnen Minuten in die gleiche Routine zurück, die ihr noch nach jeder Schlacht hattet, nur dass ihr diesmal keine Toten und nur wenig Verletzte zu beklagen habt. 
+ 
+ Nachdem sich einer deiner Kameraden deiner Wunden angenommen hat, klopft er dir auf die unverletzte Schulter. "Wünschte ich hätte die Chance gehabt. Du bist heute zum Helden geworden, zumindest unter uns!" 
+ 
+ Nach zwei weiteren Wochen erreicht ihr die Burg, und obwohl du die folgende Zeit mehr auf dem Bett eines Feldschers verbringst als unterwegs, zweigen deine Kameraden jeder für sich etwas von ihrem Sold ab, so dass du sechs Wochen später als die Belagerung endet, genau wie deine überlebenden Kameraden mit gefüllter Börse und geheilten Wunden wieder aufbrichst um das nächste Adelshaus zu finden, das Bedarf an euren Klingen haben könnte. 
+ 
+ Und vielleicht findest du unterwegs ja weitere Gleichgesinnte, oder aber eine Aufgabe, die dich vielleicht mehr berührt als die Kämpfe der Reichen auf dem Feld auszutragen, ob du das nun offen sagst oder tief in deinem Innersten verschließt.
+
+---------------
+
