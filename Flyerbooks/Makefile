@@ -8,8 +8,8 @@ fanwood_license = ../Quelldateien/Schriften/Fanwood/COPYING
 source : $(leiten_sources) $(fonts)
 	mkdir -p flyer-src
 	cp $(leiten_sources) $(fonts) flyer-src/
-	sed -i s/PFILE=.*Quelldateien\\//PFILE=\"/g *sla
-	sed -i s/PFILE=.[a-zA-Z\_ü]*\\//PFILE=\"/g *sla
+	sed -i s/PFILE=.*Quelldateien\\//PFILE=\"/g flyer-src/*sla
+	sed -i s/PFILE=.[a-zA-Z\_ü]*\\//PFILE=\"/g flyer-src/*sla
 	mkdir -p flyer-src/font_licenses
 	cp $(fanwood_license) flyer-src/font_licenses/fanwood.txt
 	cp $(hattori_hanzo_license) flyer-src/font_licenses/hattori_hanzo.txt
