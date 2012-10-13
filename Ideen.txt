@@ -2407,3 +2407,56 @@ Und das ist etwas, das heute fehlt: An unseren Autos können wir nicht mehr rums
 In Steampunk gewinnen in der Konfrontation die kleinen Bastler gegen den Leiter des Großkonzerns.
 
 Anders gesagt: Ich denke SLF hat das mit DIY sehr gut [url=http://tanelorn.net/index.php/topic,77056.msg1590164.html#msg1590164]ausgedrückt[/url].
+
+------
+
+Vielleicht helfen dir die Eigenschaften, die ich für das [url=http://1w6.org/deutsch/module/taktische-kaempfe-takm]1w6 Taktikmodul[/url] entworfen habe:
+
+Waffen können:
+
+[*] Lang sein (Bonus gegen kurze Waffen auf offenem Gelände, Malus in beengtem Gelände)
+[*] Schwer sein (Können genutzt werden, um Gegner zu treiben. Wenn der Charakter gewinnt, erhält er drei zusätzliche  Punkte Bonus. Verliert er, erhält er im Gegenzug einen zusätzlichen Punkt Malus.)
+[*] Vergiftet sein o.ä. (Verschiedene Effekte. z.B. könnten Gegner ausgeschaltet werden, indem ihnen Schaden verursacht wird)
+[*] Rüstungen durchdringen (z.B. Rabenschnabel. Stoppen / Reduzieren den Effekt von Rüstungen)
+
+Rüstungen können:
+
+[*] Kaum Schwachstellen haben (schwerer zu durchdringen - wenn auf den Gegner selbst gezielt wird, muss eine höhere Differenz erzielt werden, um den Kampf zu entscheiden - z.B. 12 für mittlere Rüstungen, 18 für schwere und noch mehr für Sachen wie Space Marine Panzerung)
+[*] Gehärtet sein (Waffen können daran abprallen -> reduzieren den Effektiven Malus nach einer verlorenen Aktion um 3, da sie schwer sind aber auch den Bonus nach einer gewonnenen um 1). 
+[*] Schwer sein und unbeweglich machen (reduzieren den effektiven Fertigkeitswert, z.B. um 3)
+[*] Fast undurchdringlich sein (Waffen können keinen Schaden verursachen, es sei denn sie sind Rüstungsbrechend (durchdringen Rüstungen))
+
+Ben Hahl hat ein anderes System entwickelt, bei dem Waffen gegen manche Arten von Waffen besser und gegen andere schlechter sind: [url=http://1w6.org/forum/allgemeines/regeln-welten-ideen/2012-06-12-reka-realistische-k-mpfe-549]ReKa[/url] → [i]weil die Waffen des Altertums und Mittelalters einem ausgeklügelten Schere-Stein-Papier Prinzip folgen. Eine ungewöhnliche Waffe (Rabenschnabel) ist nicht "cool" oder "individualistisch", sondern ein Werkzeug für ungewöhnliche Situationen (Ritter in Harnischen). [/i]
+
+Meine persönliche Erfahrung ist, dass ein paar wenige aber effektive Möglichkeiten am ehesten funktionieren:
+
+[*] Risiko, um mehr Schaden zu verursachen (Finten, die beim Fehlschlag dem Gegner Vorteile geben - oder bei 1w6 einfach Mali, die in mehr Schaden umgesetzt werden, wenn der Angriff gelingt, weil bei Misslingen der Gegner trifft).
+[*] Reine Verteidigung, um Zeit schinden zu können.
+[*] Überzahl gibt Boni - wenn die Charaktere sich so positionieren können.
+[*] Umgebungseffekte (beengte Situation für lange Waffen, von oben angreifen, ...).
+
+Das erste ist dabei teils schon zu komplex (wird bei uns wenig genutzt). Wenn es als „gezielte Angriffe“ umschrieben wird, klappt es eher: Ziel auf Arme, Beine, Kopf → jeweils Mali, aber Sondereffekte, wenn es klappt. Das wird erfahrungsgemäß gerne verwendet.
+
+Ansonsten gäbe es als Taktik die Möglichkeit, dass gegen bestimmte Gegner ein bestimmter Charakter am Besten ist. Damit hat dann jeder Char eine Rolle. World of Warcraft scheint das gut umzusetzen. Für das Rollenspiel wäre es:
+
+[*] Gut gegen viele schwache Gegner (Rüstung + Schwungwaffe)
+[*] Gut gegen stark Gerüstete (Rabenschnabel?)
+[*] Gut gegen Fernkämpfer (Schild?)
+[*] …
+
+Grundlegend würde ich also erst die Gegner entwerfen, dann überlegen, wie ich sie in Kategorien einteilen kann und diesen Kategorien dann Charakterklassen zuweisen. Aus der Zuweisung kann ich dann das Taktiksystem entwickeln.
+
+------
+
+[quote author=Voiata link=topic=77563.msg1601572#msg1601572 date=1349923287]
+Den Spielern vor Augen halten, dass das Ergebnis einer sozialen Probe genauso zu akzeptieren ist, wie das Ergebnis eines Angriffes ist eine solide Basis.
+[/quote]
+Das finde ich unnötig konfrontativ. Mir fehlt die Frage, warum denn Spieler die Ergebnisse sozialer Proben nicht akzeptieren.
+
+Und ich denke, da gibt es einige Gründe - zum Beispiel, dass damit die Regeln in einen Bereich eingreifen, der traditionell dem Spieler gehört: Die Darstellung des Charakters und dessen Entscheidungen.
+
+Und im Gegensatz zum Kampfsystem gibt es keine klaren Regelungen, wann denn welche Effekte auftreten können. 
+
+Wie gut muss jemand anders würfeln, um das Grundkonzept meines Charakters zu brechen (~verkrüppelt)? Wo steht eigentlich, was das Grundkonzept ist? Wie gut muss er würfeln, um einen ehrenhaften Charakter dazu zu bringen, seine Freunde zu verraten? Und wie kann ich meinen Charakter dagegen schützen (welche Werte muss ich haben? ~welche Rüstung und welchen Paradewert brauche ich?).
+
+Wenn all das festgelegt wäre, würde es meiner Ansicht nach Spielern viel einfacher fallen, soziale Proben als feste Entscheidungen zu akzeptieren. Aber ich selbst habe es in den letzten Jahren nicht gewagt, meine groben Ideen dazu wirklich in ein System umzusetzen, weil ich das Gefühl hatte, dass ich die Thematik nicht ausreichend erfasse, um ein wirklich gutes System zu entwickeln. Immerhin muss ich dafür die soziale Beeinflussbarkeit von Menschen quantifizieren… 
