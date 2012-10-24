@@ -2465,3 +2465,20 @@ Wenn all das festgelegt wäre, würde es meiner Ansicht nach Spielern viel einfa
 ------
 
 Steam Fantasy: Ein Siedlertrek, Zugechsen, Magiegestützte Dampfmaschinen, Händler und die Gefahren der neuen Lande.
+
+
+------
+
+Trefferzonen + Bewegung aus den Würfelwerten der Kampfwürfe:
+
+- Angriffswurf: Trefferzone: -3: Beine, -1: Rumpf, 2: Arme, 4: Kopf
+- Verteidigungswurf: Bewegung: -3: Nach unten, -1: Nach hinten, 2: Zur Seite, 4: Nach vorne
+
+Der Verteidiger kann entscheiden, die Bewegung zu verweigern, erhält dann aber einen Malus von 3 auf die nächste Handlung.
+
+Vorteil: Vollständige Würfelinformation nutzen: Relativwert zum Gegner/Mindestwurf, Absolutwert, Augenzahl.
+
+Verallgemeinert:
+
+- Aktiver Wurf: Konkretisierung: -3: langfristige/indirekte Wirkung, -1: mittel, 2: mittel, 4: kurzfristige/direkte Wirkung
+- Passiver Wurf: Nebeneffekt: -3: Behindert, -1: Treibt, 2: Riskant, 4: Kein Rückzug
