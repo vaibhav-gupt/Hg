@@ -2394,15 +2394,17 @@ Template = Vorlage!
 
 ------ 
 
-Ich sehe den Punk-Aspekt des Steampunk in dem, was in Shadowrun 3 und 4 verloren ging: Du hast den dreckigen Slum-Hacker mit aus Müll zusammengelötetem Deck, der in die Oberschichtpaläste eindringt und den mit Millionen von Nuyen ausgestatteten Konzernwachen zeigt, was Straßentech leisten kann.
+Steampunk wirkt oft fast wie ein Gegenentwurf zum Punk, der dem klassischen Punk nur in der Optik ähnelt. Eine viktorianische Gesellschaft mit Technologie im Umbruch und gleichzeitig Charakteren mit klassischen Werten, rasante Veränderungen, aber Stabilität im Weltbild. 
 
-So in etwa wie die Leute in dem besetzten Haus in Paris, in dem ich letztes Jahr beim GNU Hacker Meeting übernachtet habe. Nur dass sie keine Fahrräder bauen, sondern Dampftech - und ihre Rechner nicht wie alle anderen bei den Großkonzernen kaufen (dann aber mit selbstgehackter Software aufmotzen) sondern mit der gleichen Dampftech antreiben, mit der sie sich aus dem Inneren ihres Verstecks nach außen katapultieren und sich gegen das Establishment stellen.
+Der Punk-Aspekt im Steampunk scheint dabei unterzugehen. Meiner Ansicht nach erwächst er allerdings aus dem, was in Shadowrun 3 und 4 verloren ging: Du hast den dreckigen Slum-Hacker mit seinem aus Müll zusammengelötetem Deck, der in die Oberschichtpaläste eindringt und den mit Millionen von Nuyen ausgestatteten Konzernwachen zeigt, was Straßentech leisten kann.
 
-Ein einzelner genialer Slum-Bastler kann Maschinen bauen, die es dem veralteten Schrott des Systems zeigen, und die Helden treten mit Genialität und Mut gegen die Maschinen der Antagonisten an, die Genialität durch Resourcen zu ersetzen versuchen und Horden von Arbeitern knechten, um den Erfindungen der Helden auch nur Nahe zu kommen.
+Ähnlich, wie es die die Leute in dem besetzten Haus in Paris taten, in dem ich letztes Jahr beim [GNU Hacker Meeting](http://www.gnu.org/ghm/2011/paris/) übernachtet habe. Nur dass sie keine Fahrräder bauen, sondern Dampftech - und sie ihre Rechner nicht wie alle anderen bei den Großkonzernen kaufen (dann aber mit selbstgehackter Software aufmotzen) sondern mit der gleichen Dampftech antreiben, mit der sie sich aus dem Inneren ihres Verstecks nach außen katapultieren und sich gegen das Establishment stellen.
 
-Effektiv das, was in Mechanical Dream ein Weirdsmith tun kann (übrigens meiner Meinung nach ein geniales Steampunk Setting).
+Ein einzelner genialer Slum-Bastler kann Maschinen bauen, die es dem veralteten Schrott des Systems zeigen, und die Helden treten mit Genialität und Mut gegen die Maschinen der Antagonisten an, die Genialität durch Resourcen zu ersetzen versuchen und Horden von Arbeitern knechten, um den Erfindungen der Helden auch nur nahe zu kommen.
 
-Und das ist etwas, das heute fehlt: An unseren Autos können wir nicht mehr rumschrauben. Die Tablets können wir nicht mal mehr selbst aktualisieren. Und die Handies sind für uns so unverständlich wie magische Artefakte, für die wir aus irgendeinem Grund Geld zahlen müssen. Freie Software gibt uns noch einen Teil dieses Schaffensgeistes, aber auch sie braucht Hardware, für die wir immer mehr Resourcen brauchen. 3D-Drucken könnte mit dem selbstreplizierenden [url=http://reprap.org/wiki/RepRap/de]RepRap[/url] noch in die Richtung gehen, aber auch da sind große Firmen dabei, zu versuchen, diese Graswurzelbewegung im Staub zurück zu lassen. 
+Effektiv also das, was in Mechanical Dream ein Weirdsmith tun kann (übrigens meiner Meinung nach ein geniales Steampunk Setting).
+
+Und diese Freiheit ist etwas wichtiges, das heute fehlt: An unseren Autos können wir nicht mehr rumschrauben. Die Tablets können wir nicht mal mehr selbst aktualisieren. Und die Handies sind für uns so unverständlich wie magische Artefakte, für die wir aus irgendeinem Grund Geld zahlen müssen. Freie Software gibt uns noch einen Teil dieses Schaffensgeistes, aber auch sie braucht Hardware, für die wir immer mehr Resourcen brauchen. 3D-Drucken könnte mit dem selbstreplizierenden [RepRap](http://reprap.org/wiki/RepRap/de) und copyleft lizensierten [Modellen](https://cubehero.com/physibles/iamwil/shadowblock) noch in die Richtung gehen, aber auch da sind Firmen dabei, zu versuchen, diese Graswurzelbewegung im Staub zurück zu lassen. Daher ist es Punk.
 
 In Steampunk gewinnen in der Konfrontation die kleinen Bastler gegen den Leiter des Großkonzerns.
 
@@ -2498,3 +2500,4 @@ Vielleicht sind das Konstrukte, aber macht sie das weniger real? Was ist meine e
 Was unterscheidet mein eigenes Selbst von dem meines Charakters - abgesehen davon, dass mein eigenes Selbst viel mehr Zeit hatte, sich zu festigen?
 
 Aber auch ich kann gegen einige meiner Überzeugungen handeln, wenn ich es aus irgendwelchen Gründen für das Beste halte (logischerweise nicht gegen alle, denn welchen Grund sollte ich haben gegen alles zu handeln, das mir einen Grund gibt zu handeln?).
+
