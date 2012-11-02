@@ -2501,3 +2501,33 @@ Was unterscheidet mein eigenes Selbst von dem meines Charakters - abgesehen davo
 
 Aber auch ich kann gegen einige meiner Überzeugungen handeln, wenn ich es aus irgendwelchen Gründen für das Beste halte (logischerweise nicht gegen alle, denn welchen Grund sollte ich haben gegen alles zu handeln, das mir einen Grund gibt zu handeln?).
 
+------
+
+um jetzt mal von SEUCOR wegzukommen, das offensichtlich keinen Konsens ermöglicht, und um auch kein erfundenes System zu nutzen:
+
+in 1w6 haben wir ein ein-wurf-system. wir nutzen es für kämpfe, denen wir 
+keinen fokus geben wollen. 
+
+Funktionsweise: 
+
+- es gibt nur zweikämpfe. größere kämpfe werden in eine reihe von zweikämpfen eingeteilt.
+- beide beteiligten würfeln Kampffertigkeit ±W6. wer besser würfelt gewinnt. 
+- der Gewinner erhält 3 Wunden abzüglich einer je 3 Punkte Differenz zwischen den Ergebnissen.
+- der Verlierer wird kampfunfähig und erhält 3 Wunden zuzüglich einer je 3 Punkte Differenz zwischen den Ergebnissen.
+- Taktische Möglichkeiten: 
+    * vorsichtig: malus von 3, dafür keine Wunden, wenn der Char gewinnt und nur 1 pro 3 Punkten Differenz, wenn er verliert.
+    * um Leben und Tod: Bonus von 6, aber wenn er verliert ist er nicht nur kampfunfähig, sondern tot.
+    * reine Flucht: Bonus von 6, aber der Gegner erhält keine Wunden. Gewinnen heißt erfolgreich fliehen.
+
+Dazu kommen noch Waffenboni: Fernkampf vs. Nahkampf +1 bis +9 je nach Anfangsabstand, deutlich stärkere Waffe (+3), deutlich stärkere Rüstung (+3), Gegner unbewaffnet (+3) und Malus bis 6 für langsame Waffen.
+
+Wir verwenden das System selten weil es deutlich langweiliger ist als das komplexere System, aber es funktioniert - und es ist definitiv ein Rollenspiel-Kampfsystem.
+
+
+------
+
+Würfelinformation vollständig nutzen
+
+*Wird die durch Würfel generierte Information vollständig verwendet? Keine Ergebnisse wegwerfen!*
+
+Ich habe letztens endlich Unknown Armies gelesen und 
