@@ -2584,7 +2584,7 @@ Dieser Text wäre meiner Ansicht nach nicht vollständig, ohne die Frage der Wü
 
 Dungeonslayers hat durch das Unterwürfeln nur 2 Stufen der Würfelinformation, die allerdings feiner aufgeteilt sind als in 1w6. Es hat den Vorteil, dass die Augenzahl des Würfels direkt den Effekt angibt. Dieser Vorteil ist allerdings durch einen Verlust an Skalierbarkeit erkauft, da der Relativwert der Würfelinformation verloren geht (wie nah bin ich an meinem Wert?).
 
-Tabelle:
+## Tabelle: UA, 1w6, DS
 
 | System | Unknown Armies             | 1w6                       | Dungeonslayers     |
 | Würfel | 2w10                       | 1w6                       | 1w20               |
