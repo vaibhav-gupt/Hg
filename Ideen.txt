@@ -2486,6 +2486,8 @@ Verallgemeinert:
 - Passiver Wurf: Nebeneffekt: -3: Behindert, -1: Treibt, 2: Riskant, 4: Kein Rückzug
 
 
+Oder noch allgemeiner: Gerade = direkt praktisch: Gut für den Gewinner. Ungerade = indirekt parktisch: Schlecht für den Verliere. Absolutwert: Stärke des Effektes.
+
 ------
 
 (aus tanelorn: http://tanelorn.net/index.php/topic,77974.msg1610214.html#msg1610214 )
@@ -2530,4 +2532,24 @@ Würfelinformation vollständig nutzen
 
 *Wird die durch Würfel generierte Information vollständig verwendet? Keine Ergebnisse wegwerfen!*
 
-Ich habe letztens endlich Unknown Armies gelesen und 
+Ich habe letztens endlich Unknown Armies gelesen und war sehr beeindruckt davon, wie viele Informationen sie aus jedem Würfelwurf holen. 
+
+Auf den ersten Blick sieht es aus wie ein typisches W100 Unterwürfelsystem. Wenn der erwürfelte Wert unter dem eigenen Wert liegt, gelingt die Probe. Oft hört hier die Nutzung der Ergebnisse auf. UA geht allerdings viel weiter. Sobald klar ist, dass eine Probe gelingt, gibt der Absolutwert des Wurfes an, wie stark der Effekt ist. Beispiel: Ich habe einen Wert von 60 und würfele eine 40. Damit weiß ich erstens, dass ich den Wurf geschafft habe, und zweitens, dass ich einen Effekt von 40 bewirke, also z.B. 40 Schaden. Als dritten Schritt fügen sie hinzu, dass bei Würfen mit geringem Effekt nicht der Absolutwert des W00 gilt, sondern die addierten Werte der W10. UA erkennt also an, dass ein W100 in Wirklichkeit zwei W10 sind und nutzt diese Information. Wenn der Angriff z.B. ein waffenloser Nahkampfangriff war, ist meine 40 nicht ein Effekt von 40, sondern von 4+0, also 4. Und abschließend hat ein Pasch Sondereffekte: Bei gelungener Probe ist es ein kritischer Treffer, bei misslungener ein Patzer. 
+
+UA nimmt also alle Informationen aus dem Würfelwurf auf, um die Auswirkung einer Handlung zu beschreiben.
+
+Wenn das so aufgeschrieben steht wirkt es völlig logisch: Wenn eine Spilerin würfelt, sollte ein Rollenspiel alle Informationen aus diesem Wurf nutzen. Schließlich ist die Information schon da. Ich habe mich also gefragt, warum UA für mich so eine Eröffnung war. Ein Blick in die Anfänge meiner Rollenspielsozialisation brachte schnell die Antworrt: DSA tut das nicht. Im Gegenteil.
+
+In DSA braucht eine Fertigkeitsprobe 3 Würfe: Eine pro Eigenschaft. Von diesen Würfen werden allerdings nur die Relativwerte behalten. Würfe, die über dem Eigencshaftswert liegen, können ausgeglichen werden, indem der Charakter seine Eigenschaft virtuell mit Fertigkeitspunkten erhöht. Die Absolutwerte sind allerdings egal. Ob ich jetzt Eigenschaften den Werten 8, 8 und 8 habe und 7, 5 und 3 werfe oder 18, 18 und 18 habe und 17, 15 und 13 werfe ist egal. Der einzige Punkt, an dem die Absolutwerte hineinspielen sind automatische und kritische Erfolge. Wenn 2 oder 3 einsen gewürfelt werden, gelingt die Probe immer. Außerdem sind die übrig bleibenden Fertigkeitspunkte meistens egal (außer bei Wettstreiten). Das gleiche gilt im Kampf: Es wird einmal gewürfelt und die einzigen Möglichen Ergebnisse sind „kritischer Erfolg“, „geschafft“, „nicht geschafft“, „Patzer“,
+
+
+
+
+
+
+Ein Rollenspiel, das Würfelinformationen wegwirft, nutzt von vorneherein einen zu komplexen Würfelmechanismus für die Aufgabe, die die Regeln in dem Spiel haben, oder es bläht die mit Regeln verbrachte Zeit unnötig auf. Deswegen sollten alle Rollenspielsysteme die Würfelinformation vollständig nutzen. Es sei denn, das unpraktische System hat andere Vorteile (z.B. „viele Würfel rollen ist cool!“)
+
+
+
+
+
