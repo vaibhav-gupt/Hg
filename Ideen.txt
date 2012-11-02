@@ -2471,6 +2471,8 @@ Steam Fantasy: Ein Siedlertrek, Zugechsen, Magiegestützte Dampfmaschinen, Händ
 
 ------
 
+## Nebeneffekte (NEff)
+
 Trefferzonen + Bewegung aus den Würfelwerten der Kampfwürfe:
 
 - Angriffswurf: Trefferzone: -3: Beine, -1: Rumpf, 2: Arme, 4: Kopf
@@ -2538,18 +2540,65 @@ Auf den ersten Blick sieht es aus wie ein typisches W100 Unterwürfelsystem. Wen
 
 UA nimmt also alle Informationen aus dem Würfelwurf auf, um die Auswirkung einer Handlung zu beschreiben.
 
-Wenn das so aufgeschrieben steht wirkt es völlig logisch: Wenn eine Spilerin würfelt, sollte ein Rollenspiel alle Informationen aus diesem Wurf nutzen. Schließlich ist die Information schon da. Ich habe mich also gefragt, warum UA für mich so eine Eröffnung war. Ein Blick in die Anfänge meiner Rollenspielsozialisation brachte schnell die Antworrt: DSA tut das nicht. Im Gegenteil.
+## Eine Eröffnung! Warum?
 
-In DSA braucht eine Fertigkeitsprobe 3 Würfe: Eine pro Eigenschaft. Von diesen Würfen werden allerdings nur die Relativwerte behalten. Würfe, die über dem Eigencshaftswert liegen, können ausgeglichen werden, indem der Charakter seine Eigenschaft virtuell mit Fertigkeitspunkten erhöht. Die Absolutwerte sind allerdings egal. Ob ich jetzt Eigenschaften den Werten 8, 8 und 8 habe und 7, 5 und 3 werfe oder 18, 18 und 18 habe und 17, 15 und 13 werfe ist egal. Der einzige Punkt, an dem die Absolutwerte hineinspielen sind automatische und kritische Erfolge. Wenn 2 oder 3 einsen gewürfelt werden, gelingt die Probe immer. Außerdem sind die übrig bleibenden Fertigkeitspunkte meistens egal (außer bei Wettstreiten). Das gleiche gilt im Kampf: Es wird einmal gewürfelt und die einzigen Möglichen Ergebnisse sind „kritischer Erfolg“, „geschafft“, „nicht geschafft“, „Patzer“,
+Wenn das so aufgeschrieben steht wirkt es völlig logisch: Wenn eine Spielerin würfelt, sollte ein Rollenspiel alle Informationen aus diesem Wurf nutzen. Schließlich ist die Information schon da. Ich habe mich also gefragt, warum UA für mich so eine Eröffnung war. Ein Blick in die Anfänge meiner Rollenspielsozialisation brachte schnell die Antworrt: DSA tut das nicht. Im Gegenteil.
 
+In DSA braucht eine Fertigkeitsprobe 3 Würfe: Eine pro Eigenschaft. Von diesen Würfen werden allerdings nur die Relativwerte behalten. Würfe, die über dem Eigencshaftswert liegen, können ausgeglichen werden, indem der Charakter seine Eigenschaft virtuell mit Fertigkeitspunkten erhöht. Die Absolutwerte sind allerdings egal. Ob ich jetzt Eigenschaften den Werten 8, 8 und 8 habe und 7, 5 und 3 werfe oder 18, 18 und 18 habe und 17, 15 und 13 werfe ist egal. Der einzige Punkt, an dem die Absolutwerte hineinspielen sind automatische und kritische Erfolge. Wenn 2 oder 3 einsen gewürfelt werden, gelingt die Probe immer. Außerdem sind die übrig bleibenden Fertigkeitspunkte meistens egal (außer bei Wettstreiten). Das gleiche gilt im Kampf: Es wird einmal gewürfelt und die einzigen Möglichen Ergebnisse sind „kritischer Erfolg“, „geschafft“, „nicht geschafft“ und „Patzer“, obwohl die Würfelergebnisse viel detailliertere Informationen bieten könnten.
 
+Das gleiche gilt für Shadowrun, WoD, usw. Das einzige mir vor UA bekannte Rollenspiel, das ebenso die vollen Würfel-Informationen nutzt, ist Dungeonslayers. Und das ist weit jünger als UA und hat eine viel weniger komplexe Würfelmechanik: Einfach nur W20 unterwürfeln.
 
+## Würfelinformation in 1w6
 
+Die logische nächste Frage war für mich: Machen wir das bei 1w6 auch? Nutzt 1w6 wirklich die gesamten Würfelinformationen?
 
+* Erstens nutzt es einen Relativwert: Charakterwert ± W6 gegen Mindestwurf oder Ergebnis eines anderen Charakters. Das war von Anfang an da.
 
-Ein Rollenspiel, das Würfelinformationen wegwirft, nutzt von vorneherein einen zu komplexen Würfelmechanismus für die Aufgabe, die die Regeln in dem Spiel haben, oder es bläht die mit Regeln verbrachte Zeit unnötig auf. Deswegen sollten alle Rollenspielsysteme die Würfelinformation vollständig nutzen. Es sei denn, das unpraktische System hat andere Vorteile (z.B. „viele Würfel rollen ist cool!“)
+* Zweitens nutzt es den Absolutwert: Charakterwert ± W6, allerdings bis zum [Erschöpfungsmodul (ErRe)](/deutsch/module/erschoepfungsregeln-erre) nur als Qualitätsmaßstab ohne regeltechnische Bedeutung. Wenn das Erschöpfungsmodul genutzt wird, legt der Absolutwert bei jeder Probe fest, ob der Charakter seiner Erschöpfung erliegt. (Die Regeln des Erschöpfungsmoduls habe ich aus den Überlegungen zur Würfelinformation abgeleitet, dieser Artikel ist also nicht nur von akademischem Interesse)
 
+* Drittens nutzt es die Augenzahl, allerdings im Grundsystem mit kritischen Erfolgen und Patzern (Modul [Krit](/deutsch/module/kritische-erfolge-und-patzer-krit)) nur mit der Frage „ist es eine 6 oder 5“. 3, 1, 2 und 4 wurden verworfen. Um das aufzulösen, bastle ich an Nebeneffekten: Trefferzonen, Bewegung u.ä. als Folge der Probe. In Wettstreiten mit Unterschiedlicher Bedeutung der Augenzahl von Gewinner und Verlierer.
 
+Und damit werden alle Würfelinformationen genutzt.
 
+## Grundlegend
 
+Dieser Text wäre meiner Ansicht nach nicht vollständig, ohne die Frage der Würfelinformation zu verallgemeinern. Für jegliche Zufallssysteme gilt:
 
+> Pro Wert, der in einen Wurf eingeht, bietet das System eine Art der Information.
+
+* Wird nur ein Würfel genutzt, ohne Charakterwerte und Mindestwürfe, dann gibt es nur eine Art der Information: Die geworfene Augenzahl. Beispiel: „Gehe W6 Felder vorwärts“
+
+* Werden Spielkarten genutzt, gibt es nur eine Art der Information: Die Karte. Da Karten selbst mehrere Arten der Information vereinen, kann diese Information vielfältig Interpretiert werden, so dass aus 32 Karten übersichtliche 4x8 Ergebnisse werden (2 Arten).
+
+* Wird einen Würfel mit einem Mindestwurf/Höcstwurf genutzt, gibt es 2 Arten der Information, die mit einem Wurf generiert werden können: Die Augenzahl und den Vergleich mit dem Mindestwurf. Beispiel: „Wenn du höchstens 5 würfelst, gehe die gewürfelte Anzahl Felder vorwärts. Sonst nimm die Ereigniskarte mit dem Zahlenwert Augenzahl minus Höchstwert“.
+
+* Bei einem Würfel, einem Charakterwert und einem Mindestwurf gibt es 3 Arten der Information durch den Wurf: Augenzahl, Charakterwert-Augenzahl, Mindestwurf-Augenzahl. (Die Kombination Charakterwert-Mindestwurf wird nicht durch den Wurf generiert sondern ist konstant). 1w6 nutzt statt der Kombination Mindestwurf-Augenzahl die indirekte Kombination Charakterwert-Mindestwurf-Augenzahl. Auf diese Art wird die Interaktion des Würfels mit dem Mindestwurf abgebildet, ohne das Ergebnis der Rechnung Charakterwert-Augenzahl verwerfen zu müssen.
+
+* Bei zwei Würfeln gibt es (mindestens) 5 leicht zu erhaltende Arten der Information: 2x absolut (Augen 1, Augen 2), 3x kombiniert (1±2, 10·1 + 2, 1·2). 
+
+* Wenn wir 2 Würfel und Charakterwerte nutzen, haben wir pro Würfelinformation zusätzlich die kombinierte Information aus Würfeln und Charakterwerten, also schon alleine 10 verschiedene Arten von Informationen. Die wir dann auf elegante Art in Handlungsrelevante Ergebnisse umsetzen müssten, um alle Würfelinformationen zu nutzen. Und das ist schwer, ohne gekünstelt zu wirken. Unknown Armies nutzt die 4 davon, die am einfachsten berechnet werden können: Unter dem Wert? 10·1+2, 1+2 und Pasch?. Eine weitere leicht zu erhaltende Information wäre „10er-Stelle unter 10% des Wertes?“. Ich bin mir nicht mehr sicher, ob UA das für automatische Erfolge o.ä. nutzt.
+
+* Wenn wir 5 Würfel haben, gibt es eigentlich eine fast unüberschaubare Anzahl Informationsarten. Entsprechend betrachten Poolsysteme die Würfel nicht mehr einzeln und verwenden sie nur noch als bessere Münzen. Dadurch hat jede Art der Information nur noch 2 Werte, so dass die Informationen zusammengefasst werden können, um eine Art der Information mit einer größeren Streuung und einer anderen Verteilung zu erhalten. 5 Münzen haben nur 32 Zustände. 5w6 haben 7776 Zustände.
+
+## Dungeonslayers und 1w6
+
+Dungeonslayers hat durch das Unterwürfeln nur 2 Stufen der Würfelinformation, die allerdings feiner aufgeteilt sind als in 1w6. Es hat den Vorteil, dass die Augenzahl des Würfels direkt den Effekt angibt. Dieser Vorteil ist allerdings durch einen Verlust an Skalierbarkeit erkauft, da der Relativwert der Würfelinformation verloren geht (wie nah bin ich an meinem Wert?).
+
+Tabelle:
+
+| System | Unknown Armies             | 1w6                       | Dungeonslayers     |
+| Würfel | 2w10                       | 1w6                       | 1w20               |
+| Info 1 | ≤: Treffer?                | Differenz: Schaden        | ≤: Treffer?        |
+| Info 2 | 10·W10+W10: Schaden        | Wert ±W6: Erschöpfung     | Augenzahl: Schaden |
+| Info 3 | W10+W10: Schwacher Schaden | Augenzahl: Nebenwirkungen | -                  |
+| Info 4 | Pasch?: Sondereffekte      | -                         | -                  |
+| Info 5 | ?                          | -                         | -                  |
+| …      | …                          | -                         | -                  |
+
+## Fazit
+
+Ein Rollenspiel, das ohne Notwendigkeit Würfelinformationen wegwirft, nutzt von vorneherein einen zu komplexen Würfelmechanismus für die Aufgabe, die die Regeln in dem Spiel haben, oder es bläht die mit Regeln verbrachte Zeit unnötig auf. Deswegen sollten alle Rollenspielsysteme alle Würfelinformationen nutzen, die praktikabel zu erhalten sind. (Es sei denn, das unpraktische System hat andere Vorteile - z.B. „viele Würfel rollen ist cooler als viele Münzen werfen!“)
+
+Ein System, das die vollen Würfelinformationen nutzt, benötigt weniger Würfelaufwand für die gleiche Menge an generierten Informationen. Und darin sehe ich eine Art der Eleganz: Nutze das Würfelsystem, das als einfach zu erhaltende Informationsarten all die Informationen bietet, die du brauchst.
+
+Und wenn du dich für ein Würfelsystem entschieden hast: Suche Möglichkeiten, alle Informationen zu nutzen, die es dir bietet. Uns hat das sowohl elegante Erschöpfungsregeln als auch spannende Nebeneffekte gebracht.
