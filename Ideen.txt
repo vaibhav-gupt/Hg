@@ -2578,7 +2578,11 @@ Dieser Text wäre meiner Ansicht nach nicht vollständig, ohne die Frage der Wü
 
 * Wenn wir 2 Würfel und Charakterwerte nutzen, haben wir pro Würfelinformation zusätzlich die kombinierte Information aus Würfeln und Charakterwerten, also schon alleine 10 verschiedene Arten von Informationen. Die wir dann auf elegante Art in Handlungsrelevante Ergebnisse umsetzen müssten, um alle Würfelinformationen zu nutzen. Und das ist schwer, ohne gekünstelt zu wirken. Unknown Armies nutzt die 4 davon, die am einfachsten berechnet werden können: Unter dem Wert? 10·1+2, 1+2 und Pasch?. Eine weitere leicht zu erhaltende Information wäre „10er-Stelle unter 10% des Wertes?“. Ich bin mir nicht mehr sicher, ob UA das für automatische Erfolge o.ä. nutzt.
 
-* Wenn wir 5 Würfel haben, gibt es eigentlich eine fast unüberschaubare Anzahl Informationsarten. Entsprechend betrachten Poolsysteme die Würfel nicht mehr einzeln und verwenden sie nur noch als bessere Münzen. Dadurch hat jede Art der Information nur noch 2 Werte, so dass die Informationen zusammengefasst werden können, um eine Art der Information mit einer größeren Streuung und einer anderen Verteilung zu erhalten. 5 Münzen haben nur 32 Zustände. 5w6 haben 7776 Zustände.
+* Wenn wir 5 Würfel haben, gibt es eigentlich eine fast unüberschaubare Anzahl Informationsarten. Entsprechend betrachten Poolsysteme die Würfel nicht mehr einzeln und verwenden sie nur noch als bessere Münzen. Dadurch hat jede Art der Information nur noch 2 Werte, so dass die Informationen zusammengefasst werden können, um eine Art der Information mit einer größeren Streuung und einer anderen Verteilung zu erhalten. 5 nicht unterscheidbare Münzen haben nur 6 Zustände: Die Anzahl der Erfolge (Münzen auf Kante werden ignoriert :) ). 5 nicht unterscheidbare 6-seitige Würfel haben 
+
+[^5wuerfel]
+
+[^5wuerfel]: 6^5 = 7776, davon 6222 jeweils (5*4/2)-fach (Anzahl Permutationen von 5 unterschiedlichen Zahlen → nur 622,2 echte Möglichkeiten), 1038 — keine Gewährleistung für das Ergebnis, ist noch nicht gegengeprüft
 
 ## Dungeonslayers und 1w6
 
