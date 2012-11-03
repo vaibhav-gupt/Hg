@@ -2572,17 +2572,15 @@ Dieser Text wäre meiner Ansicht nach nicht vollständig, ohne die Frage der Wü
 
 * Wird einen Würfel mit einem Mindestwurf/Höcstwurf genutzt, gibt es 2 Arten der Information, die mit einem Wurf generiert werden können: Die Augenzahl und den Vergleich mit dem Mindestwurf. Beispiel: „Wenn du höchstens 5 würfelst, gehe die gewürfelte Anzahl Felder vorwärts. Sonst nimm die Ereigniskarte mit dem Zahlenwert Augenzahl minus Höchstwert“.
 
-* Bei einem Würfel, einem Charakterwert und einem Mindestwurf gibt es 3 Arten der Information durch den Wurf: Augenzahl, Charakterwert-Augenzahl, Mindestwurf-Augenzahl. (Die Kombination Charakterwert-Mindestwurf wird nicht durch den Wurf generiert sondern ist konstant). 1w6 nutzt statt der Kombination Mindestwurf-Augenzahl die indirekte Kombination Charakterwert-Mindestwurf-Augenzahl. Auf diese Art wird die Interaktion des Würfels mit dem Mindestwurf abgebildet, ohne das Ergebnis der Rechnung Charakterwert-Augenzahl verwerfen zu müssen.
+* Bei einem Würfel, einem Charakterwert und einem Mindestwurf gibt es 3 Arten der Information durch den Wurf: Augenzahl, Charakterwert-Augenzahl, Mindestwurf-Augenzahl. (Die Kombination Charakterwert-Mindestwurf wird nicht durch den Wurf generiert sondern ist konstant). 1w6 nutzt statt der Kombination Mindestwurf-Augenzahl meistens die indirekte Kombination Charakterwert-Mindestwurf-Augenzahl. Auf diese Art wird die Interaktion des Würfels mit dem Mindestwurf abgebildet, ohne das Ergebnis der Rechnung Charakterwert-Augenzahl verwerfen zu müssen. Die einzige Ausnahme ist die Null-Probe in den Flyerbüchern, um festzustellen, ob ein Charakter Ohnmächtig wird.
 
 * Bei zwei Würfeln gibt es (mindestens) 5 leicht zu erhaltende Arten der Information: 2x absolut (Augen 1, Augen 2), 3x kombiniert (1±2, 10·1 + 2, 1·2). 
 
 * Wenn wir 2 Würfel und Charakterwerte nutzen, haben wir pro Würfelinformation zusätzlich die kombinierte Information aus Würfeln und Charakterwerten, also schon alleine 10 verschiedene Arten von Informationen. Die wir dann auf elegante Art in Handlungsrelevante Ergebnisse umsetzen müssten, um alle Würfelinformationen zu nutzen. Und das ist schwer, ohne gekünstelt zu wirken. Unknown Armies nutzt die 4 davon, die am einfachsten berechnet werden können: Unter dem Wert? 10·1+2, 1+2 und Pasch?. Eine weitere leicht zu erhaltende Information wäre „10er-Stelle unter 10% des Wertes?“. Ich bin mir nicht mehr sicher, ob UA das für automatische Erfolge o.ä. nutzt.
 
-* Wenn wir 5 Würfel haben, gibt es eigentlich eine fast unüberschaubare Anzahl Informationsarten. Entsprechend betrachten Poolsysteme die Würfel nicht mehr einzeln und verwenden sie nur noch als bessere Münzen. Dadurch hat jede Art der Information nur noch 2 Werte, so dass die Informationen zusammengefasst werden können, um eine Art der Information mit einer größeren Streuung und einer anderen Verteilung zu erhalten. 5 nicht unterscheidbare Münzen haben nur 6 Zustände: Die Anzahl der Erfolge (Münzen auf Kante werden ignoriert :) ). 5 nicht unterscheidbare 6-seitige Würfel haben 
+* Wenn wir 5 Würfel haben, gibt es eigentlich eine fast unüberschaubare Anzahl Informationsarten. Entsprechend betrachten Poolsysteme die Würfel nicht mehr einzeln und verwenden sie nur noch als bessere Münzen. Dadurch hat jede Art der Information nur noch 2 Werte, so dass die Informationen zusammengefasst werden können, um eine Art der Information mit einer größeren Streuung und einer anderen Verteilung zu erhalten. 5 nicht unterscheidbare Münzen haben nur 6 Zustände: Die Anzahl der Erfolge (Münzen auf Kante werden ignoriert :) ). 5 nicht unterscheidbare 6-seitige Würfel haben 143 unterschiedliche Ergebnisse[^5wuerfel], von denen nur 6 genutzt werden.
 
-[^5wuerfel]
-
-[^5wuerfel]: 6^5 = 7776, davon 6222 jeweils (5*4/2)-fach (Anzahl Permutationen von 5 unterschiedlichen Zahlen → nur 622,2 echte Möglichkeiten), 1038 — keine Gewährleistung für das Ergebnis, ist noch nicht gegengeprüft
+[^5wuerfel]: 6^5 = 7776, davon 6222 jeweils 5!-fach (Anzahl Permutationen von 5 unterschiedlichen Zahlen → nur 51  echte Möglichkeiten), 1038 jeweils 4!-fach (43 Möglichkeiten), 174 3!-fach (29), 30 2-fach (15) und 5 1-fach (alle Zahlen gleich). Insgesamt gibt es also 143 mögliche Ergebnisse — keine Gewährleistung für das Ergebnis, ist noch nicht gegengeprüft
 
 ## Dungeonslayers und 1w6
 
@@ -2605,4 +2603,4 @@ Ein Rollenspiel, das ohne Notwendigkeit Würfelinformationen wegwirft, nutzt von
 
 Ein System, das die vollen Würfelinformationen nutzt, benötigt weniger Würfelaufwand für die gleiche Menge an generierten Informationen. Und darin sehe ich eine Art der Eleganz: Nutze das Würfelsystem, das als einfach zu erhaltende Informationsarten all die Informationen bietet, die du brauchst.
 
-Und wenn du dich für ein Würfelsystem entschieden hast: Suche Möglichkeiten, alle Informationen zu nutzen, die es dir bietet. Uns hat das sowohl elegante Erschöpfungsregeln als auch spannende Nebeneffekte gebracht.
+Und wenn du dich für ein Würfelsystem entschieden hast: Suche Möglichkeiten, alle Informationen zu nutzen, die es dir bietet. Uns hat das sowohl elegante Erschöpfungsregeln als auch spannende Nebeneffekte gebracht. Wenn du bestimmte Informationen verwerfen willst, begründe, warum du es tust (z.B. weil sie zu umständlich zu erhalten ist).
