@@ -2668,3 +2668,9 @@ Beispiel: In einem klassischen Krimi wirft der Hauptdarsteller nicht plötzlich 
 
 Allgemeiner gefasst: Regeln sind festgeschriebene Konventionen. Wenn gemeinsam Regeln gewählt werden, heißt das, dass alle Beteiligten die Konventionen der Regeln akzeptieren - und auf sie vertrauen können.
 
+------ 
+
+Oder man erlaubt nur sehr schmales ausbrechen aus dem Normalbereich: Bei der zweiten 6 wird der Wert nur um 1 erhöht. Bei der dritten wieder.
+
+Und, um das abzurunden (1w6-spezifisch) macht man den Weitsprung nur auf Attribute. Da sind Anfänger und Profi nur 3 Punkte auseinander (12 vs. 15). Dann gibt es zwei Arten von Proben: Einfach (auf Attribute, Grundwert 12) und komplex (auf Fertigkeiten, Grundwert 3). Vielleicht gibt hier die Fertigkeit dem Attribut Boni statt umgekehrt (weil das erlernte weniger wichtig ist).
+
