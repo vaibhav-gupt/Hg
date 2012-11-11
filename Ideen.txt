@@ -2176,21 +2176,25 @@ Ohne zeitliche Abhängigkeiten zu schaffen?
 
 Bleibender Schaden: Ein Wert, der jedesmal um ein - steigt, wenn den Charakter eigentlich besiegt worden wäre aber trotzdem weitermacht. 
 
-Für jede Steigerung dieses Nachteils muss ein Nachteil der entsprechenden schwere gewählt werden. Im Gegenzug kann der Spieler einen Vorteil in entsprechender Höhe wählen. 
+Für jede Steigerung dieses Nachteils muss ein Nachteil der entsprechenden schwere gewählt werden. Im Gegenzug kann der Spieler den erhaltenen direkten Schaden ignorieren und einen Vorteil in entsprechender Höhe wählen. 
 
-Um immer schwerwiegendere Nachteile zu vermeiden, kann der bleibende Schaden wieder reduziert werden, indem die Nachteile wieder aufgelöst, das heißt weggekauft werden. Die Reihenfolge ist dabei egal. Auch wenn der schwächste weggekauft wird, sinkt der Wert des bleibenden Schadens (um ein -).
+Um immer schwerwiegendere Nachteile zu vermeiden, kann der bleibende Schaden wieder reduziert werden, indem die Nachteile wieder aufgelöst, das heißt weggekauft werden. Die Reihenfolge ist dabei egal. Auch wenn der schwächste Nachteil weggekauft wird, sinkt der Wert des bleibenden Schadens (um ein -).
 
-Ist ein stärkerer Nachteil einfach die Steigerung eines schwächeren, muss für den Schwächeren ein Nachteil in gleicher Höhe als Ersatz gewählt werden.
+Ist ein stärkerer Nachteil einfach die Steigerung eines schwächeren, muss für den Schwächeren ein Nachteil in gleicher Höhe als Ersatz gewählt werden. Der Charakter erhälte also nur einen schwächeren Nachteil neu, dafür wird ein bisheriger Nachteil schlimmer.
 
 Da mit steigendem bleibenden Schaden die Nachteile bei einem Fehlschlag immer stärker werden, wird der Charakter irgendwann unspielbar, so dass ein für Taktiker interessantes Element mit einfließt. Gleichzeitig liefern die Nachteile und Vorteile immer wieder Plotwendungen, die für Geschichtenerzähler interessant sein dürften.
 
-Beispiel: *Naraka erhält in einem Gefecht zwei kritische Wunden und wird kampfunfähig. Um den Charakter weiterspielen zu können, erhöht seine Spielerin den bleibenden Schaden. Noch hatte Naraka nie völlig verloren, also beginnt der bleibende Schaden auf - und die Spielerin wählt für Naraka den Nachteil „nur ein Auge (-)“: Eine der Wunden hatte sein Gesicht getroffen, und seine Spielerin entscheidet, dass sein Auge nicht mehr verheilt. Im Gegenzug wählt sie den Vorteil „unzerbrechlicher Wille (+)“. Beides schreibt sie zu bleibende Folgen.*
+Nachteile wegzukaufen kostet wie üblich so viele Erfahrungspunkte wie es kosten würde, einen Vorteil in entsprechender Höhe zu haben: 3 Striche für -, 9 Striche für -- und 18 Striche für ---. 
+
+Beispiel: *Naraka erhält in einem Gefecht zwei kritische Wunden und wird kampfunfähig. Um den Charakter weiterspielen zu können, erhöht seine Spielerin den bleibenden Schaden. Dafür gelten die Verletzungen als Fleischwunden, die für Naraka keine direkten Nachteile mehr haben. Noch hatte Naraka nie völlig verloren, also beginnt der bleibende Schaden auf - und die Spielerin wählt für Naraka den Nachteil „nur ein Auge (-)“: Eine der Wunden hatte sein Gesicht getroffen, und seine Spielerin entscheidet, dass sein Auge nicht mehr verheilt. Im Gegenzug wählt sie den Vorteil „unzerbrechlicher Wille (+)“. Beides schreibt sie zu „Konsequenzen“.*
 
 *Ein paar Spielabende später erhält Naraka erneut eine kritische Wunde. Ihre Spielerin erhöht bleibenden Schaden auf -- und wählt den Nachteil Querschnittsgelähmt. Naraka wird nun im Hintergrund bleiben. Als Ausgleich gibt ihm seine Spielerin den Vorteil Unnatürliches Glück (++), der es ihr ermöglicht, zweimal pro Spielrunde festzulegen, dass Narakas Entscheidung die richtige gewesen ist (solange die SL kein starkes Veto einlegt und eine Alternative anbietet).*
 
-*Die Nachteile für --- sind allerdings so heftig, dass Narakas Spielerin entscheidet, sobald wie möglich das verletzte Auge zurückzugewinnen und ihre SL bittet, mit ihr eine passende Geschichte dafür zu entwickeln. Lieber eine Steigerung verschieben als das Risiko einzugehen, ein Gehirn in einem Kasten zu werden.*
+*Die Nachteile für --- sind allerdings so heftig, dass Narakas Spielerin entscheidet, sobald wie möglich das verletzte Auge zurückzugewinnen und ihre SL bittet, mit ihr eine passende Geschichte dafür zu entwickeln. Lieber eine Steigerung verschieben als das Risiko einzugehen, ein Gehirn in einem Kasten zu werden. Das zerstörte Auge wieder zu heilen wird nur 3 Striche kosten, so dass der bleibende Schaden wieder auf - sinkt und beim nächsten Mal wieder nur ein Nachteil mit einem Wert von -- gewählt werden muss: Immernoch schlimm genug, aber erträglich.*
 
 Option: Nach den Eigenschaften aufgeteilt, die den Schaden genommen haben.
+
+Option: Der erste Nachteil ist eine Marotte für einen Strich (|).
 
 ------
 
@@ -2220,7 +2224,7 @@ Nasma: Namen, Sprache, Schrift und Mathematik: Die vier Dinge, die wir brauchen,
      * Namen ermöglichen eine Abstraktion. Ein Konzept muss nicht vollständig beschrieben werden, sondern kann kurz benannt werden.
      * Sprache ermöglicht es, Konzepte weiterzugeben, in Bezug zueinander zu setzen und neue Konzepte durch alte Konzepte zu beschreiben. 
      * Schrift ermöglicht es, Konzepte potenziell verlustfrei zu definieren und weiterzugeben. 
-     * Mathematik ermöglicht es, Konzepte überprüfbar zu definieren, so dass der wissenschaftliche Doppelschritt genutzt werden kann, der die Entwicklung neuer Konzepte massiv beschleunigt, weil ein einmal überprüftes Konzept im Rahmen seiner Definition seine Gültigkeit behält.
+     * Mathematik ermöglicht es, Konzepte überprüfbar zu definieren, so dass der wissenschaftliche Doppelschritt genutzt werden kann, der die Entwicklung neuer Konzepte massiv beschleunigt, weil ein einmal überprüftes Konzept im Rahmen seiner Definition seine Gültigkeit behält. Kann auch durch formelle Logik abgedeckt werden.
 
 ------
 
@@ -2325,3 +2329,307 @@ Ermutigende Worte und ein Ansprechen der für den Charakter wichtigsten Grundwer
 ### Resonanz des Benutzers in Neuronalen Interfaces
 
 Es gibt Gerüchte, dass neuronale Interfaces nach langjähriger Benutzung …Echo, Tote im Netz, ganze Geisterschiffe, System streitet alles ab, Schiffe mit gestorbener Crew gereinigt werden, Abbild dessen, was die Crew im Schiff gesehen hat.
+
+
+------
+
+Was mMn nicht passieren darf: Die Chars sind im Kampf und einer macht Storykampf (besiegt Gegner durch coole Aktionen, obwohl sein Char nicht die Werte dazu hat) während der andere taktisch arbeitet (benutzt seine Werte, um zu gewinnen). Hier entwertet entweder der Storyspieler die Werte des Taktikers oder der Taktiker entwertet die Erzählungen des Storyspielers, weil sie nicht gelten.
+
+Regeln, die einen Bonus für gute Erzählung liefern, geben beiden Raum und balancieren ihre Fähigkeiten explizit. Regeln, die diesen Bonus nur bieten, wenn der Char dafür in der Szene auf Werte mit gleichem Wert verzichtet, balancieren es sowohl in den Augen der Storyspielers als auch des Taktikers.
+
+Ich würde das bisher improvisieren. Allerdings wäre es nicht allzu kompliziert, das in 1w6 zu implementieren. Ich würde einfach die Regeln für die Welt hinter der Welt anpassen. Du kannst durch coole Story einen Bonus von 1 pro aufgegebenem + rausholen.
+
+→ http://tanelorn.net/index.php/board,4.0.html
+
+
+------
+
+Kommentar zu http://glgnfz.blogspot.com/2012/01/robin-du-bloder-hund.html
+
+Robin schreibt über einen unstrukturierten Dungeon ohne Story-Elemente. Was genau daran das Problem sein soll, verstehe ich nicht. 
+
+Klar gibt es Dungeons mit Storyelementen und mit komplexen taktischen Planungen, usw. Von denen schreibt er aber nicht - wie er direkt am Anfang deutlich macht. 
+
+Was in dem Zitat noch fehlt ist:
+
+<i>Ein Nachteil des unstrukturierten Stils ist es, dass SL eher vom Leiten dieses Stils ermüden als die Spieler vom Spielen. Weil die hundertste Begegnung, die du für den Dungeon erfindest, mehr oder weniger wie die zehnte ist, wird der Abenteuerentwurf über kurz oder lang eintönig.</i>
+
+Statt „noch immer“ wäre vielleicht die Formulierung „weiterhin“ besser gewesen. Aber der Schnitzer kommt nicht vom Autor, sondern vom Übersetzer. Und ich kann aus erster Hand sagen, dass da keine Absicht dahinter steht :)
+
+Im Vergleich zu einer Detektivgeschichte ist ein Dungeon extrem einfach zu leiten und zu planen. Eigentlich fällt mir keine Art der Planung ein, die leichter ist als der Dungeon mit Wänden, durch die man nicht durchlaufen kann, und stimmungsvollen Dingen, die man findet.
+
+Er macht Spaß zu spielen und kann fast ohne Vorbereitung geleitet werden. Unsere Dungeonslayer-Runden haben das klar bewiesen. Ich habe mich als SL wirklich gar nicht vorbereitet und es kam eine tolle Runde dabei heraus: <a href="http://1w6.org/blog/drak/2009-11-26-dungeonslayers-spielbericht">Dungeonslayers Spielbericht (top!)</a>
+
+Für mich als SL war das Abenteuer komplett unstrukturiert, denn ich musste keine komplexen Beziehungen im Auge behalten und konnte mich voll und ganz auf stimmungsvolle Beschreibungen konzentrieren. 
+
+Insofern hat er meiner Ansicht nach voll und ganz Recht damit, dass Dungeons am einfachsten zu leiten sind und sich daher für Anfänger eignen.
+
+@Georgios: Primitiver Dungeon stimmt. Schlecht dagegen nicht. Wenn die Spieler die Art zu spielen mögen, ist ein primitiver Dungeon genau das richtige. Und damit gut. Er schreibt über die Planungsstruktur Dungeon, nicht über den Dungeon als Hintergrund für andere Planungsstrukturen.
+
+Und ich persönlich habe viele Dungeons geleitet. Sie haben sich als idealer Schauplatz für Stimmungsaufbau erwiesen, gerade weil sie einfach sind. 
+
+Einige der intensivsten Spielabende waren von der Grundstruktur her primitive Dungeons.
+
+------
+
+# Auge um Auge
+
+Wann immer ein Charakter durch das Triggern einer seiner Schwächen eine bedeutende Niederlage erlebt, erhält er einen AuA ( :) ). 
+
+Später kann er diese Punkte nutzen, um Boni zu erhalten, so dass Verlust-dann-Gewinn-Strukturen begünstigt werden und es einen Anreiz gibt, Schwächen zu haben: Sie schaden dem Char in weniger wichtigen Situationen, helfen ihm aber in wichtigen.
+
+Mögliche Einschränkung: Er darf diese Punkte nur für Dinge nutzen, die von seinen Stärken abgedeckt sind: Eine entsprechende Eigenschaft oder ein Merkmal. 
+
+Ideen: 
+
+- Temporär Eigenschaft + X (oder allgemein einen Bonus von X). 
+- Wiederwürfeln. 
+- … (siehe noch nicht geschriebener Text im Notizheft)
+
+Der Name Auge um Auge passt für härtere Hindergründe.
+
+------ 
+
+Template = Vorlage!
+
+------ 
+
+Steampunk wirkt oft fast wie ein Gegenentwurf zum Punk, der dem klassischen Punk nur in der Optik ähnelt. Eine viktorianische Gesellschaft mit Technologie im Umbruch und gleichzeitig Charakteren mit klassischen Werten, rasante Veränderungen, aber Stabilität im Weltbild. 
+
+Der Punk-Aspekt im Steampunk scheint dabei unterzugehen. Meiner Ansicht nach erwächst er allerdings aus dem, was in Shadowrun 3 und 4 verloren ging: Du hast den dreckigen Slum-Hacker mit seinem aus Müll zusammengelötetem Deck, der in die Oberschichtpaläste eindringt und den mit Millionen von Nuyen ausgestatteten Konzernwachen zeigt, was Straßentech leisten kann.
+
+Ähnlich, wie es die die Leute in dem besetzten Haus in Paris taten, in dem ich letztes Jahr beim [GNU Hacker Meeting](http://www.gnu.org/ghm/2011/paris/) übernachtet habe. Nur dass sie keine Fahrräder bauen, sondern Dampftech - und sie ihre Rechner nicht wie alle anderen bei den Großkonzernen kaufen (dann aber mit selbstgehackter Software aufmotzen) sondern mit der gleichen Dampftech antreiben, mit der sie sich aus dem Inneren ihres Verstecks nach außen katapultieren und sich gegen das Establishment stellen.
+
+Ein einzelner genialer Slum-Bastler kann Maschinen bauen, die es dem veralteten Schrott des Systems zeigen, und die Helden treten mit Genialität und Mut gegen die Maschinen der Antagonisten an, die Genialität durch Resourcen zu ersetzen versuchen und Horden von Arbeitern knechten, um den Erfindungen der Helden auch nur nahe zu kommen.
+
+Effektiv also das, was in Mechanical Dream ein Weirdsmith tun kann (übrigens meiner Meinung nach ein geniales Steampunk Setting).
+
+Und diese Freiheit ist etwas wichtiges, das heute fehlt: An unseren Autos können wir nicht mehr rumschrauben. Die Tablets können wir nicht mal mehr selbst aktualisieren. Und die Handies sind für uns so unverständlich wie magische Artefakte, für die wir aus irgendeinem Grund Geld zahlen müssen. Freie Software gibt uns noch einen Teil dieses Schaffensgeistes, aber auch sie braucht Hardware, für die wir immer mehr Resourcen brauchen. 3D-Drucken könnte mit dem selbstreplizierenden [RepRap](http://reprap.org/wiki/RepRap/de) und copyleft lizensierten [Modellen](https://cubehero.com/physibles/iamwil/shadowblock) noch in die Richtung gehen, aber auch da sind Firmen dabei, zu versuchen, diese Graswurzelbewegung im Staub zurück zu lassen. Daher ist es Punk.
+
+In Steampunk gewinnen in der Konfrontation die kleinen Bastler gegen den Leiter des Großkonzerns.
+
+Anders gesagt: Ich denke SLF hat das mit DIY sehr gut [url=http://tanelorn.net/index.php/topic,77056.msg1590164.html#msg1590164]ausgedrückt[/url].
+
+------
+
+Vielleicht helfen dir die Eigenschaften, die ich für das [url=http://1w6.org/deutsch/module/taktische-kaempfe-takm]1w6 Taktikmodul[/url] entworfen habe:
+
+Waffen können:
+
+[*] Lang sein (Bonus gegen kurze Waffen auf offenem Gelände, Malus in beengtem Gelände)
+[*] Schwer sein (Können genutzt werden, um Gegner zu treiben. Wenn der Charakter gewinnt, erhält er drei zusätzliche  Punkte Bonus. Verliert er, erhält er im Gegenzug einen zusätzlichen Punkt Malus.)
+[*] Vergiftet sein o.ä. (Verschiedene Effekte. z.B. könnten Gegner ausgeschaltet werden, indem ihnen Schaden verursacht wird)
+[*] Rüstungen durchdringen (z.B. Rabenschnabel. Stoppen / Reduzieren den Effekt von Rüstungen)
+
+Rüstungen können:
+
+[*] Kaum Schwachstellen haben (schwerer zu durchdringen - wenn auf den Gegner selbst gezielt wird, muss eine höhere Differenz erzielt werden, um den Kampf zu entscheiden - z.B. 12 für mittlere Rüstungen, 18 für schwere und noch mehr für Sachen wie Space Marine Panzerung)
+[*] Gehärtet sein (Waffen können daran abprallen -> reduzieren den Effektiven Malus nach einer verlorenen Aktion um 3, da sie schwer sind aber auch den Bonus nach einer gewonnenen um 1). 
+[*] Schwer sein und unbeweglich machen (reduzieren den effektiven Fertigkeitswert, z.B. um 3)
+[*] Fast undurchdringlich sein (Waffen können keinen Schaden verursachen, es sei denn sie sind Rüstungsbrechend (durchdringen Rüstungen))
+
+Ben Hahl hat ein anderes System entwickelt, bei dem Waffen gegen manche Arten von Waffen besser und gegen andere schlechter sind: [url=http://1w6.org/forum/allgemeines/regeln-welten-ideen/2012-06-12-reka-realistische-k-mpfe-549]ReKa[/url] → [i]weil die Waffen des Altertums und Mittelalters einem ausgeklügelten Schere-Stein-Papier Prinzip folgen. Eine ungewöhnliche Waffe (Rabenschnabel) ist nicht "cool" oder "individualistisch", sondern ein Werkzeug für ungewöhnliche Situationen (Ritter in Harnischen). [/i]
+
+Meine persönliche Erfahrung ist, dass ein paar wenige aber effektive Möglichkeiten am ehesten funktionieren:
+
+[*] Risiko, um mehr Schaden zu verursachen (Finten, die beim Fehlschlag dem Gegner Vorteile geben - oder bei 1w6 einfach Mali, die in mehr Schaden umgesetzt werden, wenn der Angriff gelingt, weil bei Misslingen der Gegner trifft).
+[*] Reine Verteidigung, um Zeit schinden zu können.
+[*] Überzahl gibt Boni - wenn die Charaktere sich so positionieren können.
+[*] Umgebungseffekte (beengte Situation für lange Waffen, von oben angreifen, ...).
+
+Das erste ist dabei teils schon zu komplex (wird bei uns wenig genutzt). Wenn es als „gezielte Angriffe“ umschrieben wird, klappt es eher: Ziel auf Arme, Beine, Kopf → jeweils Mali, aber Sondereffekte, wenn es klappt. Das wird erfahrungsgemäß gerne verwendet.
+
+Ansonsten gäbe es als Taktik die Möglichkeit, dass gegen bestimmte Gegner ein bestimmter Charakter am Besten ist. Damit hat dann jeder Char eine Rolle. World of Warcraft scheint das gut umzusetzen. Für das Rollenspiel wäre es:
+
+[*] Gut gegen viele schwache Gegner (Rüstung + Schwungwaffe)
+[*] Gut gegen stark Gerüstete (Rabenschnabel?)
+[*] Gut gegen Fernkämpfer (Schild?)
+[*] …
+
+Grundlegend würde ich also erst die Gegner entwerfen, dann überlegen, wie ich sie in Kategorien einteilen kann und diesen Kategorien dann Charakterklassen zuweisen. Aus der Zuweisung kann ich dann das Taktiksystem entwickeln.
+
+------
+
+[quote author=Voiata link=topic=77563.msg1601572#msg1601572 date=1349923287]
+Den Spielern vor Augen halten, dass das Ergebnis einer sozialen Probe genauso zu akzeptieren ist, wie das Ergebnis eines Angriffes ist eine solide Basis.
+[/quote]
+Das finde ich unnötig konfrontativ. Mir fehlt die Frage, warum denn Spieler die Ergebnisse sozialer Proben nicht akzeptieren.
+
+Und ich denke, da gibt es einige Gründe - zum Beispiel, dass damit die Regeln in einen Bereich eingreifen, der traditionell dem Spieler gehört: Die Darstellung des Charakters und dessen Entscheidungen.
+
+Und im Gegensatz zum Kampfsystem gibt es keine klaren Regelungen, wann denn welche Effekte auftreten können. 
+
+Wie gut muss jemand anders würfeln, um das Grundkonzept meines Charakters zu brechen (~verkrüppelt)? Wo steht eigentlich, was das Grundkonzept ist? Wie gut muss er würfeln, um einen ehrenhaften Charakter dazu zu bringen, seine Freunde zu verraten? Und wie kann ich meinen Charakter dagegen schützen (welche Werte muss ich haben? ~welche Rüstung und welchen Paradewert brauche ich?).
+
+Wenn all das festgelegt wäre, würde es meiner Ansicht nach Spielern viel einfacher fallen, soziale Proben als feste Entscheidungen zu akzeptieren. Aber ich selbst habe es in den letzten Jahren nicht gewagt, meine groben Ideen dazu wirklich in ein System umzusetzen, weil ich das Gefühl hatte, dass ich die Thematik nicht ausreichend erfasse, um ein wirklich gutes System zu entwickeln. Immerhin muss ich dafür die soziale Beeinflussbarkeit von Menschen quantifizieren… 
+
+
+------
+
+Steam Fantasy: Ein Siedlertrek, Zugechsen, Magiegestützte Dampfmaschinen, Händler und die Gefahren der neuen Lande.
+
+
+------
+
+## Nebeneffekte (NEff)
+
+Trefferzonen + Bewegung aus den Würfelwerten der Kampfwürfe:
+
+- Angriffswurf: Trefferzone: -3: Beine, -1: Rumpf, 2: Arme, 4: Kopf
+- Verteidigungswurf: Bewegung: -3: Nach unten, -1: Nach hinten, 2: Zur Seite, 4: Nach vorne
+
+Der Verteidiger kann entscheiden, die Bewegung zu verweigern, erhält dann aber einen Malus von 3 auf die nächste Handlung.
+
+Vorteil: Vollständige Würfelinformation nutzen: Relativwert zum Gegner/Mindestwurf, Absolutwert, Augenzahl.
+
+Verallgemeinert:
+
+- Aktiver Wurf: Konkretisierung: -3: langfristige/indirekte Wirkung, -1: mittel, 2: mittel, 4: kurzfristige/direkte Wirkung
+- Passiver Wurf: Nebeneffekt: -3: Behindert, -1: Treibt, 2: Riskant, 4: Kein Rückzug
+
+
+Oder noch allgemeiner: Gerade = direkt praktisch: Gut für den Gewinner. Ungerade = indirekt parktisch: Schlecht für den Verliere. Absolutwert: Stärke des Effektes.
+
+------
+
+(aus tanelorn: http://tanelorn.net/index.php/topic,77974.msg1610214.html#msg1610214 )
+
+> Die Figuren in einem Buch tun manchmal Dinge von selber, der Autor schreibt sie nur nieder ohne drüber nachzudenken. 
+Das wollte ich auch gerade schreiben :)
+
+Ein Autor muss manchmal die Geschichte ändern, damit seine Figuren tun, was notwendig ist - und manchmal auch die Geschichte ändern, weil die Figuren nicht wollen.
+
+Vielleicht sind das Konstrukte, aber macht sie das weniger real? Was ist meine eigene Persönlichkeit anderes als ein Konstrukt meiner Erziehung, meiner sozialen Prägung und meiner eigenen Arbeit an meiner Psyche?
+
+Was unterscheidet mein eigenes Selbst von dem meines Charakters - abgesehen davon, dass mein eigenes Selbst viel mehr Zeit hatte, sich zu festigen?
+
+Aber auch ich kann gegen einige meiner Überzeugungen handeln, wenn ich es aus irgendwelchen Gründen für das Beste halte (logischerweise nicht gegen alle, denn welchen Grund sollte ich haben gegen alles zu handeln, das mir einen Grund gibt zu handeln?).
+
+------
+
+um jetzt mal von SEUCOR wegzukommen, das offensichtlich keinen Konsens ermöglicht, und um auch kein erfundenes System zu nutzen:
+
+in 1w6 haben wir ein ein-wurf-system. wir nutzen es für kämpfe, denen wir 
+keinen fokus geben wollen. 
+
+Funktionsweise: 
+
+- es gibt nur zweikämpfe. größere kämpfe werden in eine reihe von zweikämpfen eingeteilt.
+- beide beteiligten würfeln Kampffertigkeit ±W6. wer besser würfelt gewinnt. 
+- der Gewinner erhält 3 Wunden abzüglich einer je 3 Punkte Differenz zwischen den Ergebnissen.
+- der Verlierer wird kampfunfähig und erhält 3 Wunden zuzüglich einer je 3 Punkte Differenz zwischen den Ergebnissen.
+- Taktische Möglichkeiten: 
+    * vorsichtig: malus von 3, dafür keine Wunden, wenn der Char gewinnt und nur 1 pro 3 Punkten Differenz, wenn er verliert.
+    * um Leben und Tod: Bonus von 6, aber wenn er verliert ist er nicht nur kampfunfähig, sondern tot.
+    * reine Flucht: Bonus von 6, aber der Gegner erhält keine Wunden. Gewinnen heißt erfolgreich fliehen.
+
+Dazu kommen noch Waffenboni: Fernkampf vs. Nahkampf +1 bis +9 je nach Anfangsabstand, deutlich stärkere Waffe (+3), deutlich stärkere Rüstung (+3), Gegner unbewaffnet (+3) und Malus bis 6 für langsame Waffen.
+
+Wir verwenden das System selten weil es deutlich langweiliger ist als das komplexere System, aber es funktioniert - und es ist definitiv ein Rollenspiel-Kampfsystem.
+
+
+------
+
+Würfelinformation vollständig nutzen
+
+*Wird die durch Würfel generierte Information vollständig verwendet? Keine Ergebnisse wegwerfen!*
+
+Ich habe letztens endlich Unknown Armies gelesen und war sehr beeindruckt davon, wie viele Informationen sie aus jedem Würfelwurf holen. 
+
+Auf den ersten Blick sieht es aus wie ein typisches W100 Unterwürfelsystem. Wenn der erwürfelte Wert unter dem eigenen Wert liegt, gelingt die Probe. Oft hört hier die Nutzung der Ergebnisse auf. UA geht allerdings viel weiter. Sobald klar ist, dass eine Probe gelingt, gibt der Absolutwert des Wurfes an, wie stark der Effekt ist. Beispiel: Ich habe einen Wert von 60 und würfele eine 40. Damit weiß ich erstens, dass ich den Wurf geschafft habe, und zweitens, dass ich einen Effekt von 40 bewirke, also z.B. 40 Schaden. Als dritten Schritt fügen sie hinzu, dass bei Würfen mit geringem Effekt nicht der Absolutwert des W00 gilt, sondern die addierten Werte der W10. UA erkennt also an, dass ein W100 in Wirklichkeit zwei W10 sind und nutzt diese Information. Wenn der Angriff z.B. ein waffenloser Nahkampfangriff war, ist meine 40 nicht ein Effekt von 40, sondern von 4+0, also 4. Und abschließend hat ein Pasch Sondereffekte: Bei gelungener Probe ist es ein kritischer Treffer, bei misslungener ein Patzer. 
+
+UA nimmt also alle Informationen aus dem Würfelwurf auf, um die Auswirkung einer Handlung zu beschreiben.
+
+## Eine Eröffnung! Warum?
+
+Wenn das so aufgeschrieben steht wirkt es völlig logisch: Wenn eine Spielerin würfelt, sollte ein Rollenspiel alle Informationen aus diesem Wurf nutzen. Schließlich ist die Information schon da. Ich habe mich also gefragt, warum UA für mich so eine Eröffnung war. Ein Blick in die Anfänge meiner Rollenspielsozialisation brachte schnell die Antworrt: DSA tut das nicht. Im Gegenteil.
+
+In DSA braucht eine Fertigkeitsprobe 3 Würfe: Eine pro Eigenschaft. Von diesen Würfen werden allerdings nur die Relativwerte behalten. Würfe, die über dem Eigencshaftswert liegen, können ausgeglichen werden, indem der Charakter seine Eigenschaft virtuell mit Fertigkeitspunkten erhöht. Die Absolutwerte sind allerdings egal. Ob ich jetzt Eigenschaften den Werten 8, 8 und 8 habe und 7, 5 und 3 werfe oder 18, 18 und 18 habe und 17, 15 und 13 werfe ist egal. Der einzige Punkt, an dem die Absolutwerte hineinspielen sind automatische und kritische Erfolge. Wenn 2 oder 3 einsen gewürfelt werden, gelingt die Probe immer. Außerdem sind die übrig bleibenden Fertigkeitspunkte meistens egal (außer bei Wettstreiten). Das gleiche gilt im Kampf: Es wird einmal gewürfelt und die einzigen Möglichen Ergebnisse sind „kritischer Erfolg“, „geschafft“, „nicht geschafft“ und „Patzer“, obwohl die Würfelergebnisse viel detailliertere Informationen bieten könnten.
+
+Das gleiche gilt für Shadowrun, WoD, usw. Das einzige mir vor UA bekannte Rollenspiel, das ebenso die vollen Würfel-Informationen nutzt, ist Dungeonslayers. Und das ist weit jünger als UA und hat eine viel weniger komplexe Würfelmechanik: Einfach nur W20 unterwürfeln.
+
+## Würfelinformation in 1w6
+
+Die logische nächste Frage war für mich: Machen wir das bei 1w6 auch? Nutzt 1w6 wirklich die gesamten Würfelinformationen?
+
+* Erstens nutzt es einen Relativwert: Charakterwert ± W6 gegen Mindestwurf oder Ergebnis eines anderen Charakters. Das war von Anfang an da.
+
+* Zweitens nutzt es den Absolutwert: Charakterwert ± W6, allerdings bis zum [Erschöpfungsmodul (ErRe)](/deutsch/module/erschoepfungsregeln-erre) nur als Qualitätsmaßstab ohne regeltechnische Bedeutung. Wenn das Erschöpfungsmodul genutzt wird, legt der Absolutwert bei jeder Probe fest, ob der Charakter seiner Erschöpfung erliegt. (Die Regeln des Erschöpfungsmoduls habe ich aus den Überlegungen zur Würfelinformation abgeleitet, dieser Artikel ist also nicht nur von akademischem Interesse)
+
+* Drittens nutzt es die Augenzahl, allerdings im Grundsystem mit kritischen Erfolgen und Patzern (Modul [Krit](/deutsch/module/kritische-erfolge-und-patzer-krit)) nur mit der Frage „ist es eine 6 oder 5“. 3, 1, 2 und 4 wurden verworfen. Um das aufzulösen, bastle ich an Nebeneffekten: Trefferzonen, Bewegung u.ä. als Folge der Probe. In Wettstreiten mit Unterschiedlicher Bedeutung der Augenzahl von Gewinner und Verlierer.
+
+Und damit werden alle Würfelinformationen genutzt.
+
+## Grundlegend
+
+Dieser Text wäre meiner Ansicht nach nicht vollständig, ohne die Frage der Würfelinformation zu verallgemeinern. Für jegliche Zufallssysteme gilt:
+
+> Pro Wert, der in einen Wurf eingeht, bietet das System eine Art der Information.
+
+* Wird nur ein Würfel genutzt, ohne Charakterwerte und Mindestwürfe, dann gibt es nur eine Art der Information: Die geworfene Augenzahl. Beispiel: „Gehe W6 Felder vorwärts“
+
+* Werden Spielkarten genutzt, gibt es nur eine Art der Information: Die Karte. Da Karten selbst mehrere Arten der Information vereinen, kann diese Information vielfältig Interpretiert werden, so dass aus 32 Karten übersichtliche 4x8 Ergebnisse werden (2 Arten).
+
+* Wird einen Würfel mit einem Mindestwurf/Höcstwurf genutzt, gibt es 2 Arten der Information, die mit einem Wurf generiert werden können: Die Augenzahl und den Vergleich mit dem Mindestwurf. Beispiel: „Wenn du höchstens 5 würfelst, gehe die gewürfelte Anzahl Felder vorwärts. Sonst nimm die Ereigniskarte mit dem Zahlenwert Augenzahl minus Höchstwert“.
+
+* Bei einem Würfel, einem Charakterwert und einem Mindestwurf gibt es 3 Arten der Information durch den Wurf: Augenzahl, Charakterwert-Augenzahl, Mindestwurf-Augenzahl. (Die Kombination Charakterwert-Mindestwurf wird nicht durch den Wurf generiert sondern ist konstant). 1w6 nutzt statt der Kombination Mindestwurf-Augenzahl meistens die indirekte Kombination Charakterwert-Mindestwurf-Augenzahl. Auf diese Art wird die Interaktion des Würfels mit dem Mindestwurf abgebildet, ohne das Ergebnis der Rechnung Charakterwert-Augenzahl verwerfen zu müssen. Die einzige Ausnahme ist die Null-Probe in den Flyerbüchern, um festzustellen, ob ein Charakter Ohnmächtig wird.
+
+* Bei zwei Würfeln gibt es (mindestens) 5 leicht zu erhaltende Arten der Information: 2x absolut (Augen 1, Augen 2), 3x kombiniert (1±2, 10·1 + 2, 1·2). 
+
+* Wenn wir 2 Würfel und Charakterwerte nutzen, haben wir pro Würfelinformation zusätzlich die kombinierte Information aus Würfeln und Charakterwerten, also schon alleine 10 verschiedene Arten von Informationen. Die wir dann auf elegante Art in Handlungsrelevante Ergebnisse umsetzen müssten, um alle Würfelinformationen zu nutzen. Und das ist schwer, ohne gekünstelt zu wirken. Unknown Armies nutzt die 4 davon, die am einfachsten berechnet werden können: Unter dem Wert? 10·1+2, 1+2 und Pasch?. Eine weitere leicht zu erhaltende Information wäre „10er-Stelle unter 10% des Wertes?“. Ich bin mir nicht mehr sicher, ob UA das für automatische Erfolge o.ä. nutzt.
+
+* Wenn wir 5 Würfel haben, gibt es eigentlich eine fast unüberschaubare Anzahl Informationsarten. Entsprechend betrachten Poolsysteme die Würfel nicht mehr einzeln und verwenden sie nur noch als bessere Münzen. Dadurch hat jede Art der Information nur noch 2 Werte, so dass die Informationen zusammengefasst werden können, um eine Art der Information mit einer größeren Streuung und einer anderen Verteilung zu erhalten. 5 nicht unterscheidbare Münzen haben nur 6 Zustände: Die Anzahl der Erfolge (Münzen auf Kante werden ignoriert :) ). 5 nicht unterscheidbare 6-seitige Würfel haben 143 unterschiedliche Ergebnisse[^5wuerfel], von denen nur 6 genutzt werden.
+
+[^5wuerfel]: 6^5 = 7776, davon 6222 jeweils 5!-fach (Anzahl Permutationen von 5 unterschiedlichen Zahlen → nur 51  echte Möglichkeiten), 1038 jeweils 4!-fach (43 Möglichkeiten), 174 3!-fach (29), 30 2-fach (15) und 5 1-fach (alle Zahlen gleich). Insgesamt gibt es also 143 mögliche Ergebnisse — keine Gewährleistung für das Ergebnis, ist noch nicht gegengeprüft
+
+## Dungeonslayers und 1w6
+
+Dungeonslayers hat durch das Unterwürfeln nur 2 Stufen der Würfelinformation, die allerdings feiner aufgeteilt sind als in 1w6. Es hat den Vorteil, dass die Augenzahl des Würfels direkt den Effekt angibt. Dieser Vorteil ist allerdings durch einen Verlust an Skalierbarkeit erkauft, da der Relativwert der Würfelinformation verloren geht (wie nah bin ich an meinem Wert?).
+
+## Tabelle: UA, 1w6, DS
+
+| System | Unknown Armies             | 1w6                       | Dungeonslayers     |
+| Würfel | 2w10                       | 1w6                       | 1w20               |
+| Info 1 | ≤: Treffer?                | Differenz: Schaden        | ≤: Treffer?        |
+| Info 2 | 10·W10+W10: Schaden        | Wert ±W6: Erschöpfung     | Augenzahl: Schaden |
+| Info 3 | W10+W10: Schwacher Schaden | Augenzahl: Nebenwirkungen | -                  |
+| Info 4 | Pasch?: Sondereffekte      | -                         | -                  |
+| Info 5 | ?                          | -                         | -                  |
+| …      | …                          | -                         | -                  |
+
+## Fazit
+
+Ein Rollenspiel, das ohne Notwendigkeit Würfelinformationen wegwirft, nutzt von vorneherein einen zu komplexen Würfelmechanismus für die Aufgabe, die die Regeln in dem Spiel haben, oder es bläht die mit Regeln verbrachte Zeit unnötig auf. Deswegen sollten alle Rollenspielsysteme alle Würfelinformationen nutzen, die praktikabel zu erhalten sind. (Es sei denn, das unpraktische System hat andere Vorteile - z.B. „viele Würfel rollen ist cooler als viele Münzen werfen!“)
+
+Ein System, das die vollen Würfelinformationen nutzt, benötigt weniger Würfelaufwand für die gleiche Menge an generierten Informationen. Und darin sehe ich eine Art der Eleganz: Nutze das Würfelsystem, das als einfach zu erhaltende Informationsarten all die Informationen bietet, die du brauchst.
+
+Und wenn du dich für ein Würfelsystem entschieden hast: Suche Möglichkeiten, alle Informationen zu nutzen, die es dir bietet. Uns hat das sowohl elegante Erschöpfungsregeln als auch spannende Nebeneffekte gebracht. Wenn du bestimmte Informationen verwerfen willst, begründe, warum du es tust (z.B. weil sie zu umständlich zu erhalten ist).
+
+------
+
+## Heimlichkeit (Heik)
+
+- Ziel erreichen in Schritten
+- Beispiel Stadt: Erst Außenbereiche, dann geschützte Bereiche, dann Ziel.
+- Ein Schritt bedeutet, die Umgebung wechseln
+- Bei Gruppen kann ein Char zurückbleiben, um den anderen Boni zu geben. (vielleicht besser nicht: Gruppentrennung vermeiden)
+- Das Ziel zu erreichen braucht X erfolgreiche Proben.
+- Es gibt Wachen mit einem Wachsamkeitswert. Er fängt bei einem Grundwert an und wird bei jeder Probe höher. Würfelt irgendein Charakter bei irgendeiner Probe niedriger als diesen Wert, taucht eine Wache auf und muss umgangen werden: Heimlichkeitsprobe.
+- Einen Schritt machen verlangt eine Probe gegen einen Mindestwurf. Bei Misserfolg wird kommt der Char nicht weiter und der Wachsamkeitswert der Wachen erhöht sich um 3.
+- Wann immer ein Schritt gelingt, findet sich der Charakter in einem Bereich wieder, der durch die Augenzahl seines Würfels gegeben wird: 3=offenes Gelände (Heimlichkeit gegen Wachen -6), 1=Deckung, 2=Tarnungs- oder Ablenkungsmöglichkeit (z.B. Verkleidung. Gibt Boni für spätere Heimlichkeitsproben gegen Wachen), 4=Versteck (kostet Zeit, kann die Wachsamkeit wieder auf den Grundwert senken).
+- Charaktere können sich in einem Bereich bewegen und entweder versuchen Boni für die Probe zum Wechseln zu generieren (erfolgreiche Proben auf passende Fertigkeiten geben 1 Punkt Bonus pro Plus und zusätzlich einen weiteren Punkt je 3 Punkte, um die ein Mindestwurf übertroffen wird) oder Alternativwege suchen (Heimlichkeitsprobe). Jede einzelne Probe erhöht allerdings die Wachsamkeit der Wachen um 1.
+- Die Mindestwürfe für die Wechselprobe steigen je tiefer man kommt. 
+- Die grundlegende Wachsamkeit der Wachen kann auch steigen.
+
+Ablauf:
+
+- Situation einschätzen: Char würfelt etwas passendes (Leute befragen, Ortskenntnis, …) und die SL gibt je nach Ergebnis eine grobe oder detaillierte Einschätzung der Situation. Faustregel: ≥9: Anzahl Schritte, ≥12: Durchschnittliche Wachsamkeit, ≥15: Die Mindestwürfe für den Übergang, ≥18: Die genauen Startwerte der Wachsamkeit. Für je 3 weitere Punkte über 18 einen Bonus von 1 auf alle Würfe zum Wechseln und zum verbergen vor Wachen.
+- Hineinkommen: Für den ersten Bereich würfeln. Misslingen erhöht die Wachsamkeit, hat aber keine anderen negativen Folgen. Etwas Wartezeit senkt die Wachsamkeit wieder.
+- Für jeden Schritt: Boni erarbeiten. Einen Schritt vorwärts. Bei Misslingen nochmal Boni erarbeiten oder aufgeben (=Flucht, gelingt immer, wenn keine Wache getroffen wurde). Für jede Probe steigt die Wachsamkeit.
+- Falls ein Würfelwert unter der Wachsamkeit liegt, kreuzt eine Wache den Pfad. Je nach Augenzahl bei dem Wurf ist sie ein Beobachter (3, kein vorwärtskommen, keine Boni, Heimlichkeit gegen Wache um nicht gesehen zu werden), eine Patroullie (1, eine weitere Probe möglich: Vorbeischleichen, um die Wachsamkeit um 3 zu senken, missslingen erhöht die Wachsamkeit um 3), passiv (2, kann ohne Probe umgangen werden, um doch die Boni zu erhalten und die Wachsamkeit nicht zu erhöhen) oder unaufmerksam (4, kann mit einer Probe ausgeschaltet werden, um die Wachsamkeit in diesem Bereich wieder auf den Startwert zu senken. Misslingen bedeutet Alarm).
+
+Beispiel:
+
+*Niara versucht in ein Militärlager einzudringen, um dessen Leiter zu sprechen. Die SL sagt ihr, dass das Lager recht klein ist, so dass sie nur an die Peripherie kommen muss, dann die Wohnzelte umgehen und am Ende in das Zelt des Anführers eindringen muss. Niara würfelt auf Geländekunde und erhält eine 16. Die SL sagt ihr, dass die Mindestwürfe 9 (keine Wachfeuer), 12 (recht aktive Wachen) und 18 (Wachen vor dem Zelt) sind. Außerdem dass die Wachen mit einer durchschnittlichen Aufmerksamkeit von 9 recht aktiv sind. Wass Niara nicht weiß ist, wie aufmerksam die Wachen in den einzelnen Bereichen sind. Für die Peripherie sieht Niara keine Probleme. Sie würfelt auf „ungesehen bewegen“ (Effektivwert 14) und kommt mit einer gewürfelten 2 auf 16, kann also problemlos in die Peripherie eindringen. Die Augenzahl 2 zeigt außerdem, dass sie die Möglichkeit sieht, sich eine Tarnung zuzulegen. Die SL sagt ihr, dass eine Zeltbahn offen steht und sie dahinter eine Lagerstätte sieht - mit der Kleidung eines Soldaten und Frauenkleidung daneben. Niara entscheidet sich, die Chance wahrzunehmen, schleicht in das Zelt und wirft sich die Frauenkleidung über - offensichtlich die Gewandung einer Lagerdirne. Ihr Wurf auf ihren Beruf „dunkle Botin“ (12) gelingt mit 14 (gewürfelt 2), so dass spätere Wachen mindestens 14 würfeln müssen, um sie als Eindringling zu erkennen. Außerdem ist 14 unter 9: Noch taucht keine Wache auf. Die SL erhöht nun die Aufmerksamkeit der Wachen um 1 auf 10 und Niara sieht sich nach weiteren Wegen um. Die erneut gewürfelte 2 gibt ihr erneut die Möglichkeit der Tarnung - aber auch der Ablenkung. Da Niara bereits getarnt ist, beschreibt die SL ein Feuerbecken neben dem Zelt, um das einige Wachen stehen. Niara wirft aus dem Schatten einen Stein gegen einen der Trinkbecher - und würfelt wieder auf „dunkle Botin“. Diesmal würfelt sie eine 1 und erhält damit 11. Da die SL die Idee für vielversprechend hält und den Becher als leicht zu treffen ansieht, ist der Mindestwurf nur 9. Der Stein trifft den Trinkbecher, die Wachen geraten in Streit, die Aufmerksamkeit steigt um 1 auf 11 und Niara erhält einen Bonus von 3 auf die Probe zum Übergang zu den Wohnzelte. Im nächsten Schritt entscheidet Niara, das Risiko einzugehen und würfelt erneut auf „dunkle Botin“. Mit einer 3 kommt sie nur auf 9, doch der Bonus von 3 bringt sie auf den Mindestwurf von 12. Allerdings ist sie unter der Wachsamkeit. Sie schafft es gerade zwischen zwei Wohnzelten hindurchzuschlüpfen, als sie in der Peripherie Tumult hört. Anscheinend wurde die fehlende Kleidung entdeckt. Hätte sie den Übergang nicht geschafft, wäre sie jetzt mit Wachen konfrontiert. Die geworfene 3 sagt ihr außerdem, dass der nächste Schritt sie in einen offenen Bereich führen wird. Zeit, die Tarnung loszuwerden…*
+
+(und so weiter)
