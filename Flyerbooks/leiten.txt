@@ -4,7 +4,7 @@ Dann passt dieses Flyerbuch.
 Es enthält Kurzregeln, dazu für die Spielleitung (SL) ein Grundszenario und für die Spieler vorgefertigte Charakterkarten. Auf weiteren Flyern sind Zusatzszenarien für längere Runden.  
 Das Flyerbuch ist ein Instant-Rollenspiel für Cons und kurze Runden und ist für eine erfahrene SL und 2-5 anfangende bis erfahrene Spieler gedacht. Charakterkarten und Szenarien gibt es unter flyer.1w6.org (freie PDFs).
 ## Ablauf 
-Die SL liest diesen Regeltext und das Grundszenario, während die Spieler Charakterkarten tauschen und die Regeln lesen. Wenn Neulinge dabei sind, erklären die anderen ihnen kurz, was Rollenspiel bedeutet. Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen. Die SL liest die Szenarien, während die Spieler für jeden Beteiligten einen Würfel (W6) und etwas zu trinken besorgen.
+Die SL liest diesen Regeltext und das Grundszenario, während jeder Spieler eine Charakterkarte wählt und die Regeln liest. Wenn Neulinge dabei sind, erklären die anderen ihnen kurz, was Rollenspiel bedeutet. Dann legen die Spieler die Zusatzszenarien dazu, die sie spielen wollen. Die SL liest die Szenarien, während die Spieler für jeden Beteiligten einen Würfel (W6) besorgen.
 ## Regeln 
 Als Regelwerk verwenden Flyerbücher das freie 1w6-System. Die Charaktere haben eine Reihe Eigenschaften, Berufe, Fertigkeiten und Merkmale, die sie von der Masse abheben. Berufe und Fertigkeiten haben einen Zahlenwert (6-18). Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche).  
 *Beispiele: Geschick, Intelligenz oder Stolz sind Eigenschaften. Tischlerin ist ein Beruf, Waffenlos eine Fertigkeit. Merkmale wären Reich (+) und Süchtig (-).*
