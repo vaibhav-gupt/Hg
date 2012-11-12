@@ -2633,3 +2633,44 @@ Beispiel:
 *Niara versucht in ein Militärlager einzudringen, um dessen Leiter zu sprechen. Die SL sagt ihr, dass das Lager recht klein ist, so dass sie nur an die Peripherie kommen muss, dann die Wohnzelte umgehen und am Ende in das Zelt des Anführers eindringen muss. Niara würfelt auf Geländekunde und erhält eine 16. Die SL sagt ihr, dass die Mindestwürfe 9 (keine Wachfeuer), 12 (recht aktive Wachen) und 18 (Wachen vor dem Zelt) sind. Außerdem dass die Wachen mit einer durchschnittlichen Aufmerksamkeit von 9 recht aktiv sind. Wass Niara nicht weiß ist, wie aufmerksam die Wachen in den einzelnen Bereichen sind. Für die Peripherie sieht Niara keine Probleme. Sie würfelt auf „ungesehen bewegen“ (Effektivwert 14) und kommt mit einer gewürfelten 2 auf 16, kann also problemlos in die Peripherie eindringen. Die Augenzahl 2 zeigt außerdem, dass sie die Möglichkeit sieht, sich eine Tarnung zuzulegen. Die SL sagt ihr, dass eine Zeltbahn offen steht und sie dahinter eine Lagerstätte sieht - mit der Kleidung eines Soldaten und Frauenkleidung daneben. Niara entscheidet sich, die Chance wahrzunehmen, schleicht in das Zelt und wirft sich die Frauenkleidung über - offensichtlich die Gewandung einer Lagerdirne. Ihr Wurf auf ihren Beruf „dunkle Botin“ (12) gelingt mit 14 (gewürfelt 2), so dass spätere Wachen mindestens 14 würfeln müssen, um sie als Eindringling zu erkennen. Außerdem ist 14 unter 9: Noch taucht keine Wache auf. Die SL erhöht nun die Aufmerksamkeit der Wachen um 1 auf 10 und Niara sieht sich nach weiteren Wegen um. Die erneut gewürfelte 2 gibt ihr erneut die Möglichkeit der Tarnung - aber auch der Ablenkung. Da Niara bereits getarnt ist, beschreibt die SL ein Feuerbecken neben dem Zelt, um das einige Wachen stehen. Niara wirft aus dem Schatten einen Stein gegen einen der Trinkbecher - und würfelt wieder auf „dunkle Botin“. Diesmal würfelt sie eine 1 und erhält damit 11. Da die SL die Idee für vielversprechend hält und den Becher als leicht zu treffen ansieht, ist der Mindestwurf nur 9. Der Stein trifft den Trinkbecher, die Wachen geraten in Streit, die Aufmerksamkeit steigt um 1 auf 11 und Niara erhält einen Bonus von 3 auf die Probe zum Übergang zu den Wohnzelte. Im nächsten Schritt entscheidet Niara, das Risiko einzugehen und würfelt erneut auf „dunkle Botin“. Mit einer 3 kommt sie nur auf 9, doch der Bonus von 3 bringt sie auf den Mindestwurf von 12. Allerdings ist sie unter der Wachsamkeit. Sie schafft es gerade zwischen zwei Wohnzelten hindurchzuschlüpfen, als sie in der Peripherie Tumult hört. Anscheinend wurde die fehlende Kleidung entdeckt. Hätte sie den Übergang nicht geschafft, wäre sie jetzt mit Wachen konfrontiert. Die geworfene 3 sagt ihr außerdem, dass der nächste Schritt sie in einen offenen Bereich führen wird. Zeit, die Tarnung loszuwerden…*
 
 (und so weiter)
+
+------
+
+(von http://tanelorn.net/index.php/topic,78267.msg1617190.html#msg1617190 )
+
+Zitat von: Kazuki Fuse am Heute um 18:56 
+> Was heißt das für dich in Sachen Regelwerk?
+> Niedriger Detailgrad und/oder viel Freiraum in Sachen Erzählung und Begründung?
+
+Das hängt von der Welt ab. Ich weiß: Blöde Antwort, weil total schwammig. Ist aber so.
+
+Explizit: 
+
+- Für eine Low-Power Magie-Schüler-Runde: Hoher Detailgrad für Fähigkeiten der SCs und klare Regelungen, was sie brauchen, um sichere Effekte zu erzielen (damit sie ihren Entwicklungsweg planen können). Allerdings niedriger Detailgrad für unerwartete Effekte (Plot-Zeug, Patzer, kritische Erfolge, …). Zumindest wenn Magie berechenbar sein soll und die Lehrstunden aus dem Training von Techniken bestehen. Wenn Magie unberechenbar sein soll und die Lehrstunden aus viel Selbsterkenntnis und intuitivem Verstehen aufgebaut sind, lieber niedriger Detailgrad und viel Erzählung.
+
+- Für eine High-Power Superhelden-Runde: Niedriger Detailgrad und ganz viel Raum zum Erzählen. Da ist nämlich auch die Welt viel weniger vorhersehbar und es kann aus jeder Ecke ein neuer Superschurke kommen. Und die Helden nutzen jedes mal eine andere Technik.
+
+- Für eine Fairy-Tail Anime-Welt viel Freiraum zum Erzählen, der aber immer in Grundüberzeugungen oder der Geschichte der Charaktere begründet sein muss. Vielleicht sogar mit expliziten „du bist noch nicht in der Sieg-Phase, also kriegst du jetzt erst noch auf die Fresse“-Regeln, die die Charaktere nutzen können, um die Grundlagen für ihren Sieg einzuführen. Da wäre die Regel: Vorteile gibt dir nur, was du vorher motiviert hast.
+
+------
+
+Rollenspiele brauchen Regeln, um eine gemeinsame Grundlage für die Vorstellung und damit für Handlungen zu haben.
+
+Ich habe vor einiger Zeit mit einer Bekannten, ihrem Sohn und meiner Frau gemeinsam eine Geschichte gesponnen. Das lief lange Zeit sehr gut: Wir haben einen Plot gewoben und einer nach dem Anderen erzählt. Aber irgendwann kam ein Punkt, an dem der Sohn meiner Bekannten angefangen hat, immer neue Fakten einzubringen und die Geschichte immer weiter zu drehen, so dass die Plotfäden, die wir anderen eingebracht hatten, verdrängt oder trivial gelöst wurden.
+
+An diesem Punkt hätten wir aus dem freien Fluss der Kreativität herausgehen, Charaktere erstellen und ein Regelwerk verwenden sollen. Damit wäre klar gewesen, wer was erzählen kann, und wir hätten die Wahrscheinlichkeit reduziert, dass wir uns gegenseitig ungewollt die Ideen zerstören.
+
+Die Erzählung hätte Struktur bekommen - und wäre ein Rollenspiel geworden.
+
+Klar gibt es Leute, die das ohne explizite Regeln können. Die befolgen dann allerdings intuitiv implizite Regeln und haben ein gemeinsames Verständnis der Welt.
+
+Beispiel: In einem klassischen Krimi wirft der Hauptdarsteller nicht plötzlich mit Blitzen um sich, und in klassischer Fantasy rennt niemand mit einem Sturmgewehr rum.
+
+Allgemeiner gefasst: Regeln sind festgeschriebene Konventionen. Wenn gemeinsam Regeln gewählt werden, heißt das, dass alle Beteiligten die Konventionen der Regeln akzeptieren - und auf sie vertrauen können.
+
+------ 
+
+Oder man erlaubt nur sehr schmales ausbrechen aus dem Normalbereich: Bei der zweiten 6 wird der Wert nur um 1 erhöht. Bei der dritten wieder.
+
+Und, um das abzurunden (1w6-spezifisch) macht man den Weitsprung nur auf Attribute. Da sind Anfänger und Profi nur 3 Punkte auseinander (12 vs. 15). Dann gibt es zwei Arten von Proben: Einfach (auf Attribute, Grundwert 12) und komplex (auf Fertigkeiten, Grundwert 3). Vielleicht gibt hier die Fertigkeit dem Attribut Boni statt umgekehrt (weil das erlernte weniger wichtig ist).
+
