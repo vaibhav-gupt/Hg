@@ -41,7 +41,7 @@ Annike überlässt die Entscheidung dem Trekk. Sie schätzt, dass die Nagelmache
 *Siedler | Mut: + | Beruf: 9, Spezialität: 12, Kurzschwert oder Speer: 12  | Waffe: Kurzschwert oder Speer (Schaden 3)|  
 *Wache | Selbstbewusst: +, Ausdauernd: + | Dampfbüchse: 12 | Waffe: Dampfbüchse (Schaden: 6, alle 5 Schuss müssen Wasser und Kugeln nachgefüllt werden) |  
 *Vornamen: Agia, Edna, Gibbar, Hel, Ira, Kenan, Lydia, Sem.*  
-*Nachnamen, Handwerker: Pfannenflicker, Fleischer, Hufschmied,*  
+*Nachnamen, Handwerker: Pfannenflicker, Fleischer, Hufschmied.*  
 *Nachnamen, Siedler oder Händler: aus Zweibrücken, aus Waldmoor, aus Furten, aus Kreuzweg.*	
 ###  Nicht mit uns!
 Eine Meute Katzenmenschen unter der rotscheckigen Shanari hat beschlossen, die Kolonisierung aufzuhalten, um die Stämme und Siedlungen im Landesinneren zu schützen. Sie stellen sich dem Trekk in den Weg. Shanari erklärt freundlich, dass die rasche Kolonisierung das Land ausbluten lässt. Die Siedler sollen umkehren und den Neuen Landen ihren Frieden lassen.
