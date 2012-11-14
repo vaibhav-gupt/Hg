@@ -2697,3 +2697,18 @@ Der letzte Punkt stört mich etwas, aber ich kann ihn verkraften.
 ¹: Das genaue Grundziel war: Gurps mit weniger Taktik + Kompatibiliät mit Fudge. Also ein neues Spielgefühl und dabei so wenige Räder neu erfinden wie möglich :)
 Und Gurps hat mMn die am besten recherchierten Räder im gesamten Rollespielbereich.
 
+------
+
+http://tanelorn.net/index.php/topic,78269.msg1619000.html#msg1619000
+
+[quote]Wenn mir hier ein gutes, deutschsprachiges Modul präsentiert wird, das Weltrekorde im Laufen oder Springen gut umsetzt, nehme ich den Punkt gerne mit auf. Ich sehe momentan noch das Problem, welchen Grenzwert man für das Ergebnis ansetzt. Den aktuellen Weltrekord kann man ja nicht nehmen, der soll ja übertroffen werden. Außerdem muss das Modul natürlich Bezug zu Charakterwerten haben. Und es sollte ernstgemeint sein.[/quote]
+
+Ich habe bisher kaum etwas gesagt, das mit 1w6 nicht möglich wäre. Legendär ist 24+, Neuer Weltrekord ist „höher als der bisher höchste Wurf dabei“. Weltrekorde werden von Legenden aufgestellt, z.B. bei zwei 6-ern (3% der Versuche). Dazu, um es spannender zu machen, noch ein Modifikator für die Tagesform: Der Trainer würfelt und gibt je 3 Punkte über 12 einen weiteren Punkt Bonus. Bei Doping darf der Arzt mitmachen. Vielleicht auch noch der Partner. Ein legendärer Trainer gibt im Durchschnitt 4 Punkte Bonus, ein legendärer Arzt auch. Ich finde, 42 klingt wie ein guter Wert für den aktuellen Weltrekord ohne Doping. 
+
+Wer genauso gut würfelt wie der bisherige Rekordhalter, knackt den Weltrekord um hundertstel von Sekunden.
+Wer besser würfelt, setzt einen neuen Maßstab. Ein Blick auf die [url=http://de.wikipedia.org/wiki/100-Meter-Lauf#Weltrekordentwicklung]Rekordentwicklung beim 100m Lauf der Männer[/url] gibt eine schöne Maßregel: Für jeden Punkt über dem vorherigen Wert darf eine zehntel Sekunde abgezogen werden. 42 entspricht 9.5s.
+
+Ein Rekordversuch ist mit großem Aufwand verbunden und fordert einen hohen Preis vom Körper. Daher darf er nur einmal im Jahr unternommen werden - oder bei einem regulären Wettkampf.
+
+Voilà, da hast du dein ernstgemeintes Modul für Weltrekorde (das ich gerade in meine Ideendatei übernommen habe - danke euch allen für die Anregung! :) )
+
