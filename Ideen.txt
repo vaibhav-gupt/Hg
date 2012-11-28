@@ -2741,3 +2741,34 @@ Das ist das Risiko, wenn nur Durchschnittswerte gerechnet werden und deswegen ei
 
 Im [url=http://tanelorn.net/index.php/topic,78651.msg1625997.html#msg1625997]Nebenthread[/url] habe ich einen Beitrag zum Einfluss des Regelwerks auf das Setting verlinkt, der hier auch passend wirkt: [url=http://1w6.org/blog/drak/2009-05-04-das-regelwerk-beeinflusst-das-setting]Das Regelwerk beeinflusst das Setting[/url] — DSA vs. Shadowrun vs. Gurps vs. 1w6.
 
+------
+
+## Welt-Rekorde mit explodierenden Würfeln (Poolsystem).
+
+http://tanelorn.net/index.php/topic,78269.175.html
+
+[quote author=Gummibär link=topic=78269.msg1626711#msg1626711 date=1354132349]
+Ich denke, sinnvoll einsetzen kann man die Limes-Regelung, wenn es um Rekorde geht. Wenn ich also genau ermitteln will, ob ich jetzt 0,2 s schneller war oder 2 cm weiter gesprungen bin. Ich stelle die These auf, dass diese Regelung für [b]alle[/b] anderen Anwendungszwecke zu umständlich ist, da so kleine Unterschiede dort keinen Mehrwert bringen.
+[/quote]
+…bzw. man eh nicht wissen muss, wie weit man nun genau gekommen ist. Die Regel ist eher umgekehrt nützlich: Welchen Mindestwurf brauche ich, um 8m Sprungweite zu packen?
+
+Mögliche Umsetzung in einem Poolsystem (ich weiche hier für einfache Implementierung mal von meinem Haussystem ab :) ): Grundreichweite = Wert/2 (1-6). Wirf eine Anzahl Würfel gleich deines Wertes und addiere die Hälfte des höchsten Ergebnisses. Falls du dabei eine 6 würfelst, darfst du erneut würfeln. Addiere ein viertel dieses Wurfes. Ist es wieder eine 6, würfel erneut und addiere ein achtel, …
+Hast du nur 1-en, ist das ein Patzer und du stolperst o.ä.
+
+Wer 6 hat (Weltspitze) schafft damit 3m immer. Sehr wahrscheinlich wird er auch mindestens eine 6 haben, kommt also fast immer auf 6 Meter. Danach wird es schwerer. Zwei 6-er bei 6 versuchen ist etwa eine Chance von 1 zu 6. Die Durchschnittsweite für jemanden von Weltspitze ist etwa 7,825m. 
+
+Die maximal erreichbare Sprungweite für jemanden mit Wert 6 ergibt sich aus der geometrischen Reihe unter der Annahme, dass er unendlich viele 6-er würfelt: http://de.wikipedia.org/wiki/Geometrische_Reihe
+
+lim (n→∞) 3 + Σ (3·0.5^k)
+
+= 3 + (3/1-0.5) = 9m
+
+Aktuell liegt der Weltrekord bei 8,95m (Mike Powell, USA, 30.08.1991, Tokio), da wäre also noch etwas Luft nach oben (es darf gerne jemand anders ausrechnen, wie viele 6-er das waren :) ).
+
+Antwort für meine Anfangsfrage (8m): eine 6: 6m, zweite 6: 7,5m, dann eine 4: 8m. Also ist der Mindestwurf für 8m Sprungweite gerade 16, was ein Weitspringer der Weltspitze bei einem Rekordversuch mit einer Wahrscheinlichkeit von etwa 1 zu 12 schafft.
+
+@Eulenspiegel: Ist lange her, dass ich damit gearbeitet habe. Könntest du es gegenprüfen?
+
+Die Regel hat einen Problempunkt: Es ist nicht möglich, genau 6m zu springen, nur entweder 5,5 oder 6,25. Aber das halte ich aus :)
+
+PS: Das hier ist kurz aus dem Ärmel geschüttelt (gut, in etwa einer Stunde geschrieben). Ich bin sicher, es gibt noch andere Möglichkeiten. Vielleicht bastle ich mal was für 1w6… (1/3-tel des Wertes plus Steigerung wie hier könnte klappen).
