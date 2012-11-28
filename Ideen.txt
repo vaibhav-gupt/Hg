@@ -2727,3 +2727,17 @@ Und es ist oft überraschend, welche Handlung den anderen gefallen hat (und es i
 
 Kleiner Nachteil: Sollte ein Spieler etwas können, das den anderen immer am Besten gefällt, könnte das dadurch geschwächt werden. Daher Zusatzregel: Es darf niemals an zwei aufeinanderfolgenden Spielabenden ein sehr ähnlicher Eintrag geschrieben werden.
 
+
+------
+
+Ich verwende logischerweise am Liebsten den [url=http://1w6.org/w6]±W6[/url] (also gerade Zahlen auf den Charakterwert addieren, ungerade abziehen, plus Regel für kritische) :)
+
+Meine Hauptgründe sind, dass damit die Charakterwerte auf der gleichen Skala liegen wie die Schwierigkeiten, dass die Ergebnisse im Bereich von -5 bis +6 linear verteilt sind und einen starken Effekt haben (ein Wurf trifft eine Entscheidung, sonst ist er irrelevant), für extreme Ergebnisse aber eine Glockenkurve bilden, dass es skaliert, also für Charaktere mit beliebiger Stärke auf die gleiche Art funktioniert, dass die Differenz zum Mindestwurf (oder einem anderen Wurf) direkt die Qualität des Ergebnisses angibt und dass nur einen W6 zu werfen sich extrem schnell anfühlt: Selbst wenn viel gewürfelt wird, nimmt das Würfeln nur wenig Zeit ein und die Ergebnisse sind so deutlich, dass die gefühlte Regelzeit im Vergleich zur Beschreibung/Interpretation in der Spielwelt sehr gering ist.
+
+An weiteren Erfahrungen habe ich gemacht, das die Dungeonslayers W20 Unterwürfel+Würfelwert=Qualität-Probe sich sehr direkt anfühlt und dadurch sehr elegant wirkt, wenn keine Skalierung gebraucht wird, dass Gurps mir das Spiel zu wenig phantastisch gemacht hat, weil die Ergebnisse selten vom Durchschnittsergebnis abwichen (deswegen gibt es überhaupt den ±W6), und dass das Poolsystem in Shadowrun 3 ein Gefühl von „boah, bin ich mächtig“ vermittelt, aber auch nur für einen engen Bereich an Charakterstärke gut funktionieren: Zu schwach und die Unterschiede zwischen Charakteren können nicht mehr abgebildet werden, zu stark und der Würfelaufwand wird riesig.
+
+Für WoD-Poolsysteme (Trinity: ein Psioniker-System, Besonderheit: W10 mit MW 8, mehr 1-er als Erfolge = Patzer) habe ich mal die Wahrscheinlichkeiten explizit simuliert, weil sie überhaupt nicht vermittelt haben, was in den Geschichten stand: Die Häufigkeit von Fehlschlägen war für die Macht, die wir haben sollten, viel zu hoch. Die Rechnungen haben dann gezeigt, dass es leicht passiert, dass man eine schlechte Runde erwischt, in der man dann 20% Patzerwahrscheinlichkeit hat. Details: https://bitbucket.org/ArneBab/dicepoolchances/src/5d281f69e7c7f0730a3f5eb02267de5fa3357e21/trinity.py
+Das ist das Risiko, wenn nur Durchschnittswerte gerechnet werden und deswegen ein MW von 8 passend klingt, damit der Werterbereich erweitert werden kann (höhere Charakterwerte, damit die Charaktere mächtiger wirken).
+
+Im [url=http://tanelorn.net/index.php/topic,78651.msg1625997.html#msg1625997]Nebenthread[/url] habe ich einen Beitrag zum Einfluss des Regelwerks auf das Setting verlinkt, der hier auch passend wirkt: [url=http://1w6.org/blog/drak/2009-05-04-das-regelwerk-beeinflusst-das-setting]Das Regelwerk beeinflusst das Setting[/url] — DSA vs. Shadowrun vs. Gurps vs. 1w6.
+
