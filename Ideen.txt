@@ -2712,3 +2712,63 @@ Ein Rekordversuch ist mit großem Aufwand verbunden und fordert einen hohen Prei
 
 Voilà, da hast du dein ernstgemeintes Modul für Weltrekorde (das ich gerade in meine Ideendatei übernommen habe - danke euch allen für die Anregung! :) )
 
+
+
+------
+
+Was ich mache ist stattdessen (wie schonmal gesagt) eine Nachbesprechung, in der zu jedem etwas tolles gesagt wird.
+
+Die Nachbesprechung selbst ist etwas eigentlich nicht tolles (kostet Spielzeit), daher werden dabei Punkte verteilt. Da aber jeder fast in jedem Fall genau einen Punkt bekommt, wird die Belohnung von der Handlung im Spiel entkoppelt und es bleibt nur verbale Rückmeldung.
+
+Was mich auf eine sehr schöne Idee bringt: Nach jeder Runde eine Seite des Heftes der Taten ausfüllen (vielleicht auch auf dem Charakterbogen). Jeder bekommt da einen kurzen Eintrag zu der schönsten Handlung, die er in dieser Runde gemacht hat. Und für den Eintrag gibt es eine Steigerung.
+Den Eintrag machen allerdings die anderen Spieler. Damit ist er effektiv verbale Rückmeldung.
+
+Und es ist oft überraschend, welche Handlung den anderen gefallen hat (und es ist nur eine von sehr vielen), so dass Spieler nicht vorraussehen können, welche Handlung den anderen am Besten gefallen wird.
+
+Kleiner Nachteil: Sollte ein Spieler etwas können, das den anderen immer am Besten gefällt, könnte das dadurch geschwächt werden. Daher Zusatzregel: Es darf niemals an zwei aufeinanderfolgenden Spielabenden ein sehr ähnlicher Eintrag geschrieben werden.
+
+
+------
+
+Ich verwende logischerweise am Liebsten den [url=http://1w6.org/w6]±W6[/url] (also gerade Zahlen auf den Charakterwert addieren, ungerade abziehen, plus Regel für kritische) :)
+
+Meine Hauptgründe sind, dass damit die Charakterwerte auf der gleichen Skala liegen wie die Schwierigkeiten, dass die Ergebnisse im Bereich von -5 bis +6 linear verteilt sind und einen starken Effekt haben (ein Wurf trifft eine Entscheidung, sonst ist er irrelevant), für extreme Ergebnisse aber eine Glockenkurve bilden, dass es skaliert, also für Charaktere mit beliebiger Stärke auf die gleiche Art funktioniert, dass die Differenz zum Mindestwurf (oder einem anderen Wurf) direkt die Qualität des Ergebnisses angibt und dass nur einen W6 zu werfen sich extrem schnell anfühlt: Selbst wenn viel gewürfelt wird, nimmt das Würfeln nur wenig Zeit ein und die Ergebnisse sind so deutlich, dass die gefühlte Regelzeit im Vergleich zur Beschreibung/Interpretation in der Spielwelt sehr gering ist.
+
+An weiteren Erfahrungen habe ich gemacht, das die Dungeonslayers W20 Unterwürfel+Würfelwert=Qualität-Probe sich sehr direkt anfühlt und dadurch sehr elegant wirkt, wenn keine Skalierung gebraucht wird, dass Gurps mir das Spiel zu wenig phantastisch gemacht hat, weil die Ergebnisse selten vom Durchschnittsergebnis abwichen (deswegen gibt es überhaupt den ±W6), und dass das Poolsystem in Shadowrun 3 ein Gefühl von „boah, bin ich mächtig“ vermittelt, aber auch nur für einen engen Bereich an Charakterstärke gut funktionieren: Zu schwach und die Unterschiede zwischen Charakteren können nicht mehr abgebildet werden, zu stark und der Würfelaufwand wird riesig.
+
+Für WoD-Poolsysteme (Trinity: ein Psioniker-System, Besonderheit: W10 mit MW 8, mehr 1-er als Erfolge = Patzer) habe ich mal die Wahrscheinlichkeiten explizit simuliert, weil sie überhaupt nicht vermittelt haben, was in den Geschichten stand: Die Häufigkeit von Fehlschlägen war für die Macht, die wir haben sollten, viel zu hoch. Die Rechnungen haben dann gezeigt, dass es leicht passiert, dass man eine schlechte Runde erwischt, in der man dann 20% Patzerwahrscheinlichkeit hat. Details: https://bitbucket.org/ArneBab/dicepoolchances/src/5d281f69e7c7f0730a3f5eb02267de5fa3357e21/trinity.py
+Das ist das Risiko, wenn nur Durchschnittswerte gerechnet werden und deswegen ein MW von 8 passend klingt, damit der Werterbereich erweitert werden kann (höhere Charakterwerte, damit die Charaktere mächtiger wirken).
+
+Im [url=http://tanelorn.net/index.php/topic,78651.msg1625997.html#msg1625997]Nebenthread[/url] habe ich einen Beitrag zum Einfluss des Regelwerks auf das Setting verlinkt, der hier auch passend wirkt: [url=http://1w6.org/blog/drak/2009-05-04-das-regelwerk-beeinflusst-das-setting]Das Regelwerk beeinflusst das Setting[/url] — DSA vs. Shadowrun vs. Gurps vs. 1w6.
+
+------
+
+## Welt-Rekorde mit explodierenden Würfeln (Poolsystem).
+
+http://tanelorn.net/index.php/topic,78269.175.html
+
+[quote author=Gummibär link=topic=78269.msg1626711#msg1626711 date=1354132349]
+Ich denke, sinnvoll einsetzen kann man die Limes-Regelung, wenn es um Rekorde geht. Wenn ich also genau ermitteln will, ob ich jetzt 0,2 s schneller war oder 2 cm weiter gesprungen bin. Ich stelle die These auf, dass diese Regelung für [b]alle[/b] anderen Anwendungszwecke zu umständlich ist, da so kleine Unterschiede dort keinen Mehrwert bringen.
+[/quote]
+…bzw. man eh nicht wissen muss, wie weit man nun genau gekommen ist. Die Regel ist eher umgekehrt nützlich: Welchen Mindestwurf brauche ich, um 8m Sprungweite zu packen?
+
+Mögliche Umsetzung in einem Poolsystem (ich weiche hier für einfache Implementierung mal von meinem Haussystem ab :) ): Grundreichweite = Wert/2 (1-6). Wirf eine Anzahl Würfel gleich deines Wertes und addiere die Hälfte des höchsten Ergebnisses. Falls du dabei eine 6 würfelst, darfst du erneut würfeln. Addiere ein viertel dieses Wurfes. Ist es wieder eine 6, würfel erneut und addiere ein achtel, …
+Hast du nur 1-en, ist das ein Patzer und du stolperst o.ä.
+
+Wer 6 hat (Weltspitze) schafft damit 3m immer. Sehr wahrscheinlich wird er auch mindestens eine 6 haben, kommt also fast immer auf 6 Meter. Danach wird es schwerer. Zwei 6-er bei 6 versuchen ist etwa eine Chance von 1 zu 6. Die Durchschnittsweite für jemanden von Weltspitze ist etwa 7,825m. 
+
+Die maximal erreichbare Sprungweite für jemanden mit Wert 6 ergibt sich aus der geometrischen Reihe unter der Annahme, dass er unendlich viele 6-er würfelt: http://de.wikipedia.org/wiki/Geometrische_Reihe
+
+lim (n→∞) 3 + Σ (3·0.5^k)
+
+= 3 + (3/1-0.5) = 9m
+
+Aktuell liegt der Weltrekord bei 8,95m (Mike Powell, USA, 30.08.1991, Tokio), da wäre also noch etwas Luft nach oben (es darf gerne jemand anders ausrechnen, wie viele 6-er das waren :) ).
+
+Antwort für meine Anfangsfrage (8m): eine 6: 6m, zweite 6: 7,5m, dann eine 4: 8m. Also ist der Mindestwurf für 8m Sprungweite gerade 16, was ein Weitspringer der Weltspitze bei einem Rekordversuch mit einer Wahrscheinlichkeit von etwa 1 zu 12 schafft.
+
+@Eulenspiegel: Ist lange her, dass ich damit gearbeitet habe. Könntest du es gegenprüfen?
+
+Die Regel hat einen Problempunkt: Es ist nicht möglich, genau 6m zu springen, nur entweder 5,5 oder 6,25. Aber das halte ich aus :)
+
+PS: Das hier ist kurz aus dem Ärmel geschüttelt (gut, in etwa einer Stunde geschrieben). Ich bin sicher, es gibt noch andere Möglichkeiten. Vielleicht bastle ich mal was für 1w6… (1/3-tel des Wertes plus Steigerung wie hier könnte klappen).
