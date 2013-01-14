@@ -65,3 +65,7 @@ Vorstellungen haben, so dass das System auf diesen Vorstellungen aufbauen kann.
 
 Z.B. würden die Flyer problemlos als Zusatzmaterial für einen Film funktionieren: Die Leute kommen aus dem Kino und haben dadurch bereits Ideen für eine 
 Plotstruktur, für Stimmung, für Charaktere, usw. Sie brauchen also nur noch eine möglichst einfache Grundlage, um diese Ideen umzusetzen.
+
+Um noch kurz auf dein Fazit einzugehen: Minimalsysteme haben weniger *eigene* Regeln. Im Idealfall nutzen sie die bereits existierenden Vorstellungen ihrer 
+Spieler, um die notwendigen eigenen Regeln zu minimieren. Dafür müssen sie allerdings so flexibel sein, dass sie in Kombination mit den verschiedensten 
+Vorstellungen jeweils ein gutes Ergebnis liefern.
