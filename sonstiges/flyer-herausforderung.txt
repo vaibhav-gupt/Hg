@@ -1,0 +1,39 @@
+(geschrieben auf http://phoenixbanner.de/flyerbucher-ein-schlankes-regelsystem-zum-sofortlosspielen/ )
+
+Hi Philipp,
+
+Freut mich, dass die Flyerbücher dich erreicht haben :)
+
+Aus Testrunden kann ich deinen EIndruck bestätigen, dass die Flyerbücher Improvisationsvermögen brauchen und sich in jeder Runde anders anfühlen; 
+allerdings nicht, dass sie von der SL viel Vorbereitung brauchen.
+
+Als einer der Autoren der Flyer bin ich allerdings nicht sicher, wie repräsentativ meine Spielerfahrung ist. Tests ohne mich kann ich halt schwer machen 
+- falls du eine Testrunde wagen wolltest, würden uns deine Erfahrungen sehr helfen.
+
+Die wirkliche Herausforderung beim Schreiben war für uns¹ nämlich nicht, einen spannenden Klappentext zu schreiben, sondern die Informationen zu 
+identifizieren, die notwendig sind, um die Dynamik einer Situation in Gang zu bringen und zu improvisieren: Zentrale Figuren, aus deren Handlungen sich 
+direkt Dynamik ableiten lässt, eine Grundsituation, die Reaktionen der Spieler provoziert, NSC-Werte, die gleichzeitig Minimal-Beschreibungen liefern 
+(Selbst für Statisten Eigenschaften, Beruf und Fertigkeit, die ein Bild des Archetyps vermitteln und nicht nur zum Würfeln wichtig sind. Beispiel: 
+Wanderarbeiter, Muskeln, [ein handwerk] vs. Wache, Selbstbewusst, Ausdauernd, Dampfbüchse), Namen und Minimalregeln für Situationen, die im Szenario 
+auftauchen. Außerdem vorgefertigte Charaktere, die direkt eine bestimmte Dynamik mitbringen, so dass die SL selbst weniger machen muss (wobei die 
+Beispielcharaktere immernoch der Punkt sind, bei dem ich am wenigsten sicher bin…).
+
+Es ist ein Experiment in Kompression von Informationen: Wie können wir in einem minimalen Text alle Informationen liefern, die im Spiel nötig sind?
+
+Und genau dafür bräuchten wir möglichst viel Spieltests von anderen Runden - idealerweise Runden, die weder Welt noch Spielsystem kennen. Da werden 
+sich nämlich vermutlich noch einige Punkte herauskristallisieren, die die SL jedesmal erfinden musste, obwohl sie für den Fortgang des Abenteuers 
+wichtig sind. Die müssen dann noch eingefügt werden.
+
+Wichtig dabei ist, dass die Flyer nicht selbst auf lange Kampagnen ausgelegt sind: Die für die Flyer gekürzten Regeln enthalten z.B. kein 
+Steigerungssystem. Die Zielsetzungen sind kurze Runden von 1-4 Spielabenden. Allerdings sind die Regeln komplett kompatibel zum vollwertigen 1w6-System. 
+Wer also weiterspielen will, kann ohne große Konvertierung direkt auf das vollständige System umsteigen - und hat so auch Regeln für Situationen, die 
+im Flyer nicht vorkommen (im Zweifelsfall, weil 1w6 Gurps-kompatibel ist).
+
+Und die unkalkulierbar langen Abenteuer stimmen zum Teil: Das Grundszenario hat bei mir bisher je nach Spielweise der Spieler zwischen 2 und 8 Stunden 
+Spielzeit gebraucht. Und das sind nur 2 Szenen + Abschluss.
+
+Übrigens sind die Flyer frei lizensiert, das heißt, du darfst sie für dich selbst anpassen, weitergeben, usw. Du bist also nicht auf uns angewiesen 
+→ http://lizenz.1w6.org
+
+¹: Die Autoren sind Taysal aka Güther Lietz und ic
+
