@@ -127,3 +127,13 @@ Schön beschrieben: +1 bis +3
 Viel Zeit lassen: Bis +3
 Wunden: -3/Wunde
 Stark abgelenkt: -3
+#Niar von Kreuzweg
+##Menschliche Diebin
+„Dein Leben gehört dir. Du bist nur wer du zu sein wagst.“
+*Dreist: ++
+*Beruf: Diebin: 9
+*Taschendiebstahl: 15, Andere imitieren: 12
+*Erträgt keine Eintönigkeit: -
+*Waffe: Messer: 1
+*Wundschwelle: 4
+Niar hat sich ihren Weg in die neuen Lande auf ihre eigene Art gebahnt. Ihre Rastlosigkeit hat sie daran gehindert, ein Handwerk zu lernen oder sich an einem Ort zu etablieren, doch sie hat sie auch in die neuen Lande gebracht. Tagsüber gibt sie sich meist als Wanderarbeiteriin Enar Kesselflicker in grobem Wollhemd oder Siedlerin Taba von Walden in schmutzigem Hanf. Nachts holt sie sich aus anderen Karossen, was sie für die Fahrt braucht.
