@@ -1,0 +1,214 @@
+1w6-Regeln v2.4.0 - "Bereit für mehr"
+=====================================
+
+<img alt="enchantress" src="/files/enchantress.png" align="left" width="240" />
+
+Version 2.4.0 des Ein Würfel Systems, Codename *"Bereit für mehr"* ist jetzt [online](/files/1w6-regeln-2.4.0.pdf).[^1]
+
+[![ews-dok-icon-128px](/files/ews-dok-icon-128px.png) 1w6-regeln v2.4.0 - *"Bereit für mehr"*](/files/1w6-regeln-2.4.0.pdf)
+
+Mit Version 2.4 werden die 1w6-Regeln nochmal ein gutes Stück flexbibler, skalieren noch besser und sind gleichzeitig einfacher zu nutzen und zu verstehen. 
+
+Außerdem sind die Illustrationen deutlich verbessert und das Layout klarer. 
+
+2.4 ist ist eine stabile Hauptversion, das heißt, diese Regeln sind die neuen 1w6-Referenzregeln. 
+
+Es gibt es in drei Versionen: 
+
+* [PDF mit Charheft](/files/1w6-regeln-2.4.0.pdf), 
+* [PDF mit Charheft und Lizenz](/files/1w6-regeln-2.4.0-mit-lizenz.pdf) und 
+* [Booklet zum direkten doppelseitigen Drucken](/files/1w6-regeln-2.4.0-booklet.pdf) (Charheft und Lizenz in der Mitte zum rausnehmen)
+
+[^1]: Das Bild ist nur unter der GPL verfügbar und stammt aus Battle for Wesnoth. Auch das PDF ist nur unter der GPL verfügbar (Version 3), da es Bilder aus Battle for Wesnoth enthält, so dass cc by-nc-sa nicht möglich ist.
+
+<!--break-->
+
+Änderungen seit v2.2
+---------------------
+
+Die Hauptänderungen seit Version 2.2 sind: 
+
+* Das Grundsystem enthält keine Trefferpunkte mehr - sie sind komplett ins Fokusmodul Kampf (FoKa) gewandert (im Anhang des Heftes). Die Trefferpunkte sind nun gerade der Wert einer passenden Eigenschaft statt Eigenschaft x2. Auf die Art werden andere Schadensarten sehr viel leichter zu integrieren, da sich einfach der Wert der Eigenschaft ändern kann. 
+
+* Sonderregeln für Erschöpfung fallen weg, da sie mit den halbierten TP nicht mehr sinnvoll sind. Jetzt sind die Auswirkungen auch ohne Sonderregeln früh genug deutlich zu spüren. 
+
+* Die Kosten von persönlichen Waffen und Rüstungen als Teil des Charakters wurden verdoppelt (nach einigen [Statistikrechnungen](/deutsch/anhang/programme/kampfchancen-baum-skript#comment-545), die eine deutliche Disbalance gezeigt haben).
+
+* Berufe erhalten nur noch Boni von jeweils höchstens einer zur Situation passenden Eigenschaft. Dadurch wird eine Disbalance großteils aufgehoben, die bei sehr starken Charakteren Berufe sinnvoller machte als Fertigkeiten. 
+
+* Die Beschreibung der Charaktererschaffung wurde an den Stil aus dem [ersten Heft für RaumZeit](http://rakjar.de/raumzeit-heft1/) angepasst, weil der sich einfach besser liest. Außerdem ist eine der 6 Regeln der Erschaffung nicht mehr nötig. 
+
+* Die Grundregeln belegen drei Seiten weniger (Seite 3 bis 28). 
+
+* Es gibt jetzt mehr Bilder, so dass das Heft schöner zu lesen ist (dank [Battle for Wesnoth](http://wesnoth.org) und [GPL](/deutsch/anhang/das-ein-w-rfel-system-jetzt-unter-der-gplv3)).
+
+* Dank gründlicher Korrekturleser[^2] sind viele Texte lesbarer und leichter verständlich. 
+
+* Das PDF belegt dank kleinen Optimierungen nur noch 3,8 MiB Plattenplatz - kann also endlich mit einem Web.de Free-Account verschickt werden ;)
+
+* Wir haben jetzt zusätzlich zu den einfachen PDFs wieder direkt druckbare Hefte (booklets - einfach doppelseitig drucken) - ein kleines eigenes [Skript](http://bitbucket.org/ArneBab/1w6/src/tip/sonstiges/Skripte/write_booklet_pdfjam.py), stellt uns automatisch das PDF zu einem booklet um - ihr könnt es gerne nutzen und auch für euch anpassen (es ist wie üblich frei lizensiert). 
+
+* Die PDFs enthalten jetzt auch ein Charakterheft (die letzten 4 Seiten - einfach zwei Seiten auf eine und doppelseitig drucken; Notizen + Beschreibung mit Bild sind die Außenseite, Werte und Ausrüstung die Innenseite). Die Booklets enthalten die Charakterhefte und zusätzlich die [Lizenz](http://bitbucket.org/ArneBab/1w6/src/tip/sonstiges/GPLv3.sla) in der Mitte zum rausnehmen. 
+
+* Allgemein wurde das Layout überarbeitet und poliert. 
+
+* Und da das System seit langem von den meisten Leuten das "1w6-System" genannt wurde, wurde der Name übernommen: Das Grundsystem heißt nun *"1w6-Regeln"*, mit der Langform "Ein Würfel System - einfach saubere Regeln". 
+
+[^2]: Version 2.4 des EWS wurde von *[inside](/uzanto/inside)* und *Andi* sorgfältig auf Fehler und Inkonsistenzen geprüft. Ein Großteil der Textüberarbeitungen ist ihnen zu verdanken. 
+
+Die Änderungen seit Version 2.2 im Detail
+-----------------------------------------
+
+578 - ews-dok: Bilder über Seitenleisten entfernt - sieht sauberer aus ohne.  
+577 - ews-dok: das ews über jeder Seitenleiste durch das Bild 1w6-overlay.png ersetzt.  
+573 - FIX: Seitenzeilen und Titel in der Inhaltsangabe und SteM in Anhang (heißt nicht mehr Steigerung im vobsy).  
+572 - Versionsnummer auf 2.4.0 erhöht.  
+571 - ews-dok: Releasevorbereitung: Druckeinstellung angepasst - alle Schriften einbetten.  
+570 - ews-dok: Releasevorbereitung: Dreiecke im Regeltext als Times New Roman.  
+569 - ews-dok: Releasevorbereitung: Seitenleistenabschnitt: Feinschliff.  
+568 - ews-dok: Releasevorbereitung: FIX: An zwei Stellen war der untere Rand von Seitenleisten sichtbar.  
+567 - ews-dok: Releasevorbereitung: S. 19 ein Zwergischer Runenmeister dazu (gerade auf Beispielseiten sollten Bilder sein).  
+566 - ews-dok: Seitenleiste: Kleine Verbsserung übernommen.  
+565 - ews-dok: Verbesserungen aus Scribus in Quelldatei Hauptteil.txt übernommen.  
+564 - ews-dok: Verbesserungen aus Scribus in Seitenleiste.txt übernommen.  
+563 - ews-dok: Releasevorbereitung: Leerer unterer Rand aller Seitenleisten mit Weißen Flächen abgedeckt.  
+559 - ews-dok: Releasevorbereitung: Unterer Rand der Seitenleisten S. 26 bis S. 37 mit Weißen Flächen abgedeckt.  
+558 - ews-dok: FoKa: FIX: Männlich weiblich hatte nicht immer gepasst.  
+557 - ews-dok: Releasevorbereitung: Unterer Rand der Seitenleisten S. 38 bis S. 48 mit Weißen Flächen abgedeckt.  
+556 - ews-dok: Release-Vorbereitung: Hauptleiste: Händische Silbentrennung direkt in Scribus.  
+555 - ews-dok: Fix: Es gibt keine Schadenswürfe mehr.  
+554 - ews-dok: Release-Vorbereitung: Seitenleiste: Händische Silbentrennung direkt in Scribus.  
+551 - ews-dok: Lazaros Name noch an die Seite geschrieben.  
+550 - ews-dok: FIX: Ein Bild übersehen, das noch in der Größe halbiert werden musste.  
+545 - Todo update + Bild auf S. 12 auf Höhe des unteren Randes der Seitenleiste.  
+536 - ews-dok: Einige Bildgrößen halbiert - wir brauchen bei jedem Bild mindestens 144dpi, da vermutlich viele Leute das DinA5 PDF auf doppelter Größe lesen werden.  
+534 - ews-dok: Weitere Wesnoth-Bilder für die Seitenleiste eingebunden (und angepasst - Masken).  
+533 - ews-dok: Bilder aus Wesnoth (+ coypright ) für Seitenleiten rüberkopiert.  
+532 - ews-dok: Standardversion ohne dpi-Änderung der Bilder. Grund: Gerade Linien im Logo wurden bei 144dpi unsauber.  
+531 - ews-dok: Quellen in Scribus + 144dpi-Version  
+530 - ews-dok: Regel: Boni für Fertigkeiten: Kurzinfo hat jetzt auch '(1 pro +)'  
+529 - ews-dok: Inhaltsverzeichnis angepasst.  
+528 - ews-dok: Feinschliff an Formulierung: Nutzung -> Einführung.  
+527 - ews-dok: scribus: S.35: neromancer blasser -> Hintergrund.  
+526 - ews-dok: Scribus mit Bildern  
+525 - ews-dok: Vorteil: Unter Wasser atmen eingefügt, da ich darunter das merfolk Bild will :) .  
+523 - Korrekturen in Seitenleiste und Hauptleiste in Scribus eingepflegt - fehlen nur noch zusätzliche Bilder.  
+522 - ews-dok: Verweise auf andere Seiten angepasst.  
+521 - ews-dok: Hauptleiste komplett in Scribus.  
+520 - Hauptleiste bis S. 31  an Scribus angepasst, Seitenleiste ganz (eine ist jetzt leer).  
+519 - Notizen zum Hauptdokument eingefügt - bisher nur Anzahl der Zeilen einer Seitenleiste (damit ich nicht ständig nachzählen muss :) ).  
+517 - ews-dok: Wort fehlte.  
+516 - Das ews-dok kann nun automatisiert in HTML geparst werden.  
+500 - Korrekturen von Julian - müssen noch in Scribus eingepflegt werden.  
+494 - Einen Teil der Korrektur von Julian in den Textdateien.  
+492 - ews-dok: Gudrun/Doris -> Sven (Zu viel Arbeit und Risiko von schwer zu findenden Fehlern)  
+491 - ews-dok: Seitenumbrüche angepasst.  
+473 - ews-dok: Feinschliff Lazaros Erschaffung.  
+472 - Charaktererschaffung an RaumZeit Heft 1 angepasst: "Starke Eigenschaft als Plus dargestellt"  
+471 - Feinschliff: Hauptleiste bis Charakterheft.  
+470 - typo  
+465 - Änderungen für 2.3.4 in Scribus-Dokument eingebunden.  
+464 - Merge default in 2.3.4  
+462 - ews-dok: schreib uns -> schreib uns bitte.  
+435 - Wunden etwas detaillierter.  
+434 - Feinschliff  
+433 - Dreiecke bei der Erschaffung wieder eingeführt.  
+416 - ews-dok: Scribus Dokument nach Export gespeichert.  
+414 - Seitenleiste komplett in Scribus integriert.  
+413 - Hauptleise in Scribus integriert.  
+412 - Da TP nur 1xEig wird Erschöpfung genau wie TP behandelt.  
+411 - Hauptleiste bis Seite 36 integriert.  
+410 - Bis Seite 9 integriert.  
+409 - Julians Korrektur in den Textdateien.  
+408 - Julians Korrektur bis Seite 43  
+407 - Weitere Korrekturen von Julian eingepflegt.  
+405 - Julians Korrekturen bis Seite 6 eingearbeitet.  
+399 - typo  
+395 - Fehlerkorrektur: Zusamengezogene Woerter.  
+391 - Feinschliff  
+388 - ews-dok: Ein paar Bilder aus Wesnoth integriert.  
+386 - ews-dok: Texte in Layout integriert.  
+385 - ews-dok: Umlaute gefixt.  
+381 - Grundsystem korrigiert (umlaute noch kaputt) - fehlt nur noch der Anhang.  
+380 - Bis Seite 23 korrigiert (vom Ausdruck).  
+378 - ews-dok: Bis Seite 8 ueberarbeitet.  
+377 - Feinschliff.  
+376 - Wortwiederholung entfernt.  
+375 - Kleine Textanpassung, nicht importiert.  
+374 - typo  
+372 - In das Scribus Dokument integriert.  
+371 - Seitenleisten umsortiert. Wir haben jetzt 3 freie Seitenleisten, dafuer sind sie logischer und ich habe redundantes rausgestrichen. Heisst auch, dass wir mehr Platz fuer Bilder haben :)  
+361 - Feinschliff  
+360 - FIX: Senkung von Eigenschaften bei Verletzungen kommt erst in ews 3.0  
+358 - ews-dok: Die Hauptleiste ist im FoKa etwas gedraengt, aber sie passt jetzt auch inklusive neuem (vereinfachten) Wundsystem wieder rein.  
+357 - ews-dok: Hauptleiste: Auswirkungen von Verletzungen angepasst: 2 Seiten.  
+356 - Copyright-Datum auf bis 2009 ersetzt und Feinschliff.  
+355 - merged default branch.  
+354 - Der Epilog nennt jetzt korrekt die GPLv3 als Lizenz.  
+353 - Feinschliff  
+352 - Trefferpunkte und komplexe Heilung zum Fokusmodul Kampf verschoben.  
+351 - Text zur Ausweirkung von Verletzungen geschrieben, noch nicht importiert, alte Texte noch nicht verschoben.  
+338 - Kosten für Waffen und Rüstung angepasst (verdoppelt).  
+335 - Eig geben Bonus auf Fert.  
+334 - 'legendär' im Haupttext nicht erwähnen.  
+333 - Kurzbeschreibung: Wert 6=mickrig und 18=überragend dazu  
+332 - Kurzbeschreibung: 15 = erfahren  
+331 - Kurzbeschreibung nennt jetzt auch 'Güte = Differenz'  
+330 - (tm) -> ™ und typo gefixt.  
+329 - FIX: unnötiges 'der' entfernt  
+328 - FIX: An zwei Stellen stand noch, dass berufe Boni aus den drei höchsten Eigenschaften erhalten.  
+327 - Neue Namen für Werte unter 9 - und hohe Werte nochmal überarbeitet.  
+324 - Letzte Korrekturen, bevor die neue Version an die Beta-Leser geht.  
+323 - Fix: Neue Fertigkeiten und Berufe mit Strichen kaufen - erster Strich gibt 9, zweiter 11, dritter 12 (aus dem Modul Schwache Charaktere (SwaC)).  
+317 - ews-dok: Feinschliff der Drak Intro.  
+316 - merge: ews-dok auf neuen Arbeitsfluss umgestellt und Andis Änderungen eingefügt.  
+315 - ews-dok: Neue Struktur vollständig integriert. Die Texte werden jetzt nur noch mit 'Text laden' importiert und müssen in Scribus nicht mehr nachbearbeitet werden.  
+314 - ews-dok: Hauptteil bis Seite 37 integriert - inklusive vost Bilder.  
+313 - ews-dok: Hauptteil bis Seite 32 integriert - es fehlt nur noch der Anhang.  
+312 - ews-dok: Version im Deckblatt auf v2.3.0 erhöht.  
+311 - ews-dok: Hauptteil bis Seite 27 integriert - Halbzeit geschafft.  
+310 - ews-dok: Hauptteil bis Seite 12 integriert.  
+309 - ews-dok: Hauptteil bis Seite 9 integriert.  
+308 - ews-dok: 'Merkmale aus Fudge übernehmen' eingefügt.  
+307 - ews-dok: Hauptteil bis Seite 8 integriert.  
+306 - ews-dok: Seitenleiste: Mindestwürfe mit je einer Zeile Abstand.  
+305 - ews-dok: Hauptteil bis Seite 5 integriert.  
+304 - ews-dok: Seitenleiste komplett in's Layout übernommen. Jetzt können wir die Seitenleiste vollständig in einem Plain-Text Dokument bearbeiten und müssen sie erst wenn wir eine neue Version veröffentlichen wollen in Scribus importieren (mit dem Text-Filter 'Seitenleiste', der automatisch die richtigen Stile für die Absätze übernimmt).  
+300 - Feinschliff  
+299 - ews-dok: Fußnoten sind jetzt Größe 8pt.  
+298 - ews-dok: Seitenleiste: Vorrede etwas klarer.  
+297 - FIX: ews-dok: Hauptleiste: In einer Zeile hatte Markup gefehlt.  
+296 - ews-dok: Seitenleiste: Etwas Feinschliff.  
+295 - ews-dok: Seitenleiste bis Seite 13 überarbeitet (Seitenumbrüche).  
+294 - Draks Vorgespräch etwas überarbeitet.  
+292 - Hauptdokument: Seitenleiste und Hauptleiste in Scribus importiert - es fehlt nur noch die Anpassung der Seitenumbrüche und der Feinschliff.  
+291 - Hauptdokument: Grundlegende Markup in die Seitenleiste eingefügt.  
+290 - Hauptdokument: Grundlegende Markup in die Hauptleiste eingefügt.  
+289 - FIX: Hauptdokument: Scribus Importfilter arbeiten von unten nach oben (+ aktuelle Texte importiert).  
+288 - Hauptdokument: Seitenleiste informiert jetzt korrekt über Markup zu Regelteilen und Beispielen.  
+287 - Hauptdokument: Titel zur Seitenleiste hinzugefügt.  
+286 - Hauptdokument: Hauptleiste mit Titeln.  
+284 - Nochmal in Scribus importiert.  
+283 - Seitenleiste: Replaced all page breaks with linebreaks.  
+282 - Haupttext: Replaced all page breaks with linebreaks.  
+281 - Änderungen von Andy in das Scribus Dokument kopiert - wie erwartet ist das Design erstmal zerschossen -> Angefangen einen Eingabefilter für die Textdateien zu entwerfen: Abwandlung von Markdown: '*' leitet kursiven Absatz ein, '**' leitet Regelabsatz ein, '#' leitet Überschrift ein.  
+260 - Hauptdokument: Sauberere (aber etwas längere) Kurzbeschreibung der Regeln am Anfang.  
+259 - Typo.  
+258 - Grundregeln: Zielsetzung des Heftes eingefügt.  
+226 - Anfang des Übergangs zur GPlv3: Hauptdokument: Epilog: Lizenzinfo.  
+191 - Die Beschreibung von Proben nutzt nun 'Augenzahl' zur Beschreibung des Ergebnisses des Wurfes.  
+190 - Nur zwei Zeilenumbrüche.  
+189 - Korrekturen von Andi.  
+188 - ToDo 2.4.0: 1.) kurz erklären was in den Seitenbereichen steht und wofür die verschiedenen Schriftarten stehen.  
+187 - Info: An Texten nur in den Scribus Quellen arbeiten, update.  
+186 - Info: An Texten nur in den Scribus Quellen arbeiten.  
+168 - typo  
+167 - "...Jedes Modul hat einen vollen Namen und eine vier Ziffern lange  
+126 - Etwas Arbeit an den Textdateien zum Hauptdokument.  
+17 - Order für Todo-Listen hinzugefügt.  
+4 - Hauptdokument  
+
+
+------ 
+
+*Das 1w6-System ist ein [frei lizensiertes (GPL)](/deutsch/anhang/das-ein-w-rfel-system-jetzt-unter-der-gplv3), univerell einsetzbares [Rollenspielregelwerk](http://de.wikipedia.org/wiki/Pen-&-Paper-Rollenspiel#Regelsysteme), das es Weltenbastlern und Spielleitern erleichtern soll, [ihre Welt oder Kampagne als Rollenspiel zu veröffentlichen](/deutsch/regeln/das-ews-deine-beduerfnisse-anpassen/deine-welt-als-rollenspiel-veroeffentlichen).*
