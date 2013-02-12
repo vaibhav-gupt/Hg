@@ -2943,3 +2943,22 @@ Die Welt in der Mechanik umsetzen: Nicht sagen „ich würfel auf den Wert, denn
 
 PS: Das mit dem schlank bleiben hat sich als sehr schwer herausgestellt. Wir haben nur das drin, was absolut notwendig ist, und der Regelteil ist trotzdem schon von geplanten 24 DinA5-Seiten auf knapp 100 DinA4-Seiten gewachsen. Ohne dass Inhalte dazugekommen sind. Es hat sich herausgestellt, dass „dafür brauchen wir 2 Seiten“ im Dialogstil vollkommen illusorisch war… dafür könnten wir Technophob ohne große Änderungen als Hörspiel veröffentlichen :)
 
+
+
+------
+
+Tim Charzinski: Gute Lösung - auch wenn das Würfeln vor jeder Runde schon heftig ist. Kann man das irgendwie verbessern, z.b. durch eine Fertigkeit "Lizenzmanipulation"? Ansonsten ist der gesamte Schmuggel reichlich hinfällig.﻿
+
+ArneBab: So eine Fertigkeit wäre passend, ja. Dadurch könnte die Selbstzerstörung hinausgezögert werden.
+
+Als Regelmechanismus für die verzögerung würde ich die KO-Proben nehmen: Du wirfst den ±W6. Dann addierst du 1 pro + in passenden Fertigkeiten. Wenn das Ergebnis unter 0 ist, zerstört sich der Gegenstand selbst. Je nach Situation und Handhabung in der letzten Runde würde ich nochmal -3 bis +3 geben:
+
+- Im Frachtraum in versiegelter Originalverpackung: +3 (oder kein Wurf),
+- offen durch einen Scan der Raumpatroullie getragen, entdeckt worden, im Rückzugsgefecht mit der Raumpatroullie von Waffenfeuer getroffen: -3.
+
+Dadurch brauchst du eine Fertigkeit mit 8+, damit dir nichts mehr kaputt geht, und mit 5+, damit dir in ruhigen Situationen nichts mehr kaputt geht. Du kannst aber schon mit 2+ in der Fertigkeit sicher sein, dass dir beim vorsichtigen Schmuggeln nichts kaputt geht.
+
+… das ist ein sehr cooles weiteres Spielelement :)
+Landet definitiv in unserer Ideensammlung! Ich muss noch schauen, ob ich das noch in das Buch reinbekomme…
+
+Permanent sichern kannst du es dann, indem du ein Δ zahlst - das entspricht der Arbeit, die du in die Anpassung gesteckt hast.
