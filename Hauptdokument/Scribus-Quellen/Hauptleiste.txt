@@ -576,7 +576,9 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 
 
 
-*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht ++ (15: sehr gut) und geht auf +++ zu (18: überragend).
+
+
+*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht ++ (15: sehr gut) und geht auf +++ zu (18: überragend).
 
 *Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 
