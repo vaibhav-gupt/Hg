@@ -411,9 +411,9 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 10 Meter drei Punkte, und bei über 10 Metern 9 Punkte.
 
-**Bis 1m:	+1
-**Bis 10m:	+3
-**Über 10m:	+9
+**Bis 1m:		+1
+**Bis 10m:		+3
+**Über 10m:		+9
 
 **Ist die Rüstung oder Waffe einer der Kontrahentinnen deutlich stärker als die ihrer Gegnerin, erhält sie 3 Punkte Bonus. Hat nur eine Kämpferin eine Waffe, erhält sie weitere 3 Punkte.
 
@@ -559,8 +559,8 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 
 
 
-*Die verbleibenden Striche will er nutzen, um die Fertigkeit "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens ++ ist (15: sehr gut), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
 
+*Die verbleibenden Striche will er nutzen, um die Fertigkeit "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens ++ ist (15: sehr gut), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
 
 
 
