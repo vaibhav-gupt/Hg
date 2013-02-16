@@ -29,34 +29,88 @@ Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber 
 #Eigenschaften
 
 Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Aussehen, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber Jede zu einem gewissen Grad hat.
-Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet.
+
+Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet.
 
 **Eigenschaften von Menschen haben Werte zwischen 6 und 18. Was darüber hinausgeht ist der Stoff für Legenden.
 
 **12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet.
 
-<fuss>Ein paar Beispiele für Eigenschaften gibt es ab Seite 18.
+##Beispiele für Eigenschaften
+
+- Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
+
+- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behendigkeit...
+
+- Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
+
+ Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
+
+- Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
+
+- Okkultes/Magisches: Spiritualität, Magischer Fluss, Seelenstärke, Widerhall, Magieresistenz, Magiepotential, Magische Begabung, Macht, Rückhall der Klänge der Welten, Rückhall der Klänge der Macht...
+
+- Sinne: Geruchssinn, Hören, Schmecken, Tastsinn, Orientierung, Wahrnehmung...
+
+- Andere: Rang, Status, Vermögen...
+
 
 <fuss>Module: Kategoriesystem (KaSy).
-
-#Fertigkeiten
+#Fertigkeiten
 
 Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die ihren Charakter am schönsten beschreiben.
 
 **Die Werte von Fertigkeiten liegen wie Eigenschaftswerte meist zwischen armselig (6) und überragend (18). Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird.
 
 **Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt.
-*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.
 
-<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14. Beispiele für Fertigkeiten gibt es ab Seite 19.
-#Beruf u. Hintergrund
+*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.
+
+##Beispiele für Fertigkeiten
+
+- Körper: Akrobatik, Entfessellung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben...
+
+- Soziales: Auftreten, Beobachten, Böse gucken, Con-Überleben, Erotische Künste, Etikette, Glücksspiel, Kochen, Leute beruhigen, Leute nerven, Rollenspiele leiten, Sich ablenken, Singen, Ungebührliches Verhalten, Verführen, Verhandeln, Verhören...
+
+- Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien...
+
+- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie...
+
+<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14.
+
+#Beruf u. Hintergrund
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf oder Hintergrund gehören, mit dessen jeweiligem Wert.
 
 **Wie Fertigkeiten erhalten auch Beruf und Hintergrund Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird.
 
 *Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Ina auf den Beruf „Gerber“ würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit „Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn.“ Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft „Dreistigkeit“ erhält.
-#Merkmale
+
+##Beispiele für Berufe
+
+- Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde...
+
+- Jetzt-Zeit: Bauarbeiterin, Pilotin, Gesellschafter, Kriminologe, Mechanikerin, Künstler, Kammerjägerin, Angestellte...
+
+- Horror/Mystery: Akademikerin, Autor, Mystiker, Predigerin, Kleinkriminelle, Cop, Unterhändler, reiche Schickse...
+
+- Cyberpunk: Schattenläuferin, Konzerncop, Hackerin, Konzernschlips, Schmuggler, Otaku...
+
+- Science-Fiction: Raumpilotin, Marinesoldat, Xenologin, Wissenschaftler, Kolonistin, Scout, Botschafter, Weltenspringerin...
+
+##Beispiele für Hintergründe
+
+- Fantasy: Jeweilige Rasse + Beruf (Orkin, Goblin, Trollin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft...
+
+- Jetzt-Zeit: Klassische Hausfrau, Slumgöre, Klosterbengel, reicher Schnösel, Bande / Gang...
+
+- Horror/Mystery: Geheimgesellschaft, schottische Adelsfamilie, Erbin mit Familienfluch, Leben unter falschen Freunden, Mafia, Ex-Polizistin...
+
+- Cyberpunk: Oberschicht, Konzerner, Unterschicht, Randgruppe/Freaks...
+
+- Science-Fiction: Außenseiterin, Letzte einer ausgestorbenen Spezies, Kolonie, Zentralwelt...
+
+#Merkmale
 
 Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter zählen Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr.
 
@@ -66,7 +120,19 @@ Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein 
 
 **Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden.
 
-<fuss>Beispiele für Merkmale stehen auf Seite 21.
+##Beispiele für Merkmale
+
+- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Unter Wasser atmen: +, Altert nicht: +
+
+- Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: ---
+
+- kleine Stärken (je 3 ergeben ein +): Unauffälligkeit, Alkoholtoleranz, Gemütsruhe, ...
+
+- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schuldkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
+
+- weitere: 1w6.org/stichwort/merkmale
+
+Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler").
 
 #Kampfwerte
 
@@ -120,7 +186,7 @@ Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen 
 
 Dafür besprechen wir erst kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. Danach wählen wir die Machtstufe der Charaktere und geben ihnen Werte, um ihre Fähigkeiten festzulegen.
 
-<fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 17 enthält einfache Konvertierungsregeln für die Kosten.
+<fuss>Für den Fall, dass du du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 17 einfache Konvertierungsregeln für die Kosten.
 
 #Das Charakterheft
 
@@ -270,74 +336,6 @@ Dabei gelten die folgenden fünf Regeln:
 
 **Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften (1 pro +). Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft.
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich.
-
-#Beispiele für Eigenschaften, Fertigkeiten und Merkmale
-
-Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen.
-Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
-
-##Eigenschaften:
-- Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
-
-- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behendigkeit...
-
-- Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
-- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
-
-- Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
-
-- Okkultes/Magisches: Spiritualität, Magischer Fluss, Seelenstärke, Widerhall, Magieresistenz, Magiepotential, Magische Begabung, Macht, Rückhall der Klänge der Welten, Rückhall der Klänge der Macht...
-
-- Sinne: Geruchssinn, Hören, Schmecken, Tastsinn, Orientierung, Wahrnehmung...
-
-- Andere: Rang, Status, Vermögen...
-
-##Fertigkeiten:
-- Körper: Akrobatik, Entfessellung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben...
-
-- Soziales: Auftreten, Beobachten, Böse gucken, Con-Überleben, Erotische Künste, Etikette, Glücksspiel, Kochen, Leute beruhigen, Leute nerven, Rollenspiele leiten, Sich ablenken, Singen, Ungebührliches Verhalten, Verführen, Verhandeln, Verhören...
-
-- Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien...
-
-- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie...
-##Berufe:
-- Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde...
-
-- Jetzt-Zeit: Bauarbeiterin, Pilotin, Gesellschafter, Kriminologe, Mechanikerin, Künstler, Kammerjägerin, Angestellte...
-
-- Horror/Mystery: Akademikerin, Autor, Mystiker, Predigerin, Kleinkriminelle, Cop, Unterhändler, reiche Schickse...
-
-- Cyberpunk: Schattenläuferin, Konzerncop, Hackerin, Konzernschlips, Schmuggler, Otaku...
-
-- Science-Fiction: Raumpilotin, Marinesoldat, Xenologin, Wissenschaftler, Kolonistin, Scout, Botschafter, Weltenspringerin...
-
-
-##Hintergründe:
-- Fantasy: Jeweilige Rasse + Beruf (Orkin, Goblin, Trollin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft...
-
-- Jetzt-Zeit: Klassische Hausfrau, Slumgöre, Klosterbengel, reicher Schnösel, Bande / Gang...
-
-- Horror/Mystery: Geheimgesellschaft, schottische Adelsfamilie, Erbin mit Familienfluch, Leben unter falschen Freunden, Mafia, Ex-Polizistin...
-
-- Cyberpunk: Oberschicht, Konzerner, Unterschicht, Randgruppe/Freaks...
-
-- Science-Fiction: Außenseiterin, Letzte einer ausgestorbenen Spezies, Kolonie, Zentralwelt...
-
-
-##Merkmale:
-- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Unter Wasser atmen: +, Altert nicht: +
-
-- Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: ---
-
-- kleine Stärken (je 3 ergeben ein +): Unauffälligkeit, Alkoholtoleranz, Gemütsruhe, ...
-
-- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schuldkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
-
-- weitere:
--> 1w6.org/stichwort/merkmale
-
-Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler").
-
 
 #Was bieten Beruf und Hintergrund?
 
