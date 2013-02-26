@@ -44,7 +44,7 @@ Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren 
 
 - Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
 
- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
+- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
 
 - Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
 
@@ -334,8 +334,8 @@ Dabei gelten die folgenden fünf Regeln:
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt.
 
 **Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften (1 pro +). Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft.
-<fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich.
 
+<fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich.
 #Was bieten Beruf und Hintergrund?
 
 Hast du schon jemals gehört, "sowas kann doch Jede" oder "es kann doch gar nicht sein, dass jemand das nicht kann"? Solche Aussagen kommen oft daher, dass diese Fertigkeit in Beruf oder Hintergrund der Person angelegt ist.
@@ -509,29 +509,29 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 **Zur Berechnung der Kosten von Fertigkeiten wird der Grundwert genommen.
 
 **Beispiel:
-**Startwert: Kochen: + (12)
-**1. Strich: Kochen: + (12)
-**2. Strich: Kochen: + (13)
+**	Kochen:	+ (12)
+**1. Strich: Kochen:	+ (12)
+**2. Strich: Kochen:	+ (13)
 **...
-**6. Strich: Kochen: ++ (15)
-**9. Strich: Kochen: ++ (16)
+**6. Strich: Kochen:	++ (15)
+**9. Strich: Kochen:	++ (16)
 
 <fuss>Ein längeres Beispiel gibt es auf S. 33 bis 35.
 
 Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusammengefügt, so dass drei Striche ein Dreieck ergeben:
 
- ´ : Ein Strich
- ^ : Zwei Striche
- Δ : Drei Striche: Dreieck
+ ´ :	Ein Strich
+ ^ :	Zwei Striche
+ Δ :	Drei Striche: Dreieck
 
 **Sobald du eine Anzahl von Dreiecken gleich der Plusse der nächsten Schwelle gezeichnet hast, fängst du wieder von vorne an (musst aber ein Dreieck mehr zeichnen, da du die nächste Schwelle erreicht hast). Dein Wert steigt um einen Punkt, wenn du für alle nötigen Dreiecke eine weitere Seite gezeichnet hast. Bei Eigenschaften gilt damit z.B.:
 
-Fitness: +      (15)
-Fitness: +,´    (15)
-Fitness: +,´´   (16)
-Fitness: +,^^   (17)
-Fitness: +,ΔΔ   (18) = ++
-Fitness: ++,´´´ (19)
+Fitness: +  	(15)
+Fitness: +,´	(15)
+Fitness: +,´´	(16)
+Fitness: +,^^	(17)
+Fitness: +,ΔΔ	(18) = ++
+Fitness: ++,´´´	(19)
 
 #Striche pro Abend
 
@@ -682,6 +682,7 @@ Alles Kampferschwerende geht als Malus ein.
 *In einer Kampfarena trifft Stahlkatze auf zwei Soldaten. Er lauert in einem Gang hinter einer Säule, während sie Schritt für Schritt näher kommen. Der Erste murmelt leise etwas, dann hört der Katzenmensch die etwas schwereren Schritte des Zweiten in Armreichweite der Säule kommen. Plötzlich huscht Stahlkatze hinter der Säule hervor, seine Bewegungen nur Schemen für den ungeübten Beobachter.
 
 *Während sein Gegner die Waffe hochreißt, zucken Stahlkatzes Krallen nach dessen Hals.
+
 **Technisches:
 **Stahlkatze ist ein überragender Kämpfer (Nahkampf 18) während sein Gegner seine Waffe noch nicht in Schussposition hat und daher auf seine ungeübten Nahkampffertigkeiten vertrauen muss (Nahkampf 9). Ein kurzer vergleichender Wurf (Stahlkatze wirft eine 4, der Soldat eine 2) kommt auf (18+4)=22 für Stahlkatze und (9+2)=11 für den Soldaten. Stahlkatze trifft und die Differenz von 11 wird auf den Schaden addiert. Zusätzlich verursachen Stahlkatzes Krallen 4 weitere Punkte Schaden. Da der Soldat keine nennenswerte Rüstung trägt, erhält er damit 11+4=15 Punkte Schaden.
 
@@ -722,11 +723,15 @@ Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende 
 **- Nicht zu treffendes Ziel steht teilweise in Sichtlinie: MW+3
 
 ##Deckung:
-**- Ziel in 1/3-Deckung (z.B. Beine gedeckt): MW+3
-**- Ziel in 2/3-Deckung (z.B. Nur Schultern und Kopf sichtbar): MW+6
-**- Ziel in 9/10 Deckung (z.B. Nur Kopf oder nur Arm sichtbar): MW+9
-**- Schütze in 2/3 Deckung (oder mehr): MW+3
-**- Schütze in 9/10 oder mehr Deckung (Blindschuss): MW+9
+**- Ziel in 1/3-Deckung:	MW+3
+**  (z.B. Beine gedeckt)
+**- Ziel in 2/3-Deckung:	MW+6 
+**  (z.B. Nur Schultern und Kopf sichtbar)
+**- Ziel in 9/10 Deckung:	MW+9
+**  (z.B. Nur Kopf oder nur Arm sichtbar)
+**- Schütze in 2/3 Deckung:	MW+3
+**- Schütze in 9/10 Deckung: 	MW+9
+**  (Blindschuss)
 
 ##Beispielkampf, Fernkampf
 *Stahlkatze streift über die leeren Dächer des Hochhausghettos. Dann und wann huschen Katzen zur Seite oder erstarren mit gesträubtem Fell, wenn sein Schatten auf sie fällt. Die einzigen Geräusche sind das ferne Brummen des Straßenverkehrs  in den belebteren Teilen der Stadt und das Knacken von Beton, der nach dem Verschwinden der Sonne langsam abkühlt.
@@ -741,8 +746,10 @@ Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende 
 *Als ihn das Motorrad fast erreicht hat, bringen Stahlkatze zwei schnelle Schritte aus der Reichweite der Keule, und die Wurfscheibe verlässt seine Krallen auf einer tödlichen Bahn.
 **Technisches:
 **- Grund-MW: Kurz im Kampf: MW 12
-**- Angreifer bewegt sich schnell: MW+3 => MW 15
-**- Ziel in 1/3 Deckung (Beine hinter dem Motorrad): MW+3 => MW 18
+**- Angreifer bewegt sich schnell: MW+3 
+**  => MW 15
+**- Ziel in 1/3 Deckung (hinter dem Motorrad): MW+3 
+**  => MW 18
 **- Fernkampfwert von Stahlkatze: 12.
 
 *Um zu treffen muss er eine 6 werfen, ansonsten prallt die Scheibe harmlos an den Stacheln des Motorrads ab.
