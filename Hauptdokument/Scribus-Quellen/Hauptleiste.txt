@@ -270,22 +270,22 @@ Und damit ist Svens Charakter beinahe spielfertig.
 **Diplomat, Degenfechter und Charmeur.
 
 **Eigenschaften:
-**- sehr gewandt: + (15)
-**- persönlicher Stil: + (15)
-**- sehr charismatisch: + (15)
+**- sehr gewandt: 		+ (15)
+**- persönlicher Stil: 	+ (15)
+**- sehr charismatisch:	+ (15)
 
 **Fertigkeiten:
-**- Nahkampf (Fechtkunst): + (12+2 = 14)
-**- Kunst des Flirtens: + (12+2 = 14)
+**- Nahkampf (Fechtkunst):	+ (12+2 = 14)
+**- Kunst des Flirtens: 	+ (12+2 = 14)
 
-**Beruf: Diplomat: + (9)
+**Beruf: Diplomat: 		+ (9)
 
-**Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann: +
+**Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann: 	+
 
 *Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Wundschwelle. Da er keine passende Eigenschaft hat, nimmt er einfach ein Drittel des Durchschnittswerts von 12, erhält also eine Wundschwelle von 4. Diesen Wert und seine Waffe erhält Larzaro noch als Zusätze:
 
-**Wundschwelle: 4
-**Waffe: Degen; Schaden: 4.
+**Wundschwelle: 		4
+**Waffe: Degen; Schaden: 	4
 
 Und hiermit ist er fertig.
 
@@ -299,10 +299,10 @@ Dabei gelten die folgenden fünf Regeln:
 **Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse.
 **Für Eigenschaften gilt also:
 
-**- = 9
-**± = 12 (wird nicht aufgeschrieben)
-**+ = 15
-**++ = 18
+**	–  =   9
+**	±  =  12 (wird nicht aufgeschrieben)
+**	+  =  15
+**	++ =  18
 
 ##2) Werte von Fertigkeiten und Berufen
 **Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält.
@@ -310,26 +310,25 @@ Dabei gelten die folgenden fünf Regeln:
 **Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12.
 **Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht. Für Fertigkeiten gilt damit (Berufe sind 3 Punkte niedriger):
 
-**+ = 12 (plus Boni aus Regel 5)
-**++ = 15 (plus Boni)
-**+++ = 18 (plus Boni)
+**	+	= 12 (plus Boni aus Regel 5)
+**	++	= 15 (plus Boni)
+**	+++	= 18 (plus Boni)
 
 ##3) Kosten
 **Kosten für Werte werden in Δ ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Δ, wie der erreichte Wert in Plussen beträgt.
 
-**von ± auf + kostet 1 Δ
-**von + auf ++ kostet 2 Δ
-**von ++ auf +++ kostet 3 Δ
-**von +++ auf ++++ kostet 4 Δ
+**	von ±	auf +	kostet 1 Δ
+**	von +	auf ++	kostet 2 Δ
+**	von ++	auf +++	kostet 3 Δ
 
 ##4) Stärken für Schwächen
 **Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt einen zusätzlichen Punkt (Δ). Stärker negative Werte geben genauso viele Δ wie ihr positives Gegenstück kosten würde.
 **Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Δ erhält.
 **Also gilt:
 
-**von ± auf - senken gibt 1 Δ
-**von - auf -- gibt 2 Δ
-**von -- auf --- gibt 3 Δ
+**	von ± 	auf – senken gibt 1 Δ
+**	von – 	auf –– 	gibt 2 Δ
+**	von –– 	auf ––– gibt 3 Δ
 
 ##5) Eigenschaftsboni
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt.
@@ -379,11 +378,11 @@ Wenn ein Charakter Wunden hat, kann seine Spielerin jede Woche auf eine passende
 
 **Der Grundmindestwurf für die Heilungsprobe hängt von der Situation ab. Bei Ruhe und Pflege ist er 9. Auf Reisen und anderen Unternehmungen (der normalen Situation für Abenteurer) ist er 12. In verdreckter Umgebung und in sehr stressigen Situationen ist er 15. In einem modernen Krankenhaus liegt er bei nur 6 und im Krieg ohne Feldscherer steigt er auf 18.
 
-**- Krankenhaus: 6
-**- Ruhe und Pflege: 9
-**- Reisen und Abenteuer: 12
-**- Stress und Dreck: 15
-**- Albtraum aller Ärzte: 18
+**	Krankenhaus:		6
+**	Ruhe und Pflege:		9
+**	Reisen und Abenteuer:	12
+**	Stress und Dreck:		15
+**	Albtraum aller Ärzte:	18
 
 Zusätzlich steigt der Mindestwurf um 3 pro Wunde.
 
@@ -411,17 +410,17 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 10 Meter drei Punkte, und bei über 10 Metern 9 Punkte.
 
-**Bis 1m:		+1
-**Bis 10m:		+3
-**Über 10m:		+9
+**	Bis 1m:		+1
+**	Bis 10m:		+3
+**	Über 10m:	+9
 
 **Ist die Rüstung oder Waffe einer der Kontrahentinnen deutlich stärker als die ihrer Gegnerin, erhält sie 3 Punkte Bonus. Hat nur eine Kämpferin eine Waffe, erhält sie weitere 3 Punkte.
 
 *Streitaxt gegen Dolch gibt 3 Punkte Bonus, Kettenhemd gegen Straßenkleidung ebenso. Dolch als schwache Waffe gegen bloße Hände gibt 3 Punkte Bonus. Streitaxt gegen bloße Hände gibt 6.
 
-**Deutlich stärkere Waffe: +3
-**Kontrahentin unbewaffnet: +3
-**Deutlich stärkere Rüstung: +3
+**	Deutlich stärkere Waffe: 	+3
+**	Kontrahentin unbewaffnet: 	+3
+**	Deutlich stärkere Rüstung: 	+3
 
 **Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL).
 *"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an.
