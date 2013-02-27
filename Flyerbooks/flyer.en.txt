@@ -7,9 +7,9 @@ The Flyerbook is an instant-RPG for Cons and short sessions and targets an exper
 The GM reads this rule-sheet and the base scenario. Meanwhile every player chooses a character card and reads the rules. If you have new players, the experienced players tell them how cool roleplaying is and how it works.  
 Then the players hand the GM the additional scenarios they want to play. The GM reads the scenarios while the players organize one die (D6) for each participant.
 ## Rules 
-Als Regelwerk verwenden Flyerbücher das freie 1w6-System. Die Charaktere haben eine Reihe Eigenschaften, Berufe, Fertigkeiten und Merkmale, die sie von der Masse abheben. Berufe und Fertigkeiten haben einen Zahlenwert (6-18). Eigenschaften und Merkmale haben nur Plusse (+: Stärke) oder Minusse (-: Schwäche).  
-*Beispiele: Geschick, Intelligenz oder Stolz sind Eigenschaften. Tischlerin ist ein Beruf, Waffenlos eine Fertigkeit. Merkmale wären Reich (+) und Süchtig (-).*
-###  Herausforderung
+As ruleset the flyerbooks use the free 1d6-system. The characters have attributes, jobs, skills, edges and flaws which differenciate them from the masses. Jobs and skills have numbers  (6-18). Attributes, edges and flaws only have plusses (Strength) oder Minusses (Weakness).  
+*Examples: Agility, Intelligence and Pride are Attributes. Carpenter is a job and hand-to-hand combat is a skill. Wealthy (+) is an edge and addicted (-) a flaw.*
+###  Challenge
 Wenn ihr wissen wollt, ob ein Charakter eine schwierige Situation meistert, könnt ihr es auswürfeln. Dafür schaut ihr, ob eine seiner Fertigkeiten oder seiner Berufe euch passend erscheint (im Zweifel das höhere). Wenn ja, nutzt ihr deren Wert. Findet ihr nichts passendes, dann nehmt den Ausweichwert 3.  
 Danach schaut ihr seine Eigenschaften an: Nutzt er eine Fertigkeit, erhält er für jedes + in einer zur Herausforderung passenden Eigenschaft einen Punkt Bonus. Nutzt er einen Beruf oder den Ausweichwert 3, erhält er nur einen Punkt Bonus pro + in der höchsten passenden Eigenschaft. Unterstützen ihn Andere mit passenden Fähigkeiten, erhält er pro Unterstützer einen weiteren Punkt Bonus.
 Nun werft ihr einen W6 (sechsseitigen Würfel). Ist die Augenzahl gerade, dann addiert ihr sie zu eurem Wert. Ist sie ungerade, zieht ihr sie ab (so zu würfeln heißt ±W6). Wenn das Ergebnis mindestens der Schwierigkeit der Herausforderung entspricht (6 ist routine, 9 einfach, 12 fordernd, 15 schwer), besteht der Charakter diese Prüfung. Die Differenz zur Schwierigkeit gibt an, wie gut er die Herausforderung meistert.  
