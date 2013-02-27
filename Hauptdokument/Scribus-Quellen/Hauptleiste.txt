@@ -794,7 +794,7 @@ unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), A
 
 Außerdem mit Inspirationen aus DSA® (Fanpro), Shadowrun® (FASA), Gurps® (SJGames), Fudge™ (Grey Ghost Press), Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic), dem Weltenbuch (jcorporation) und vielen weiteren.
 
-Diese Version wurde maßgeblich von Andreas Jehle und Julian Groß korrekturgelesen. Ihnen gebührt der Dank dafür, dass bestimmte Abschnitte nun verständlicher sind.
+Das Design dieser Version wurde maßgeblich von Tim Charzinski verbessert. Es macht wahnsinnig was aus, wenn jemand mitmacht, der Ahnung davon hat.
 
 An dieser Stelle: Danke!
 
@@ -803,3 +803,5 @@ Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt.
 <fuss>Grafiken: Das Logo, der Drache, der Echsenmensch mit Keule und die Echsenfrau im Lendenschurtz stammen von Trudy Wenzel, der zwergische Runenmeister wurde von Philipp Barber gezeichnet, die restlichen Portraits sind von Kathrin Polikeit und die Symbole kommen aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org). Falls du Lust hast, für das EWS eigene Bilder zu zeichnen, dann schreib uns bitte!
 
 <fuss>PS: Vom Autor empfohlen ab 14 Jahren.
+
+
