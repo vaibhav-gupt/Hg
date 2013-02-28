@@ -28,35 +28,89 @@ Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber 
 
 #Eigenschaften
 
-Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Vorraussetzungen (wie Aussehen, Konstitution, Gewandheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber Jede zu einem gewissen Grad hat.
-Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet.
+Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Voraussetzungen (wie Aussehen, Konstitution, Gewandtheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber Jede zu einem gewissen Grad hat.
+
+Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet.
 
 **Eigenschaften von Menschen haben Werte zwischen 6 und 18. Was darüber hinausgeht ist der Stoff für Legenden.
 
 **12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet.
 
-<fuss>Ein paar Beispiele für Eigenschaften gibt es ab Seite 18.
+##Beispiele für Eigenschaften
+
+- Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
+
+- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behändigkeit...
+
+- Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
+
+- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
+
+- Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
+
+- Okkultes/Magisches: Spiritualität, Magischer Fluss, Seelenstärke, Widerhall, Magieresistenz, Magiepotential, Magische Begabung, Macht, Rückhall der Klänge der Welten, Rückhall der Klänge der Macht...
+
+- Sinne: Geruchssinn, Hören, Schmecken, Tastsinn, Orientierung, Wahrnehmung...
+
+- Andere: Rang, Status, Vermögen...
+
 
 <fuss>Module: Kategoriesystem (KaSy).
-
-#Fertigkeiten
+#Fertigkeiten
 
 Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die ihren Charakter am schönsten beschreiben.
 
 **Die Werte von Fertigkeiten liegen wie Eigenschaftswerte meist zwischen armselig (6) und überragend (18). Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird.
 
 **Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt.
-*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.
 
-<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14. Beispiele für Fertigkeiten gibt es ab Seite 19.
-#Beruf u. Hintergrund
+*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.
+
+##Beispiele für Fertigkeiten
+
+- Körper: Akrobatik, Entfesselung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben...
+
+- Soziales: Auftreten, Beobachten, Böse gucken, Con-Überleben, Erotische Künste, Etikette, Glücksspiel, Kochen, Leute beruhigen, Leute nerven, Rollenspiele leiten, Sich ablenken, Singen, Ungebührliches Verhalten, Verführen, Verhandeln, Verhören...
+
+- Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien...
+
+- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie...
+
+<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14.
+
+#Beruf u. Hintergrund
 
 Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter einen Beruf oder Hintergrund haben. Damit beherrscht er dann alle Fertigkeiten, die zu dem Beruf oder Hintergrund gehören, mit dessen jeweiligem Wert.
 
 **Wie Fertigkeiten erhalten auch Beruf und Hintergrund Boni aus Eigenschaften. Allerdings stammt der Bonus im Gegensatz zu Fertigkeiten nicht von zwei festgelegten Eigenschaften, sondern aus einer einzelnen Eigenschaft, die je nach Situation bestimmt wird.
 
 *Beispiel: Ina, 36 Jahre alt und gelernte Schlosserin, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat sich Drasnik vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Ina auf den Beruf „Gerber“ würfeln, um die Besten zu finden. Drasnik beginnt jedes der Gespräche mit „Seht ihr die goldbeschlagene Kutsche dort hinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn.“ Grinsend sagt die SL Ina, dass sie bei diesem Wurf Boni aus Drasniks Eigenschaft „Dreistigkeit“ erhält.
-#Merkmale
+
+##Beispiele für Berufe
+
+- Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde...
+
+- Jetzt-Zeit: Bauarbeiterin, Pilotin, Gesellschafter, Kriminologe, Mechanikerin, Künstler, Kammerjägerin, Angestellte...
+
+- Horror/Mystery: Akademikerin, Autor, Mystiker, Predigerin, Kleinkriminelle, Cop, Unterhändler, reiche Schickse...
+
+- Cyberpunk: Schattenläuferin, Konzerncop, Hackerin, Konzernschlips, Schmuggler, Otaku...
+
+- Science-Fiction: Raumpilotin, Marinesoldat, Xenologin, Wissenschaftler, Kolonistin, Scout, Botschafter, Weltenspringerin...
+
+##Beispiele für Hintergründe
+
+- Fantasy: Jeweilige Rasse + Beruf (Orkin, Goblin, Trollin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft...
+
+- Jetzt-Zeit: Klassische Hausfrau, Slumgöre, Klosterbengel, reicher Schnösel, Bande / Gang...
+
+- Horror/Mystery: Geheimgesellschaft, schottische Adelsfamilie, Erbin mit Familienfluch, Leben unter falschen Freunden, Mafia, Ex-Polizistin...
+
+- Cyberpunk: Oberschicht, Konzerner, Unterschicht, Randgruppe/Freaks...
+
+- Science-Fiction: Außenseiterin, Letzte einer ausgestorbenen Spezies, Kolonie, Zentralwelt...
+
+#Merkmale
 
 Merkmale sind all jene Dinge, die weder zu den Eigenschaften, noch zu den Fertigkeiten gehören. Darunter zählen Besonderheiten (Giftnadeln in den Eckzähnen), Marotten (Geht nie ohne Hut aus dem Haus), Okkultes (magische Begabung), Psychosen (Spinnenphobie), Kontakte und vieles mehr.
 
@@ -66,7 +120,19 @@ Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein 
 
 **Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden.
 
-<fuss>Beispiele für Merkmale stehen auf Seite 21.
+##Beispiele für Merkmale
+
+- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Unter Wasser atmen: +, Altert nicht: +
+
+- Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: ---
+
+- kleine Stärken (je 3 ergeben ein +): Unauffälligkeit, Alkoholtoleranz, Gemütsruhe, ...
+
+- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schuldkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
+
+- weitere: 1w6.org/stichwort/merkmale
+
+Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler").
 
 #Kampfwerte
 
@@ -120,7 +186,7 @@ Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen 
 
 Dafür besprechen wir erst kurz die Charakterhefte, in denen Charaktere aufgeschrieben werden. Danach wählen wir die Machtstufe der Charaktere und geben ihnen Werte, um ihre Fähigkeiten festzulegen.
 
-<fuss>Um alles aus der Erschaffung herauszuholen, solltest du Zugriff auf die Vor- und Nachteilsliste von Gurps® oder Fudge™ haben. Die Seitenleiste auf Seite 17 enthält einfache Konvertierungsregeln für die Kosten.
+<fuss>Für den Fall, dass du du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 17 einfache Konvertierungsregeln für die Kosten.
 
 #Das Charakterheft
 
@@ -204,22 +270,22 @@ Und damit ist Svens Charakter beinahe spielfertig.
 **Diplomat, Degenfechter und Charmeur.
 
 **Eigenschaften:
-**- sehr gewandt: + (15)
-**- persönlicher Stil: + (15)
-**- sehr charismatisch: + (15)
+**- sehr gewandt: 		+ (15)
+**- persönlicher Stil: 	+ (15)
+**- sehr charismatisch:	+ (15)
 
 **Fertigkeiten:
-**- Nahkampf (Fechtkunst): + (12+2 = 14)
-**- Kunst des Flirtens: + (12+2 = 14)
+**- Nahkampf (Fechtkunst):	+ (12+2 = 14)
+**- Kunst des Flirtens: 	+ (12+2 = 14)
 
-**Beruf: Diplomat: + (9)
+**Beruf: Diplomat: 		+ (9)
 
-**Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann: +
+**Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann: 	+
 
 *Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Wundschwelle. Da er keine passende Eigenschaft hat, nimmt er einfach ein Drittel des Durchschnittswerts von 12, erhält also eine Wundschwelle von 4. Diesen Wert und seine Waffe erhält Larzaro noch als Zusätze:
 
-**Wundschwelle: 4
-**Waffe: Degen; Schaden: 4.
+**Wundschwelle: 		4
+**Waffe: Degen; Schaden: 	4
 
 Und hiermit ist er fertig.
 
@@ -233,10 +299,10 @@ Dabei gelten die folgenden fünf Regeln:
 **Für die meisten Merkmale reicht die Angabe der Plusse oder Minusse.
 **Für Eigenschaften gilt also:
 
-**- = 9
-**± = 12 (wird nicht aufgeschrieben)
-**+ = 15
-**++ = 18
+**	–  =   9
+**	±  =  12 (wird nicht aufgeschrieben)
+**	+  =  15
+**	++ =  18
 
 ##2) Werte von Fertigkeiten und Berufen
 **Bei Fertigkeiten sind die jeweils entsprechenden Grundwerte 3 Punkte niedriger als bei Eigenschaften, also eine Schwelle darunter, da jede Fertigkeit Boni durch zwei Eigenschaften erhält.
@@ -244,101 +310,32 @@ Dabei gelten die folgenden fünf Regeln:
 **Berufe sind noch einmal drei Punkte darunter, eine weitere Schwelle, denn sie geben dem Charakter Zugriff auf eine Sammlung zum Beruf passender Fertigkeiten. Ein Beruf auf "+" hat also den Grundwert 9. Auf "++" hat er den Grundwert 12.
 **Es gibt keine Fertigkeiten mit "-". Ein Charakter hat sie oder er hat sie nicht. Für Fertigkeiten gilt damit (Berufe sind 3 Punkte niedriger):
 
-**+ = 12 (plus Boni aus Regel 5)
-**++ = 15 (plus Boni)
-**+++ = 18 (plus Boni)
+**	+	= 12 (plus Boni aus Regel 5)
+**	++	= 15 (plus Boni)
+**	+++	= 18 (plus Boni)
 
 ##3) Kosten
 **Kosten für Werte werden in Δ ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele Δ, wie der erreichte Wert in Plussen beträgt.
 
-**von ± auf + kostet 1 Δ
-**von + auf ++ kostet 2 Δ
-**von ++ auf +++ kostet 3 Δ
-**von +++ auf ++++ kostet 4 Δ
+**	von ±	auf +	kostet 1 Δ
+**	von +	auf ++	kostet 2 Δ
+**	von ++	auf +++	kostet 3 Δ
 
 ##4) Stärken für Schwächen
 **Eine schwache Eigenschaft (auf "-") oder ein negatives Merkmal (auf "-") zu nehmen, gibt einen zusätzlichen Punkt (Δ). Stärker negative Werte geben genauso viele Δ wie ihr positives Gegenstück kosten würde.
 **Also kann ein ängstlicher Charakter mit mickrigem Mut ("--") eine überragende ("++") Eigenschaft oder drei sehr gute Eigenschaften ("+") nehmen, da er für das mickrig ("--") drei Δ erhält.
 **Also gilt:
 
-**von ± auf - senken gibt 1 Δ
-**von - auf -- gibt 2 Δ
-**von -- auf --- gibt 3 Δ
+**	von ± 	auf – senken gibt 1 Δ
+**	von – 	auf –– 	gibt 2 Δ
+**	von –– 	auf ––– gibt 3 Δ
 
 ##5) Eigenschaftsboni
 **Jeder Fertigkeit sind zwei passende Eigenschaften zugeordnet, die einen Bonus auf ihren Wert geben. Hat der Charakter nur eine oder keine passende Eigenschaft, wird für die fehlende(n) der Durchschnittswert angenommen, der keine Boni gibt. Berufe und Hintergründe erhalten jeweils einen Bonus aus einer einzelnen, zur Situation passenden Eigenschaft. Eigenschaften mit Werten um 15 (+) geben dabei einen Punkt Bonus. Eigenschaften mit Werten um 18 (++) geben 2 Punkte, usw., also je einen Punkt pro Plus. Werte unter 12 geben nur dann Mali, wenn die Spielerin das ausdrücklich wünscht. Proben werden immer auf den Wert mit Bonus gewürfelt.
 
 **Kurz: Fertigkeiten bekommen feste Boni aus zwei Eigenschaften (1 pro +). Berufe bekommen variable Boni aus einer zur jeweiligen Situation passenden Eigenschaft.
+
 <fuss>Um deinen Charakter detaillierter zu erschaffen, kannst du ihn auch in Strichen erschaffen, wie es auf S. 31 unter "Neue Eigenschaften und Fertigkeiten" im Modul "Steigerung (SteM)" beschrieben wird.  Mit dem vost ist auch die Spezialisierung von Fertigkeiten auf bestimmte Unterbereiche möglich.
-
-#Beispiele für Eigenschaften, Fertigkeiten und Merkmale
-
-Falls du dir bei der Auswahl von Eigenschaften, Fertigkeiten und Merkmalen etwas schwer tust, mach dir keinen Kopf darum: Das geht sehr vielen so, ähnlich wie die Suche nach einem Namen.
-Um dir die Suche etwas zu erleichtern findest du hier eine Liste mit Beispielen:
-
-##Eigenschaften:
-- Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
-
-- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behendigkeit...
-
-- Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
-- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
-
-- Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
-
-- Okkultes/Magisches: Spiritualität, Magischer Fluss, Seelenstärke, Widerhall, Magieresistenz, Magiepotential, Magische Begabung, Macht, Rückhall der Klänge der Welten, Rückhall der Klänge der Macht...
-
-- Sinne: Geruchssinn, Hören, Schmecken, Tastsinn, Orientierung, Wahrnehmung...
-
-- Andere: Rang, Status, Vermögen...
-
-##Fertigkeiten:
-- Körper: Akrobatik, Entfessellung, Fernkampf, Mannschaftssport, Nahkampf, Tanzen, Überleben...
-
-- Soziales: Auftreten, Beobachten, Böse gucken, Con-Überleben, Erotische Künste, Etikette, Glücksspiel, Kochen, Leute beruhigen, Leute nerven, Rollenspiele leiten, Sich ablenken, Singen, Ungebührliches Verhalten, Verführen, Verhandeln, Verhören...
-
-- Wissen: Elektronik, Finanzen, Gebietskunde, Geistes-, Sozial-, Naturwissenschaften, Geschichte (Ort/Zeit), Graphologie, Handwerk/Reparieren, Kräuterkunde, Triviales, Seltsame Theorien...
-
-- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie...
-##Berufe:
-- Fantasy: Dieb, Händlerin, Wanderarbeiter, Gauklerin, Aristokrat, Gardistin, Brückentroll, Klerikerin, Narr, Barde...
-
-- Jetzt-Zeit: Bauarbeiterin, Pilotin, Gesellschafter, Kriminologe, Mechanikerin, Künstler, Kammerjägerin, Angestellte...
-
-- Horror/Mystery: Akademikerin, Autor, Mystiker, Predigerin, Kleinkriminelle, Cop, Unterhändler, reiche Schickse...
-
-- Cyberpunk: Schattenläuferin, Konzerncop, Hackerin, Konzernschlips, Schmuggler, Otaku...
-
-- Science-Fiction: Raumpilotin, Marinesoldat, Xenologin, Wissenschaftler, Kolonistin, Scout, Botschafter, Weltenspringerin...
-
-
-##Hintergründe:
-- Fantasy: Jeweilige Rasse + Beruf (Orkin, Goblin, Trollin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft...
-
-- Jetzt-Zeit: Klassische Hausfrau, Slumgöre, Klosterbengel, reicher Schnösel, Bande / Gang...
-
-- Horror/Mystery: Geheimgesellschaft, schottische Adelsfamilie, Erbin mit Familienfluch, Leben unter falschen Freunden, Mafia, Ex-Polizistin...
-
-- Cyberpunk: Oberschicht, Konzerner, Unterschicht, Randgruppe/Freaks...
-
-- Science-Fiction: Außenseiterin, Letzte einer ausgestorbenen Spezies, Kolonie, Zentralwelt...
-
-
-##Merkmale:
-- Vorteile: Am richtigen Ort zur richtigen Zeit (1x pro Abenteuer: +, oft: +++), Zweit-ID: +, Kampfreflexe (als Erste dran): +, Schöne Stimme (+3): +, Unsichtbar: ++, Körperwechsler: +++, Unscharfer Blick in die Zukunft: +, Kann zu Schatten werden: ++, Mit Pflanzen sprechen: +, Unter Wasser atmen: +, Altert nicht: +
-
-- Nachteile: Ehren-/Glaubenskodex: -, Taub: -, Für andere ein offenes Buch (Gedanken): -, Lüstern: -, Kann nicht töten: -, Magnet für Außergewöhnliches: -, Gehirn in einem Kasten: ---
-
-- kleine Stärken (je 3 ergeben ein +): Unauffälligkeit, Alkoholtoleranz, Gemütsruhe, ...
-
-- kleine Schwächen (je 3 ergeben ein -, jede kann eine kleine Stärke ausgleichen): Schuldkomplex, Gesetzestreu, Ehrlich, Schusselig, Tapsig, Faul, Selbstüberschätzung, Sozialer Nerd/Geek, Kurze Aufmerksamkeitsspanne, ...
-
-- weitere:
--> 1w6.org/stichwort/merkmale
-
-Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler").
-
-
 #Was bieten Beruf und Hintergrund?
 
 Hast du schon jemals gehört, "sowas kann doch Jede" oder "es kann doch gar nicht sein, dass jemand das nicht kann"? Solche Aussagen kommen oft daher, dass diese Fertigkeit in Beruf oder Hintergrund der Person angelegt ist.
@@ -381,11 +378,11 @@ Wenn ein Charakter Wunden hat, kann seine Spielerin jede Woche auf eine passende
 
 **Der Grundmindestwurf für die Heilungsprobe hängt von der Situation ab. Bei Ruhe und Pflege ist er 9. Auf Reisen und anderen Unternehmungen (der normalen Situation für Abenteurer) ist er 12. In verdreckter Umgebung und in sehr stressigen Situationen ist er 15. In einem modernen Krankenhaus liegt er bei nur 6 und im Krieg ohne Feldscherer steigt er auf 18.
 
-**- Krankenhaus: 6
-**- Ruhe und Pflege: 9
-**- Reisen und Abenteuer: 12
-**- Stress und Dreck: 15
-**- Albtraum aller Ärzte: 18
+**	Krankenhaus:		6
+**	Ruhe und Pflege:		9
+**	Reisen und Abenteuer:	12
+**	Stress und Dreck:		15
+**	Albtraum aller Ärzte:	18
 
 Zusätzlich steigt der Mindestwurf um 3 pro Wunde.
 
@@ -413,17 +410,17 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 
 **Hat nur eine der Kontrahentinnen eine Fernkampfwaffe, erhält sie bis 1 Meter Abstand einen Punkt Bonus, bis 10 Meter drei Punkte, und bei über 10 Metern 9 Punkte.
 
-**Bis 1m:	+1
-**Bis 10m:	+3
-**Über 10m:	+9
+**	Bis 1m:		+1
+**	Bis 10m:		+3
+**	Über 10m:	+9
 
 **Ist die Rüstung oder Waffe einer der Kontrahentinnen deutlich stärker als die ihrer Gegnerin, erhält sie 3 Punkte Bonus. Hat nur eine Kämpferin eine Waffe, erhält sie weitere 3 Punkte.
 
 *Streitaxt gegen Dolch gibt 3 Punkte Bonus, Kettenhemd gegen Straßenkleidung ebenso. Dolch als schwache Waffe gegen bloße Hände gibt 3 Punkte Bonus. Streitaxt gegen bloße Hände gibt 6.
 
-**Deutlich stärkere Waffe: +3
-**Kontrahentin unbewaffnet: +3
-**Deutlich stärkere Rüstung: +3
+**	Deutlich stärkere Waffe: 	+3
+**	Kontrahentin unbewaffnet: 	+3
+**	Deutlich stärkere Rüstung: 	+3
 
 **Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL).
 *"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an.
@@ -512,29 +509,29 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 **Zur Berechnung der Kosten von Fertigkeiten wird der Grundwert genommen.
 
 **Beispiel:
-**Startwert: Kochen: + (12)
-**1. Strich: Kochen: + (12)
-**2. Strich: Kochen: + (13)
+**	Kochen:	+ (12)
+**1. Strich: Kochen:	+ (12)
+**2. Strich: Kochen:	+ (13)
 **...
-**6. Strich: Kochen: ++ (15)
-**9. Strich: Kochen: ++ (16)
+**6. Strich: Kochen:	++ (15)
+**9. Strich: Kochen:	++ (16)
 
 <fuss>Ein längeres Beispiel gibt es auf S. 33 bis 35.
 
 Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusammengefügt, so dass drei Striche ein Dreieck ergeben:
 
- ´ : Ein Strich
- ^ : Zwei Striche
- Δ : Drei Striche: Dreieck
+ ´ :	Ein Strich
+ ^ :	Zwei Striche
+ Δ :	Drei Striche: Dreieck
 
 **Sobald du eine Anzahl von Dreiecken gleich der Plusse der nächsten Schwelle gezeichnet hast, fängst du wieder von vorne an (musst aber ein Dreieck mehr zeichnen, da du die nächste Schwelle erreicht hast). Dein Wert steigt um einen Punkt, wenn du für alle nötigen Dreiecke eine weitere Seite gezeichnet hast. Bei Eigenschaften gilt damit z.B.:
 
-Fitness: +      (15)
-Fitness: +,´    (15)
-Fitness: +,´´   (16)
-Fitness: +,^^   (17)
-Fitness: +,ΔΔ   (18) = ++
-Fitness: ++,´´´ (19)
+Fitness: +  	(15)
+Fitness: +,´	(15)
+Fitness: +,´´	(16)
+Fitness: +,^^	(17)
+Fitness: +,ΔΔ	(18) = ++
+Fitness: ++,´´´	(19)
 
 #Striche pro Abend
 
@@ -561,8 +558,8 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 
 
 
-*Die verbleibenden Striche will er nutzen, um die Fertigkeit "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens ++ ist (15: sehr gut), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
 
+*Die verbleibenden Striche will er nutzen, um die Fertigkeit "Kunst des Flirtens" zu steigern, in der sein Grundwert durchschnittlich ist, mit Boni gut (12+2=14). Er will aber noch viel besser werden. Da die nächste Schwelle in der Kunst der Flirtens ++ ist (15: sehr gut), braucht er weitere zwei Striche, um sie um einen Punkt auf 13 zu steigern und wird so  effektiv sehr gut: 13+2=15.
 
 
 
@@ -576,7 +573,9 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 
 
 
-*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht ++ (15: sehr gut) und geht auf +++ zu (18: überragend).
+
+
+*Die nächste Steigerung dieser Fertigkeit wird ihn nun also 3 Striche pro Punkt kosten, denn sein Grundwert erreicht ++ (15: sehr gut) und geht auf +++ zu (18: überragend).
 
 *Auf die nächste Steigerung wird Lazaro damit wohl noch etwas warten müssen.
 
@@ -683,6 +682,7 @@ Alles Kampferschwerende geht als Malus ein.
 *In einer Kampfarena trifft Stahlkatze auf zwei Soldaten. Er lauert in einem Gang hinter einer Säule, während sie Schritt für Schritt näher kommen. Der Erste murmelt leise etwas, dann hört der Katzenmensch die etwas schwereren Schritte des Zweiten in Armreichweite der Säule kommen. Plötzlich huscht Stahlkatze hinter der Säule hervor, seine Bewegungen nur Schemen für den ungeübten Beobachter.
 
 *Während sein Gegner die Waffe hochreißt, zucken Stahlkatzes Krallen nach dessen Hals.
+
 **Technisches:
 **Stahlkatze ist ein überragender Kämpfer (Nahkampf 18) während sein Gegner seine Waffe noch nicht in Schussposition hat und daher auf seine ungeübten Nahkampffertigkeiten vertrauen muss (Nahkampf 9). Ein kurzer vergleichender Wurf (Stahlkatze wirft eine 4, der Soldat eine 2) kommt auf (18+4)=22 für Stahlkatze und (9+2)=11 für den Soldaten. Stahlkatze trifft und die Differenz von 11 wird auf den Schaden addiert. Zusätzlich verursachen Stahlkatzes Krallen 4 weitere Punkte Schaden. Da der Soldat keine nennenswerte Rüstung trägt, erhält er damit 11+4=15 Punkte Schaden.
 
@@ -723,11 +723,15 @@ Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende 
 **- Nicht zu treffendes Ziel steht teilweise in Sichtlinie: MW+3
 
 ##Deckung:
-**- Ziel in 1/3-Deckung (z.B. Beine gedeckt): MW+3
-**- Ziel in 2/3-Deckung (z.B. Nur Schultern und Kopf sichtbar): MW+6
-**- Ziel in 9/10 Deckung (z.B. Nur Kopf oder nur Arm sichtbar): MW+9
-**- Schütze in 2/3 Deckung (oder mehr): MW+3
-**- Schütze in 9/10 oder mehr Deckung (Blindschuss): MW+9
+**- Ziel in 1/3-Deckung:	MW+3
+**  (z.B. Beine gedeckt)
+**- Ziel in 2/3-Deckung:	MW+6 
+**  (z.B. Nur Schultern und Kopf sichtbar)
+**- Ziel in 9/10 Deckung:	MW+9
+**  (z.B. Nur Kopf oder nur Arm sichtbar)
+**- Schütze in 2/3 Deckung:	MW+3
+**- Schütze in 9/10 Deckung: 	MW+9
+**  (Blindschuss)
 
 ##Beispielkampf, Fernkampf
 *Stahlkatze streift über die leeren Dächer des Hochhausghettos. Dann und wann huschen Katzen zur Seite oder erstarren mit gesträubtem Fell, wenn sein Schatten auf sie fällt. Die einzigen Geräusche sind das ferne Brummen des Straßenverkehrs  in den belebteren Teilen der Stadt und das Knacken von Beton, der nach dem Verschwinden der Sonne langsam abkühlt.
@@ -742,8 +746,10 @@ Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende 
 *Als ihn das Motorrad fast erreicht hat, bringen Stahlkatze zwei schnelle Schritte aus der Reichweite der Keule, und die Wurfscheibe verlässt seine Krallen auf einer tödlichen Bahn.
 **Technisches:
 **- Grund-MW: Kurz im Kampf: MW 12
-**- Angreifer bewegt sich schnell: MW+3 => MW 15
-**- Ziel in 1/3 Deckung (Beine hinter dem Motorrad): MW+3 => MW 18
+**- Angreifer bewegt sich schnell: MW+3 
+**  => MW 15
+**- Ziel in 1/3 Deckung (hinter dem Motorrad): MW+3 
+**  => MW 18
 **- Fernkampfwert von Stahlkatze: 12.
 
 *Um zu treffen muss er eine 6 werfen, ansonsten prallt die Scheibe harmlos an den Stacheln des Motorrads ab.
@@ -788,7 +794,7 @@ unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), A
 
 Außerdem mit Inspirationen aus DSA® (Fanpro), Shadowrun® (FASA), Gurps® (SJGames), Fudge™ (Grey Ghost Press), Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic), dem Weltenbuch (jcorporation) und vielen weiteren.
 
-Diese Version wurde maßgeblich von Andreas Jehle und Julian Groß korrekturgelesen. Ihnen gebührt der Dank dafür, dass bestimmte Abschnitte nun verständlicher sind.
+Das Design dieser Version wurde maßgeblich von Tim Charzinski verbessert. Es macht wahnsinnig was aus, wenn jemand mitmacht, der Ahnung davon hat.
 
 An dieser Stelle: Danke!
 
@@ -797,3 +803,5 @@ Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt.
 <fuss>Grafiken: Das Logo, der Drache, der Echsenmensch mit Keule und die Echsenfrau im Lendenschurtz stammen von Trudy Wenzel, der zwergische Runenmeister wurde von Philipp Barber gezeichnet, die restlichen Portraits sind von Kathrin Polikeit und die Symbole kommen aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org). Falls du Lust hast, für das EWS eigene Bilder zu zeichnen, dann schreib uns bitte!
 
 <fuss>PS: Vom Autor empfohlen ab 14 Jahren.
+
+
