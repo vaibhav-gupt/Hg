@@ -23,7 +23,18 @@ The struck charakter takes an amount of damage equal to the difference the winne
 The normal wound threshold is between 3 and 6, weapon damage and armor between 1 (dagger / dart / cloth) und 8 (axe / rifle / plate). If one of the fighters only wants to defend, he gets a bonus of 6 but causes no damage if he hits.  
 For healing the player rolls once per week with a ±D6. Then he adds 1 per + in suitable attributes. If the result is at least 0, one wound heals. Strain, missing care or nursing give between -3 and +3.  
 *Example: Daenes (Fists 15, confident +, strong +) tries to put down a rogue Rakasha (Claws 12). Daenes player rolls a 4 and reaches 21 (15 plus 2 plus 4). The Game Master rolls a 4, so she gets 16 (12 plus 4). So Daenes hits her enemy with a difference of 5 points (21 minus 16) and does 6 damage (1 from her fire reaml hardened knuckles). The damage reaches the wound threshold of the Rakasha (5) and wounds her. Till that wound heals, the Rakasha has a malus of 3 on all rolls. She tries to escape and decides to just defend. That gives her a bonus of 6. Together with the wound she now has 15 (12-3+6). Daenes attacks again and rolls a 3, reaching 14 (15 plus 2 minus 3). The GM rolls a 1 and also reaches 14 (15 minus 1). Since Daenes attacks, she hits. But she does not cause a wound. Nevertheless the Rakasha gets hit again and surrenders. She is bound and her wounds are treated. A week later she rolls for healing. The die shows a 1, which is -1, but the nursing from other prisoners gives her a bonus of 1. That suffices to reach 0 and her wound heals.*
-##  Trekk nach Norden
+##  Schiffs-Feier
+Being a Pirate is Great!
+Especially when your a treasure hunter!
+And transport friends as passangers!
+And one of them can cure your hangover with a snap of her fingers!
+
+
+
+Piraterie ist toll!  
+Besonders, wenn man auf Schatz-Suche ist!
+Und man Freunde transportiert!
+Und eine Magierin an Bord hat, die den Morgenkater mit einem Fingerschnippen heilt!
 Es ist eine Zeit hoffnungsvoller Siedler und mutiger Abenteurer. Die Menschen haben neues Land entdeckt, reich an Rohstoffen und magischen Wundern. Die Neuen Lande reichen von den verschneiten Huwarrgipfeln im Osten über die dampfenden Marschlande im Norden, bis hin zu den lebensfeindlichen Wüsten im Westen - dazwischen fruchtbare Ebenen, die von einem glitzernden Binnenmeer durchbrochen werden.
 Die Siedler ziehen von diesem Binnenmeer den reißenden Fluss Kanwao entlang. Sie reisen in Trekks aus Karossen aus Holz und Metall, gezogen von gewaltigen Echsen, die gestärkt werden durch dampfgetriebene Technik. Ziel jedes Trekks ist die nächste Stadt, um diese gegen Neider und das wechselhafte Wetter zu befestigen und den Reichtum des Umlandes zu erschließen – unbeirrt der verständnislosen Blicke der Ureinwohner.
 Die einfachen Echsenmenschen an Ufern der Flüsse und Seen, die ihre Lieder in den Abendwind singen. Die fremdartigen Vogelmenschen, die in den Lüften Gebirge tanzen. Sie leben im Einklang mit der Natur der Neuen Lande, bar jeglichen Verständnisses den Eindringlingen gegenüber. Einzig die Katzenmenschen, einst selbst hinzugezogen, hegen ihrer Neugierde geschuldetes Verständnis.
