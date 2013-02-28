@@ -2914,3 +2914,60 @@ Und vor allen Dingen mit den Emotionen achtsam umzugehen.
 — Skiron ( http://tanelorn.net/index.php/topic,78906.msg1633795.html#msg1633795 )
 
 → Achtsames Spielen
+
+
+------
+
+Ich brauche 150s für ein Flyerpaket: 2x4 Zusatzszenarien, und 32 Charakterkarten in ein Lizenzfaltblatt gepackt. Noch 12 Grundflyer dazu und unser Beitrag zu einem einzelnen Care-Paket des Gratisrollenspieltages ist fertig.
+
+Die Grundflyer sind allerdings schon bei Christian, der die Paketierung übernimmt. Um ein Care-Paket mit dem 1w6 Flyerbuch auszustatten kann er also einfach ein Lizenzfaltblatt mit Inhalt aus dem Karton nehmen und 12 Grundflyer dazulegen.
+
+
+------
+
+Mitschrieb aus http://pihalbe.org/audio/picast-%E2%80%94-folge-15-%E2%80%94-interview-zum-ews-mit-arne-babenhauserheide-688 
+(plus Stilanpassung für getippten Text)
+
+RaumZeit ist Far-Out Science-Fiction und geht in den Bereich Science Fantasy. Technisch ist fast alles machbar, was nicht durch Gesetze eingeschränkt ist. Die Idee war, etwas zu haben, bei dem wir unsere Ideen einbringen können - und bei dem vor allem unser Spielleiter seine Ideen einbringen kann. High-Fantasy Science-Fiction. 
+
+Wer es liest und merkt „das klingt aber sehr wie StarCraft“: Das kommt davon, dass RaumZeit mit vielen NSCs aus StarCraft angefangen wurde, weil wir das Spiel einfach klasse finden. Inzwischen wurde eine ganze Welt daraus, die auch technologisch auf anderem Stand ist, aber ein paar Grundideen sind immernoch drin.
+
+Technophob, das Heft, das wir dazu machen, ist allerdings nicht „wir spielen jetzt in diesem riesigen Universum, in dem alles geht“, sondern: Wir spielen als Piraten oder ähnliches in der Nähe einer kleinen Station in der Nähe eines Bereichs, in dem jeder Planet seine eigenen Einschränkungen festlegt: Der eine erlaubt keine Gentechnik, der nächste erlaubt nichts, das mit mehr als Muskelkraft funktioniert, usw.
+Unsere Charaktere sind Techschmuggler. Wir schmuggeln Technologie auf Planeten, auf denen sie eigentlich nicht erlaubt ist.
+
+Die Grundidee für Technophob war: Was kann man eigentlich in RaumZeit machen, das sich sinnvoll beschreiben lässt und viel Stoff für eigene Abenteuer bietet. Es übernimmt das Auftragsschema von Shadowrun und beschreibt die Welt auf einer kleinen Skala, damit wir nicht das ganze große Universum dokumentieren müssen (und jeder den Überblick verliert), sondern eine Region beschreiben können. Effektiv eine Kampagnenidee, die man für sich ausprobieren kann, so dass das Buch schlank bleibt, dass man nicht zu viel lesen muss und schnell anfangen kann. One-Shot-tauglich.
+
+…
+
+Die Welt in der Mechanik umsetzen: Nicht sagen „ich würfel auf den Wert, denn den habe ich auf dem Charakterblatt stehen“. Stattdessen sollte der Wert auf dem Charakterblatt für den Charakter eine Bedeutung haben. Wenn man die Werte sieht, sollte der Charakter vor dem inneren Auge sichtbar werden.
+
+PS: Das mit dem schlank bleiben hat sich als sehr schwer herausgestellt. Wir haben nur das drin, was absolut notwendig ist, und der Regelteil ist trotzdem schon von geplanten 24 DinA5-Seiten auf knapp 100 DinA4-Seiten gewachsen. Ohne dass Inhalte dazugekommen sind. Es hat sich herausgestellt, dass „dafür brauchen wir 2 Seiten“ im Dialogstil vollkommen illusorisch war… dafür könnten wir Technophob ohne große Änderungen als Hörspiel veröffentlichen :)
+
+
+
+------
+
+Tim Charzinski: Gute Lösung - auch wenn das Würfeln vor jeder Runde schon heftig ist. Kann man das irgendwie verbessern, z.b. durch eine Fertigkeit "Lizenzmanipulation"? Ansonsten ist der gesamte Schmuggel reichlich hinfällig.﻿
+
+ArneBab: So eine Fertigkeit wäre passend, ja. Dadurch könnte die Selbstzerstörung hinausgezögert werden.
+
+Als Regelmechanismus für die verzögerung würde ich die KO-Proben nehmen: Du wirfst den ±W6. Dann addierst du 1 pro + in passenden Fertigkeiten. Wenn das Ergebnis unter 0 ist, zerstört sich der Gegenstand selbst. Je nach Situation und Handhabung in der letzten Runde würde ich nochmal -3 bis +3 geben:
+
+- Im Frachtraum in versiegelter Originalverpackung: +3 (oder kein Wurf),
+- offen durch einen Scan der Raumpatroullie getragen, entdeckt worden, im Rückzugsgefecht mit der Raumpatroullie von Waffenfeuer getroffen: -3.
+
+Dadurch brauchst du eine Fertigkeit mit 8+, damit dir nichts mehr kaputt geht, und mit 5+, damit dir in ruhigen Situationen nichts mehr kaputt geht. Du kannst aber schon mit 2+ in der Fertigkeit sicher sein, dass dir beim vorsichtigen Schmuggeln nichts kaputt geht.
+
+… das ist ein sehr cooles weiteres Spielelement :)
+Landet definitiv in unserer Ideensammlung! Ich muss noch schauen, ob ich das noch in das Buch reinbekomme…
+
+Permanent sichern kannst du es dann, indem du ein Δ zahlst - das entspricht der Arbeit, die du in die Anpassung gesteckt hast.
+
+
+------
+
+Ich glaube, die Schleuder hatte v.a. das Problem, dass es ewig dauert, sie zu lernen.
+
+Ihre Zeit endete, nachdem die Armeen nicht mehr auf einen großen Vorrat armer Hirten zurückgreifen konnten, die in ihrer massigen Freizeit nichts anderes zu tun hatten, als ihre knapp bemessenen Erschaffungspunkte in die Fertigkeit für ein Waffe zu pumpen, mit der erst überragende Kämpfer einen Gegner auf die gleiche Entfernung treffen konnten wie anfangende Bogenschützen.
+
+Gut, sie hatten dann auch unendlich viel Muni und ihre Waffe immer dabei. Aber was bringt das, wenn du erst 20 Jahre in Minijobs rumhängen musst, bis du gut genug bist, um auch nur eine mittelmäßige Stelle als Schleuderer zu bekommen?

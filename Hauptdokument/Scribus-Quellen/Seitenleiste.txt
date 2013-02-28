@@ -74,7 +74,7 @@ MW: Name (Chance)
 
 Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9), so dass nur jeder 6. Versuch fehlschlägt.
 
-Jobs, deren Schwierigkeit höher liegt, verlangen Sonderqualifikationen oder haben recht niedrige Erfolgs- oder Überlebensraten.
+Jobs, deren Schwierigkeit höher liegt, verlangen Son­der­quali­fi­ka­tio­nen oder haben recht niedrige Erfolgs- oder Über­le­bens­ra­ten.
 
 <fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit).
 
@@ -146,10 +146,7 @@ Es ist deutlich, dass sie das Zeug zum Helden (oder Schurken) haben, aber noch s
 Die Charaktere gehören zu den mächtigeren Personen in der Hintergrundwelt und haben meistens die Mittel und Wege, ihren Willen durchzusetzen.
 
 - Beweger:
-Die Charaktere können über das Schicksal ihres Landes mitentscheiden.
-
-
-
+Die Charaktere können über das Schicksal ihres Landes mit­ent­schei­den.
 
 #Persönliche Gegenstände
 Im EWS gibt es zwei Arten von Ausrüstung: Normalen Besitz und persönliche Gegenstände.
@@ -170,7 +167,7 @@ Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff au
 
 Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe.
 
-
+
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird.
 
@@ -213,7 +210,7 @@ Für Nachteile gilt das gleiche Schema, nur im Negativen.
 
 #Merkmale aus Fudge™
 Aus Fudge™ könnt ihr Merkmale übernehmen, indem ihr einfach jedes Fudge "+" oder "-" als vobsy "+" oder "-" rechnet.
-Modifikatoren auf Proben oder Werte werden dabei verdreifacht.
+Modifikatoren auf Proben oder Werte werden dabei ver­drei­facht.
 #Welche Eigenschaften für welchen Charakter?
 Die Eigenschaften des Charakters formen die Wahrnehmung, die andere von ihm erhalten, und entsprechend sollte schon der Klang der Eigenschaften das Bild des Charakters im Geist entstehen lassen.
 
@@ -235,7 +232,7 @@ Fertigkeiten dagegen sind erarbeitetes Können, das all denen zur Verfügung ste
 
 Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat.
 
-Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten gewählt.
+Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten ge­wählt.
 
 
 #Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
@@ -252,7 +249,6 @@ Berufe sind hier Tätigkeiten, die der Charakter aktuell ausübt, während Hinte
 Der Hintergrund ist, was ihn geformt hat, der Beruf, was er jetzt tut.
 
 Regeltechnisch werden beide gleich behandelt.
-Detaillierter auf der nächsten Seite.
 
 
 #Breite Berufe
