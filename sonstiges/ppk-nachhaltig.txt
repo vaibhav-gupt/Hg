@@ -65,4 +65,40 @@ Ein Weg, um beides zu vereinen ist es, eine Welt Schritt für Schritt aufzubauen
 Daher haben wir das Konzept der Kampagnenbände. Sie beleuchten einen Teil der Welt und versuchen ihn lebendig werden zu lassen, damit er für die Spieler eine Bedeutung hat. Denn ob sie um die Welt kämpfen oder um ein Dorf ist letztlich egal. Es zählt nur, dass ihnen wichtig ist, worum sie kämpfen.
 
 Die schwierigste Frage ist dabei, wie wir einen Einfluss der Spieler auf die Welt ermöglichen und gleichzeitig neue Werke herausbringen können.
-Im Endeffekt ähnlich wie DSA den Plot der Welt durch Abenteuer voranbringt, aber anders als DSA verschiedene Ausgnänge der Abenteuer akzeptieren, also die Welt so offen halten, dass ein Späteres Abenteuer zwar davon beeinflusst wird, wie ein vorheriges ausging.
+Im Endeffekt ähnlich wie DSA den Plot der Welt durch Abenteuer voranbringt, aber anders als DSA verschiedene Ausgnänge der Abenteuer akzeptieren, also die Welt so offen halten, dass ein Späteres Abenteuer zwar davon beeinflusst wird, wie ein vorheriges ausging, aber nicht von einem bestimmten Ausgang abhängt.
+
+Vielleicht brauchen wür sogar Regelmechanismen für die Größeren Auswirkungen von Abenteuern: Wie auch immer das Abenteuer ausgeht, die Charaktere gewinnen etwas dabei.
+
+Eine Möglichkeit wäre es, ähnlich wie in Universalis zu sagen, dass nicht nur die Charaktere selbst Punkte bekommen können, sondern auch die Welt. Und dass die Welt den Charakteren wiederum Boni geben kann.
+
+Wenn sie zum Beispiel eine Raumstation retten, erhalten diese Stationen ein + (genauer gesagt: Die Charaktere erhalten den Wert „Retter der Station X“ oder „Station X gerettet“, der Boni geben kann), und wann immer die Charaktere später wieder dort sind, erhalten sie einen Punkt Bonus (pro +). Das gleiche gilt für gerettete Personen. Und vielleicht lassen sich Verluste triggern, wie schwache Eigenschaften. Und wenn ein Charakter nachteile in Kauf nimmt, erkäpft er sich damit vielleicht die Unterstützung underer. Und wenn sie versagen, erhalten sie dafür selbst mehr Steigerungspunkte - im Ausgleich dafür, dass in der Welt nun ein negatives Ergebnis ihrer Handlungen existiert.
+
+Genauer: Die Charaktere bekommen eine bestimmte Anzahl von Punkten. Haben sie Erfolg, dann geht ein Teil der Punkte in die Welt. Versagen sie, dann erhalten sie ein paar Zusatzpunkte dafür, dass in der Welt jetzt Nachteile für sie existieren.
+
+Vielleicht ein Blatt für des Charakterheft? Erfolg und Versagen? Ruhm und Schande? 
+
+Das genauso Teil der Charaktere ist wie ihre Eigenschaften und Fertigkeiten.
+
+Und das sie genauso nutzen können.
+
+Eine ideale Kampagne würde dann in einen Höhekunkt münden, in dem die Spieler ihre Ruhmestatet zusammenbringen und sich damit all ihrer Schande stellen - und in einer großen Finale eine Entscheidung zwischen Ruhm und Schande herbeiführen.
+
+Sie bieten also auf, was sie erreicht haben, legen alle Karten auf den Tisch und nutzen alles, was sie über die Jahre gelernt haben, um die Karten noch einmal neu zu verteilen.
+
+Dafür braucht es noch einen Mechanismus, mit dem die Spieler ihren Ruhm einbringen können, und wie die SL ihre Schande einbringen kann.
+
+Und am Ende einer Kampagne haben die Veränderungen der SPielwelt dann nicht nur eine individuelle Gestallt, sondern auch Werte, auf die die Spieler aktiv zurückgreifen konnen - und die den Einfluss auf spätere Kampfagnen definieren, so dass autoren späterer Kampagnen abschätzen können, wie groß die Streubreite von Fähigkeiten ist.
+
+Es macht einen enormen Unterschied, ob die Retter oder die Zerstorer der Piraten um Traum Anderer in ein Abenteuer eintreten. Wenn eine ganze Region in den ausstand getreten ist, dann ändert das eine der Grundannahmen der Welt: Ist es möglich, unabhängig von Xynoc zu leben.
+
+Jede Region wird davon betroffen sein - und diese Auswirkungen stehen auf den Charakterblättern der Spieler, zumindest in Ansätzen.
+
+
+
+
+
+
+
+
+
+
