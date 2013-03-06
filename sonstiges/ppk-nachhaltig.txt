@@ -1,44 +1,49 @@
-# Plot-Point-Kampagnen und nachhaltige Welten
+# Plot-Punkte-Kampagnen und nachhaltige Welten
+
+Ich habe versucht, Plot-Punkte-Kampagnen und anderen Arten der Verbreitung von Rollenspielen gegenüberzustellen und die jeweiligen Stärken herauszuarbeiten, um dann weitere Möglichkeiten zu finden. Das Ergebnis spiegelt zwar nur mein eigenes begrenztes Verständnis der Thematik wider, ich hoffe aber, dass es trotzdem spannend für euch ist.
+
+Sollte ich irgendetwas falsch verstehen, korrigiert mich bitte!
 
 ## Was sind PPKs?
 
-Plot Point Kampagnen sind mit Sawage Worlds groß geworden, oder haben zumindest größere Verbreitung erlangt (in Traveller gab es ähnliche Konzepte) und sie haben in der deutschen Netzgemeinde eine starke Anhängerschaft.
+Plot-Punkte-Kampagnen sind mit Savage Worlds groß geworden, oder haben zumindest größere Verbreitung erlangt (in Traveller gab es ähnliche Konzepte) und sie haben in der deutschen Netzgemeinde eine starke Anhängerschaft.
 
-Sie sind vorlagen für episches, weltveränderndes Spiel, bei dem der SL grobe Hinweise gegeben werden, mit denen Sie ire Kampagne leiten kann.
+Sie sind Vorlagen für episches, weltveränderndes Spiel, bei dem der SL grobe Hinweise gegeben werden, mit denen Sie ihre Kampagne leiten kann.
 
-Im Kleinen sind sie dadurch ähnlich wie Flyerbücher - was kaum verwundern sollte, wo doch Taysal ein anhänger von Sawage Worlds ist.
+Im Kleinen sind sie dadurch ähnlich wie Flyerbücher - was kaum verwundern sollte, wo doch Taysal ein Anhänger von Savage Worlds ist.
 
-Im Großen dagegen unterscheiden sie sich dadurch, dass sie das dramatische Potenzial eines ganzen Settings freisetzen - und verbrauchen.
-Zornhau schreibt dazu, dass Sawage Settings mit grober Feder gestrickt sind. Im Kontext dieses Textes könnte man das umformulieren als „Sawage Settings liefern nur die Hintergründe, die nötig sind, um ihre Plot Point Punkte Kampagne zu befeuern“. Und wenn die Kampagne durchgespielt ist, ist entsprechend auch der Hintergrund verbraucht.
+Im Großen dagegen unterscheiden sie sich dadurch, dass Plot-Punkte-Kampagnen das dramatische Potenzial eines ganzen Settings freisetzen - und verbrauchen.
+Zornhau [schreibt dazu](http://www.aktion-abenteuer.de/b/threads/was-ist-das-besondere-an-plot-point-kampagnen.35359/#post-1177937), dass Savage Settings [mit grober Feder gestrickt](http://www.aktion-abenteuer.de/b/threads/was-ist-das-besondere-an-plot-point-kampagnen.35359/#post-1177947) sind. Im Kontext dieses Textes könnte man das umformulieren als „Savage Settings liefern nur die Hintergründe, die nötig sind, um ihre Plot Punkte Kampagne zu befeuern“. Und wenn die Kampagne durchgespielt wurde, ist entsprechend auch der Hintergrund verbraucht.
 
 Insofern ist hiermit der Hintergrund vollständig der Geschichte untergeordnet, so wie es auch in vielen Romanen passiert.
 
-Für Pinnacle ist diese Stategie sehr geschickt, dadurch dass Welten mit klassischer Plot Punkte Kampagne nur so lange leben, bis die PPK gsspielt ist, wird das Regelwerk zum Fokuspunkt und es gibt stetigen Bedarf an neuen Veröffentlichungen. 
+Für Pinnacle ist diese Stategie sehr geschickt. Dadurch dass Welten mit klassischer Plot Punkte Kampagne nur so lange leben, bis die PPK gsspielt ist, wird das Regelwerk zum Fokuspunkt und es gibt stetigen Bedarf an neuen Veröffentlichungen. 
 
-Gleichzeitig werden Settings zum Verbrauchsgegenstand, so dass nicht die Gefahr besteht, dass ein Setting größer wird als sein Regelwerk, was wiederum Sicherstellt, dass die Autoren von Sawage Worlds Hintergruünden an Sawage Worlds gebunden bleiben.
+Gleichzeitig werden Settings zum Verbrauchsgegenstand, so dass nicht die Gefahr besteht, dass ein Setting größer wird als sein Regelwerk. Und das stellt wiederum sicher, dass die Autoren von Savage Worlds Hintergründen an Savage Worlds gebunden bleiben.
 
-Allerdings ist das auch für die Autoren nützlich, denn ihre Arbeit wird zwar nur einmal erlebt, aber dafür haben ihre Fans Bedarf an weiteren Werken. Und das gibt Rollenspielen eine (weitere, kleine) kommerzielle Perspektive. Und das heißt, dass sie es (teilweise) finanziert kriegen, für Rollenspiele zu schreiben.
+Allerdings ist nutzt das auch Autoren, denn ihre Arbeit wird zwar nur einmal erlebt, aber dafür haben ihre Fans Bedarf an weiteren Werken. Und das gibt Rollenspielen eine (weitere, kleine) kommerzielle Perspektive. Das heißt, dass die Autoren es (teilweise) finanziert kriegen, für Rollenspiele zu schreiben.
 
 Im Endeffekt hat Pinnacle mit PPKs ein Extrem der Kräfteverteilung zwischen Welt und Regeln realisiert: Das Regelwerk als Spielform, zusammen mit Wegwerf-Welten.
 
 ## Was sind nachhaltige Welten
 
 Das Gegenstück zu diesem Konzept sind Welten, die immer weiter verfeinert werden, um in der gleichen Welt immer neue Abenteuer und Spielformen finden. Das bekannteste Beispiel dafür ist in Deutschland DSA. Hier wird jeder Fleck der Welt detailliert ausgearbeitet, und diese Regionalbeschreibungen werden verkauft.
+
 Hierdurch entwickelt sich eine immer intensivere Vorstellung der Welt, und wenn die einzelnen Beschreibungen konsistent sind (und gut gemacht), kann sich die Welt für die Spieler zu einer zweiten Heimat entwickeln. Durch dieses Heimatgefühl können dann kleinere Handlungen eine Bedeutung erlangen, die der Rettung der Welt entspricht, ohne aber die Welt zu zerstören. Die Kräfteverteilung zwischen Regeln und Welt ist hier gerade umgekehrt wie bei Plot-Punkte-Kampagnen: DSA-Spieler neigen eher dazu, die Regeln zu ändern (wie an mehreren DSA-Regeln-Klonen sichtbar wird), um das Gefühl von Aventurien zu transportieren, als an der Welt zu schrauben. Und die Pervertierung von beidem durch die Borbaradianer hat mir selbst sehr schwer im Magen gelegen - anders als bei jeglicher anderen Welt.
 
 Außerdem können Spieler in der Welt mit den gleichen Charakteren immer neue Abenteuer erleben und dabei Stück für Stück eine immer stärkere Vorstellung der Welt und auch ihres Charakters aufbauen.
 
-Insofert verkörpert DSA das andere Extrem: Die persistente Welt, vielleicht am stärksten sichtbar dadurch, dass es als eines der höchsten Ziele eines Abenteuers angesehen wird, zu vermitteln, dass die NSCs auch ohne die Charaktere ihre Leben leben würden.
+Insofert verkörpert DSA das zweite Extrem: Die persistente Welt, vielleicht am stärksten sichtbar dadurch, dass es als eines der höchsten Ziele eines Abenteuers angesehen wird, zu vermitteln, dass die NSCs auch ohne die Charaktere ihre Leben leben würden.
 
 ## Andere Ansätze
 
-Nachdem wir die zwei Extreme „Wegwerf-Welten“ und „Die eine Welt“ hatten, schauen wir doch kurz noch auf Alternative Ansätze
+Nachdem wir die zwei Extreme „Wegwerf-Welten“ und „Die eine Welt“ hatten, schauen wir doch kurz noch auf alternative Ansätze
 
-Gurps bietet den Ansatz gleicher Regeln in vielen Welten, zusammen mit Reisen durch Raum und Zeit, wenn man die Charaktere weiterspielen will. Es liefert Werkzeuge, um eigene Kampagnen zu schreiben und arbeitet diese Werkzeuge mit so vielen Nachforschungen und so viel Sorgfalt aus, dass die Bücher oft bessere Einstiegsquellen für ein Thema sind als ein LExikon - ja, auch besser als Wikipedia, und spannender.
+Gurps bietet den Ansatz gleicher Regeln in vielen Welten, zusammen mit Reisen durch Raum und Zeit, wenn man die Charaktere weiterspielen will. Es liefert Werkzeuge, um eigene Kampagnen zu schreiben und arbeitet diese Werkzeuge mit so vielen Nachforschungen und so viel Sorgfalt aus, dass die Bücher oft bessere Einstiegsquellen für ein Thema sind als ein Lexikon - ja, auch besser als Wikipedia, und spannender.
 
 Shadowrun liefert wie DSA eine persistente Welt, aber mit einem stärkeren Fokus auf Ausrüstung - und eben für Cyberpunk und Fantasy in einem.
 
-DnD liefert ein Set von Regeln und Charakterklassen und verkauft Klassenbücher. Das Äquivalent zu Ausrüstungsbüchern in einer Welt mit begrenzten Entwicklungsmöglichkeiten.
+DnD liefert ein Set von Regeln und Charakterklassen und verkauft Klassenbücher: Das Äquivalent zu Ausrüstungsbüchern in einer Welt mit begrenzten Entwicklungsmöglichkeiten.
 
 Vampire verkaufte Hitergrundbücher. Das konnte nicht gut gehen, wenn die ihren Hintergrund brechen. Sie haben ihre Geldquelle zerschossen.
 
@@ -46,9 +51,9 @@ Vampire verkaufte Hitergrundbücher. Das konnte nicht gut gehen, wenn die ihren 
 
 Ich habe jetzt viel von der den Geldquellen der Spiele gesprochen, ohne zu sagen, warum sie wichtig sind.
 
-Ein Rollenspiel wird hertzutage entweder im Netz veröffentlicht und als Hobby geschrieben. Oder es wird gedruckt - und auch als Hobby veröffentlicht. Aber es muss halt genug Geld dabei rumkommen, dass sich der druck finanzieren lässt.
+Ein Rollenspiel wird heutzutage entweder im Netz veröffentlicht und als Hobby geschrieben. Oder es wird gedruckt - und auch als Hobby veröffentlicht. Aber es muss halt genug Geld dabei rumkommen, dass sich der Druck finanzieren lässt.
 
-Dadurch können nur Werke gedruckt werden, die genug Geld abwerfen, also genug Käufer finden. Diese Hefet sind damit logischerweise das, was die meisten Spieler des Systems mit dem System verbinden. Denn die am meisten gekauften Werke sind meist auch die von den meisten gelesenen.
+Dadurch können nur Werke gedruckt werden, die genug Geld abwerfen, also genug Käufer finden. Diese Hefte sind damit logischerweise das, was die meisten Spieler des Systems mit dem System verbinden, denn die am meisten gekauften Werke sind meist auch die von den meisten gelesenen.
 
 Grob vereinfacht lässt sich also sagen, dass die Geldquelle eines Rollenspiels sich über kurz oder lang zum Markenzeichen des Spiels entwickeln wird. Daher ist es essenziell zu überlegen, womit du Geld verdienen willst, oder zumindest, was dein Produkt sein soll.
 
@@ -58,37 +63,48 @@ Was ist das, von dem du dir wünscht, dass Leute es bei dir suchen? Das solltest
 
 Diese Frage habe ich mir auch gestellt. Ich will, dass Schöpfungen ein eigenes Leben haben und dass Autoren auf dem aufbauen können, was sie schaffen.
 
-Gleichzeitig spiele ich gerne kampagnen, in denen es um etwas geht und in denen wir etwas verändern. In denen unsere Entscheidungen und unsere Handlungen einen Einfluss haben.
+Gleichzeitig spiele ich gerne Kampagnen, in denen es um etwas geht und in denen wir etwas verändern. In denen unsere Entscheidungen und unsere Handlungen einen Einfluss haben.
 
-Ein Weg, um beides zu vereinen ist es, eine Welt Schritt für Schritt aufzubauen. Jede Veröffentlichung betrachtet einen Aspekt der Welt. Im Idealfall führt sie sie von einem spannenden Zustand in den nächsten. Sie sollen also alle im Heft aufgebauten dramatischen Potenziale nutzen, ohne dadurch langweilig oder unspielbar zu werden.
+Ein Weg, um beides zu vereinen ist es, eine Welt Schritt für Schritt aufzubauen. Jede Veröffentlichung betrachtet einen Aspekt der Welt. Im Idealfall führt sie diesen Aspekt von einem spannenden Zustand in den nächsten. Die Veröffentlichung sollte also alle in dem Aspekt der Welt aufgebauten dramatischen Potenziale nutzen, ohne dadurch langweilig oder unspielbar zu werden.
 
-Daher haben wir das Konzept der Kampagnenbände. Sie beleuchten einen Teil der Welt und versuchen ihn lebendig werden zu lassen, damit er für die Spieler eine Bedeutung hat. Denn ob sie um die Welt kämpfen oder um ein Dorf ist letztlich egal. Es zählt nur, dass ihnen wichtig ist, worum sie kämpfen.
+Daher haben wir das Konzept der Kampagnenbände, auch wenn wir bei der Entscheidung für Kampagnenbände noch weitaus weniger theoretischen Unterbau hatten als heute. Sie beleuchten einen Teil der Welt und versuchen ihn lebendig werden zu lassen, damit er für die Spieler eine Bedeutung hat. Denn ob sie um die Welt kämpfen oder um ein Dorf ist letztlich egal. Es zählt nur, dass ihnen wichtig ist, worum sie kämpfen.
 
-Die schwierigste Frage ist dabei, wie wir einen Einfluss der Spieler auf die Welt ermöglichen und gleichzeitig neue Werke herausbringen können.
-Im Endeffekt ähnlich wie DSA den Plot der Welt durch Abenteuer voranbringt, aber anders als DSA verschiedene Ausgnänge der Abenteuer akzeptieren, also die Welt so offen halten, dass ein Späteres Abenteuer zwar davon beeinflusst wird, wie ein vorheriges ausging, aber nicht von einem bestimmten Ausgang abhängt.
+Die schwierigste Frage ist dabei, wie wir einen Einfluss der Spieler auf die Welt ermöglichen und gleichzeitig neue Werke herausbringen können. Und damit kommen wir in den Experimentellen Teil unserer Strategie.
 
-Vielleicht brauchen wür sogar Regelmechanismen für die Größeren Auswirkungen von Abenteuern: Wie auch immer das Abenteuer ausgeht, die Charaktere gewinnen etwas dabei.
+Im Endeffekt ähnlich wie DSA den Plot der Welt durch Abenteuer voranbringt, aber anders als DSA verschiedene Ausgnänge der Abenteuer akzeptieren, also die Welt so offen halten, dass ein späteres Abenteuer zwar davon beeinflusst wird, wie ein vorheriges ausging, aber nicht von einem bestimmten Ausgang abhängt.
+
+Vielleicht brauchen wir zusätzliche Regelmechanismen, um die größeren Auswirkungen von Abenteuern nachvollziehbar abzubilden. Als Grundprinzip könnten wir nutzen, dass wie auch immer das Abenteuer ausgeht, die Charaktere etwas dabei gewinnen (weil die Spieler etwas investiert haben). Entweder Unterstützung in der Welt oder mehr Fähigkeiten.
 
 Eine Möglichkeit wäre es, ähnlich wie in Universalis zu sagen, dass nicht nur die Charaktere selbst Punkte bekommen können, sondern auch die Welt. Und dass die Welt den Charakteren wiederum Boni geben kann.
 
-Wenn sie zum Beispiel eine Raumstation retten, erhalten diese Stationen ein + (genauer gesagt: Die Charaktere erhalten den Wert „Retter der Station X“ oder „Station X gerettet“, der Boni geben kann), und wann immer die Charaktere später wieder dort sind, erhalten sie einen Punkt Bonus (pro +). Das gleiche gilt für gerettete Personen. Und vielleicht lassen sich Verluste triggern, wie schwache Eigenschaften. Und wenn ein Charakter nachteile in Kauf nimmt, erkäpft er sich damit vielleicht die Unterstützung underer. Und wenn sie versagen, erhalten sie dafür selbst mehr Steigerungspunkte - im Ausgleich dafür, dass in der Welt nun ein negatives Ergebnis ihrer Handlungen existiert.
+Wenn sie zum Beispiel eine Raumstation retten, erhält diese Station ein + (genauer gesagt: Die Charaktere erhalten den Wert „Retter der Station X“ oder „Station X gerettet“, der Boni geben kann), und wann immer die Charaktere später wieder dort sind, erhalten sie einen Punkt Bonus (pro +). Das gleiche gilt für gerettete Personen. Und vielleicht lassen sich Verluste [triggern](/deutsch/module/schwache-eigenschaften-triggern-trig) wie schwache Eigenschaften. Und wenn ein Charakter negative Merkmale in Kauf nimmt, erkämpft er sich damit vielleicht die Unterstützung underer. Und wenn er versagt, erhält er dafür selbst mehr Steigerungspunkte - im Ausgleich dafür, dass in der Welt nun ein negatives Ergebnis seiner Handlungen existiert.
 
 Genauer: Die Charaktere bekommen eine bestimmte Anzahl von Punkten. Haben sie Erfolg, dann geht ein Teil der Punkte in die Welt. Versagen sie, dann erhalten sie ein paar Zusatzpunkte dafür, dass in der Welt jetzt Nachteile für sie existieren.
 
-Vielleicht ein Blatt für des Charakterheft? Erfolg und Versagen? Ruhm und Schande? 
-
-Das genauso Teil der Charaktere ist wie ihre Eigenschaften und Fertigkeiten.
+Vielleicht ein Blatt für das Charakterheft? Erfolg und Versagen? Ruhm und Schande? Das genauso Teil der Charaktere ist wie ihre Eigenschaften und Fertigkeiten.
 
 Und das sie genauso nutzen können.
 
-Eine ideale Kampagne würde dann in einen Höhekunkt münden, in dem die Spieler ihre Ruhmestatet zusammenbringen und sich damit all ihrer Schande stellen - und in einer großen Finale eine Entscheidung zwischen Ruhm und Schande herbeiführen.
+Eine ideale Kampagne würde dann in einen Höhepunkt münden, in dem die Spieler ihre Ruhmestaten zusammenbringen und sich damit all ihrer Schande stellen - und in einem großen Finale eine Entscheidung zwischen Ruhm und Schande herbeiführen, durch die die Werte auf ihrem Ruhmesblatt neu gemischt werden - und vielleicht auch andere Werte der Charaktere, je nachdem wieviel sie eingesetzt haben.
 
 Sie bieten also auf, was sie erreicht haben, legen alle Karten auf den Tisch und nutzen alles, was sie über die Jahre gelernt haben, um die Karten noch einmal neu zu verteilen.
 
 Dafür braucht es noch einen Mechanismus, mit dem die Spieler ihren Ruhm einbringen können, und wie die SL ihre Schande einbringen kann.
 
-Und am Ende einer Kampagne haben die Veränderungen der SPielwelt dann nicht nur eine individuelle Gestallt, sondern auch Werte, auf die die Spieler aktiv zurückgreifen konnen - und die den Einfluss auf spätere Kampfagnen definieren, so dass autoren späterer Kampagnen abschätzen können, wie groß die Streubreite von Fähigkeiten ist.
+Und am Ende einer Kampagne haben die Veränderungen der Spielwelt dann nicht nur eine individuelle Gestallt, sondern auch Werte, auf die die Spieler aktiv zurückgreifen konnen - und die den Einfluss auf spätere Kampfagnen definieren, so dass autoren späterer Kampagnen abschätzen können, wie groß die Streubreite von Fähigkeiten ist.
 
 Es macht einen enormen Unterschied, ob die Retter oder die Zerstorer der Piraten um Traum Anderer in ein Abenteuer eintreten. Wenn eine ganze Region in den ausstand getreten ist, dann ändert das eine der Grundannahmen der Welt: Ist es möglich, unabhängig von Xynoc zu leben.
 
 Jede Region wird davon betroffen sein - und diese Auswirkungen stehen auf den Charakterblättern der Spieler, zumindest in Ansätzen.
+
+Im Endeffekt bedeutet das dann, dass die Grenzen zwischen Charakter und Spielwelt zu einem gewissen Grad verschwimmen und so die Auswirkungen von Kampagnen in einer für die Spieler direkt nutzbaren Form festgehalten und so nachvollziehbar gemacht werden.
+
+## Fazit
+
+Eine ideale Struktur für die Veröffentlichung von Rollenspielen zu finden ist verdammt schwierig, und vielleicht gibt es keine wirklich beste Struktur, weil verschiedene Spielrunden unterschiedliche Anforderungen haben. Aber ich denke, dass Rollenspiele sich immer weiter entwickeln werden, und dass sie sich auch in den letzten 30 Jahren weit entwickelt haben.
+
+Und ich denke, dass es wichtig ist, immer bessere Möglichkeiten zu finden, wie Autoren ihre kreative Arbeit aus eine Art weitergeben können, durch die Rollenspielrunden mit möglichst geringem Aufwand möglichst viel davon nutzen können. Damit gibt es auch einen größeren Anreiz, für diese Arbeit Geld zu bezahlen - egal ob im Nachhinein wie im traditionellen Verlags-System, in Vorkasse wie mit Kickstarter und [Startnext](http://startnext.de) oder über direkte freiwillige Spenden wie mit [Flatter](http://flattr.com) und der [Pay-Wahl](http://blogs.taz.de/hausblog/tag/taz-zahl-ich/) der Taz.
+
+150.000 Fans finanzieren Howard Taylor, so dass er seine Familie damit ernähren kann, in Vollzeit den Gratis-Webcomic [Schlock Mercenary](http://schlockmercenary.com) zu schreiben (er hat diese Woche Zahlen rausgegeben). Im Gegensatz zu einem Webcomic, der täglich 5 Minuten Spaß bringt, liefern uns Rollenspiele 4-8 Stunden Spaß pro Woche. Da sollten theoretisch schon 15.000 Fans genügen, um einen Rollenspielautor in Vollzeit zu finanzieren (zumindest von der Kosten-Nutzen-Rechnung her). Wir brauchen dafür aber wohl noch bessere Wege, wie wir Fremdkreativität in unsere Runden einbauen können.
+
+Ich hoffe, mein Text konnte euch ein paar Anregungen dazu geben - und vielleicht auch etwas dazu beitragen, dass in Zukunft ein paar mehr Leute davon leben können, einen Beitrag für spannende Rollenspielrunden vieler anderer Leute zu leisten.
