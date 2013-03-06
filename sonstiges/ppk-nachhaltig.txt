@@ -71,7 +71,7 @@ Daher haben wir das Konzept der Kampagnenbände, auch wenn wir bei der Entscheid
 
 Die schwierigste Frage ist dabei, wie wir einen Einfluss der Spieler auf die Welt ermöglichen und gleichzeitig neue Werke herausbringen können. Und damit kommen wir in den Experimentellen Teil unserer Strategie.
 
-Im Endeffekt ähnlich wie DSA den Plot der Welt durch Abenteuer voranbringt, aber anders als DSA verschiedene Ausgnänge der Abenteuer akzeptieren, also die Welt so offen halten, dass ein späteres Abenteuer zwar davon beeinflusst wird, wie ein vorheriges ausging, aber nicht von einem bestimmten Ausgang abhängt.
+Im Endeffekt gehen wir ähnlich vor wie DSA, das den Plot der Welt durch Abenteuer voranbringt, wollen aber anders als DSA verschiedene Ausgänge der Abenteuer akzeptieren, also die Welt so offen halten, dass ein späteres Abenteuer zwar davon beeinflusst wird, wie ein vorheriges ausging, aber nicht von einem bestimmten Ausgang abhängt.
 
 Vielleicht brauchen wir zusätzliche Regelmechanismen, um die größeren Auswirkungen von Abenteuern nachvollziehbar abzubilden. Als Grundprinzip könnten wir nutzen, dass wie auch immer das Abenteuer ausgeht, die Charaktere etwas dabei gewinnen (weil die Spieler etwas investiert haben). Entweder Unterstützung in der Welt oder mehr Fähigkeiten.
 
