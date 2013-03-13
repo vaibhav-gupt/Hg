@@ -1,0 +1,96 @@
+Schwache Eigenschaften triggern (Trig)
+======================================
+
+<img src="/files/oracle3.png" alt="Oracle3" align="left" style="float: left" width=200 height=200 />[^wesnoth-oracle3]
+
+Einleitung
+----------
+
+Mit dem Trig-Modul können Charaktere die schwachen Eigenschaften ihrer Kontrahenten triggern, um den Kontrahenten Nachteile zu geben.
+
+Dadurch werden negative Eigenschaften relevanter. Im EWS 2.4 bewirken sie noch relativ wenig, sind manchmal fast nur Punktelieferanten und Plotwerkzeug, da ein Charakter beliebig viele Eigenschaften auf dem Durchschnittswert hat.
+
+Mit diesem Modul bekommen schwache Eigenschaften gravierende Auswirkungen.
+
+[^wesnoth-oracle3]: Das Bild Oracle3 wurde von Kathrin Polikeit für [Battle for Wesnoth](http://wesnoth.org) gezeichnet.
+<!--break-->
+
+Grundlagen
+----------
+
+Eigenschaften, die niedriger sind als der Durchschnittswert der Eigenschaften des Charakters, die also ein oder mehrere - haben, können von einem Gegner in einem Wettstreit getriggert werden.
+
+Anschaulich bedeutet es, dass der Gegner einen Charakter in einen Rhythmus drängen kann, der ihn zwingt, seine schwache Eigenschaft zu nutzen, was ihm gravierende Nachteile bringt.
+
+### Triggern technisch
+
+Nutzt der Gegner bei dem Wettstreit eine passende Eigenschaft für Boni (also z.B. eine Fertigkeit mit Boni aus Stärke gegen jemanden mit Schwacher Stärke oder Reaktion gegen Schnelligkeit) bekommt ein Charakter mit der entsprechenden schwachen Eigenschaft während des Wettstreites automatisch einen **Malus von 3 Punkten pro Minus**, das er in seiner Eigenschaft hat. Die Eigenschaft wird also automatisch getriggert. Im Wettstreit wird also am Anfang geschaut, ob eine der zwei Eigenschaften, die dem Gegner Boni auf seine Fertigkeit geben, zu einer schwachen Eigenschaft des Charakters passt. Bei den meisten NSCs dürfte es genügen zu schauen, ob eine ihrer wichtigen Eigenschaften zu der Schwäche passt.
+
+Wenn ein Gegner eine schwache Eigenschaft des Charakters kennt und eine passende, nicht schwache Eigenschaft hat – also eine passende Eigenschaft, die kein - hat, also einen Wert von 12 oder mehr besitzt – dann kann er eine fordernde Probe (12) mit seiner Eigenschaft würfeln, um die schwache Eigenschaft aktiv zu triggern. Gelingt die Probe, dann erhält der Charakter mit der schwachen Eigenschaft 3 Punkte Malus pro - der Eigenschaft. Misslingt die Probe, dann erhält der Gegner für eine Runde selbst 3 Punkte Malus.
+
+Dieses Triggern bedeutet ein gezieltes Ändern des Rhythmusses des Wettstreites. Es hat keine relevante Dauer und kann zu jeder Zeit genutzt werden. Der Malus für die schwache Eigenschaft kann dabei nicht doppelt gegeben werden und eine automatisch getriggerte Eigenschaft kann nicht noch zusätzlich manuell getriggert werden. Der Malus für misslungene Triggerversuche addiert sich dagegen sehr wohl (wenn der Gegner mehrfach in einer einzelnen Runde versucht, den Rhythmus zu ändern, es aber nicht schafft).
+
+Gute Beschreibungen und glaubhafte Begründungen können bei dem Versuch, den Rhythmus zu ändern, jeweils bis zu 3 Punkten Bonus geben.
+
+### Rückgängig machen
+
+Wurde eine schwache Eigenschaft gezielt getriggert, kann der Charakter mit der schwachen Eigenschaft das Triggern wieder rückgängig machen und so die Mali loswerden, wenn er eine fordernde Probe (12) mit seiner schwache Eigenschaft besteht. Misslingt die Probe, dann erhält er für die Runde zusätzliche 3 Punkte Malus. Gelingt sie, dann kann er den Rhythmus wieder ändern und sein Malus durch die schwache Eigenschaft fällt weg.
+
+Ein Rhythmus hält dabei immer mindestens eine Runde. Wenn er etabliert wurde, kann er erst in der nächsten Kampfrunde wieder geändert werden. Er fällt automatisch weg, wenn sich die Situation gravierend ändert.
+
+### Jegliche Proben
+
+Schwache Eigenschaften können auch für Proben Mali geben. Wenn ein Charakter versucht, einen anderen bei einer Probe zu schwächen, kann er versuchen, ihn dazu zu zwingen, seine Schwäche zu nutzen. Wenn es von des Situation her logisch ist, gibt es den Malus. Im Zweifel können Wettstreite zwischen einer passenden Fertigkeit oder Eigenschaft und der schwachen Eigenschaft nötig werden.
+
+### Mehrere Beteiligte
+
+In einem Kampf mit mehr als zwei Beteiligten würfeln alle (die den Rhythmus festlegen wollen) und derjenige mit dem höchsten Ergebnis (Wert ± W6) kann den Rhythmus festlegen und so eine Eigenschaft wählen, die Mali geben kann.
+
+### Verallgemeinert
+
+*Diese Notiz ist nur für Kampagnen relevant, in denen sich die Durchschnittswerte von Eigenschaften zwischen Charakteren unterscheiden, also ein - nicht dem Wert 9 entspricht. Wenn das bei euch nicht der Fall ist, überspring sie einfach.*
+
+Allgemein gesehen gilt jede Eigenschaft als schwache Eigenschaft, die mindestens 2 Punkte niedriger ist als der Durchschnittswert von Eigenschaften des Charakters. Die Unterscheidung ist nützlich, wenn Charaktere allgemein auf höheren Kategorien sind (Kategorie-Modul) oder ganze Bereiche von Eigenschaften höher als der Durchschnitt haben).
+
+Als passende, nicht schwache Eigenschaft gilt jede passende Eigenschaft, die mindestens so hoch ist wie der Durchschnittswert von Eigenschaften des Charakters mit der schwachen Eigenschaft.
+
+Passend bedeutet, dass der triggernde Charakter erklären kann, wie er damit die schwache Eigenschaft triggert.
+
+### Option: Wettstreit zum Triggern
+
+Statt einer Probe auf die Eigenschaften können die Beteiligten auch Wettstreite mit der Eigenschaft würfeln. Dadurch wird der Kampf mit Triggern langwieriger, allerdings hat der Spieler mit der schwachen Eigenschaft eine Möglichkeit, sich direkt gegen den Rhythmus zu wehren, was befriedigender sein kann.
+
+Allerdings ist das teilweise verschwendete Würfelzeit. Wettstreite machen meist nur dann Sinn, wenn etwas in beide Richtungen erreicht werden kann.
+
+Sinnvoll wird ein Wettstreit, wenn beide versuchen, ihrem Gegner Mali zu geben, also wenn beide eine (jeweils andere) Eigenschaft triggern wollen.
+
+### Option: Wunden triggern
+
+Statt nur niedrige Eigenschaften zu triggern, können auch Wunden getriggert werden: Jede Eigenschaft, auf die ein Char eine Wunde hat, kann wie eine negative Eigenschaft getriggert werden. Pro Wunde bekommt der Char dann einen Malus von 3.
+
+Sie wird automatisch getriggert, wenn der andere sie in seiner Fertigkeit nutzt und kann bewusst getriggert werden.
+
+Dafür geben Wunden keine automatischen Mali mehr auf alles. Sie reduzieren nur noch den Eigenschaftswert durch ihren Schaden.
+
+(durch triggerbare Wunden nimmt EWS 3.0 mit Schaden auf jegliche Eigenschaft endlich Form an: Nimm keine Eigenschaft als Schadenseigenschaft, die viele deiner Fertigkeiten stützt oder von vielen anderen für Fertigkeiten genutzt wird, sonst werden Wunden zu oft getriggert)
+
+Beispiel
+--------
+
+*Tarden ist ein genialer Kämpfer, aber seine Reaktionsfähigkeit ließ schon immer zu wünschen übrig. Als sein ehemaliger Schüler Kirissi gegen ihn antritt, versucht dieser, sich Tardens Schwäche zunutze zu machen.*
+
+*Noch bevor sie die erste Probe würfeln, versucht Kirissi, Tarden einen extrem schnellen Rhythmus aufzuzwingen. Er bewegt sich in rasendem Tempo und konzentriert sich auf schnelle, aber schwache Schläge. Tarden versucht, seinen normalen langsameren Stil durchzuhalten, um nicht überrannt zu werden.*
+
+Tarden hat Reaktion nur - (9), Kirissi dagegen hat Schnelligkeit + (15), nutzt sie aber nicht standardmäßig als Eigenschaft im Kampf (er nutzt bei seiner Kampffertigkeit (in seinem Kampfstil) die Boni von zwei anderen Eigenschaften).
+
+Noch vor der ersten Probe beschreibt Kirissi, was er vorhat. Dann würfelt Kirissi, um den Rhythmus zu ändern.
+
+Kirissi würfelt auf Schnelligkeit (15), erhält eine 3 und kommt damit auf 12 (15 - 3). Damit schafft es Kirissi, Tarden den schnellen Rhythmus aufzuzwingen und Tarden erhält in diesem Kampf 3 Punkte Malus.
+
+Sie kämpfen eine Runde und Tarden wird getroffen.
+
+In der nächsten Runde versucht Tarden, den Rhythmus wieder zu ändern, obwohl seine Chancen normalerweise gerade mal 1 zu 3 stehen. Er beschreibt, wie er Säulen und Stuhlreihen nutzt, um Kirissi auf Abstand zu halten und bekommt für passende Nutzung der Umgebung und schöne Beschreibung zusammen 3 Punkte Bonus. Dann würfelt er die fordernde Probe, kommt mit einer 1 aber nur auf 11 und schafft es damit nicht, den Rhythmus zu ändern (er hätte 12 gebraucht). Dadurch erhält er diese Runde 3 weitere Punkte Malus.
+
+Bei Kirissis nächstem Angriff wird er schwer verwundet.
+
+Was Tarden nicht wusste ist, dass Kirissi in den Jahren seiner Wanderschaft seine Besonnenheit vernachlässigte und so Besonnenheit nur auf - (9) hat. Hätte er das gewusst, hätte er es nutzen können, um auch Kirissi Mali zu geben. Als Kirissi später gegen einen engen Freund von Tarden kämpft, der in seinem Kampfstil strategisches Denken als Bonuseigenschaft nutzt, erhält er den gesamten Kampf hindurch 3 Punkte Malus.

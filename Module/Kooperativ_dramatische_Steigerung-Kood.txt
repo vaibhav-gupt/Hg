@@ -1,0 +1,74 @@
+Kooperativ dramatisierende Steigerung (Kood)
+===========
+
+Einleitung
+----------
+
+*Nur wer besiegt wird, kann aus seinen Siegen lernen.*
+
+*Nur wer seinen Freunden zum Sieg verhilft, kann selbst wahre Erfolge feiern.*
+
+Dieses Modul ermöglicht die Steigerung von Charakteren in dramatischen Szenen und fördert kooperatives dramatisieren von Szenen. 
+
+Statt dass diejenigen Charaktere Punkte zum Steigern erhalten, die Großes vollbringen, erhalten diejenigen Punkte, die die Taten erst großartig machen und dafür eigene Rückschläge in Kauf nehmen. 
+
+Ihre Punkte nutzen können allerdings nur diejenigen, die große Szenen erleben. Ihre in anderen Szenen gesammelten Punkte können sie dabei als Bonus verwenden. Sobald sie Punkte als Bonus nutzen, sagen sie automatisch an, dass sie in dieser Szene steigern wollen, so dass sie keine Punkte sammeln können. Sie können das allerdings auch ansagen, ohne Punkte als Bonus zu nutzen. 
+
+Zusätzlich gibt jede Handlung, die misslingt und dadurch die Szene spannender macht, dem steigernden Charakter einen weiteren Punkt Bonus für eine seiner Proben. 
+
+Eine Szene ist dabei ein abgeschlossener Handlungsrahmen, wie eine Szene in einem Film. Beispiele sind ein kurzer Kampf (Kämpfe sind in 1w6 schnell vorbei), das Gespräch mit einer NSC, eine gruppeninterne Diskussion, usw. In einem Jacky Chan Film wäre jeder einzelne Kampfschauplatz eine eigene Szene, in Fairy Tail jede Szene mit abgeschlossener Gruppe von Charakteren. 
+
+Wenn einer oder mehrere angesagt haben, dass sie in einer Szene steigern wollen, können die anderen Punkte sammeln, indem sie ihren Charakter bei eigentlich gelungenen oder trivialen Proben auf eine Art scheitern lassen, die die Szene spannender macht und/oder sie stärker auf die steigernden Charaktere fokussiert (und gar nicht erst würfeln). Es genügt nicht, den eigenen Charakter einfach aus der Szene zu nehmen. Die Handlung muss vielmehr die Szene für mindestens einen der Spieler der steigernden Charaktere intensiver machen. Dabei entscheiden entweder die SL, alle Mitspieler oder die steigernden Spieler, welche Handlungen die Szene gefördert haben. 
+
+Nach der Szene kann der Spieler, der sie bestritten hat, Punkte zur Steigerung nutzen. 
+
+Der Effekt davon ist, dass wer stärker werden will, anderen bewusst das
+Rampenlicht überlassen muss (was viele bereits intuitiv tun). Außerdem wird die Steigerung stärker daran gekoppelt, was die Mitspieler toll finden. 
+
+Ablauf
+------
+
+Am Anfang jeder Runde erhält jeder Spieler einen Unterstützerpunkt, den er weitergeben kann. Idealerweise werden direkt Steine oder Hölzchen dafür verwendet. 
+
+In jeder Szene kann er sich dann entscheiden, eine eigentlich erfolgreiche Probe misslingen zu lassen oder in einer Situation zu scheinern, die keine Probe braucht, auf spannende Art das Rampenlicht abzutreten und den Unterstützerpunkt weiterzugeben („jetzt bist du dran“). Der Empfänger erhält den Punkt als Bonus für eine beliebige, mit der Szene zusammenhängende Handlung. Außerdem kann er den Unterstützerpunkt in einer späteren Szene weitergeben. 
+
+Wer einen Unterstützerpunkt weitergibt, erhält außerdem einen Strich Erfahrung. 
+
+Ein Charakter, der Unterstützerpunkte erhalten hat, kann Striche zum Steigern nutzen. Pro Unterstützerpunkt kann er von einem Strich, den er zum Steigern nutzt, einen weiteren Punkt Bonus nutzen. Jeder Unterstützerpunkt gibt also einen Punkt Bonus für passende Handlungen und ermöglicht die Nutzung von einem Strich als Bonus und zum Steigern. Gleichzeitig ermöglicht er die nutzung beliebig vieler Striche weiterer zum Steigern (die aber keinen weiteren Bonus geben).
+
+Für jeden Unterstützerpunkt, den ein Charakter einem anderen gibt, erhält er einen Strich zum Steigern. 
+
+Ein Unterstützerpunkt kann nur einmal vergeben werden. Wer seinen Unterstützerpunkt des Abends vergeben hat, kann erst in der nächsten Spielrunde wieder einen vergeben, es sei denn, er erhält in einer anderen Szene selbst Unterstützerpunkte von anderen. 
+
+### Option: Freie Unterstützerpunkte
+
+Statt die Punkte direkt an einen Spieler weiterzugeben, können sie in die Tischmitte gelegt werden. Jeder Spieler, der noch nicht abgegeben hat, kann dann die Punkte nutzen, um zu versuchen, die Szene zu beenden.
+
+### Option: Helden
+
+Erhalten 3 Punkte bei Anfang der Runde.
+
+### Option: Unterstützerpunkte zu jedem Zeitpunkt vergeben
+
+Statt die Unterstützerpunkte bei selbstgewählten Fehlschlägen weiterzugeben, können sie auch zu beliebigen Zeitpunkten vergeben werden, wann immer ein Spieler eine Handlung toll findet.
+
+### Option: Zweischneidiges Schwert
+
+Die Unterstützerpunkte geben zwar Boni, wenn die Probe aber trotzdem fehlschlägt, verschlimmern sie die Effekte des Misserfolges. Jeder Punkt gibt nun einen Malus von 3, und wenn mindestens 3 Unterstützerpunkte zusammen sind, wird ein Misserfolg automatisch zu einem kritischen Fehlschlag. 
+
+Beispiel
+--------
+
+### Kampf mit freien Unterstützerpunkten
+
+Fox, klar kalkulierender Pilot und Scharfschütze, legt sich in einen Hinterhalt, während sich Sskreszta und Kalem auf eine schwerbewaffnete Spezialeinheit stürzen. 
+
+Kurz darauf steht Sskreszta einem mit sonischen Klingen bewaffneten Kämpfer gegenüber. Ihr Spieler weiß, dass Fox in Deckung liegt, um eingreifen zu können, wenn er gebraucht wird. Sskreszta zieht ihren Blaster, doch ihr Spieler zieht es vor, einen freien Unterstützerpunkt abzugeben und entscheidet, dass Sskreszta zu langsam reagiert. Die sonische Klinge ihres Gegners zuckt vor und lässt den Blaster zerbröseln. Sskreszta springt zurück, wird aber getroffen, stürzt und kann gegen diesen PSI-geschirmten Gegner nicht mehr viel ausrichten. 
+
+Kalem springt dazwischen und ihr Stab wirft den Gegner zurück. Sie schlägt ihn zu Boden und sieht sich einem weiteren Gegner gegenüber: Einem schwer Gerüsteten, dessen Panzerung Energiewaffen komplett abwehrt und nur winzigste Öffnungen am Rücken hat. Kalem feuert ein paar Mal aus ihrer Stabwaffe auf ihn, dann entscheidet sich ihr Spieler, Fox das Feld zu überlassen. Sie geht langsam rückwärts und zielt erneut, stolpert aber über Sskreszta, die noch am Boden liegt. 
+
+Fox legt sauber an und zielt. Als Kalems Gegner triumphierend die Waffen habt, um Kalem den Todesschuss zu verpassen und dabei seine Kehle entblößt, drückt Fox ab. Sein Spieler nimmt beide Unterstützerpunkte und bekommt so 2 Punkte Bonus. Dazu nutzt er 2 Striche, mit denen er nach der Szene steigern will, hat also insgesamt 4 Punkte Bonus. Er entscheidet sich, mit seiner ballistischen Waffe auf die dünnen Schlitze am Rücken des Gegners zu zielen. Durch die 4 Punkte Bonus wird die Probe für ihn gut zu schaffen, und der Gegner geht zu Boden, als das Projektil in eine der Öffungen einschlägt.
+
+*Anmerkung: Schaden und Wunden sind halt Teil des Preises für die spätere Steigerung.*
+
+
