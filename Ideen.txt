@@ -2971,3 +2971,30 @@ Ich glaube, die Schleuder hatte v.a. das Problem, dass es ewig dauert, sie zu le
 Ihre Zeit endete, nachdem die Armeen nicht mehr auf einen großen Vorrat armer Hirten zurückgreifen konnten, die in ihrer massigen Freizeit nichts anderes zu tun hatten, als ihre knapp bemessenen Erschaffungspunkte in die Fertigkeit für ein Waffe zu pumpen, mit der erst überragende Kämpfer einen Gegner auf die gleiche Entfernung treffen konnten wie anfangende Bogenschützen.
 
 Gut, sie hatten dann auch unendlich viel Muni und ihre Waffe immer dabei. Aber was bringt das, wenn du erst 20 Jahre in Minijobs rumhängen musst, bis du gut genug bist, um auch nur eine mittelmäßige Stelle als Schleuderer zu bekommen?
+
+
+------
+
+Konzepte für EWS 3.0
+
+* Null-Probe statt Eigenschaftsprobe: Wirf einen ±W6 und addiere die Boni aus allen passenden Eigenschaften. Erreichst du mindestens 0, dann schaffst du die Probe.
+
+* Wettstreite von Eigenschaften ohne Fertigkeit werden automatisch von dem oder der besseren gewonnen. (Ich denke, das bildet die Situation dann am besten ab: Wenn es um rohe Kraft geht, ist oft nicht mehr so viel Zufall im Spiel. Was meint ihr? Vielleicht noch Situationsmodifikatoren dazu…)
+
+* Eigenschaften geben Boni und Wundschwellen. Für jede Art der Verwundung einfach die passende Eigenschaft wählen. Eine catch-all-Eigenschaft: Wenn der Char keine passende Eigenschaft hat, trifft die Wunde die catch-all. Die catch-all gilt als von allen Fertigkeiten genutzt, die Boni aus weniger als 2 Eigenschaften erhalten. Wenn eine Eigenschaft mehr Wunden als Plusse hat, wird sie zeitweise zu einer Schwäche, die getriggert werden kann. Jeder weitere Schaden auf diese Eigenschaft geht stattdessen auf die catch-all.
+
+* Schwächen sind negative Eigenschaften. Gegner können sie triggern, indem sie dich zwingen, sie zu nutzen. Dann gibt dir jedes Minus darin einen Malus von 3.
+
+* Fertigkeiten, Berufe, Merkmale wie in 2.x. Allerdings können Fertigkeiten auf Berufen aufbauen: Ein Plus gibt dann nicht 12, sondern Beruf +3. Die Eigenschaften Eigenschaftszuteilungen von Fertigkeiten können nur bei der Steigerung geändert werden. Fertigkeiten mit weniger als 2 Eigenschaften nutzen automatisch die catch-all und können damit sehr leicht getriggert werden. Nimm daher die catch-all nicht für Schaden, wenn du es vermeiden kannst.
+
+### Regeln
+
+* Wundschwelle für Wunden, für Heilung und optional für Erschöpfung (freie Handlungen).
+
+* Option Erschöpfung: „Für harte Runden“, mit den Standardregeln und Starken Charakteren machen auch ausgedehnte Konflikti viel Spaß, bieten aber keine große Herausforderung. ERschöpfung ändert das.
+
+* Heilung: Erst Wunden, dann Eigenschaftsverluste. Schwächen (bzw. Trigger) verschwinden erst, nachdem die Eigenschaft nicht mehr im Minus ist. Wunden können dadurch schneller heilen, weil die Eigenschaftsmali die Rolle der langfristigen Folgen übernehlen.
+
+* Wenn die Trigger zu problematisch werden, kann der Spieler oder die Spielerin sie vernarben lassen. Dafür erhält der Charakter ein bleibendes negatives Merkmal mit einem Minus (die Folgen der Verletzung) und dazu ein bleibendes positives Merkmal mit einem Plus (das zeigt, wie der Charakter die Trigger überwunden hat). Stattdessen kann auch ein negatives Merkmal verstärkt werden (ein Minus zu zwei Minussen o.ä.). Dann erhält der Charakter im Gegenzug positive Merkmale mit Gesamtkosten in Höhe des Unterschieds der alten und neuen Kosten des negativen Merkmals. Sowohl positives als auch negatives Merkmal müssen zu der Situation und der Verletzung passen. Das negative Merkmal kann später (wenn das plausibel ist) mit Erfahrungspunkten weggekauft werden.
+
+* Waffenlos: Statt Wunde erhält der Char 3 Punkte Erschöpfung. Wenn schon die freien Handlungen aufgebraucht wurden, dann amm besten noch weitermachen, damit noch mehr Erschöpfung dazukommt. Eine Kritische waffenlose Wunde verursacht eine echte Wunde und dazu 6 Punkte Erschöpfung.
