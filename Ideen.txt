@@ -3014,3 +3014,15 @@ Konzepte für EWS 3.0
 * [Erschöpfungsregeln](/deutsch/module/erschoepfungsregeln-erre) nutzen endlich auch bei jedem vergleichenden Wurf den Absolutwert des Ergebnisses, nicht nur den Wert relativ zum Ergebnis des Gegners.
 
 * Eigenschaften, Fertigkeiten und Merkmale werden so noch klarer definiert. In 2.x gibt es Unklarheiten: Was bedeutet der Zahlenwert einer Eigenschaft? Wann kann ich ihn nutzen? Was unterscheidet einen Eigenschaftswurf von einem Fertigkeitswurf? Eigenschaften sind in 2.x gleichzeitig Würfelwerte, Bonigeber und die Quelle von Wirkungsschwellen (z.B. der Wundschwelle). In 3.x sind Eigenschaften Bonigeber und Quelle von Wirkungsschwellen. Fertigkeiten und Berufe sind Würfelwerte und vielleicht Bonigeber - anders als Eigenschaften auch für andere Charaktere. Und Merkmale sind alles, bei dem der Effekt nicht als Würfelwert oder Bonus von 1 pro Plus ausgedrückt werden kann. Boni + Schwellen, Würfeln + Boni und Besonderheiten.
+
+------
+
+### 3 Kampfsysteme
+
+Mit der Struktur für EWS 3.0 wäre es möglich, 3 Kampfsysteme zu implementieren:
+
+* Hart und dreckig: Erschöpfung + Wunden + Schaden auf Eigenschaften: Auch starke Charaktere halten nur wenige Runden ohne Pause durch, brauchen also gute Taktiken - und eine Übermacht ist schnell tödlich, weil sie keine Ruhepausen lassen muss.
+
+* Cinematisch: Nur Wunden geben Erschöpfung, jede Wunde kostet effektiv eine Handlung. Straucheln und kritische Wunden geben Eigenschaftsabzüge (jeweils 1). Freie Handlungen weglassen (sonst gibt es ~4 Wunden ohne Auswirkung, was eher langweilig wäre). Charaktere können sehr lange weitermachen und jeglicher Schaden ist klar auf den entsprechenden Eigenschaften lokalisiert.
+
+* Hart und spaßig: Wunden + Schaden auf Eigenschaften: Fast wie aktuell: Starke Charaktere können zumindest im Nahkampf sehr lange kämpfen.
