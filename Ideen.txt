@@ -2977,13 +2977,13 @@ Gut, sie hatten dann auch unendlich viel Muni und ihre Waffe immer dabei. Aber w
 
 Konzepte für EWS 3.0
 
-* Wettstreite von Eigenschaften ohne Fertigkeit werden automatisch von dem oder der besseren gewonnen (Ich denke, das bildet die Situation dann am besten ab: Wenn es um rohe Kraft geht, ist oft nicht mehr so viel Zufall im Spiel. Was meint ihr? Vielleicht noch Situationsmodifikatoren dazu…). Alternative: Wundschwelle als Eigenschaftswert: Die steigt sehr viel langsamer als Fertigkeiten (Faktor 3), so dass sich dieses Ausweichen dann wirklich nur bei ganz grundlegenden Proben lohnt.
-
 * Eigenschaften geben Boni und Wundschwellen. Für jede Art der Verwundung einfach die passende Eigenschaft wählen. Eine catch-all-Eigenschaft: Wenn der Char keine passende Eigenschaft hat, trifft die Wunde die catch-all. Die catch-all gilt als von allen Fertigkeiten genutzt, die Boni aus weniger als 2 Eigenschaften erhalten. Wenn eine Eigenschaft mehr Wunden als Plusse hat, wird sie zeitweise zu einer Schwäche, die getriggert werden kann. Jeder weitere Schaden auf diese Eigenschaft geht stattdessen auf die catch-all.
 
 * Schwächen sind negative Eigenschaften. Gegner können sie triggern, indem sie dich zwingen, sie zu nutzen. Dann gibt dir jedes Minus darin einen Malus von 3.
 
 * Null-Probe statt Eigenschaftsprobe: Wirf einen ±W6 und addiere die Boni aus allen passenden Eigenschaften. Erreichst du mindestens 0, dann schaffst du die Probe.
+
+* Wettstreite von Eigenschaften ohne Fertigkeit werden automatisch von dem oder der besseren gewonnen (Ich denke, das bildet die Situation dann am besten ab: Wenn es um rohe Kraft geht, ist oft nicht mehr so viel Zufall im Spiel. Was meint ihr? Vielleicht noch Situationsmodifikatoren dazu…). Alternative: Wundschwelle als Eigenschaftswert: Die steigt sehr viel langsamer als Fertigkeiten (Faktor 3), so dass sich dieses Ausweichen dann wirklich nur bei ganz grundlegenden Proben lohnt.
 
 * Fertigkeiten, Berufe, Merkmale wie in 2.x. Allerdings können Fertigkeiten auf Berufen aufbauen: Ein Plus gibt dann nicht 12, sondern Beruf +3. Die Eigenschaften Eigenschaftszuteilungen von Fertigkeiten können nur bei der Steigerung geändert werden. Fertigkeiten mit weniger als 2 Eigenschaften nutzen automatisch die catch-all und können damit sehr leicht getriggert werden. Nimm daher die catch-all nicht für Schaden, wenn du es vermeiden kannst.
 
