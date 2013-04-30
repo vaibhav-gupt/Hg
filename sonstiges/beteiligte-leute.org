@@ -1,0 +1,78 @@
+Leute
+
+#+TAGS: Eigenschaft(e) Beruf(b) Fertigkeit(f) Merkmal(m)
+
+* Haupt-Entwickler
+** Arne ([Drak](/uzanto/drak)) Babenhauserheide
+  „Gut, ich spinne, aber immerhin habe ich Spaß!“ 
+  „Unpolitisch sein heißt politisch sein, ohne es zu merken“
+
+|   |   |   |   |   |
+|---+---+---+---+---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+#+TBLFM: @1='(charsheet-headers $#)::@2$1..@>$>='(charsheet-data $# @#)
+
+*** Begeistert: +                                               :Eigenschaft:
+*** Stur: +                                                     :Eigenschaft:
+*** Einfühlungsvermögen: +                                      :Eigenschaft:
+*** Rollenspieler: 12                                                 :Beruf:
+*** Physik-Doktorrand: 9                                              :Beruf:
+*** Kreativer Spinner (Lesen, Schreiben, Gitarre, …): 9               :Beruf:
+*** Hobby-Programmierer: 9                                            :Beruf:
+*** Singen: 12                                                   :Fertigkeit:
+*** Quatscht anderen leicht das Ohr ab: -|                          :Merkmal:
+*** In zu vielen Projekten im Netz: -                               :Merkmal:
+*** Verpflichtung: Familienvater und Ehemann: -                     :Merkmal:
+** Julian ([Inside](/uzanto/inside)) Groß
+
+*** Begeistert: ++                                              :Eigenschaft:
+*** Zielstrebig: +                                              :Eigenschaft:
+*** Rollenspieler: 12                                                 :Beruf:
+*** Elektrotechniker: 12                                              :Beruf:
+*** Programmierer: 9                                                  :Beruf:
+*** Kung-Fu: 15                                                  :Fertigkeit:
+** … ([Taysal](http://rollenspiel.taysal.net)) …
+*** …
+* RaumZeit-Gruppe
+
+** Oliver ([Knox](/uzanto/knox)) Jahnel
+
+*** Kämpfernatur: ++                                            :Eigenschaft:
+*** Begeistert: +                                               :Eigenschaft:
+*** Biologie-Student: 9                                               :Beruf:
+*** Rollenspieler: 12                                                 :Beruf:
+*** Pfadfinder: 12                                                    :Beruf:
+*** Bogenschießen: 9                                             :Fertigkeit:
+*** Quatscht anderen leicht das Ohr ab: -                           :Merkmal:
+*** Verpflichtung: Mariam: -                                        :Merkmal:
+** Mariam
+
+*** Kämpfernatur: ++                                            :Eigenschaft:
+*** Biologie-Studentin: 9                                             :Beruf:
+*** Verpflichtung: Knox: -                                          :Merkmal:
+** Jens Stengel
+
+*** Bedacht: +                                                  :Eigenschaft:
+*** Taktisch geschickt: +                                       :Eigenschaft:
+*** Technischer Zeichner: 12                                          :Beruf:
+*** Rollenspieler: 12                                                 :Beruf:
+*** Verpflichtung: Rollenspiele, on- und offline: -                 :Merkmal:
+** Andreas Jehle
+
+*** Entspannt: +                                                :Eigenschaft:
+*** Begeistert: +                                               :Eigenschaft:
+*** Rollenspieler: 12                                                 :Beruf:
+*** Verpflichtung: Freunde: -                                       :Merkmal:
+
+* Narell-Gruppe
+** Nele Müller
+
+*** Phantasievoll: +
+*** Physik-Doktorrandin: 12
+*** Rollenspielerin: 12
+
+* Weitere
+…Bild…

@@ -1,0 +1,119 @@
+Eine Idee zur Vertonung des Sskreszta-Logs als Hörspiel
+=======================================================
+
+Notizen: 
+
+* Kristall direkt verbunden heißt, ein Psioniker spricht als wäre er Sskreszta. Wenn er Bilder sieht, kann er sie beschreiben. Horror und Schrecken können ihn seinen Verstand und sogar sein Leben kosten. 
+* Kristall beschädigt (welche Kräfte müssen das gewesen sein?). 
+* An Station angedockt. 
+* Versuchsperson (Psioniker) für direkten psionischen Kontakt mit dem Kristall. 
+* Stück für Stück zu viele Infos -> Schiff wird angegriffen, Zat und andere (später auch das System). Trotzdem weiterforschen! "auf etwas großes gestoßen"
+* Kapitän hat keinen Sinn für Demokratie, Zivilgesellschaft o.ä., aber er nimmt seinen Dienst ernst, und das bringt ihn Stück für Stück in Opposition zum System. 
+* Subjekt 235 (Larain Melar) ist von der Station _Dämmerung_ mit seltsamen politischen Ideen (Demokratie u.ä.) und einem Sinn für Lyrik, der den Experimentatoren völlig abgeht. Nach einiger Zeit wird das Subjekt allerdings unverzichtbar, da für einen Wechsel der Versuchsperson die Aufzeichnung noch einmal von vorne begonnen werden müsste. Merkt es irgendwann. 
+
+
+Personen: 
+
+* Kapitän Joren Tas, Terraner, hart und seinem Auftrag treu.  -Olli?/Achim?/Nica?
+* Dr. Nasser, Ka, Versuchsleitung, Terraner, kalt pragmatisch.  -Achim?/Olli?
+* Dr. Rai Ra Nar, Technik, Terraner, massiv technisch aufgerüstet, weiblich. -Nica?/Mariam?
+* Dr. Gol, Psioniker, Prozessüberwachung, Synarchu. -Julian?
+* Subjekt 235, Larain Melar, Terraner, Psioniker, männlich. -Arne?
+
+
+Audio-Log von Kapitän Tas, Forschungsschiff Sternenband, Tag 15: 
+-----------------------------------------------------
+
+Wir haben heute die Reste eines Jägers gefunden, der halb im Subraum und halb im Realraum gefangen war. Unser Pilot hat ihn mit den Raumspulen unseres Schiffes stabilisiert, so dass wir ein Suchteam hinein schicken konnten. 
+
+Im Inneren fanden wir eine leere Kampfapanzerung. In einer zusätzlich geschützten Innentasche der der Panzerung war ein Kristall verborgen, wie ihn Psioniker nutzen, um ihre erinnerungen aufzuzeichnen. 
+
+Unser Labor untersucht ihn gerade. Ich erwarte den Bericht für morgen. 
+
+Audio-Log von Kapitän Tas, Forschungsschiff Sternenband, Tag 16: 
+-----------------------------------------------------
+
+Wir haben diesen Morgen an der Station _Dämmerung_ angedockt. Ich habe der Crew den Ausgang gestrichen. Die Spinner in der Station sollen ihre Ideen für sich behalten. 
+
+Das Labor hat bereits heute Nacht Bericht erstattet. Der Kristall ist trotz der Kampfpanzerung schwer beschädigt und kann konventionell nicht ausgelesen werden. Sie wollen nun einen Psioniker direkt mit ihm verbinden, um die Daten zu extrahieren. 
+
+Drei unserer pragmatischten Forscher sind unterwegs, um einen Psioniker als Versuchsperson zu finden. Sie haben feste Order mit niemandem außer möglichen Zielpersonen zu sprechen. 
+
+
+Arbeitsbericht von _Nasser, Ka_, Projekt 286, Tag 1: 
+----------------------------------------------------
+
+Ziel des Projektes: Informationsgewinnung. 
+
+Methode: Extraktion der Informationen aus dem beschädigten Gedächtniskristall unter Nutzung einer Versuchsperson. 
+
+Beteiligte: 
+
+* Doktor Nasser, Ka, Versuchsleitung, Terraner
+* Doktorin Rai Ra Nar, Technik, Terranerin
+* Doktor Gol, Psioniker, Prozessüberwachung, Synarchu
+* Subjekt 235, Terraner, Psioniker, männlich. 
+
+*Klack*
+
+Wir beginnen Projekt 286. 
+
+Die Versuchsperson sitzt auf einem unserer Laborstühle. An dem Kopf der Versuchsperson sind Neuralfäden befestigt. Dr. Rai Ra Nar wird sie 10 Sekunden nach dieser Aufzeichnung aktivieren. Danach wird Dr. Gol einen direkten Kontakt zwischen Versuchsperson und Gedächtniskristall herstellen. 
+
+Die Versuchsperson wird die Aufzeichnung des Kristalls erleben, als würde sie sie selbst tätigen. Sie wurde instruiert, jegliche Wahrnehmungen direkt zu beschreiben. Dr. Gol versichert, dass wir so die Schäden des Kristalls umgehen können. 
+
+*klack*
+
+Bei Herstellung des Kontaktes durch Dr. Gol brach die Versuchsperson zusammen. Dr. Rai Ra Nar weckt sie gerade. Wie wiederholen den Versuch. 
+
+*klack*
+
+Der Kontakt wurde erfolgreich hergestellt. Die Versuchsperson wirkt Abwesend, ist jedoch bei Bewusstsein. Wir starten die Aufzeichnung. 
+
+
+Aufzeichnung Projekt 286, Versuchsperson 235, Tag 1: 
+----------------------------------------------------
+
+### Subjekt 235
+
+''Schimmernde Farben wirbeln um das Herz des Kristalls. Ein sanftes Leuchten breitet sich über seine Ecken aus. Es erhellt sein Inneres, bis er in sanftem weißen Licht leuchtet, in dem immer wieder farbige Schlieren tanzen.'' 
+
+''Die Schlieren werden klarer, ein Gesicht blickt aus dem Kristall heraus. Geschlitzte goldgelbe Augen mit grünlichem Schimmer, der auftaucht, wann immer sie sich bewegen. Sie blicken aus dem Gesicht einer Menschenfrau. Eine lange Narbe zieht sich von ihrer Wange bis zum Kinn, kurz über dem Halsansatz. wo ihri Haut in feine grünliche Schuppen übergeht, die sich unmerklich öffnen und schließen.''
+
+''Das Gesicht überlagert den Kristall, wächst über seine Grenzen heraus und stabilisiert sich.''
+
+''Jetzt beginnt der Mund Worte zu formen, die widerhallen wie Klänge aus der Unendlichkeit… Sie festigen sich zu einer ruhigen, klaren Stimme. Sie gehört Sskreszta. Sie…''
+
+### Dr. Nasser Ka
+
+Dr. Gol, 
+
+… TODO direkten Kontakt initiieren …
+
+### Subjekt 245
+
+6000 Jahre sind vergangen, das sagt zumindest die Cryokapsel. Ob das  das Jahr als Göttin ausgleicht? So werde ich später kaum etwas mit den Aufzeichnungen anfangen können. Versuch es zu strukturieren, Sskreszta, auch wenn dir der Aufprall noch in den Knochen steckt. Nachdem Terrok Nor zerstört wurde, habe ich Jodi Crown das letzte Mal gesehen. Er sagte, die Station wäre schon das zweite Mal zerstört worden, und ich glaube ihm, obwohl ich es nicht erklären kann. 
+
+°Eine Schlachtflotte schwebt vor der Station. Dann wird sie von einem Lichtstahl erfasst und zerrissen.°
+
+Davor waren die anderen aus der Psionic 2, meiner ehemalige Spezialeinheit, an Psionischen Angriffen gestorben, und ich sollte an der Reihe sein. Jodi ist daraufhin einen Handel mit dem Wesen eingegangen, das uns angegriffen hat: Er für mich. Dann verschwand alles. 
+
+°Irisierende Augen beugen sich herunter, Lippen berühren sich, alles wird grau.°
+
+°Weißer Dampf steigt auf und eine Plasttür öffnet sich nach oben.°
+
+Als ich aufwachte, bin ich aus einer Cryokapsel gestiegen. Ihre Anzeige sagte nur, dass 6000 Jahre vergangen waren. 
+
+°Eine nackte Frau steht mit aufgerissenen Augen vor einer Anzeige neben der Plasttür. Ihr Körper ist vom Hals abwärts mit feinen Schuppen bedeckt, die an den Seiten des Halses wie Kiemen auf und zu klappen. Im nächsten Moment tritt ein Mann in stählerner Rüstung und einem Langschwert in der Hand hinter sie. "Die ihr von den Sternen kommt, seht mich an." Sie wendet sich um, sein Schwert entwindet sich ihm und landet in ihrer Hand. Die Schuppen an ihrem Hals hören auf sich zu bewegen.° 
+
+Die Bewohner des Planeten haben mich als Göttin verehrt, bis ich von einem Raumschiff gefunden wurde. Nach einer Weile wird es sehr langweilig, wenn einem jeder Wunsch von den Lippen abgelesen wird. Kein Wunder, dass Diktatoren dekadent werden.
+
+°Vor einem Raumschiff verbeugt sich Sskreszta in Gewändern aus fließender purpurner Seide vor einigen Berobten und Gerüsteten. "Ich kehre nun zurück zu den Sternen. Denkt an meine Worte" spricht sie, bevor sie das Schiff betritt.° 
+
+Ich bin den Rebellen beigetreten und Teil eines Psi-Geschwaders geworden, das mir völlig unbekannte Taktiken verwandte. 
+
+°Drei Jäger fliegen. plötzlich bricht einer aus und Streit bricht über Kom los. Sie docken chaotisch an einem Transporter an, der sie durch Sprungpunkte zu einer neuen Station bringt.° 
+
+Auf der neuen Station, einer Forschungsstation von gerade erst entdeckten Aquatischen Intelligenten, hat sich vieles geändert. Von dort an ging beinahe alles schief. 
+
+Stopp. Ich führe die Aufzeichnungen später fort. Wir haben einen alten Bunker entdeckt, in dem wir hoffen Reparaturmaterial zu finden.
