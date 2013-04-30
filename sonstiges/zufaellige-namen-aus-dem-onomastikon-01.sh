@@ -1,7 +1,7 @@
 #!/bin/sh
 
-wget -m http://www.gaminggeeks.org/Resources/KateMonk/
-cd www.gaminggeeks.org/Resources/KateMonk/
+wget -m http://tekeli.li/onomastikon/ 
+cd tekeli.li/onomastikon/
 grep \<td\> -r */ |sed "s/<td>//" | sed "s/<\/td>//" > alle-namen.txt
     
 python3 -c '
