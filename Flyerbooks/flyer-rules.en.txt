@@ -1,0 +1,75 @@
+*This is a __one-page ruleset__ for quick games. Like almost everything else on this page it is __free licensed__,[^license] so you can use, change and share it however you like, as long as you allow others to do the same with your contributions. The Flyerbook rules are a translation of our [German Flyerbooks](/flyer), adapted to the World of [No Dice](http://www.nodicecomic.com/).[^nodice-images] To play it, you also need pregenerated __charactercards__, which at the time of writing aren’t finished, so you have to use the [german ones](/releases/charakterkarten-v0.4.pdf) for the time being. I hope to change that soon.*
+
+*Have fun with Flyerbooks! —[Drak](/uzanto/drak)*
+
+[^license]:  As License the Flyerbooks use the [GPLv3 or later](http://gnu.org/licenses/gpl.html), which is the most widely used license for free software. [More information (in german)…](/deutsch/anhang/freies-rollenspiel)
+
+[^nodice-images]: The images in this post are from Mike Perry and were created for the webcomic [No Dice](http://www.nodicecomic.com/). To our greatest joy, Perry allowed us to use them under the GPL! *And I kinda enjoy the idea of using images from a comic named “No Dice” for a dice-based pen-and-paper roleplaying game ☺. It is also a really nice comic: Good enough to make it into the list of the webcomics I check daily. So if you like fun stories which do not shun away from controversial topics without ever losing their funny, then by all means have a look at [No Dice](http://www.nodicecomic.com/)! —[Drak](/uzanto/drak)*
+
+You want to play, but you have no adventure at hand? You only have 2 hours so you don’t want to spend 2 hours learning rules and creating characters?  
+
+Then this Flyerbook is for you.
+
+## Plan 
+
+The GM reads this rule-sheet. Meanwhile each player chooses a character card. If you have new players, the experienced players tell them why roleplaying is cool (but keep it short!) and how it works.  
+
+Now the GM reads the character cards the players chose, while the players read the rules and organize one die (D6) for each participant.
+<!--break-->
+<style>
+<!--
+.img-right {padding-left: 0.3em}
+.img-left {padding-right: 0.3em}
+-->
+</style>
+## Basics
+
+[<img class="img-right" align="right" src="/bilder/w%C3%BCrfel-80x100.png" />](/bilder/w%C3%BCrfel-80x100.png)
+
+As ruleset the flyerbooks use the free 1d6-system.[^1d6] The characters have attributes, jobs, skills, edges and flaws which differenciate them from the masses. Jobs and skills have numbers  (6-18). Attributes, edges and flaws only have plusses (strength) oder minusses (weakness).  
+
+[^1d6]: The 1d6 system allows free choice of attributes, skills, jobs and edges and flaws. It offers compatibility with Gurps[^gurps] and Fudge/Fate[^fudge], keeps the rules simple and leans to a rapid pulp-style.
+
+[^gurps]: You can easily use rules, edges and flaws and equipment from Gurps. For the rules, just replace success rolls by rolls against 12. For edges and flaws, just replace costs of 10 to 20 CP by +, 20-50 by ++, 50-120 by +++. You can directly use all skill modifiers. For weapons, just replace the damage roll by the average damage. Armor and other equipment can normally be used without change.
+
+[^fudge]: To use rules from Fudge or Fate, add 4 to success rolls and multiply with 3. + and - of Attributes directly translates to + and - in 1d6. For aspects which are job descriptions, + is equal to 9, +2 to 12, +3 to 15 and so on (the Flyerbook rules have no cost for skills, because they use pregenerated characters. In the full 1d6 rules, a job at 9 costs +, a job at 12 costs ++ and so forth - you surely see the pattern). For specializations, just triple the bonus.
+
+*Examples: Agility, Intelligence and Pride are Attributes. Carpenter is a job and hand-to-hand combat is a skill. Wealthy (+) is an edge and addicted (-) a flaw.*
+
+## Task
+
+[<img class="img-right" width="38%" align="right" src="/files/2010-01-29-No-Dice-12-Pull-Up.jpg" />](/files/2010-01-29-No-Dice-12-Pull-Up.jpg)
+
+If you want to know, if a character masters a hard task, you can roll a die. First you check if he has a fitting job or skill (when there are multiple, take the highest). If yes, start with its value. If not, use the fallback 3.  
+
+Then check his attributes: If he uses a skill, he gets a bonus of 1 per + in each attribute which fits the task. If he uses a job or the fallback 3, he only gets the bonus from the highest fitting attribute. If others support him with fitting skills, he gets an additional point bonus per supporter.  
+
+Now roll a D6 (six sided die). If the die shows an even number, add it to your value. If the number is uneven, substract it (this is called ±D6). If the result reaches the difficulty of the task, the character masters the task (6 is routine, 9 easy, 12 challenging, 15 hard). The difference between your result and the difficulty shows how well you master the task.  
+
+[<img class="img-right" width="18%" align="right" src="/files/Harrak-looking-left.png" />](/files/Harrak-looking-left.png)
+
+*Example: Harrak wants to pick the lock of the trapdoor below the bar. He’s a seasoned thief (Job: Locksmith: 12) and quite deft (Deft +). His deftness gives him a bonus of 1 for the job, so he’s at 13. The GM decides that this lock is easy to pick (difficulty 9). Harraks player rolls a 3. 3 is uneven, so it’s substracted and Harrak reaches a 10 (13 minus 3). He accomplishes this task with a difference of 1 and the lock clicks open.*
+
+## Contest
+
+If two characters compete, both roll as for a test. The one with the higher result wins. The difference between the results shows his margin of success.  
+
+[<img class="img-right" width="18%" align="right" src="/files/2012-07-16-No-Dice-372-Hildy.jpg" />](/files/2012-07-16-No-Dice-372-Hildy.jpg)
+
+*Example: Darius and Hildy enter a drinking contest. Darius rolls on Stays Sharp (12) with a bonus from Burned Past (+) and Experienced (+). [<img class="img-left" width="18%" align="left" src="/files/Darriusbriggans.jpg" />](/files/Darriusbriggans.jpg) Hildy uses Seasoned Sailor (12) with a bonus from Swearing, Spitting Gal (+). Hildy rolls a 4 and reaches 12 + 1 + 4 = 17. Darius rolls a 1 and gets 12 + 2 - 1 = 13. So Hildy wins with a difference of 4 and still oders pint for pint hours after Darius started hugging the ground.*
+
+## Battle
+
+[<img class="img-right" width="38%" align="right" src="/files/Five-eyed-beast.png" />](/files/Five-eyed-beast.png)
+
+For Fighting, Charakters have weapons, armor and a wound threshold. In close combat both participants roll on a suitable value (a contest). The one with the higher result hits his enemy. On a draw the attacker hits. In ranged combat only the attacker rolls (task: difficulty given by the weapon or 12 up to 5m, 15 up to 50m, +3 for complications, -3 in a relaxed situation). If he succeeds, he hits.  
+
+The struck charakter takes an amount of damage equal to the difference of the results plus the winners weapon minus his armor. If the damage reaches his wound threshold, he takes a wound which gives him a malus of 3 on all rolls until it’s healed. A hit with a damage of 3x wound threshold means sudden incapacitation.  
+
+The normal wound threshold is between 3 and 6, weapon damage and armor between 1 (dagger / dart / cloth) und 8 (axe / rifle / plate). If one of the fighters only wants to defend, he gets a bonus of 6 but causes no damage if he hits.  
+
+For healing the player rolls once per week with a ±D6. Then he adds 1 per + in suitable attributes. If the result is at least 0, one wound heals. Strain, missing care or nursing give between -3 and +3.  
+
+[<img class="img-right" width="38%" align="right" src="/files/Demons_0.png" />](/files/Demons_0.png)
+
+*Example: Daenes (Fists 15, confident +, strong +) tries to put down a rogue Rakasha (Claws 12). Daenes player rolls a 4 and reaches 21 (15 plus 2 plus 4). The Game Master rolls a 4, so she gets 16 (12 plus 4). So Daenes hits her enemy with a difference of 5 points (21 minus 16) and does 6 damage (1 from her fire reaml hardened knuckles). [<img class="img-left" width="38%" align="left" src="/files/Rakshasa.png" />](/files/Rakshasa.png) The damage reaches the wound threshold of the Rakasha (5) and wounds her. Till that wound heals, the Rakasha has a malus of 3 on all rolls. She tries to escape and decides to just defend. That gives her a bonus of 6. Together with the wound she now has 15 (12-3+6). Daenes attacks again and rolls a 3, reaching 14 (15 plus 2 minus 3). The GM rolls a 1 and also reaches 14 (15 minus 1). Since Daenes attacks, she hits. But she does not cause a wound. [<img class="img-right" width="38%" align="right" src="/files/2012-06-01-No-Dice-353-captured.jpg" />](/files/2012-06-01-No-Dice-353-captured.jpg) Nevertheless the Rakasha gets hit again and surrenders. She is bound and her wounds are treated. A week later she rolls for healing. The die shows a 1, which is -1, but the nursing from other prisoners gives her a bonus of 1. That suffices to reach 0 and her wound heals.*
