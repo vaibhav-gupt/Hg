@@ -80,7 +80,7 @@ Characters from the world of [No Dice](http://www.nodicecomic.com/).
 
 ### Harrak
 
-[<img class="img-left" width="18%" align="left" src="/files/Harrak.png" />](/files/Harrak.png)
+[<img class="img-left" width="38%" align="left" src="/files/Harrak.png" />](/files/Harrak.png)
 *Dwarven Thief*  
 „…“  
 *Deft: +*  
@@ -94,7 +94,7 @@ Characters from the world of [No Dice](http://www.nodicecomic.com/).
 
 ### Darius
 
-[<img class="img-left" width="18%" align="left" src="/files/Darriusbriggans.jpg" />](/files/Darriusbriggans.jpg)
+[<img class="img-left" width="38%" align="left" src="/files/Darriusbriggans.jpg" />](/files/Darriusbriggans.jpg)
 *(role)*  
 „…“  
 *Burned Past: +, Experienced: +*  
@@ -108,7 +108,7 @@ Characters from the world of [No Dice](http://www.nodicecomic.com/).
 
 ### Hildy
 
-[<img class="img-left width="18%" align="left" src="/files/2012-07-16-No-Dice-372-Hildy.jpg" />](/files/2012-07-16-No-Dice-372-Hildy.jpg)
+[<img class="img-left width="38%" align="left" src="/files/2012-07-16-No-Dice-372-Hildy.jpg" />](/files/2012-07-16-No-Dice-372-Hildy.jpg)
 *Pirate Captain*  
 „No one gets left behind!“  
 *Swearing, Spitting Gal: +*  
@@ -130,7 +130,7 @@ Characters from the world of [No Dice](http://www.nodicecomic.com/).
 *Job: Fire Realm Officer: 12*  
 *(skills)*  
 *(Edges and Flaws)*  
-*Weapon: Fists: 3*  
+*Weapon: Fists: 1*  
 *Wound Threshold: 5*  
 
 (Background)
