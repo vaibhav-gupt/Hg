@@ -73,3 +73,70 @@ For healing the player rolls once per week with a ±D6. Then he adds 1 per + in 
 [<img class="img-right" width="38%" align="right" src="/files/Demons_0.png" />](/files/Demons_0.png)
 
 *Example: Daenes (Fists 15, confident +, strong +) tries to put down a rogue Rakasha (Claws 12). Daenes player rolls a 4 and reaches 21 (15 plus 2 plus 4). The Game Master rolls a 4, with which the Rakasha gets 16 (12 plus 4). So Daenes hits her enemy with a difference of 5 points (21 minus 16) and does 6 damage (1 from her fire realm hardened knuckles). [<img class="img-left" width="38%" align="left" src="/files/Rakshasa.png" />](/files/Rakshasa.png) The damage reaches the wound threshold of the Rakasha (5) and wounds her. Till that wound heals, the Rakasha has a malus of 3 on all rolls. She tries to escape and decides to just defend. That gives her a bonus of 6. Together with the wound she now has 15 (12-3+6). Daenes attacks again and rolls a 3, reaching 14 (15 plus 2 minus 3). The GM rolls a 1 and also reaches 14 (15 minus 1). Since Daenes attacks, she hits. But she does not cause a wound. [<img class="img-right" width="38%" align="right" src="/files/2012-06-01-No-Dice-353-captured.jpg" />](/files/2012-06-01-No-Dice-353-captured.jpg) Nevertheless the Rakasha gets hit again and surrenders. She is bound and her wounds are treated. A week later she rolls for healing. The die shows a 1, which is -1, but the nursing from other prisoners gives her a bonus of 1. That suffices to reach 0 and her wound heals.*
+
+## Character Cards
+
+Example Characters for the world of No Dice.
+
+### Harrak
+
+[<img class="img-left" width="18%" align="left" src="/files/Harrak.png" />](/files/Harrak.png)
+*Dwarven Thief*  
+„…“  
+*Deft: +*  
+*Job: Locksmith: 12*  
+*(skills)*  
+*(Edges and Flaws)*  
+*Weapon: Knife: 1*  
+*Wound Threshold: 4*  
+
+(Background)
+
+### Darius
+
+[<img class="img-left" width="18%" align="left" src="/files/Darriusbriggans.jpg" />](/files/Darriusbriggans.jpg)
+*(role)*  
+„…“  
+*Burned Past: +, Experienced: +*  
+*Job: (job): 9*  
+*Stays Sharp: 12, Swordfighting: 12*  
+*(Edges and Flaws)*  
+*Weapon: Sword: 4*  
+*Wound Threshold: 4*  
+
+(Background)
+
+### Hildy
+
+[<img class="img-left width="18%" align="left" src="/files/2012-07-16-No-Dice-372-Hildy.jpg" />](/files/2012-07-16-No-Dice-372-Hildy.jpg)
+*Pirate Captain*  
+„No one gets left behind!“  
+*Swearing, Spitting Gal: +*  
+*Job: Pirate Thief: 12*  
+*Stays Sharp: 12, Crossbow: 12*  
+*(Edges and Flaws)*  
+*Weapon: Crossbow: 4*  
+*Wound Threshold: 4*  
+
+(Background)
+
+### Daenes
+
+[<img class="img-left" width="38%" align="left" src="/files/Demons_0.png" />](/files/Demons_0.png)
+
+*Inscrutable Fire-Realm Demon*  
+„…“  
+*Confident: +, Strong: +, Tough: +*  
+*Job: Fire Realm Officer: 12*  
+*(skills)*  
+*(Edges and Flaws)*  
+*Weapon: Fists: 3*  
+*Wound Threshold: 5*  
+
+(Background)
+
+
+
+## Your own characters
+
+To create your own characters, buy their attributes, skills, jobs and edges and flaws with 7 generation points. For one point you get an attribute or edge at +, a skill at 12 or a job at 9. For three points you get an attribute or edge at ++, a skill at 15 or a job at 12. Flaws with - give you 1 additional point. Weapons and protection cost 1 point per 9 of the added damage and armor (the 1 damage and armor is free). The wound threshold is 4 plus the plusses in one fitting attribute.
