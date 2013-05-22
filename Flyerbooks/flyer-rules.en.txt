@@ -139,4 +139,4 @@ Characters from the world of [No Dice](http://www.nodicecomic.com/).
 
 ## Your own characters
 
-To create your own characters, buy their attributes, skills, jobs and edges and flaws with 7 generation points. For one point you get an attribute or edge at +, a skill at 12 or a job at 9. For three points you get an attribute or edge at ++, a skill at 15 or a job at 12. Flaws with - give you 1 additional point. Weapons and protection cost 1 point per 9 of the added damage and armor (the 1 damage and armor is free). The wound threshold is 4 plus the plusses in one fitting attribute.
+To create your own characters, buy their attributes, skills, jobs and edges and flaws with 7 generation points. For one point you get an attribute or edge at +, a skill at 12 or a job at 9. For three points you get an attribute or edge at ++, a skill at 15 or a job at 12. Each flaw with - give you 1 additional point. Weapons and protection cost 1 point per 9 of the added damage and armor (the 1 damage and armor is free). The wound threshold is 4 plus the plusses in one fitting attribute.
