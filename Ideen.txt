@@ -3026,3 +3026,24 @@ Mit der Struktur für EWS 3.0 wäre es möglich, 3 Kampfsysteme zu implementiere
 * Cinematisch: Nur Wunden geben Erschöpfung, jede Wunde kostet effektiv eine Handlung. Straucheln und kritische Wunden geben Eigenschaftsabzüge (jeweils 1). Freie Handlungen weglassen (sonst gibt es ~4 Wunden ohne Auswirkung, was eher langweilig wäre). Charaktere können sehr lange weitermachen und jeglicher Schaden ist klar auf den entsprechenden Eigenschaften lokalisiert.
 
 * Hart und spaßig: Wunden + Schaden auf Eigenschaften: Fast wie aktuell: Starke Charaktere können zumindest im Nahkampf sehr lange kämpfen.
+
+------
+
+Kommentar Podcast der Dorp zum Kickstarter von Exalted.
+
+http://www.die-dorp.de/index.php/dorpcast/1764-dorpcast-episode-4-jene-spiele-die-uns-praegten
+
+Ich finde den Exalted Kickstarter klasse: Da bekommen Leute 440k für die Produktion des Buches - wirklich für die Produktion der Inhalte und nicht als Vorkasse für irgendwas physisches, bei dem am Ende 80% des Geldes in der Produktion hängenbleibt, so dass nur ein Bruchteil des Geldes wirklich die Autoren finanziert.
+
+Und das als Deluxe zu machen ist vermutlich einfach gute Kenntnis der Fans: Für Deluxe zahlen Leute gerne mehr. Zumindest diejenigen, die sich Kickstarter-Unterstützung leisten können. Und durch das spätere PDF kommemn auch die weniger Vermögenden Leute die Werke.
+
+In „Der will ja nur Geld machen“¹ habe ich noch geschrieben „wenn jemand es schafft, mit Rollenspielen Millionen zu scheffeln: Sehr cool!“. Und jetzt schaffen das Leute.
+
+440k sind genug, um 8 Leute ein Jahr lang Vollzeit zu finanzieren (55k pro Person, abzüglich aller Steuern). Rechnen wir mal 3 Zeichnende, 3 Schreibende, eine Person im Design and und eine in der Buchhaltung.
+
+Und damit haben sie schon nur ein Jahr lang Puffer. Da muss nur ein Kickstarter schief gehen und schon sind die Arbeitslos - und bei US-Amerikanern heißt das verschuldet oder hungernd. Klar können sie dann vermarkten, was sie geschaffen haben. Aber wenn ich mir den Rollenspielmarkt anschaue, sehe ich da keine so riesigen Potenziale.
+
+Das Risiko der Blase sehe ich auch, aber gleichzeitig bietet sie eine große Chance für große Verlage: Wer konsistent gute Qualität liefern kann, der kann seine Fans halten: Er kriegt wieder einen neuen Kickstarter finanziert. Und ein Verlag kann eine Qualitätssicherung bieten, durch die Leute wissen, dass ein neues Crowdfunding-Projekt mit dieser Marke auch liefern kann.
+
+¹: http://1w6.org/deutsch/anhang/gedanken/der-will-ja-nur-geld-machen
+
