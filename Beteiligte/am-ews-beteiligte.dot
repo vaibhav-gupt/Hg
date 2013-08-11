@@ -19,7 +19,7 @@ graph G {
        	node [shape=diamond,style=dashed,color="1.0 0.5 0.7"]; Welten; Mitarbeit;
 	
 	// Welten
-	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu®"; "Ante Portas"
+	node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Technophob";"Eine stabile Gesellschaft";"Nexus-Welt"; "Die Stadt zwischen den Welten"; "Shadowrun®"; "Chthulhu®"; "Ante Portas"
 	
 	// Mitarbeit
 	node [shape=box,style=filled,color=".7 .5 1.0"]; Weltenbau; Programmierung; Regelentwurf; Internet; "Bilder und Zeichnungen"
@@ -43,7 +43,8 @@ graph G {
 	{"Rettet die Weltenkristalle";"Seminar";"Runden in Runden"} -- Crossover
 	"Wächter der Zeit" -- "RaumZeit Maschinenkrieg"
 	{"Auf der Flucht";"Erstkontakt";"Schattenspiele";} -- "Totenwache"
-	{"Totenwache";"Schattenspiele";"Piraten und Zat";"Kleine Schiffe";"Fremde Schiffe"} -- "RaumZeit Friedenszwang"
+	{"Totenwache";"Schattenspiele";"Piraten und Zat";"Technophob";} -- "RaumZeit Friedenszwang"
+    {"Kleine Schiffe"; "Fremde Schiffe"} -- "Technophob"
 	{"Motivation"} -- "Eine stabile Gesellschaft"
 	{"Nexus"} -- "Nexus-Welt"
 	{"Gefangen zwischen den Welten"} -- "Die Stadt zwischen den Welten"
