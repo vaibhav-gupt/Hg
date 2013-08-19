@@ -3056,3 +3056,64 @@ Ich würde weniger auf Unberechenbarkeit gehen. Spieler brauchen Archetypen, mit
 Es gibt eine Gruppe von Spielern und Spielerinnen, die immer neues suchen. Für die brauchst du ganz neues und kreatives. Es gibt aber auch andere, die Vertrautes wollen, oder die ihre eigene Idee in deinem Hintergrund umsetzen wollen. Für die musst du Archetypen liefern, die sie kennen – allerdings vor deinem Hintergrund neu interpretiert, um ein kohärentes Ganzes zu schaffen.
 
 Der Hintergrund hat die Funktion, das Spiel anzuregen, und dafür muss es die verschiedensten Gruppen von Spielenden berühren. Wenn du es noch schaffst, damit Erkenntnisprozesse bei den Spielenden zu fördern, um so besser. Ein Spiel ist nochmal besser, wenn es nicht nur Unterhaltung bietet, sondern *zusätzlich* dein Leben bereichert hat. Beispiel: „Achtet darauf, woran ihr glaubt. Es könnte wahr werden.“ (Phileasson Saga, die Firnelfen)
+
+
+------
+
+
+2013-08-19 02:25:35
+-------------------
+
+Würfelloses Spiel: Stalker statistisch korrigieren. Hintergrund: http://analogkonsole.wordpress.com/2013/08/18/stalker-wurfellos-richtig-gemacht/
+
+    Die Bewertung der Idee:
+
+    Startwert: 1
+    Ist sie glaubwürdig: +1
+    Benötigt sie zur Ausführung Ausrüstung, die verfügbar ist: +1
+    Verwendung der Umgebung zum Vorteil des Charakters: +1
+    Teamwork: +1
+    Plan ist einfach zu erklären: +1
+    Charakter hat Fertigkeit, die er zur Lösung einsetzt: +1
+
+    Der Spielleiter addiert die Punkte zusammen.
+
+    Die Bewertung der darstellerischen Leistung:
+
+    Armselig: 1– paßt nicht zum Charakter, zerstört die Immersion, entspricht nicht der schauspielerischen Fertigkeit des Spielers
+    Mangelhaft: 2 — irgendwas paßt immer noch nicht ganz, die Stimmung ist nicht das, was man gewohnt ist, die Darstellung entspricht nicht der schauspielerischen Fertigkeit des Spielers
+    Erwartungsgemäß: 3 — paßt zum Charakter, entspricht der schauspielerischen Fertigkeit des Spielers, bringt das Spiel voran, fördert die Atmosphäre
+    Gut: 4 — besser als vom Spieler erwartet, der Spieler oder Charakter hinterlassen einen bleibenden Eindruck, Spieler hat seine schauspielerischen Grenzen überschritten und etwas gezeigt, das der Spielleiter und die anderen Mitspieler nicht von ihm erwartet hätten
+    Exzellent: 5 — der Stoff, aus dem Legenden sind
+    Bonus: +1, wenn der Charakter eine Fertigkeit hat, die er zur Lösung einsetzt
+    
+    Der Spielleiter addiert auch hier die Punkte zusammen.
+    
+    Jetzt multipliziert er die beiden Summen: Idee x darstellerische Leistung.
+    Wenn das Produkt mindestens genauso groß ist wie die Schwierigkeit des Problems, ist der Charakter erfolgreich.
+    Je größer der Unterschied zwischen Produkt und Schwierigkeit, desto größer ist der Erfolg oder Mißerfolg, oder es gibt Teilerfolge.
+
+Fazit für mich: Die 5 Punkte für Idee sind zu leicht zu erreichen, so dass die Schauspielerische Leistung zu viel ausmacht. Ich sehe zwei Wege um das zu lösen: 
+
+1. Alle Schauspielerischen Leistungen um 1 hochschieben, dafür als 1-Punkt Kategorie einführen “nicht dargestellt” (Startwert wie bei der Idee). Dann ist durchschnittliche Leistung mit dem richtigen Char eine 5, so dass ein Punkt der Idee gerade den Unterschied zwischen 2 Mindestwürfen ausmacht. Das entspricht dann dem Standard-Multiplikator für Schauspielerisches. Dafür sind die Zahlen etwas größer (unschön). Oder
+
+2. Bei Idee Teamwork und Umgebung zusammenlegen (Teamwork und/oder Umgebung: +1). Außerdem glaubwürdig (+1) und einfach (+1) zu einem verbinden: Glaubwürdig UND einfach, bzw. plausibel (+1). Und den Startwert weglassen. Dann haben wir eine Spanne von 0 (keine Idee) bis 4 (passt perfekt). Dazu bei Schauspielerischer Leistung die passende Fertigkeit weglassen (die gehört zur Idee!) und alle Werte um 1 nach unten verschieben (armselige Darstellung bringt einfach nichts). Dann haben wir auch hier eine Spanne von 0 bis 4. Dann nur noch die Schwierigkeiten anpassen: 0 (langweilige Szene: Nicht ausspielen), 1 (Minimalbeschreibung reicht: Wir machen das so), 2 (konzentrier dich etwas: mindestens eins muss durchschnitt sein), 3 (eins gut oder zwei durchschnitt), 6 (unter durchschnitt wird nicht mehr akzeptiert), 8 (3x3 oder 2x4: entweder in beidem gut oder in einem herausragend), 12 (3x4: fast perfekt) und 16 (alles passt - das ist ein wirklich unvorstellbares Ergebnis: Ein Einschneidendes Erlebnis für alle Beteiligten).
+
+Teilerfolge und Differenzen fallen weg.
+
+Damit gilt:
+
+Idee:
+
+* Ist sie einfach und glaubwürdig: +1
+* Benutzt sie zur Ausführung verfügbare Ausrüstung: +1
+* Verwendet sie die Umgebung oder die Fähigkeiten anderer Gruppenmitglieder: +1
+* Nutzt der Charakter eine passende Fertigkeit: +1
+
+Darstellung: 
+
+* Armselig: 0 (völlig unpassend oder nicht existent)
+* Mangelhaft: 1 (unter den Fähigkeiten des Darstellenden)
+* Erwartungsgemäß: 2
+* Gut: 3 (besser als erwartet)
+* Exzellent: 4 (wir werden noch in Monaten daran denken)
