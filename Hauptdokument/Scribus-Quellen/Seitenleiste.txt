@@ -281,20 +281,6 @@ Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vo
 Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nur kampfunfähig zu machen, erhält dann aber 3 Punkte Malus.
 
 Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf den zugefügten Schaden verzichten.
-#Adressen mit SL-Tipps
-Es gibt im Netz eine Reihe Materialien für Spielleiterinnen.
-
-Viele von ihnen sind auf der Seite SL-Tipps.de verlinkt.
-
-SL-Tipps.de ist ein Wiki in dem jede Besucherin mitschreiben kann (ähnlich wie in der Wikipedia).
-
-Die Seite hat sich einfachen und schnell einsetzbaren Tipps verschrieben.
-
-Falls du Seiten findest, die in der dortigen Linkliste noch fehlen, füg sie doch einfach hinzu.
-
-Und falls du selbst Tipps weitergeben willst, kannst du ihnen dort ein neues Zuhause geben.
-
-
 #Module selbst entwickeln
 Eine der Hauptstärken des EWS ist, dass es sauber durch Module anpassbar ist.
 
@@ -341,17 +327,6 @@ Da im vobsy die Eigenschaften einen Bonus auf die Fertigkeiten geben, können Sp
 Zur Berechnung der Kosten einer Fertigkeits-Steigerung wird immer der Grundwert ohne Eigenschaftsboni genommen, so dass es bei hohen Fertigkeitswerten und niedrigen Eigenschaften oft ratsam ist, erst die Eigenschaften zu steigern, vor allem weil eine Eigenschaft ohne Schwierigkeiten als Basis für viele unterschiedliche Fertigkeiten dienen kann.
 
 Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie im Leben, soll im EWS ein Gleichgewicht zwischen der Steigerung der Fertigkeiten und der Eigenschaften sinnvoll sein.
-
-
-#Ein Beispiel für die Strichvergabe
-*In der Kampagne von Lazaro hat die SL eine Heldenrunde geplant, die über ein Jahr laufen soll (realistisch gerechnet etwa 12 Spielabende).
-
-*Nach der Kampagne sollen die Charaktere die Geschichte ihrer Welt mitbestimmen, also Beweger sein (16 Dreiecke), und sie starten als angehende Helden (7 Dreiecke). Die Differenz (16-7=9) mal drei ergibt 27 Striche.
-
-*Also erhält jeder Charakter pro Abend etwa 2 Striche, bei besonders schönen Spielabenden auch mal 3.
-
-*Als Alternative könnte sie die Kampagne auch in sieben Abschnitte aufteilen und dafür je 3-5 Striche vergeben. Dadurch würde sie bei der Strichvergabe mehr Freiheit haben, und die Spieler würden die Veränderungen ihrer Charaktere deutlicher spüren. Im Gegenzug müsste sie allerdings etwas sprunghaftere Charakterentwicklungen in Kauf nehmen.
-
 
 #Spezialisierungen
 Spezialisierungen decken kleine Unterbereiche einer Fertigkeit ab.

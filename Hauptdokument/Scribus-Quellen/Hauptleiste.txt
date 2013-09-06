@@ -222,15 +222,14 @@ Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die ande
 - Halbgötter (40Δ)
 
 Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher der Machtstufen ihr spielen wollt.
-
-Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen).
+Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen).
 
 Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspielern und der Art des Abenteuers ab.
 
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe.
-Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
+Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
 
-**Ein angehender Held kann 7 starke Werte wählen: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 starken Werten.
+**Ein angehender Held kann 7 starke Werte wählen: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 starken Werten.
 
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll.
 
@@ -239,23 +238,23 @@ Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die 
 
 *Auch die Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und "Die Kunst des Flirtens".
 
-<fuss>Falls dir diese Wahl etwas schwerer fallen sollte, findest du auf den Seiten 18 bis 21 eine Liste mit Anregungen.
-
-<fuss>Wie du statt mehreren Fähigkeiten eine einzelne Fähigkeit mit höherem Wert nehmen kannst, findest du auf den Seiten 16 und 17 bei den fünf Regeln der Erschaffung.
-
-*Nur bei Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist.
+*Nur bei Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist.
 
 *Statt einem weiteren Merkmal wählt er nach einigem Nachdenken lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma.
 
 *Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder.
 
-*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf seine Fertigkeiten zu wählen.
+<fuss>Falls dir die Wahl der Werte etwas schwerer fallen sollte, findest du jeweils bei den Beschreibungen von Eigenschaften, Fertigkeiten, Berufen und Merkmalen entsprechende Beispiele..
 
-Für jeden der Werte notiert er dafür als erstes ein Plus ("+"), das den Wert als starken Wert kennzeichnet und für die Bestimmung der Boni durch Eigenschaften und im Modul Charaktersteigerung (im Anhang) genutzt wird.
+<fuss>Alle Einzelheiten zur Erschaffung findest du auf den Seiten 19 und 20 bei den 5 Regeln der Erschaffung.
+
+*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf seine Fertigkeiten zu wählen.
+
+Für jeden der Werte notiert Sven dafür als erstes ein Plus ("+"), das den Wert als starken Wert kennzeichnet und für die Bestimmung der Boni durch Eigenschaften und im Modul Charaktersteigerung (im Anhang) genutzt wird.
 
 Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durchschnittlich, also bei 12, und im Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
 
-*Für jede der Fertigkeiten wählt Sven nun zwei passende Eigenschaften.
+*Für jede der Fertigkeiten wählt Sven nun zwei passende Eigenschaften.
 
 **Die den Fertigkeiten zugeordneten Eigenschaften geben für jedes Plus ("+") einen Punkt Bonus. Da Lazaros Eigenschaften bisher jeweils nur ein Plus haben, gibt jede zugeordnete Eigenschaft einen Punkt.
 
@@ -584,6 +583,15 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 
 <fuss>Ein ausführlicheres Beispiel gibt es im Netz:
 <fuss>-> 1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel
+
+#Ein Beispiel für die Strichvergabe
+*In der Kampagne von Lazaro hat die SL eine Heldenrunde geplant, die über ein Jahr laufen soll (realistisch gerechnet etwa 12 Spielabende).
+
+*Nach der Kampagne sollen die Charaktere die Geschichte ihrer Welt mitbestimmen, also Beweger sein (16 Dreiecke), und sie starten als angehende Helden (7 Dreiecke). Die Differenz (16-7=9) mal drei ergibt 27 Striche.
+
+*Also erhält jeder Charakter pro Abend etwa 2 Striche, bei besonders schönen Spielabenden auch mal 3.
+
+*Als Alternative könnte sie die Kampagne auch in sieben Abschnitte aufteilen und dafür je 3-5 Striche vergeben. Dadurch würde sie bei der Strichvergabe mehr Freiheit haben, und die Spieler würden die Veränderungen ihrer Charaktere deutlicher spüren. Im Gegenzug müsste sie allerdings etwas sprunghaftere Charakterentwicklungen in Kauf nehmen.
 
 
 #Fokus: Kampf (FoKa)
