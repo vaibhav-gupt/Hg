@@ -225,6 +225,7 @@ Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher der 
 Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspielern und der Art des Abenteuers ab.
 
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe.
+
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
 
 **Ein angehender Held kann 7 starke Werte wählen: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 starken Werten.
