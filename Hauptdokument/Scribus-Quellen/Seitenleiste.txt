@@ -147,7 +147,6 @@ Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff au
 
 Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe.
 
-
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird.
 
@@ -174,6 +173,7 @@ Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob e
 
 Merkmale: Vermögend (+), Kein sicheres Einkommen (‑)
 
+
 #Merkmale aus Gurps® übernehmen
 Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale.
 
@@ -537,6 +537,7 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 
 - Streitkolben hat Rippen zertrümmert, Messer zwischen die Rippen gerammt und beim Drehen Rippen gebrochen.
 
+
 
 #Warum freie Werke?
 Freie Werke schaffen eine Umgebung, in der Jede jeden Teil ihrer Umgebung nach ihren Wünschen gestalten kann und darf, solange sie die Freiheit von niemand Anderem einschränkt.
