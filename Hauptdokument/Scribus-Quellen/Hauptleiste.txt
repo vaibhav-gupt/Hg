@@ -16,8 +16,6 @@ Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber 
 
 <fuss>(Gurps® ist Markenzeichen von SJGames, Fudge™ von GreyGhostPress)
 
-<fuss>Wir verwenden größtenteils die weibliche Form. Männer sind damit natürlich mitgemeint.
-
 #Grundlagen
 
 **Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die jede Spielerin frei wählen kann. Alternativ können sie von der Spielleiterin (SL) vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
@@ -222,14 +220,14 @@ Die Bedeutung einiger Machtniveaus ist in der Seitenleiste beschrieben. Die ande
 - Halbgötter (40Δ)
 
 Bevor die Erschaffung weitergehen kann, müsst ihr entscheiden, auf welcher der Machtstufen ihr spielen wollt.
-Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen).
+Meistens ist es für das Spiel am sinnvollsten, wenn alle Charaktere in etwa über die gleiche Macht verfügen (wenn auch meistens in unterschiedlichen Bereichen), doch es gibt auch schöne Spielkonzepte, in denen einzelne Charaktere weit mächtiger oder schwächer sind (z.B. Ritter-Knappe Charaktere, oder ein alter Mächtiger aus vergangenen Zeitaltern, oder Norm unter Feenwesen).
 
 Ob sie für deine Gruppe sinnvoll sind, hängt von deinem Stil, deinen Mitspielern und der Art des Abenteuers ab.
 
 Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die deinen Charakter von der Masse abheben, und gibst ihm Fertigkeiten und einen oder mehrere Berufe und Hintergründe.
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
 
-**Ein angehender Held kann 7 starke Werte wählen: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 starken Werten.
+**Ein angehender Held kann 7 starke Werte wählen: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 starken Werten.
 
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll.
 
@@ -248,7 +246,7 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 <fuss>Alle Einzelheiten zur Erschaffung findest du auf den Seiten 19 und 20 bei den 5 Regeln der Erschaffung.
 
-*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf seine Fertigkeiten zu wählen.
+*Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf seine Fertigkeiten zu wählen.
 
 Für jeden der Werte notiert Sven dafür als erstes ein Plus ("+"), das den Wert als starken Wert kennzeichnet und für die Bestimmung der Boni durch Eigenschaften und im Modul Charaktersteigerung (im Anhang) genutzt wird.
 
@@ -267,7 +265,6 @@ Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften 
 Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro.
 
 Und damit ist Svens Charakter beinahe spielfertig.
-
 **Salamon Lazaro de Aicega,
 **Diplomat, Degenfechter und Charmeur.
 
@@ -425,7 +422,7 @@ Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen h
 **	Deutlich stärkere Rüstung: 	+3
 
 **Sehr langsame Waffen (Armbrust, zu schwerer Kriegshammer, ...) können -1 bis -6 Malus geben (SL).
-*"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an.
+*"Grok, Barbar" steht dem abgerissenen Leibwächter eines Händlers gegenüber, der ihm verschimmeltes Essen verkauft hat. Grok greift an.
 
 *Da Groks Kontrahent nur einen Dolch trägt, Grok aber eine Streitaxt, addiert seine Spielerin Jana 3 Punkte zu Groks Kampffertigkeit (Erfahren: 15) und erhält 18. Die SL hat nur die Fertigkeit des Leibwächters (Schwach: 9). Nun würfeln beide. Jana wirft eine 4, die SL eine 2. Damit kommt Grok auf 18+4=22 und der Leibwächter auf 9+2=11. Die Differenz ist 11, also bleibt Grok unverletzt und der Leibwächter geht mit 6 Wunden zu Boden.
 
@@ -439,7 +436,7 @@ Um dem Ein Wurf System größere Flexibilität zu geben, können verschiedene Ka
 - Reine Flucht: Hier versucht der Charakter vor seinem Kontrahenten zu fliehen. Sollte er gewinnen, entkommt er. Sein Kontrahent erhält keinen Schaden, der Fliehende selbst aber trotzdem drei Wunden abzüglich einer Wunde je drei Punkte Differenz. Wer nur zu fliehen versucht erhält 6 Punkte Bonus auf seinen Fertigkeitswert (5/6 Chance zu entkommen).
 
 - Unterstützende Fertigkeiten: Fertigkeiten wie Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jedes + in der Fertigkeit einen Punkt Bonus auf den Fertigkeitswert.
-#Hinweise zum Leiten
+#Hinweise zum Leiten
 
 Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System mit Kampfunfähigkeit und Verletzung statt mit dem Tod, solange niemand auf Leben und Tod kämpft.
 
@@ -584,7 +581,7 @@ Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfä
 <fuss>Ein ausführlicheres Beispiel gibt es im Netz:
 <fuss>-> 1w6.org/deutsch/module/steigerung-im-vobsy-vost/ausfuehrliches-beispiel
 
-#Ein Beispiel für die Strichvergabe
+#Ein Beispiel für die Strichvergabe
 *In der Kampagne von Lazaro hat die SL eine Heldenrunde geplant, die über ein Jahr laufen soll (realistisch gerechnet etwa 12 Spielabende).
 
 *Nach der Kampagne sollen die Charaktere die Geschichte ihrer Welt mitbestimmen, also Beweger sein (16 Dreiecke), und sie starten als angehende Helden (7 Dreiecke). Die Differenz (16-7=9) mal drei ergibt 27 Striche.
@@ -627,7 +624,8 @@ Beispiel: Lazaros Erschaffung auf S. 12.
 
 ##Niedrige Trefferpunkte
 **Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 1 Punkt auf alle Handlungen. Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 3 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren.
-**Sinken seine aktuellen Trefferpunkte auf den Wert seiner Trefferpunkte im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn der Schaden auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, um am Leben zu bleiben, bei -3x TP (-36) ist der Mindestwurf 18, und bei -4x TP (-48) ist er 21.
+
+**Sinken seine verbleibenden TP auf den Wert seiner TP im negativen (z.B. also auf -TP, im Durchschnitt -12), dann muss er erneut gegen 12 würfeln (ohne Mali). Bei Misslingen ist der Charakter tot. Bei Gelingen kann er weiterhandeln und muss jedes Mal erneut würfeln, wenn seine TP auf oder unter ein weiteres Vielfaches seiner TP gefallen ist. Bei -2x TP (-24) muss der Wurf 15 erreichen, bei -3x TP (-36) 18, und bei -4x TP (-48) 21.
 
 **Sinken die Trefferpunkte auf oder unter das fünffache der Trefferpunkte (z.B. auf -5x TP (-60)), dann ist er unwiederbringlich tot. Er hat das 6-fache seiner Eigenschaft an Schaden eingesteckt, und es ist nicht mehr genug von ihm übrig, um zu leben.
 
@@ -644,8 +642,7 @@ Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knoche
 Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken.
 
 <fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46.
-
-#Heilung
+#Heilung
 
 Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen.
 
@@ -658,7 +655,7 @@ Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche.
 Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen.
 
 <fuss>Weitere Modifikatoren stehen in der Seitenleiste auf Seite 24: Einfluss der Heilungsumstände.
-#Heilungszeiten
+#Heilungszeiten
 
 Ein Charakter mit durchschnittlicher Konstitution (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP.
 
@@ -717,8 +714,9 @@ Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt we
 
 Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (5/6).
 
-Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für ruhige Situationen, ein Straßenkämpfer die für den Kampf.
-Zusätzlich werden die Mindestwürfe durch bestimmte Umstände modifiziert.
+Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für ruhige Situationen, ein Straßenkämpfer die für den Kampf.
+
+Zusätzlich werden die Mindestwürfe durch bestimmte Umstände modifiziert.
 
 ##Bewegung:
 **- Ziel bewegt sich schnell oder bewegt sich quer zur Sichtlinie: MW+3
@@ -774,7 +772,7 @@ Bei Waffen mit schnellen Projektilen (Pistolen, Laserwaffen, Blaster) beträgt d
 Bei sehr langsamen Projektilen und Wurfwaffen, oder bei langsamen Projektilen auf große Distanz, beträgt der Mindestwurf 9. Nur hier ist wirkliches Ausweichen möglich, und wahrhaft geschickte Charaktere können die Waffe vielleicht sogar fangen (SL-Entscheidung. Als Richtlinie sollte er mindestens eine 9 Punkte höhere Differenz haben als der Schütze).
 
 Außerhalb von Kampfsituationen sind diese Mindestwürfe sowohl für den Schützen als auch für den Ausweichenden um 3 Punkte niedriger. Das heißt, ob sie im Kampf oder außerhalb des Kampfes sind, ändert hier nichts.
-#Hinweise zum Leiten
+#Hinweise zum Leiten
 
 Der Kampf im EWS ist schnell und tödlich. Daher sollten Spielerinnen und SL immer an stilvolle Beschreibungen denken. Vor jeder Aktion sollten die Spielerinnen beschreiben, was sie zu tun beabsichtigen ("Ich tänzle zur Seite um seinem Axthieb zu entgehen und reiße das Schwert in die Höhe, um seinen Waffenarm abzutrennen"). Dabei beschreibt erst die Angreiferin ihre Handlung, und die Verteidigerin sagt danach, wie sie darauf reagieren will.
 
@@ -814,11 +812,9 @@ An dieser Stelle: Danke!
 Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt.
 
 <fuss>PS: Vom Autor empfohlen ab 14 Jahren.
-
-# Weitere Werke
-
 # Einfach saubere Regeln
 
 ##- Klare Ergebnisse, plastische Charaktere -
 ##- Selbstbenannte Werte, Gurps und Fudge -
+##- Ein Würfel -
 
