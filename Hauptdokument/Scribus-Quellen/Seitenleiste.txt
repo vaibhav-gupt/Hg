@@ -83,26 +83,6 @@ Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als a
 
 Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine Horde Wildschweine heranrennt.
 
-#Die Eigenschaft Vermögen
-Die Bedeutung der Eigenschaft Vermögen hängt von der Hintergrundwelt ab, daher kann ich dir hier nur eine Richtlinie geben, was sie für Einkommen und Besitz des Charakters bedeutet:
-
-0: Versklavt
-3: Enteignet
-6: Völlig Pleite
--
-9: Arm: 1/5 der Norm
-10: Mäßig: 1/2 Norm
-11: 2/3
-12: Norm
-13: 4/3
-14: gut: 2x Norm
-15: Reich: 5x Norm
--
-18: 100x Norm
-21: Multimillionär
-24: Bill Gates u.ä.
-
-
 #Beispielcharaktere
 In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ich möchte sie hier kurz vorstellen:
 
