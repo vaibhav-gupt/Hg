@@ -15,6 +15,9 @@ Die meisten Module findest du auf
 Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber natürlich auch männliche Spieler und weibliche Charaktere.
 
 <fuss>(Gurps® ist Markenzeichen von SJGames, Fudge™ von GreyGhostPress)
+
+<fuss>Wir verwenden größtenteils die weibliche Form. Männer sind damit natürlich mitgemeint.
+
 #Grundlagen
 
 **Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die jede Spielerin frei wählen kann. Alternativ können sie von der Spielleiterin (SL) vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
