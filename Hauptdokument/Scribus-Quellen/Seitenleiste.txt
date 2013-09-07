@@ -87,7 +87,6 @@ Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich b
 
 Spezialisierungen sind Unterbereiche einer Fertigkeit und betreffen nur ein sehr enges Gebiet.
 
-
 #Beruf oder Hintergrund?
 Berufe sind hier Tätigkeiten, die der Charakter aktuell ausübt, während Hintergründe frühere Tätigkeiten und die Herkunft des Charakters beschreiben.
 
@@ -398,17 +397,17 @@ Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind 
 
 Aktivität:
 - Schiffsreise: ±0 bis -2 TP
-- In Kutsche auf guten Straßen: -1 TP
-- Zu Pferde/schlechte Kutsche: -2 TP
-- Gewaltmarsch: -4 TP
+- Kutsche, gute Straße:	-1 TP
+- Pferd/Kutsche:	-2 TP
+- Gewaltmarsch:	-4 TP
 
 Umstand:
-- Feldlazarett: +0
+- Feldlazarett:	+0
 - Bettruhe mit Kräutern: +1
 - Modernes Krankenhaus: +2TP
-- nahe Zukunft: +3 TP
-- ferne Zukunft: +6 TP
-- Ultra-Tech: +12 TP
+- nahe Zukunft:	+3 TP
+- ferne Zukunft:	+6 TP
+- Ultra-Tech:	+12 TP
 
 #Heilung in "Realität" (Vergleich)
 - Kiefer gebrochen: 4 Wochen Krankenhaus.
@@ -418,32 +417,32 @@ Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern.
 
 #Beispielwaffen:
 Nahkampfwaffe: Schaden
-- Stab:	3
-- Dolch:	2
+- Stab:		3
+- Dolch:		2
 - Schwert:	4
 - Kriegshammer:	8
 - Doppelaxt:	10
 
 Fernkampfwaffe: Schaden
-- Wurfmesser: 2
-- Bogen: 4
-- Pistole: 4
--> 9MM: 8
-- Jagdgewehr: 16
-- Laserpistole(1): 4/Ladung
+- Wurfmesser:	2
+- Bogen:		4
+- Pistole:		4
+-> 9MM:		8
+- Jagdgewehr:	16
+- Laserpistole(1):	4/Ladung
 - Blaster (20 Lad.): 16
-- Blastergewehr: 24
+- Blastergewehr:	24
 
 (1): Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Ladungen in der Energiezelle.
 
 #Rüstungsbeispiele:
 Name: Schutz
-Ledermantel: 1-2
-Lederrüstung: 2
-Kettenhemd: 3-5
-Gestechrüstung: 7
-Kugels. Weste(1): 8 /2
-leichte Panz.(2): 20
+Ledermantel:	1-2
+Lederrüstung:	2
+Kettenhemd:	3-5
+Gestechrüstung:	7
+Kugels. Weste(1):	8 /2
+leichte Panz.(2):	20
 
 (1): 8 gegen Kugeln, sonst 2
 (2): Space Marines
@@ -480,24 +479,24 @@ Im Fernkampf steigt dabei der Schaden um das Doppelte der Erschwernis.
 Im Nahkampf steigt er um das Dreifache, da sich mit der Erschwernis auch das Risiko erhöht, selbst getroffen zu werden.
 
 Bauch/Nieren:
-- Erschwernis: -3
-- Fern: Schaden +6
-- Nah: Schaden +9
+- Erschwernis:	-3
+- Fern:	Schaden +6
+- Nah:	Schaden +9
 
 Bein(1)/Arm(1):
-- Erschwernis: - 6
-- Fern: Schaden: +12
-- Nah: Schaden: +18
+- Erschwernis:	- 6
+- Fern:	Schaden: +12
+- Nah:	Schaden: +18
 
 Hand(1)/Kopf:
-- Erschwernis: - 9
-- Fern: Schaden: +18
-- Nah: Schaden: +27
+- Erschwernis:	- 9
+- Fern:	Schaden: +18
+- Nah:	Schaden: +27
 
 Kehle/Auge:
-- Erschwernis: - 12
-- Fern: Schaden: +24
-- Nah: Schaden: +36
+- Erschwernis:	- 12
+- Fern:	Schaden: +24
+- Nah:	Schaden: +36
 
 (1): Schaden über einer kritischen Wunde verfällt. Die Gliedmaße ist ab.
 
@@ -510,7 +509,7 @@ Jede dieser Verletzungen bewirkt -3 auf alle Werte, bis die Wunde geheilt ist.
 
 - Schnitt über das Gesicht, der grässliche Narben verursacht und Blut in die Augen sickern lässt.
 
-- Schlag auf die Augen, führt kurzzeitig zur teilweisen Erblindung.
+- Schlag auf die Augen, führt kurzzeitig zur Erblindung.
 
 - Messer im Bauch, nicht umgedreht.
 
