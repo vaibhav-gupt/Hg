@@ -1023,7 +1023,7 @@
             <ITEXT CH="Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten ge­­wählt."/>
+            <ITEXT CH="Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fern­­kampf als Fertigkeiten ge­­wählt."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
@@ -1466,10 +1466,10 @@
             <ITEXT CH="- Hat der Charakter nur eine Wunde, gilt sie als geheilt, wenn all seine Trefferpunkte (TP) geheilt sind."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wundschwelle abgesunken ist."/>
+            <ITEXT CH="- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wundschwelle ab­­ge­­sun­­ken ist."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Bei einer kritischen und einer &quot;normalen&quot; Wunde wird die kritische zu einer &quot;normalen&quot;, wenn der gesamte Schaden auf zwei Wundschwellen abgesunken ist."/>
+            <ITEXT CH="- Bei einer kritischen und einer &quot;normalen&quot; Wunde wird die kritische zu einer &quot;normalen&quot;, wenn der gesamte Schaden auf zwei Wundschwellen ab­­ge­­sun­­ken ist."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Alte Wunden heilen vor neueren."/>
@@ -3162,7 +3162,7 @@
             <ITEXT CH="Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen."/>
+            <ITEXT CH="Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise re­­ge­­ner­­ie­­ren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Weitere Modifikatoren stehen in der Seitenleiste auf Seite 24: Einfluss der Heilungsumstände."/>
@@ -3259,7 +3259,7 @@
             <ITEXT CH="Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt werden, wodurch der Mindestwurf allerdings um weitere 6 Punkte auf 24 im Kampf bzw. 21 in Ruhe steigt."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert den Mindestwurf durch die Entfernung je nach Fernrohr um 3 bis 6 Punkte, allerdings nicht unter Kurz."/>
+            <ITEXT CH="Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert bei ruhigem Schuss den Mindestwurf durch die Entfernung je nach Fernrohr um 3 bis 6 Punkte, allerdings nicht unter Kurz."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (5/6)."/>
@@ -4168,7 +4168,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="8" PTYPE="6" XPOS="757.85862992126" YPOS="2980.5" WIDTH="154" HEIGHT="168.973133858256" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Vn URW Palladio L Roman" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 168.973 154 168.973 154 168.973 154 168.973 0 168.973 0 168.973 0 168.973 0 168.973 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 168.973 154 168.973 154 168.973 154 168.973 0 168.973 0 168.973 0 168.973 0 168.973 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="6.94254000000002e-310" gYpos="0" gWidth="0" gHeight="2.14722001805057e-316" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="8" PTYPE="6" XPOS="757.85862992126" YPOS="2969.16141732284" WIDTH="154" HEIGHT="168.973133858256" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Vn URW Palladio L Roman" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 168.973 154 168.973 154 168.973 154 168.973 0 168.973 0 168.973 0 168.973 0 168.973 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 154 0 154 0 154 0 154 0 154 168.973 154 168.973 154 168.973 154 168.973 0 168.973 0 168.973 0 168.973 0 168.973 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="6.94254000000002e-310" gYpos="0" gWidth="0" gHeight="2.14722001805057e-316" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
