@@ -25,12 +25,7 @@ Für ein Spiel braucht deine Runde genau einen Würfel, ein Charakterblatt und e
 
 <fuss>Modul dazu: Alternative Zufallssysteme (AZul).
 
-#Boni auf Fertigkeitswerte
-Jede Fertigkeit erhält Boni aus bis zu zwei passenden Eigenschaften. Welche Eigenschaften das sind legt die Spielerin jeweils bei der Erschaffung fest.
-
-*Hat ein Charakter zum Beispiel die Fertigkeit Kochen und die Eigenschaften sehr guter Geruchssinn (15) und sehr gute Intuition (15), könnte die Spielerin entscheiden, dass ihr Charakter vor allem nach seiner Nase und seiner Intuition kocht und daher diese beiden Eigenschaften Boni auf seinen Wert in Kochen geben.
-
-#Namen und Werte
+#Namen und Werte
 Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 
 6 Armselig
@@ -53,15 +48,12 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 
 <fuss>Beschreibungen findest du auf
 <fuss>- http://werte.1w6.org
-
-
 #Die Namen stimmen
 Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen.
 
 Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich.
 
-
-#Mindestwürfe
+#Mindestwürfe
 Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens ein Vielfaches von 3. Wie deren Werte tragen auch die verschiedenen Mindestwürfe Namen. Für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12) ergeben sich die folgenden Erfolgswahrscheinlichkeiten:
 
 MW: Name (Chance)
@@ -73,16 +65,75 @@ MW: Name (Chance)
 - 18: heikel (1/6)
 
 Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9), so dass nur jeder 6. Versuch fehlschlägt.
-
 Jobs, deren Schwierigkeit höher liegt, verlangen Son­der­quali­fi­ka­tio­nen oder haben recht niedrige Erfolgs- oder Über­le­bens­ra­ten.
 
 <fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit).
+#Boni auf Fertigkeitswerte
+Jede Fertigkeit erhält Boni aus bis zu zwei passenden Eigenschaften. Welche Eigenschaften das sind legt die Spielerin jeweils bei der Erschaffung fest.
 
-#Wann würfeln?
+*Hat ein Charakter zum Beispiel die Fertigkeit Kochen und die Eigenschaften sehr guter Geruchssinn (15) und sehr gute Intuition (15), könnte die Spielerin entscheiden, dass ihr Charakter vor allem nach seiner Nase und seiner Intuition kocht und daher diese beiden Eigenschaften Boni auf seinen Wert in Kochen geben.
+
+#Wann würfeln?
 Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als auch noch nicht entschieden sind.
 
 Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine Horde Wildschweine heranrennt.
 
+#Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
+Als Faustregel zur Unterscheidung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (Effektivwert 10).
+
+Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14).
+
+Spezialisierungen sind Unterbereiche einer Fertigkeit und betreffen nur ein sehr enges Gebiet.
+
+
+#Beruf oder Hintergrund?
+Berufe sind hier Tätigkeiten, die der Charakter aktuell ausübt, während Hintergründe frühere Tätigkeiten und die Herkunft des Charakters beschreiben.
+
+Der Hintergrund ist, was ihn geformt hat, der Beruf, was er jetzt tut.
+
+Regeltechnisch werden 
+beide 
+gleich behandelt.
+
+
+#Breite Berufe
+Manche Berufe geben ein riesiges Spektrum an Fertigkeiten.
+
+Diese Berufe kosten soviel wie ein drei Punkte höherer normaler Beruf.
+
+Beispiele sind Friedensstifter, Entwicklungshelfer und Geheimagent.
+
+*Beispiel: Taban ist seit 3 Jahren Entwicklungshelferin im Heimatland ihrer Eltern.
+*Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grundlegende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut.
+*All diese Fertigkeiten sind durch ihren breiten Beruf abgedeckt:
+
+**+: Unerfahrene Entwick-lungshelferin: 6
+
+
+#Eigenschaft, Fertigkeit oder Merkmal?
+Nachdem du aus der Beschreibung deines Charakters Eigenschaften gefunden hast, kannst du daraus auch deine Merkmale und Fertigkeiten finden.
+
+Dabei sind Merkmale Beschreibungen, die normale Menschen nicht haben.
+
+Fertigkeiten dagegen sind erarbeitetes Können, das all denen zur Verfügung steht, die es gelernt haben (ob nun durch bewusstes Training oder regelmäßige Nutzung).
+
+Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat.
+
+Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten ge­wählt.
+
+
+#Beruf und Einkommen
+Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt (sonst wäre er wohl nicht am Leben), egal ob das nun ein Job ist, oder die Suche nach Schätzen in Gebieten, die normalerweise genug abwerfen. Ob der Job ausgespielt wird ist dabei nebensächlich.
+
+Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersezt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen.
+
+Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal "Vermögend" wählen, das ihm das fünffache Einkommen beschert.
+
+Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird.
+
+Merkmale: Vermögend (+), Kein sicheres Einkommen (‑)
+
+
 #Beispielcharaktere
 In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ich möchte sie hier kurz vorstellen:
 
@@ -99,20 +150,7 @@ Anmerkung: Sven ist genau wie Lazaro eine Schöpfung unserer Fantasie, die dabei
 
 Stahlkatze gibt es dagegen wirklich (als SC).
 
-
-#Punkte schinden
-Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegensteuern:
-
-"Jede Schwäche wird wichtig."
-
-Was immer die Spielerinnen wählen, es sollte im Spiel drankommen.
-
-Ansonsten ignorier' die Punkteschinderei einfach. Sie scheint der Spielerin schließlich Spaß zu machen, und nicht jede Spielerin macht sich viele Gedanken darum, ob einer der Charaktere stärker ist als der Rest, solange er ihrem eigenen Charakter nicht die Show stiehlt, und dafür kannst du als Spielleiterin sorgen.
-
-<fuss>Ein paar Tipps dafür findest du unter SL-Tipps.de
-
-
-
+
 #Machtniveaus
 Bei der Erschaffung kann deine Spielrunde zwischen verschiedenen Machtniveaus wählen. Hier sind vier davon beschrieben:
 
@@ -128,24 +166,6 @@ Die Charaktere gehören zu den mächtigeren Personen in der Hintergrundwelt und 
 - Beweger:
 Die Charaktere können über das Schicksal ihres Landes mit­ent­schei­den.
 
-#Persönliche Gegenstände
-Im EWS gibt es zwei Arten von Ausrüstung: Normalen Besitz und persönliche Gegenstände.
-
-Normaler Besitz wird mit Geld gekauft, kann leicht mal zerbrechen, verloren gehen, gestohlen werden, usw.
-
-Persönliche Gegenstände dagegen werden als Merkmale gekauft und gelten als Teil des Charakters.
-
-Wenn ein Charakter seinen persönlichen Gegenstand verliert, geht ihm ein Teil seiner selbst verloren, was in etwa so schwerwiegend ist, wie der Verlust eines Auges oder Armes, und die Spielleiterin sollte vorher auch entsprechend gründlich darüber nachdenken.
-
-Persönliche Gegenstände können allerdings tolle Aufhänger für Geschichten sein, schließlich wäre auch Indy ohne seinen Hut nicht Indy, und wer weiß, was er tun würde, um ihn sich zurück zu holen.
-
-Sind  die persönlichen Gegenstände Alltagsgegenstände, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen).
-
-Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächste Seitenleiste).
-
-Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persönliche Gegenstände gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig.
-
-Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe.
 
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird.
@@ -162,18 +182,26 @@ Waffen mit Flächenschaden kosten bis 5 Personen doppelt. Wenn sie normalerweise
 
 Betäubungswaffen kosten gleich viel, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 27, Seitenleiste).
 
-#Beruf und Einkommen
-Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt (sonst wäre er wohl nicht am Leben), egal ob das nun ein Job ist, oder die Suche nach Schätzen in Gebieten, die normalerweise genug abwerfen. Ob der Job ausgespielt wird ist dabei nebensächlich.
-
-Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersezt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen.
-
-Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal "Vermögend" wählen, das ihm das fünffache Einkommen beschert.
-
-Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird.
-
-Merkmale: Vermögend (+), Kein sicheres Einkommen (‑)
-
 
+#Persönliche Gegenstände
+Im EWS gibt es zwei Arten von Ausrüstung: Normalen Besitz und persönliche Gegenstände.
+
+Normaler Besitz wird mit Geld gekauft, kann leicht mal zerbrechen, verloren gehen, gestohlen werden, usw.
+
+Persönliche Gegenstände dagegen werden als Merkmale gekauft und gelten als Teil des Charakters.
+
+Wenn ein Charakter seinen persönlichen Gegenstand verliert, geht ihm ein Teil seiner selbst verloren, was in etwa so schwerwiegend ist, wie der Verlust eines Auges oder Armes, und die Spielleiterin sollte vorher auch entsprechend gründlich darüber nachdenken.
+
+Persönliche Gegenstände können allerdings tolle Aufhänger für Geschichten sein, schließlich wäre auch Indy ohne seinen Hut nicht Indy, und wer weiß, was er tun würde, um ihn sich zurück zu holen.
+
+Sind  die persönlichen Ge­gen­stän­de All­tags­ge­gen­stän­de, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen).
+
+Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächste Seitenleiste).
+
+Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persönliche Gegenstände gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig.
+
+Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe.
+
 #Merkmale aus Gurps® übernehmen
 Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale.
 
@@ -191,6 +219,7 @@ Für Nachteile gilt das gleiche Schema, nur im Negativen.
 #Merkmale aus Fudge™
 Aus Fudge™ könnt ihr Merkmale übernehmen, indem ihr einfach jedes Fudge "+" oder "-" als vobsy "+" oder "-" rechnet.
 Modifikatoren auf Proben oder Werte werden dabei ver­drei­facht.
+
 #Welche Eigenschaften für welchen Charakter?
 Die Eigenschaften des Charakters formen die Wahrnehmung, die andere von ihm erhalten, und entsprechend sollte schon der Klang der Eigenschaften das Bild des Charakters im Geist entstehen lassen.
 
@@ -201,59 +230,6 @@ Diejenigen Unterschiede, die vor allem aus natürlicher Begabung oder Unfähigke
 *Beispielsweise ist Lazaro sehr gewandt und charismatisch und auf seinen Stil bedacht. Daher trägt er auch regeltechnisch die Eigenschaften Gewandtheit, Charisma und persönlichen Stil.
 
 *Wenn nun Lazaros Spieler gefragt wird, was anderen bei seinem Charakter auffällt, kann er sich sehr leicht an seinen Eigenschaften orientieren und Lazaros grazile Bewegungen ("als würde er immer tanzen"), seine entspannende Ausstrahlung ("der sich kaum einer seiner Gesprächspartner entziehen kann. Wer Lazaros Gegenwart verlässt, trägt fast immer ein Lächeln auf den Lippen") und seinen einzigartigen Kleidungs- und Sprachstil beschreiben.
-
-
-#Welche Merkmale und Fertigkeiten?
-Nachdem du aus der Beschreibung deines Charakters Eigenschaften gefunden hast, kannst du daraus auch deine Merkmale und Fertigkeiten finden.
-
-Dabei sind Merkmale Beschreibungen, die normale Menschen nicht haben.
-
-Fertigkeiten dagegen sind erarbeitetes Können, das all denen zur Verfügung steht, die es gelernt haben (ob nun durch bewusstes Training oder regelmäßige Nutzung).
-
-Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat.
-
-Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten ge­wählt.
-
-
-#Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
-Als Faustregel zur Unterscheidung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (Effektivwert 10).
-
-Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14).
-
-Spezialisierungen sind Unterbereiche einer Fertigkeit und betreffen nur ein sehr enges Gebiet.
-
-
-#Beruf oder Hintergrund?
-Berufe sind hier Tätigkeiten, die der Charakter aktuell ausübt, während Hintergründe frühere Tätigkeiten und die Herkunft des Charakters beschreiben.
-
-Der Hintergrund ist, was ihn geformt hat, der Beruf, was er jetzt tut.
-
-Regeltechnisch werden beide gleich behandelt.
-
-
-#Breite Berufe
-Manche Berufe geben ein riesiges Spektrum an Fertigkeiten.
-
-Diese Berufe kosten soviel wie ein drei Punkte höherer normaler Beruf.
-
-Beispiele sind Friedensstifter, Entwicklungshelfer und Geheimagent.
-
-*Beispiel: Taban ist seit 3 Jahren Entwicklungshelferin im Heimatland ihrer Eltern.
-*Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grundlegende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut.
-*All diese Fertigkeiten sind durch ihren breiten Beruf abgedeckt:
-
-**+: Unerfahrene Entwick-lungshelferin: 6
-
-
-#Waffenloser Kampf
-Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf den Wert seiner Kampffertigkeit.
-
-Das Gleiche gilt für den Kampf mit sehr kurzer gegen sehr lange Waffe, z.B. Dolch gegen Schwert oder Schwert gegen Lanze.
-
-Diese Regel kann (und sollte) allerdings von der SL je nach Situation angepasst werden.
-
-In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für den Gegner sinnvoller wird, das Schwert fallen zu lassen.
-
 
 
 #Spätfolgen
@@ -269,8 +245,16 @@ Wunden sind zeitweise Psychosen, Schrecken, Panik, uvm., und sie schwächen wie 
 
 Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-) (z.B. Phobie) und verschwindet dafür.
 
-
 
+#Waffenloser Kampf
+Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf den Wert seiner Kampffertigkeit.
+
+Das Gleiche gilt für den Kampf mit sehr kurzer gegen sehr lange Waffe, z.B. Dolch gegen Schwert oder Schwert gegen Lanze.
+
+Diese Regel kann (und sollte) allerdings von der SL je nach Situation angepasst werden.
+
+In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für den Gegner sinnvoller wird, das Schwert fallen zu lassen.
+
 #Deckung
 Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben.
 
@@ -281,6 +265,18 @@ Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vo
 Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nur kampfunfähig zu machen, erhält dann aber 3 Punkte Malus.
 
 Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf den zugefügten Schaden verzichten.
+
+#Punkte schinden
+Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegensteuern:
+
+"Jede Schwäche wird wichtig."
+
+Was immer die Spielerinnen wählen, es sollte im Spiel drankommen.
+
+Ansonsten ignorier' die Punkteschinderei einfach. Sie scheint der Spielerin schließlich Spaß zu machen, und nicht jede Spielerin macht sich viele Gedanken darum, ob einer der Charaktere stärker ist als der Rest, solange er ihrem eigenen Charakter nicht die Show stiehlt, und dafür kannst du als Spielleiterin sorgen.
+
+<fuss>Ein paar Tipps dafür findest du unter SL-Tipps.de
+
 #Module selbst entwickeln
 Eine der Hauptstärken des EWS ist, dass es sauber durch Module anpassbar ist.
 
@@ -306,6 +302,12 @@ Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen
 
 - Und es braucht nur einen 6-seitigen Würfel.
 
+#Eigenschaften steigern, um Fertigkeiten zu verbessern
+Da Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spielerinnen ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen.
+
+Zur Berechnung der Kosten einer Fertigkeits-Steigerung wird immer der Grundwert ohne Eigenschaftsboni genommen, so dass es bei hohen Fertigkeitswerten und niedrigen Eigenschaften oft ratsam ist, erst die Eigenschaften zu steigern, vor allem weil eine Eigenschaft ohne Schwierigkeiten als Basis für viele unterschiedliche Fertigkeiten dienen kann.
+
+Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie im Leben, soll im EWS ein Gleichgewicht zwischen der Steigerung der Fertigkeiten und der Eigenschaften sinnvoll sein.
 
 #Neue Eigenschaften und Fertigkeiten
 Wenn eine Spielerin einem Charakter eine neue Fertigkeit oder Eigenschaft geben will, kann sie sie mit Strichen kaufen.
@@ -321,12 +323,6 @@ Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 6 (fast alles davon sch
 Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten.
 
 
-#Eigenschaften steigern, um Fertigkeiten zu verbessern
-Da im vobsy die Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spielerinnen ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen.
-
-Zur Berechnung der Kosten einer Fertigkeits-Steigerung wird immer der Grundwert ohne Eigenschaftsboni genommen, so dass es bei hohen Fertigkeitswerten und niedrigen Eigenschaften oft ratsam ist, erst die Eigenschaften zu steigern, vor allem weil eine Eigenschaft ohne Schwierigkeiten als Basis für viele unterschiedliche Fertigkeiten dienen kann.
-
-Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie im Leben, soll im EWS ein Gleichgewicht zwischen der Steigerung der Fertigkeiten und der Eigenschaften sinnvoll sein.
 
 #Spezialisierungen
 Spezialisierungen decken kleine Unterbereiche einer Fertigkeit ab.
@@ -350,22 +346,11 @@ Ob das für deine Gruppe sinnvoll ist, hängt von deinen Spielern ab.
 In jedem Fall aber ist es sinnvoll, nach der Runde über die schönsten Szenen zu reden, und ihr solltet dafür am Ende jeder Runde Zeit einplanen und frei halten.
 
 Wenn ihr das durch die Punktevergabe schafft, ist sie wahrscheinlich sinnvoll.
-
+
 Nebenbei: Tagebücher oder andere Aufzeichnungen über die Abenteuer zu führen verstärkt die Stimmung ungemein, weil die Spielerinnen ihre Charaktere dadurch oft viel tiefer erleben und ihre Erinnerung klarer ist.
 
+
 
-#Wirkung des ±W6
-Ich habe hier etwas Platz zum Erzählen, also möchte ich kurz von einem der Effekte des ±W6 sprechen.
-
-Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert des Charakters eine ganz eigene Chancenverteilung für die verschiedenen Mindestwürfe.
-
-*Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte.
-*Nach der Steigerung auf 15 schaffte er sie fast immer (5/6) und witterte zum ersten Mal die Chance (1/6) auch extrem schwere Aufgaben zu bestehen (MW: 21).
-
-*Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte (fordernde und extreme Aufgaben), während in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren.
-
-<fuss>Die Langform gibt es auf der Webseite des EWS:
-<fuss>- http://werte.1w6.org
 #Erschöpfung
 Um die Ausdauer der Charaktere und ihr Durchhaltevermögen besser einschätzen zu können, und vor allem auch für Magie, Psi und ähnliches, kann Erschöpfung mit einbezogen werden.
 Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer anderen Eigenschaft aufbauen (deren Wert die Ausdauer des Charakters ergibt).
@@ -466,6 +451,19 @@ Gewinnt er den Wurf, würfeln danach beide Kämpfer einfach gegen 12  (den Grund
 
 Da es einen starken Willen benötigt, einfach Treffer einzustecken, kann die SL vorher eine Probe auf Wille o.ä. verlangen.
 
+
+#Wirkung des ±W6
+Ich habe hier etwas Platz zum Erzählen, also möchte ich kurz von einem der Effekte des ±W6 sprechen.
+
+Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert des Charakters eine ganz eigene Chancenverteilung für die verschiedenen Mindestwürfe.
+
+*Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte.
+*Nach der Steigerung auf 15 schaffte er sie fast immer (5/6) und witterte zum ersten Mal die Chance (1/6) auch extrem schwere Aufgaben zu bestehen (MW: 21).
+
+*Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte (fordernde und extreme Aufgaben), während in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren.
+
+<fuss>Die Langform gibt es auf der Webseite des EWS:
+<fuss>- http://werte.1w6.org
 
 #Gezielte Angriffe
 Ein Charkter kann jederzeit entscheiden, auf eine bestimmte Körperregion zu zielen.
