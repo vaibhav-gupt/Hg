@@ -393,7 +393,7 @@ Konkret bedeutet das:
 
 
 #Einfluss der Heilungsumstände
-Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Modifikatoren werden auf die normale Heilung von Wundschwelle (WS) -2 TP pro Woche angerechnet.
+Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Mo­di­fi­ka­to­ren wer­den auf die nor­male Hei­lung von Wund­schwel­le (WS) -2 TP pro Woche angerechnet.
 
 Aktivität:
 - Schiffsreise: ±0 bis -2 TP
