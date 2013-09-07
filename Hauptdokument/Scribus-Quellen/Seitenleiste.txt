@@ -135,7 +135,10 @@ Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob e
 
 Merkmale: Vermögend (+), Kein sicheres Einkommen (‑)
 
-
+#Schwache Eigenschaften
+Eigenschaften mit Werten unter 12 repräsentieren Schwächen des Charakters. Sie sind ein Weg für Spielerinnen, der Spielleiterin zu sagen, dass sie bestimmte Problemsituationen erleben will. 
+
+Daher ist es die gemeinsame Aufgabe von Spielerin und Spielleiterin, diese Schwächen 
 #Beispielcharaktere
 In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ich möchte sie hier kurz vorstellen:
 
@@ -269,7 +272,7 @@ Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nu
 Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf den zugefügten Schaden verzichten.
 
 #Punkte schinden
-Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegensteuern:
+Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegen­steuern:
 
 "Jede Schwäche wird wichtig."
 
