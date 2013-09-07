@@ -138,7 +138,11 @@ Merkmale: Vermögend (+), Kein sicheres Einkommen (‑)
 #Schwache Eigenschaften
 Eigenschaften mit Werten unter 12 repräsentieren Schwächen des Charakters. Sie sind ein Weg für Spielerinnen, der Spielleiterin zu sagen, dass sie bestimmte Problemsituationen erleben will. 
 
-Daher ist es die gemeinsame Aufgabe von Spielerin und Spielleiterin, diese Schwächen 
+Daher ist es die gemeinsame Aufgabe von Spielerin und Spielleiterin, diese Schwächen sichtbar werden zu lassen. Sie dienen dazu, den Charakter in spannende Situationen zu bringen, oder aber bestimmte Aufgaben an andere Charaktere abzugeben.
+
+Wo immer es ihr passend erscheint, sollte die Spielleiterin die Spielerin daher auf die Eigenschaft würfeln lassen - es sei denn die Spielerin entscheidet, dass sie nicht würfeln, sondern lieber direkt die Auswirkungen der Schwäche annehmen will.
+
+<fuss> Wenn euch diese Effekte von Schwächen zu gering sind, könntet ihr mit dem Modul Schwache Eigenschaften Triggern (Trig) glücklich werden: Es bietet ein System, um die Schwächen regeltechnisch stärker sichtbar werden zu lassen.
 #Beispielcharaktere
 In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ich möchte sie hier kurz vorstellen:
 
