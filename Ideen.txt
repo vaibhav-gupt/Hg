@@ -3123,26 +3123,21 @@ Darstellung:
 
 Order mit tollen Bildern in Wesnoth (nur lokal auf Draks Rechner gültige Pfade):
 
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Legend_of_Wesmere/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/An_Orcish_Incursion/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Descent_Into_Darkness/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/The_Rise_Of_Wesnoth/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/The_Rise_Of_Wesnoth/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Northern_Rebirth/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Sceptre_of_Fire/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/tutorial/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Heir_To_The_Throne/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Dead_Water/images/portraits/transparent/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Heir_To_The_Throne/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Heir_To_The_Throne/images/portraits/
-~/Quell/Dokumente/Programme/wesnoth-old/data/core/images/portraits/undead/transparent/
-~/Quell/Dokumente/Programme/wesnoth-old/data/core/images/portraits/drakes/transparent/
-~/Quell/Dokumente/Programme/wesnoth-old/data/core/images/portraits/undead/transparent/
-~/Quell/Dokumente/Programme/wesnoth-old/data/core/images/portraits/woses/transparent/
+~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Legend_of_Wesmere/images/portraits/ Kitty, LordBob
+~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/An_Orcish_Incursion/images/portraits/ Kitty
+~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Descent_Into_Darkness/images/portraits/ Emilien Rotival (LordBob)
+~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/The_Rise_Of_Wesnoth/images/portraits/ "Emilien Rotival (LordBob)"  "new portraits",  "Michael Gil de Muro (grp21)" "old portraits", "pixelmind" "Shek'kahan portrait"
+~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Sceptre_of_Fire/images/portraits/ "Emilien Rotival (LordBob)" "new portraits", "James Woo (Pickslide)" "old portraits"
+~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/tutorial/images/portraits/ Kitty
+~/Quell/Dokumente/Programme/wesnoth-old/data/campaigns/Dead_Water/images/portraits/transparent/ "Kathrin Polikeit (Kitty)" "Portraits for brawler, Kai Krellis, Gwabbo, and Caladon", "Justin Nichols (JustinOperable)" "Portrait for Cylanna"
+~/Quell/Dokumente/Programme/wesnoth-old/data/core/images/portraits/drakes/transparent/ siehe ARTISTS
+~/Quell/Dokumente/Programme/wesnoth-old/data/core/images/portraits/undead/transparent/ siehe ARTISTS
+~/Quell/Dokumente/Programme/wesnoth-old/data/core/images/portraits/woses/transparent/ siehe ARTISTS
 ~/Quell/Dokumente/Programme/wesnoth-umc-dev-code/Invasion_from_the_Unknown/images/portraits/transparent/ — shadow-master Ignacio R. Morelle (shadowm/ShikadiLord) [all not marked differently], Kathrin Polikeit (Kitty) [portaits since 1.10, story graphic, elvish], Marcus Rosén (sleepwalker) [demons], Richard Kettering (Jetrel) [base for some portraits]
 ~/Quell/Dokumente/Programme/wesnoth-umc-dev-code/After_the_Storm/images/portraits/transparent/ — shadow-master Ignacio R. Morelle (shadowm/ShikadiLord) [all not marked differently], Kathrin Polikeit (Kitty) [portaits since 1.10, story graphic, elvish], Marcus Rosén (sleepwalker) [demons]
 
-TODO: Urheber der besten Bilder darin herausfinden (in wesnoth-core gibt es ARTISTS¹, in wesnoth-umc gibt es about.cfg oder _main.cfg).
+Urheber der besten Bilder gefunden (in wesnoth-core gibt es ARTISTS¹, in wesnoth-umc gibt es about.cfg oder _main.cfg, sonst google image search in forums.wesnoth.org).
 
 ¹: ~/Quell/Programme/wesnoth-old/data/core/images/portraits/ARTISTS
+
 
