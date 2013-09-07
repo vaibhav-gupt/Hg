@@ -69,9 +69,11 @@ Jobs, deren Schwierigkeit höher liegt, verlangen Son­der­quali­fi­ka­tio­
 
 <fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit).
 #Boni auf Fertigkeitswerte
-Jede Fertigkeit erhält Boni aus bis zu zwei passenden Eigenschaften. Welche Eigenschaften das sind legt die Spielerin jeweils bei der Erschaffung fest.
+Jede Fertigkeit erhält Boni aus bis zu zwei passenden Eigenschaften. Welche Eigenschaften das sind legt die Spielerin jeweils bei der Erschaffung fest. 
 
 *Hat ein Charakter zum Beispiel die Fertigkeit Kochen und die Eigenschaften sehr guter Geruchssinn (15) und sehr gute Intuition (15), könnte die Spielerin entscheiden, dass ihr Charakter vor allem nach seiner Nase und seiner Intuition kocht und daher diese beiden Eigenschaften Boni auf seinen Wert in Kochen geben.
+
+<fuss>Wird das Steigerungsmodul (SteM) genutzt, können die Eigenschaften bei der Stei­gerung geändert werden.
 
 #Wann würfeln?
 Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als auch noch nicht entschieden sind.
