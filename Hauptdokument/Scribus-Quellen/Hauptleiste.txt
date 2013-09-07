@@ -29,13 +29,13 @@ Anmerkung: Wir schreiben „Spielerin“ und „Charakter“, meinen damit aber 
 
 #Eigenschaften
 
-Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Voraussetzungen (wie Aussehen, Konstitution, Gewandtheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber Jede zu einem gewissen Grad hat.
+Eigenschaften sind die Grundfähigkeiten jedes Charakters. Dazu zählen körperliche Voraus­setz­ungen (wie Aussehen, Konstitution, Gewandtheit oder Sexappeal), geistige Fähigkeiten (wie Grips, Bildung, Aufmerksamkeit oder Disziplin), Soziales (wie Charme, Stil oder Präsenz) und Seelisches (wie Intuition, Glück, geistige Gesundheit, innere Stärke oder magisches Potential), also alles, das weniger erlernt als vielmehr gegeben und antrainiert ist, das aber Jede zu einem gewissen Grad hat.
 
 Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet.
 
 **Eigenschaften von Menschen haben Werte zwischen 6 und 18. Was darüber hinausgeht ist der Stoff für Legenden.
 
-**12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet.
+**12 entspricht dem durchschnittlichen Menschen auf der Straße, und Werte von 10 - 14 sind bei normalen Menschen verbreitet.
 
 ##Beispiele für Eigenschaften
 
@@ -45,7 +45,7 @@ Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren 
 
 - Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
 
-- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Menschenführung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
+- Soziales: Leiten, Charisma, Charme, Gesunder Menschenverstand, Nervenstärke, Trieb, Ego, Empathie, Ehre, (Geistes-) Gegenwart, Spiritualität, Präsenz, Stil, Coolness, Willenskraft, Men­schen­führung, Sturheit, Geselligkeit, Redseligkeit, Stolz...
 
 - Seele: Geistige Gesundheit, Seelische Gesundheit, Glaube, Selbstdisziplin, Präsenz, Weisheit, Intuition, Glück, Vertrauen, Psyche...
 
@@ -63,7 +63,7 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 
 **Die Werte von Fertigkeiten liegen wie Eigenschaftswerte meist zwischen armselig (6) und überragend (18). Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird.
 
-**Jeder Fertigkeit sind zwei Eigenschaften zugeordnet, die einen Bonus auf den Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt.
+**Jeder Fertigkeit sind bis zu zwei Eigenschaften fest zugeordnet, die einen Bonus auf ihren Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt.
 
 *Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.
 
@@ -711,7 +711,8 @@ Jede Waffe hat drei Reichweiten: Kurz, Mittel und Weit. Für jede dieser Reichwe
 **Ruhe: Kurz: 9; Mittel: 12; Weit: 15
 
 Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt werden, wodurch der Mindestwurf allerdings um weitere 6 Punkte auf 24 im Kampf bzw. 21 in Ruhe steigt.
-**Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert die effektive Entfernung je nach Fernrohr um ein bis zwei Stufen.
+
+**Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert den Mindestwurf durch die Entfernung je nach Fernrohr um 3 bis 6 Punkte, allerdings nicht unter Kurz.
 
 Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (5/6).
 
@@ -816,6 +817,7 @@ Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt.
 # Einfach saubere Regeln
 
 ##- Klare Ergebnisse, plastische Charaktere -
-##- Selbstbenannte Werte, Gurps und Fudge -
+##- Selbstbenannte Eigenschaften, Fertigkeiten, … -
+##- Kompatibel mit Gurps und Fudge -
 ##- Ein Würfel -
 
