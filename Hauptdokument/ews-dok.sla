@@ -4267,51 +4267,47 @@
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="284.789532887336" YPOS="684.173700787389" WIDTH="222.556390977444" HEIGHT="554.135338345865" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 222.556 0 222.556 0 222.556 0 222.556 0 222.556 554.135 222.556 554.135 222.556 554.135 222.556 554.135 0 554.135 0 554.135 0 554.135 0 554.135 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 222.556 0 222.556 0 222.556 0 222.556 0 222.556 554.135 222.556 554.135 222.556 554.135 222.556 554.135 0 554.135 0 554.135 0 554.135 0 554.135 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="EWS Fluss" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="In­hal­t"/>
             <para PARENT="EWS Abschnittstitel" LINESPMode="1"/>
-            <ITEXT CH="Seiten 3 bis 9: Grundlagen"/>
+            <ITEXT CH="Seiten 4 bis 11: Grundlagen"/>
             <para PARENT="Seitenleiste-Titel" LINESPMode="1"/>
-            <ITEXT CH="- Ei­gen­schaf­ten: 3 -"/>
+            <ITEXT CH="- Ei­gen­schaf­ten: 4 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Fertigkeiten und Be­ru­fe: 5 -"/>
+            <ITEXT CH="- Fertigkeiten und Be­ru­fe: 6 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Merkmale: 7 - "/>
+            <ITEXT CH="- Merkmale: 8 - "/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Pro­ben:  8 -"/>
+            <ITEXT CH="- Pro­ben:  10 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="Seiten 10 bis 23: Charaktererschaffung"/>
+            <ITEXT CH="Seiten 12 bis 23: Charaktererschaffung"/>
             <para PARENT="Seitenleiste-Titel" LINESPMode="1"/>
-            <ITEXT CH="- Cha­rak­ter­heft: 11 -"/>
+            <ITEXT CH="- Cha­rak­ter­heft: 13 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Die Er­schaf­fung: 12 -"/>
+            <ITEXT CH="- Die Er­schaf­fung: 14 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Beispiele für Eigenschaften, Fertigkeiten und "/>
+            <ITEXT CH="- Die 5 Regeln der Erschaffung: 19 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="   Merk­ma­le: 19 -"/>
-            <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Was bieten Beruf und Hin­ter­grun­d: 23 -"/>
+            <ITEXT CH="- Was bieten Beruf und Hin­ter­grun­d: 21 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="Seiten 24 bis 29:  Kon­fron­ta­tio­nen"/>
-            <para PARENT="Seitenleiste-Titel" LINESPMode="1"/>
-            <ITEXT CH="- Kampf: 24 -"/>
+            <ITEXT CH="Seiten 22 bis 29:  Kampf"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Auswirkungen von Ver­let­zun­gen: 25 -"/>
+            <ITEXT CH="- Auswirkungen von Ver­let­zun­gen: 23 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Das Ein Wurf Sys­tem: 27 -"/>
+            <ITEXT CH="- Das Ein Wurf Sys­tem: 25 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Hinweise zum Leiten: 29-"/>
+            <ITEXT CH="- Hinweise zum Leiten: 27 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="Seite 30: Anpassung des EWS"/>
+            <ITEXT CH="Seite 28: Anpassung des EWS"/>
             <para PARENT="Seitenleiste-Titel" LINESPMode="1"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="Seiten 31 bis 48: An­hang und Mo­du­le"/>
+            <ITEXT CH="Seiten 29 bis 48: An­hang und Mo­du­le"/>
             <para PARENT="Seitenleiste-Titel" LINESPMode="1"/>
-            <ITEXT CH="- Stei­ge­rung: 32 -"/>
+            <ITEXT CH="- Stei­ge­rung: 30 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Fokus: Kampf: 36 -"/>
+            <ITEXT CH="- Fokus: Kampf: 35 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Lizenz und Epi­lo­g: 48 -"/>
+            <ITEXT CH="- Lizenz und Epi­lo­g: 47 -"/>
             <trail PARENT="EWS Fluss" LINESPMode="1"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Inhalt" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
