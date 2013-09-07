@@ -653,7 +653,7 @@ Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irg
 
 Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt.
 
-Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise regenerieren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen.
+Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise re­ge­ner­ie­ren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen.
 
 <fuss>Weitere Modifikatoren stehen in der Seitenleiste auf Seite 24: Einfluss der Heilungsumstände.
 #Heilungszeiten
@@ -712,7 +712,7 @@ Jede Waffe hat drei Reichweiten: Kurz, Mittel und Weit. Für jede dieser Reichwe
 
 Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt werden, wodurch der Mindestwurf allerdings um weitere 6 Punkte auf 24 im Kampf bzw. 21 in Ruhe steigt.
 
-**Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert den Mindestwurf durch die Entfernung je nach Fernrohr um 3 bis 6 Punkte, allerdings nicht unter Kurz.
+**Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert bei ruhigem Schuss den Mindestwurf durch die Entfernung je nach Fernrohr um 3 bis 6 Punkte, allerdings nicht unter Kurz.
 
 Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (5/6).
 

@@ -118,7 +118,7 @@ Fertigkeiten dagegen sind erarbeitetes Können, das all denen zur Verfügung ste
 
 Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat.
 
-Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fernkampf als Fertigkeiten ge­wählt.
+Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fern­kampf als Fertigkeiten ge­wählt.
 
 
 #Beruf und Einkommen
@@ -279,7 +279,7 @@ Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das über
 
 Was immer die Spielerinnen wählen, es sollte im Spiel drankommen.
 
-Ansonsten ignorier' die Punkteschinderei einfach. Sie scheint der Spielerin schließlich Spaß zu machen, und nicht jede Spielerin macht sich viele Gedanken darum, ob einer der Charaktere stärker ist als der Rest, solange er ihrem eigenen Charakter nicht die Show stiehlt, und dafür kannst du als Spielleiterin sorgen.
+Ansonsten ignorier' die Punkte­schinderei einfach. Sie scheint der Spielerin schließlich Spaß zu machen, und nicht jede Spielerin macht sich viele Gedanken darum, ob einer der Charaktere stärker ist als der Rest, solange er ihrem eigenen Charakter nicht die Show stiehlt, und dafür kannst du als Spielleiterin sorgen.
 
 <fuss>Ein paar Tipps dafür findest du unter SL-Tipps.de
 
@@ -383,9 +383,9 @@ Wunden gelten als geheilt, sobald der Schaden der Wunde geheilt ist. Dann behind
 Konkret bedeutet das:
 - Hat der Charakter nur eine Wunde, gilt sie als geheilt, wenn all seine Trefferpunkte (TP) geheilt sind.
 
-- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wundschwelle abgesunken ist.
+- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wundschwelle ab­ge­sun­ken ist.
 
-- Bei einer kritischen und einer "normalen" Wunde wird die kritische zu einer "normalen", wenn der gesamte Schaden auf zwei Wundschwellen abgesunken ist.
+- Bei einer kritischen und einer "normalen" Wunde wird die kritische zu einer "normalen", wenn der gesamte Schaden auf zwei Wundschwellen ab­ge­sun­ken ist.
 
 - Alte Wunden heilen vor neueren.
 
@@ -397,7 +397,7 @@ Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind 
 
 Aktivität:
 - Schiffsreise: ±0 bis -2 TP
-- Kutsche, gute Straße:	-1 TP
+- Kutsche, gute Straße: -1 TP
 - Pferd/Kutsche:	-2 TP
 - Gewaltmarsch:	-4 TP
 
