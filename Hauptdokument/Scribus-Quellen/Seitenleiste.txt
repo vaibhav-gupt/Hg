@@ -54,7 +54,7 @@ Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich m
 Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich.
 
 #Mindestwürfe
-Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens ein Vielfaches von 3. Wie deren Werte tragen auch die verschiedenen Mindestwürfe Namen. Für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12) ergeben sich die folgenden Erfolgswahrscheinlichkeiten:
+Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens ein Vielfaches von 3. Wie deren Werte tragen auch die verschiedenen Mindestwürfe Namen. Für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12) ergeben sich die folgenden Er­folgs­wahr­schein­lich­kei­ten:
 
 MW: Name (Chance)
 
