@@ -675,7 +675,7 @@ Die Regeln des Fokusmoduls Kampf stehen für den normalen Kampf in unsicherer Um
 
 In einer Kampfsituation würfeln beide Kontrahentinnen auf ihre Kampffertigkeit. Diejenige, die den höheren Wert erzielt, trifft ihre Gegnerin. Bei einem Patt trifft die Angreiferin.
 
-Die Getroffene erhält Schaden in Höhe der Differenz (Diff) der erzielten Werte plus dem Schadenswert der benutzten Waffe  (Schadenswürfel) abzüglich ihres Rüstungsschutzes (Schutz).
+Die Getroffene erhält Schaden in Höhe der Differenz (Diff) der erzielten Werte plus dem Schadenswert der benutzten Waffe  (Schadenswürfel) abzüglich des Schutzes ihrer Rüstung.
 Dieser Schaden wird von ihren Trefferpunkten abgezogen.
 
 **Schaden = Diff + Schadenswert - Schutz.
