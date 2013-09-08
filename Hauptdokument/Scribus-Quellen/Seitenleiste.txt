@@ -1,29 +1,29 @@
 #Willkommen im EWS!
-Ich bin Drak, und ich werde dir in diesem Heft mit Ratschlägen zur Seite stehen und dir helfen, deinen eigenen Weg in die vielen Möglichkeiten des 1w6-Systems zu finden.
+Ich bin Drak, und ich werde dir in diesem Heft mit Ratschlägen zur Seite stehen und dir helfen, deinen eigenen Weg in die vielen Mög­lich­kei­ten des 1w6-Systems zu finden.
 
 Ein paar Worte zu dem Heft, das nun vor dir liegt.
 
 Du findest hier die wichtigsten Grundregeln, die du brauchst, um mit dem EWS zu spielen, auch wenn sich ein paar Zusatzregeln eingeschlichen haben. Die sollten allerdings erkennbar sein, und ihr könnt und sollt sowieso selbst entscheiden, welche Regeln für eure Runde Sinn ergeben.
 
-Grundtexte sind dabei im Haupttext, Optionales, Hintergründe und Ideen (wie diese Vorrede) in der Seitenleiste. Für bessere Übersichtlichkeit nutzen wir jeweils eigene Schriftstile
+Grundtexte sind dabei im Haupttext, Optionales, Hintergründe und Ideen (wie diese Vorrede) in der Seitenleiste. Für bessere Übersichtlichkeit nutzen wir eigene Schriftstile
 
 *für Beispiele und
 
 <fuss>für Verweise auf anderes.
 Zusätzlich zu den Infos über weitere Quellen (z.B. Module, die zum jeweiligen Abschnitt passen) findest du von mir dann und wann Anmerkungen, kleine Tipps und Hinweise, die für die meisten Runden nützlich sein sollten.
 
-Bevor du die Tipps einfach übernimmst, solltest du allerdings wie bei optionalen Regeln selbst überlegen, ob sie für deine Gruppe sinnvoll sind, völlig egal was ich hier schreibe. Das wichtigste beim Spielen ist und bleibt, dass ihr alle Spaß habt.
+Bevor du die Tipps einfach übernimmst, solltest du al­ler­dings wie bei optionalen Regeln selbst überlegen, ob sie für deine Gruppe sinnvoll sind, völlig egal was ich hier schreibe. Das wichtigste beim Spielen ist und bleibt, dass ihr alle Spaß habt.
 
 Oh, und noch was:
-Ich duze dich, denn schließlich bin ich, wenn man der Mythologie glauben darf, mindestens 3000 Jahre älter als du und damit ein altehrwürdiges Wesen, dem man Respekt zollen muss.
+Ich duze dich, denn schließlich bin ich, wenn man der My­tho­lo­gie glauben darf, mindestens 3000 Jahre älter als du und damit ein altehrwürdiges Wesen, dem man Respekt zollen muss.
 
 Entsprechend solltest du mich zurückduzen.
 - Drak
 
 #Was du brauchst
-Für ein Spiel braucht deine Runde genau einen Würfel, ein Charakterblatt und einen Stift für jede Spielerin. In Zeiten der Not reichen also selbst die Würfel aus einem Monopoly-Spiel, ein paar Taschentücher und ein Stückchen Kohle. Alternativ ein Handtuch.
+Für ein Spiel braucht deine Runde genau einen Würfel und einen Stift für jede Beteiligte, dazu ein Charakterblatt für jede Spielerin und Papier für Notizen für die Spielleiterin. In Zeiten der Not reichen also selbst die Würfel aus einem Monopoly-Spiel, ein paar Taschentücher und ein Stückchen Kohle. Alternativ ein Handtuch.
 
-<fuss>Modul dazu: Alternative Zufallssysteme (AZul).
+<fuss>Module dazu: Alternative Zufallssysteme (AZul). Falls ihr keine Würfel zur Hand habt: Schere Stein Papier (SchP).
 
 #Namen und Werte
 Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
@@ -39,22 +39,17 @@ Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
 12 Durchschnittlich
 13 Überdurchschnittlich
 ------
-14 Routiniert/Gut
-15 Erfahren/Sehr Gut
-16 Extrem Gut
+14 Routiniert
+15 Erfahren
+16 Sehr Gut
 ------
 17 Ausgezeichnet
 18 Überragend
 
 <fuss>Beschreibungen findest du auf
 <fuss>- http://werte.1w6.org
-#Die Namen stimmen
-Während des Designs wurde großer Wert darauf gelegt, dass die Namen wirklich mit den regeltechnischen Auswirkungen übereinstimmen.
-
-Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich.
-
-#Mindestwürfe
-Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens ein Vielfaches von 3. Wie deren Werte tragen auch die verschiedenen Mindestwürfe Namen. Für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12) ergeben sich die folgenden Er­folgs­wahr­schein­lich­kei­ten:
+#Mindestwürfe
+Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens ein Vielfaches von 3. Wie deren Werte tragen auch die verschiedenen Mindestwürfe Namen. Für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12) ergeben sich die fol­gen­den Er­folgs­wahr­schein­lich­kei­ten:
 
 MW: Name (Chance)
 
@@ -68,6 +63,11 @@ Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfa
 Jobs, deren Schwierigkeit höher liegt, verlangen Son­der­quali­fi­ka­tio­nen oder haben recht niedrige Erfolgs- oder Über­le­bens­ra­ten.
 
 <fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit).
+#Die Namen stimmen
+Während des Designs wurde großer Wert darauf gelegt, dass die Namen von Werten wirklich mit den regeltechnischen Auswirkungen übereinstimmen.
+
+Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich.
+
 #Boni auf Fertigkeitswerte
 Jede Fertigkeit erhält Boni aus bis zu zwei passenden Ei­gen­schaf­ten. Welche Eigenschaften das sind legt die Spielerin jeweils bei der Erschaffung fest.
 
@@ -126,7 +126,7 @@ Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt 
 
 Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersezt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen.
 
-Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal "Vermögend" wählen, das ihm das fünffache Einkommen beschert.
+Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal „Reich“ wählen, das ihm das fünffache Einkommen beschert.
 
 Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird.
 
@@ -176,9 +176,9 @@ Die Charaktere können über das Schicksal ihres Landes mit­ent­schei­den.
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird.
 
-**Sie kosten einen Punkt je angefangene 9 Punkte Rüstung + Schaden.
+**Sie kosten einen Punkt je angefangene 9 Punkte Rüstung + Schaden. Je nach Hintergrund können 3 bis 5 Punkte gratis sein, wenn eine Minimalbewaffnung der Normalfall ist.
 
-Auf S. 26 gibt es eine Liste mit Beispielwaffen und Rüstungen.
+Auf S. 40 gibt es eine Liste mit Beispielwaffen und Rüstungen.
 
 Besonderheiten erhöhen die effektiven Kosten:
 
@@ -186,7 +186,7 @@ Eine verborgenen Waffe oder Rüstung kostet doppelt, Waffen mit Gift oder Waffen
 
 Waffen mit Flächenschaden kosten bis 5 Personen doppelt. Wenn sie normalerweise über 5 Personen treffen, kosten sie viermal so viel.
 
-Betäubungswaffen kosten gleich viel, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 27, Seitenleiste).
+Betäubungswaffen kosten gleich viel, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 26, Seitenleiste).
 
 
 #Persönliche Gegenstände
@@ -202,16 +202,16 @@ Persönliche Gegenstände können allerdings tolle Aufhänger für Geschichten s
 
 Sind  die persönlichen Ge­gen­stän­de All­tags­ge­gen­stän­de, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen).
 
-Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (nächste Seitenleiste).
+Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (vorheriger Abschnitt der Seitenleiste).
 
 Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persönliche Gegenstände gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig.
 
 Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe.
 
-#Merkmale aus Gurps® übernehmen
+#Merkmale aus Gurps®
 Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale.
 
-Um Vor- und Nachteile aus Gurps als Merkmale zu nutzen, existiert eine einfache Schematik, die Kosten in Gurps auf Plusse im vobsy überträgt.
+Um Vor- und Nachteile aus Gurps als Merkmale zu nutzen, existiert eine einfache Schematik, die Kosten in Gurps auf Plusse im EWS überträgt.
 
 Dabei entspricht ein Δ etwa 18 CP aus Gurps, und es entstehen die folgenden Werte:
 vobsy <-> Gurps®
@@ -302,7 +302,7 @@ Es gibt schon viele Rollenspiele auf dem Markt und im Netz, doch ein paar Punkte
 Drei davon sind:
 
 - Es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite).
-Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund-prinzipien auf und nutzt Module für Erweiterungen.
+Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund­prinzipien auf und nutzt Module für Er­wei­terung­en.
 
 - Es vermeidet Überladung der Charakterhefte durch  die Einführung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben.
 
@@ -347,14 +347,15 @@ Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der G
 #Punkte für gutes Rollenspiel?
 Es hat sich in vielen Systemen eingebürgert, Punkte für gutes Rollenspiel zu vergeben.
 
-Ob das für deine Gruppe sinnvoll ist, hängt von deinen Spielern ab.
+Ob das für deine Gruppe sinn­voll ist, hängt von deinen Spie­ler­in­nen ab.
 
 In jedem Fall aber ist es sinnvoll, nach der Runde über die schönsten Szenen zu reden, und ihr solltet dafür am Ende jeder Runde Zeit einplanen und frei halten.
 
 Wenn ihr das durch die Punktevergabe schafft, ist sie wahrscheinlich sinnvoll.
-
-Nebenbei: Tagebücher oder andere Aufzeichnungen über die Abenteuer zu führen verstärkt die Stimmung ungemein, weil die Spielerinnen ihre Charaktere dadurch oft viel tiefer erleben und ihre Erinnerung klarer ist.
+#Aufzeichnungen
+Tagebücher oder andere Aufzeichnungen über die Abenteuer zu führen verstärkt die Stimmung ungemein, weil die Spielerinnen ihre Charaktere dadurch oft viel tiefer erleben und ihre Erinnerung klarer ist.
 
+Außerdem erhalten sie die Spielerfahrungen und lassen die Runden noch Jahre später wieder lebendig werden.
 
 
 #Erschöpfung
@@ -372,7 +373,7 @@ Normale Charaktere regenerieren pro Stunde Erschöpfungspunkte in Höhe ihrer Er
 Eine Nacht Schlaf heilt im allgemeinen die Erschöpfung vollständig.
 
 #Schaden durch Erschöpfung
-Wenn ein Charakter   Erschöpfung in Höhe der Erschöpfungsschwelle auf einen Schlag erhält, z.B. im waffenlosen Kampf, bekommt er zusätzlich einen Punkt Schaden (auf TP).
+Wenn ein Charakter   Erschöpfung in Höhe der Erschöpfungsschwelle auf einen Schlag erhält, z.B. im waf­fen­lo­sen Kampf, bekommt er zusätzlich einen Punkt Schaden (auf TP).
 
 Dieser Schaden entspricht Rippenbrüchen, Zerrungen und sonstigen Folgen von Überlastung.
 
@@ -383,7 +384,7 @@ Wunden gelten als geheilt, sobald der Schaden der Wunde geheilt ist. Dann behind
 Konkret bedeutet das:
 - Hat der Charakter nur eine Wunde, gilt sie als geheilt, wenn all seine Trefferpunkte (TP) geheilt sind.
 
-- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wundschwelle ab­ge­sun­ken ist.
+- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wund­schwel­le ab­ge­sun­ken ist.
 
 - Bei einer kritischen und einer "normalen" Wunde wird die kritische zu einer "normalen", wenn der gesamte Schaden auf zwei Wundschwellen ab­ge­sun­ken ist.
 
@@ -551,7 +552,7 @@ Wenn dir irgendetwas nicht gefällt, kannst du es ändern.
 Damit eine stabile und immer wachsende Grundlage aus guten Ideen und Regeln entsteht, die Jede direkt nutzen kann.
 
 #Warum darf die Welt unfrei sein?
-Weil Weltenbastler emotional sehr an ihrer Welt hängen. Das ist nicht maximal frei, aber pragmatisch.
+Weil Weltenbastler emotional sehr an ihrer Welt hängen und so Lizenzprodukte möglich sind. Das ist nicht maximal frei, sondern pragmatisch. Unsere Welten sind allerdings frei.
 
 #Wie kann ich mitmachen?
 
