@@ -2,12 +2,13 @@
 
 Das EWS, bzw. 1w6-System ist ein schnelles und flexibles Regelsystem für Fantasy und Science Fiction, Cyberpunk und Pulp Action und beliebige weitere Hintergründe.
 
-Dieses Heft liefert dafür ein stabiles, freies und minimales Fundament, auf dem andere Werke aufbauen können. Seine Regeln sind direkt spielbar und unterstützen sowohl One-Shots als auch lange Kampagnen, richten sich allerdings an erfahrene Rollenspieler. Für Neueinsteiger sind Hefte in Arbeit, die das EWS jeweils auf einen bestimmten Hintergrund zuschneiden.
+Dieses Heft liefert dafür ein stabiles, freies und minimales Fundament, auf dem andere Werke aufbauen können. Seine Regeln sind direkt spielbar und unterstützen sowohl One-Shots als auch lange Kampagnen, richten sich allerdings an erfahrene Rollenspieler. Für Neueinsteiger sind Hefte in Arbeit, die das EWS jeweils auf einen bestimmten Hintergrund zuschneiden. Das erste davon spielt in dem Science-Fiction Hintergrund Technophob:
+- technophob.1w6.org
 
 Um es schlank zu halten, ist das EWS in weiten Teilen kompatibel zu Gurps® und Fudge™, so dass bereits eine breite Palette an hervorragend ausgearbeiten Zusatzregeln, Vor- und Nachteilen, Magiesystemen, Wurfmodifikatoren u.ä. existiert. Quellenmaterial zu Gurps® und Fudge™ gibt es auf den offiziellen Seiten (sjgames.com und fudgerpg.com) und auf der Webseite des EWS
 (gurps.1w6.org und fudge.1w6.org).
 
-Viele Sonderregeln des EWS sind in Module ausgelagert, so dass das Grundregelwerk schlank bleibt. Jedes Modul hat einen vollen Namen und eine vier Zeichen lange Abkürzung, so dass du deinen Spielern schnell zeigen kannst, welche Module du nutzt. Unter vielen Texten findest du außerdem Tipps, welche Module für den jeweiligen Abschnitt interessant sind.
+Viele Sonderregeln des EWS sind in Module ausgelagert, damit das Grundregelwerk schlank bleibt. Jedes Modul hat einen vollen Namen und eine vier Zeichen lange Abkürzung, so dass du deinen Spielern schnell zeigen kannst, welche Module du nutzt. Unter vielen Texten findest du außerdem Tipps, welche Module für den jeweiligen Abschnitt interessant sind.
 
 Die meisten Module findest du auf
 - module.1w6.org
@@ -41,7 +42,7 @@ Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren 
 
 - Körper: Erscheinungsbild, Sexappeal, Balance, Körperbau, Konstitution, Ausdauer, Ermüdungsresistenz, Fitness, Gesundheit, Trefferpunkte, Kraft, Größe, Wundresistenz, Verdauung, Masse...
 
-- Bewegung: Geschicklichkeit, Ziel-genauigkeit, Koordination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behändigkeit...
+- Bewegung: Geschicklichkeit, Ziel­genauigkeit, Ko­ord­ination, Gewandtheit, Fingerfertigkeit, Muskeln, Schnelligkeit, Reflexe, Finesse, Behändigkeit...
 
 - Geist: Schläue, Bildung, Intelligenz, Wissen, Lernfähigkeit, Erinnerung, Gedächtnis, Denken, Mentale Stärke, Nerven, Wahrnehmung, Vernunft, Logik, Mechanisches Verständnis, Willenskraft, Disziplin, Grips, Technisches Verständnis, Witz, Aufmerksamkeit...
 
@@ -56,16 +57,16 @@ Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren 
 - Andere: Rang, Status, Vermögen...
 
 
-<fuss>Module: Kategoriesystem (KaSy).
+<fuss>Module: Kategoriesystem (KaSy), Keine Eigenschaftswerte (KeiW).
 #Fertigkeiten
 
 Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zählen so verschiedene Bereiche wie Nahkampf und Kochen, Giftmischen, Schachspielen, Computerprogramme cracken und Origami. Wie bei Eigenschaften steht es jeder Spielerin völlig frei, genau diejenigen Fertigkeiten zu wählen, die ihren Charakter am schönsten beschreiben.
 
-**Die Werte von Fertigkeiten liegen wie Eigenschaftswerte meist zwischen armselig (6) und überragend (18). Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird.
+**Die Werte von Fertigkeiten liegen wie Ei­gen­schafts­wer­te meist zwischen armselig (6) und überragend (18). Mit einem durchschnittlichen Wert (12) kann ein Charakter mit der jeweiligen Fertigkeit seinen Lebensunterhalt bestreiten, auch wenn sein Job nicht gerade im Management sein wird.
 
 **Jeder Fertigkeit sind bis zu zwei Eigenschaften fest zugeordnet, die einen Bonus auf ihren Wert geben und gleichzeitig einen Hinweis liefern, wie der Charakter seine Fertigkeit nutzt.
 
-*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich auf sein Bücherwissen und seine Exaktheit verlässt.
+*Beispielsweise wird ein Charakter, der auf seinen Geruchssinn und seine Intuition vertraut, völlig anders kochen als einer, der sich nur auf sein Bücherwissen verlässt.
 
 ##Beispiele für Fertigkeiten
 
@@ -101,7 +102,7 @@ Um eine Reihe verwandter Fertigkeiten nutzen zu können, kann ein Charakter eine
 
 ##Beispiele für Hintergründe
 
-- Fantasy: Jeweilige Rasse + Beruf (Orkin, Goblin, Trollin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft...
+- Fantasy: Jeweilige Rasse + Beruf (Orkin, Troll, Goblin, Drache, etc.), Ghul-Bande, Kobold-Gefangenschaft...
 
 - Jetzt-Zeit: Klassische Hausfrau, Slumgöre, Klosterbengel, reicher Schnösel, Bande / Gang...
 
@@ -133,7 +134,7 @@ Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein 
 
 - weitere: 1w6.org/stichwort/merkmale
 
-Sinnloses schließt sich gegenseitig aus (z.B. "Gehirn in einem Kasten" und "Körperwechsler").
+Sinnlose Kombinationen sind dabei ausgeschlossen (z.B. "Gehirn in einem Kasten" und "Körperwechsler").
 
 #Kampfwerte
 
@@ -239,7 +240,7 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 *Nur bei Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist.
 
-*Statt einem weiteren Merkmal wählt er nach einigem Nachdenken lieber durch eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma.
+*Statt einem weiteren Merkmal wählt er nach einigem Nachdenken lieber eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma.
 
 *Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder.
 
@@ -529,7 +530,9 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 Fitness: +  	(15)
 Fitness: +,´	(15)
 Fitness: +,´´	(16)
+Fitness: +,^´	(16)
 Fitness: +,^^	(17)
+Fitness: +,Δ^	(17)
 Fitness: +,ΔΔ	(18) = ++
 Fitness: ++,´´´	(19)
 
@@ -794,7 +797,7 @@ Wo immer es sinnvoll scheint, könnt ihr auch die Faustregel nutzen, dass 9 Punk
 Das EWS steht unter der GPLv3:
 - lizenz.1w6.org
 
-In einem Satz: Die GPLv3 erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die VorautorInnen genannt werden und jeder Anderen die freie Nutzung des Regelbereiches erlaubt und ermöglicht wird.
+In einem Satz: Die GPLv3 erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die VorautorInnen genannt werden und jeder Anderen die freie Nutzung erlaubt und ermöglicht wird.
 
 Quelldateien: quellen.1w6.org
 
@@ -805,7 +808,7 @@ unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), A
 
 Außerdem mit Inspirationen aus DSA® (Fanpro), Shadowrun® (FASA), Gurps® (SJGames), Fudge™ (Grey Ghost Press), Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic), dem Weltenbuch (jcorporation) und vielen weiteren.
 
-Die Grafiken wurden uns von wundervollen Künstlern zur Verfügung gestellt, die uns die freie Verwendung ihrer Werke erlauben: Das Logo, der Drache, der Echsenmensch mit Keule und die Echsenfrau im Lendenschurtz stammen von Trudy Wenzel, der zwergische Runenmeister wurde von Philipp Barber gezeichnet, die restlichen Portraits sind von Kathrin Polikeit (Kitty) und die Symbole kommen aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org) - wie auch die Arbeiten von Kitty und Philipp Barber. Falls du Lust hast, für das EWS Bilder beizusteuern, dann schreib uns bitte!
+Die Grafiken wurden uns von wundervollen Künstlern zur Verfügung gestellt, die die freie Verwendung ihrer Werke erlauben: Das Logo, der Drache, der Echsenmensch mit Keule und die Echsenfrau im Lendenschurtz stammen von Trudy Wenzel, der zwergische Runenmeister wurde von Philipp Barber gezeichnet, die restlichen Portraits sind von Kathrin Polikeit (Kitty) und die Symbole kommen aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org) - wie auch die Arbeiten von Kitty und Philipp Barber. Falls du Lust hast, für das EWS Bilder beizusteuern, dann schreib uns bitte!
 
 Das Design dieser Version wurde maßgeblich von Tim Charzinski verbessert. Es macht wahnsinnig was aus, wenn jemand mitmacht, der Ahnung davon hat.
 
