@@ -214,7 +214,7 @@ Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS 
 Um Vor- und Nachteile aus Gurps als Merkmale zu nutzen, existiert eine einfache Schematik, die Kosten in Gurps auf Plusse im EWS überträgt.
 
 Dabei entspricht ein Δ etwa 18 CP aus Gurps, und es entstehen die folgenden Werte:
-vobsy <-> Gurps®
+1w6 <-> Gurps®
 + <-> bis 18 CP
 ++ <-> bis 54 CP
 +++ <-> bis 108 CP
