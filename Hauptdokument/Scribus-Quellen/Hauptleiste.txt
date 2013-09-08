@@ -78,7 +78,7 @@ Fast alles, das ein Charakter in seinem Leben lernt, sind Fertigkeiten. Dazu zä
 
 - Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie...
 
-<fuss>Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14.
+<fuss>Die genauen Einflüsse der Eigenschaften findest du bei den 5 Regeln der Erschaffung auf Seite 20.
 
 #Beruf u. Hintergrund
 
@@ -134,15 +134,15 @@ Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein 
 
 - weitere: 1w6.org/stichwort/merkmale
 
-Sinnlose Kombinationen sind dabei ausgeschlossen (z.B. "Gehirn in einem Kasten" und "Körperwechsler").
+Sinnlose Kombinationen sind dabei ausgeschlossen (z.B. "Gehirn in einem Kasten" und "Kör­per­wechs­ler").
 
 #Kampfwerte
 
 Für Kämpfe hat ein Charakter außerdem eine Wundschwelle.
 
-**Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durchschnittswert ist daher 4.
+**Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durch­schnitts­wert ist daher 4.
 
-<fuss>Einzelheiten zu Wunden findest du ab Seite 24 unter "Auswirkungen von Verletzungen".
+<fuss>Einzelheiten zu Wunden findest du ab Seite 23 unter "Auswirkungen von Verletzungen".
 
 #Einfache Proben
 
@@ -166,6 +166,7 @@ Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit dem Mindest
 **Liegen Eigenschaft oder Fertigkeit bereits 6 oder mehr Punkte über der Schwierigkeit, gelingt die Probe auch ohne Wurf automatisch (Ausnahmen bestimmt die Spielleiterin).
 
 Mindestwürfe (MW) sind immer ein Vielfaches von 3. Typische Mindestwürfe sind 9 (einfach), 12 (fordernd) und 15 (schwer).
+
 Hat die Spielerin keine passende Fertigkeit, kann sie auf den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen.
 
 *Beispiel: Jana, Schülerin in der 9. Klasse, zieht als "Grok, Barbar!" durchs Land.
@@ -188,7 +189,7 @@ Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen 
 
 Dafür besprechen wir erst kurz die Charakterhefte, in denen Cha­rak­tere auf­ge­schrie­ben wer­den. Da­nach wählen wir die Machtstufe der Charaktere und geben ihnen Werte, um ihre Fähigkeiten festzulegen.
 
-<fuss>Für den Fall, dass du du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 17 einfache Konvertierungsregeln für die Kosten.
+<fuss>Für den Fall, dass du du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 19 einfache Konvertierungsregeln für die Kosten.
 
 #Das Charakterheft
 
@@ -367,7 +368,7 @@ Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Foku
 
 Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um die Auswirkungen von Verletzungen kümmern.
 
-<fuss>Modul: Fokus: Kampf (FoKa), Seite 36
+<fuss>Modul: Fokus: Kampf (FoKa), Seite 35.
 
 #Auswirkungen von Verletzungen
 
@@ -517,7 +518,7 @@ Diese Striche können auf die Eigenschaften, Fertigkeiten und Merkmale verteilt 
 **6. Strich: Kochen:	++ (15)
 **9. Strich: Kochen:	++ (16)
 
-<fuss>Ein längeres Beispiel gibt es auf S. 33 bis 35.
+<fuss>Ein längeres Beispiel gibt es auf S. 32 bis 33.
 
 Um die Steigerung einfach aufzuzeichnen, werden die Striche zu Dreiecken zusammengefügt, so dass drei Striche ein Dreieck ergeben:
 
@@ -542,7 +543,7 @@ Die passendste Anzahl von Strichen pro Abend hängt von der Länge der Kampagne 
 
 Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten.
 
-<fuss>Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 33.
+<fuss>Ein Beispiel für die Strichvergabe findest du auf S. 34.
 #Beispielsteigerung
 
 *Kehren wir noch einmal zu Lazaro zurück.
@@ -624,7 +625,7 @@ Hat ein Charakter keine passende Eigenschaft, dann liegen seine Trefferpunkte be
 
 **Die Wundschwelle liegt bei einem Drittel der schon für die Trefferpunkte gewählten Eigenschaft. Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4.
 
-Beispiel: Lazaros Erschaffung auf S. 12.
+Beispiel: Lazaros Erschaffung auf S. 16.
 
 ##Niedrige Trefferpunkte
 **Wenn die verbleibenden Trefferpunkte (TP) eines Charakters auf oder unter seine Wundschwelle absinken (z.B. auf 4), beginnt er zu taumeln und erhält einen Malus von 1 Punkt auf alle Handlungen. Sinken sie auf 0 oder darunter, so muss er eine fordernde Probe auf Konstitution oder eine andere passende Eigenschaft bestehen (gegen 12, ohne weitere Mali), um weiterhin handeln zu können. Misslingt diese Probe, so wird er handlungsunfähig. Wenn sie gelingt, steigt sein Malus durch niedrige Trefferpunkte auf 3 Punkte für alle weiteren Handlungen, er kann aber weiterhin agieren.
@@ -645,7 +646,7 @@ Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie
 Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide u.ä..
 Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken.
 
-<fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46.
+<fuss>Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 44 bis 46.
 #Heilung
 
 Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irgendwann heilen.
@@ -656,16 +657,16 @@ Egal welchen Schaden ein Charakter erhält, sobald er ihn hat, sollte er ihn irg
 
 Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt.
 
-Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise re­ge­ner­ie­ren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen.
+Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise re­ge­ner­ie­ren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Tref­fer­punk­te (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Kon­sti­tu­tion (18, WS: 6) also jede Woche Schaden nehmen.
 
-<fuss>Weitere Modifikatoren stehen in der Seitenleiste auf Seite 24: Einfluss der Heilungsumstände.
+<fuss>Weitere Modifikatoren stehen in der Seitenleiste auf Seite 39: Einfluss der Heilungsumstände.
 #Heilungszeiten
 
-Ein Charakter mit durchschnittlicher Konstitution (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP.
+Ein Charakter mit durch­schnitt­lich­er Konstitution (12) und ohne Wunden re­ge­ne­riert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP.
 
 Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (die Wunde heilt in etwas über einem Monat Reisezeit). Er kann es sich also leisten, mit Wunde zu reisen.
 
-In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2 TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert.
+In einem Krankenhaus regeneriert ein durch­schnitt­lich­er Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2 TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert.
 
 Ein schwacher Charakter (Konstitution: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2 TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1 TP pro Woche und 3 Monate Krankenhaus.
 #Nahkampf
