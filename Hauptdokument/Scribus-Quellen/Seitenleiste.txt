@@ -130,7 +130,7 @@ Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal „R
 
 Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird.
 
-Merkmale: Vermögend (+), Kein sicheres Einkommen (‑)
+Merkmale: Reich (+), Kein sicheres Einkommen (‑)
 
 #Schwache Eigenschaften
 Eigenschaften mit Werten unter 12 repräsentieren Schwächen des Charakters. Sie sind ein Weg für Spielerinnen, der Spielleiterin zu sagen, dass sie bestimmte Problemsituationen erleben will. 
@@ -284,16 +284,18 @@ Ansonsten ignorier' die Punkte­schinderei einfach. Sie scheint der Spielerin sc
 <fuss>Ein paar Tipps dafür findest du unter SL-Tipps.de
 
 #Module selbst entwickeln
-Eine der Hauptstärken des EWS ist, dass es sauber durch Module anpassbar ist.
+Eine der Hauptstärken des EWS ist, dass es sauber durch Mo­dule anpassbar ist.
 
 Unterstützung zum Schreiben von eigenen Modulen findest du auf der Seite
 - eigene-module.1w6.org
 
-Sie bietet bereits vorgefertigte Regelmechanismen, die durchgerechnet sind und direkt für Module verwendet werden können.
+Sie bietet bereits vorgefertigte Regelmechanismen, die durch­ge­rech­net sind und direkt für Module verwendet werden kön­nen.
 
 Die Anforderungen an ein Modul sind eine Einleitung, die auch den wahrscheinlichen Effekt auf das Spielgefühl beschreibt, ein Hauptteil, der Details liefert, und mindestens ein Beispiel, das die Nutzung zeigt.
 
-Ein Modul für das EWS muss unter der selben freien Lizenz stehen (siehe Epilog alias Rückseite), wenn du es veröffentlichen willst.
+Ein Modul für das EWS muss unter der selben freien Lizenz stehen (siehe Epilog), wenn du es ver­öf­fent­lich­en willst.
+
+- module.1w6.org
 
 
 #Warum noch ein Rollenspielsystem?
@@ -359,23 +361,24 @@ Außerdem erhalten sie die Spielerfahrungen und lassen die Runden noch Jahre sp�
 
 
 #Erschöpfung
-Um die Ausdauer der Charaktere und ihr Durchhaltevermögen besser einschätzen zu können, und vor allem auch für Magie, Psi und ähnliches, kann Erschöpfung mit einbezogen werden.
-Erschöpfung wird berechnet wie die Trefferpunkte, muss allerdings auf einer anderen Eigenschaft aufbauen (deren Wert die Ausdauer des Charakters ergibt).
+Um die Aus­dau­er der Cha­rak­te­re und ihr Durch­hal­te­ver­mö­gen besser ein­schät­zen zu können, und vor allem auch für Magie, Psi und ähn­li­ches, kann Er­schöp­fung mit ein­be­zo­gen werden.
 
-Die Spielerin kann sich selbst aussuchen, welche passende Eigenschaft sie für Erschöpfung nehmen will und welche für Trefferpunkte.
+Erschöpfung wird berechnet wie die Trefferpunkte, muss al­ler­dings auf einer anderen Ei­gen­schaft aufbauen (deren Wert die Ausdauer des Cha­rak­ters ergibt).
 
-Abzüge durch niedrige Erschöpfung werden behandelt wie bei den Trefferpunkten.
+Die Spielerin kann sich selbst aussuchen, welche passende Eigenschaft sie für Er­schöp­fung nehmen will und welche für Trefferpunkte.
+
+Abzüge durch nied­rige Er­schöp­fung werden behandelt wie bei den Trefferpunkten.
 
 
 #Regeneration von Erschöpfung
-Normale Charaktere regenerieren pro Stunde Erschöpfungspunkte in Höhe ihrer Erschöpfungsschwelle (1/3 der gewählten Eigenschaft), also durchschnittlich 4 Punkte, das heißt einen Punkt alle 15 Minuten.
+Normale Charaktere re­ge­ne­rie­ren pro Stunde Er­schöp­fungs­punk­te in Höhe ihrer Er­schöp­fungs­schwel­le (1/3 der ge­wähl­ten Eigenschaft), also durch­schnitt­lich 4 Punkte, das heißt einen Punkt alle 15 Minuten.
 
 Eine Nacht Schlaf heilt im allgemeinen die Erschöpfung vollständig.
 
 #Schaden durch Erschöpfung
-Wenn ein Charakter   Erschöpfung in Höhe der Erschöpfungsschwelle auf einen Schlag erhält, z.B. im waf­fen­lo­sen Kampf, bekommt er zusätzlich einen Punkt Schaden (auf TP).
+Wenn ein Charakter  Er­schöp­fung in Höhe der Er­schöp­fungs­schwel­le auf einen Schlag erhält, z.B. im waf­fen­lo­sen Kampf, bekommt er zu­sätz­lich einen Punkt Schaden (auf TP).
 
-Dieser Schaden entspricht Rippenbrüchen, Zerrungen und sonstigen Folgen von Überlastung.
+Dieser Schaden entspricht Rip­pen­brü­chen, Zerrungen und sonstigen Folgen von Über­las­tung.
 
 
 #Wunden heilen
@@ -394,7 +397,7 @@ Konkret bedeutet das:
 
 
 #Einfluss der Heilungsumstände
-Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Mo­di­fi­ka­to­ren wer­den auf die nor­male Hei­lung von Wund­schwel­le (WS) -2 TP pro Woche angerechnet.
+Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Mo­di­fi­ka­to­ren wer­den auf die nor­male Hei­lung von Wund­schwel­le (WS) -2 TP pro Woche an­ge­rech­net.
 
 Aktivität:
 - Schiffsreise: ±0 bis -2 TP
@@ -542,7 +545,27 @@ Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletz
 
 - Streitkolben hat Rippen zertrümmert, Messer zwischen die Rippen gerammt und beim Drehen Rippen gebrochen.
 
-
+#Weitere Werke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Danke!
 #Warum freie Werke?
 Freie Werke schaffen eine Umgebung, in der Jede jeden Teil ihrer Umgebung nach ihren Wünschen gestalten kann und darf, solange sie die Freiheit von niemand Anderem einschränkt.
 
