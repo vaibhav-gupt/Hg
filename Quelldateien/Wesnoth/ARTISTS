@@ -89,5 +89,8 @@ from data/core/units
 - ruffian-unit.png    ai0867 eleazar esr soliton
 - unit-devel-ruffian-mage-elder.png Arne_Babenhauserheide Sirp ai0867 eleazar esr fmunoz isaac isaaccp ivanovic jetryl queenkiller soliton uid68803 zas 
 
+from data/core/misc
+- battle-for-wesnoth-logo.png: Battle for Wesnoth Art Development Team (using the Info from https://commons.wikimedia.org/wiki/File:Battle_for_Wesnoth_logo.png )
+
 Get the source-repository via: svn co svn://svn.gna.org/svn/wesnoth/trunk/data
 More artist info: svn://svn.gna.org/svn/wesnoth/trunk/data/core/images/portraits/ARTISTS
