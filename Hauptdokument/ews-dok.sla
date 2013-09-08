@@ -1470,7 +1470,7 @@
             <breakframe/>
             <ITEXT CH="Aufzeichnungen"/>
             <para PARENT="Seitenleiste-Titel"/>
-            <ITEXT CH="Tagebücher oder andere Aufzeichnungen über die Abenteuer zu führen verstärkt die Stimmung ungemein, weil die Spielerinnen ihre Charaktere dadurch oft viel tiefer erleben und ihre Erinnerung klarer ist."/>
+            <ITEXT CH="Tagebücher oder andere Auf­­zeich­­nung­­en über die Aben­­teu­­er zu führen verstärkt die Stim­­mung ungemein, weil die Spielerinnen ihre Charaktere dadurch oft viel tiefer erleben und ihre Erinnerung klarer ist."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Außerdem erhalten sie die Spielerfahrungen und lassen die Runden noch Jahre später wieder lebendig werden."/>
@@ -2159,7 +2159,7 @@
             <ITEXT CH="- Sonstiges: Fahrzeug lenken, Insiderwissen, Kalligraphie, Meditieren, Rituale, Selbsthypnose, Sonden steuern, Verschwörungstheorie/Paranoia, Strategie..."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Die genauen Einflüsse der Eigenschaften findest du bei der Charaktererschaffung auf Seite 14."/>
+            <ITEXT CH="Die genauen Einflüsse der Eigenschaften findest du bei den 5 Regeln der Erschaffung auf Seite 20."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -2257,7 +2257,7 @@
             <ITEXT CH="Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durch­­schnitts­­wert ist daher 4."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Einzelheiten zu Wunden findest du ab Seite 24 unter &quot;Auswirkungen von Verletzungen&quot;."/>
+            <ITEXT CH="Einzelheiten zu Wunden findest du ab Seite 23 unter &quot;Auswirkungen von Verletzungen&quot;."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -2296,6 +2296,7 @@
             <breakframe/>
             <ITEXT CH="Mindestwürfe (MW) sind immer ein Vielfaches von 3. Typische Mindestwürfe sind 9 (einfach), 12 (fordernd) und 15 (schwer)."/>
             <para PARENT="EWS Fluss"/>
+            <para PARENT="EWS Fluss"/>
             <ITEXT CH="Hat die Spielerin keine passende Fertigkeit, kann sie auf den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
@@ -2331,7 +2332,7 @@
             <ITEXT CH="Dafür besprechen wir erst kurz die Charakterhefte, in denen Cha­­rak­­tere auf­­ge­­schrie­­ben wer­­den. Da­­nach wählen wir die Machtstufe der Charaktere und geben ihnen Werte, um ihre Fähigkeiten festzulegen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Für den Fall, dass du du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 17 einfache Konvertierungsregeln für die Kosten."/>
+            <ITEXT CH="Für den Fall, dass du du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 19 einfache Konvertierungsregeln für die Kosten."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -2692,7 +2693,7 @@
             <ITEXT CH="Bevor wir aber auf die Details des Kampfes eingehen, müssen wir uns kurz um die Auswirkungen von Verletzungen kümmern."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Modul: Fokus: Kampf (FoKa), Seite 36"/>
+            <ITEXT CH="Modul: Fokus: Kampf (FoKa), Seite 35."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -2992,7 +2993,7 @@
             <ITEXT CH="++ (16)"/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Ein längeres Beispiel gibt es auf S. 33 bis 35."/>
+            <ITEXT CH="Ein längeres Beispiel gibt es auf S. 32 bis 33."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -3057,7 +3058,7 @@
             <ITEXT CH="Um die optimale Zahl von Strichen pro Runde zu berechnen, such einfach die anfängliche Machtstufe der Charaktere heraus und zähle die Dreiecke zusammen. Dann überleg dir die Machtstufe, auf der die Charaktere nach der Kampagne sein sollen und zähle auch hier die Dreiecke zusammen. Die Differenz nimmst du mal drei um die gesamte Zahl an Strichen zu finden, die sie bekommen sollen. Dann teile sie durch die geplante Anzahl der Spielrunden, um eine Richtlinie für die Zahl der Striche pro Spielabend zu erhalten."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Ein Beispiel für die Strichvergabe findest du in der Seitenleiste auf S. 33."/>
+            <ITEXT CH="Ein Beispiel für die Strichvergabe findest du auf S. 34."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <breakframe/>
             <ITEXT CH="Beispielsteigerung"/>
@@ -3181,7 +3182,7 @@
             <ITEXT CH="Die Wundschwelle liegt bei einem Drittel der schon für die Trefferpunkte gewählten Eigenschaft. Bei einem Charakter ohne passende Eigenschaft liegt sie bei 4."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Beispiel: Lazaros Erschaffung auf S. 12."/>
+            <ITEXT CH="Beispiel: Lazaros Erschaffung auf S. 16."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Niedrige Trefferpunkte"/>
@@ -3215,7 +3216,7 @@
             <ITEXT CH="Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 43 bis 46."/>
+            <ITEXT CH="Beispiele für Wunden gibt es in der Seitenleiste auf den Seiten 44 bis 46."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <breakframe/>
             <ITEXT CH="Heilung"/>
@@ -3233,22 +3234,22 @@
             <ITEXT CH="Ein Charakter mit einer Wundschwelle von 4 heilt also 2 Trefferpunkte pro Woche. Hat er eine Wunde, ist es nur noch 1 Punkt pro Woche, mit zwei Wunden oder einer kritischen Wunde heilt er schon nichts mehr und mit zwei kritischen Wunden verliert er sogar zwei Punkte pro Woche, statt zu heilen, d.h. er siecht dahin, da sein Körper mit den Schäden einfach nicht zurecht kommt."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise re­­ge­­ner­­ie­­ren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Trefferpunkte (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Konstitution (18, WS: 6) also jede Woche Schaden nehmen."/>
+            <ITEXT CH="Auch verschiedene weitere Umstände verändern die Heilungsgeschwindigkeit. Beispielsweise re­­ge­­ner­­ie­­ren reisende Charaktere langsamer. Auf einem Schiff heilen sie noch Wundschwelle -3 Tref­­fer­­punk­­te (WS-3 TP) pro Woche, während es bei einem Gewaltmarsch nur noch WS-6 TP sind, Charaktere mit weniger als überragender Kon­­sti­­tu­­tion (18, WS: 6) also jede Woche Schaden nehmen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Weitere Modifikatoren stehen in der Seitenleiste auf Seite 24: Einfluss der Heilungsumstände."/>
+            <ITEXT CH="Weitere Modifikatoren stehen in der Seitenleiste auf Seite 39: Einfluss der Heilungsumstände."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <breakframe/>
             <ITEXT CH="Heilungszeiten"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Ein Charakter mit durchschnittlicher Konstitution (12) und ohne Wunden regeneriert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP."/>
+            <ITEXT CH="Ein Charakter mit durch­­schnitt­­lich­­er Konstitution (12) und ohne Wunden re­­ge­­ne­­riert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (die Wunde heilt in etwas über einem Monat Reisezeit). Er kann es sich also leisten, mit Wunde zu reisen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="In einem Krankenhaus regeneriert ein durchschnittlicher Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2 TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert."/>
+            <ITEXT CH="In einem Krankenhaus regeneriert ein durch­­schnitt­­lich­­er Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2 TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Ein schwacher Charakter (Konstitution: 9) regeneriert dagegen mit Wunde im Krankenhaus nur 2 TP pro Woche, braucht also 14 Tage Heilungszeit. Mit kritischer Wunde werden daraus 1 TP pro Woche und 3 Monate Krankenhaus."/>
@@ -4336,7 +4337,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="23" PTYPE="2" XPOS="127.540740157482" YPOS="7892.4669605685" WIDTH="112.889118110237" HEIGHT="104.859811085043" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/druid.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 112.889 0 112.889 0 112.889 0 112.889 0 112.889 104.86 112.889 104.86 112.889 104.86 112.889 104.86 0 104.86 0 104.86 0 104.86 0 104.86 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 112.889 0 112.889 0 112.889 0 112.889 0 112.889 104.86 112.889 104.86 112.889 104.86 112.889 104.86 0 104.86 0 104.86 0 104.86 0 104.86 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="23" PTYPE="2" XPOS="127.540740157482" YPOS="7900.97089757638" WIDTH="112.889118110237" HEIGHT="104.859811085043" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/druid.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 112.889 0 112.889 0 112.889 0 112.889 0 112.889 104.86 112.889 104.86 112.889 104.86 112.889 104.86 0 104.86 0 104.86 0 104.86 0 104.86 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 112.889 0 112.889 0 112.889 0 112.889 0 112.889 104.86 112.889 104.86 112.889 104.86 112.889 104.86 0 104.86 0 104.86 0 104.86 0 104.86 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4384,7 +4385,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="38" PTYPE="2" XPOS="607.905418754475" YPOS="12530.8942047244" WIDTH="102.75" HEIGHT="99" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/dionli.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 102.75 0 102.75 0 102.75 0 102.75 0 102.75 99 102.75 99 102.75 99 102.75 99 0 99 0 99 0 99 0 99 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 102.75 0 102.75 0 102.75 0 102.75 0 102.75 99 102.75 99 102.75 99 102.75 99 0 99 0 99 0 99 0 99 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="38" PTYPE="2" XPOS="596.566836077309" YPOS="12530.8942047244" WIDTH="102.75" HEIGHT="99" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/dionli.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="102.75 0 102.75 0 0 0 0 0 0 0 0 0 0 99 0 99 0 99 0 99 102.75 99 102.75 99 102.75 99 102.75 99 102.75 0 102.75 0 " NUMCO="16" COCOOR="0 0 0 0 102.75 0 102.75 0 102.75 0 102.75 0 102.75 99 102.75 99 102.75 99 102.75 99 0 99 0 99 0 99 0 99 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4438,7 +4439,7 @@
             <trail PARENT="EWS Fluss"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="34" PTYPE="2" XPOS="574.470379384395" YPOS="11269.3346456693" WIDTH="82.5" HEIGHT="108" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/erlornas.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 82.5 0 82.5 0 82.5 0 82.5 0 82.5 108 82.5 108 82.5 108 82.5 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 82.5 0 82.5 0 82.5 0 82.5 0 82.5 108 82.5 108 82.5 108 82.5 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="34" PTYPE="2" XPOS="577.305025053687" YPOS="11272.1692913386" WIDTH="82.5" HEIGHT="108" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/erlornas.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 82.5 0 82.5 0 82.5 0 82.5 0 82.5 108 82.5 108 82.5 108 82.5 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 82.5 0 82.5 0 82.5 0 82.5 0 82.5 108 82.5 108 82.5 108 82.5 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4446,7 +4447,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="34" PTYPE="2" XPOS="761.970379384396" YPOS="11107.3385826772" WIDTH="105" HEIGHT="105" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/demon-regular.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 105 0 105 0 105 0 105 0 105 105 105 105 105 105 105 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 105 0 105 0 105 0 105 0 105 105 105 105 105 105 105 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="34" PTYPE="2" XPOS="759.135733715104" YPOS="11107.3385826772" WIDTH="105" HEIGHT="105" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/demon-regular.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 105 0 105 0 105 0 105 0 105 105 105 105 105 105 105 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 105 0 105 0 105 0 105 0 105 105 105 105 105 105 105 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4459,6 +4460,14 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="39" PTYPE="2" XPOS="217.478253400143" YPOS="12833.1614173228" WIDTH="76.992125984252" HEIGHT="74.3307086614186" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0464566929133866" LOCALSCY="0.0464566929133866" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/WTactics/axe/battle axe angle rev copy.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 76.9921 0 76.9921 0 76.9921 0 76.9921 0 76.9921 74.3307 76.9921 74.3307 76.9921 74.3307 76.9921 74.3307 0 74.3307 0 74.3307 0 74.3307 0 74.3307 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 76.9921 0 76.9921 0 76.9921 0 76.9921 0 76.9921 74.3307 76.9921 74.3307 76.9921 74.3307 76.9921 74.3307 0 74.3307 0 74.3307 0 74.3307 0 74.3307 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="26" PTYPE="2" XPOS="782.135733715104" YPOS="8719.00444094488" WIDTH="108" HEIGHT="138.75" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/assassin+female.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="108 0 108 0 0 0 0 0 0 0 0 0 0 138.75 0 138.75 0 138.75 0 138.75 108 138.75 108 138.75 108 138.75 108 138.75 108 0 108 0 " NUMCO="16" COCOOR="0 0 0 0 108 0 108 0 108 0 108 0 108 138.75 108 138.75 108 138.75 108 138.75 0 138.75 0 138.75 0 138.75 0 138.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="39" PTYPE="2" XPOS="173.398362204726" YPOS="13156.2170393701" WIDTH="83.9145368647087" HEIGHT="105.814456692915" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/argan.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 83.9145 0 83.9145 0 83.9145 0 83.9145 0 83.9145 105.814 83.9145 105.814 83.9145 105.814 83.9145 105.814 0 105.814 0 105.814 0 105.814 0 105.814 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 83.9145 0 83.9145 0 83.9145 0 83.9145 0 83.9145 105.814 83.9145 105.814 83.9145 105.814 83.9145 105.814 0 105.814 0 105.814 0 105.814 0 105.814 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
