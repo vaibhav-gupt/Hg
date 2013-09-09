@@ -4,7 +4,7 @@
 ## Screen Versions
 #pdfjoin ../../releases/1w6-regeln-2.4.0.pdf ../GPLv3.pdf ../../releases/charheft-vobsy.pdf --outfile ews-dok-2.4.0.pdf
 pdfjoin --no-landscape  --rotateoversize 'false' ../../releases/1w6-regeln-2.6.0.pdf ../../releases/charheft-vobsy.pdf --outfile 1w6-regeln-2.6.0.pdf
-pdfjoin --no-landscape  --rotateoversize 'false' ../../releases/1w6-regeln-2.6.0.pdf ../GPLv3.pdf ../../releases/charheft-vobsy.pdf --outfile 1w6-regeln-2.6.0-mit-lizenz.pdf
+pdfjoin --no-landscape  --rotateoversize 'false' ../../releases/1w6-regeln-2.6.0.pdf ../GPLv3-4-seiten.pdf ../../releases/charheft-vobsy.pdf --outfile 1w6-regeln-2.6.0-mit-lizenz.pdf
 
 ## Booklet
 pdfnup --no-landscape --nup 1x1 --outfile part1.pdf --  ../../releases/1w6-regeln-2.6.0.pdf  1-24
