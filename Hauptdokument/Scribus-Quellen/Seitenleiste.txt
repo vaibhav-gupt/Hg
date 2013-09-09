@@ -176,7 +176,7 @@ Die Charaktere können über das Schicksal ihres Landes mit­ent­schei­den.
 #Waffen und Rüstung
 Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird.
 
-**Sie kosten einen Punkt je angefangene 9 Punkte Rüstung + Schaden. Je nach Hintergrund können 3 bis 5 Punkte gratis sein, wenn eine Minimalbewaffnung der Normalfall ist.
+**Sie kosten einen Punkt je angefangene 9 Punkte Rüstung + Schaden. Je nach Hintergrund können 3 bis 5 Punkte gratis sein, wenn eine Mi­ni­mal­be­waff­nung der Nor­mal­fall ist.
 
 Auf S. 40 gibt es eine Liste mit Beispielwaffen und Rüstungen.
 
