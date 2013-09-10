@@ -53,11 +53,11 @@ Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens 
 
 MW: Name (Chance)
 
-- 6: routine (6/6)
-- 9: einfach (5/6)
-- 12: fordernd (1/2)
-- 15: schwer (1/3)
-- 18: heikel (1/6)
+- 6: routine (6/6) = 100%
+- 9: einfach (5/6) ~ 83%
+- 12: fordernd (1/2) = 50%
+- 15: schwer (1/3) ~ 33%
+- 18: heikel (1/6) ~ 17%
 
 Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9), so dass nur jeder 6. Versuch fehlschlägt.
 Jobs, deren Schwierigkeit höher liegt, verlangen Son­der­quali­fi­ka­tio­nen oder haben recht niedrige Erfolgs- oder Über­le­bens­ra­ten.
@@ -124,7 +124,7 @@ Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beid
 #Beruf und Einkommen
 Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt (sonst wäre er wohl nicht am Leben), egal ob das nun ein Job ist, oder die Suche nach Schätzen in Gebieten, die normalerweise genug abwerfen. Ob der Job ausgespielt wird ist dabei nebensächlich.
 
-Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersezt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen.
+Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersetzt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen.
 
 Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal „Reich“ wählen, das ihm das fünffache Einkommen beschert.
 
@@ -202,11 +202,11 @@ Persönliche Gegenstände können allerdings tolle Aufhänger für Geschichten s
 
 Sind  die persönlichen Ge­gen­stän­de All­tags­ge­gen­stän­de, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen).
 
-Sind sie auch Waffen oder Rüstung, müssen sie wie diese gekauft werden (vorheriger Abschnitt der Seitenleiste).
+Sind es Waffen oder Rüstung, müssen sie wie diese gekauft werden (vorheriger Abschnitt der Seitenleiste).
 
 Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persönliche Gegenstände gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig.
 
-Bei Zugriff auf Waffen zählt nur die stärkste mögliche Waffe.
+Bei Zugriff auf Waffen (von denen der Charakter meist nur eine dabei hat) zählt nur die stärkste mögliche Waffe.
 
 #Merkmale aus Gurps®
 Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale.
