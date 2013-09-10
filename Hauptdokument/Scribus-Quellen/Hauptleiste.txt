@@ -20,7 +20,7 @@ Die meisten Module findest du auf
 #Grundlagen
 
 **Ein Charakter im EWS wird durch Eigenschaften, Fertigkeiten und Merkmale beschrieben, die jede Spielerin frei wählen kann. Alternativ können sie von der Spielleiterin (SL) vorgegeben oder aus Gurps® oder Fudge™ übernommen werden.
-**Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (6 ist armselig, 9 schwach, 12 durchschnitt, 15 erfahren und 18 überragend).
+**Eigenschaften und Fertigkeiten haben bei normalen Menschen Werte zwischen 6 und 18, denen jeweils Namen zugeordnet sind (6 ist armselig, 9 schwach, 12 durchschnittlich, 15 erfahren und 18 überragend).
 
 **Handlungen werden durch einen einzelnen Wurf mit einem W6 entschieden. Eine gerade Zahl wird dabei zu dem Wert einer passenden Eigenschaft oder Fertigkeit addiert, eine ungerade abgezogen (so zu würfeln heißt ±W6).
 
@@ -120,7 +120,9 @@ Sie lassen sich in etwa beschreiben als etwas, das man entweder hat oder nicht h
 
 Während jeder Mensch eine gewisse Ausdauer hat, sind Merkmale zum Beispiel ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen.
 
-**Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden.
+**Merkmale können entweder frei entworfen, aus der jeweiligen Hintergrundwelt gewählt oder aus den Vor- und Nachteilen von Gurps® oder Fudge™ übernommen werden (siehe S. 19).
+
+Merkmale mit „-“ entsprechen schwachen Eigenschaften mit Wert 9, Merkmale mit „+“ entsprechen starken Eigenschaften mit Wert 15.
 
 ##Beispiele für Merkmale
 
@@ -140,7 +142,7 @@ Sinnlose Kombinationen sind dabei ausgeschlossen (z.B. "Gehirn in einem Kasten" 
 
 Für Kämpfe hat ein Charakter außerdem eine Wundschwelle.
 
-**Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durch­schnitts­wert ist daher 4.
+**Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durch­schnitts­wert für Charaktere ohne passende Eigenschaft ist daher 4.
 
 <fuss>Einzelheiten zu Wunden findest du ab Seite 23 unter "Auswirkungen von Verletzungen".
 
@@ -157,7 +159,7 @@ Solche Proben kommen zum Beispiel bei Stenographie, Kochen und Bogenschießen zu
 
 **Diese Art zu würfeln wird von nun an als ±W6 bezeichnet.
 
-Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit dem Mindestwurf der Probe verglichen. Der Mindestwurf (Kürzel: MW) gibt die Schwierigkeit der Probe an.
+Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit dem Mindestwurf der Probe verglichen. Der Mindestwurf gibt die Schwierigkeit der Probe an.
 
 **Erreicht der Wert den Mindestwurf oder liegt er darüber, dann gelingt die Probe.
 
@@ -165,7 +167,9 @@ Der erzielte Wert gibt direkt das Ergebnis der Probe an und wird mit dem Mindest
 
 **Liegen Eigenschaft oder Fertigkeit bereits 6 oder mehr Punkte über der Schwierigkeit, gelingt die Probe auch ohne Wurf automatisch (Ausnahmen bestimmt die Spielleiterin).
 
-Mindestwürfe (MW) sind immer ein Vielfaches von 3. Typische Mindestwürfe sind 9 (einfach), 12 (fordernd) und 15 (schwer).
+Mindestwürfe sind immer ein Vielfaches von 3. Typische Mindestwürfe sind 9 (einfach), 12 (fordernd) und 15 (schwer).
+
+Die Differenz des Ergebnisses zum Mindestwurf der Probe zeigt, wie deutlich der Charakter die Probe schafft. Je 3 Punkte gelten dabei als eine „Schwelle“, da damit ein höherer Mindestwurf bestanden würde.
 
 Hat die Spielerin keine passende Fertigkeit, kann sie auf den Wert einer verwandten Fertigkeit minus 3 oder einer Eigenschaft minus 9 ausweichen.
 
@@ -178,7 +182,9 @@ Hat die Spielerin keine passende Fertigkeit, kann sie auf den Wert einer verwand
 
 Wettstreite werden genutzt, wenn die Anwendung einer Fertigkeit oder Eigenschaft auf aktiven Widerstand trifft.
 
-**Dazu würfeln beide Beteiligten wie bei einer einfachen Probe, und ihre Ergebnisse werden verglichen. Diejenige mit dem höheren Ergebnis gewinnt den Wettstreit und die Differenz der Ergebnisse gibt an, wie deutlich sie gewinnt. Haben sie gleiche Ergebnisse, dann gewinnt diejenige, die angefangen hat.
+**Dazu würfeln beide Beteiligten wie bei einer einfachen Probe, und ihre Ergebnisse werden verglichen. Diejenige mit dem höheren Ergebnis gewinnt den Wettstreit und die Differenz der Ergebnisse gibt an, wie deutlich sie gewinnt. Haben sie beide das gleiche Ergebniss, dann gewinnt diejenige, die angefangen hat.
+
+Auswirkungen eines Wettstreites werden oft in Schwellen gegeben: 1 Schwelle je 3 Punkte Differenz.
 
 **Unabhängig davon, wer gewinnt, zeigt die absolute Höhe der Ergebnisse, wie gut der jeweilige Charakter sich geschlagen hat.
 
@@ -187,9 +193,9 @@ Ein Schwertkampf zwischen Meistern sieht meist anders aus, als eine Messersteche
 
 Nachdem wir jetzt wissen, wie das Ergebnis von Handlungen bestimmt wird, kommen wir zum nächsten Teil: Der Erschaffung der Charaktere.
 
-Dafür besprechen wir erst kurz die Charakterhefte, in denen Cha­rak­tere auf­ge­schrie­ben wer­den. Da­nach wählen wir die Machtstufe der Charaktere und geben ihnen Werte, um ihre Fähigkeiten festzulegen.
+Dafür besprechen wir erst kurz die Charakterhefte, in denen Cha­rak­tere auf­ge­schrie­ben wer­den. Da­nach wählen wir die Machtstufe der Charaktere und legen wir ihre Fähigkeiten fest, indem wir ihnen Werte geben.
 
-<fuss>Für den Fall, dass du du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 19 einfache Konvertierungsregeln für die Kosten.
+<fuss>Für den Fall, dass du Vor- und Nachteile aus Gurps® oder Fudge™ übernehmen willst, bietet die Seitenleiste auf Seite 19 einfache Konvertierungsregeln für die Kosten.
 
 #Das Charakterheft
 
@@ -230,7 +236,7 @@ Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die 
 
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
 
-**Ein angehender Held kann 7 starke Werte wählen: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 starken Werten.
+**Ein angehender Held kann 7 Werte wählen, in denen er gut ist: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 guten Werten.
 
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll.
 
@@ -388,7 +394,7 @@ Wenn ein Charakter Wunden hat, kann seine Spielerin jede Woche auf eine passende
 
 Zusätzlich steigt der Mindestwurf um 3 pro Wunde.
 
-**MW = Grundmindestwurf + 3 pro Wunde.
+**Mindestwurf = Grundmindestwurf + 3 pro Wunde.
 
 *Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde, wenn er trotzdem weiterarbeitet, durchschnittllich 3 Wochen. Trägt er zwei Wunden davon, heilt er die erste in etwa 6 Wochen und die zweite in 3 weiteren. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, wird er gut 2 Monate lang nur stark eingeschränkt arbeiten können. Gönnt er sich Ruhe, fällt er etwa einen Monat lang ganz aus.
 
