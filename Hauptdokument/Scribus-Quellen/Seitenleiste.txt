@@ -1,0 +1,582 @@
+#Willkommen im EWS!
+Ich bin Drak, und ich werde dir in diesem Heft mit Ratschlägen zur Seite stehen und dir helfen, deinen eigenen Weg in die vielen Mög­lich­kei­ten des 1w6-Systems zu finden.
+
+Ein paar Worte zu dem Heft, das nun vor dir liegt.
+
+Du findest hier die wichtigsten Grundregeln, die du brauchst, um mit dem EWS zu spielen, auch wenn sich ein paar Zusatzregeln eingeschlichen haben. Die sollten allerdings erkennbar sein, und ihr könnt und sollt sowieso selbst entscheiden, welche Regeln für eure Runde Sinn ergeben.
+
+Grundtexte sind dabei im Haupttext, Optionales, Hin­ter­grün­de und Ideen (wie diese Vorrede) in der Sei­ten­lei­ste. Für bessere Über­sicht­lich­keit nutzen wir ei­ge­ne Schriftstile
+
+*für Beispiele und
+
+<fuss>für Verweise auf anderes.
+Zusätzlich zu den Infos über weitere Quellen (z.B. Module, die zum jeweiligen Abschnitt passen) findest du von mir dann und wann Anmerkungen, kleine Tipps und Hinweise, die für die meisten Runden nützlich sein sollten.
+
+Bevor du die Tipps einfach übernimmst, solltest du al­ler­dings wie bei optionalen Regeln selbst überlegen, ob sie für deine Gruppe sinnvoll sind, völlig egal was ich hier schreibe. Das wichtigste beim Spielen ist und bleibt, dass ihr alle Spaß habt.
+
+Oh, und noch was:
+Ich duze dich, denn schließlich bin ich, wenn man der My­tho­lo­gie glauben darf, mindestens 3000 Jahre älter als du und damit ein altehrwürdiges Wesen, dem man Respekt zollen muss.
+
+Entsprechend solltest du mich zurückduzen.
+- Drak
+
+#Was du brauchst
+Für ein Spiel braucht deine Runde genau einen Würfel und einen Stift für jede Beteiligte, dazu ein Charakterblatt für jede Spielerin und Papier für Notizen für die Spielleiterin. In Zeiten der Not reichen also selbst die Würfel aus einem Monopoly-Spiel, ein paar Taschentücher und ein Stückchen Kohle. Alternativ ein Handtuch.
+
+<fuss>Module dazu: Alternative Zufallssysteme (AZul). Falls ihr keine Würfel zur Hand habt: Schere Stein Papier (SchP).
+
+#Namen und Werte
+Den Werten von Eigenschaften, Fertigkeiten und Berufen sind Namen zugeordnet.
+
+6 Armselig
+7 Lausig
+------
+8 Dürftig
+9 Schwach
+10 Mäßig
+------
+11 Unterdurchschnittlich
+12 Durchschnittlich
+13 Überdurchschnittlich
+------
+14 Routiniert
+15 Erfahren
+16 Sehr Gut
+------
+17 Ausgezeichnet
+18 Überragend
+
+<fuss>Beschreibungen findest du auf
+<fuss>- http://werte.1w6.org
+#Mindestwürfe
+Mindestwürfe sind im Gegensatz zu Eigenschafts- und Fertigkeitswerten meistens ein Vielfaches von 3. Wie deren Werte tragen auch die verschiedenen Mindestwürfe Namen. Für einen Charakter mit durchschnittlicher Fertigkeit oder Eigenschaft (12) ergeben sich die fol­gen­den Er­folgs­wahr­schein­lich­kei­ten:
+
+MW: Name (Chance)
+
+- 6: routine (6/6) = 100%
+- 9: einfach (5/6) ~ 83%
+- 12: fordernd (1/2) = 50%
+- 15: schwer (1/3) ~ 33%
+- 18: heikel (1/6) ~ 17%
+
+Die meisten Aufgaben in einem normalen Job sind für gewöhnliche Arbeiter einfach (9), so dass nur jeder 6. Versuch fehlschlägt.
+Jobs, deren Schwierigkeit höher liegt, verlangen Son­der­quali­fi­ka­tio­nen oder haben recht niedrige Erfolgs- oder Über­le­bens­ra­ten.
+
+<fuss>Module zu Proben: Kritische Erfolge und Patzer (Krit).
+#Die Namen stimmen
+Während des Designs wurde großer Wert darauf gelegt, dass die Namen von Werten wirklich mit den regeltechnischen Auswirkungen übereinstimmen.
+
+Gleichstarke Gegner sind daher übrigens wirklich gleich stark und damit gefährlich.
+
+#Boni auf Fertigkeitswerte
+Jede Fertigkeit erhält Boni aus bis zu zwei passenden Ei­gen­schaf­ten. Welche Eigenschaften das sind legt die Spielerin jeweils bei der Erschaffung fest.
+
+*Hat ein Charakter zum Beispiel die Fertigkeit Kochen und die Eigenschaften sehr guter Geruchssinn (15) und sehr gute Intuition (15), könnte die Spielerin entscheiden, dass ihr Charakter vor allem nach seiner Nase und seiner Intuition kocht und daher diese beiden Eigenschaften Boni auf seinen Wert in Kochen geben.
+
+<fuss>Wird das Steigerungsmodul (SteM) genutzt, können die Eigenschaften bei der Stei­gerung geändert werden.
+
+#Wann würfeln?
+Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als auch noch nicht entschieden sind.
+
+Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine Horde Wildschweine heranrennt.
+
+#Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
+Als Faustregel zur Unter­schei­dung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (Effektivwert 10).
+
+Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14).
+
+Spezialisierungen sind Unterbereiche einer Fertigkeit und betreffen nur ein sehr enges Gebiet.
+
+#Beruf oder Hintergrund?
+Berufe sind hier Tätigkeiten, die der Charakter aktuell ausübt, während Hintergründe frühere Tätigkeiten und die Herkunft des Charakters beschreiben.
+
+Der Hintergrund ist, was ihn geformt hat, der Beruf, was er jetzt tut.
+
+Regeltechnisch werden beide gleich behandelt.
+
+
+#Breite Berufe
+Manche Berufe geben ein riesiges Spektrum an Fertigkeiten.
+
+Diese Berufe kosten soviel wie ein drei Punkte höherer normaler Beruf.
+
+Beispiele sind Friedensstifter, Entwicklungshelfer und Geheimagent.
+
+*Beispiel: Taban ist seit 3 Jahren Entwicklungshelferin im Heimatland ihrer Eltern.
+*Sie beherrscht eine Vielzahl Fertigkeiten, vom Verhandeln mit örtlichen Milizen über grundlegende Selbstverteidigung und die Kunst des Überlebens in der Wildnis bis zu Erster Hilfe und traditioneller Medizin, dazu Organisation, Lehren und vieles mehr. *Allerdings beherrscht sie sie nicht wirklich gut.
+*All diese Fertigkeiten sind durch ihren breiten Beruf abgedeckt:
+
+**+: Unerfahrene Entwick-lungshelferin: 6
+
+
+#Eigenschaft, Fertigkeit oder Merkmal?
+Nachdem du aus der Beschreibung deines Charakters Eigenschaften gefunden hast, kannst du daraus auch deine Merkmale und Fertigkeiten finden.
+
+Dabei sind Merkmale Beschreibungen, die normale Menschen nicht haben.
+
+Fertigkeiten dagegen sind erarbeitetes Können, das all denen zur Verfügung steht, die es gelernt haben (ob nun durch bewusstes Training oder regelmäßige Nutzung).
+
+Während jeder Mensch eine gewisse Kraft hat, sind ein photographisches Gedächtnis oder die Fähigkeit unter Wasser zu atmen Merkmale, die man entweder hat oder nicht hat.
+
+Auf ähnliche Art kann nicht jede Auto fahren oder Bogen schießen, doch da beides lernbar ist, werden Fahren und Fern­kampf als Fertigkeiten ge­wählt.
+
+
+#Beruf und Einkommen
+Normalerweise hat ein Charakter ein Einkommen, das seinen Lebensunterhalt deckt (sonst wäre er wohl nicht am Leben), egal ob das nun ein Job ist, oder die Suche nach Schätzen in Gebieten, die normalerweise genug abwerfen. Ob der Job ausgespielt wird ist dabei nebensächlich.
+
+Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersetzt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen.
+
+Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal „Reich“ wählen, das ihm das fünffache Einkommen beschert.
+
+Kein sicheres Einkommen bedeutet, dass der Charakter jeden Tag bangen muss, ob er genug zum Essen haben wird.
+
+Merkmale: Reich (+), Kein sicheres Einkommen (‑)
+
+#Schwache Eigenschaften
+Eigenschaften mit Werten unter 12 repräsentieren Schwächen des Charakters. Sie sind ein Weg für Spielerinnen, der Spielleiterin zu sagen, dass sie bestimmte Problemsituationen erleben will. 
+
+Daher ist es die gemeinsame Aufgabe von Spielerin und Spielleiterin, diese Schwächen sichtbar werden zu lassen. Sie dienen dazu, den Charakter in spannende Situationen zu bringen, oder aber bestimmte Aufgaben an andere Charaktere abzugeben.
+
+Wo immer es ihr passend erscheint, sollte die Spielleiterin die Spielerin daher auf die Eigenschaft würfeln lassen - es sei denn die Spielerin entscheidet, dass sie nicht würfeln, sondern lieber direkt die Auswirkungen der Schwäche annehmen will.
+
+<fuss> Wenn euch diese Effekte von Schwächen zu gering sind, könntet ihr mit dem Modul Schwache Eigenschaften Triggern (Trig) glücklich werden: Es bietet ein System, um die Schwächen regeltechnisch stärker sichtbar werden zu lassen.
+#Beispielcharaktere
+In diesem und den folgenden Abschnitten wirst du auf zwei Charaktere treffen. Ich möchte sie hier kurz vorstellen:
+
+*Lazaro - Ein Degenheld, Diplomat und Charmeur direkt aus Mantel und Degen Abenteuern.
+
+*Stahlkatze - Ein chromglänzender, schwarzer Katzenmensch. Ein Avatar in einer Kampfsimulation im Netz.
+
+
+Und wo wir gerade am Vorstellen sind:
+
+*Sven - Ein Spieler in einer EWS-Runde. Der Spieler von Lazaro.
+
+Anmerkung: Sven ist genau wie Lazaro eine Schöpfung unserer Fantasie, die dabei hilft, das System zu veranschaulichen.
+
+Stahlkatze gibt es dagegen wirklich (als SC).
+
+
+#Machtniveaus
+Bei der Erschaffung kann deine Spielrunde zwischen verschiedenen Machtniveaus wählen. Hier sind vier davon beschrieben:
+
+- Spiel ganz unten:
+Die Charaktere sind schwächer als die Menschen, denen wir täglich begegnen.
+
+- Angehende Helden:
+Es ist deutlich, dass sie das Zeug zum Helden (oder Schurken) haben, aber noch spielen sie in einer anderen Klasse.
+
+- Erfahrene Helden:
+Die Charaktere gehören zu den mächtigeren Personen in der Hintergrundwelt und haben meistens die Mittel und Wege, ihren Willen durchzusetzen.
+
+- Beweger:
+Die Charaktere können über das Schicksal ihres Landes mit­ent­schei­den.
+
+
+#Waffen und Rüstung
+Waffen und Rüstung, werden als Merkmale gekauft, wenn sie den Charakter mit ausmachen und er sie wohl den größten Teil des Spiels haben wird.
+
+**Sie kosten einen Punkt je angefangene 9 Punkte Rüstung + Schaden. Je nach Hintergrund können 3 bis 5 Punkte gratis sein, wenn eine Mi­ni­mal­be­waff­nung der Nor­mal­fall ist.
+
+Auf S. 40 gibt es eine Liste mit Beispielwaffen und Rüstungen.
+
+Besonderheiten erhöhen die effektiven Kosten:
+
+Eine verborgenen Waffe oder Rüstung kostet doppelt, Waffen mit Gift oder Waffen, die die Rüstung ignorieren, kosten dreifach.
+
+Waffen mit Flächenschaden kosten bis 5 Personen doppelt. Wenn sie normalerweise über 5 Personen treffen, kosten sie viermal so viel.
+
+Betäubungswaffen kosten gleich viel, ermöglichen es aber, Gegner ohne Erschwernis zu besiegen, ohne sie zu verletzen (Erschwernis: Siehe S. 26, Seitenleiste).
+
+
+#Persönliche Gegenstände
+Im EWS gibt es zwei Arten von Ausrüstung: Normalen Besitz und persönliche Gegenstände.
+
+Normaler Besitz wird mit Geld gekauft, kann leicht mal zerbrechen, verloren gehen, gestohlen werden, usw.
+
+Persönliche Gegenstände dagegen werden als Merkmale gekauft und gelten als Teil des Charakters.
+
+Wenn ein Charakter seinen persönlichen Gegenstand verliert, geht ihm ein Teil seiner selbst verloren, was in etwa so schwerwiegend ist, wie der Verlust eines Auges oder Armes, und die Spielleiterin sollte vorher auch entsprechend gründlich darüber nachdenken.
+
+Persönliche Gegenstände können allerdings tolle Aufhänger für Geschichten sein, schließlich wäre auch Indy ohne seinen Hut nicht Indy, und wer weiß, was er tun würde, um ihn sich zurück zu holen.
+
+Sind  die persönlichen Ge­gen­stän­de All­tags­ge­gen­stän­de, kann die SL mit den Spielern abmachen, dass sie zwar nicht immer genau diesen Gegenstand haben werden, dass sie aber immer wieder einen von dieser Art finden werden (auch wenn sie vielleicht manchmal etwas Geld dafür zahlen müssen).
+
+Sind es Waffen oder Rüstung, müssen sie wie diese gekauft werden (vorheriger Abschnitt der Seitenleiste).
+
+Anmerkung: Generell müssen bei der Erschaffung alle Waffen und aller Zugriff auf Waffen als persönliche Gegenstände gekauft werden, es sei denn, sie werden den Charakteren von NSCs der SL gestellt oder sind in der Kampagne unwichtig.
+
+Bei Zugriff auf Waffen (von denen der Charakter meist nur eine dabei hat) zählt nur die stärkste mögliche Waffe.
+
+#Merkmale aus Gurps®
+Da Gurps® bereits eine riesige Liste an Vor- und Nachteilen bietet, die im EWS genutzt werden können, und da das EWS schlank bleiben soll, gibt es in diesem Regelheft nur eine kleine Auswahl an interessanten Ideen für Merkmale.
+
+Um Vor- und Nachteile aus Gurps als Merkmale zu nutzen, existiert eine einfache Schematik, die Kosten in Gurps auf Plusse im EWS überträgt.
+
+Dabei entspricht ein Δ etwa 18 CP aus Gurps, und es entstehen die folgenden Werte:
+1w6 <-> Gurps®
++ <-> bis 18 CP
+++ <-> bis 54 CP
++++ <-> bis 108 CP
+++++ <-> bis 180 CP
+
+Für Nachteile gilt das gleiche Schema, nur im Negativen.
+
+#Merkmale aus Fudge™
+Aus Fudge™ könnt ihr Merkmale übernehmen, indem ihr einfach jedes Fudge "+" oder "-" als vobsy "+" oder "-" rechnet.
+Modifikatoren auf Proben oder Werte werden dabei ver­drei­facht.
+
+#Welche Eigenschaften für welchen Charakter?
+Die Eigenschaften des Charakters formen die Wahrnehmung, die andere von ihm erhalten, und entsprechend sollte schon der Klang der Eigenschaften das Bild des Charakters im Geist entstehen lassen.
+
+Wenn du nun Eigenschaften wählst, frag dich erst "Wodurch hebt sich mein Charakter von der Masse ab?" und such dir für diese Unterschiede möglichst passende Namen, die später das sein können, was von deinem Charakter in Erinnerung bleibt.
+
+Diejenigen Unterschiede, die vor allem aus natürlicher Begabung oder Unfähigkeit in einem bestimmten Bereich stammen, den jeder Mensch irgendwie hat, sind die Eigenschaften des Charakters. Jeder Mensch hat einen gewissen Sexappeal, aber nur wenn er deutlich über oder unter dem Durchschnitt liegt, werden sich die Leute daran erinnern und ihn eine Eigenschaft der Person nennen.
+
+*Beispielsweise ist Lazaro sehr gewandt und charismatisch und auf seinen Stil bedacht. Daher trägt er auch regeltechnisch die Eigenschaften Gewandtheit, Charisma und persönlichen Stil.
+
+*Wenn nun Lazaros Spieler gefragt wird, was anderen bei seinem Charakter auffällt, kann er sich sehr leicht an seinen Eigenschaften orientieren und Lazaros grazile Bewegungen ("als würde er immer tanzen"), seine entspannende Ausstrahlung ("der sich kaum einer seiner Gesprächspartner entziehen kann. Wer Lazaros Gegenwart verlässt, trägt fast immer ein Lächeln auf den Lippen") und seinen einzigartigen Kleidungs- und Sprachstil beschreiben.
+
+
+#Spätfolgen
+In unserer Welt haben Wunden oft bleibende Folgen. Wenn es den Spielern gefällt, können sie daher wichtige Wunden notiert lassen, und sich schöne Effekte überlegen (z.B. Wetterfühligkeit).
+
+#Andere Schadensarten
+Charaktere können nicht nur körperliche Verletzungen davontragen, sondern auch auf verschiedenste andere Arten Schaden nehmen.
+
+Ein Beispiel ist mentaler Schaden (kurz):
+Die mentale Wundschwelle berechnet sich hier aus dem Drittel einer passenden Eigenschaft (z.B. Willenskraft). Durchschnittlich ist sie 4.
+
+Wunden sind zeitweise Psychosen, Schrecken, Panik, uvm., und sie schwächen wie körperliche Wunden (-3 auf Proben pro Wunde).
+
+Eine mentale Wunde kann vernarben. Die Wunde wird zu einem passenden Nachteil (-) (z.B. Phobie) und verschwindet dafür.
+
+
+#Waffenloser Kampf
+Kämpft ein Charakter waffenlos gegen einen bewaffneten Gegner, so erhält er allgemein 3 Punkte Malus auf den Wert seiner Kampffertigkeit.
+
+Das Gleiche gilt für den Kampf mit sehr kurzer gegen sehr lange Waffe, z.B. Dolch gegen Schwert oder Schwert gegen Lanze.
+
+Diese Regel kann (und sollte) allerdings von der SL je nach Situation angepasst werden.
+
+In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für den Gegner sinnvoller wird, das Schwert fallen zu lassen.
+
+#Deckung
+Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben.
+
+#Kombinieren von Kampftaktiken
+Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vorsichtig" und "Um Leben und Tod" zusammen beim Verlieren trotzdem den Tod nach sich ziehen. Flucht und "Um Leben und Tod" heben sich allerdings gegenseitig auf.
+
+#Gewinnen ohne zu verletzen
+Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nur kampfunfähig zu machen, erhält dann aber 3 Punkte Malus.
+
+Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf den zugefügten Schaden verzichten.
+
+#Punkte schinden
+Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegen­steuern:
+
+"Jede Schwäche wird wichtig."
+
+Was immer die Spielerinnen wählen, es sollte im Spiel drankommen.
+
+Ansonsten ignorier' die Punkte­schinderei einfach. Sie scheint der Spielerin schließlich Spaß zu machen, und nicht jede Spielerin macht sich viele Gedanken darum, ob einer der Charaktere stärker ist als der Rest, solange er ihrem eigenen Charakter nicht die Show stiehlt, und dafür kannst du als Spielleiterin sorgen.
+
+<fuss>Ein paar Tipps dafür findest du unter SL-Tipps.de
+
+#Module selbst entwickeln
+Eine der Hauptstärken des EWS ist, dass es sauber durch Mo­dule anpassbar ist.
+
+Unterstützung zum Schreiben von eigenen Modulen findest du auf der Seite
+- eigene-module.1w6.org
+
+Sie bietet bereits vorgefertigte Regelmechanismen, die durch­ge­rech­net sind und direkt für Module verwendet werden kön­nen.
+
+Die Anforderungen an ein Modul sind eine Einleitung, die auch den wahrscheinlichen Effekt auf das Spielgefühl beschreibt, ein Hauptteil, der Details liefert, und mindestens ein Beispiel, das die Nutzung zeigt.
+
+Ein Modul für das EWS muss unter der selben freien Lizenz stehen (siehe Epilog), wenn du es ver­öf­fent­lich­en willst.
+
+- module.1w6.org
+
+
+#Warum noch ein Rollenspielsystem?
+Es gibt schon viele Rollenspiele auf dem Markt und im Netz, doch ein paar Punkte heben das EWS von ihnen ab. Sie sind für mich ein Grund, es immer weiter zu entwickeln.
+
+Drei davon sind:
+
+- Es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite).
+Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund­prinzipien auf und nutzt Module für Er­wei­terung­en.
+
+- Es vermeidet Überladung der Charakterhefte durch  die Einführung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben.
+
+- Und es braucht nur einen 6-seitigen Würfel.
+
+#Eigenschaften steigern, um Fertigkeiten zu verbessern
+Da Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spielerinnen ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen.
+
+Zur Berechnung der Kosten einer Fertigkeits-Steigerung wird immer der Grundwert ohne Eigenschaftsboni genommen, so dass es bei hohen Fertigkeitswerten und niedrigen Eigenschaften oft ratsam ist, erst die Eigenschaften zu steigern, vor allem weil eine Eigenschaft ohne Schwierigkeiten als Basis für viele unterschiedliche Fertigkeiten dienen kann.
+
+Auch im echten Leben nutzen wir unsere Stärken auf verschiedene Arten, und wie im Leben, soll im EWS ein Gleichgewicht zwischen der Steigerung der Fertigkeiten und der Eigenschaften sinnvoll sein.
+
+#Neue Eigenschaften und Fertigkeiten
+Wenn eine Spielerin einem Charakter eine neue Fertigkeit oder Eigenschaft geben will, kann sie sie mit Strichen kaufen.
+
+Bei Eigenschaften wird einfach von 12 aufwärts gesteigert (d.h. mit einem Strich pro Punkt bis zum ersten Plus).
+
+12 kostet hier nichts, da das der Wert einer durchschnittlichen Eigenschaft ist.
+
+Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (unterdurchschnittlich), und der dritte erhöht den Wert auf 12 (durchschnittlich).
+
+Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 6 (fast alles davon schonmal probiert), zwei geben 8 (dürftig), drei geben 9 (schwach).
+
+Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten.
+
+
+
+#Spezialisierungen
+Spezialisierungen decken kleine Unterbereiche einer Fertigkeit ab.
+
+Sie werden wie normale Fertigkeiten gesteigert, doch die ersten drei Striche geben nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3.
+
+Die ersten drei Striche geben hier jeweils einen Punkt.
+
+Wenn die Grundfertigkeit einer Spezialisierung gesteigert wird, dann steigt auch die Spezialisierung um den gleichen Wert.
+
+Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der Grundfertigkeit vermerkt.
+
+*Wollte Lazaro sich zum Beispiel in der "Kunst des Flirtens" auf "Damen von Adel" spezialisieren, würde ihn eine Steigerung dieser Spezialisierung um einen Punkt nur einen Strich kosten:
+
+**Kunst des Flirtens (Damen von Adel): 13+2 = 15 (16)
+#Punkte für gutes Rollenspiel?
+Es hat sich in vielen Systemen eingebürgert, Punkte für gutes Rollenspiel zu vergeben.
+
+Ob das für deine Gruppe sinn­voll ist, hängt von deinen Spie­ler­in­nen ab.
+
+In jedem Fall aber ist es sinnvoll, nach der Runde über die schönsten Szenen zu reden, und ihr solltet dafür am Ende jeder Runde Zeit einplanen und frei halten.
+
+Wenn ihr das durch die Punktevergabe schafft, ist sie wahrscheinlich sinnvoll.
+#Aufzeichnungen
+Tagebücher oder andere Auf­zeich­nung­en über die Aben­teu­er zu führen verstärkt die Stim­mung ungemein, weil die Spielerinnen ihre Charaktere dadurch oft viel tiefer erleben und ihre Erinnerung klarer ist.
+
+Außerdem erhalten sie die Spielerfahrungen und lassen die Runden noch Jahre später wieder lebendig werden.
+
+
+#Erschöpfung
+Um die Aus­dau­er der Cha­rak­te­re und ihr Durch­hal­te­ver­mö­gen besser ein­schät­zen zu können, und vor allem auch für Magie, Psi und ähn­li­ches, kann Er­schöp­fung mit ein­be­zo­gen werden.
+
+Erschöpfung wird berechnet wie die Trefferpunkte, muss al­ler­dings auf einer anderen Ei­gen­schaft aufbauen (deren Wert die Ausdauer des Cha­rak­ters ergibt).
+
+Die Spielerin kann sich selbst aussuchen, welche passende Eigenschaft sie für Er­schöp­fung nehmen will und welche für Trefferpunkte.
+
+Abzüge durch nied­rige Er­schöp­fung werden behandelt wie bei den Trefferpunkten.
+
+
+#Regeneration von Erschöpfung
+Normale Charaktere re­ge­ne­rie­ren pro Stunde Er­schöp­fungs­punk­te in Höhe ihrer Er­schöp­fungs­schwel­le (1/3 der ge­wähl­ten Eigenschaft), also durch­schnitt­lich 4 Punkte, das heißt einen Punkt alle 15 Minuten.
+
+Eine Nacht Schlaf heilt im allgemeinen die Erschöpfung vollständig.
+
+#Schaden durch Erschöpfung
+Wenn ein Charakter  Er­schöp­fung in Höhe der Er­schöp­fungs­schwel­le auf einen Schlag erhält, z.B. im waf­fen­lo­sen Kampf, bekommt er zu­sätz­lich einen Punkt Schaden (auf TP).
+
+Dieser Schaden entspricht Rip­pen­brü­chen, Zerrungen und sonstigen Folgen von Über­las­tung.
+
+
+#Wunden heilen
+Wunden gelten als geheilt, sobald der Schaden der Wunde geheilt ist. Dann behindern sie zumindest nicht mehr.
+
+Konkret bedeutet das:
+- Hat der Charakter nur eine Wunde, gilt sie als geheilt, wenn all seine Trefferpunkte (TP) geheilt sind.
+
+- Hat er zwei Wunden, gilt eine von ihnen als geheilt, sobald der Schaden auf eine Wund­schwel­le ab­ge­sun­ken ist.
+
+- Bei einer kritischen und einer "normalen" Wunde wird die kritische zu einer "normalen", wenn der gesamte Schaden auf zwei Wundschwellen ab­ge­sun­ken ist.
+
+- Alte Wunden heilen vor neueren.
+
+- Eine kritische Wunde heilt allerdings vor einer alten normalen Wunde, bis sie selbst zu einer normalen geworden ist, für den Körper also nicht mehr gefährlicher wirkt als andere Wunden.
+
+
+#Einfluss der Heilungsumstände
+Viele Umstände beeinflussen die Geschwindigkeit der Heilung. Einige davon sind hier kurz zusammengefasst. Die Mo­di­fi­ka­to­ren wer­den auf die nor­male Hei­lung von Wund­schwel­le (WS) -2 TP pro Woche an­ge­rech­net.
+
+Aktivität:
+- Schiffsreise: ±0 bis -2 TP
+- Kutsche, gute Straße: -1 TP
+- Pferd/Kutsche:	-2 TP
+- Gewaltmarsch:	-4 TP
+
+Umstand:
+- Feldlazarett:	+0
+- Bettruhe mit Kräutern: +1
+- Modernes Krankenhaus: +2TP
+- nahe Zukunft:	+3 TP
+- ferne Zukunft:	+6 TP
+- Ultra-Tech:	+12 TP
+
+#Heilung in "Realität" (Vergleich)
+- Kiefer gebrochen: 4 Wochen Krankenhaus.
+- Armbruch: Etwa 6 Wochen.
+
+Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern.
+
+#Beispielwaffen:
+Nahkampfwaffe: Schaden
+- Stab:		3
+- Dolch:		2
+- Schwert:	4
+- Kriegshammer:	8
+- Doppelaxt:	10
+
+Fernkampfwaffe: Schaden
+- Wurfmesser:	2
+- Bogen:		4
+- Pistole:		4
+-> 9MM:		8
+- Jagdgewehr:	16
+- Laserpistole(1):	4/Ladung
+- Blaster (20 Lad.): 16
+- Blastergewehr:	24
+
+(1): Zahl der Ladungen von 1 bis "bleibender Strahl" (6/s) einstellbar. 100 Ladungen in der Energiezelle.
+
+#Rüstungsbeispiele:
+Name: Schutz
+Ledermantel:	1-2
+Lederrüstung:	2
+Kettenhemd:	3-5
+Gestechrüstung:	7
+Kugels. Weste(1):	8 /2
+leichte Panz.(2):	20
+
+(1): 8 gegen Kugeln, sonst 2
+(2): Space Marines
+
+
+#Treffer einstecken
+Ein Kämpfer kann sich entscheiden, seine Verteidigung fallen zu lassen und einen Treffer einzustecken.
+
+In diesem Fall würfeln erst beide Kämpfer einen normalen Kampfwurf, wobei der Kämpfer, der einen Treffer einstecken will, einen Bonus von 3 Punkten erhält, denn er verändert den Rhythmus des Kampfes grundlegend.
+
+Gewinnt er den Wurf, würfeln danach beide Kämpfer einfach gegen 12  (den Grundmindestwurf im Kampf). Wem der Wurf gelingt, dessen Schlag trifft (oft beide), die Differenz zu 12 wird auf den Schaden addiert.
+
+Da es einen starken Willen benötigt, einfach Treffer einzustecken, kann die SL vorher eine Probe auf Wille o.ä. verlangen.
+
+
+#Wirkung des ±W6
+Ich habe hier etwas Platz zum Erzählen, also möchte ich kurz von einem der Effekte des ±W6 sprechen.
+
+Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert des Charakters eine ganz eigene Chancenverteilung für die verschiedenen Mindestwürfe.
+
+*Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte.
+*Nach der Steigerung auf 15 schaffte er sie fast immer (5/6) und witterte zum ersten Mal die Chance (1/6) auch extrem schwere Aufgaben zu bestehen (MW: 21).
+
+*Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte (fordernde und extreme Aufgaben), während in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren.
+
+<fuss>Die Langform gibt es auf der Webseite des EWS:
+<fuss>- http://werte.1w6.org
+
+#Gezielte Angriffe
+Ein Charkter kann jederzeit entscheiden, auf eine bestimmte Körperregion zu zielen.
+
+Im Fernkampf steigt dabei der Schaden um das Doppelte der Erschwernis.
+
+Im Nahkampf steigt er um das Dreifache, da sich mit der Erschwernis auch das Risiko erhöht, selbst getroffen zu werden.
+
+Bauch/Nieren:
+- Erschwernis:	-3
+- Fern:	Schaden +6
+- Nah:	Schaden +9
+
+Bein(1)/Arm(1):
+- Erschwernis:	- 6
+- Fern:	Schaden: +12
+- Nah:	Schaden: +18
+
+Hand(1)/Kopf:
+- Erschwernis:	- 9
+- Fern:	Schaden: +18
+- Nah:	Schaden: +27
+
+Kehle/Auge:
+- Erschwernis:	- 12
+- Fern:	Schaden: +24
+- Nah:	Schaden: +36
+
+(1): Schaden über einer kritischen Wunde verfällt. Die Gliedmaße ist ab.
+
+
+#Beispiele für Verletzungen:
+
+#Wunden:
+
+Jede dieser Verletzungen bewirkt -3 auf alle Werte, bis die Wunde geheilt ist.
+
+- Schnitt über das Gesicht, der grässliche Narben verursacht und Blut in die Augen sickern lässt.
+
+- Schlag auf die Augen, führt kurzzeitig zur Erblindung.
+
+- Messer im Bauch, nicht umgedreht.
+
+- Knie in den Genitalien, möglicherweise auch der Holm der Waffe.
+
+- Treffer in den Oberarm, Arm fast unbenutzbar (nimm den anderen).
+
+ - Schnitt im Oberschenkel, Bein nur noch unter Schmerzen benutzbar.
+
+- Messer schrammt über die Rippen und zerschneidet die Haut. Rippenbrüche.
+
+- Messer in die Seite, Schmerzen beim Atmen, Messer reißt die Haut auf, Krallen fetzen Haut herunter.
+#Kritische Wunden:
+
+Kritische Wunden sind heftig und stehen für grausige Schäden. Jede der Verletzungen bedeutet im Kampf einen Malus von 6 Punkten. Sobald der Kampf endet und das Adrenalin nachlässt, steigt der Malus auf -12.
+
+- Zertrümmerter Kiefer, Nase und Wange zerschmettert, Schädel-bruch, Kiefer abgetrennt.
+
+- Ein Auge zerquetscht oder ausgestochen, beide Augen mit der Fackel erwischt (kurzzeitig erblin-det, vll. Langzeitschäden).
+
+- Messer im Bauch und umgedreht, Gedärme glitschen auf den Boden, Schnitt über die komplette Bauchdecke, Krallen tief in den Bauch gerammt, Magen durchstochen, jegliche anderen wichtigen Organe angestochen oder zerschnitten oder zerfetzt.
+
+- Genitalien zerquetscht oder sehr gefährlich gequetscht, recht wahrscheinlich bleibende Unfruchtbarkeit und innere Blutungen. Schnitt in die Genitalien, Pferdehuf sehr genau abbekommen...
+- Arm oder Bein abgetrennt oder zertrümmert. Unbrauchbar.
+
+- Brustkorb eingedrückt, Rippen gesplittert, Brustkorb gespalten (Axt, o.ä.), Schlüsselbein zertrümmert, Stich in die Lunge oder zwischen die Rippen (je nach gewünschter Tödlichkeit).
+
+- Lanze durch den Rücken und durch die Rippen gebrochen, Lunge erwischt (kann zu einem sehr langsamen Tod führen, wenn der Kampf grausam sein soll).
+
+- Streitkolben hat Rippen zertrümmert, Messer zwischen die Rippen gerammt und beim Drehen Rippen gebrochen.
+
+#Weitere Werke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Danke!
+#Warum freie Werke?
+Freie Werke schaffen eine Umgebung, in der Jede jeden Teil ihrer Umgebung nach ihren Wünschen gestalten kann und darf, solange sie die Freiheit von niemand Anderem einschränkt.
+
+Wenn dir irgendetwas nicht gefällt, kannst du es ändern.
+
+#Warum ist das EWS frei lizensiert?
+Damit eine stabile und immer wachsende Grundlage aus guten Ideen und Regeln entsteht, die Jede direkt nutzen kann.
+
+#Warum darf die Welt unfrei sein?
+Weil Weltenbastler emotional sehr an ihrer Welt hängen und so Lizenzprodukte möglich sind. Das ist nicht maximal frei, sondern pragmatisch. Unsere Welten sind allerdings frei.
+
+#Wie kann ich mitmachen?
+
+-> mitmachen.1w6.org

@@ -1,0 +1,99 @@
+1w6 auf dem Gratisrollenspieltag, Status
+
+> *Für jedes Paket 32 Charakterkarten, 13 Grundflyer, 8 Zusatzszenarien, 4 Kurzregelkarten und 1-mal die GPL*
+
+Nach einer Woche exzessivem Druckvorstufenbasteln, 4.500 handgeschnittenen Charakterkarten und Post-Panik ging unser Beitrag zum [Gratisrollenspieltag][] in 3 Paketen am 19.12. und 31.12.2012 an die Post - auf den Weg zu Christian Löwenthal, der für Glgnfz das Schnüren der Pakete übernimmt.
+
+[Gratisrollenspieltag]: http://gratisrollenspieltag.de
+
+<!--break-->
+Für den Fall, dass ihr nicht bis zum 2.2.2013 warten wollt - oder auf dem Gratisrollenspieltag Neulingen den Vortritt lassen wollt - gibt es alle unsere Beitrage zum GRT hier als PDF Downloads:
+
+* Der Grundflyer: Seite 1 (http://1w6.org/releases/grt/leiten-Page001.pdf) | Seite 2 (http://1w6.org/releases/grt/leiten-Page002.pdf)
+* 8 Charakterkarten und 1 Regelkarte: Seite 1 (http://1w6.org/releases/grt/charcards-3x3-Page001.pdf) | Seite 2 (http://1w6.org/releases/grt/charcards-3x3-Page002.pdf)
+* Zusatz 1 (http://1w6.orgAuf eigene Faust und Gerechte Räuber: Seite 1 (http://1w6.org/releases/grt/Leid-Page001.pdf) | Seite 2 (http://1w6.org/releases/grt/Leid-Page002.pdf)
+* Zusatz 2 (http://1w6.orgDie Fahrende Steuereintreiberin und Das Leid der Trauernden: Seite 1 (http://1w6.org/releases/grt/Steuern-Page001.pdf) | Seite 2 (http://1w6.org/releases/grt/Steuern-Page002.pdf)
+* Das GPL-Faltblatt: Seite 1 (http://1w6.org/releases/grt/GPLv3-Page001.pdf) | Seite 2 (http://1w6.org/releases/grt/GPLv3-Page002.pdf)
+
+Die Quelldateien zum eigenen Basteln sind alle im [Repo][] (branch `full-bleed-din-lang-hoch-zickzack`)  - und im [1w6-Quellenzip][] (zusammen mit allen anderen Quellen von 1w6).
+
+[Repo]: http://bitbucket.org/ArneBab/1w6
+[1w6-Quellenzip]: https://bitbucket.org/ArneBab/1w6/get/full-bleed-din-lang-hoch-zickzack.zip
+
+Solltet ihr selbst 1w6-Flyer produzieren wollen, schickt einfach die PDFs an eine Druckerei. Der Grundflyer ist für [Grün Drucken][gruen] optimiert, alle anderen für [Online-Druck][].
+
+[gruen]: http://gruendrucken.de
+[Online-Druck]: http://online-druck.biz
+
+Alles in allem war es eine verdammte Arbeit, aber sie hat sich gelohnt!
+
+> http://1w6.org/releases/grt/Flyer-fuer-den-GRT-schneiden.jpg  
+> http://1w6.org/releases/grt/Flyer-fuer-den-GRT-paket-einzeln-schneiden.jpg  
+> http://1w6.org/releases/grt/Flyer-fuer-den-GRT-paket-seite.jpg  
+> http://1w6.org/releases/grt/Flyer-fuer-den-GRT-paket-offen.jpg  
+> [Drak](http://1w6.org/uzanto/drak) beim Pakete schnüren.
+
+Ein riesiges Dankeschön an Jonas Richter, [Oliver](http://xonk.de), Mariam, Jens Stengel, Daniel, [Julian Groß](http://1w6.org/uzanto/inside), Tsukasa, [PiHalbe](http://pihalbe.org) und Björn und [Nue Bäuerlein](http://www.diewortfinderin.de), deren Spenden aus 1000 Grundflyern auf Standardpapier mit je einer Charakterkarte geniale 2020 Flyer auf 300g-Papier, 4500 Charakterkarten[^4500] und 1240 Zusatzszenarien machten.
+
+[^4500]: Ich habe statt 6000 Karten nur 4500 geschnitten, weil ich so einen sinnvollen Rythmus reinkriegen konnte: Für jeden Packen 4 Blätter mit Charakterkarten schneiden, reinlegen, nächsten Packen vorbereiten. Bei 6h Arbeit ist Routine verdammt viel wert: Wenn ich noch Blätter auf Packen hätte aufteilen müssen, wäre ich vermutlich durchgedreht. Ich verstehe jetzt, warum am Fließband jede Aufgabe möglichst trivial ist… Fließbandarbeit für einen Guten Zweck™ ☺
+
+Ihr seid toll!
+
+## Transparenz
+
+Und jetzt, um die Produktion der Flyer sauber abzuschließen[^sauber], möchte ich euch die vollständige Abrechnung offenlegen. Das wünsche ich mir von anderen, daher dachte ich, fange ich selbst mal an ☺
+
+[^sauber]: Das hier ist keine doppelte Buchführung, da die Spenden unter 300€ sind und ich damit noch dem ganzen Selbstständigen-Steuerwahn entkommen kann… vermutlich bräuchte ich sie auch sonst nicht, weil alle Einnahmen direkt wieder als Ausgaben rausgehen, aber vermutlich ist halt nur vermutlich. Hätte ich davon Einnahmen, dann hätte ich das ganze mit Steuern rechnen müssen und die Tabellen hätten ein paar Spalten mehr…
+
+### Verfügbares Geld (geplant)
+
+|                 |  Menge |
+|-----------------+--------|
+| Arne            |  82.13 |
+| Jonas Richter   |     25 |
+| Oliver          |     25 |
+| Mariam          |     25 |
+| Jens Stengel    |     50 |
+| Daniel          |     10 |
+| Julian Groß     |     30 |
+| Tsukasa         |     25 |
+| PiHalbe         |     15 |
+| Björn und Nue   |     25 |
+|-----------------+--------|
+| Gesamt          | 312.13 |
+#+TBLFM: @12$2='(+ @2..@11);N
+
+Die Zeilen unter den Tabellen sind Formeln aus [emacs][] [orgmode][]. Sie zeigen einen Vorteil der Plain-Text basierten Informationsverwaltung: Sie lässt sich direkt veröffentlichen - und der Rückweg von der Veröffentlichung in die Tabelle ist auch einfach ☺
+
+[emacs]: http://gnu.org/software/emacs
+[orgmode]: http://orgmode.org
+
+### Ausgaben
+
+|                                    | Anzahl | Kosten | Stückpreis |
+|------------------------------------+--------+--------+------------|
+| Flyer     √                        |   2020 | 151.91 |      0.075 |
+| Lizenzen, 200g (80g+65c) √         |    150 |   16.8 |      0.112 |
+| Karten, hier (x3, 189) √           |    504 |      0 |          0 |
+| Karten, (x3, 570, 200g) √          |   1520 |   69.5 |      0.046 |
+| Zusatz 1, 135g, sw Leid √          |    620 |  29.61 |      0.048 |
+| Zusatz 2, 135g, sw Steuern √       |    620 |  29.61 |      0.048 |
+| Versand Grundflyer              √  |      1 |  15.15 |      15.15 |
+| Versand Rest                    √  |      1 |  18.80 |            |
+|------------------------------------+--------+--------+------------|
+| Gesamt                             |   1800 | 331.38 |      0.184 |
+#+TBLFM: $4='(/ $3 $2);N::@10$3='(+ @2..@9$3);N
+
+Wie ihr seht, hängen da bei den Kosten fast 20€ mehr als bei dem verfügbaren Geld. Der Grund ist, dass ich die zweiten Versandkosten bei der Kostenrechnung vergessen hatte. In grundlegender Buchhaltung habe ich wohl doch noch etwas zu lernen - und meine Frau war bei ihren Eltern, konnte mir also nicht auf die Finger schauen ☺
+
+Fazit: Nächstes Mal die Rechnung von meiner Frau gegenprüfen lassen. Die 20€ sind für mich zum Glück unproblematisch (sie entsprechen einer Woche Mittagessen in der Kantine), aber bei größeren Projekten könnten 6% Mehrkosten verdammt weh tun…
+
+Und wenn ihr selbst ein Projekt aufzieht: Buchhaltung ist viel mehr Stress als es aussieht, vor allem, wenn ihr eure Projektplanung an einem vorgegebenen Budget ausrichten müsst - und entsprechend versucht, so viel herauszuholen, wie ihr könnt.
+
+### Abschluss
+
+1w6 ist auf dem Gratisrollenspieltag!
+
+Nochmal danke an Glgnfz für das tolle Projekt - und an alle, die gespendet haben! Ihr seid einfach klasse!
+
+Jetzt müssen wir es nur noch schaffen, die Leute vom T3 zu überzeugen, beim GRT mitzumachen…
