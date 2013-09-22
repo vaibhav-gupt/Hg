@@ -3230,8 +3230,6 @@
             <para PARENT="EWS Kleine Fußzeile"/>
             <ITEXT CH="- Initiative Modul (Init)"/>
             <para PARENT="EWS Kleine Fußzeile"/>
-            <ITEXT CH="- Martial Arts Modul (MAMo)"/>
-            <para PARENT="EWS Kleine Fußzeile"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
             <ITEXT CH="Schaden: Wunden und Trefferpunkte"/>
