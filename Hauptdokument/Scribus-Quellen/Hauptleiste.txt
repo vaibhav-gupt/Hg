@@ -485,7 +485,6 @@ Charaktererschaffung:
 - Steigerung (SteM)
 
 Kampf:
-- Martial Arts Modul (MAMo)
 - Fokusmodul Kampf (FoKa)
 - Taktische Kämpfe (TakM)
 - Initiative Modul (Init)
@@ -618,7 +617,6 @@ Um höhere Komplexität zu ermöglichen, nutzt es ein feiner aufgeteiltes Schade
 <fuss>Interessante Module:
 <fuss>- Taktische Kämpfe (TakM)
 <fuss>- Initiative Modul (Init)
-<fuss>- Martial Arts Modul (MAMo)
 
 #Schaden: Wunden und Trefferpunkte
 
