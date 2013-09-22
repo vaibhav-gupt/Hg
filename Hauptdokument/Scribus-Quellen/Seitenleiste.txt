@@ -81,11 +81,9 @@ Allgemein sollte nur in Situationen gewürfelt werden, die sowohl relevant als a
 Ein Wurf, um auf einen Baum zu klettern, lohnt sich z.B dann, wenn gerade eine Horde Wildschweine heranrennt.
 
 #Beruf, Hintergrund, Fertigkeit oder Spezialisierung?
-Als Faustregel zur Unter­schei­dung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (Effektivwert 10).
+Als Faustregel zur Unter­schei­dung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (9+Bonus(+)).
 
-Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14).
-
-Spezialisierungen sind Unterbereiche einer Fertigkeit und betreffen nur ein sehr enges Gebiet.
+Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 12+2xBonus(+)).
 
 #Beruf oder Hintergrund?
 Berufe sind hier Tätigkeiten, die der Charakter aktuell ausübt, während Hintergründe frühere Tätigkeiten und die Herkunft des Charakters beschreiben.
@@ -261,17 +259,21 @@ Diese Regel kann (und sollte) allerdings von der SL je nach Situation angepasst 
 
 In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für den Gegner sinnvoller wird, das Schwert fallen zu lassen.
 
+<fuss>Im Fokusmodul Kampf (FoKa) verursacht Nahkampf meistens Erschöpfung statt Schaden.
+
 #Deckung
-Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben.
+Ist die Entfernung zwischen den Kämpfern größer als "kurz", dann beinhaltet der Kampf auch Sprünge von Deckung zu De­ckung, Anschleichen und vieles mehr. Als einfachste Hand­ha­bung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben.
 
 #Kombinieren von Kampftaktiken
-Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei "Vorsichtig" und "Um Leben und Tod" zusammen beim Verlieren trotzdem den Tod nach sich ziehen. Flucht und "Um Leben und Tod" heben sich allerdings gegenseitig auf.
+Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, solange das Sinn ergibt: "Vorsichtig" und "Um Leben und Tod" bedeuten beim Verlieren trotzdem den Tod. Flucht und "Um Leben und Tod" sind inkompatibel.
 
 #Gewinnen ohne zu verletzen
 Ein Kämpfer kann sich entscheiden, seinen Gegner nicht zu verletzen, sondern nur kampfunfähig zu machen, erhält dann aber 3 Punkte Malus.
 
 Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf den zugefügten Schaden verzichten.
 
+#Gemeinsam handeln
+Für Gruppenkämpfe gibt es das Fokusmodul Kampf (FoKa); im Anhang ab Seite 35.
 #Punkte schinden
 Manchmal werden Schwächen nur genommen, um Punkte zu schinden. Sollte das überhand nehmen, kann die SL mit einer einfachen Methode gegen­steuern:
 
@@ -301,14 +303,15 @@ Ein Modul für das EWS muss unter der selben freien Lizenz stehen (siehe Epilog)
 #Warum noch ein Rollenspielsystem?
 Es gibt schon viele Rollenspiele auf dem Markt und im Netz, doch ein paar Punkte heben das EWS von ihnen ab. Sie sind für mich ein Grund, es immer weiter zu entwickeln.
 
-Drei davon sind:
+Vier davon sind:
 
-- Es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite).
-Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund­prinzipien auf und nutzt Module für Er­wei­terung­en.
+- Es braucht nur einen 6-seitigen Würfel.
 
 - Es vermeidet Überladung der Charakterhefte durch  die Einführung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben.
 
-- Und es braucht nur einen 6-seitigen Würfel.
+- Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund­prinzipien auf und nutzt Module für Er­wei­terung­en.
+
+- Und es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite).
 
 #Eigenschaften steigern, um Fertigkeiten zu verbessern
 Da Eigenschaften einen Bonus auf die Fertigkeiten geben, können Spielerinnen ihre Fertigkeiten auch indirekt steigern, indem sie die Eigenschaften verbessern, auf denen die Fertigkeiten aufbauen.
@@ -324,24 +327,24 @@ Bei Eigenschaften wird einfach von 12 aufwärts gesteigert (d.h. mit einem Stric
 
 12 kostet hier nichts, da das der Wert einer durchschnittlichen Eigenschaft ist.
 
-Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (unterdurchschnittlich), und der dritte erhöht den Wert auf 12 (durchschnittlich).
+Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (un­ter­durch­schnitt­lich), und der dritte erhöht den Wert auf 12 (durchschnittlich).
 
 Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 6 (fast alles davon schonmal probiert), zwei geben 8 (dürftig), drei geben 9 (schwach).
 
-Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten.
+Der Grund für die niedrigeren Werte ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten.
 
 
 
 #Spezialisierungen
 Spezialisierungen decken kleine Unterbereiche einer Fertigkeit ab.
 
-Sie werden wie normale Fertigkeiten gesteigert, doch die ersten drei Striche geben nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3.
+Sie werden wie normale Fertigkeiten gesteigert, doch die ersten drei Striche geben zusammen nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3.
 
-Die ersten drei Striche geben hier jeweils einen Punkt.
+Die ersten drei Striche geben hier jeweils einen Punkt. Danach kosten Steigerungen soviel wie bei Fertigkeiten mit der gleichen Anzahl an Plussen.
 
 Wenn die Grundfertigkeit einer Spezialisierung gesteigert wird, dann steigt auch die Spezialisierung um den gleichen Wert.
 
-Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der Grundfertigkeit vermerkt.
+Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der Grundfertigkeit vermerkt. Statt eine Fertigkeit zu steigern, kann ein Charakter jederzeit eine Spezialisierung lernen.
 
 *Wollte Lazaro sich zum Beispiel in der "Kunst des Flirtens" auf "Damen von Adel" spezialisieren, würde ihn eine Steigerung dieser Spezialisierung um einen Punkt nur einen Strich kosten:
 
@@ -363,12 +366,13 @@ Außerdem erhalten sie die Spielerfahrungen und lassen die Runden noch Jahre sp�
 #Erschöpfung
 Um die Aus­dau­er der Cha­rak­te­re und ihr Durch­hal­te­ver­mö­gen besser ein­schät­zen zu können, und vor allem auch für Magie, Psi und ähn­li­ches, kann Er­schöp­fung mit ein­be­zo­gen werden.
 
+Wenn ihr Erschöpfung nutzt, verursachen auch waffenlose Angriffe nur Erschöpfung, so­lange sie keine Wunden schla­gen (Einzelheiten in der nächs­ten Seitenleiste).
+
 Erschöpfung wird berechnet wie die Trefferpunkte, muss al­ler­dings auf einer anderen Ei­gen­schaft aufbauen (deren Wert die Ausdauer des Cha­rak­ters ergibt).
 
 Die Spielerin kann sich selbst aussuchen, welche passende Eigenschaft sie für Er­schöp­fung nehmen will und welche für Trefferpunkte.
 
 Abzüge durch nied­rige Er­schöp­fung werden behandelt wie bei den Trefferpunkten.
-
 
 #Regeneration von Erschöpfung
 Normale Charaktere re­ge­ne­rie­ren pro Stunde Er­schöp­fungs­punk­te in Höhe ihrer Er­schöp­fungs­schwel­le (1/3 der ge­wähl­ten Eigenschaft), also durch­schnitt­lich 4 Punkte, das heißt einen Punkt alle 15 Minuten.
@@ -467,10 +471,10 @@ Ich habe hier etwas Platz zum Erzählen, also möchte ich kurz von einem der Eff
 
 Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert des Charakters eine ganz eigene Chancenverteilung für die verschiedenen Mindestwürfe.
 
-*Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte.
-*Nach der Steigerung auf 15 schaffte er sie fast immer (5/6) und witterte zum ersten Mal die Chance (1/6) auch extrem schwere Aufgaben zu bestehen (MW: 21).
+*Lazaros gute Kunst des Flirtens (14) bedeutet zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schafft.
+*Nach der Steigerung auf 15 schafft er sie fast immer (5/6) und wittert zum ersten Mal die Chance (1/6) auch extrem schwere Aufgaben zu bestehen (MW: 21).
 
-*Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte (fordernde und extreme Aufgaben), während in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren.
+*Die Chancen andere Mindestwürfe zu schaffen bleiben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hat (fordernde und extreme Aufgaben), während in anderen Bereichen Raum bleibt, um auch die nächste Steigerung zu spüren.
 
 <fuss>Die Langform gibt es auf der Webseite des EWS:
 <fuss>- http://werte.1w6.org

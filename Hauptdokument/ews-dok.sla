@@ -803,15 +803,15 @@
         <PAGEOBJECT OwnPage="33" PTYPE="4" XPOS="288.34062992126" YPOS="10849.5879055118" WIDTH="197.983" HEIGHT="558.620110354666" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 558.62 197.983 558.62 197.983 558.62 197.983 558.62 0 558.62 0 558.62 0 558.62 0 558.62 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 558.62 197.983 558.62 197.983 558.62 197.983 558.62 0 558.62 0 558.62 0 558.62 0 558.62 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="1.29515850597762e-318" gWidth="1.39328e-309" gHeight="1.11254e-306" LAYER="0" BOOKMARK="0" NEXTITEM="14" BACKITEM="115">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="33" PTYPE="2" XPOS="284.003843951325" YPOS="11177.5895905512" WIDTH="96.0898332061559" HEIGHT="96.8113857881908" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/fencer.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.3" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 96.0898 0 96.0898 0 96.0898 0 96.0898 0 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 0 96.8114 0 96.8114 0 96.8114 0 96.8114 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 96.0898 0 96.0898 0 96.0898 0 96.0898 0 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 0 96.8114 0 96.8114 0 96.8114 0 96.8114 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="14.112204724409" gYpos="6.32530708661034" gWidth="184.643700787401" gHeight="192.09105511812" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="33" PTYPE="2" XPOS="284.003843951325" YPOS="11177.5895905512" WIDTH="96.0898332061559" HEIGHT="96.8113857881908" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/fencer.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.5" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 96.0898 0 96.0898 0 96.0898 0 96.0898 0 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 0 96.8114 0 96.8114 0 96.8114 0 96.8114 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 96.0898 0 96.0898 0 96.0898 0 96.0898 0 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 96.0898 96.8114 0 96.8114 0 96.8114 0 96.8114 0 96.8114 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="14.112204724409" gYpos="6.32530708661034" gWidth="184.643700787401" gHeight="192.09105511812" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="33" PTYPE="2" XPOS="397.335370078742" YPOS="11187.0935275591" WIDTH="76.0424896206142" HEIGHT="88.2760944881866" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/mage-red+female.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.3" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 76.0425 0 76.0425 0 76.0425 0 76.0425 0 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 0 88.2761 0 88.2761 0 88.2761 0 88.2761 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 76.0425 0 76.0425 0 76.0425 0 76.0425 0 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 0 88.2761 0 88.2761 0 88.2761 0 88.2761 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="108.601211166786" gYpos="15.8292440944988" gWidth="184.643700787401" gHeight="192.09105511812" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="33" PTYPE="2" XPOS="397.335370078742" YPOS="11187.0935275591" WIDTH="76.0424896206142" HEIGHT="88.2760944881866" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/mage-red+female.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.5" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 76.0425 0 76.0425 0 76.0425 0 76.0425 0 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 0 88.2761 0 88.2761 0 88.2761 0 88.2761 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 76.0425 0 76.0425 0 76.0425 0 76.0425 0 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 76.0425 88.2761 0 88.2761 0 88.2761 0 88.2761 0 88.2761 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="108.601211166786" gYpos="15.8292440944988" gWidth="184.643700787401" gHeight="192.09105511812" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="33" PTYPE="2" XPOS="345.477102362206" YPOS="11170.2642834646" WIDTH="96.3779527559059" HEIGHT="127.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/lisar.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.3" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="96.378 0 96.378 0 0 0 0 0 0 0 0 0 0 127.5 0 127.5 0 127.5 0 127.5 96.378 127.5 96.378 127.5 96.378 127.5 96.378 127.5 96.378 0 96.378 0 " NUMCO="16" COCOOR="0 0 0 0 96.378 0 96.378 0 96.378 0 96.378 0 96.378 127.5 96.378 127.5 96.378 127.5 96.378 127.5 0 127.5 0 127.5 0 127.5 0 127.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="64.2468804581243" gYpos="0" gWidth="184.643700787401" gHeight="192.09105511812" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="33" PTYPE="2" XPOS="345.477102362206" YPOS="11170.2642834646" WIDTH="96.3779527559059" HEIGHT="127.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/lisar.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.5" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="96.378 0 96.378 0 0 0 0 0 0 0 0 0 0 127.5 0 127.5 0 127.5 0 127.5 96.378 127.5 96.378 127.5 96.378 127.5 96.378 127.5 96.378 0 96.378 0 " NUMCO="16" COCOOR="0 0 0 0 96.378 0 96.378 0 96.378 0 96.378 0 96.378 127.5 96.378 127.5 96.378 127.5 96.378 127.5 0 127.5 0 127.5 0 127.5 0 127.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="64.2468804581243" gYpos="0" gWidth="184.643700787401" gHeight="192.09105511812" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1027,13 +1027,10 @@
             <breakframe/>
             <ITEXT CH="Beruf, Hintergrund, Fertigkeit oder Spezialisierung?"/>
             <para PARENT="Seitenleiste-Titel"/>
-            <ITEXT CH="Als Faustregel zur Unter­­schei­­dung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (Effektivwert 10)."/>
+            <ITEXT CH="Als Faustregel zur Unter­­schei­­dung kannst du annehmen, dass ein Beruf mindestens 3 Jahre Vollzeit benötigt, um ihn mäßig zu können (9+Bonus(+))."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 13 bis 14)."/>
-            <para PARENT="EWS Fluss"/>
-            <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Spezialisierungen sind Unterbereiche einer Fertigkeit und betreffen nur ein sehr enges Gebiet."/>
+            <ITEXT CH="Bei Fertigkeiten wird ein Charakter in der gleichen Zeit überdurchschnittlich bis gut (Effektivwert 12+2xBonus(+))."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Beruf oder Hintergrund?"/>
@@ -1329,15 +1326,18 @@
             <ITEXT CH="In einem schmalen Gang bringt eine Doppelaxt keinen Vorteil, und wenn eine Spielerin schön beschreibt, wie ihr waffenloser Charakter unter dem Streich des Gegners durchtaucht und ihn dann gegen die Wand drängt (und für diese Handlung vielleicht Mali in Kauf nimmt), kann das Schwert sich sogar zum Nachteil entwickeln, so dass es für den Gegner sinnvoller wird, das Schwert fallen zu lassen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
+            <ITEXT CH="Im Fokusmodul Kampf (FoKa) verursacht Nahkampf meistens Erschöpfung statt Schaden."/>
+            <para PARENT="EWS Kleine Fußzeile"/>
+            <para PARENT="EWS Fluss"/>
             <breakframe/>
             <ITEXT CH="Deckung"/>
             <para PARENT="Seitenleiste-Titel"/>
-            <ITEXT CH="Ist die Entfernung zwischen den Kämpfern größer als &quot;kurz&quot;, dann beinhaltet der Kampf auch Sprünge von Deckung zu Deckung, Anschleichen und vieles mehr. Als einfachste Handhabung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben."/>
+            <ITEXT CH="Ist die Entfernung zwischen den Kämpfern größer als &quot;kurz&quot;, dann beinhaltet der Kampf auch Sprünge von Deckung zu De­­ckung, Anschleichen und vieles mehr. Als einfachste Hand­­ha­­bung kann die Spielleiterin für bessere Deckung einen Bonus von 1 (kniehohe Mauern) bis 3 (undurchsichtiger Dschungel) vergeben."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Kombinieren von Kampftaktiken"/>
             <para PARENT="Seitenleiste-Titel"/>
-            <ITEXT CH="Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, wobei &quot;Vorsichtig&quot; und &quot;Um Leben und Tod&quot; zusammen beim Verlieren trotzdem den Tod nach sich ziehen. Flucht und &quot;Um Leben und Tod&quot; heben sich allerdings gegenseitig auf."/>
+            <ITEXT CH="Die Kampftaktiken des Ein Wurf Systems können alle kombiniert werden, solange das Sinn ergibt: &quot;Vorsichtig&quot; und &quot;Um Leben und Tod&quot; bedeuten beim Verlieren trotzdem den Tod. Flucht und &quot;Um Leben und Tod&quot; sind inkompatibel."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Gewinnen ohne zu verletzen"/>
@@ -1347,6 +1347,10 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Hat er mindestens 9 Punkte besser gewürfelt, kann er auch nachträglich auf den zugefügten Schaden verzichten."/>
             <para PARENT="EWS Fluss"/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="Gemeinsam handeln"/>
+            <para PARENT="Seitenleiste-Titel"/>
+            <ITEXT CH="Für Gruppenkämpfe gibt es das Fokusmodul Kampf (FoKa); im Anhang ab Seite 35."/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
             <ITEXT CH="Punkte schinden"/>
@@ -1396,18 +1400,19 @@
             <ITEXT CH="Es gibt schon viele Rollenspiele auf dem Markt und im Netz, doch ein paar Punkte heben das EWS von ihnen ab. Sie sind für mich ein Grund, es immer weiter zu entwickeln."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Drei davon sind:"/>
+            <ITEXT CH="Vier davon sind:"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite)."/>
-            <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund­­prinzipien auf und nutzt Module für Er­­wei­­terung­­en."/>
+            <ITEXT CH="- Es braucht nur einen 6-seitigen Würfel."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Es vermeidet Überladung der Charakterhefte durch  die Einführung von Beruf und Hintergrund, und die Spieler wählen sich selbst genau die Eigenschaften, Fertigkeiten und Merkmale, die ihren Charakter am besten beschreiben."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Und es braucht nur einen 6-seitigen Würfel."/>
+            <ITEXT CH="- Um die Verwendung für verschiedene Stile zu ermöglichen, baut es auf einfachen Grund­­prinzipien auf und nutzt Module für Er­­wei­­terung­­en."/>
+            <para PARENT="EWS Fluss"/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Und es ist frei, und zwar frei wie es GNU/Linux und die Wikipedia sind. Das heißt: Frei lizensiert und frei nutzbar (Details auf der Rückseite)."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -1434,13 +1439,13 @@
             <ITEXT CH="12 kostet hier nichts, da das der Wert einer durchschnittlichen Eigenschaft ist."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (unterdurchschnittlich), und der dritte erhöht den Wert auf 12 (durchschnittlich)."/>
+            <ITEXT CH="Bei Fertigkeiten gibt der erste Strich einen Wert von 9 (schwach), der zweite einen Wert von 11 (un­­ter­­durch­­schnitt­­lich), und der dritte erhöht den Wert auf 12 (durchschnittlich)."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Bei Berufen gilt die gleiche Regel, aber ein Strich gibt 6 (fast alles davon schonmal probiert), zwei geben 8 (dürftig), drei geben 9 (schwach)."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Der Grund für die höheren Kosten ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten."/>
+            <ITEXT CH="Der Grund für die niedrigeren Werte ist, dass Fertigkeiten und Berufe Eigenschaftsboni erhalten."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
@@ -1451,16 +1456,16 @@
             <ITEXT CH="Spezialisierungen decken kleine Unterbereiche einer Fertigkeit ab."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Sie werden wie normale Fertigkeiten gesteigert, doch die ersten drei Striche geben nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3."/>
+            <ITEXT CH="Sie werden wie normale Fertigkeiten gesteigert, doch die ersten drei Striche geben zusammen nicht 12, sondern den effektiven Wert der Grundfertigkeit + 3."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Die ersten drei Striche geben hier jeweils einen Punkt."/>
+            <ITEXT CH="Die ersten drei Striche geben hier jeweils einen Punkt. Danach kosten Steigerungen soviel wie bei Fertigkeiten mit der gleichen Anzahl an Plussen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Wenn die Grundfertigkeit einer Spezialisierung gesteigert wird, dann steigt auch die Spezialisierung um den gleichen Wert."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der Grundfertigkeit vermerkt."/>
+            <ITEXT CH="Spezialisierungen werden meistens entweder einzeln oder in Klammern hinter der Grundfertigkeit vermerkt. Statt eine Fertigkeit zu steigern, kann ein Charakter jederzeit eine Spezialisierung lernen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Wollte Lazaro sich zum Beispiel in der &quot;Kunst des Flirtens&quot; auf &quot;Damen von Adel&quot; spezialisieren, würde ihn eine Steigerung dieser Spezialisierung um einen Punkt nur einen Strich kosten:"/>
@@ -1499,6 +1504,9 @@
             <ITEXT CH="Um die Aus­­dau­­er der Cha­­rak­­te­­re und ihr Durch­­hal­­te­­ver­­mö­­gen besser ein­­schät­­zen zu können, und vor allem auch für Magie, Psi und ähn­­li­­ches, kann Er­­schöp­­fung mit ein­­be­­zo­­gen werden."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
+            <ITEXT CH="Wenn ihr Erschöpfung nutzt, verursachen auch waffenlose Angriffe nur Erschöpfung, so­­lange sie keine Wunden schla­­gen (Einzelheiten in der nächs­­ten Seitenleiste)."/>
+            <para PARENT="EWS Fluss"/>
+            <para PARENT="EWS Fluss"/>
             <ITEXT CH="Erschöpfung wird berechnet wie die Trefferpunkte, muss al­­ler­­dings auf einer anderen Ei­­gen­­schaft aufbauen (deren Wert die Ausdauer des Cha­­rak­­ters ergibt)."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
@@ -1506,7 +1514,6 @@
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Abzüge durch nied­­rige Er­­schöp­­fung werden behandelt wie bei den Trefferpunkten."/>
-            <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
@@ -1732,12 +1739,12 @@
             <ITEXT CH="Durch die Werteverteilung des ±W6 (von -5 bis +6) ergibt sich für jeden Wert des Charakters eine ganz eigene Chancenverteilung für die verschiedenen Mindestwürfe."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Lazaros gute Kunst des Flirtens (14) bedeutete zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schaffte."/>
+            <ITEXT CH="Lazaros gute Kunst des Flirtens (14) bedeutet zum Beispiel, dass er 2/3 der fordernden Aufgaben (MW: 12) schafft."/>
             <para PARENT="EWS Kursiv"/>
-            <ITEXT CH="Nach der Steigerung auf 15 schaffte er sie fast immer (5/6) und witterte zum ersten Mal die Chance (1/6) auch extrem schwere Aufgaben zu bestehen (MW: 21)."/>
+            <ITEXT CH="Nach der Steigerung auf 15 schafft er sie fast immer (5/6) und wittert zum ersten Mal die Chance (1/6) auch extrem schwere Aufgaben zu bestehen (MW: 21)."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte (fordernde und extreme Aufgaben), während in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren."/>
+            <ITEXT CH="Die Chancen andere Mindestwürfe zu schaffen bleiben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hat (fordernde und extreme Aufgaben), während in anderen Bereichen Raum bleibt, um auch die nächste Steigerung zu spüren."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die Langform gibt es auf der Webseite des EWS:"/>
@@ -2445,25 +2452,26 @@
             <breakframe/>
             <ITEXT CH="Ein angehender Held kann 7 Werte wählen, in denen er gut ist: pro "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
-            <ITEXT CH=" einen. Will er einen überragenden Wert, entspricht das 3 guten Werten."/>
+            <ITEXT CH=" einen. Will er einen überragenden Wert, entspricht das 3 guten Werten. Für jeden negativen Wert kann er einen zusätzlichen positiven Wert erhalten."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Er stellt ihn sich als gewandten Menschen vor, sowohl körperlich als auch in Sprache und Stil. Natürlich soll er auch kämpfen können, und die Kunst des Flirtens ist ein Muss. Seine starken Eigenschaften findet er direkt aus seiner Beschreibung:"/>
-            <para PARENT="EWS Kursiv"/>
-            <ITEXT CH="Gewandtheit und persönlichen Stil."/>
+            <ITEXT CH="Er stellt ihn sich als gewandten Menschen vor, sowohl körperlich als auch in Sprache und Stil. Natürlich soll er auch kämpfen können, und die Kunst des Flirtens ist ein Muss. Seine starken Eigenschaften findet er direkt aus seiner Beschreibung: Gewandt und Stilvoll."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Auch die Fertigkeiten fallen ihm nicht allzu schwer: Nahkampf und &quot;Die Kunst des Flirtens&quot;."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Nur bei Merkmalen braucht er etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist."/>
+            <ITEXT CH="Bei Merkmalen braucht er dagegen etwas länger. Eines ist ihm dabei schnell klar: Er will einen persönlichen Gegenstand (siehe Seitenleiste): Seinen Degen, der seit Generationen in seiner Familie ist und ihn als Kämpfer der alten Schule ausweist."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Statt einem weiteren Merkmal wählt er nach einigem Nachdenken lieber eine weitere starke Eigenschaft, die seinen Charakter noch klarer formt: Charisma."/>
+            <ITEXT CH="Nach etwas Nachdenken wählt er außerdem ein negatives Merkmal: „Flieht vor familiären Ver­­pflich­­tung­­en“. Das wird ihn immer wieder zwingen, sichere Orte zu verlassen und auf Abenteuer zu ziehen. Da das negative Merkmal ihm die Wahl eines weiteren positiven Wertes erlaubt hat er hiermit 3 Werte übrig."/>
             <para PARENT="EWS Kursiv"/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="2 dieser Werte nutzt er, um in seiner Eigenschaft Stilvoll nicht nur sehr gut, sondern überragend zu sein."/>
+            <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Als Letztes wählt Sven seinen Beruf: Diplomat, so wie sein Vater und Großvater vor ihm. Mit diesem Beruf kann er nun alles, was ein Diplomat können muss, und das gut genug um seinen Lebensunterhalt zu verdienen. Sein Herz aber hängt am Degenkampf und an fremden Städten und exotischen Ländern, bzw. an den Frauen dieser Länder."/>
             <para PARENT="EWS Kursiv"/>
@@ -2490,13 +2498,13 @@
             <ITEXT CH="Die den Fertigkeiten zugeordneten Eigenschaften geben für jedes Plus (&quot;+&quot;) einen Punkt Bonus. Da Lazaros Eigenschaften bisher jeweils nur ein Plus haben, gibt jede zugeordnete Eigenschaft einen Punkt."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Für Nahkampf wählt er Gewandtheit und persönlichen Stil, die ihm als passende starke Eigenschaften jeweils einen Punkt Bonus auf seinen Wert geben, so dass er insgesamt ein guter Kämpfer ist (er kommt von 12 auf 14)."/>
+            <ITEXT CH="Für Nahkampf wählt er Gewandt, was ihm als passende starke Eigenschaft einen Punkt Bonus auf seinen Wert gibt, so dass er insgesamt ein routinierter Kämpfer ist (er kommt von 12 auf 13)."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Für die Kunst des Flirtens wählt er persönlichen Stil und Charisma, erhält also erneut 2 Punkte Bonus und beherrscht so auch die Kunst des Flirtens gut (14)."/>
+            <ITEXT CH="Für die Kunst des Flirtens wählt er Stilvoll und Gewandt, erhält also 3 Punkte Bonus und beherrscht so auch die Kunst des Flirtens sehr gut (16)."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Sein Beruf &quot;Diplomat&quot; gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. Auch hier bekommt er pro Plus (&quot;+&quot;) der jeweiligen Eigenschaft einen Punkt Bonus."/>
+            <ITEXT CH="Sein Beruf &quot;Diplomat&quot; gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit) und sein Stilgefühl verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. Auch hier bekommt er pro Plus (&quot;+&quot;) der jeweiligen Eigenschaft einen Punkt Bonus."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Während des Entwurfs hat Sven nun auch einen Namen gefunden: Salamon Lazaro de Aicega, für Freunde Lazaro."/>
@@ -2517,13 +2525,9 @@
             <tab/>
             <ITEXT CH="+ (15)"/>
             <para PARENT="EWS Regel"/>
-            <ITEXT CH="- persönlicher Stil: "/>
+            <ITEXT CH="- Stilvoll:"/>
             <tab/>
-            <ITEXT CH="+ (15)"/>
-            <para PARENT="EWS Regel"/>
-            <ITEXT CH="- sehr charismatisch:"/>
-            <tab/>
-            <ITEXT CH="+ (15)"/>
+            <ITEXT CH="++ (18)"/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Fertigkeiten:"/>
@@ -2543,9 +2547,14 @@
             <ITEXT CH="+ (9)"/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Merkmal: Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann: "/>
+            <ITEXT CH="Merkmale: "/>
+            <para PARENT="EWS Regel"/>
+            <ITEXT CH="- Hat einen persönlichen Gegenstand, der fast ein Teil seines Körpers zu sein scheint: Seinen Degen, ein Erbstück der Familie, mit dem er lernt, seit er ihn halten kann: "/>
+            <tab/>
             <tab/>
             <ITEXT CH="+"/>
+            <para PARENT="EWS Regel"/>
+            <ITEXT CH="- Flieht vor familiären Verpflichtungen:  -"/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Um die Erschaffung von Lazaro abzuschließen, berechnet Sven noch seine Wundschwelle. Da er keine passende Eigenschaft hat, nimmt er einfach ein Drittel des Durchschnittswerts von 12, erhält also eine Wundschwelle von 4. Diesen Wert und seine Waffe erhält Larzaro noch als Zusätze:"/>
@@ -2566,6 +2575,7 @@
             <para PARENT="EWS Fluss"/>
             <breakframe/>
             <ITEXT CH="Die Erschaffung von Lazaro war die einfachste Möglichkeit Charaktere zu erschaffen. Es sind allerdings auch bei weitem komplexere Charaktere möglich."/>
+            <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Dabei gelten die folgenden fünf Regeln:"/>
             <para PARENT="EWS Fluss"/>
@@ -2630,7 +2640,7 @@
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
             <ITEXT CH=" ausgedrückt. Die Steigerung eines Wertes um ein Plus kostet genau so viele "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
-            <ITEXT CH=", wie der erreichte Wert in Plussen beträgt."/>
+            <ITEXT CH=", wie der zu erreichende Wert in Plussen beträgt."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <tab/>
@@ -2736,13 +2746,10 @@
             <ITEXT CH="Das EWS ermöglicht das Ausspielen von Kämpfen auf zwei verschiedene Arten."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="In den Grundregeln findet sich das „Ein Wurf System“, das einfach eine schnelle Bestimmung des Ausgangs eines Kampfes ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert."/>
+            <ITEXT CH="In den Grundregeln findet sich das „Ein-Wurf-System“, das einfach eine schnelle Bestimmung des Ausgangs eines Kampfes ermöglicht, während im Anhang das komplexere Fokusmodul Kampf steht, das ein detaillierteres Ausspielen von Kämpfen fördert."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Bei Verwendung des „Ein Wurf Systems“ wird ein Kampf ebenso schnell und leicht abgehandelt wie ein kurzer Bardenwettstreit, da der Kampf nicht ins Rampenlicht rückt."/>
-            <para PARENT="EWS Fluss"/>
-            <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Es kann daher auch als Vorlage für Regeln von vielen anderen Arten von Konfrontationen genutzt werden."/>
+            <ITEXT CH="Bei Verwendung des „Ein-Wurf-Systems“ wird ein Kampf ebenso schnell und leicht abgehandelt wie ein kurzer Bardenwettstreit, da der Kampf nicht ins Rampenlicht rückt."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Da allerdings viele Runden den Kämpfen einen Fokus geben wollen, wurde das Fokusmodul Kampf in den Anhang dieses Heftes aufgenommen, das den Kampf ein Stückweit ins Rampenlicht rückt und ihm mehr Regelzeit gibt."/>
@@ -2761,10 +2768,10 @@
             <ITEXT CH="Charaktere können aus verschiedenen Gründen Verletzungen davontragen. Im Grundsystem werden nur Verletzungen beachtet, die schwer genug sind, um den Charakter merklich zu behindern; wir nennen sie &quot;Wunden&quot;. Alles andere sind nur Kratzer."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Jede einzelne Wunde erschwert dabei alle seine Handlungen um 3 Punkte, bis sie geheilt ist."/>
+            <ITEXT CH="Jede einzelne Wunde erschwert dabei alle Handlungen um 3 Punkte, bis sie geheilt ist."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Wenn ein Charakter Wunden hat, kann seine Spielerin jede Woche auf eine passende Eigenschaft würfeln, ob eine der Wunden heilt."/>
+            <ITEXT CH="Wenn ein Charakter Wunden hat, kann seine Spielerin jede Woche auf eine passende Eigenschaft würfeln  (z.B. auf Konstitution), ob eine der Wunden heilt. Hat er keine passende Eigenschaft, nutzt er den Standard-Wert 12."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Der Grundmindestwurf für die Heilungsprobe hängt von der Situation ab. Bei Ruhe und Pflege ist er 9. Auf Reisen und anderen Unternehmungen (der normalen Situation für Abenteurer) ist er 12. In verdreckter Umgebung und in sehr stressigen Situationen ist er 15. In einem modernen Krankenhaus liegt er bei nur 6 und im Krieg ohne Feldscherer steigt er auf 18."/>
@@ -2805,16 +2812,15 @@
             <ITEXT CH="Mindestwurf = Grundmindestwurf + 3 pro Wunde."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Wenn Lazardo mit seiner durchschnittlichen Wundschwelle von 4 einen üblen Stich ins Bein abkriegt (eine Wunde), dauert die Heilung der Wunde, wenn er trotzdem weiterarbeitet, durchschnittllich 3 Wochen. Trägt er zwei Wunden davon, heilt er die erste in etwa 6 Wochen und die zweite in 3 weiteren. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, wird er gut 2 Monate lang nur stark eingeschränkt arbeiten können. Gönnt er sich Ruhe, fällt er etwa einen Monat lang ganz aus."/>
+            <ITEXT CH="Wenn Lazardo, der keine passende Eigenschaft hat, einen üblen Stich ins Bein abkriegt (eine Wunde), nutzt er den Standard-Wert 12. Damit dauert die Heilung der Wunde, wenn er weiterarbeitet, durchschnittllich 3 Wochen, denn um mit Wert 12 den Mindestwurf 15 zu schaffen, braucht er durchschnittlich 3 Versuche. Trägt er zwei Wunden davon, heilt er die erste in etwa 6 Wochen und die zweite in 3 weiteren. Entscheidet er sich also, trotz zweier Wunden weiter als Diplomat zu arbeiten, wird er gut 2 Monate lang nur stark eingeschränkt arbeiten können. Gönnt er sich Ruhe, fällt er etwa einen Monat lang ganz aus: 3 Wochen für die erste Wunde, eine oder zwei Wochen für die Zweite."/>
             <para PARENT="EWS Kursiv"/>
-            <para PARENT="EWS Fluss"/>
             <ITEXT CH="Verfehlt die Spielerin den Mindestwurf bei der Heilungsprobe um mehr als 6 Punkte, dann entzünden sich die bisherigen Wunden und der Charakter erhält eine zusätzliche Wunde."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Liegt der Mindestwurf 3 oder mehr Punkte über dem Eigenschaftswert des Charakters, dann muss er auch ohne Wunden jede Woche würfeln, ob sein Körper mit der Belastung klar kommt oder ob er sich Wunden zuzieht."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="&quot;Grok, Barbar&quot; hat sich bei einem Fürsten verdungen. Als der Fürst sich entscheidet, seinen Nachbarn für eine Schmähung beim Ball anzugreifen, schickt er Groks Einheit auf einen mehrwöchentlichen Gewaltmarsch. Grok mit seiner überragenden Konstitution (18, WS 6) hält den Marsch gut durch (Mindestwurf 18 ohne Wunden), doch die anderen in seiner Einheit (Konstitution 12) erhalten alle 2 Wochen eine Wunde (bei jeder ungeraden Zahl, also im Durchschnitt jeder zweiten Probe). Als Grok nach 6 Wochen fast alleine ankommt, entscheidet er sich, in der Schenke nach schöneren Aufgaben zu suchen."/>
+            <ITEXT CH="&quot;Grok, Barbar&quot; hat sich bei einem Fürsten verdungen. Als der Fürst sich entscheidet, seinen Nachbarn für eine Schmähung beim Ball anzugreifen, schickt er Groks Einheit auf einen mehrwöchentlichen Gewaltmarsch. Grok mit seiner überragenden Konstitution (18, WS 6) hält den Marsch gut durch (Mindestwurf 18 ohne Wunden), doch die anderen in seiner Einheit (Konstitution um 12) erhalten alle 2 Wochen eine Wunde (bei jeder ungeraden Zahl, also im Durchschnitt jeder zweiten Probe). Als Grok nach 6 Wochen fast alleine ankommt, entscheidet er sich, in der Schenke nach schöneren Aufgaben zu suchen."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Fachkundliche Behandlung gibt Boni auf die Heilung. Pro + in der Fertigkeit des Arztes erhält der Charakter einen Bonus von 1 auf seine Probe. Wunden komplett unbehandelt zu lassen gibt pro Wunde einen zusätzlichen Malus von 3 auf die Heilungsproben."/>
@@ -2826,13 +2832,14 @@
             <ITEXT CH="Das Fokusmodul Kampf (FoKa) bietet ein komplexeres Schadens- und Heilungssystem, in dem auch Kratzer relevant sind."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <breakframe/>
-            <ITEXT CH="Das Ein Wurf System"/>
+            <ITEXT CH="Das Ein-Wurf-System"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein Wurf System abgehandelt."/>
+            <ITEXT CH="Konfrontationen, die keinen Fokus erhalten sollen, werden mit dem Ein-Wurf-System abgehandelt."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Wenn sich zwei Charaktere im Kampf gegenüberstehen, würfeln die Spielerinnen hier genau einmal, und das Ergebnis des Kampfes steht fest."/>
+            <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Dazu  würfeln beide auf ihre Kampffertigkeit. Diejenige mit dem höheren Ergebnis (Wert ± Wurf) gewinnt die Konfrontation. Ihre Gegnerin ist kampfunfähig und erhält drei Wunden plus eine weitere je drei Punkte Differenz ihrer Ergebnisse. Die Gewinnerin erhält dabei drei Wunden abzüglich einer Wunde für je drei Punkte Differenz. Wenn ihr Ergebnis also 6 Punkte höher war als das ihrer Kontrahentin, erhält sie nur eine Wunde. Wenn die Gewinnerin 9 oder mehr Punkte besser war als ihre Kontrahentin, geht sie unbeschadet aus der Konfrontation hervor."/>
             <para PARENT="EWS Regel"/>
@@ -2891,7 +2898,7 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Kampftaktiken"/>
             <para PARENT="Seitenleiste-Titel"/>
-            <ITEXT CH="Um dem Ein Wurf System größere Flexibilität zu geben, können verschiedene Kampftaktiken genutzt werden. Einige Beispiele:"/>
+            <ITEXT CH="Um dem Ein-Wurf-System größere Flexibilität zu geben, können verschiedene Kampftaktiken genutzt werden. Einige Beispiele:"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Vorsichtiger Kampf: Hierdurch erhält der Charakter, wenn er verliert, nur eine Wunde für je 3 Punkte Differenz und keine, wenn er gewinnt. Dafür hat er allerdings einen Malus von 3 Punkten auf seinen Fertigkeitswert (Gewinnchance 1/3  statt 1/2 bei gleichstarken Gegnern)."/>
@@ -2903,16 +2910,16 @@
             <ITEXT CH="- Reine Flucht: Hier versucht der Charakter vor seinem Kontrahenten zu fliehen. Sollte er gewinnen, entkommt er. Sein Kontrahent erhält keinen Schaden, der Fliehende selbst aber trotzdem drei Wunden abzüglich einer Wunde je drei Punkte Differenz. Wer nur zu fliehen versucht erhält 6 Punkte Bonus auf seinen Fertigkeitswert (5/6 Chance zu entkommen)."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Unterstützende Fertigkeiten: Fertigkeiten wie Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt. Jede dieser Fertigkeiten gibt dann für jedes + in der Fertigkeit einen Punkt Bonus auf den Fertigkeitswert."/>
+            <ITEXT CH="- Unterstützende Fertigkeiten: Fertigkeiten wie Einschüchtern, Bluffen, Klettern u.ä. können als Unterstützung genommen werden, wenn es zur Situation passt und die Spielerin beschreibt, wie ihr Charakter sie nutzt. Jede dieser Fertigkeiten gibt dann für jedes + in der Fertigkeit einen Punkt Bonus auf den Fertigkeitswert."/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
             <ITEXT CH="Hinweise zum Leiten"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein Wurf System mit Kampfunfähigkeit und Verletzung statt mit dem Tod, solange niemand auf Leben und Tod kämpft."/>
+            <ITEXT CH="Da kaum eine Spielerin gerne aus Würfelpech stirbt, enden Kämpfe im Ein-Wurf-System mit Kampfunfähigkeit und Verletzung statt mit dem Tod, solange niemand auf Leben und Tod kämpft."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Gefangenschaft mag für manche Spielerinnen ein viel schlimmeres Schicksal sein, als der Tod, aber geschichtstechnisch ist sie (für deinen Plot) in fast jedem Fall praktischer."/>
+            <ITEXT CH="Gefangenschaft mag für manche Spielerinnen ein viel schlimmeres Schicksal sein, als der Tod, aber für euer Spiel ist sie in fast jedem Fall praktischer (und spannender)."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Und wenn sie nicht gefangen genommen werden wollen, können sie es immer riskieren, auf Leben und Tod zu kämpfen."/>
@@ -2926,7 +2933,7 @@
             <ITEXT CH="- forum.1w6.org"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Wenn dir Kämpfe mit dem Ein Wurf System nicht genug Spannung aufbauen oder zu wenige Details liefert, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen."/>
+            <ITEXT CH="Wenn dir Kämpfe mit dem Ein-Wurf-System nicht genug Spannung aufbauen oder zu wenige Details liefern, kannst du auf das Fokusmodul Kampf (FoKa) oder das Taktische Kampfsystem (TakM) zurückgreifen."/>
             <para PARENT="EWS Kleine Fußzeile"/>
             <breakframe/>
             <ITEXT CH="Anpassung des EWS"/>
@@ -2967,7 +2974,7 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Ad-Hoc Magiesysteme (AHMa)"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Steigerung im vobsy (vost)"/>
+            <ITEXT CH="- Steigerung (SteM)"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Kampf:"/>
@@ -2981,17 +2988,17 @@
             <ITEXT CH="- Initiative Modul (Init)"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Um schnell ein Modul zu finden, kannst du einfach das 4 Zeichen lange Kürzel in das Suchfeld auf 1w6.org eingeben."/>
+            <ITEXT CH="Um schnell ein Modul zu finden, kannst du einfach das 4 Zeichen lange Kürzel (in den Klammern) in das Suchfeld auf 1w6.org eingeben."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <breakframe/>
             <ITEXT CH="Anhang"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Im Anhang sind zwei Module abgedruckt, die für die meisten Spielrunden interessant sind, und die daher direkt im Regelwerk stehen:"/>
+            <ITEXT CH="Im Anhang sind zwei Module abgedruckt, die für die meisten Spielrunden interessant sind:"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Steigerung im vobsy (vost) und das"/>
+            <ITEXT CH="- Steigerung (SteM) und das"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Fokusmodul Kampf (FoKa)."/>
             <para PARENT="EWS Fluss"/>
@@ -3136,13 +3143,13 @@
             <ITEXT CH="Da er die Reise um einige sehr schöne Szenen bereichert hat (vor allem an dem Abend des Festes der Grafentochter) und mehrfach in Gefahr für Leben und Freiheit geriet (wenn auch nicht durch Piraten, sondern durch die Leibwachen der genannten Dame), hat die Spielleiterin zusammen mit der restlichen Runde entschieden, ihm 4 Striche zu geben (wie auch dem reisenden Mönch für seine ausdauernden und ideenreichen Versuche, Lazaro ins Gewissen zu reden, obwohl die letztendlich die Wachen auf den Plan riefen)."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Nachdem er in diesem Abenteuer regen Kontakt mit feinen Damen genießen konnte und aus schwierigen Lagen eher durch seine flinke Zunge und seine Freunde entkommen konnte, als durch seinen Degen, entscheidet sich Lazaros Spieler Sven, sowohl Charisma, als auch die Kunst des Flirtens zu steigern."/>
+            <ITEXT CH="Nachdem er in diesem Abenteuer regen Kontakt mit feinen Damen genießen konnte und aus schwierigen Lagen eher durch seine flinke Zunge und seine Freunde entkommen konnte, als durch seinen Degen, entscheidet sich Lazaros Spieler Sven, sowohl Stilvoll, als auch die Kunst des Flirtens zu steigern."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Er hat bereits sehr hohes Charisma (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Für die Steigerung um einen Punkt braucht er also zwei Striche: Einen für jedes Plus der nächsten Schwelle."/>
+            <ITEXT CH="Er ist bereits sehr Stilvoll (+: 15: sehr gut), und will nun den ersten von drei Schritten zur nächsten Schwelle gehen, das heißt zu ++ (18: überragend). Für die Steigerung um einen Punkt braucht er also zwei Striche: Einen für jedes Plus der nächsten Schwelle."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Weil er das ganze Abenteuer über immer wieder Charisma genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Dreiecke nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt."/>
+            <ITEXT CH="Weil er das ganze Abenteuer über immer wieder Stilvoll genutzt hat, erlaubt ihm die SL, 2 Striche darauf zu legen, so dass beide benötigten Dreiecke nun einen Strich weit ausgefüllt sind und der Wert um einen Punkt auf 16 steigt."/>
             <para PARENT="EWS Kursiv"/>
             <breakframe/>
             <para PARENT="EWS Fluss"/>
@@ -3236,7 +3243,7 @@
             <ITEXT CH="Um zu bestimmen, was passiert, haben Charaktere Trefferpunkte und eine Wundschwelle."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Die Trefferpunkte sind das Maß dafür, wie gut es einem Charakter körperlich noch geht. Sie liegen bei dem Wert einer anderen passenden Eigenschaft, z.B. Konstitution."/>
+            <ITEXT CH="Die Trefferpunkte sind das Maß dafür, wie gut es einem Charakter körperlich geht. Sie liegen bei dem Wert einer passenden Eigenschaft, z.B. Konstitution."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Hat ein Charakter keine passende Eigenschaft, dann liegen seine Trefferpunkte bei 12 Punkten, dem Durchschnitt."/>
@@ -3264,17 +3271,17 @@
             <ITEXT CH="Erhält ein Charakter durch einen Treffer weniger als seine Wundschwelle an Schaden, dann streicht er sich den Schaden nur von seinen Trefferpunkten ab."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle seine Handlungen um 3 Punkte erschwert, bis sie geheilt ist."/>
+            <ITEXT CH="Erhält der Charakter aber Schaden in Höhe seiner Wundschwelle oder darüber hinaus, dann steckt er eine Wunde ein, die alle Handlungen um 3 Punkte erschwert, bis sie geheilt ist."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Erhält er gar Schaden in Höhe der gewählten Eigenschaft, dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. In Stresssituationen sind seine Handlungen um 6 Punkte, in Ruhe um 12 Punkte erschwert, und es hält ihn fast nur noch Adrenalin aufrecht."/>
+            <ITEXT CH="Erhält er gar Schaden in Höhe der gewählten Eigenschaft, dann hat er eine kritische Wunde erhalten und muss sich wohl nicht weiter aktiv um das Geschehen kümmern. In der aktuellen Situation sind seine Handlungen um 6 Punkte erschwert, sobald das Adrenalin nachlässt um 12 Punkte."/>
             <para PARENT="EWS Regel"/>
             <ITEXT CH="Ein Charakter erhält von einer einzelnen Verletzung nur entweder eine einzelne Wunde oder eine einzelne kritische Wunde, aber keine zwei Wunden."/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Eine Wunde entspricht einem Stich in's Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt)."/>
+            <ITEXT CH="Eine Wunde entspricht einem Stich ins Bein oder einem Schnitt in der Seite. Sie ist äußerst schmerzhaft und behindernd, aber alleine nicht direkt lebensbedrohend (es sei denn, sie wird nicht versorgt)."/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide u.ä.."/>
+            <ITEXT CH="Eine kritische Wunde beendet den Kampf meist. Sie bedeutet zerschmetterte Knochen, abgetrennte Gliedmaßen, hervorquellende Eingeweide und ähnliches."/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die Auswirkungen von nicht versorgten Wunden sollte sich die SL von Fall zu Fall ausdenken."/>
             <para PARENT="EWS Fluss"/>
@@ -3309,7 +3316,7 @@
             <ITEXT CH="Ein Charakter mit durch­­schnitt­­lich­­er Konstitution (12) und ohne Wunden re­­ge­­ne­­riert pro Monat auf sanften Reisen durchschnittllich 4 TP (WS-3/Woche). Mit Wunde regeneriert er auf Reisen normalerweise nichts. Bei Bettruhe sind es unverwundet 8 TP (WS-2), mit Wunde 4 TP."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Mit sehr guter KO (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (die Wunde heilt in etwas über einem Monat Reisezeit). Er kann es sich also leisten, mit Wunde zu reisen."/>
+            <ITEXT CH="Mit sehr guter Konstitution (15) regeneriert er unverwundet etwa 8 TP pro Monat Reise (2 TP pro Woche), mit einer Wunde allerdings nur 4 TP (die Wunde heilt in etwas über einem Monat Reisezeit). Er kann es sich also leisten, mit Wunde zu reisen."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="In einem Krankenhaus regeneriert ein durch­­schnitt­­lich­­er Charakter (KO: 12) mit einer Wunde durchschnittlich 3 TP pro Woche, kann also nach 10 Tagen wieder nach Hause. Mit kritischer Wunde sind es etwa 2 TP pro Woche, und es dauert etwa 6 Wochen, bis die Wunde soweit geheilt ist, dass sie ihn nicht mehr aktiv behindert."/>
@@ -3321,7 +3328,7 @@
             <ITEXT CH="Nahkampf"/>
             <para PARENT="EWS Abschnittstitel"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Die Regeln des Fokusmoduls Kampf stehen für den normalen Kampf in unsicherer Umgebung und ohne Regeln jeglicher Art."/>
+            <ITEXT CH="Die Regeln des Fokusmoduls Kampf stehen für den normalen Kampf in unsicherer Umgebung und ohne Formalismen jeglicher Art."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="In einer Kampfsituation würfeln beide Kontrahentinnen auf ihre Kampffertigkeit. Diejenige, die den höheren Wert erzielt, trifft ihre Gegnerin. Bei einem Patt trifft die Angreiferin."/>
@@ -3547,7 +3554,7 @@
             <ITEXT CH="- lizenz.1w6.org"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="In einem Satz: Die GPLv3 erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die VorautorInnen genannt werden und jeder Anderen die freie Nutzung erlaubt und ermöglicht wird."/>
+            <ITEXT CH="In einem Satz: Die GPLv3 erlaubt Nutzung, Vertrieb und Veränderung des EWS, solange die Vor­­autorInnen genannt werden und jeder Anderen die freie Nutzung erlaubt und ermöglicht wird."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Quelldateien: quellen.1w6.org"/>
@@ -3555,17 +3562,42 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Es wurde erstellt von"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="© 2003 - 2009 - Arne Babenhauserheide"/>
+            <ITEXT CH="© 2003 - 2013 - Arne Babenhauserheide"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), Andreas Jehle (Spieler), Jens Stengel (Spieler), Achim Zien (Konf, Programmierung), Trudy Wenzel (Coverbild), ...und vielen anderen:"/>
+            <ITEXT CH="unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), Andreas Jehle (Spieler), Jens Stengel (Spieler), Achim Zien (Konf, Program­­mierung), Trudy Wenzel (Coverbild), ...und vielen anderen:"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- leute.1w6.org"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Außerdem mit Inspirationen aus DSA® (Fanpro), Shadowrun® (FASA), Gurps® (SJGames), Fudge™ (Grey Ghost Press), Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic), dem Weltenbuch (jcorporation) und vielen weiteren."/>
+            <ITEXT CH="Außerdem mit Inspirationen aus Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic) und vielen weiteren."/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Die Grafiken wurden uns von wundervollen Künstlern zur Verfügung gestellt, die die freie Verwendung ihrer Werke erlauben: Das Logo, der Drache, der Echsenmensch mit Keule und die Echsenfrau im Lendenschurtz stammen von Trudy Wenzel, der zwergische Runenmeister wurde von Philipp Barber gezeichnet, die restlichen Portraits sind von Kathrin Polikeit (Kitty) und die Symbole kommen aus dem freien Strategiespiel „Battle for Wesnoth“ (wesnoth.org) - wie auch die Arbeiten von Kitty und Philipp Barber. Falls du Lust hast, für das EWS Bilder beizusteuern, dann schreib uns bitte!"/>
+            <ITEXT CH="Die Grafiken wurden uns von wundervollen Künstlern zur Verfügung gestellt, die die freie Verwendung ihrer Werke erlauben: "/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Trudy Wenzel: Logo, Drache, Echsenmensch mit "/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="  Keule, Echsenfrau in Lendenschurz, Katzenmensch,"/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="  Vogel."/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Emilien Rotival: Lady Outlaw, Alter Zwerg, Reiter, "/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="  Elfen-Marshal, Rote Fee."/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Marcus Rosen: Dämon."/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Philipp Barber: Zwergischer Runenmeister."/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Bora Orcal und Kathrin Polikeit: Speerträger."/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Kathrin Polikeit (Kitty): Restliche Charakerbilder."/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- Wesnoth Art Team: Icons."/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="- WTactics Projekt: Axt, Gemeinsam stark."/>
+            <para PARENT="EWS Fluss"/>
+            <para PARENT="EWS Fluss"/>
+            <ITEXT CH="Falls du Lust hast, für das EWS Bilder beizusteuern, dann schreib uns bitte!"/>
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Das Design dieser Version wurde maßgeblich von Tim Charzinski verbessert. Es macht wahnsinnig was aus, wenn jemand mitmacht, der Ahnung davon hat."/>
@@ -3731,7 +3763,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="133.33862992126" YPOS="8348.05516535433" WIDTH="122" HEIGHT="469.735" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 122 0 122 0 122 0 122 0 122 469.735 122 469.735 122 469.735 122 469.735 0 469.735 0 469.735 0 469.735 0 469.735 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 122 0 122 0 122 0 122 0 122 469.735 122 469.735 122 469.735 122 469.735 0 469.735 0 469.735 0 469.735 0 469.735 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="2.36942000000001e-310" gYpos="0" gWidth="0" gHeight="7.85366997662068e-317" LAYER="0" BOOKMARK="0" NEXTITEM="46" BACKITEM="45">
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="133.33862992126" YPOS="8348.05516535433" WIDTH="122" HEIGHT="486.461086614174" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 122 0 122 0 122 0 122 0 122 486.461 122 486.461 122 486.461 122 486.461 0 486.461 0 486.461 0 486.461 0 486.461 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 122 0 122 0 122 0 122 0 122 486.461 122 486.461 122 486.461 122 486.461 0 486.461 0 486.461 0 486.461 0 486.461 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="2.36942000000001e-310" gYpos="0" gWidth="0" gHeight="7.85366997662068e-317" LAYER="0" BOOKMARK="0" NEXTITEM="46" BACKITEM="45">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="26" PTYPE="4" XPOS="540.62362992126" YPOS="8308.47516535433" WIDTH="197.983" HEIGHT="546.02483464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 546.025 197.983 546.025 197.983 546.025 197.983 546.025 0 546.025 0 546.025 0 546.025 0 546.025 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 546.025 197.983 546.025 197.983 546.025 197.983 546.025 0 546.025 0 546.025 0 546.025 0 546.025 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.33668999405841e-316" gYpos="0" gWidth="2.12199999991051e-314" gHeight="4.74303020007597e-322" LAYER="0" BOOKMARK="0" NEXTITEM="107" BACKITEM="239">
@@ -3828,7 +3860,7 @@
         <PAGEOBJECT OwnPage="45" PTYPE="4" XPOS="290.34062992126" YPOS="14661.242015748" WIDTH="197.983" HEIGHT="534.827" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 534.827 197.983 534.827 197.983 534.827 197.983 534.827 0 534.827 0 534.827 0 534.827 0 534.827 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 534.827 197.983 534.827 197.983 534.827 197.983 534.827 0 534.827 0 534.827 0 534.827 0 534.827 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.38484998161151e-316" gYpos="0" gWidth="1.39067e-309" gHeight="7.85366997662068e-317" LAYER="0" BOOKMARK="0" NEXTITEM="133" BACKITEM="130">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="46" PTYPE="4" XPOS="540.62362992126" YPOS="14661.242015748" WIDTH="197.983" HEIGHT="559.730929133892" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 559.731 197.983 559.731 197.983 559.731 197.983 559.731 0 559.731 0 559.731 0 559.731 0 559.731 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 559.731 197.983 559.731 197.983 559.731 197.983 559.731 0 559.731 0 559.731 0 559.731 0 559.731 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="5.38576998125063e-316" gHeight="5.53353523342196e-322" LAYER="0" BOOKMARK="0" NEXTITEM="134" BACKITEM="132">
+        <PAGEOBJECT OwnPage="46" PTYPE="4" XPOS="540.62362992126" YPOS="14661.242015748" WIDTH="197.983" HEIGHT="594.507984252001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 594.508 197.983 594.508 197.983 594.508 197.983 594.508 0 594.508 0 594.508 0 594.508 0 594.508 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 594.508 197.983 594.508 197.983 594.508 197.983 594.508 0 594.508 0 594.508 0 594.508 0 594.508 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="5.38576998125063e-316" gHeight="5.53353523342196e-322" LAYER="0" BOOKMARK="0" NEXTITEM="134" BACKITEM="132">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="47" PTYPE="4" XPOS="288.34062992126" YPOS="15296.5177007874" WIDTH="209.322" HEIGHT="536.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 209.322 0 209.322 0 209.322 0 209.322 0 209.322 536.5 209.322 536.5 209.322 536.5 209.322 536.5 0 536.5 0 536.5 0 536.5 0 536.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 209.322 0 209.322 0 209.322 0 209.322 0 209.322 536.5 209.322 536.5 209.322 536.5 209.322 536.5 0 536.5 0 536.5 0 536.5 0 536.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="6.10519981773033e-317" gYpos="6.10519981773033e-317" gWidth="1.269748709812e-321" gHeight="6.10519981773033e-317" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="133">
@@ -4365,7 +4397,7 @@
             <trail PARENT="EWS Fluss"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="288.34062992126" YPOS="5132.10674015748" WIDTH="197.983" HEIGHT="534.827" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 534.827 197.983 534.827 197.983 534.827 197.983 534.827 0 534.827 0 534.827 0 534.827 0 534.827 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 534.827 197.983 534.827 197.983 534.827 197.983 534.827 0 534.827 0 534.827 0 534.827 0 534.827 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.84174998390343e-316" gYpos="0" gWidth="2.12199999991051e-314" gHeight="1.28061815402051e-320" LAYER="0" BOOKMARK="0" NEXTITEM="227" BACKITEM="86">
+        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="288.34062992126" YPOS="5132.10674015748" WIDTH="197.983" HEIGHT="552.14325984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 552.143 197.983 552.143 197.983 552.143 197.983 552.143 0 552.143 0 552.143 0 552.143 0 552.143 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 197.983 0 197.983 0 197.983 0 197.983 0 197.983 552.143 197.983 552.143 197.983 552.143 197.983 552.143 0 552.143 0 552.143 0 552.143 0 552.143 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.84174998390343e-316" gYpos="0" gWidth="2.12199999991051e-314" gHeight="1.28061815402051e-320" LAYER="0" BOOKMARK="0" NEXTITEM="227" BACKITEM="86">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="8" PTYPE="2" XPOS="674.96055122126" YPOS="2969.45187400787" WIDTH="165" HEIGHT="173.563" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.366666666666667" LOCALSCY="0.366666666666667" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Quelldateien/Wesnoth/troll.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="36" POCOOR="0 0 0 0 57.2368 0 57.2368 0 57.2368 0 57.2368 0 165 0 165 0 165 0 165 0 165 173.563 165 173.563 165 173.563 165 173.563 0 173.563 0 173.563 0 173.563 0 173.563 0 86.9134 0 86.9134 0 86.9134 0 86.9134 0 67.0917 0 67.0917 0 67.0917 0 67.0917 0 53.3904 0 53.3904 0 53.3904 0 53.3904 0 22.0543 0 22.0543 0 22.0543 0 22.0543 0 0 0 0 " NUMCO="88" COCOOR="55.1493 17.9519 55.1493 17.9519 57.217 13.0646 57.217 13.0646 57.217 13.0646 57.217 13.0646 82.405 14.5684 82.405 14.5684 82.405 14.5684 82.405 14.5684 99.1343 11.7489 99.1343 11.7489 99.1343 11.7489 99.1343 11.7489 115.112 10.997 115.112 10.997 115.112 10.997 115.112 10.997 138.414 3.33219 138.414 3.33219 138.414 3.33219 138.414 3.33219 138.414 35.3277 138.414 35.3277 138.414 35.3277 138.414 35.3277 164.736 43.8849 164.736 43.8849 164.736 43.8849 164.736 43.8849 164.689 56.9021 164.689 56.9021 164.689 56.9021 164.689 56.9021 164.613 76.6688 164.613 76.6688 164.613 76.6688 164.613 76.6688 164.396 123.992 164.396 123.992 164.396 123.992 164.396 123.992 164.339 143.143 164.339 143.143 164.339 143.143 164.339 143.143 164.248 173.563 164.248 173.563 164.248 173.563 164.248 173.563 148.389 173.49 148.389 173.49 148.389 173.49 148.389 173.49 47.6306 173.027 47.6306 173.027 47.6306 173.027 47.6306 173.027 43.8712 165.32 43.8712 165.32 43.8712 165.32 43.8712 165.32 47.3527 148.832 47.3527 148.832 47.3527 148.832 47.3527 148.832 53.0817 131.298 53.0817 131.298 53.0817 131.298 53.0817 131.298 16.4275 109.117 16.4275 109.117 16.4275 109.117 16.4275 109.117 15.2997 44.6436 15.2997 44.6436 15.2997 44.6436 15.2997 44.6436 28.6456 40.3348 28.6456 40.3348 28.6456 40.3348 28.6456 40.3348 68.4952 25.8466 68.4952 25.8466 68.4952 25.8466 68.4952 25.8466 55.1493 17.9519 55.1493 17.9519 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -4519,7 +4551,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="20" PTYPE="4" XPOS="545.834645669291" YPOS="6806.08464566929" WIDTH="188.143937007874" HEIGHT="76.2777480314976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.83527559055118" PCOLOR="None" PCOLOR2="bab-grau-Khaki" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="64" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4.25196850393701" TEXTRA="2.83464566929134" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 188.144 0 188.144 0 188.144 0 188.144 0 188.144 76.2777 188.144 76.2777 188.144 76.2777 188.144 76.2777 0 76.2777 0 76.2777 0 76.2777 0 76.2777 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 188.144 0 188.144 0 188.144 0 188.144 0 188.144 76.2777 188.144 76.2777 188.144 76.2777 188.144 76.2777 0 76.2777 0 76.2777 0 76.2777 0 76.2777 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="20" PTYPE="4" XPOS="545.834645669291" YPOS="6806.08464566929" WIDTH="188.143937007874" HEIGHT="85.2477165354344" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.83527559055118" PCOLOR="None" PCOLOR2="bab-grau-Khaki" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="64" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4.25196850393701" TEXTRA="2.83464566929134" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 188.144 0 188.144 0 188.144 0 188.144 0 188.144 85.2477 188.144 85.2477 188.144 85.2477 188.144 85.2477 0 85.2477 0 85.2477 0 85.2477 0 85.2477 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 188.144 0 188.144 0 188.144 0 188.144 0 188.144 85.2477 188.144 85.2477 188.144 85.2477 188.144 85.2477 0 85.2477 0 85.2477 0 85.2477 0 85.2477 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT BASEO="-30" CH="Kosten und Werte"/>
             <para PARENT="Seitenleiste-Titel" ALIGN="1"/>
             <tab/>
@@ -4563,6 +4595,92 @@
             <ITEXT CH="12"/>
             <tab/>
             <ITEXT CH="15"/>
+            <para/>
+            <ITEXT CH="Merkmal"/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <tab/>
+            <ITEXT CH="-"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="37" PTYPE="4" XPOS="299.219779527561" YPOS="12519.5556220472" WIDTH="178.402425194659" HEIGHT="105.26655121395" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.835275591" PCOLOR="None" PCOLOR2="bab-grau-Khaki" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="64" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4.251968504" TEXTRA="2.834645669" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 178.402 0 178.402 0 178.402 0 178.402 0 178.402 105.267 178.402 105.267 178.402 105.267 178.402 105.267 0 105.267 0 105.267 0 105.267 0 105.267 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 178.402 0 178.402 0 178.402 0 178.402 0 178.402 105.267 178.402 105.267 178.402 105.267 178.402 105.267 0 105.267 0 105.267 0 105.267 0 105.267 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Niedrige Trefferpunkte"/>
+            <para PARENT="Seitenleiste-Titel" ALIGN="1"/>
+            <ITEXT CH="Rest"/>
+            <tab/>
+            <ITEXT CH="MW"/>
+            <tab/>
+            <ITEXT CH="Malus"/>
+            <tab/>
+            <ITEXT CH="Probe misslungen"/>
+            <para/>
+            <ITEXT CH="TP"/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <para/>
+            <ITEXT CH="TP/3"/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <tab/>
+            <ITEXT CH="-­1"/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <para/>
+            <ITEXT CH="0"/>
+            <tab/>
+            <ITEXT CH="12"/>
+            <tab/>
+            <ITEXT CH="-­3"/>
+            <tab/>
+            <ITEXT CH="kamfunfähig"/>
+            <para/>
+            <ITEXT CH="-­TP"/>
+            <tab/>
+            <ITEXT CH="12"/>
+            <tab/>
+            <ITEXT CH="-­3"/>
+            <tab/>
+            <ITEXT CH="tot"/>
+            <para/>
+            <ITEXT CH="-­2xTP"/>
+            <tab/>
+            <ITEXT CH="15"/>
+            <tab/>
+            <ITEXT CH="-­3"/>
+            <tab/>
+            <ITEXT CH="tot"/>
+            <para/>
+            <ITEXT CH="-­3xTP"/>
+            <tab/>
+            <ITEXT CH="18"/>
+            <tab/>
+            <ITEXT CH="-­3"/>
+            <tab/>
+            <ITEXT CH="tot"/>
+            <para/>
+            <ITEXT CH="-­4xTP"/>
+            <tab/>
+            <ITEXT CH="21"/>
+            <tab/>
+            <ITEXT CH="-­3"/>
+            <tab/>
+            <ITEXT CH="tot"/>
+            <para/>
+            <ITEXT CH="-­5xTP"/>
+            <tab/>
+            <ITEXT CH="Tot"/>
+            <tab/>
+            <ITEXT CH="-­"/>
+            <tab/>
+            <ITEXT CH="-"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
