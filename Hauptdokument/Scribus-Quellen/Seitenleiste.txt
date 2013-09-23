@@ -425,8 +425,8 @@ Im EWS brauchen beide 2 Wochen, bis sie nicht mehr behindern.
 
 #Beispielwaffen:
 Nahkampfwaffe: Schaden
-- Stab:		3
 - Dolch:		2
+- Stab:		3
 - Schwert:	4
 - Kriegshammer:	8
 - Doppelaxt:	10
