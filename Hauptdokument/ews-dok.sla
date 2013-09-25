@@ -1242,7 +1242,9 @@
             <para PARENT="EWS Fluss"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Dabei entspricht ein "/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH=""/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <ITEXT CH=" etwa 18 CP aus Gurps, und es entstehen die folgenden Werte:"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="1w6 &lt;-&gt; Gurps®"/>
@@ -2501,7 +2503,7 @@
             <ITEXT CH="Für Nahkampf wählt er Gewandt, was ihm als passende starke Eigenschaft einen Punkt Bonus auf seinen Wert gibt, so dass er insgesamt ein routinierter Kämpfer ist (er kommt von 12 auf 13)."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="Für die Kunst des Flirtens wählt er Stilvoll und Gewandt, erhält also 3 Punkte Bonus und beherrscht so auch die Kunst des Flirtens sehr gut (16)."/>
+            <ITEXT CH="Für die Kunst des Flirtens wählt er Stilvoll und Gewandt, erhält also 3 Punkte Bonus und beherrscht so auch die Kunst des Flirtens erfahren (15)."/>
             <para PARENT="EWS Kursiv"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Sein Beruf &quot;Diplomat&quot; gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit) und sein Stilgefühl verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. Auch hier bekommt er pro Plus (&quot;+&quot;) der jeweiligen Eigenschaft einen Punkt Bonus."/>
@@ -2527,6 +2529,8 @@
             <para PARENT="EWS Regel"/>
             <ITEXT CH="- Stilvoll:"/>
             <tab/>
+            <tab/>
+            <tab/>
             <ITEXT CH="++ (18)"/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
@@ -2534,11 +2538,11 @@
             <para PARENT="EWS Regel"/>
             <ITEXT CH="- Nahkampf (Fechtkunst):"/>
             <tab/>
-            <ITEXT CH="+ (12+2 = 14)"/>
+            <ITEXT CH="+ (12+1 = 13)"/>
             <para PARENT="EWS Regel"/>
             <ITEXT CH="- Kunst des Flirtens: "/>
             <tab/>
-            <ITEXT CH="+ (12+2 = 14)"/>
+            <ITEXT CH="+ (12+3 = 15)"/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Beruf: Diplomat: "/>
@@ -2650,6 +2654,7 @@
             <tab/>
             <ITEXT CH="kostet 1 "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <para PARENT="EWS Regel"/>
             <tab/>
             <ITEXT CH="von +"/>
@@ -2658,6 +2663,7 @@
             <tab/>
             <ITEXT CH="kostet 2 "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <para PARENT="EWS Regel"/>
             <tab/>
             <ITEXT CH="von ++"/>
@@ -2666,6 +2672,7 @@
             <tab/>
             <ITEXT CH="kostet 3 "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="4) Stärken für Schwächen"/>
@@ -2688,6 +2695,7 @@
             <tab/>
             <ITEXT CH="auf – senken gibt 1 "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <para PARENT="EWS Regel"/>
             <tab/>
             <ITEXT CH="von – "/>
@@ -2696,12 +2704,14 @@
             <tab/>
             <ITEXT CH="gibt 2 "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <para PARENT="EWS Regel"/>
             <tab/>
             <ITEXT CH="von –– "/>
             <tab/>
             <ITEXT CH="auf ––– gibt 3 "/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <para PARENT="EWS Regel"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="5) Eigenschaftsboni"/>
@@ -2979,8 +2989,6 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Kampf:"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Martial Arts Modul (MAMo)"/>
-            <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Fokusmodul Kampf (FoKa)"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Taktische Kämpfe (TakM)"/>
@@ -3110,7 +3118,10 @@
             <ITEXT CH="(17)"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Fitness: +,"/>
-            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="ΔΔ"/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <tab/>
             <ITEXT CH="(18) = ++"/>
             <para PARENT="EWS Fluss"/>
@@ -3562,7 +3573,7 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="© 2003 - 2013 - Arne Babenhauserheide"/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), Andreas Jehle (Spieler), Jens Stengel (Spieler), Achim Zien (Konf, Program­­mierung), Trudy Wenzel (Coverbild), ...und vielen anderen:"/>
+            <ITEXT CH="unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), Andreas Jehle (Spieler), Jens Stengel (Spieler), Achim Zien (Konf, Programmierung), Trudy Wenzel (Coverbild), ...und vielen anderen:"/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- leute.1w6.org"/>
             <para PARENT="EWS Fluss"/>
@@ -3572,15 +3583,9 @@
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="Die Grafiken wurden uns von wundervollen Künstlern zur Verfügung gestellt, die die freie Verwendung ihrer Werke erlauben: "/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Trudy Wenzel: Logo, Drache, Echsenmensch mit "/>
+            <ITEXT CH="- Trudy Wenzel: Logo, Drache, Echsenmensch mit Keule, Echsenfrau in Lendenschurz, Katzenmensch, Vogel."/>
             <para PARENT="EWS Fluss"/>
-            <ITEXT CH="  Keule, Echsenfrau in Lendenschurz, Katzenmensch,"/>
-            <para PARENT="EWS Fluss"/>
-            <ITEXT CH="  Vogel."/>
-            <para PARENT="EWS Fluss"/>
-            <ITEXT CH="- Emilien Rotival: Lady Outlaw, Alter Zwerg, Reiter, "/>
-            <para PARENT="EWS Fluss"/>
-            <ITEXT CH="  Elfen-Marshal, Rote Fee."/>
+            <ITEXT CH="- Emilien Rotival: Lady Outlaw, Alter Zwerg, Reiter, Elfen-Marshal, Rote Fee."/>
             <para PARENT="EWS Fluss"/>
             <ITEXT CH="- Marcus Rosen: Dämon."/>
             <para PARENT="EWS Fluss"/>
@@ -3632,7 +3637,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="546.83262992126" YPOS="53.1665598425197" WIDTH="371.834" HEIGHT="73" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 371.834 0 371.834 0 371.834 0 371.834 0 371.834 73 371.834 73 371.834 73 371.834 73 0 73 0 73 0 73 0 73 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 371.834 0 371.834 0 371.834 0 371.834 0 371.834 73 371.834 73 371.834 73 371.834 73 0 73 0 73 0 73 0 73 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Haupttitel" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Ein Wür­fel System"/>
+            <ITEXT CH="Ein­-­Würfel-System"/>
             <trail PARENT="Haupttitel"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -3874,7 +3879,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="778.595212598427" YPOS="96.3248818897482" WIDTH="121.102" HEIGHT="15.8343" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="9.6" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Quicksand Light" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 121.102 0 121.102 0 121.102 0 121.102 0 121.102 15.8343 121.102 15.8343 121.102 15.8343 121.102 15.8343 0 15.8343 0 15.8343 0 15.8343 0 15.8343 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 121.102 0 121.102 0 121.102 0 121.102 0 121.102 15.8343 121.102 15.8343 121.102 15.8343 121.102 15.8343 0 15.8343 0 15.8343 0 15.8343 0 15.8343 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.63041663127611e-322" gYpos="4.24779999210091e-316" gWidth="4.69977998987841e-316" gHeight="7.90505033345994e-322" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Quicksand Light" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="2.6b3"/>
+            <ITEXT FONT="Quicksand Light" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="2.6.0"/>
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4308,7 +4313,7 @@
             <para PARENT="EWS Fluss" LINESPMode="1"/>
             <ITEXT CH="- Auswirkungen von Ver­let­zun­gen: 23 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
-            <ITEXT CH="- Das Ein Wurf Sys­tem: 25 -"/>
+            <ITEXT CH="- Das Ein-Wurf-Sys­tem: 25 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
             <ITEXT CH="- Hinweise zum Leiten: 27 -"/>
             <para PARENT="EWS Fluss" LINESPMode="1"/>
@@ -4562,11 +4567,31 @@
             <para PARENT="Seitenleiste-Titel"/>
             <tab/>
             <tab/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH=""/>
             <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <tab/>
-            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="ΔΔΔ"/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <tab/>
-            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="ΔΔΔΔΔΔ"/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
+            <ITEXT FONT="Vn URW Bookman L BookmanL" CH="Δ"/>
+            <ITEXT CH=""/>
             <para/>
             <ITEXT CH="Eigenschaft"/>
             <tab/>
