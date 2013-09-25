@@ -268,7 +268,7 @@ Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften 
 
 *Für Nahkampf wählt er Gewandt, was ihm als passende starke Eigenschaft einen Punkt Bonus auf seinen Wert gibt, so dass er insgesamt ein routinierter Kämpfer ist (er kommt von 12 auf 13).
 
-*Für die Kunst des Flirtens wählt er Stilvoll und Gewandt, erhält also 3 Punkte Bonus und beherrscht so auch die Kunst des Flirtens sehr gut (16).
+*Für die Kunst des Flirtens wählt er Stilvoll und Gewandt, erhält also 3 Punkte Bonus und beherrscht so auch die Kunst des Flirtens erfahren (15).
 
 *Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit) und sein Stilgefühl verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss. Auch hier bekommt er pro Plus ("+") der jeweiligen Eigenschaft einen Punkt Bonus.
 
@@ -280,11 +280,11 @@ Und damit ist Svens Charakter beinahe spielfertig.
 
 **Eigenschaften:
 **- sehr gewandt: 		+ (15)
-**- Stilvoll:	++ (18)
+**- Stilvoll:			++ (18)
 
 **Fertigkeiten:
-**- Nahkampf (Fechtkunst):	+ (12+2 = 14)
-**- Kunst des Flirtens: 	+ (12+2 = 14)
+**- Nahkampf (Fechtkunst):	+ (12+1 = 13)
+**- Kunst des Flirtens: 	+ (12+3 = 15)
 
 **Beruf: Diplomat: 		+ (9)
 
