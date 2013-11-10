@@ -3140,4 +3140,20 @@ Urheber der besten Bilder gefunden (in wesnoth-core gibt es ARTISTS¹, in wesnot
 
 ¹: ~/Quell/Programme/wesnoth-old/data/core/images/portraits/ARTISTS
 
+------
 
+*Notiz zu Abenteuer!*
+
+http://analogkonsole.wordpress.com/2013/11/10/wenn-regelleicht-immer-noch-viel-zu-schwer-ist-eight-budda-palms-fur-fantasy/#comment-1205
+
+Mit dem schnellen Wachstum des Regelwerks geht es dir wohl wie den meisten anderen Systemen…
+
+Wir haben es bei 1w6 bisher zum Glück geschafft, einfach zu bleiben. Methode: Das Rad nicht neu erfinden (auf Gurps und Fudge zurückgreifen: Dadurch konnten wir der Gefahr entgehen, uns in Detailerfindungen zu verstricken), von Anfang an sicherstellen, dass die Regeln klassische Spiele darstellen können, immer weiter suchen, ob wir die Regeln weiter vereinfachen können und möglichst wenig vorwegnehmen: Lass die Spielenden möglichst viel selbst erschaffen und verzichte auf von den Regeln vorgegebene Listen. Regeln müssen funktionierende Strukturen fördern, ohne feste Einschränkungen für die Benennung der Werte von Charakteren zu brauchen.
+
+Das bisherige leichteste Ergebnis davon sind immernoch die Flyerbücher: http://1w6.org/deutsch/regeln/flyerbuecher/regeltext (gesamter Regeltext)
+
+Allerdings bedeutet ein so grundlegender Ansatz, dass der Weg zum EWS 3 sehr langwierig war und ist. Unser Plan ist zwar inzwischen endlich vollständig, aber wir brauchen vermutlich noch Jahre an Spieltests, bis wir wirklich sicher sein können, dass wir die richtigen Strukturen gefunden haben: http://1w6.org/forum/allgemeines/regeln-welten-ideen/2013-04-30-konzepte-f-r-ews-30-635
+
+Und ich glaube, ein Grund, warum das bei uns geklappt hat ist, dass ich als Hauptbastler der Regeln nicht die Welt schreibe und auch nur einen Teil der Runden leite. Dadurch konnte ich mich auf die Grundlagen der Regeln konzentrieren.
+
+Und vielleicht kann euch das bei der Entwicklung helfen: Die Regeln von der Welt zu trennen (auch personell) und auf Einfachheit der Regeln zu achten macht es einfacher, die Regeln schlank zu halten.
