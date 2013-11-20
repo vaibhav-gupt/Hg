@@ -1,0 +1,167 @@
+Was sind 1w6-Flyer?
+
+#+OPTIONS: toc:nil
+#+LaTeX_CLASS: leaflet
+##+LaTeX_CLASS_OPTIONS: [a5paper]
+#+LATEX_HEADER: \setlength{\parindent}{0cm}\setlength{\parskip}{2ex}\date{}\author{}
+#+DATE: 
+#+AUTHOR:
+
+# Testen:
+# \AddToBackground*{2}{% Background of a large page
+# \put(xxx,yyy){\includegraphics[scale=0.7]{linuxpinguin}}
+
+Die Flyer sind eine Anleitung zum Rollenspielen, das heißt, mit ihnen
+werden in der Gruppe gemeinsame Geschichten erschaffen und Abenteuer
+erlebt. Sie sind den Abenteuer-Spielbüchern ähnlich, bei denen in einem
+Buch nach jedem Abschnitt Entscheidungen stehen, die die Leser in
+unterschiedliche Teile der Geschichte bringen. Statt dass alle
+Abschnitte vorher geschrieben werden, gibt es allerdings eine
+Spielleitung (SL), die die Geschehnisse improvisiert und dabei auf die
+Ideen aller Betiligten eingehen kann.
+
+Diese SL beschreibt die Umgebung, stellt Personen dar, auf die die
+anderen Beteiligten treffen und überlegt sich spannende
+Komplikationen.  Die anderen Beteiligten sind die Spielerinnen und
+übernehmen jeweils die Rolle einer Hauptperson in der Geschichte,
+„Charakter“ genannt. Sie überlegen sich, was sie in der jeweiligen
+Situation tun wollen, beschreiben, wie sie handeln und stellen ihren
+Charakter dar. Meist sprechen sie in erster Person, was ihr Charakter
+sagt.
+
+\newpage
+* Einstieg
+
+Konkret suchen sich die Spielerinnen am Anfang eine der
+Charakterkarten aus, so dass sie ein Gerüst haben, das ihnen grobe
+Ideen gibt, was ihren Charakter ausmacht. Zusätzlich haben sie Werte
+auf dieser Karte. Durch diese Werte kann einfach ausgewürfelt werden,
+ob eine ihrer Handlung klappt, wenn unklar ist, ob sie gelingt, Werte
+sind das, was Rollenspiele von gemeinsamem Erzählen unterscheidet. Auf
+diese Art erhalten Geschichten in Rollenspielen eine
+Zufallskomponente, durch die das Spiel spontaner wird.
+
+Die Regeln, wie das abläuft, stehen auf dem Grundflyer, so dass ich sie
+hier nicht wiederholen werde. Stattdessen will ich kurz erklären, was
+das nun konkret bedeutet. Und der beste Weg dafür ist ein Spielbeispiel:
+
+* Spielbeispiel
+
+Sven, Tamara und Jochen treffen sich zum Spielen. Sven wird SL sein,
+Tamara hat sich die Leiterin der Wache ausgesucht und legt deren Karte
+vor sich. Jochen hat die Karte des Händlers gewählt. Zusätzlich haben
+sie einen Stift und einen Würfel, und sie haben die Vorderseite des
+Grundflyers gelesen. Hätten sie das nicht getan, würde Sven als erstes
+diesen Text vorlesen, um die passende Stimmung aufzubauen.
+
+Sven guckt die anderen an und als die nicken beginnt er: „Also fangen
+wir an. Ihr seid im Innenhof des Handelshauses Münzwechsler. Zwölf
+gewaltige Karossen stehen nebeneinander, jeweils ein Paar Riesenechsen
+vorgespannt. Die Geschirre der Tiere sind bereits mit magischer
+Energie aufgeladen und Dampf entweicht ihnen zischend. Gespannt warten
+Händler, Wanderarbeiter und Siedler auf die Ansprache der
+Trekkführerin...“
+
+In Svens kurze PAuse wirft Jochen ein: „Ich schaue mich mal um. Gibt
+es irgendjemanden, der gelangweilt wirkt, so dass ich ihm meine Sachen
+verkaufen könnte?“
+
+Sven: „Klar. Weit hinten stehen einige Jugendliche. Sie tragen die
+Gewandung der Händler und scharren gelangweilt mit den Füßen.“
+
+Jochen: „Das ist klasse. Ich gehe zu ihnen: ‚Grüßt euch, ihr Herren. Ich
+bin Awwar, reisender Krämer, und ich bin sicher, ich habe hier einige
+Kleinigkeiten, die für euch nützlich sein könnten.‘“
+
+Sven: „Der Größte von ihnen, ein Schwarzhaariger in grober brauner
+Leinengewandung, wendet sich dir zu:“
+
+(Sven sucht einen Beispielnamen aus dem Flyer)
+
+Sven: ‚Ich bin Medan, was hast du?‘“
+
+Tamara: „Sag mal, Sven, bekomme ich das mit?“
+
+Sven: „Klar.“
+
+Tamara: „Ich gehe zu dem Händler rüber: ‚Hast du Lederbänder? Meine
+Trageriemen sind schon so morsch, dass sie die Fahrt kaum überstehen
+werden.‘“
+
+Jochen: „‚Klar. Macht 3 Kupfermünzen. Sie sind doch die Leiterin der
+Wache, richtig?‘“
+
+…
+
+\newpage
+
+* SL: Entscheidungen
+
+Wenn eine Spielerin etwas tun will, sagt sie das den anderen
+Beteiligten. Wenn dafür ein Aspekt der Situation gebraucht wird, der
+nicht beschrieben wurde, muss die SL diesen Aspekt festlegen. Sie
+entscheidet sich meist zwischen 4 Möglichkeiten:
+
+-  Erfreuend: Dieser Aspekt fördert, was die Spielerin will,
+-  Überraschend: Der Aspekt soll die Spielerin überraschen.
+-  Wahrscheinlich: Er ist genau, wie man erwarten würde, oder
+-  Fordernd: Er fordert die Spielerin heraus, indem sie sich mit einer
+   ihrer Schwächen oder einer der Schwächen ihres Charakters
+   auseinandersetzen muss oder auf andere Art mit Konfliktpunkten ihres
+   Charakters oder Wesens konfrontiert wird.
+
+Die SL muss also überlegen, welche Antwort das Spiel am meisten
+bereichert. Zusätzlich braucht sie noch Namen und Werte. Für beides
+gibt es auf den Flyern Vorlagen.
+** Beispiel
+
+Als Jochen Sven fragt, ob es jemanden gibt, der gelangweilt wirkt, muss
+Sven eine Entscheidung treffen. Offensichtlich will Jochen etwas
+verkaufen, also wäre die erfreuende Antwort, dass da jemand ist, der von
+den Waren begeistert ist und gleich sehr viel kauft. Überraschend wäre
+es dagegen, wenn sich diese Person als eine alte Bekannte herausstellt,
+die versucht, Jochens Charakter Awwar davon zu überzeugen, den Trekk
+aufzuhalten. Wahrscheinlich wäre allerdings eher, dass nur ein paar
+gelangweilte Halbstarke herumstehen. Und fordernd wäre es, wenn jemand
+Awwar beleidigen würde, weil er nicht zuhört. Für die erfreuende Antwort
+ist es Sven noch zu früh, denn das würde sehr viel Aufmerksamkeit auf
+Awwar lenken, der noch alleine ist, und könnten die anderen Spielerinnen
+lange nur zuhören. Das gleiche gilt für die überraschende und die
+fordernde Antwort, also wählt er die zu erwartende.
+
+Die auch mögliche Antwort, „nein, sie hören alle gebannt zu“ lässt
+Sven direkt außen vor, weil sie weder die wahrscheinlichste ist, noch
+sonstige offensichtliche Vorteile bringt. Außerdem ist ein „nein“ als
+Antwort auf eine Frage in den meisten Fällen weniger spannend, als ein
+„Ja, aber...“, „Ja, und dadurch...“ oder „Ja, wenn du...“. Jede Frage
+seitens der Spielerinnen und jede Idee ist ein Anstoß für die
+Geschichte. Und es ist eine der Aufgaben der SL, diese Anstöße zu
+nutzen und dabei möglichst viele der anderen Spielerinnen
+miteinzubeziehen.
+
+Als Tamara später fragt, ob sie das Gespräch mitbekommt, wählt Sven die
+erfreuende Antwort, damit beide Hauptcharaktere zusammengeführt werden.
+
+* Große Runden
+
+Wenn in einer Runde mehr als 6 Spielerinnen sind, ist es sehr
+empfehlenswert, der SL noch eine Co-SL an die Seite zu stellen. Große
+Gruppen teilen sich oft für einige Zeit in Untergruppen auf, und wenn
+mehrere Spielerinnen gleichzeitig Informationen brauchen, müssen sie
+sich bei nur eine SL alle an die gleiche Person wenden, was das Spiel
+stark ausbremsen kann. Eine CO-SL löst diese Probleme.
+
+Wichtig sind dabei eine klare Aufgabenteilung und effiziente
+Kommunikation zwischen SL und Co-SL. Die SL trifft alle
+Entscheidungen, die die Gesamtgeschichte betreffen. Ist die Gruppe
+getrennt, kann die Co-SL für ihre Untergruppe Entscheidungen treffen,
+solange sie die andere Untergruppe nicht direkt betreffen. Andere
+Möglichkeiten sollten vorher abgesprochen werden. Falls sich dabei
+doch einmal Informationen widersprechen, lässt sich das mit etwas
+Kreativität meistens lösen - und aus solchen Situationen können die
+spannendsten Geschichten entstehen.
+
+Wenn die Gruppen getrennt waren und wieder zusammenkommen, sollten die
+SL und die Co-SL sich gegenseitig auf den neusten Stand bringen: Was ist
+passiert? Gab es handlungsrelevante Ereignisse, die die andere SL auch
+wissen muss? Gibt es neue Personen?
