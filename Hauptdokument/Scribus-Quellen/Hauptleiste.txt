@@ -723,7 +723,7 @@ Fast jede Waffe kann außerdem bis zum dreifachen ihrer Reichweite eingesetzt we
 
 **Kurze Entfernung sind durchschnittlich 5 Meter, Mittlere sind bis zu 50 Meter, Weite kann je nach Waffe bis zu 500 Meter betragen. Ein Zielfernrohr reduziert bei ruhigem Schuss den Mindestwurf durch die Entfernung je nach Fernrohr um 3 bis 6 Punkte, allerdings nicht unter Kurz.
 
-Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (5/6).
+Ein entspannter, durchschnittlicher Schütze (FW: 12) trifft ein unbewegtes, etwa menschengroßes Ziel auf kurze Entfernung fast immer (83%).
 
 Die Kampfmindestwürfe müssen immer dann genommen werden, wenn der angreifende Charakter auch selbst in Gefahr ist, weil er dann nicht die Ruhe hat, sich richtig zu konzentrieren und ständig in leichter Bewegung bleiben muss, um kein zu gutes Ziel zu bieten. Ein Scharfschütze benutzt also meistens die Mindestwürfe für ruhige Situationen, ein Straßenkämpfer die für den Kampf.
 
@@ -809,8 +809,7 @@ Quelldateien: quellen.1w6.org
 
 Es wurde erstellt von
 © 2003 - 2013 - Arne Babenhauserheide
-unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), Andreas Jehle (Spieler), Jens Stengel (Spieler), Achim Zien (Konf, Programmierung), Trudy Wenzel (Coverbild), ...und vielen anderen:
-- leute.1w6.org
+unter Mithilfe von Julian Groß (SL, RaumZeit), Oliver Jahnel (Spieler, MAMo), Andreas Jehle (Spieler), Jens Stengel (Spieler), Achim Zien (Konf, Programmierung), Trudy Wenzel (Coverbild), ...und vielen anderen: leute.1w6.org
 
 Außerdem mit Inspirationen aus Universe (von Hannah Silbernagl), Striker (von Luciano Graffeo), Mechanical Dream® (Steamlogic) und vielen weiteren.
 
@@ -820,6 +819,7 @@ Die Grafiken wurden uns von wundervollen Künstlern zur Verfügung gestellt, die
 - Marcus Rosen: Dämon.
 - Philipp Barber: Zwergischer Runenmeister.
 - Bora Orcal und Kathrin Polikeit: Speerträger.
+- Santiago Iborra: Merfolk Oracle.
 - Kathrin Polikeit (Kitty): Restliche Charakerbilder.
 - Wesnoth Art Team: Icons.
 - WTactics Projekt: Axt, Gemeinsam stark.
@@ -831,12 +831,9 @@ Das Design dieser Version wurde maßgeblich von Tim Charzinski verbessert. Es ma
 An dieser Stelle: Danke!
 
 Und vielen Dank an meine Frau, die meine Verrücktheiten unterstützt.
-
-<fuss>PS: Vom Autor empfohlen ab 14 Jahren.
 # Einfach saubere Regeln
 
 ##- Klare Ergebnisse, plastische Charaktere -
 ##- Selbstbenannte Eigenschaften, Fertigkeiten, … -
 ##- Kompatibel mit Gurps und Fudge -
 ##- Ein Würfel -
-
