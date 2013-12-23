@@ -1,0 +1,37 @@
+Hi André, 
+
+Ich weiß nicht, ob du dich noch daran erinnerst, wie ich dir das letzte Mal vom Ein Würfel System geschrieben habe. 
+
+Du hast damals gesagt: "Bleib dran", und genau das habe ich getan. 
+
+Seit da hat sich das EWS stark verändert, ist einfacher und klarer geworden, und die 5 Jahre, die wir es nun schon testen, haben es zu einem kleinen 48-seitigen Heft geformt, das einfache und trotzdem für langlaufende Kampagnen geeignete Regeln enthält. 
+
+Seit Version 1.0 wurde es strukturierter, viele Sonderregeln landeten in Modulen, die Texte wurden sauberer und ich habe endlich eine klare Linie gefunden, was die Besonderheit des Ein Würfel Systems ausmacht: 
+
+- Jeder Spieler wählt genau die Eigenschaften, Fertigkeiten und Merkmale, die zu seinem Charakter passen. 
+
+- Das Grundsystem enthält nur die Regeln, die wirklich fast jede Runde braucht. Alles andere ist in Module ausgelagert. Dadurch bleibt es schlank und kann gleichzeitig leicht an das in der Runde oder Welt gewünschte Spielgefühl angepasst werden. 
+
+- Es ist frei lizensiert. Das heißt, jeder darf es nutzen, weitergeben, verändern und verkaufen, solange er anderen wieder die gleichen Rechte mit seinem Anteil gibt. Es darf sogar in unfreie Werke eingebunden werden, solange der Regelteil frei bleibt. 
+
+- Merkmale und kreative Ideen können direkt aus Gurps® und Fudge(tm) übernommen werden, so dass bereits eine große Sammlung gut ausgearbeiter Sonderregeln zur Verfügung steht und das Regelwerk schlank bleiben kann. 
+
+- Es braucht nur einen einzelnen W6 pro Spieler. 
+
+
+Das Heft kann zusammen mit allen Arbeitsdateien von http://1w6.org heruntergeladen werden. 
+
+Über die Seite kann unsere Arbeit an dem Heft auch (fast) live verfolgt werden, und dank Versionsverwaltungssystemen aus dem freien Softwarebereich können viele Leute gemeinsam daran arbeiten. 
+
+Und seit ein paar Monaten ist ein Schlachtfeldsimulator in Arbeit, der die Regeln des EWS umsetzt: http://1w6.org/schlachtfeld
+
+
+Ich hoffe, dass ich deine Ansicht bestätigen konnte, dass ich dran bleiben sollte :-) 
+
+Warum ich jetzt das hier alles schreibe? 
+Weil ich mich freuen würde, wenn der Envoyer es darüber berichten könnte. (War irgendwie vorherzusehen, oder? ;-) )
+
+Wenn ihr wollt, erhaltet ihr auch gerne ein oder mehrere Belegexemplare :-) 
+
+Lieben Gruß, 
+Arne alias Drak

@@ -1,0 +1,61 @@
+Wichtige Personen
+=================
+
+Mechanisches: 
+
+* Normaler Siedler: 4Δ
+* Sprecher, Leiter: 7Δ (wie die Charaktere: Angehende Helden)
+* Annike: 10Δ (erfahren)
+
+Im Trekk
+--------
+
+* Annike Wegfinder: Leiterin des Trekks. Auf der ersten Karosse.
+   - Erfahren: ++, Gerecht: +
+   - Beruf: Trekkführerin: 12
+   - Flinte: 15
+   - Schützenflinte: Schaden: 15, Schwierigkeiten: 12 bis 10m, 15 bis 50m, 18 bis 200m, 21 darüber hinaus. 
+   - Dem Trekk verpflichtet: -
+* Kolbert Nagelmacher mit seinem jungen und attraktiven Weib Sara
+* Der hakennasige Nathaniel Münzwechsler: Specher der Händler
+* Die ältere Rebekka Kupferstich: Sprecherin der Wanderarbeiter
+* Der hagere Theis aus Grashain: Sprecher der Siedler
+
+* Der weißgefiederte Vogelmensch Naaak: Kundschafter
+* Der zerzauste Katzenmensch Roijas: Heiler
+
+* Händler: Scharfsinnig/Stur/Wortgewandt: +, Beruf: Händler: 9, Verhandeln/Überreden/Buchhaltung (Besonderheit): 12, Besitz: Handelswaren. 
+* Wanderarbeiter [Handwerker]: Fingerspitzengefühl/Muskeln/Erfahrung: +, Beruf: *Handwerk einsetzen*: 12
+* Wanderarbeiter [Tagelöhner]: Muskeln/Ausdauer/Erfahrung: +, Gemeinschaft/Abgebrühtheit: +, Beruf: Tagelöhner: 9, Schleuder/Fabulieren/Glücksspiel: 12
+* Siedler: Mut/Neugier/Überzeugungskraft: +, Beruf: Bauer/Schäfer/Tagelöhner/Jäger: 9, Schleuder/Flötenspiel/Geschichtenerzählen/*Hobby*: 12, Gartenarbeit/Kochen/Kräuterkunde/Fallenstellen/Holzarbeit/*Praktische Fertigkeit*: 12 – Schleuder: Schaden 2-4 (Kleiner Stein-500g Bleikugel), Mindestwürfe zum Treffen im Kampf: 15 (<5m), 18 (<50m), 21 (<200m, nur mit Bleikugel); höher als bei Gewehr und Bogen, weil die Schleuder deutlich schwerer zu verwenden ist. Während Übungen 3 Punkte niedriger. 
+* Wache: Stark/Selbstbewusst/Aggressiv: +, Schnell/Ausdauernd/Gute Augen: +, Beruf: Wache, Kurzschwert/Speer: 12 – Kurzschwert/Speer: Schaden 3.
+
+Passende Schwächen für Siedler: Verzweifelt: -, 
+
+Verschieden Handwerke: Holzfäller, Kupferschmied, Mechanikus, Dampfer (für die magischen Dampfmaschinen), 
+
+Wanderprediger der Kirche des Flux
+----------------------------------
+
+* Baltzer der Stille: Magisch aktiv: Stillezauber. 
+    - Wahrer Glaube: +, Gesegnet und Geläutert¹: +
+    - Beruf: Priester: 9
+    - Gebet: Pfad der Stille²: 12, Gebet: Zauber stoppen³: 12
+    - Segnung: 2 Gebete
+    - Nachteil: Verhaltenskodex: Alle Magie läutern oder auslöschen
+    - ¹: Für Magie nutzbar, und für Widerstand gegen Magie
+    - ²: Baltzer legt beide Hände aneinander, löst sie dann ruckartig und legt sie auf den Boden. Er schafft dort wo er läuft einen eine Elle breiten Pfad, auf dem nichts einen Laut verursachen kann. Nach einer Minute föst sich der Pfad wieder auf. Ist der Pfad länger als 7 Meter, erschöpft er Baltzer und erschwert so eine Stunde lang alle seine Handlungen um 3 Punkte. Insgesamt kann Baltzer 20 Meter Pfad der Stille pro Tag erschaffen. Danach braucht er Ruhe. Um den Pfad zu beginnen, würfelt er gegen 9. 
+    - ³: Baltzer zeichnet einen Kreis in die Luft, wenn jemand Magie einsetzt. Dann presst er die Hände zusammen und würfelt auf Zauber stoppen. Ist sein Ergebnis höher oder gleich des Ergebnisses des Magiers, geht der Zauber ins Leere. Pro Tag kann er drei Zauber stoppen, die den anderen erschöpfen würden, oder 7 kleine, die den anderen nicht erschöpfen. Der andere erhält die Erschöpfung trotzdem. 
+* Päbstin Ether VII „Esther die Ruhige“
+* Normaler Wanderprediger: Fanatismus/Gemütsruhe/Charisma: +, Beruf: *Früherer Beruf*, Lehre des Flux: 12, *Frühere Spezialität*: 12
+* Erleuchter (Kämpfer der Prediger)
+
+Katzenmenschen
+--------------
+
+* Die rotscheckige Shanari, Sanftmütige Anführerin der Katzenmenschen
+   - Gemütsruhe: ++, Feingefühl: +
+   - Beruf: Schneiderin: 9
+   - Überzeugen: 12
+
+* Katzenmenschen: Gewandtheit: +, Beruf: verschiedene: 9, Waffe: Messer oder aufgehobener Stock/Stab (Schaden: 2) Kampfwert 9. 
