@@ -236,7 +236,7 @@ Zur Erschaffung des Charakters wählst du jetzt Eigenschaften und Merkmale, die 
 
 Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden Helden.
 
-**Ein angehender Held kann 7 Werte wählen, in denen er gut ist: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 guten Werten. Für jeden negativen Wert kann er einen zusätzlichen positiven Wert erhalten.
+**Ein angehender Held kann 7 Werte wählen, in denen er gut ist: pro Δ einen. Will er einen überragenden Wert, entspricht das 3 guten Werten. Für jeden negativen Wert kann er einen zusätzlichen guten Wert erhalten.
 
 *Sven will sich für eine kurze Fantasyrunde einen Charakter erstellen. Einen Namen hat er noch nicht, aber er weiß, dass er ein Degenkämpfer sein will und bei Frauen Erfolg haben soll.
 
@@ -258,13 +258,13 @@ Um diesen Text einfach zu halten, folgen wir der Erschaffung eines angehenden He
 
 *Nun bleibt nur noch, seine Werte aufzuschreiben und die Auswirkung der Eigenschaften auf seine Fertigkeiten zu wählen.
 
-Für jeden der Werte notiert Sven dafür als erstes ein Plus ("+"), das den Wert als starken Wert kennzeichnet und für die Bestimmung der Boni durch Eigenschaften und im Modul Charaktersteigerung (im Anhang) genutzt wird.
+Für jeden der guten Werte notiert Sven dafür als erstes ein Plus ("+"). Für das überragende Stilvoll notiert er zwei Plusse ("++"). Die Plusse werden für die Bestimmung der Boni durch Eigenschaften und im Modul Charaktersteigerung (im Anhang) genutzt.
 
-Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durchschnittlich, also bei 12, und im Beruf schwach, also bei 9. Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
+Dann fügt er die entsprechenden Zahlenwerte an: In jeder starken Eigenschaften ist er sehr gut, also bei 15, in jeder Fertigkeit ist sein Grundwert durch­schnittlich, also bei 12, und im Beruf schwach, also bei 9. Überragende sind jeweils 3 Punkte höher.Die Merkmale brauchen keine Werte, da auf sie nicht gewürfelt wird.
 
 *Für jede der Fertigkeiten wählt Sven nun zwei passende Eigenschaften.
 
-**Die den Fertigkeiten zugeordneten Eigenschaften geben für jedes Plus ("+") einen Punkt Bonus. Da Lazaros Eigenschaften bisher jeweils nur ein Plus haben, gibt jede zugeordnete Eigenschaft einen Punkt.
+**Die den Fertigkeiten zugeordneten Eigenschaften geben für jedes Plus ("+") einen Punkt Bonus. Gewandtheit gibt also einen Punkt Bonus, Stilvoll 2.
 
 *Für Nahkampf wählt er Gewandt, was ihm als passende starke Eigenschaft einen Punkt Bonus auf seinen Wert gibt, so dass er insgesamt ein routinierter Kämpfer ist (er kommt von 12 auf 13).
 
@@ -299,7 +299,9 @@ Und damit ist Svens Charakter beinahe spielfertig.
 
 Und hiermit ist er fertig.
 
-Die Erschaffung von Lazaro war die einfachste Möglichkeit Charaktere zu erschaffen. Es sind allerdings auch bei weitem komplexere Charaktere möglich.
+# Die 5 Regeln der Erschaffung
+
+Die Erschaffung von Lazaro war die einfachste Möglichkeit Charaktere zu erschaffen. Es sind allerdings auch bei weitem komplexere Charaktere möglich.
 
 Dabei gelten die folgenden fünf Regeln:
 
