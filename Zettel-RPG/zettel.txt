@@ -11,8 +11,8 @@ Was du da­für brauchst sind nur ein Zet­tel, ein Wür­fel, und ein Stift.
 
 Der Zet­tel ist für eu­re Cha­rak­te­re. Durch sie han­delt ihr in dei­ner Welt.
 
-Da­für braucht ihr erst­mal ei­ne Vor­stel­lung der Cha­rak­te­re.
-Um das ein­fach zu ma­chen, be­gin­nen wir mit eu­ren Be­ru­fen.
+Da­für braucht ihr ei­ne Vor­stel­lung der Cha­rak­te­re.
+Um die­se Vor­stel­lung zu ent­wickeln, be­gin­nen wir mit eu­ren Be­ru­fen.
 
 Was ha­ben eu­re Cha­rak­te­re ge­lernt, oder wie wer­den sie von an­de­ren be­zeich­net? Ich weiß, In­spi­ra­ti­on ist nicht ein­fach. Da­her soll­te ich Bei­spie­le ge­ben.
 
@@ -54,6 +54,9 @@ Da­mit sieht mein Zet­tel so aus:
     Die­bin
     - > Ta­schen­dieb­stahl
 
+   
+   
+   
     - Flö­ten­spiel
 
 Jetzt ha­be ich mei­ne Charak­te­rin schon recht weit. Sie ist ei­ne Ta­schen­die­bin und spielt ger­ne Flö­te.
@@ -75,7 +78,10 @@ Mein Zet­tel sieht nun so aus:
 
     Die­bin ++
     - > Ta­schen­dieb­stahl +
-
+    
+    
+    
+    
     - Flö­ten­spiel +
 Aber na­tür­lich muss ein Charak­ter nicht nur Stär­ken ha­ben. Pro­ble­me ma­chen ihn erst wirk­lich in­ter­essant.
 
@@ -89,7 +95,10 @@ Auf dem Zet­tel no­tie­ren wir Pro­ble­me mit ei­nem Ausrufe­zei­chen da
 
     Die­bin ++
     - > Ta­schen­dieb­stahl +
-
+    
+    
+    
+    
     - Flö­ten­spiel +
 
     ! Von der Wa­che ge­jagt 
@@ -103,7 +112,7 @@ Das ers­te kommt von ih­rer früh ge­stor­be­nen Mut­ter. Das zwei­te ist
 Da­mit sieht mein Zet­tel so aus:
 
     Ni­u­ve
-    - ---­
+    -----
 
     Die­bin ++
     - > Ta­schen­dieb­stahl +
@@ -128,7 +137,7 @@ Pro­ble­me ha­ben kei­ne Zah­len.
 Mein Zet­tel sieht nun so aus:
 
     Ni­u­ve
-    - ---­
+    -----
 
     Die­bin ++ 12
     - > Ta­schen­dieb­stahl + 15
