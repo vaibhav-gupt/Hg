@@ -430,7 +430,7 @@
             <ITEXT CH="Auf dem Zet­­tel no­­tie­­ren wir Pro­­ble­­me mit ei­­nem Ausrufe­­zei­­chen da­­vor."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Für je­­des Pro­­blem kannst du ein star­­kes Merk­­mal mehr neh­­men Mein Zet­­tel sieht da­­mit so aus:"/>
+            <ITEXT CH="Für je­­des Pro­­blem kannst du ein star­­kes Merk­­mal mehr neh­­men. Mein Zet­­tel sieht da­­mit so aus:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
