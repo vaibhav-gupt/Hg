@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# wget -m -np http://tekeli.li/onomastikon/ 
+wget -m -np http://tekeli.li/onomastikon/ 
 cd tekeli.li/onomastikon/
 grep \<td\> -r */ |sed "s/<td>//" | sed "s/<\/td>//" > alle-namen.txt
     
