@@ -70,7 +70,7 @@ with open("alle-namen-vorne.txt", "w", encoding="utf-8") as f:
             f.write(k.lstrip())
 '
 
-cp alle-namen-vorne.txt ../../../
+cp alle-namen-vorne.txt ../../
 
 # 12 zufällige Namen rausholen: 
 echo "cat alle-namen-vorne.txt | shuf | head -n 12"
