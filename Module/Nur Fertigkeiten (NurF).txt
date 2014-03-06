@@ -1,0 +1,76 @@
+Nur Fertigkeiten Modul (NurF)
+=============================
+
+*Charaktere nur mit Fertigkeiten beschreiben*
+
+Einführung
+----------
+
+In manchen Spielstilen ist die Beschreibung des Charakters mit Eigenschaften, Fertigkeiten und Merkmalen zu umständlich. Um das 1w6 system noch schlanker zu machen, können Charaktere nur mit Fertigkeiten beschrieben werden. 
+
+Durch diese schlankere Beschreibung wird es regeltechnisch etwas weniger wichtig, "wie ein Charakter ist" und dafür tritt stärker in den Vordergrund, "was ein Charakter kann".
+
+Wenn für deine Runde also am wichtigsten ist, was die Charaktere direkt tun (und weniger, wie sie es tun), dann könnte das Modul "Nur Fertigkeiten" für euch praktisch sein. 
+
+Das gleiche gilt, wenn ihr extrem schlanke Charaktere wollt. Wir schlank der Charakter dann wird, kannst du dir bei *Niuve* unten im Beispiel anschauen. 
+
+Grundlagen
+----------
+
+### Kurzfassung
+
+Charaktere haben keine Eigenschaften oder Merkmale mehr. Dafür erhalten Fertigkeiten Boni aus allen zur Situation passenden anderen Fertigkeiten (allerdings nicht Berufen).
+
+Jede passende andere Fertigkeit gibt dabei pro Plus in der Fertigkeit einen Bonus von 1. 
+
+Berufe (also Sammlungen von Fertigkeiten) erhalten keine Boni, können dafür aber vielseitiger genutzt werden. Ein Beruf kann mit dem NurE-Modul alles seon, aus dem sich Fertigkeiten ableiten lassen, also z.B. auch Archetypen und Klischees. Außerdem kann eine Fertigkeit auf einem beruf aufbauen, wie eine Spezialisierung auf einer Fertigkeit. Damit ist die Fertigkeit pro Plus 3 Punkte höher als der Beruf, auf dem sie aufbaut (lohnt sich nur für Fertigkeiten mit nur ein oder 2 Strichen oder Berufe mit mehr als einem Plus, also über 9). 
+
+Erhält ein Charakter später einen Beruf, zu dem einige seiner Fertigkeiten passen, dann kann er die Fertigkeiten auch nachträglich dem Beruf zuordnen. Er kann sie auch von einem Beruf auf den anderen wechseln, wenn sie zu beiden Berufen genauso gut passen würde. 
+
+Positive Merkmale werden durch grob entsprechende Fertigkeiten oder Berufe ersetzt. Negative Merkmale werden unter "Probleme" zusammengefasst. 
+
+### Charaktererschaffung
+
+Bei der Erschaffung wird es meinst am praktischten sein, für Charaktere erst Berufe oder Archetypen zu wählen und dann die Fertigkeiten, die zum Teil auf ihnen aufbauen. 
+
+Der Wert von Fertigkeiten, die auf Berufen aufbauen, ist dabei je Plus 3 Punkte über dem Wert des Berufes. 
+
+Für die Wundschwelle könnt ihr eine Fertigkeit wie "Treffer wegstecken" o.ä. nehmen. Für jedes Plus in der Fertigkeit steigt die Wundschwelle des Charakters um 1 (der Grundwert ist wie üblich 4). Falls ihr das Fokusmosul Kampf (FoKa) nutzt, steigen außerdem die TP um 3 pro Plus (Grundwert 12).  
+
+Beispiel
+--------
+
+Das einfachste Beispiel ist ein mit diesem Modul erschaffener Charakter. Also schauen wir uns einfach den Charakter von Kara an. Sie hat sich die angehende Heldin "Niuve" erschaffen: 
+
+### *Niuve* (Charakterdaten)
+
+Streunerin: ++ (12)
+\-> Taschendiebstahl: + (15)
+\--> auf dem Markt: + (18)
+\-> Bequatschen: + (15)
+
+\- Lesen, Schreiben: + (12)
+\- Flötenspiel (oft als Tarnung): + (12)
+
+Probleme: Gejagt von der Stadtwache (-)
+
+*Und das war auch schon der gesamte Regelteil des Charakterblattes.*
+
+### Etwas Erklärung
+
+Streunerin ist *Niuves* Beruf, also kommt sie mit zwei Plussen auf 12. 
+
+Auf dem Beruf Streunerin baut ihre Fertigkeit Taschendiebstahl auf, so dass sie mit einem Plus 3 Punkte höher ist, also bei 15. 
+
+Die Fertigkeit Taschendiebstahl hat sie wiederum spezialisiert auf "Taschendiebstahl auf dem Markt", so dass sie, wenn sie auf dem Markt jemanden bestehlen will, einen Wert von 18 hat. 
+
+Die zweite Fertigkeit, die auf ihrem Beruf aufbaut, ist Bequatschen, das sie schon aus vielen Problemen herausgebracht hat. 
+
+Die Fertigkeit "Lesen, Schreiben" baut auf keinem Beruf auf. Sie ist ein erbe ihrer Mutter, die Schreiberin war und an *Niuves* achtem Gebutstag gestorben ist (Geschichtsaufhänger! :) ). Daher ist sie mit einem Plus auf 12. 
+
+Das gleiche gilt für ihre Fertigkeit Flöte spielen - ihr Hobby, das sie auch als Diebin nutzt. Wenn sie Flöte spielt und dann die Leute, die ihr Geld geben, zusätzlich um ein paar ungewollte Spenden erleichtert, erhält sie einen Punkt Bonus auf ihren Wert in der Fertigkeit, ist also bei 16. Wenn sie es auf dem Markt tut, erhält sie den Bonus auf ihre Spezialisierung, kommt also auf einen überragenden Wert von 19. 
+
+Auch wenn sie versucht in ein Haus zu kommen, und sich als Flötenspielerin vorstellt, erhält sie einen Punkt Bonus auf ihren Bequatschen Wurf. 
+
+Wenn sie nur ihren Beruf "Streunerin" verwendet, bekommt sie allerdings keine Boni. 
+
