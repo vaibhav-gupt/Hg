@@ -81,7 +81,7 @@ Das EWS nimmt also die durch den [±W6](/w6) gegebene Geschwindigkeit des Würfe
 
 Dadurch findet es eine Synthese zwischen Bereichen die sich in den meisten Rollenspielen entgegenstehen: Handlungsfokus und hohe Bedeutung von Werten und Würfeln.
 
-Der beste Ausdruck für das Spielgefühl, das es damit erreicht, ist Direktheit.
+Der beste Ausdruck, den ich für das Spielgefühl gefunden habe, das das EWS damit erreicht, ist Direktheit.
 
 <a name="direktheiit" id="direktheit"></a>
 Direktheit
@@ -90,3 +90,5 @@ Direktheit
 Zu würfelnde Proben ergeben sich direkt aus der Handlung und die Bedeutung für die Handlung ergibt sich direkt aus den Proben, ohne dass zwischendrin der Kontext gewechselt werden muss.
 
 Selbst der Kampf ist einfach Teil der Handlung.
+
+
