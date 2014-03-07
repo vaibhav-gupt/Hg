@@ -16,24 +16,30 @@ Der verbreitetste Vertreter der Kampfmodus-Methode ist D&D alias D20 alias Pathf
 
 *Die Charaktere laufen durch fantastische Welten, plaudern mal am Wegesrand und besaufen sich in der Kneipe. All das geht sehr frei. Dann zerschlägt der Tischnachbar plötzlich einen Bierkrug und alles ist anders: Es ist Kampf!*
 
-*Ein Gitternetz legt sich über die Szene, der gerade noch laut tönende Barde wird kleinlaut, weil er seine Trefferpunkte sieht, und aus dem gerade noch gefährlich blitzenden Messer hinter dem Rücken des Kriegers wird ein Spielzeug, weil der Barschläger, der es hält, eher keinen Hinterhältigen Angriff kann und der Krieger im übrigen nicht sauber in die Zange genommen wurde.*
+*Ein Gitternetz legt sich über die Szene, der gerade noch laut tönende Barde wird kleinlaut, weil er seine Trefferpunkte sieht, und aus dem gerade noch gefährlich blitzenden Messer hinter dem Rücken des Kriegers wird ein Spielzeug, weil der Barschläger, der es hält, eher keinen Hinterhältigen Angriff kann und der Krieger im übrigen nicht sauber in die Zange genommen wurde. Dann wird Initiative gewürfelt.*
 
-Sobald es zum Kampf kommt, ändert sich die Situation grundlegend. Das kann soweit gehen, dass geradezu 2 Welten in den Köpfen der Spieler existieren: Der flauschige Hintergrund, in dem die Geschichte spielt, und der brettspielige Kampf. Die schwächere Variante hiervon sind Systeme, in denen das Würfeln selbst oder die Interpretation des Ergbebnisses eigene Minispiele sind.
+Sobald es zum Kampf kommt, ändert sich die Situation grundlegend. Das kann soweit gehen, dass geradezu 2 Welten in den Köpfen der Spieler existieren: Der flauschige Hintergrund, in dem die Geschichte spielt, und der brettspielige Kampf. Die schwächere Variante hiervon sind Systeme, in denen entweder das Würfeln selbst oder die Interpretation des Ergbebnisses eigene Minispiele sind.
 
 Wofür denn würfeln?
 -------------------
 
-Aus der anderen Seite gibt es zwei Spielstile: Vorhersagbare Ergebnisse und Verzicht aufs Würfeln.
+Auf der anderen Seite gibt es zwei Spielstile: Vorhersagbare Ergebnisse und Verzicht aufs Würfeln.
 
 Ein Vertreter der ersten Art ist Gurps: Sobald die Charaktere aus dem kritischen Wertebereich zwischen 7-13 heraus sind (Boni und Mali eingerechnet) sind die Ergebnisse fast schon vorherbestimmt, so dass es sich nicht lohnt zu würfeln. Es ist eh klar, wie die Situation ausgeht. Für Taktiker ist das toll. Aber das Würfeln wird entwertet: Außerhalb von kritischen Erfolgen und Patzern geschieht wenig spannendes (das EWS vermeidet diesen Effekt, indem es die Differenz zwischen Ergebnis und Mindestwurf als Maß für die Wirkung nimmt).
 
-Ein Vertreter der zweiten Art, des Verzichts auf Würfeln ist Æon Trinity, in dem man mächtige Psioniker spielt. Seine Regeln sind aber darauf ausgerichtet, immer im Höhepunkt Spannung zu erzeugen - und für des normale Leben völlig untauglich (weil nichts klappt). Damit die Charaktere wirklich wie Psioniker handeln können, muss ein Großteil des Spiels gehandwedelt werden.
+*Die Charaktere laufen durch fantastische Welten, plaudern mal am Wegesrand und besaufen sich in der Kneipe. Dann zerschlägt der Tischnachbar plötzlich einen Bierkrug und alles ist anders: Es ist Kampf!*
+
+*Sie würfeln Initiative. Natürlich ist der Krieger zuerst dran. Er schlägt mit der Faust zu, würfelt und trifft. Dann wirft der Barde seinen eigenen Krug, würfelt und trifft. Der Angreifer sticht mit dem Krug nach dem Krieger, würfelt und trifft, kommt aber nicht durch die Lederrüstung. Dann schlägt der Krieger erneut zu, würfelt und trifft. Der Angreifer geht zu Boden.*
+
+Ein Vertreter der zweiten Art, des Verzichts aufs Würfeln, ist Æon Trinity, in dem man mächtige Psioniker spielt. Seine Regeln sind darauf ausgerichtet, beim Höhepunkt Spannung zu erzeugen - und für des normale Leben völlig untauglich (weil nichts klappt). Damit die Charaktere wirklich wie Psioniker handeln können, muss ein Großteil des Spiels gehandwedelt werden.
+
+*Die Charaktere laufen durch fantastische Welten, plaudern mal am Wegesrand und besaufen sich in der Kneipe. Dann zerschlägt der Tischnachbar plötzlich einen Bierkrug und stürzt auf den Barden zu.*
+
+*Der Barde springt zur Seite, und weil Helden hier nicht stolpern würfelt er nicht. Dann schlägt der Krieger zu und schickt den Angreifer zu Boden. Kein Würfel ist gerollt, denn hier zu scheitern würde nicht zu den Charakteren passen, immerhin sind sie die Elite des Landes, würde aber nach den Regeln in 20% der Fälle passieren.*
+
 
 Was macht das EWS anders?
 -------------------------
-
-> „Wir haben viel gewürfelt, die ±W6-Mechanik haben die Spieler schnell verinnerlicht […und haben sich gefreut…], dass die Werte zur Vor­stellung passen.“  
-> — PiHalbe: Katzulhu
 
 Im EWS sind Regelanwendungen extrem schnell: Ein Wurf mit einem Würfel und das Ergebnis steht fest. Schon haptisch ist das ein großer Unterschied: Dadurch, dass nur ein Würfel mit einer eng begrenzten Wertespanne rollt (ein W6), nimmt das Würfeln in der Vorstellung wenig Platz ein und die Spielenden bleiben auf der Handlungsebene.
 
@@ -41,11 +47,11 @@ Gleichzeitig bieten die beschreibenden Mindestwürfe der SL die Möglichkeit, ei
 
 Und die Wichtigkeit der Differenz zwischen Wurfergebnis und Mindestwurf - oder bei einem Wettstreit zwischen beiden Ergebnissen - zusammen mit der im Nahbereich ninearen Werteverteilung stellt sicher, dass jeder Wurf auch eine Handlungsrelevante Entscheidung trifft.
 
-Die begrenzte Spanne des Würfelergebnisses (-5 bis +6) gewährleistet dabei, die Werte des Charakters für das Ergebnis relevant sind. 
+Die begrenzte Spanne des Würfelergebnisses (-5 bis +6) gewährleistet dabei, die Werte des Charakters für das Ergebnis relevant sind. Und die [Beschreibungen der Werte](/deutsch/regeln/hintergruende/beschreibung-der-werte) entsprechen ihren spieltechnischen Auswirkungen.
 
 Dadurch ergibt sich ein Fokus auf die Handlung zusammen mit starken Einflüssen der Regeln, der meines Wissens nach in der Rollenspielszene einmalig ist. 
 
-Das einzige System, das dem nahe kommt, ist Dungeonslayers, und das skaliert nicht sauber für verschiedene Charakterstärken (es wird für starke Charaktere komplizierter) und hat keine auf der Skala der Werte liegenden Mindestwürfe.
+Das einzige System, das dem nahe kommt, ist Dungeonslayers, und das [skaliert](/deutsch/regeln/hintergrund-der-regeln/warum-das-1w6-system-skaliert) nicht sauber für verschiedene Charakterstärken (es wird für starke Charaktere komplizierter) und hat keine auf der Skala der Werte liegenden Mindestwürfe.
 
 *Die Charaktere laufen durch fantastische Welten, plaudern mal am Wegesrand und besaufen sich in der Kneipe. Dann zerschlägt der Tischnachbar plötzlich einen Bierkrug, springt auf und stürmt auf den Barden zu.*
 
@@ -54,11 +60,17 @@ Das einzige System, das dem nahe kommt, ist Dungeonslayers, und das skaliert nic
 Gratwanderung: Fokus auf der Handlung und starker Einfluss von Werten und Würfeln
 ---------------------------------------------------------------------------------
 
+> „Durch das fixe Regelsystem haben wir nur sehr wenig Zeit auf Regelebene verbracht und hatten mehr Muße, auf das Setting einzugehen.“  
+> — PiHalbe: [Mutant — Undergångens Arvtagare](http://pihalbe.org/content/mutant-%E2%80%94-underg%C3%A5ngens-arvtagare-einzelknaller)
+
+> „Wir haben viel gewürfelt, die ±W6-Mechanik haben die Spieler schnell verinnerlicht […und haben sich gefreut…], dass die Werte zur Vor­stellung passen.“  
+> — PiHalbe: [Katzulhu](http://pihalbe.org/content/katzulhu-einzelknaller)
+
 Das EWS nimmt also die durch den [±W6](/w6) gegebene Geschwindigkeit des Würfelns und die Deutlichkeit der Ergebnisse und baut darauf Regelkonzepte, die die Besonderheiten des ±W6 unterstützen, um ein niedrigschwelliges und zugleich bedeutsames Regelwerk zu schaffen.
 
 Dadurch findet es eine Synthese zwischen Bereichen die sich in den meisten Rollenspielen entgegenstehen: Handlungsfokus und hohe Bedeutung von Werten und Würfeln.
 
-Der beste Ausdruck für das Spielgefühl, das es damit erreicht ist Direktheit.
+Der beste Ausdruck für das Spielgefühl, das es damit erreicht, ist Direktheit.
 
 Direktheit
 ----------
