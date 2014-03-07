@@ -57,7 +57,7 @@ Gleichzeitig bieten die beschreibenden Mindestwürfe der SL die Möglichkeit, ei
 
 Und die Wichtigkeit der Differenz zwischen Wurfergebnis und Mindestwurf - oder bei einem Wettstreit zwischen beiden Ergebnissen - zusammen mit der im Nahbereich ninearen Werteverteilung stellt sicher, dass jeder Wurf auch eine Handlungsrelevante Entscheidung trifft.
 
-Die begrenzte Spanne des Würfelergebnisses (-5 bis +6) gewährleistet dabei, die Werte des Charakters für das Ergebnis relevant sind. Und die [Beschreibungen der Werte](/deutsch/regeln/hintergruende/beschreibung-der-werte) entsprechen ihren spieltechnischen Auswirkungen.
+Die begrenzte Spanne des Würfelergebnisses (-5 bis +6) gewährleistet dabei, dass die Werte des Charakters für das Ergebnis relevant sind. Und die [Beschreibungen der Werte](/deutsch/regeln/hintergruende/beschreibung-der-werte) entsprechen ihren spieltechnischen Auswirkungen.
 
 Dadurch ergibt sich ein Fokus auf die Handlung zusammen mit starken Einflüssen der Regeln, der meines Wissens nach in der Rollenspielszene einmalig ist. 
 
