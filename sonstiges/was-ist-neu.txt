@@ -77,3 +77,5 @@ Direktheit
 ----------
 
 Zu würfelnde Proben ergeben sich direkt aus der Handlung und die Bedeutung für die Handlung ergibt sich direkt aus den Proben, ohne dass zwischendrin der Kontext gewechselt werden muss.
+
+Selbst der Kampf ist einfach Teil der Handlung.
