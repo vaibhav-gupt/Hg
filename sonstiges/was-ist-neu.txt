@@ -45,7 +45,7 @@ Ein Vertreter der zweiten Art, des Verzichts aufs Würfeln, ist Æon Trinity, in
 
 *Die Charaktere laufen durch fantastische Welten, plaudern mal am Wegesrand und besaufen sich in der Kneipe. Dann zerschlägt der Tischnachbar plötzlich einen Bierkrug und stürzt auf den Barden zu.*
 
-*Der Barde springt zur Seite, und weil Helden hier nicht stolpern würfelt er nicht. Dann schlägt der Krieger zu und schickt den Angreifer zu Boden. Kein Würfel ist gerollt, denn hier zu scheitern würde nicht zu den Charakteren passen, immerhin sind sie die Elite des Landes, würde aber nach den Regeln in 20% der Fälle passieren.*
+*Der Barde springt zur Seite, und weil Helden hier nicht stolpern würfelt er nicht. Dann schlägt der Krieger zu und schickt den Angreifer zu Boden. Kein Würfel ist gerollt, denn hier zu scheitern würde nicht zu den Charakteren passen, immerhin sind sie die Elite des Landes. Nach den Regeln würden ihre Handlungen aber in 20% der Fälle danebengehen.*
 
 <a name="anders" id="anders"></a>
 Was macht das EWS anders?
