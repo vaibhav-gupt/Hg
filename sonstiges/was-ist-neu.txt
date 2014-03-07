@@ -3,12 +3,20 @@ Was ist neu am EWS?
 
 Dass das EWS funktioniert, hat es in den letzten 10 Jahren immer wieder bewiesen. Doch was trägt es allgemein zur Entwicklung von Rollenspielen bei? Stärken hat es viele, doch welche davon sind neu?
 
+* [Kampfmodus!](#kampfmodus)
+* [Wofür denn würfeln?](#wuerfeln)
+* [Was macht das EWS anders?](#anders)
+* [Gratwanderung: Handlung, Werte und Würfel](#gratwanderung)
+* [Direktheit](#direktheit)
+
+<!--break-->
 Von seinen Stärken gibt es nur eine, die ich noch nirgends sonst gesehen habe: Den konsequenten Fokus auf der von Charakteren erlebten Handlung bei gleichzeitig starker Bedeutung von Werten und Würfelergebnissen - und zwar in allen Situationen, egal ob nun Kampf oder Kochduell.
 
 Um das zu begründen, will ich etwas ausholen: Bei der Auflösung von Handlungen gibt es in Rollenspielen zwei Extreme: „Kampfmodus!“ und „Warum denn würfeln?“
 
 Beginnen wir mit dem 
 
+<a name="kampfmodus" id="kampfmodus"></a>
 Kampfmodus!
 -----------
 
@@ -20,6 +28,7 @@ Der verbreitetste Vertreter der Kampfmodus-Methode ist D&D alias D20 alias Pathf
 
 Sobald es zum Kampf kommt, ändert sich die Situation grundlegend. Das kann soweit gehen, dass geradezu 2 Welten in den Köpfen der Spieler existieren: Der flauschige Hintergrund, in dem die Geschichte spielt, und der brettspielige Kampf. Die schwächere Variante hiervon sind Systeme, in denen entweder das Würfeln selbst oder die Interpretation des Ergbebnisses eigene Minispiele sind.
 
+<a name="wuerfeln" id="wuerfeln"></a>
 Wofür denn würfeln?
 -------------------
 
@@ -37,7 +46,7 @@ Ein Vertreter der zweiten Art, des Verzichts aufs Würfeln, ist Æon Trinity, in
 
 *Der Barde springt zur Seite, und weil Helden hier nicht stolpern würfelt er nicht. Dann schlägt der Krieger zu und schickt den Angreifer zu Boden. Kein Würfel ist gerollt, denn hier zu scheitern würde nicht zu den Charakteren passen, immerhin sind sie die Elite des Landes, würde aber nach den Regeln in 20% der Fälle passieren.*
 
-
+<a name="anders" id="anders"></a>
 Was macht das EWS anders?
 -------------------------
 
@@ -57,7 +66,7 @@ Dadurch ergibt sich ein Fokus auf die Handlung zusammen mit starken Einflüssen 
 
 Die einzigen Systeme, von denen ich weiß, dass sie dem nahe kommen, sind [Dungeonslayers](http://dungeonslayers.de) vom Uhrwerk Verlag und [Witchcraft](http://www.edenstudios.net/witchcraft.html) von Eden Studios. Doch beide [skalieren](/deutsch/regeln/hintergrund-der-regeln/warum-das-1w6-system-skaliert) nicht sauber für verschiedene Charakterstärken (sie werden für starke Charaktere komplizierter) und haben keine auf der Skala der Werte liegenden Mindestwürfe.
 
-
+<a name="gratwanderung" id="gratwanderung"></a>
 Gratwanderung: Fokus auf der Handlung und starker Einfluss von Werten und Würfeln
 ---------------------------------------------------------------------------------
 
@@ -73,6 +82,7 @@ Dadurch findet es eine Synthese zwischen Bereichen die sich in den meisten Rolle
 
 Der beste Ausdruck für das Spielgefühl, das es damit erreicht, ist Direktheit.
 
+<a name="direktheiit" id="direktheit"></a>
 Direktheit
 ----------
 
