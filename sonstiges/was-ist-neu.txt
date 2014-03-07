@@ -1,8 +1,9 @@
 Was ist neu am EWS?
 ===================
 
-Dass das EWS funktioniert, hat es in den letzten 10 Jahren immer wieder bewiesen. Doch was trägt es allgemein zur Entwicklung von Rollenspielen bei? Stärken hat es viele, doch welche davon sind neu?
+<a name="neu" id="neu"></a>Dass das EWS funktioniert, hat es in den letzten 10 Jahren immer wieder bewiesen. Doch was trägt es allgemein zur Entwicklung von Rollenspielen bei? Stärken hat es viele, doch welche davon sind neu?
 
+* [Was ist neu?](#neu)
 * [Kampfmodus!](#kampfmodus)
 * [Wofür denn würfeln?](#wuerfeln)
 * [Was macht das EWS anders?](#anders)
