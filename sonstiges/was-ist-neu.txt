@@ -3,12 +3,12 @@ Was ist neu am EWS?
 
 <a name="neu" id="neu"></a>Dass das EWS funktioniert, hat es in den letzten 10 Jahren immer wieder bewiesen. Doch was trägt es allgemein zur Entwicklung von Rollenspielen bei? [Stärken hat es viele](/deutsch/regeln/hintergruende/fragmentierung-warum-noch-ein-rollenspiel#warum), doch welche davon sind neu?
 
-* [Was ist neu?](#neu)
-* [Kampfmodus!](#kampfmodus)
-* [Wofür denn würfeln?](#wuerfeln)
-* [Was macht das EWS anders?](#anders)
-* [Gratwanderung: Handlung, Werte und Würfel](#gratwanderung)
-* [Direktheit](#direktheit)
+* [Was ist neu?](/deutsch/regeln/hintergruende/was-ist-neu-am-ews#neu)
+* [Kampfmodus!](/deutsch/regeln/hintergruende/was-ist-neu-am-ews#kampfmodus)
+* [Wofür denn würfeln?](/deutsch/regeln/hintergruende/was-ist-neu-am-ews#wuerfeln)
+* [Was macht das EWS anders?](/deutsch/regeln/hintergruende/was-ist-neu-am-ews#anders)
+* [Gratwanderung: Handlung, Werte und Würfel](/deutsch/regeln/hintergruende/was-ist-neu-am-ews#gratwanderung)
+* [Direktheit](/deutsch/regeln/hintergruende/was-ist-neu-am-ews#direktheit)
 
 <!--break-->
 Von seinen Stärken gibt es nur eine, die ich noch nirgends sonst gesehen habe: Den konsequenten Fokus auf der von Charakteren erlebten Handlung bei gleichzeitig starker Bedeutung von Werten und Würfelergebnissen - und zwar in allen Situationen, egal ob nun Kampf oder Kochduell.
