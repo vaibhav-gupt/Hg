@@ -15,7 +15,7 @@ Dieses Abenteuer spielt in unserer Welt im Jahr 2014 - mit Magie, alten Geheimb�
 *** Ser Rose
 *** Rosenkreuzer
 *** Wicca und Solitaires
-- Gruppenzusammenführung: Frag sie, was sie zu dem Wald bringen könnte. Durch das Ritual werden Handies gestört (und später zerstört - inklusive aller gespeicherten Daten), Leute in der Nähe des Waldes werden entweder völlig passiv oder verschwinden und selbst Motoren, die zur falschen Zeit an einem Ort sind, an dem sich Verzerrung der Realität durch die wiederholte Störung des Rituals fokussiert (also alle, bei denen es wichtig ist, damit die Spieler da landen[fn:1]), hören auf zu funktionieren.
+- Gruppenzusammenführung: Frag sie, was sie zu dem Wald bringen könnte. Durch das Ritual werden Handies gestört (und später vielleicht zerstört - inklusive aller gespeicherten Daten - wenn das notwendig ist, um stetige Kommunikation zwischen den beiden Gruppen zu verhindern[fn:2]), Leute in der Nähe des Waldes werden entweder völlig passiv oder verschwinden und selbst Motoren, die zur falschen Zeit an einem Ort sind, an dem sich Verzerrung der Realität durch die wiederholte Störung des Rituals fokussiert (also alle, bei denen es wichtig ist, damit die Spieler da landen[fn:1]), hören auf zu funktionieren.
 ** Brocken bei Hildesheim
 ** Berlin Dungeon
 
@@ -30,3 +30,5 @@ Dieses Abenteuer spielt in unserer Welt im Jahr 2014 - mit Magie, alten Geheimb�
 * Footnotes
 
 [fn:1] Für alle, die jetzt „Railroading“ schreien empfehle ich eine vollständig zufällige Vorgehensweise: 20 magisch begabte Charaktere in der Nähe des Waldes und würfelt aus, wen es trifft. Die Spieler und Spielerinnen würfeln dann aus, welchen der Leute sie spielen, die für die Handlung zufälligerweise wichtig werden. Wir haben uns die Charaktere erschaffen, die für die Geschichte wichtig sein sollen, die also in der Nähe des Rituals auf die anderen treffen werden. Die Zusammenführung erklärt nur, wie das passiert ist.
+
+[fn:2] Wir müssen die Kommunikation zwischen den Gruppen unterbrechen, damit sie nicht zu eng gekoppelt sind. Nur so lassen sich nervige Wartezeiten durch unterschiedliche Geschwindigkeit verschiedener Handlungen vermeiden.
