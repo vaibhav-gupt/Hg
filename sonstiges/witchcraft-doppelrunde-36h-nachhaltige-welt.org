@@ -17,7 +17,7 @@ Die Partei der Grünen, einstmals Spinner und Radikale, doch bis vor kurzem unse
 
 Darum ist es Zeit, die alten Feindseligkeiten zu begraben.
 
-Jahrtausende haben wir uns vor euch verborgen, doch nun bitten wir euch, unsere Brüder und Schwestern, uns in diesem wichtigsten Kampf für eine unserer Kunst zuträgliche Zukunft zu unterstützen. In wenigen Tagen wird die Entscheidung fallen, ob die Zukunft der Welt von Gebildeten oder von Ideologen geformt wird. Bedenket die Weisheit, die wir in der Bildung der Massen verankern konnten, und helft uns, die Vision der alten Griechen zu verwirklichen:
+Jahrtausende lang haben wir uns vor euch verborgen, doch nun bitten wir euch, unsere Brüder und Schwestern, uns in diesem wichtigsten Kampf für eine unserer Kunst zuträgliche Zukunft zu unterstützen. In wenigen Tagen wird die Entscheidung fallen, ob die Zukunft der Welt von Gebildeten oder von Ideologen geformt wird. Bedenket die Weisheit, die wir in der Bildung der Massen verankern konnten, und helft uns, die Vision der alten Griechen zu verwirklichen:
 
 #+BEGIN_QUOTE
 Verstand ist stets bei wenigen nur gewesen — Friedrich von Schiller.
@@ -27,6 +27,8 @@ Gezeichnet,
 KGE
 
 Im Anhang: Pläne für Unterstützungsrituale für jede größere Stadt Deutschlands.
+
+/Anmerkung: Dieser Text ist ein Fiktionales Werk mit politischer Satire. Er wurde nicht wirklich von KGE geschrieben, sondern von Arne Babenhauserheide für eine 24h Doppel-Rollenspielrunde, die er am 19.4. aum Extremspielwochenende mit Alexander Fuß geleitet hat. Die Seite [[http://1w6.org][1w6.org]] liefert Einzelheiten dazu./
 
 * Magisch                                                          :noexport:
 
