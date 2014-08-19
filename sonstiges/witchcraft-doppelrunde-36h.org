@@ -1,6 +1,32 @@
 #+title: Ägypten, Hexen, Magier und Politik: Eine 36h Mystery Doppelrunde
+#+options: toc:nil num:nil 
 
 #+BEGIN_ABSTRACT
-Dieses Abenteuer spielt in unserer Welt im Jahr 2014 - mit Magie, alten Geheimbünden und machtvollen Ritualen. Wir haben es auf dem ESW 2014 mit Witchcraft geleitet, es sollte sich allerdings für jedes Regelwerk eignen, das Magie in der Neuzeit abbilden kann. In Witchcraft sind die magischen Effekte überraschend heftig, in der Welt hinter der Welt sind sie deutlich subtiler und mit Shadowrun werden die Konflikte zwischen machtvollen Magierbünden auf Bürgerkiegsniveau ausgetragen. Die Handlung sollte mit all diesen Regelwerken funktionieren, solange die Regelwerke komplexe Rituale ermöglichen, mit denen Macht weit über der verfügbaren Spontanmagie freigesetzt werden kann. Je mächtiger die Charaktere sind, desto mächtiger werden auch die Antagonisten.
+Dieses Abenteuer spielt in unserer Welt im Jahr 2014 - mit Magie, alten Geheimbünden und machtvollen Ritualen. Wir haben es auf dem ESW 2014 mit Witchcraft geleitet, es sollte sich allerdings für jedes Regelwerk eignen, das Magie in der Neuzeit abbilden kann. In Witchcraft sind die magischen Effekte überraschend heftig, in der Welt hinter der Welt sind sie deutlich subtiler und mit Shadowrun werden die Konflikte zwischen machtvollen Magierbünden auf Bürgerkiegsniveau ausgetragen. Die Handlung sollte mit all diesen Regelwerken funktionieren, solange die Regelwerke komplexe Rituale ermöglichen, mit denen Macht weit über der verfügbaren Spontanmagie freigesetzt werden kann. Je mächtiger die Charaktere sind, desto mächtiger werden auch die Antagonisten. Wir haben es mit 2 Gruppen gespielt: Einem Bund von Rosenkreuzer Aristokraten und einem zusammengewürfelten Grüppchen Wicca und Solitaires.
 #+END_ABSTRACT
 
+#+toc: headlines 1
+
+* Grundhandlung
+* Zeitablauf
+/Für 2 Runden. Wir haben im ersten und dritten Teil explizit keine festen Datumsangaben verwendet, um trotz sicher unterschiedlicher In-Play-Zeit den ersten Kontaktpunkt gemeinsam erreichen zu können. Das einzige Datum, das feststeht, ist der 30.4.: Das Ägyptische Beltaine. Den Spielern und Spielerinnen haben wird das offen gesagt und sie gebeten, uns Zeitzerzerrungen, Zeitsprünge und harte Schnitte zuzugestehen. Bei Doppelrunden sind bestimmte Freiheiten sehr nützlich, um eine gemeinsame Geschichte erschaffen zu können. Von langweiligen Wartezeiten, wärend denen eine Gruppe völlig ausgebremst ist, hat niemand was./
+
+** Wald bei Bonn
+*** Ser Rose
+*** Rosenkreuzer
+*** Wicca und Solitaires
+- Gruppenzusammenführung: Frag sie, was sie zu dem Wald bringen könnte. Durch das Ritual werden Handies gestört (und später zerstört - inklusive aller gespeicherten Daten), Leute in der Nähe des Waldes werden entweder völlig passiv oder verschwinden und Automotoren, die zur falschen Zeit an einem Ort sind, an dem sich Verzerrung der Realität durch die Störung des Rituals fokussiert (also alle, bei denen es wichtig ist, damit die Spieler da landen[fn:1]), hören auf zu funktionieren.
+** Brocken bei Hildesheim
+** Berlin Dungeon
+
+* Kontaktpunkte
+* Zentrale Personen
+** Die Ser Rose
+** Kontaktpersonen
+** Spielercharaktere
+* Spielbericht
+* Das Abenteuer als Kampagne
+
+* Footnotes
+
+[fn:1] Für alle, die jetzt „Railroading“ schreien empfehle ich eine vollständig zufällige Vorgehensweise: 20 magisch begabte Charaktere in der Nähe des Waldes und würfelt aus, wen es trifft. Die Spieler und Spielerinnen würfeln dann aus, welchen der Leute sie spielen, die für die Handlung zufälligerweise wichtig werden. Wir haben uns die Charaktere erschaffen, die für die Geschichte wichtig sein sollen, die also in der Nähe des Rituals auf die anderen treffen werden. Die Zusammenführung erklärt nur, wie das passiert ist.
