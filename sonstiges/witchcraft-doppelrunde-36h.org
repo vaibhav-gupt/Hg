@@ -1,4 +1,4 @@
-#+title: Ägypten, Hexen, Magier und Politik: Eine 36h Mystery Doppelrunde
+#+title: Ägypten, Hexen, Magier und Politik: Eine 36h Mystery-Doppelrunde
 #+options: toc:nil num:nil 
 
 #+BEGIN_ABSTRACT
