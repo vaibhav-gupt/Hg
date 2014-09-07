@@ -1,0 +1,24 @@
+Boni aus allen passenden Eigenschaften (BapE)
+========================
+
+## Einleitung
+
+Fertigkeiten erhalten jeweils Boni (und Mali) aus allen passenden Eigenschaften. Berufe bleiben gleich.
+
+Die Eigenschaften werden dadurch deutlich sichtbarer (und schwache werden etwas wichtiger), dafür dauert ein Wurf etwas länger und das Balancing sehr mächtiger Charaktere wird schlechter (hohe Eigenschaften lohnen sich nur noch bei Berufen).
+
+## Grundlagen
+
+Bei einer Fertigkeitsprobe sucht die Spielerin erst alle passenden Eigenschaften heraus. Jedes + in den Eigenschaften gibt 1 Punkt Bonus auf den effektiven Fertigkeitswert für diese Probe.
+
+Passendes Partnermodul: [Keine Eigenschaftswürfe (KEiW)](/deutsch/module/keine-eigenschaftswuerfe-keiw).
+
+### Option: Boni aus verwandten Fertigkeiten und Berufen
+
+Jedes + von passenden Eigenschaften, Fertigkeiten oder Berufen gibt 1 Punkt Bonus.
+
+## Beispiel
+
+*Tara will eine Trage bauen. Sie ist eine erfahrene Tischlerin (Beruf: Tischlerin: 12) und sehr geschickt (Geschickt +). Durch Geschick erhält sie einen Punkt Bonus auf ihren Beruf und ist so bei 13. Die SL legt fest, dass eine Trage bauen einfach ist (Schwierigkeit 9). Taras Spielerin würfelt eine 3. 3 ist ungerade, wird also abgezogen und Tara kommt auf 10 (13 minus 3). Sie schafft damit die Herausforderung mit einer Differenz von 1, baut also eine Trage, die hält.*
+
+Auf dem Grundflyer der [Flyerbücher](http://flyer.1w6.org).

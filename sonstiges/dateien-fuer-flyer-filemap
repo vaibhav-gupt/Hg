@@ -1,0 +1,9 @@
+include Flyerbooks
+rename Flyerbooks .
+include Quelldateien/Free_Software_Foundation/gpl-v3-300x149.png
+include Quelldateien/Gertrud_Wenzel/Dragons_original_EWS_Logo.png
+include Quelldateien/Gertrud_Wenzel/rogBa_gr_transparent.png
+include Quelldateien/Gertrud_Wenzel/sawwar.png
+include "Quelldateien/Hintergründe/flyerbuch-bg-innen.jpg"
+include "Quelldateien/Hintergründe/karte_trekk-v0.8.png"
+rename Quelldateien Bilder
