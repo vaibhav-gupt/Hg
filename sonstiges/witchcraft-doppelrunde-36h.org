@@ -5,7 +5,7 @@
 Dieses Abenteuer spielt in unserer Welt im Jahr 2014 - mit Magie, alten Geheimbünden und machtvollen Ritualen. Wir haben es auf dem ESW 2014 mit Witchcraft geleitet, es sollte sich allerdings für jedes Regelwerk eignen, das Magie in der Neuzeit abbilden kann. In Witchcraft sind die magischen Effekte überraschend heftig, in der Welt hinter der Welt sind sie deutlich subtiler und mit Shadowrun werden die Konflikte zwischen machtvollen Magierbünden auf Bürgerkiegsniveau ausgetragen. Die Handlung sollte mit all diesen Regelwerken funktionieren, solange die Regelwerke komplexe Rituale ermöglichen, mit denen Macht weit über der verfügbaren Spontanmagie freigesetzt werden kann. Je mächtiger die Charaktere sind, desto mächtiger werden auch die Antagonisten. Wir haben es mit 2 Gruppen gespielt: Einem Bund von Rosenkreuzer Aristokraten und einem zusammengewürfelten Grüppchen Wicca und Solitaires.
 #+END_ABSTRACT
 
-#+toc: headlines 1
+#+toc: headlines 2
 
 * Grundhandlung
 * Zeitablauf
