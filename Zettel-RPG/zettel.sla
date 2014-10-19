@@ -668,7 +668,7 @@
             <ITEXT CH="Die­­ser Ab­­zug ver­­schwin­­det, wenn die je­­wei­­li­­ge Wun­­de heilt. Ei­­ne Faust­­re­­gel da­für sind 4 Wo­­chen oder ein Heil­­trank."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Wenn du al­­so zwei Wun­­den hast, sind dei­­ne Wer­­te 6 Punk­­te nie­­dri­­ger. Nach 4 Wo­­chen heilt ei­­ne Wun­de und dein Ab­zug wird 3. Wei­­te­­re 4 Wo­­chen spä­­ter heilt die zwei­­te und du hast kei­­nen Ab­­zug mehr."/>
+            <ITEXT CH="Wenn du al­­so zwei Wun­­den hast, sind dei­­ne Wer­­te 6 Punk­­te nie­­dri­­ger. Nach 4 Wo­­chen heilt ei­­ne Wun­de und dei­­ne Wer­­te sind nur noch 3 Punk­­te nie­­dri­­ger. Wei­­te­­re 4 Wo­­chen spä­­ter heilt die Zwei­­te und du hast kei­­nen Ab­­zug mehr."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
