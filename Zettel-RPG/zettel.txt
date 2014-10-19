@@ -36,7 +36,7 @@ Das glei­che gilt na­tür­lich für euch.
 Al­so über­leg dir als nächs­tes, was dein Cha­rak­ter bes­ser kann, als an­de­re in sei­nem Be­ruf.
 Da ich dir schlecht für je­den Be­ruf Bei­spie­le ge­ben kann, sa­ge ich dir ein­fach Bei­spie­le für mei­ne Die­bin.
 
-Da auch du dei­ne ei­ge­ne Welt schreibst, bin ich si­cher, dass dir zu eu­ren Be­ru­fen selbst Bei­spie­le ein­fal­len wer­den.
+Da auch du dei­ne ei­ge­ne Welt er­fin­dest, bin ich si­cher, dass dir zu eu­ren Be­ru­fen selbst Bei­spie­le ein­fal­len wer­den.
 
 Mei­ne Die­bin räumt ger­ne an­de­ren die Ta­schen aus. Al­so kann sie Taschen­dieb­stahl be­son­ders gut.
 An­de­re Mög­lich­kei­ten wä­ren Hüt­chen­spiel, Schlös­ser knacken, Fassa­den­klet­tern, Schlei­chen, Raub­über­fall und Be­quat­schen.
@@ -68,7 +68,7 @@ Der Be­ruf ist eins, und al­les was sie sonst kön­nen ist ein wei­te­res.
 
 Mir ist zum Bei­spiel wich­tig, dass mei­ne Cha­rak­te­rin all­ge­mein als Die­bin be­son­ders gut ist.
 
-Zu­sam­men mit Taschendieb­stahl und Flö­ten­spiel hat sie al­so ef­fek­tiv schon 5 star­ke Merk­ma­le.
+Zu­sam­men mit Ta­schen­dieb­stahl und Flö­ten­spiel hat sie al­so ef­fek­tiv schon 5 star­ke Merk­ma­le: 3 für Die­bin, 1 für Ta­schen­dieb­stahl und 1 für Flö­ten­spiel.
 Ein star­kes Merk­mal be­zeich­nen wir mit ei­nem +, ein be­son­ders star­kes mit ++.
 
 Mein Zet­tel sieht nun so aus:
@@ -87,8 +87,12 @@ Mein Zet­tel sieht nun so aus:
 
 Mei­ne Die­bin hat z.B. das Pro­blem, dass die Stadt­wa­che sie in­zwi­schen kennt und jagt.
 
-Auf dem Zet­tel no­tie­ren wir Pro­ble­me mit ei­nem Ausrufe­zei­chen da­vor.
-Für je­des Pro­blem kannst du ein star­kes Merk­mal mehr neh­men. Mein Zet­tel sieht da­mit so aus:
+Für je­des Pro­blem kannst du ein zu­sätz­li­ches star­kes Merk­mal neh­men. Wählt höchs­tens 2 Pro­bleme.
+
+Durch ihr Pro­blem mit der Stadt­wa­che kann ich mei­ner Die­bin al­so nicht nur 7, son­dern 8 star­ke Merk­male ge­ben.
+Auf dem Zet­tel no­tie­ren wir Pro­ble­me mit ei­nem Ausrufe­zei­chen da­vor. 
+
+Mein Zet­tel sieht da­mit so aus:
 
 
 
@@ -106,10 +110,10 @@ Auf dem Zet­tel no­tie­ren wir Pro­ble­me mit ei­nem Ausrufe­zei­chen da
 
 Au­ßer­dem hat­te ich noch Ide­en für zwei wei­te­re Stär­ken: Le­sen/Schrei­ben und Be­quat­schen.
 
-Das ers­te kommt von ih­rer früh ge­stor­be­nen Mut­ter. Das zwei­te ist ein Teil ih­res Be­ru­fes, den sie bes­ser kann als an­de­re Die­be.
-Da ich nun noch einen star­ken Wert ver­ge­ben kann, neh­me ich au­ßer­dem Schlei­chen.
+Das Ers­te kommt von ih­rer früh ge­stor­be­nen Mut­ter. Das Zwei­te ist ein wei­te­rer Teil ih­res Be­ru­fes, den sie bes­ser kann als an­de­re Die­be.
 
-Da­mit sieht mein Zet­tel so aus:
+Da ich für mein Pro­blem mit der Wa­che noch ei­nen wei­te­ren star­ken Wert ver­ge­ben kann, neh­me ich au­ßer­dem Schlei­chen.
+Da­mit sieht mein Zet­tel so aus:
 
     Ni­u­ve
     -----
@@ -190,18 +194,22 @@ Ich hof­fe, er wird uns nicht ent­täu­schen.
 Aber na­tür­lich gibt es Leu­te, die uns von ihm fern­hal­ten wol­len.
 
 Und da­mit kom­men wir zum letz­ten Teil mei­nes Tex­tes: Her­aus­fin­den, ob und wie et­was klappt.
-Hier­für brau­chen wir den Wür­fel.
 
-Wann im­mer nicht klar ist, ob dir ei­ne Auf­ga­be ge­lingt, schau auf dei­nen Zet­tel ob du et­was hast, das da­zu passt. Das kann dein Be­ruf sein oder ei­ner der an­de­ren Wer­te. Hast du nichts pas­sen­des, dann nimm den Wert 3.
+Hier­für brau­chen wir den Wür­fel.
+Wann im­mer nicht klar ist, ob dir ei­ne Auf­ga­be ge­lingt, schau auf dei­nen Zet­tel ob du et­was hast, das da­zu passt. Das kann dein Be­ruf sein oder ei­ner der an­de­ren Wer­te. Hast du nichts pas­sen­des, dann nimm den Wert 3.
 
 Nun wirf den Wür­fel. Ist die Au­gen­zahl ge­ra­de, dann ad­die­re sie auf den Wert. Ist sie un­ge­ra­de, dann zieh sie ab.
 
 Das Er­geb­nis gibt an, wie gut du warst.
-Hast du da­bei Un­ter­stüt­zung oder Werk­zeug, er­hältst du pro Unter­stüt­zer und Werk­zeug 1 Punkt Bo­nus. Hast du einen zwei­ten pas­sen­den Wert, dann gibt er dir pro Plus einen Punkt Bo­nus.
+
+Beispiel: Ich will Schlei­chen. Mein Wert ist 15. Ich wür­fle 3. Das Ergebnis ist 12 (15 minus 3).
+Hast du Un­ter­stüt­zung oder Werk­zeug, er­hältst du pro Unter­stüt­zer und Werk­zeug 1 Punkt Bo­nus. Hast du einen zwei­ten pas­sen­den Wert, dann gibt er dir pro Plus einen Punkt Bo­nus.
 
 War die Auf­ga­be ein­fach, dann brauchst du min­des­tens ein Er­geb­nis von 9, um sie zu schaf­fen.
 
 War sie for­dernd, dann brauchst du eins von 12. War sie schwer, dann brauchst du eins von 15.
+
+Ich schlei­che an Wa­chen vor­bei. Das ist for­dernd, al­so brau­che ich Er­geb­nis 12. Ich wür­fle ei­ne 5 und ha­be da­mit nur 10. Mit 2 Unter­stüt­zern hätte es geklappt.
 Wenn dich je­mand an­ders be­hin­dern will, dann wür­felt auch er.
 
 War dein Er­geb­nis hö­her als seins, dann ge­winnst du.
@@ -213,7 +221,7 @@ War es gleich hoch, dann ge­winnt der, der an­ge­fan­gen hat.
 
 Ein Dolch hat einen Wert von 1, ein Schwert von 4.
 
-War das Er­geb­nis des Ge­win­ners plus sei­ne Waf­fe 4 oder mehr Punk­te hö­her, dann er­hält der Ver­lie­rer ei­ne Wun­de.
+War das Er­geb­nis des Ge­win­ners plus sei­ne Waf­fe 4 oder mehr Punk­te hö­her als das Er­geb­nis des Ver­lie­rers, dann er­hält der Ver­lie­rer ei­ne Wun­de.
 
 Soll­test du das sein, mach dir einen Strich ne­ben dei­nen Na­men.
 So­lan­ge du Wun­den hast, sind al­le dei­ne Wer­te pro Wun­de 3 Punk­te nied­ri­ger.
