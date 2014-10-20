@@ -4,7 +4,7 @@ Aus dem Wiki:
 
 ### Ideen
 
-Differenzierung zwischen Männdern und Frauen
+Differenzierung zwischen Männern und Frauen
 * Menschl. Frau: Stärke -1, Gesundheit +1, Willenskraft +1, kann schwanger werden. 
 * Menschl. Mann: Stärke +1, Willenskraft -1, Lebenserwartung -5 Jahre. 
 
