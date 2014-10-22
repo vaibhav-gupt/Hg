@@ -1,0 +1,135 @@
+Julians Korrektur: 
+
+# MW auf Skala der Eigenschaften
+
+Ich habe versucht, sie etwas sauberer zu beschreiben. Bitte sag' mir, ob es geklappt hat :)
+
+# Schwierigkeiten od. Mindestwürfe
+
+Ich habe mich jetzt für "Mindestwürfe" entscheiden. Das ist leichter zu beschreiben: "Es ist der Wert, den du mindestens würfeln musst, um die Probe zu schaffen" :) 
+
+# Eigenschaften
+
+Die Spielerinnen wählen sich dabei einfach diejenigen Eigenschaften, die ihren Charakter am schönsten beschreiben und erklären kurz, was die Eigenschaft bei ihrem Charakter bedeutet. 
+
+**Eigenschaften von Menschen haben normalerweise Werte zwischen 6 und 18. Werte die darüber hinausgehen sind der Stoff für Legenden. 
+
+# Berufe
+
+Ich habe den Absatz mit den Kosten einfach rausgestrichen. Er gehört hier wirklich noch nicht hin. 
+
+Die Ausnahme braucht es nicht mehr. Die war nur für "die drei höchsten Eigenschaften als Bonus" wichtig... Regression-Test failing... :) 
+
+*Beispiel: Niels, 26 Jahre alt und gelernter Schlosser, spielt Drasnik, einen früheren Gerber und Beutelschneider. Da er viel Geld wittert, hat er sich vor einer Woche einer Gruppe Abenteurer angeschlossen, die in den Hohen Norden ziehen. Als er auf dem Markt neue Pelze sucht, muss Niels auf den Beruf "Gerber" würfeln, um die Besten zu finden. Er beginnt jedes der der Gespräche mit "Seht ihr die goldbeschlagene Kutsche dorthinten? Das ist mein Herr, und er hat mich geschickt, die besten Pelze der Stadt zu finden. Wagt es nicht, ihm Schund anzudrehen, denn er ist wählerisch in seinem Zorn." Grinsend sagt ihm die SL, dass er bei diesem Wurf Boni aus seiner Eigenschaft "Dreistigkeit" erhält. 
+
+Die Seitenleisten habe ich gerade nochmal etwas entschlackt - wir haben noch eine weitere Seitenleiste frei, leider aber nicht an der richtigen Stelle... 
+
+# Merkmale
+
+"darunter zählen" ist toll! :) 
+
+# Wundschwelle
+
+**Die Wunschwelle bestimmt, wie schwer eine Verletzung sein muss, um den Charakter merklich zu behindern und wie schnell seine Verletzungen heilen. Verletzungen unter der Wundschwelle sind dabei einfach Kratzer. Sie liegt bei einem Drittel einer passenden Eigenschaft, z.B. Konstitution. Der Durchschnittswert ist daher 4. 
+
+# Erschaffung
+
+Stärke war wohl unklar... ich meinte Machtstufe (habe das jetzt auch geschrieben). Danke! 
+
+# Weiblich bei Beispielen
+
+Eigentlich hast du Recht... Ich wollte mich bei Beispielen rausmogeln, um mehr Leute anzusprechen, aber vermutlich wird das besser durch ein klares Konzept erreicht... 
+
+# Plusse, Minusse und Dreiecke
+
+Ich habe als einzige Lösung bisher die Möglichkeit gefunden, Dreiecke rauszustreichen und nur noch von Punkten zu sprechen. Damit fällt leider auch die schöne Eselsbrücke weg, "sobald die Dächer stehen", aber was sich nicht beschreiben lässt, muss aus den Grudnregeln raus, selbst wenn es einer meiner Lieblinge ist. Dreiecke werden eigentlich erst für die Steigerung gebraucht. 
+
+Was in den Grundregeln Punkte sind wird dann zu Dreiecken, also jeweils drei Strichen. 
+
+Alternativ können wir auch riskieren, am Anfang von dreiecken zu sprechen und konsequent dabei zu bleiben. 
+
+# Beschreibung der Machtstufen
+
+Ich habe einmal "sie" eingefügt, damit es keine zu monotone Aufzählung wird. 
+
+# Klein nach Doppelpunkt
+
+Im Deutschen auch? Ich kannte das nur vom Englischen her... 
+
+Habe gerade nachgeschaut: Geht jetzt beides :-) 
+
+- http://de.wikipedia.org/wiki/Neuerungen_der_deutschen_Rechtschreibreform_von_1996#Doppelpunkt
+
+# Boni durch Eigenschaften
+
+Ich habe es jetzt als Text-Tabelle eingefügt und dafür die expliziten Zahlenbereiche aus dem Regeltext entfernt. Sieht so deutlich klarer aus. 
+
+Für den Beruf habe ich das Beispiel abgewandelt: 
+
+"Sein Beruf "Diplomat" gibt ihm alle Fertigkeiten eines Diplomaten mit Wert 9. Je nach Situation kann eine andere Eigenschaft einen Bonus auf diesen Wert geben. In Situationen in denen er sich auf seine körperliche Eleganz (Gewandheit), seinen ganz eigenen Stil oder sein Charisma verlassen kann, schneidet er damit besser ab, als wenn er sich durch trockene Akten wühlen muss."
+
+
+# Beruf und Geld
+
+Stimmt natürlich - eine weitere Regression :) 
+
+War auch nicht ganz sauber, daher habe ich es jetzt klarer gemacht und Fertigkeit und Verdienst komplett getrennt: 
+
+"Er verdient Geld entsprechend seinem Beruf und nach seiner Berufswahl. Sein Wert in seinem Beruf übersezt sich dabei nicht direkt in Einkommen, denn auch geniale Polizisten erhalten nicht mehr Geld als ihre faulen Kollegen. 
+
+Soll er deutlich besser verdienen als der Durchschnitt, kann er das Merkmal "Vermögend" wählen, das ihm das dreifache Durchschnittseinkommen beschert."
+
+
+# 6 Regeln der Erschaffung
+
+Ich habe sie jetzt mal umsortiert - ich hoffe, das macht es etws klarer: 
+
+* Eigenschaften und Merkmale
+* Fertigkeiten und Berufe
+* Kosten
+
+* Dreiecke verschieben
+* Stärken für Schwächen
+* Eigenschaftsboni
+
+Damit sind die Punkte, die man zusammen braucht auch eher zusammen. 
+
+
+# Merkmale: "Kampfreflexe" hat jetzt als Beschreibung "Als Erste dran" und Heilen ist raus (kriege ich nicht in 3 Worten erklärt). 
+
+
+# Breite Berufe
+
+Hier habe ich "Alles" rausgestrichen und "Schwelle" wieder durch "3 Punkte höher" ersetzt. 
+
+
+# Wirkung des ±W6
+
+Bei einer Steigerung um einen Punkt erhöhen sich nur die Chancen für zwei bestimmte Mindestwürfe. Alle anderen bleiben gleich. 
+
+Ich hab's jetztmal so probiert: 
+
+"Die Chancen andere Mindestwürfe zu schaffen blieben gleich, so dass er eine deutliche Verbesserung in zwei Bereichen hatte, trotzdem aber in anderen Bereichen Raum blieb, um auch die nächste Steigerung zu spüren."
+
+Eigentlich wollte ich auch noch das hier schreiben, aber dafür haben wir keinen Platz... 
+"Um dir das zu vergegenwärtigen, schau dir einfach mal an, was Spielerinnen bei den verschiedenen Werten mindestens würfeln müssen, um Proben mit bestimmten Mindestwürfen zu bestehen."
+
+
+# Erschöpfung
+
+Wird natürlich nicht verdoppelt - war nicht aktualisiert. Refaktorierung ist Arbeit :) 
+
+
+# Abkürzungen
+
+Verdammte Gewohnheit :) 
+
+Die sollten raus, denke ich. Abkürzungen machen nur bei einem festen Kanon an Namen Sinn, und den hat das EWS absichtlich nicht. 
+
+
+# Ab 6-fach tot
+
+da müssen wir bis -5x Eigenschaft runtergehen, also -60; sieht auch klarer aus, dank Dezimalsystem :) 
+
+
+TODO: Sven überall durch "Gudrun" ersetzen. 

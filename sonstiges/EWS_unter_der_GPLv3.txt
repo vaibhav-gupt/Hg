@@ -1,0 +1,207 @@
+Das Ein Würfel System jetzt unter der GPLv3
+===========================================
+
+Ab heute sind alle Regeln des Ein Würfel Systems unter der [GNU General Public License](http://gnu.org/licenses/gpl.html) Version 3 oder höher nutzbar, der verbreitetsten freien Softwarelizenz (GPLv3 or later). 
+
+![GPLv3 logo](/bilder/gpl-v3.png)
+
+Es kann damit weiterhin frei genutzt und verändert werden, und Welten können es weiterhin nutzen, ohne selbst frei sein zu müssen. Aber nun hat es eine von Juristen abgesegnete freie Lizenz und damit deutlich mehr Rechtssicherheit. 
+
+Wir bleiben weiterhin bei unserem Dual-Lizensierungs-Modell. Die Lizenz betrifft daher nur die bisher auch schon kommerziell nutzbaren Teile (die Regeln): 
+
+* Alle verkauften Regeln können frei genutzt, verändert und weitergegeben werden, also auch kommerziell ([GPLv3](http://gnu.org/licenses/gpl.html))
+* Alles was auf der Webseite steht kann nichtkommerziell genutzt, verändert und weitergegeben werden ([cc nc-sa](http://creativecommons.org/licenses/by-nc-sa/2.0/de/)), es sei denn es steht explizit (und sichtbar) etwas anderes dabei. 
+
+In diesem Beitrag beleuchte ich erst den Hintergrund, was die GPLv3 für uns bewirkt und danach Definitionen der Begriffe, die in der GPLv3 genutzt werden. Als nächsten Schritt gehe ich die GPLv3 Abschnitt für Abschnitt durch und beschreibe, was der Abschnitt für Regelwerke bedeutet. Abschließend beschreibe die Schritte zur Relizensierung. 
+
+
+Hintergrund
+-----------
+
+Lange Zeit stand das EWS unter einer selbstgeschriebenen freien Lizenz, weil bestimmte Bedingungen mit der GPLv2 noch nicht flexibel genug waren. 
+
+Die GPLv3 ist allerdings so allgemeingültig gehalten, dass sie nicht nur für Software, sondern auch für Rollenspielregeln genutzt werden kann. 
+
+Der Wechsel auf die GPLv3 gibt uns dabei drei grundlegende Vorteile: 
+
+1. Alle GPLv2 or later und GPLv3 lizensierten Programme können direkt Materialien des EWS nutzen. 
+2. Wir können Material aus allen GPLv2 or later und GPLv3 lizensierten Programmen nutzen. Also beispielsweise Material aus [Battle for Wesnoth](http://wesnoth.org). 
+3. Jeder, der sich mit freier Software beschäftigt, kennt die GPL und weiß, was sie bedeutet. 
+
+Der Wechsel hat nur einen Nachteil: Wir müssen jetzt jedem EWS eine Kopie der GPLv3 beilegen. 
+
+Definitionen
+------------
+
+Die GPLv3 arbeitet mit den für Regelwerke relevanten Ausdrücken *corresponding source*, *object code*, *intimite data communication* und *aggregate*, die bei Regelwerken allerdings etwas anders aussehen als bei Programmen, da Programme von (extrem dummen) Computern ausgeführt werden und in für Computer lesbaren Formaten gespeichert werden, während Regeln von (verdammt flexiblen) Rollenspielrunden genutzt werden. Was sie für Regelwerke bedeuten: 
+
+* *corresponding source*: Eine einfach und mit frei verfügbaren Werkzeugen änderbare Version der Regeln in einem Standardformat. Das ist z.B. ein Textdokument, eine Scribus Datei oder eine Datei im Open Document Format. 
+
+* *object code*: Eine Version, die nicht mehr einfach anzupassen ist, z.B. ein PDF oder ein gedrucktes Buch. 
+
+* *intimate data communication* und *control flow*: Direkte Interaktion zwischen verschiedenen aufeinander aufbauenden Bestandteilen. Diese Interaktion ist der zentrale Teil, der für die Anwendung der GPLv3 für Rollenspiele geklärt werden muss, denn sie bestimmt, welche Änderungen auch unter der GPlv3 freigegeben werden müssen. Bei Programmen wird hier unterschieden, ob einfach nur Daten in einem definierten Format ausgetauscht werden (z.B. Charakterwerte), oder ob verschiedene Bestandteile direkt aufeinander aufbauen. Beispielsweise hat ein Magiesystem *intimate data communication*, wenn es die Funktionsweise von Eigenschaften, Fertigkeiten oder Merkmalen nutzt, um neue Möglichkeiten zu bieten (was so ungefähr für alle Regelerweiterungen gilt). Die Werte eines NSCs oder sonstigen Wesens dagegen werden nur an das Regelwerk weitergegeben und von ihm verarbeitet, also müssen die Werte nicht frei lizensiert sein, genauso wie ein Textdokument das mit OpenOffice erstellt wird nicht frei lizensiert sein muss. 
+
+* *aggregate*: Nebeneinander existierende Bereiche, die keine *intimate data communication* haben. Beispiele sind Welten und Alternativregelwerke. 
+
+
+Die GPL für Rollenspielregeln, Abschnitt für Abschnitt
+------------------------------------------------------
+
+Hier gehe ich die Abschnitte der GPlv3 einzeln durch und beschreibe jeweils, was sie für ein Rollenspiel bedeuten. 
+
+> GPL: [http://www.fsf.org/licensing/licenses/gpl.html](http://www.fsf.org/licensing/licenses/gpl.html)
+
+> *"System Libraries"*
+
+Gesunder Menschenverstand muss nicht frei lizensiert sein :) 
+
+> *"The “Corresponding Source” [...] For example, Corresponding Source includes 
+[...] the source code for 
+shared libraries and dynamically linked subprograms that the work is specifically 
+designed to require, such as by intimate data communication or control flow between 
+those subprograms and other parts of the work."*
+
+"Control Flow" bedeutet hier, dass z.B. ein Magiesystem EWS Regeln direkt nutzt. 
+
+Das Magiesystem muss also frei sein. 
+
+Eine Welt hat allerdings keine "intimate data communication", sondern enthält nur vom 
+Regelwerk zu verarbeitende Daten (z.B. Werte). 
+
+Diese Daten müssen nicht frei sein. 
+
+> *2. Basic Permissions. [...]*
+
+Privat darf damit gemacht werden was man will, und man darf auch andere mit 
+Veränderungen beauftragen, solange das wirklich ein Auftragsverhältnis ist. Sobald es 
+weitergegeben wird, muss der copyleft Teil der Lizenz eingehalten werden, d.h. 
+teile, die freie Teile verwenden, müssen freigegeben werden. 
+
+> *3. Protecting Users' Legal Rights From Anti-Circumvention Law.*
+
+(Bisher) Irrelevant. 
+
+> *4. Conveying Verbatim Copies.*
+
+Jeder darf das EWS unverändert weitergeben und auch verkaufen wie er will. 
+
+> *"5. Conveying Modified Source Versions.
+You may convey a work based on the Program, or the modifications to produce it from 
+the Program, in the form of source code under the terms of section 4, provided that 
+you also meet all of these conditions:*
+a) The work must carry prominent notices stating that you modified it, and giving a 
+relevant date.*
+
+Wenn du es verändert hast, musst du es sagen, und du musst auch sagen, wann du es 
+verändert hast. 
+
+> *b) The work must carry prominent notices stating that it is released under this 
+License and any conditions added under section 7. This requirement modifies the 
+requirement in section 4 to “keep intact all notices”.*
+
+Es muss auf die Lizenz hingewiesen werden. 
+
+> *c) You must license the entire work, as a whole, under this License to anyone who 
+comes into possession of a copy. This License will therefore apply, along with any 
+applicable section 7 additional terms, to the whole of the work, and all its parts, 
+regardless of how they are packaged. This License gives no permission to license the 
+work in any other way, but it does not invalidate such permission if you have 
+separately received it.*
+
+Wenn jemand anders eine Kopie des Werkes hat, musst du auch ihm die Lizenzrechte 
+geben. 
+
+> *d) If the work has interactive user interfaces, each must display Appropriate 
+Legal Notices; however, if the Program has interactive interfaces that do not display 
+Appropriate Legal Notices, your work need not make them do so.*
+
+Wenn es irgendwo Copyrightvermerke gibt, müssen die auch die Lizenz (GPL) und 
+Urheberrechtsvermerke nennen. 
+
+> *A compilation of a covered work with other separate and independent works, which 
+are not by their nature extensions of the covered work, and which are not combined 
+with it such as to form a larger program, in or on a volume of a storage or 
+distribution medium, is called an “aggregate” if the compilation and its resulting 
+copyright are not used to limit the access or legal rights of the compilation's 
+users beyond what the individual works permit. Inclusion of a covered work in an 
+aggregate does not cause this License to apply to the other parts of the aggregate."*
+
+Die Lizenz gilt nur für Abschnitte, die entweder Abwandlungen des Werkes sind, es erweitern oder direkt auf ihm aufbauen. 
+
+Ein mitgeliefertes Alternativregelwerk muss nicht freigegeben werden. 
+
+> *6. Conveying Non-Source Forms.*
+
+Quellen können auf verschiedene Arten mitgeliefert werden: 
+
+* Direkt dabei. 
+* Mit dem schriftlichen, bindenen, mindestens 3 Jahre gültigen Angebot, für höchstens einen Unkostenbeitrag die Quellen zu liefern. 
+* Auf einem Webserver (min. 3 Jahre). 
+* Im kleinen Rahmen reicht einfach eine Kopie des Angebotes (so dass man das Werk einfach 
+weitergeben kann, ohne immer die Quellen vorrätig halten zu müssen) - für das EWS kommt das Angebot einfach auf das Buch.
+* Über p2p Netzwerke, müssen verfügbar bleiben. 
+
+> *7. Additional Terms.*
+
+Ein paar optionale Einschränkungen, die keinen wirklichen Effekt haben (z.B. 
+Markenrechtliches, das eh gilt). 
+
+> *8. Termination.*
+
+Wenn du gegen die Lizenz verstößt, aber den Verstoß ungeschehen machst, darfst du das 
+Werk nach 60 Tagen wieder unter der Lizenz nutzen. Ist ein Urheber des Werkes 
+beteiligt, verkürzt sich das auf 30 Tage, wenn es das erste Mal war. 
+
+> *9. Acceptance Not Required for Having Copies.*
+
+Wenn jemand dir eine Kopie gibt, die du in seinem Auftrag weitergeben sollst, musst 
+du die Lizenz nicht annehmen. Aber du darfst das Werk nur ändern oder selbstständig 
+weitergeben, wenn du die Lizenz annimmst. 
+
+> *10. Automatic Licensing of Downstream Recipients.*
+
+Wer legal eine Kopie erhält, egal von wem, erhält auch Nutzungsrechte entsprechend 
+der Lizenz. 
+
+> *11. Patents.*
+
+Wenn jemand ein Patent hält, das mit dem EWS zu tun hat, und das Werk zusammen mit 
+der Erlaubnis weitergibt, das Patent zu nutzen, wird diese Erlaubnis automatisch auf 
+alle ausgedehnt, die das EWS nutzen (dürfen). 
+
+> *12. No Surrender of Others' Freedom.*
+
+Wenn du anderen die Rechte die die Lizenz gibt (nutzen, ändern, weitergeben) nicht 
+geben kannst, darfst du das Werk nicht weitergeben. 
+
+> *13. Use with the GNU Affero General Public License.*
+
+Darf mit AGPL Werken genutzt werden. Das Gesamtwerk wird dann als AGPL angesehen, der 
+Teil bleibt aber unter der GPL. 
+
+Die AGPL verlangt, dass auch dann der Quellcode freigegeben werden muss, wenn nur über Netzwerkkommunikation auf das Werk zugegriffen wird, z.B. weil das Werk auf einem anderen Computer läuft. 
+
+> *14. Revised Versions of this License.*
+
+Die FSF kann neue Versionen der Lizenz bereitstellen. Sie gelten als höhere Version, 
+wenn sie dem Geist der Lizenz treu bleiben. 
+
+> *15. Disclaimer of Warranty. [..] 16. Limitation of Liability. [...] 17. Interpretation of Sections 15 and 16.*
+
+Keine automatische Garantie. 
+
+
+Schritte zur Relizensierung
+---------------------------
+
+Um das EWS unter der GPLv3 zu veröffentlichen sind ein paar Schritte notwendig: 
+
+1. Wir müssen die Lizenznotizen auf 1w6.org anpassen. 
+2. Wir müssen eine Kopie der Lizenz beilegen. Dafür werde ich sie umformatieren, damit sie auf eine einzelne gefaltete Din-A4 Seite passt, also in ein EWS Heft gelegt werden kann. 
+3. Wir müssen die Lizenznotiz auf dem Regelwerk anpassen. 
+
+Die Schritte werde ich die nächsten Wochen angehen, zusammen mit anderen Verbesserungen, die wir in der Nachbesprechung der Rezension gefunden haben. 
+
+Sie sind einfach möglich, da die kleinere freie Textlizenz diese Relizensierung explizit erlaubt. 
+
+Ab Version 2.4.0 (der nächsten geplanten) wird das EWS damit unter der GPLv3 stehen. 
