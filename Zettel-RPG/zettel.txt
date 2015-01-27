@@ -217,13 +217,11 @@ War dein Er­geb­nis hö­her als seins, dann ge­winnst du.
 War es nied­ri­ger, ge­winnt er.
 
 War es gleich hoch, dann ge­winnt der, der an­ge­fan­gen hat.
-Hat er ver­sucht, dich mit Waf­fe zu be­hin­dern, dann schaut ihr euch jetzt die Waf­fen an.
+Kämp­ft ihr da­bei, dann kön­nt ihr euch ver­let­zen. Schaut euch eu­re Waf­fen und Schutz­kleid­ung an. Ist die Waf­fe stärker als die Klei­dung, er­hält der Ver­lie­rer ei­ne Wunde. Sind bei­de gleich stark, er­hält er eine Wun­de, wenn das Er­geb­nis des Ge­win­ners 3 Punk­te hö­her war als seins. Ist die Waf­fe schwä­cher, erst ab 6 Punk­te.
 
-Ein Dolch hat einen Wert von 1, ein Schwert von 4.
+Ei­ne Faust ist so stark wie ei­ne Jeans, ein Dolch wie eine Le­der­ja­cke, ein Schwert wie ein Ket­ten­hemd, ei­ne Pis­to­le wie Po­li­zei­pan­ze­rung.
 
-War das Er­geb­nis des Ge­win­ners plus sei­ne Waf­fe 4 oder mehr Punk­te hö­her als das Er­geb­nis des Ver­lie­rers, dann er­hält der Ver­lie­rer ei­ne Wun­de.
-
-Soll­test du das sein, mach dir einen Strich ne­ben dei­nen Na­men.
+Soll­test du ei­ne Wun­de er­hal­ten, mach dir einen Strich ne­ben dei­nen Na­men.
 So­lan­ge du Wun­den hast, sind al­le dei­ne Wer­te pro Wun­de 3 Punk­te nied­ri­ger.
 
 Die­ser Ab­zug ver­schwin­det, wenn die je­wei­li­ge Wun­de heilt. Ei­ne Faust­re­gel dafür sind 4 Wo­chen oder ein Heil­trank.
