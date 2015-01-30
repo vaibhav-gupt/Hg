@@ -39,6 +39,8 @@ done
 
 if [ $# -eq 0 ]; then
   help "${PROGRAM_NAME}"
+elif [[ x"$outfile" == x"" ]]; then
+  help "${PROGRAM_NAME}"
 fi
 infile="$1"
 
