@@ -216,7 +216,7 @@ War dein Er­geb­nis hö­her als seins, dann ge­winnst du.
 
 War es nied­ri­ger, ge­winnt er.
 
-War es gleich hoch, dann ge­winnt der, der an­ge­fan­gen hat.
+War es gleich hoch, dann ge­winnt wer an­ge­fan­gen hat.
 Kämp­ft ihr da­bei, dann kön­nt ihr euch ver­let­zen. Schaut euch eu­re Waf­fen und Schutz­kleid­ung an. Ist die Waf­fe stärker als die Klei­dung, er­hält der Ver­lie­rer ei­ne Wunde. Sind bei­de gleich stark, er­hält er eine Wun­de, wenn das Er­geb­nis des Ge­win­ners 3 Punk­te hö­her war als seins. Ist die Waf­fe schwä­cher, erst ab 6 Punk­te.
 
 Ei­ne Faust ist so stark wie ei­ne Jeans, ein Mes­ser wie eine Le­der­ja­cke, ein Schwert wie ein Ket­ten­hemd, ei­ne Pis­to­le wie Po­li­zei­pan­ze­rung.
