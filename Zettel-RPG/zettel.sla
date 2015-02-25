@@ -717,7 +717,7 @@
             <ITEXT CH="War es gleich hoch, dann ge­­win­nt wer an­­ge­­fangen hat."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Kämp­­ft ihr da­­bei, dann kön­­nt ihr euch ver­­let­­zen. Schaut euch eu­­re Waf­­fen und Schutz­­kleid­­ung an. Ist die Waf­­fe stärker als die Klei­­dung, er­­hält der Ver­­lie­­rer ei­­ne Wunde. Sind bei­­de gleich stark, erhält er eine Wun­­de, wenn das Er­­geb­­nis des Gewin­­ners 3 Punk­­te hö­­her war als seins. Ist die Waf­­fe schwä­­cher, erst ab 6 Punk­­te."/>
+            <ITEXT CH="Kämp­­ft ihr da­­bei, dann kön­­nt ihr euch ver­­let­­zen. Schaut euch eu­­re Waf­­fen und Schutz­­kleid­­ung an. Ist die Waf­­fe stärker als die Klei­­dung, er­­hält der Ver­­lie­­rer ei­­ne Wunde. Sind bei­­de gleich stark, erhält er eine Wun­­de, wenn das Er­­geb­­nis des Gewin­­ners 3 Punk­­te hö­­her war als seins. Ist die Waf­­fe schwä­­cher, erst ab 6 Punk­­ten."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ei­­ne Faust ist so stark wie ei­­ne Jeans, ein Mes­­ser wie eine Le­­der­­ja­­cke, ein Schwert wie ein Ket­­ten­­hemd, ei­­ne Pis­­to­­le wie Po­­li­­zei­­pan­­ze­­rung."/>
