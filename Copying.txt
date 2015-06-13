@@ -1,0 +1,9 @@
+Alle Werke im 1w6 Repository sind unter der GNU Public License, Version 2 or later verfügbar, abgesehen von den Werken, bei denen explizit etwas anderes steht, solange Battle for Wesnoth die GPLv2 verwendet (http://wesnoth.org). 
+
+Wenn Battle for Wesnoth auf die GPLv3 wechselt, sind alle Inhalte hier nur noch unter der GPLv3 or later verfügbar.
+
+Eine Kopie der GPL findest du unter sonstiges/gpl-2.0.txt (Version 2) und sonstiges/gpl.txt (Version 3). 
+
+Das gilt auch für alle Inhalte hier von Arne Babenhauserheide, die als GPLv3 oder GPLv3 or later gekennzeichnet sind mit Ausnahme der fertigen Releases des EWS (die einfach aus Scribus erneut erzeugt werden können). 
+
+- Drak alias Arne Babenhauserheide

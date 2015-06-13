@@ -1,0 +1,23 @@
+#O’Bahn
+##Motivation
+Retsam Adoy, ein faltiger alter Kunstsammler, hat eine Expedition zusammengestellt, die auf dem Planeten O'Bahn im Sixilac-Sektor einige wertvolle Artefakte bergen soll. Als Belohnung winken einige zehntausend credits und natürlich Folgeaufträge. 
+Der Planet ist spärlich bewachsen, es gibt kein intelligentes Leben und die Tierwelt besteht weitgehend aus Pflanzenfressern; leicht verdientes Geld. 
+Die SC treffen sich an Bord des Raumschiffs T'Namada, das unter dem Kommando von Kapitän K'Caj steht, einem Flauschianer (pelzige Fellkugel ohne Arme, mit einem Durchmesser von 50 Zentimeter, telekinetischen Fähigkeiten und nur halb so schnell wie ein Mensch). 
+
+
+
+##Vorbesprechung
+Die T'Namada fliegt ohne offiziellen Navigator der Gilde und im Sensorschatten, um einer Entdeckung durch den Zoll und der damit verbundenen Steuer zu entgehen.
+K'Car hält die Vorbesprechung in der Kantine des Schiffes. Die Artefakte befinden sich, laut Retsam Adoy, in den Ruinen eines alten und längst verlassenen Tempels. Die Zivilisation, die den Tempel erbaute, ist lange untergegangen und vom Antlitz der Welt verschwunden. Sagte zumindest ein Mitglied der Sternenfahrergilde, deren Navigatoren den bekannten Weltraum bereisen und stets in neue Gebiete vordringen, um diese zu erkunden.
+##O’Bahn
+O’Bahn ist ein kleiner und heißer Dschungelplanet mit dichter Vegetation. Die Landefähre muss daher auf einer hohen Felsenklippe landen, etwa zwei Tage Fußmarsch vom Tempel entfernt. Entgegen der Angaben des Auftraggebers, ist im dichten Dschungel ein stetes Fauchen, Fiepen, Schreien und Krächzen zu hören. Der Dschungel ist voller Leben und einiges davon hört sich nach Raubtier an. Die Tierwelt hält sich jedoch möglichst außerhalb des Sichtfelds der Spielercharaktere auf.
+##Der Tempel
+Nach zwei Tagen Fußmarsch erreicht die Expedition den Tempel. Es handelt sich um eine kleine Steinpyramide, die von Lianen, Moosen und Flechten bewachsen ist. Es gibt nur einen sichtbaren Eingang, der von einer schweren Steinplatte verschlossen wird. Berührt jemand die Steinplatte, fährt links an der Seite eine Vertäfelung zur Seite und ein Sensorfeld mit unbekannten Schriftzeichen wird sichtbar. 
+
+
+Das Feld verfügt über Energie und ist funktionsfähig. Die Schriftzeichen zu entschlüsseln ist eine leichte Aufgabe (9), ein einfaches mathematisches Rätsel handelt: "2_+_2_=". Die Türe selbst kann nur mit schweren Waffen geknackt werden. Bei einem Akt der Gewalt fährt eine Selbstschussanlage aus der Decke (FW: 15, Schaden 8). Das geschieht auch, sobald jemand drei mal hintereinander die falsche Antwort eintippt.
+##Das Hologramm
+Vom Eingang aus gelangt man sofort in eine große und hohe Zentralhalle. Im Zentrum der Halle flammt bei Betreten das Hologramm eines menschenähnlichen Wesens auf. Es trägt eine helle Robe und spricht in einer fremden Sprache (extrem schwer zu verstehen: 18). 
+Das Wesen ist ein programmierter Waffenverkäufer, der zwei zentrale Fragen stellt: "Möchten Sie eine Aktivierung der planetaren Waffensuchsysteme zur Demonstration? Wie viele Einheiten sollen wir liefern?" Bei einer versehentlichen Aktivierung (das Hologramm könnte ein Wort als "Ja" auslegen) wird die Expedition auf dem Rückweg zur Landefähre von drei schwebenden Waffenkugeln mit Laserfeuer unter Beschuss genommen (FW: 12, Schaden: 4, Wundschwelle: 4, Rüstung: 3). Bestellungen verlaufen im Sand:  Die Waffenhändler haben sich bei ihrer letzten Demonstration selbst ausgelöscht.
+##Verborgenes Lager
+Hinter dem Hologramm befindet sich eine weitere Steinplatte, die bei Berührung zur Seite gleitet und die Energieeinheit freigibt. Sämtliche Geräte sind Techno-Artefakte. Es können die Energieeinheit (handlicher Nukleargenerator), das Steuerdisplay (mit Multi-Interface) und das Holoprogramm (passt sich in der Gestalt ungefähr den Besuchern an) entnommen werden. Der Ausbau ohne Beschädigung ist eine fordernde Aufgabe (12).

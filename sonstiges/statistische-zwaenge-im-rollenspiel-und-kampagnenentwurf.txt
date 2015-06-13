@@ -1,0 +1,456 @@
+Statistische Zwänge im Rollenspiel- und Kampagnendesign
+=======================================================
+
+*Ein Spiel für durchschnittliche Gruppen muss [(1)](#stat1) fehlende Leute verkraften und [(2)](#stat2) 
+entweder mit 2 oder mit 9 Beteiligten gut spielbar sein.*
+
+<!--auch die SL könnte fehlen → Spiel muss auf SL-Wechsel eingestellt sein.-->
+
+<!-- Plan: -->
+
+<!-- * 2/J (0.96), 4/J (0.92), 6/J (0.88), 1/M (0.75) --> <!-- * 6/J == empfunden 1/M == 88% → schon 
+nervig. --> <!-- * 3/J == 94% == empfunden 1/2M --> <!-- * 1/J == wenn ich Zeit habe, sind sie da == 
+0.98% -->
+
+<!--for p in 0.98 0.96 0.92 0.88 0.75; do
+    for m in 0 1 2 3 4; do
+        echo "==== $p ===="
+        for i in {0..12}; do
+            echo $i $(($i-$m)) $(./spielfaehig.py $p $i $(($i-$m)))
+        done
+    done done ==== 0.98 ==== 0 0 1.0 1 1 0.98 2 2 0.9604 3 3 0.941192 4 4 0.92236816 5 5 0.9039207968 6 
+6 0.885842380864 7 7 0.868125533247 8 8 0.850763022582 9 9 0.83374776213 10 10 0.817072806888 11 11 
+0.80073135075 12 12 0.784716723735 ==== 0.98 ==== 0 -1 1.0 1 0 1.0 2 1 0.9996 3 2 0.998816 4 3 
+0.99766352 5 4 0.9961576128 6 5 0.99431287648 7 6 0.992143466568 8 7 0.989663107901 9 8 0.986885106195 
+10 9 0.983822359314 11 10 0.980487368265 12 11 0.976892247915 ==== 0.98 ==== 0 -2 1.0 1 -1 1.0 2 0 1.0 3 
+1 0.999992 4 2 0.99996848 5 3 0.9999223808 6 4 0.99984708544 7 5 0.999736401261 8 6 0.999584542567 9 7 
+0.999386113874 10 8 0.99913609372 11 9 0.998829819032 12 10 0.998462970017 ==== 0.98 ==== 0 -3 1.0 1 -2 
+1.0 2 -1 1.0 3 0 1.0 4 1 0.99999984 5 2 0.9999992128 6 3 0.99999767616 7 4 0.999994664346 8 5 
+0.999989499084 9 6 0.999981399954 10 7 0.999969494232 11 8 0.999952826222 12 9 0.999930366078 ==== 0.98 
+==== 0 -4 1.0 1 -3 1.0 2 -2 1.0 3 -1 1.0 4 0 1.0 5 1 0.9999999968 6 2 0.99999998112 7 3 0.999999935021 8 
+4 0.999999829607 9 5 0.999999622997 10 6 0.999999258536 11 7 0.99999866325 12 8 0.999997746509 ==== 0.96 
+==== 0 0 1.0 1 1 0.96 2 2 0.9216 3 3 0.884736 4 4 0.84934656 5 5 0.8153726976 6 6 0.782757789696 7 7 
+0.751447478108 8 8 0.721389578984 9 9 0.692533995824 10 10 0.664832635992 11 11 0.638239330552 12 12 
+0.61270975733 ==== 0.96 ==== 0 -1 1.0 1 0 1.0 2 1 0.9984 3 2 0.995328 4 3 0.99090432 5 4 0.9852420096 6 
+5 0.97844723712 7 6 0.970619659223 8 7 0.961852771978 9 8 0.952234244259 10 9 0.941846234321 11 10 
+0.930765690388 12 11 0.919064635995 ==== 0.96 ==== 0 -2 1.0 1 -1 1.0 2 0 1.0 3 1 0.999936 4 2 0.99975168 
+5 3 0.9993977856 6 4 0.99883155456 7 5 0.998016181862 8 6 0.996920320957 9 7 0.995517618998 10 8 
+0.993786284008 11 9 0.991708682021 12 10 0.989270962355 ==== 0.96 ==== 0 -3 1.0 1 -2 1.0 2 -1 1.0 3 0 
+1.0 4 1 0.99999744 5 2 0.9999876096 6 3 0.99996401664 7 4 0.999918718157 8 5 0.999842616705 9 6 
+0.999725724875 10 7 0.99955740064 11 8 0.999326555975 12 9 0.999021841017 ==== 0.96 ==== 0 -4 1.0 1 -3 
+1.0 2 -2 1.0 3 -1 1.0 4 0 1.0 5 1 0.9999998976 6 2 0.99999940608 7 3 0.999997990502 8 4 0.999994819609 9 
+5 0.999988731492 10 6 0.999978211228 11 7 0.999961378804 12 8 0.999935985891 ==== 0.92 ==== 0 0 1.0 1 1 
+0.92 2 2 0.8464 3 3 0.778688 4 4 0.71639296 5 5 0.6590815232 6 6 0.606355001344 7 7 0.557846601236 8 8 
+0.513218873138 9 9 0.472161363287 10 10 0.434388454224 11 11 0.399637377886 12 12 0.367666387655 ==== 
+0.92 ==== 0 -1 1.0 1 0 1.0 2 1 0.9936 3 2 0.981824 4 3 0.96557312 5 4 0.9456387072 6 5 0.92271413248 7 6 
+0.897405401989 8 7 0.870240697929 9 8 0.841678951946 10 9 0.812117544853 11 10 0.781899217603 12 11 
+0.751318270425 ==== 0.92 ==== 0 -2 1.0 1 -1 1.0 2 0 1.0 3 1 0.999488 4 2 0.99807488 5 3 0.9954747392 6 4 
+0.99148785664 7 5 0.985985958707 8 6 0.97889951417 9 7 0.97020680887 10 8 0.959924580316 11 9 
+0.948100017479 12 10 0.934803953489 ==== 0.92 ==== 0 -3 1.0 1 -2 1.0 2 -1 1.0 3 0 1.0 4 1 0.99995904 5 2 
+0.9998083072 6 3 0.99946162176 7 4 0.99882372055 8 5 0.997796699603 9 6 0.996284924768 10 7 
+0.994198675496 11 8 0.991456747882 12 9 0.98798820945 ==== 0.92 ==== 0 -4 1.0 1 -3 1.0 2 -2 1.0 3 -1 1.0 
+4 0 1.0 5 1 0.9999967232 6 2 0.99998164992 7 3 0.999940047667 8 4 0.999850741498 9 5 0.999686418146 10 6 
+0.999414298676 11 7 0.998997048822 12 8 0.998393824746 ==== 0.88 ==== 0 0 1.0 1 1 0.88 2 2 0.7744 3 3 
+0.681472 4 4 0.59969536 5 5 0.5277319168 6 6 0.464404086784 7 7 0.40867559637 8 8 0.359634524806 9 9 
+0.316478381829 10 10 0.278500976009 11 11 0.245080858888 12 12 0.215671155822 ==== 0.88 ==== 0 -1 1.0 1 
+0 1.0 2 1 0.9856 3 2 0.960256 4 3 0.92680192 5 4 0.8875491328 6 5 0.84437106688 7 6 0.798775029268 8 7 
+0.751963097321 9 8 0.704883668619 10 9 0.658275034204 11 10 0.612702147221 12 11 0.568587592621 ==== 
+0.88 ==== 0 -2 1.0 1 -1 1.0 2 0 1.0 3 1 0.998272 4 2 0.99371008 5 3 0.9856811008 6 4 0.97390526464 7 5 
+0.958361160909 8 6 0.939210825112 9 7 0.916741097777 10 8 0.891318206278 11 9 0.863353025629 12 10 
+0.83327492022 ==== 0.88 ==== 0 -3 1.0 1 -2 1.0 2 -1 1.0 3 0 1.0 4 1 0.99979264 5 2 0.9990627328 6 3 
+0.99745693696 7 4 0.994630736282 8 5 0.990278387237 9 6 0.984150279782 10 7 0.976061177941 11 8 
+0.965892021342 12 9 0.953587341856 ==== 0.88 ==== 0 -4 1.0 1 -3 1.0 2 -2 1.0 3 -1 1.0 4 0 1.0 5 1 
+0.9999751168 6 2 0.99986563072 7 3 0.999576587469 8 4 0.998983085326 9 5 0.997938521556 10 6 
+0.996283932543 11 7 0.993857201991 12 8 0.990501380313 ==== 0.75 ==== 0 0 1.0 1 1 0.75 2 2 0.5625 3 3 
+0.421875 4 4 0.31640625 5 5 0.2373046875 6 6 0.177978515625 7 7 0.133483886719 8 8 0.100112915039 9 9 
+0.0750846862793 10 10 0.0563135147095 11 11 0.0422351360321 12 12 0.0316763520241 ==== 0.75 ==== 0 -1 
+1.0 1 0 1.0 2 1 0.9375 3 2 0.84375 4 3 0.73828125 5 4 0.6328125 6 5 0.533935546875 7 6 0.444946289062 8 
+7 0.367080688477 9 8 0.300338745117 10 9 0.244025230408 11 10 0.197097301483 12 11 0.15838176012 ==== 
+0.75 ==== 0 -2 1.0 1 -1 1.0 2 0 1.0 3 1 0.984375 4 2 0.94921875 5 3 0.896484375 6 4 0.83056640625 7 5 
+0.756408691406 8 6 0.67854309082 9 7 0.600677490234 10 8 0.525592803955 11 9 0.455200910568 12 10 
+0.390675008297 ==== 0.75 ==== 0 -3 1.0 1 -2 1.0 2 -1 1.0 3 0 1.0 4 1 0.99609375 5 2 0.984375 6 3 
+0.96240234375 7 4 0.929443359375 8 5 0.886184692383 9 6 0.834274291992 10 7 0.775875091553 11 8 
+0.713304519653 12 9 0.648778617382 ==== 0.75 ==== 0 -4 1.0 1 -3 1.0 2 -2 1.0 3 -1 1.0 4 0 1.0 5 1 
+0.9990234375 6 2 0.995361328125 7 3 0.987121582031 8 4 0.972702026367 9 5 0.951072692871 10 6 
+0.921873092651 11 7 0.885373592377 12 8 0.842356324196 -->
+
+Fangen wir bei [(1)](#stat1) an und bauen das statistische Fundament für [(2)](#stat2) auf.
+
+<a name="stat1"></a>
+
+## (1): Jedes Spiel und jede Kampagne muss fehlende Leute verkraften
+
+### Vorgeblubber :)
+
+Dass Statistik oft dem gesunden Menschenverstand widerspricht, ist allgemein bekannt, und das trifft uns 
+auch im Rollenspiel. Der verbreitetste Beleg ist die Wahrscheinlichkeit, dass unter 23 Leuten 2 am 
+gleichen Tag Geburtstag haben. Dabei muss jeder Termin mit jedem anderen verglichen werden, so dass die 
+[Wahrscheinlichkeit bei über 50% liegt](http://de.wikipedia.org/wiki/Geburtstagsparadoxon).
+
+Bei Rollenspielrunden kommt ein ähnlicher Effekt zum tragen, genauer gesagt bei der Frage, ob an einem 
+beliebigen Abend genügend Spieler da sind, um spielen zu können.
+
+Ich zeige hier, dass dieser Effekt fast unvermeidbar ist, so dass sich alle Rollenspielsysteme darauf 
+einstellen sollten.
+
+*(direkt zu [Fazit 1 mit Lösungsansätzen](#fazit1))*
+
+### Statistik in Rollenspielrunden
+
+Beginnen wir erstmal mit einer Annahme: Wir spielen am Wochenende und jeder von uns kann an 4 zufälligen 
+Wochenenden nicht; Weihnachten und ähnliche Tage mal außen vor lassend.[^wochenende] Das sind zum 
+Beispiel der eigene Geburtstag, der des Lebensgefährten oder eines engen Freundes und die Geburtstage 
+der Eltern. Bei Familien kommen noch zwei Kindergeburtstage dazu.
+
+[^wochenende]: Die Annahme dient nur der einfacheren Beschreibung. Sie lässt sich einfach auf jede 
+andere Spielfrequenz übertragen: Verlängert einfach die Zeiträume entsprechend.
+
+Damit kommen wir auf eine wahrscheinliche Teilnahme an einem beliebigen Spielabend von (50-4)/50 = 92%, 
+bzw. (50-6)/50 = 88% bei Eltern. Das ganze unter der Annahme, dass wir nie krank sind (oder statt 
+Geburtstagsfeiern mal krank sind). Die echten Zahlen liegen vermutlich etwas höher, aber das können wir 
+hier ignorieren: Es geht nur darum, eine Untergrenze zu finden. Wir gehen effektiv davon aus, dass die 
+Mitspieler nur einmal alle 3 bzw. 2 Monate ausfallen.
+
+Jetzt lassen wir erstmal alle Sonderfälle[^sonder] weg und nehmen an, dass die Ausfallwahrscheinlichkeit 
+für alle gleich groß ist. Wenn wir zu zweit sind, ist die Wahrscheinlichkeit, dass eine von uns fehlt, 
+gerade 1-0.92² = 15,36%, bzw. 1-0.88² = 22,56% bei Eltern. Die Runde fällt also einmal alle 4-7 Wochen 
+aus (statt einmal alle 2 bis 3 Monate, wenn wir nur eine Beteiligte anschauen).
+
+[^sonder]: Sonderfälle: (a) Ein verlässlicher Spieler: Nimm einfach die Zahlen der 1 kleineren Runde. 
+(b) Ein unverlässlicher Spieler: Nimm die eins kleinere Runde und multipliziere mit der 
+Spielwahrscheinlichkeit des Spielers. (c) Korrelliertes Fehlen (FreundIn?): Nimm die eins kleinere Runde 
+für keiner fehlt (2 zählen als einer), nimm die 2 kleinere Runde für 1-er fehlt und multiplizier mit der 
+Spielwahrscheinlichkeit von beiden.
+
+Desto mehr Leute mitspielen, desto stärker fällt das in’s Gewicht.
+
+### Wahrscheinlichkeit, dass alle da sind
+
+<table> <tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 
+92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr> 
+<tr><td>2</td><td>96%</td><td>92%</td><td>85%</td><td>77%</td><td>56%</td></tr> 
+<tr><td>3</td><td>94%</td><td>88%</td><td>78%</td><td>68%</td><td>42%</td></tr> 
+<tr><td>4</td><td>92%</td><td>85%</td><td>72%</td><td>60%</td><td>32%</td></tr> 
+<tr><td>5</td><td>90%</td><td>82%</td><td>66%</td><td>53%</td><td>24%</td></tr> 
+<tr><td>6</td><td>89%</td><td>78%</td><td>61%</td><td>46%</td><td>18%</td></tr> 
+<tr><td>7</td><td>87%</td><td>75%</td><td>56%</td><td>41%</td><td>13%</td></tr> 
+<tr><td>8</td><td>85%</td><td>72%</td><td>51%</td><td>36%</td><td>10%</td></tr> 
+<tr><td>9</td><td>83%</td><td>69%</td><td>47%</td><td>32%</td><td>8%</td></tr> </table>
+
+In der Tabelle sind zusätzlich Werte für besonders verlässliche Mitspieler, die nur ein- oder zweimal im 
+Jahr fehlen, und ein Wert für Leute, die einmal im Monat fehlen. Die Zahlen sind alle gerundet.
+
+Nach einer [Umfrage im Tanelorn][tanefehl2011-09] würden ⅔ der Leute aussteigen, wenn eine Runde 
+häufiger als bei jedem 4. Treffen ausfällt, die Runde also mit einer unter 75% liegenden 
+Wahrscheinlichkeit stattfindet.
+
+[tanefehl2011-09]: http://tanelorn.net/index.php/topic,70047.0.html "Wie oft darf eine Runde ausfallen, 
+ohne dass ihr aussteigt?"
+
+Wenn zum Spielen immer alle da sein müssen, heißt das, dass nur Runden, in denen die einzelnen Leute 
+jeweils höchstens zweimal im Jahr fehlen mit mehr als 3 Beteiligten spielbar sind. Schon bei 4 
+Fehlzeiten im Jahr und 4 Beteiligten (also z.B. einer SL und 3 Spielern) fällt die Runde häufiger als 
+jedes 4. Mal aus.
+
+Größere Gruppen, bei denen immer alle da sein müssen, funktionieren nur in extrem strukturierten 
+Umgebungen, z.B. als Schul-AG, oder wenn die Beteiligten extrem verlässlich sind. Bei nur 2 Fehltagen im 
+Jahr könnte z.B. eine Gruppe von 5 Leuten an 4 von 5 Abenden spielen. Das sind dann aber wirklich *nur 2 
+Fehltage pro Person*.
+
+Können wir dagegen spielen, wenn alle bis auf eine da sind, dann ändert sich das Bild deutlich:
+
+### Wahrscheinlichkeit, dass höchstens eine fehlt
+
+<table> <tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 
+92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr> <tr><td>3 (≥2 
+da)</td><td>99,9%</td><td>99,5%</td><td>98%</td><td>96%</td><td>84%</td></tr> <tr><td>4 (≥3 
+da)</td><td>99,8%</td><td>99% </td><td>97%</td><td>93%</td><td>74%</td></tr> <tr><td>5 (≥4 
+da)</td><td>99,6%</td><td>98,5%</td><td>95%</td><td>89%</td><td>63%</td></tr> <tr><td>6 (≥5 
+da)</td><td>99,4%</td><td>98% </td><td>92%</td><td>84%</td><td>53%</td></tr> <tr><td>7 (≥6 
+da)</td><td>99,2%</td><td>97% </td><td>90%</td><td>80%</td><td>44%</td></tr> <tr><td>8 (≥7 
+da)</td><td>99% </td><td>96% </td><td>87%</td><td>75%</td><td>37%</td></tr> <tr><td>9 (≥8 
+da)</td><td>99% </td><td>95% </td><td>84%</td><td>70%</td><td>30%</td></tr> </table>
+
+Solange die Leute höchstens 6× im Jahr fehlen (also alle 2 Monate), und auch gespielt wird, wenn einer 
+fehlt, fällt in einer Runde mit bis zu 8 Teilnehmern (≥7 da) höchstens jede 4. Runde aus. Selbst bei 
+normalen Leuten, die dem Rollenspiel einen recht hohen Stellenwert geben, sind also Runden mit einer SL 
+und bis zu 6 Spielern machbar (wenn die SL wechseln kann, also die Runde auch spielt, wenn die übliche 
+SL nicht kann).
+
+Lassen wir sogar 2 fehlende zu, ist die Spielfähigkeit selbst dann bis 7 Teilnehmer gegeben, wenn jeder 
+einmal pro Monat ausfällt, und bei verlässlicheren Leuten ist sie fast sicher:
+
+
+### Wahrscheinlichkeit, dass höchstens zwei fehlen
+
+*99,9 Prozent werden hier als 99% geschrieben, um nicht den falschen Eindruck zu erwecken, die 
+Spielfähigkeit sei zu 100% gesichert.*
+
+<table> <tr><th>Teilnehmer</th><th>Jeder fehlt 1× pro Jahr 98%</th><th>2×/J 96%</th><th>4×/J 
+92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr> <tr><td>4 (≥2 
+da)</td><td>99%</td><td>99%</td><td>99%</td><td>99%</td><td>94%</td></tr> <tr><td>5 (≥3 
+da)</td><td>99%</td><td>99%</td><td>99%</td><td>97%</td><td>90%</td></tr> <tr><td>6 (≥4 
+da)</td><td>99%</td><td>99%</td><td>99%</td><td>96%</td><td>83%</td></tr> <tr><td>7 (≥5 
+da)</td><td>99%</td><td>99%</td><td>99%</td><td>94%</td><td>76%</td></tr> <tr><td>8 (≥6 
+da)</td><td>99%</td><td>99%</td><td>99%</td><td>92%</td><td>68%</td></tr> <tr><td>9 (≥7 
+da)</td><td>99%</td><td>99%</td><td>99%</td><td>89%</td><td>60%</td></tr> </table>
+
+Wenn wir also wie ⅔ der Tanelorn-Nutzer eine Runde mit mehr als einem Ausfallenden Termin pro 4 Abenden 
+für untragbar halten, funktioniert schon eine Runde mit 3 Beteiligten, bei denen immer alle da sein 
+müssen, nur dann, wenn alle höchstens 4 Fehltermine im Jahr haben, also höchstens einmal alle 3 Monate 
+ausfallen, inklusive aller Krankheitszeiten — oder eben mit Einzelterminen ohne Regelmäßigkeit. Schon 
+Runden mit 4 Beteiligten brauchen extrem disziplinierte Mitspieler, wenn sie nur mit voller Besetzung 
+spielen wollen.
+
+Wenn sie eigentlich 5 Leute sind, die 6× im Jahr nicht können und spielen, sobald 4 Zeit haben, fällt 
+nur noch eine von 10 Runden aus. Schon bei nur 3 Spielern und SL als Mindestmaß muss die Runde also 
+akzeptieren, dass immer mal jemand fehlt — und braucht dadurch eigentlich 5 Teilnehmer. Und damit ist 
+(1) bereits gezeigt: Schon bei nur 3 Teilnehmern (SL + 2 Spielerinnen) kann eine Runde bei mehr als 4 
+Fehlterminen im Jahr nicht mehr jedes Wochenende klappen, ohne Stress zu verursachen, weil eine Runde 
+einmal im Monat ausfällt. Eigentlich muss also jedes System und jede Kampagne damit klar kommen, wenn 
+Spieler fehlen.
+
+Daher bereiten wir jetzt nur noch Daten für Punkt (2) vor: Wenn wir wollen, dass höchstens eine von 8 
+Runden ausfällt, müssen wir den Ausfall von Spielern tolerieren, unsere Runde muss dann entsprechend 
+größer sein: Die entsprechenden Wahrscheinlichkeiten sind:
+
+### Maximale frustfreie Gruppengröße
+
+*(Gruppe / min. Anwesend) bei höchstens dem Ausfall einer Runde pro Monat (75%) oder pro 2 Monate (88%) 
+oder 2 pro Jahr (96%). Fett ist jeweils die Gruppe mit den wenigsten Fehlenden, aber mindestens 3 
+Beteiligten.*
+
+<a name="maxgru"></a>
+
+<table> <tr><th>Spielwahrscheinlichkeit</th><th>Jeder fehlt 1×/J 98%</th><th>2×/J 96%</th><th>4×/J 
+92%</th><th>6×/J 88%</th><th>1×/Monat 75%</th></tr> <tr><td>75% (1/Monat fällt 
+aus)</td><td><strong>&gt;12/&gt;12</strong> </td><td><strong>7/7</strong>, 
+&gt;12/&gt;11</td><td><strong>3/3</strong>, 12/11 </td><td><strong>8/7</strong>, 
+&gt;12/&gt;10</td><td>3/2, <strong>7/5</strong>, 10/7</td></tr> <tr><td>88% (1 pro 2M) 
+</td><td><strong>6/6</strong>, &gt;12/&gt;11</td><td><strong>3/3</strong>, 
+&gt;12/&gt;11</td><td><strong>7/6</strong>, &gt;12/&gt;10</td><td><strong>5/4</strong>, 10/8 
+</td><td><strong>5/3</strong>, 8/5, 11/7</td></tr> <tr><td>96% (2/Jahr fällt aus) </td><td>2/2, 
+<strong>&gt;12/&gt;11</strong></td><td><strong>8/7</strong>, &gt;12/&gt;10</td><td><strong>4/3</strong>, 
+9/7 </td><td>3/2, <strong>6/4</strong>, 11/8 </td><td><strong>6/3</strong>, 8/4</td></tr> </table>
+
+<a name="fazit1"></a>
+
+### Fazit aus (1)
+
+Die Folgerung aus (1) ist damit in Kurzform: Jede Kampagne und Jedes System sollte so designt sein, dass 
+Spieler problemlos für eine Runde aussetzen können.
+
+In Technophob haben wir das durch eine Auftragsstruktur im Stil von Shadowrun und durch ein 
+einheitliches Hauptquartier verwirklicht: Wir starten auf „Traum Anderer“, gehen auf einen Planeten, 
+schmuggeln unsere Waren und kehren dann auf „Traum Anderer“ zurück, um bei Kjeol einen weiteren Autrag 
+zu suchen.
+
+In verschiedenen Runden hatten wir schon Kryokapseln, die gerne mal fehlfunktionen haben, so dass sie 
+die Insassen erst am nächsten Spielabend raus konnten :)
+
+*kommen wir dann zu [(2)](#stat2): (direkt zu [Fazit 2 mit Lösungsansätzen](#fazit2))*
+
+<a name="stat2"></a>
+
+## (2): Jedes Spiel muss entweder mit 2 bis 7 oder mit 3 bis 9 Leuten gut spielbar sein
+
+Diese These mag für sich genommen radikal klingen, gerade weil ihr bisher kaum ein Rollenspiel genügt, 
+sie folgt allerdings direkt aus der Statistik — und ist meiner Ansicht nach einer der Hauptgründe dafür, 
+dass sich Rollenspiele noch nicht viel weiter verbreitet haben.
+
+### Warum das gilt
+
+Die Begründung liegt darin, was passiert, wenn eine Runde zu groß wird, also wenn viele Leute anfangen, 
+Rollenspiele zu spielen und dafür bestehende Runden suchen.
+
+Wenn neue Spieler zu einer Runde dazustoßen, wächst die Runde an, bis sie so viele Leute hat, dass sie 
+unübersichtlich wird. Dann bringt es für die Runde nichts mehr, größer zu werden. Sollten noch mehr 
+Leute dazu kommen, muss sich die Runde teilen, um sie aufnehmen zu können.
+
+Die Bedingung für eine erfolgreiche Teilung ist aber, dass die Runde sowohl vorher als auch nach die 
+Teilung spielfähig ist[^sf-laber].
+
+[^sf-laber]: Damit sollte auch klar sein, warum ich so auf der Begründung der Spielfähigkeit 
+herumgeritten bin :)
+
+Wenn das System oder die Kampagne nun z.B. für eine SL und 3-6 Spieler gut funktioniert (also für 4-7 
+Beteiligte) muss die Runde geteilt werden, wenn der nächste. dazu kommt. Dann haben wir im Bestfall 2 
+4-er Gruppen, die aber nur zu 60 - 72% vollständig sind. Da das Beispielsystem hier mindestens 4 Leute 
+braucht, muss jeder 3. bis jeder 4. Abend ausfallen - was schon für sich alleine unerträglich ist.
+
+Zusätzlich gibt es wahrscheinlich Spieler, die sich nicht trennen wollen, so dass eine Runde größer ist 
+als die andere oder einige Spieler in beiden Gruppen sind, die dann aber nicht am gleichen Abend sein 
+können.
+
+Realistischer als der Bestfall ist also die Annahme, dass aus einer 8-er Gruppe eine 3-er und eine 5-er 
+Gruppe werden - was nur funktionieren kann, wenn das System mit einer SL und *zwei* Spielerinnen gut 
+funktioniert. Selbst dann ist die 3-er-Gruppe aber nur zu 68-78% spielfähig. Wenn Eltern dabei sind 
+(fehlen mindestens 6× im Jahr), erreicht sie nicht die 75%, die ⅔ der Spieler in der Umfrage bei 
+Tanelorn als Minimalkriterium für die Spielfähigkeit genannt haben.
+
+Damit sowohl die große, als auch die kleinen Gruppen spielfähig sind, muss die Ausgangsgruppe daher 9 
+Leute haben, so dass die kleinen Gruppen 4 und 5 Beteiligte erhalten, oder die kleinen Gruppen müssen 
+auch mit 2 Teilnehmern spielfähig sein, also mit SL und *einer* Spielerin.
+
+Anders gesagt: Wenn wir mit 9 Leuten nicht spielen können, dann müssen wir die Spiele so designen, dass 
+sie auch Spaß machen, wenn nur 2 da sind. Falls uns das keinen Spaß macht, müssen wir die großen Runden 
+spielbar machen.
+
+Die Ausgangsgruppe hat dann je nach Spielabend zwischen 8 und 10 Anwesenden, 7-9 Charaktere.
+
+Es werden nur in etwa ⅓ der Runden 9 Spieler da sein (32 bis 47%), 8 sind allerdings schon in 2 von 3 
+Runden da. Ein Spiel mit allen Beteiligten muss also möglich sein und Spaß machen. Die größte 
+Schwierigkeit ist dabei vermutlich, dass die SL den Überblick behält und die Spieler am Ball bleiben und 
+sich nicht gegenseitig blockieren.
+
+Als Beispiel, wie es nicht geht, erinnere ich mich gerne an einen Gurps-Kampf mit 8 Spielern. Wir haben 
+erst 2 Stunden lang gewürfelt, um 3 Sekunden Kampf abzuhandeln, dann habe ich erkannt, dass das nicht 
+funktioniert und kurzerhand angeboten, dass wir die Würfel weglassen und ich einfach beschreibe, was 
+passiert. Der Kampf hat dann doch noch (viel) Spaß gemacht. Ihn mit den vollen Regeln auszuspielen wäre 
+schlicht langweilig gewesen, weil damit die meisten von uns den Großteil der Zeit hätten warten müssen. 
+Die Regeln waren also nicht für 9 Beteiligte geeignet.
+
+Wir hatten es dabei zwar geschafft, halbwegs den Überblick zu behalten (mit ein paar Ausnahmen), aber 
+Einzelaktionen dauerten so lange, dass der Kampf die Dauer überschritt, für die Leute am Stück 
+konzentriert mitdenken können.
+
+<a name="fazit2"></a>
+
+### Fazit aus (2)
+
+Wenn wir wollen, dass sich Rollenspiele einfacher verbreiten können und dass Gruppen eine Teilung 
+überstehen, muss jedes System entweder mit 2 bis 6 oder mit 3 bis 9 Beteiligten gut spielbar sein.
+
+Da das bisher meist schwierig ist, brauchen wir Möglichkeiten, die das einfacher machen.
+
+### Nach oben skalieren
+
+Um das besser zu machen, also um das System besser nach oben skalieren zu lassen, können Skizzen oder 
+Battlemaps und einfache Initiative-Regeln helfen, die Übersicht zu wahren (wir nutzen in unkritischen 
+Situationen gerne die einfache Regel: „Erst seid ihr dran, dann die Gegner; in der Reihenfolge, in der 
+wir am Tisch sitzen“, oder „einer von euch, dann sein Gegner, dann der nächste von euch“ — 
+[komplexeres][init] nur, wenn es uns wirklich wichtig scheint).
+
+Ein weitere Vorteil sind klare Fähigkeiten mit wenigen Modifikatoren oder Standardmodifikatoren (ich 
+nehme gerne „wenn es einen klaren Vorteil gibt: +3“), so dass nicht lange gesucht werden muss, was nun 
+genau gewürfelt werden muss.
+
+Allgemein ist die schnelle Abhandlung der Einzelhandlungen wichtig, so dass die Spieler häufig 
+durchwechseln und alle aktiv sein können (die Wartezeit darf reichen, um den nächsten Schritt zu planen, 
+aber nicht, um sich zu langweilen :) ).
+
+Dazu können komplexere Regelteile weggelassen werden, sobald mehr als 5 Spieler in der Runde sind. Z.B. 
+könnte im EWS das Modul [Taktische Kämpfe (TakM)](/deutsch/module/taktische-kaempfe-takm) nur genutzt 
+werden, solange die Spieler überschaubar sind.
+
+Unabhängig vom Regelwerk kann die SL Schnitttechniken nutzen, um lange, aber unwichtige Handlungen 
+abzukürzen: „ihr klärt die Formalitäten ab. Nach zwei stressigen Stunden kommt ihr endlich aus dem 
+Bürgerbüro. Wollt ihr am Nachmittag noch was wichtiges machen, oder können wir gleich zu den 
+Abendnachrichten springen?“
+
+[init]: http://1w6.org/deutsch/module/initiative-modul-init "Initiative Modul (Init)"
+
+Außerdem ist allen nützlich, was der SL Arbeit abnimmt, also z.B. eine Co-SL, die Regelfragen klärt oder 
+NSCs übernimmt und auch einfach für einen Teil der Gruppe leiten kann, wenn sich die Charaktere 
+aufteilen.
+
+Genauso gehört es dazu, dass Spielerinnen selbst für kurze Zeit oder auch dauerhaft für sie interessante 
+NSCs führen - vielleicht mit von der SL vorher geklärten (einfachen) Vorgaben.
+
+### Nach unten skalieren
+
+Um mit sehr kleinen Runden zu funktionieren, sollte die Vorbereitungszeit für die SL reduziert werden, 
+da eine oder zwei Spielerinnen sich in 15 Minuten durch einen Plot brennen können, der in größeren 
+Runden mehrere Stunden in Anspruch nimmt. Möglichkeiten wären Würfeltabellen, die direkt an die 
+Hintergrundgeschichte(-n) der Charaktere koppeln.
+
+Ein Plot braucht eine Aufgabe, Eine Bedeutung für die SCs, NSCs und einen Ort.
+
+Beispielsweise könnte die SL für ein Abenteuer einfach einen Hintergrund des Charakters wählen — dank 
+sprechender Eigenschaften und Fertigkeiten eignet sich dazu im 1w6-System fast jeder Charakterwert — und 
+dann auf 3 Listen würfeln, um einen Rahmen für ein Abenteuer zu erhalten: Mittler, Rolle des Mittlers 
+und Ort. Dann könnte sie auf eine Tabelle für Aufgaben würfeln: Verb (was ist zu tun) und Objekt 
+(womit).
+
+In Technophob könnte das in etwa so aussehen (Grobentwurf):
+
+#### Situation
+
+*Charakterwert als Startpunkt: Wähl einfach einen Wert des Charakters - im Zweifel würfel einen aus. Von 
+ihm geht alles aus. Dann würfel, was damit passiert, durch wen und wo.*
+
+<table><tr><th>Wurf</th><th>Mittler</th><th>Rolle des Mittlers</th><th>Schauplatz</th></tr> 
+<tr><td>6</td><td>Schmuggler</td><td>Chance</td><td>Handelsstation</td></tr> 
+<tr><td>5</td><td>Raumpatroullie</td><td>Bedrohung</td><td>Piratenstation</td></tr> 
+<tr><td>4</td><td>Rebellen/Anarchisten</td><td>Legende/Förderer</td><td>Technophobenplanet mit 
+Raumhafen</td></tr> <tr><td>3</td><td>Piraten</td><td>Völlig unfähig</td><td>Technophobenplanet ohne 
+Raumhafen</td></tr> <tr><td>2</td><td>Unbescholtene Bürger</td><td>Gleichgesinnt</td><td>Traum 
+Anderer</td></tr> 
+<tr><td>1</td><td>Kleinkriminelle</td><td>Gegenteil</td><td>Asteroiden-Habitat</td></tr> </table>
+
+#### Technophoben-Planeten
+
+<table><tr><th>Wurf</th><th>Gesellschaftsform</th><th>Utopie/Distopie</th></tr> 
+<tr><td>6</td><td>Utopie/Distopie</td><td>Ökoparadies</td></tr> <tr><td>5</td><td>Altes Rom (Brot und 
+Spiele)</td><td>Konzerndiktatur</td></tr> <tr><td>4</td><td>Wilder 
+Westen</td><td>Vergnügungswelt</td></tr> <tr><td>3</td><td>Mittelalter</td><td>Kirchenstaat</td></tr> 
+<tr><td>2</td><td>Moderne Demokratie</td><td>Kommunismus</td></tr> 
+<tr><td>1</td><td>Kolonialzeit</td><td>Überwachungsstaat</td></tr> </table>
+
+#### Plot-Twist/Verwicklung
+
+Schau dir die bisherigen Würfelergebnisse an. Was würde dein bösartiges SL-Grinsen wecken? Perfekt!
+
+Und KISS: Halte es einfach. Die Spielerinnen machen es dann schon selbst kompliziert.
+
+#### Aufgabe: 2× würfeln:
+
+<table><tr><th>Wurf</th><th>Handlung</th><th>Ding</th></tr> 
+<tr><td>6</td><td>beschaffe/rette</td><td>Gegenstand</td></tr> 
+<tr><td>5</td><td>zerstöre/besiege</td><td>Person/Gruppe/Feinde (würfle auf Rolle oben)</td></tr> 
+<tr><td>4</td><td>suche/schmuggle/beschütze</td><td>Planet/Ort/Region/Transportmittel</td></tr> 
+<tr><td>3</td><td>untersuche/verstehe</td><td>Verbrechen/Situation</td></tr> 
+<tr><td>2</td><td>organisiere/lenke</td><td>Unternehmen/Handlung</td></tr> 
+<tr><td>1</td><td>überstehe/entkomme</td><td>Bedrohung/Fremdartiges</td></tr> </table>
+
+#### Belohnung: Pass es an deine Runde an; 2× würfeln
+
+*Diese Beispiele sind an die Gruppe von Technophob angepasst: Kass, Lomo nan Tar, Chessos und Nayres. 
+Schreib sie auf deine eigene Runde um. Zwei mal das gleiche zu würfeln bedeutet „richtig viel“.*
+
+* 6: Geld verdienen (Lomo nan Tar, Chessos) * 5: Leben retten (Lomo nan Tar) * 4: Neue Ausrüstung 
+(Chessos, Kass) * 3: Kontakte knüpfen (Nayres) * 2: Fähigkeiten lernen/verbessern (Nayres) * 1: 
+Geheimnisse aufdecken (Kass)
+
+#### Indie und PiHalbe
+
+Es gibt außerdem inzwischen einige Indie-RPGs, die sich an extrem kleine Runden richten. Nachdem PiHalbe 
+am 30.8.2011 einen [Podcast (PiCast Folge 30: 
+Spieleranzahl)](http://pihalbe.org/audio/picast-%E2%80%94-folge-30-%E2%80%94-spieleranzahl-801) 
+veröffentlicht hat, in dem er sagt, dass er lieber kleine Runden mag, haben wir vielleicht das Glück, 
+dass er sich in der nächsten Zeit dieses Themas annimmt und tiefe Einblicke in die Kunst des Leitens mit 
+Kleinstrunden bietet (*wink* :) ).
+
+## Fazit
+
+Um dynamisch wachsende Rollenspielrunden und damit eine bessere Verbreitung von Rollenspielen zu 
+ermöglichen, müssen Rollenspielsystem und Kampagnen mit Runden mit einer SL und 1-6 oder 2-8 
+Spielerinnen spielbar sein.
+
+Im EWS versuchen wir Skalierbarkeit nach oben durch schnelle Interaktionen[^schnell] und einfache 
+Regelmechanismen und Modifikatoren zu erreichen - zusammen mit 
+[SL-Tipps](http://1w6.org/deutsch/sl-tipps) auf [1w6.org](http://1w6.org). Die Skalierbarkeit nach unten 
+unterstützen sprechende Charakterwerte und schnelle Erschaffung von NSCs[^nscs-minimal]. Gerade bei 
+Skalierung nach unten ist dabei das Setting sehr wichtig, da die Herausforderung stark in der schnellen 
+Erschaffung von Plots liegt. In beide Richtungen gibt es aber noch Verbesserungspotential.
+
+[^schnell]: Eine Kampfhandlung im EWS-Nahkampf entspricht etwa 3 Handlungen in Gurps oder 4-6 in DSA: 
+Bis jemand getroffen wird — im EWS 2 Würfe (Angreifer und Verteidiger, es trifft wer besser ist), in DSA 
+und Gurps eine Serie von Attacken und Paraden.
+
+[^nscs-minimal]: Um schnell einen Erinnerungswürdigen NSC zu erschaffen, nutze einfach [Interessante 
+Charaktere darstellen Teil 2.5: Was brauchen NSCs 
+mindestens?](http://1w6.org/deutsch/sl-tipps/interessante-charaktere-darstellen/was-brauchen-nscs).
+
+*PS: Die Daten stammen alle aus dem Skript 
+[spielfaehig.py](https://bitbucket.org/ArneBab/1w6/src/57189e02b9f6/sonstiges/Skripte/spielfaehig.py).*

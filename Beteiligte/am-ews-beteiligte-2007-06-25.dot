@@ -1,0 +1,120 @@
+graph G {
+    
+    // Leute
+        //Spieler und/oder Spielleiter
+    node [shape=egg]; "Oliver Jahnel"; "Verónica"; "Andreas Jehle"; "Julian Groß"; "Benjamin Gepart"; "Jens Stengel"; "Alexander Fuß"; "Björn Bäuerlein";"Arne Babenhauserheide";"Marc"; "Moritz Herrmann"; "Brujah"; "Luca Kracke"; "Vinzent Eppelt"; "Sarina Kraneis"; "Julian Willuhn"; 
+
+    // Kampagnen
+    node [shape=ellipse]; "Narell Ebene";"Ruger u. Fluck";"Auf der Flucht";"Erstkontakt";"Die geflügelten Krieger";"Wächter der Zeit";"Motivation";"Nexus"
+    
+    // kurze Runden
+    node [shape=ellipse,style=dashed]; "Seminar";"Rettet die Weltenkristalle";"Schattenspiele";"Piraten und Zerg";
+    
+
+
+    // Definition der Kategorien
+
+
+    node [shape=diamond,style=dashed,color="1.0 0.5 0.7"]; Welten 
+            
+
+    node [shape=diamond,style=filled,color=".7 .5 1.0"]; "Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; "Crossover";"Totenwache";"Eine stabile Gesellschaft";"Nexus-Welt"
+
+    node [shape=octagon,style=dashed,color="0.3 0.5 0.7"]; Orte
+    node [shape=octagon,style=filled,color="0.3 0.5 0.7"]; Karlsruhe; Heidelberg; ESW;
+
+
+    // Beziehungen
+
+    edge [arrowhead=none];
+    node [shape=box,style=dashed filled,color=0.3 0.5 0.7]; 
+
+
+    // Kategorisierung der Runden
+        
+    {"Ern"; "RaumZeit Maschinenkrieg";"RaumZeit Friedenszwang"; Crossover; "Eine stabile Gesellschaft"; "Nexus-Welt"} -- Welten
+
+    
+    // Nach Welt
+        
+    {"Seminar"; "Ruger u. Fluck"; "Die geflügelten Krieger";"Narell Ebene";} -- Ern
+    {"Rettet die Weltenkristalle";"Seminar";} -- Crossover
+    "Wächter der Zeit" -- "RaumZeit Maschinenkrieg"
+    {"Auf der Flucht";"Erstkontakt";"Schattenspiele";} -- "Totenwache"
+    {"Totenwache";"Schattenspiele";"Piraten und Zerg";} -- "RaumZeit Friedenszwang"
+    {"Motivation"} -- "Eine stabile Gesellschaft"
+    {"Nexus"} -- "Nexus-Welt"
+
+
+
+
+    // Orte
+
+    Orte -- {Karlsruhe; Heidelberg; ESW}
+/* Wird zu komplex
+    Karlsruhe -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck";  "Auf der Flucht";"Erstkontakt";}
+    Heidelberg -- {"Rettet die Weltenkristalle"; "Eberron-Runde";"Motivation";}
+    ESW -- {"Die geflügelten Krieger"; "Nexus}
+*/
+
+    // Wege von Runde zu Runde
+    
+    edge [arrowhead=normal]
+
+
+    edge [arrowhead=none]
+
+
+
+
+    // Leute
+    // Spieler
+
+    // Nach Ort
+    edge [color="0.3 0.5 0.7"]
+
+    Karlsruhe -- {"Julian Groß";"Verónica";"Arne Babenhauserheide";"Oliver Jahnel";"Andreas Jehle";"Jens Stengel";"Benjamin Gepart";"Luca Kracke";}
+    Heidelberg -- {"Verónica";"Arne Babenhauserheide";"Vinzent Eppelt";"Julian Willuhn";"Sarina Kraneis";}
+    ESW -- {"Arne Babenhauserheide"; "Björn Bäuerlein"; "Alexander Fuß";"Moritz Herrmann";"Marc";"Brujah";} 
+
+
+    // Nach Runde - TODO: Statt "SpielerIn" den Charakternamen
+    edge [label="SpielerIn",fontsize=8,color="0.3 0.5 0.7"]
+
+
+    
+    edge [color="0.14 0.5 0.7"];    "Julian Groß" -- {"Ruger u. Fluck"; "Seminar";"Narell Ebene";}
+    edge [color="0.2 0.5 0.7"]; "Benjamin Gepart" -- {"Wächter der Zeit";}
+    edge [color="0.26 0.5 0.7"];    "Verónica" -- {"Seminar";"Erstkontakt";"Schattenspiele";}
+    edge [color="0.32 0.5 0.7"];    "Arne Babenhauserheide" -- {"Auf der Flucht";"Erstkontakt";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";}
+    edge [color="0.38 0.5 0.7"];    "Oliver Jahnel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Wächter der Zeit";"Schattenspiele";"Piraten und Zerg";}
+    edge [color="0.38 0.5 0.7"]; "Luca Kracke" -- "Erstkontakt"
+    edge [color="0.44 0.5 0.7"];    "Andreas Jehle" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";}
+    edge [color="0.50 0.5 0.7"];    "Jens Stengel" -- {"Auf der Flucht";"Erstkontakt";"Ruger u. Fluck"; "Seminar";"Narell Ebene";"Rettet die Weltenkristalle";"Schattenspiele";}
+    edge [color="0.56 0.5 0.7"];    "Alexander Fuß" -- {"Die geflügelten Krieger"; "Nexus"}
+    edge [color="0.62 0.5 0.7"];    "Björn Bäuerlein" -- {"Die geflügelten Krieger";"Ruger u. Fluck"; "Nexus"}
+    edge [color="0.68 0.5 0.7"];    "Marc" -- {"Die geflügelten Krieger"; }
+    edge [color="0.74 0.5 0.7"];    "Moritz Herrmann" -- {"Die geflügelten Krieger"; }
+    edge [color="0.80 0.5 0.7"];    "Brujah" -- {"Die geflügelten Krieger"; "Nexus"}
+    edge [color="0.86 0.5 0.7"];    "Vinzent Eppelt" -- {"Motivation"; "Ruger u. Fluck"; }
+    edge [color="0.92 0.5 0.7"];    "Sarina Kraneis" -- {"Motivation"; }
+    edge [color="0.98 0.5 0.7"];    "Julian Willuhn" -- {"Motivation"; }
+
+
+    // Spielleiter
+    
+    // Nach Ort
+    edge [label="",color="1.0 0.5 0.7"]
+    
+    Karlsruhe -- {"Julian Groß";"Arne Babenhauserheide";}
+    Heidelberg -- {"Arne Babenhauserheide";}
+    ESW -- {"Arne Babenhauserheide";}
+
+    // Nach Runde
+    edge [label="SL",color="1.0 0.5 0.7"]
+
+    "Julian Groß" -- {"Auf der Flucht";"Erstkontakt";"Rettet die Weltenkristalle";"Wächter der Zeit";"Piraten und Zerg";}
+    "Arne Babenhauserheide" -- {"Narell Ebene"; "Seminar"; "Ruger u. Fluck"; "Rettet die Weltenkristalle"; "Die geflügelten Krieger";"Motivation" } 
+    "Moritz Herrmann" -- "Nexus"   
+       
+}

@@ -1,0 +1,12 @@
+Stationen unserer Reise
+=======================
+
+Diagramm
+--------
+
+![Reisediagramm](stationen_unserer_reise.png)
+
+Dot-Datei
+---------
+
+[Reise-Infos](stationen_unserer_reise.dot)

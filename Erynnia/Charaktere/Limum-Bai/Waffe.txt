@@ -1,0 +1,10 @@
+Stab der Leere:
+
+- Der erste Zauber kostet kein Chi
+- Speerform (+3 Reichweitenbonus)
+- Doppelspeerform (+3 wenn mehr als ein Gegner da ist)
+- Stabform (+3 Verteidigung)
+
+Robe der Leere:
+
+- Rüstung 5

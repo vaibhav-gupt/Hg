@@ -1,0 +1,119 @@
+Chi Spüren
+==========
+
+Auf dem Stillen Berg werden selten Kinder mit einer besonderen
+Gabe geboren. Diese Kinder haben von ihrer Geburt an eine starke
+Verbindung zum Fluss der Energien in der Welt, die als Chi bezeichnet
+wird. Chi durchdringt die ganze Welt, alle Lebewesen und sogar auch
+unbelebte Dinge in gewissem Maße.
+
+Der Fluss des Chi ist ein Maß für Harmonie und Gleichklang. Starke 
+Emotionen und Gedanken bringen das Chi in Bewegung und reißen es aus seinem
+natürlichen Fluss. Im Chi entstehen Wirbel, Senken …
+Nach einiger Zeit der Ruhe kehrt das Chi an einem Ort wieder in seine
+natürlichen Bahnen zurück. Das Chi ist das was dem Mönch vom Stillen Berg
+die Möglichkeit gibt Kraft seines Willens die Welt um ihn herum zu formen.
+
+Wenige Menschen haben die Fähigkeit das Chi wahrzunehmen und noch viel
+weniger haben eine intuitive Beziehung zum Chi. Ohne Anstrengung können
+sie das Chi um sich herum wahrnehmen wie sie sehen oder hören. Wird diese
+Fähigkeit geschult kann es zu ungeahnten Resultaten kommen.
+
+Bei Limun-Bai hat sich sein Gespür für das Chi dahingehend entwickelt, dass
+er in der Lage ist Emotionen in seiner Umgebung wahrzunehmen. Dies kann er
+verwenden um die Bewegungen seiner Gegner vorauszuahnen.
+
+Regeltechnisch:
+Chi Spüren ist eine Übersinnliche Wahrnehmung die sowohl Passiv (rundum)
+als auch Aktiv (fokussiert) verwendet werden kann. Die Fähigkeit kann nicht
+ausgeschaltet werden. Selbst im Schlaf wirkt diese mit sehr beschränkter
+Reichweite. Der Mönch könnte z.B. die Träume seiner Gefährten miterleben,
+oder wenn er auf einem Friedhof schläft die letzten Momente der Insassen
+durchleben.
+
+Levels:
++ (12) 
+====================
+Der Mönch kann starke Emotionen (Hass, Liebe, Freude, Wut, Trauer) die von Personen und Tieren ausgehen wahrnehmen.
+
+Wird Chi Spüren fokussiert eingesetzt gilt dies als Zauber Emotionen lesen und kann in einer Runde geschehen.
+Ist zusätzlich noch der Zauber Emotionen lesen gelernt erhält dieser einen kombinierten Bonus von +6 (+3 durch das
+Lernen, sowie +3 durch Chi Spüren)
+
+++ (15) (+1 Nahkampf)
+=====================
+Der Mönch nimmt jetzt auch schwächere Emotionen bei Personen und Tieren wahrnehmen.
+Der Mönch kann zusätzlich Emotionen wahrnehmen die an unbelebter Materie haften.
+Je länger die Emotion die an einem Objekt haftet her ist und je schwächer diese
+war desto schwieriger ist die Probe.
+
+Probe:
+Emotion:
+	- Stark: +3 (Hass auf dem Schlachtfeld, Verliebte beim Sex unter einem Baum, Ein Ehering, … )
+	- Mittel: 0 (Ein Gegenstand, Ort der einer Person wichtig war, Eine schöne Schmuckschatulle, ein geplanter Mord, ...)
+	- Leicht: -3 (Dieser Baum ist schön das macht mich froh, Spaziergänger im Park, ...)
+Je mehr Menschen an einem Ort eine Emotion hatten desto einfacher wird die Probe
+Zeit:
+	- Vor < 1 Minute: +6
+	- Vor < 10 Minuten: +3
+	- Vor einer Stunde: 0
+	- Vor einem Jahr: -3
+	- Länger als ein Jahr -6
+
++++ (18) (+3 geistige Beherrschung in der Nähe) (noch einmal +1 Nahkampf) 
+=========================================================================
+Der Mönch baut eine starke Beziehung zum Chi um ihn herum auf und ist damit in der Lage die
+oberflächlichen Gedanken um ihn herum zu lesen. Das dadurch jedoch entstehende Stimmengewirr kann
+schwierig abzublocken sein.
+
+Wird Chi Spüren fokussiert eingesetzt gilt dies als Zauber Gedanken lesen und kann in einer Runde geschehen.
+Ist zusätzlich noch der Zauber Emotionen lesen gelernt erhält dieser einen kombinierten Bonus von +9 (+3 durch das
+Lernen, sowie +3 durch Chi Spüren, sowie +3 durch das +++ auf Chi Spüren)
+
+Da er eine ständige Verbindung zum Geist aller Menschen und Tiere um ihn herum aufbaut werden
+geistige Beherrschungszauber gegen diese Wesen um +3 erleichtert.
+
+Durch diese Verbindung ist es allerdings auch möglich einfacher eine Verbindung zum Geist des Mönches herzustellen
+und diesen zu beherrschen. Der Mönch öffnet eine Tür in seinem Geist die sich nicht mehr schließen lässt.
+Es ist auch möglich, dass der Mönch von einem sehr starken Willen einfach überrannt wird, wenn er sich nicht
+entsprechend dagegen zur Wehr setzt, bzw. seinen Geist dagegen von vorne herein Schützt.
+
+++++ (21) (+3 materielle Beherrschung in der Nähe)
+==================================================
+Der Mönch baut nun auch eine Verbindung zum Chi auf das durch unbelebte Materie um ihn herum fließt.
+Alle seine Beherrschungszauber gegen diese Materie erleichtern sich um +3. Außerdem wird es leichter
+mehrere Objekte und auch schwerere Objekte zu beherrschen.
+
+Entweder +3 auf Menge der Objekte
+Oder +3 auf Gewicht des Objekts
+
+Auch diese Verbindung ist Beidseitiger Natur. Der Mönch formt seine Umgebung, sowie auch sie ihn formt.
+Gerät beispielsweise ein mächtiger Mönch in Rage verdorren die Pflanzen um ihn herum und die Erde bebt.
+Es gibt eine Legende dass ein sehr mächtiger Mönch sogar versehentlich einen Vulkanausbruch ausgelöst haben
+soll, doch dies ist hoffentlich nur eine Legende.
+
+Reichweite:
+===========
++: 1-3m (Beidseitige Nahkampfreichweite)
+++: 10m
++++: 100m
+++++: 1km
+
+Wird das Ziel berührt erhält der Mönch einen Bonus von +1 auf seine Probe.
+Wird das Ziel lange berührt erhält der Mönch einen Bonus von +3 auf seine Probe.
+
+Die Maximalkraft gilt nur auf der untersten Stufe. Pro Stufe höher nimmt sie 
+um 1 ab.
+
+Beispiel:
+=========
+
+Mit +++ kannst du also auf 1-3m passiv Gedanken lesen, auf 10m detaillierte 
+Emotionen spüren und auf 100m grobe Emotionen wahrnehmen („jemand 
+hasserfülltes beobachtet uns”).
+
+Wird die Fähigkeit fokussiert erhöht sich die Reichweite um ein +
+
+Mit +++ kannst du also auf 10m aktiv Gedanken lesen, auf 100m detaillierte 
+Emotionen spüren und auf 1km grobe Emotionen wahrnehmen („jemand 
+hasserfülltes beobachtet uns”).
