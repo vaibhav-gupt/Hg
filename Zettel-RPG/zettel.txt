@@ -112,20 +112,23 @@ Au­ßer­dem hat­te ich noch Ide­en für zwei wei­te­re Stär­ken: Le­sen
 
 Das Ers­te kommt von ih­rer früh ge­stor­be­nen Mut­ter. Das Zwei­te ist ein wei­te­rer Teil ih­res Be­ru­fes, den sie bes­ser kann als an­de­re Die­be.
 
-Da ich für mein Pro­blem mit der Wa­che noch ei­nen wei­te­ren star­ken Wert ver­ge­ben kann, neh­me ich au­ßer­dem Schlei­chen.
-Da­mit sieht mein Zet­tel so aus:
+Da ich für mein Pro­­blem mit der Wa­­che noch einen wei­­te­­ren star­­ken Wert ver­­ge­­ben kann, nehme ich noch einen be­son­de­ren Ge­gen­stan­d: Ih­re Flö­te, de­ren Klang Träu­me mit ver­ges­sen ge­glaub­ten Erin­ne­run­gen schenkt.
+Be­son­de­re Ge­gen­stän­de wer­den durch einen Stern mar­kiert (*), ge­nau­so wie ma­gi­sche Kräf­te, und al­les wei­te­re, das dir be­son­de­re Mög­lich­kei­ten gibt.
+
+Und da­mit sieht mein Zet­tel so aus:
 
     Ni­u­ve
     -----
 
     Die­bin ++
     - > Ta­schen­dieb­stahl +
-    - > Schlei­chen +
     - > Be­quat­schen +
 
     - Le­sen/Schrei­ben +
     - Flö­ten­spiel +
-
+    
+    * Traum‑flö‑te
+    
     ! Von der Wa­che ge­jagt 
 Nun fehlt nur noch der letz­te Schritt: Zah­len für die Wer­te.
 
@@ -135,7 +138,7 @@ Auf dem Be­ruf auf­bau­en­de Wer­te sind je Plus 3 Punk­te über dem Be­r
 
 Und al­lein­ste­hen­de Wer­te sind bei 9 plus 3 je Plus.
 
-Pro­ble­me ha­ben kei­ne Zah­len.
+Be­son­de­res und Pro­ble­me ha­ben kei­ne Zah­len.
 Und da­mit ist der Cha­rak­ter be­reits spiel­bar.
 
 Mein Zet­tel sieht nun so aus:
@@ -145,11 +148,12 @@ Mein Zet­tel sieht nun so aus:
 
     Die­bin ++ 12
     - > Ta­schen­dieb­stahl + 15
-    - > Schlei­chen + 15
     - > Be­quat­schen + 15
 
     - Le­sen/Schrei­ben + 12
     - Flö­ten­spiel + 12
+
+    * Traum‑flö‑te
 
     ! Von der Wa­che ge­jagt 
 Aber auch wenn dein Cha­rak­ter nun spiel­bar ist, weißt du doch noch nicht, was er ma­chen will.
