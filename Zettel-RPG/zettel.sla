@@ -363,7 +363,7 @@
             <ITEXT CH="Was du da­­für brauchst sind nur ein Zet­­tel, ein Würfel und ein Stift."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Der Zet­­tel ist für eu­­re Cha­­rak­­te­­re. Durch sie han­­delt ihr in dei­­ner Welt."/>
+            <ITEXT CH="Der Zet­­tel ist für eu­­re Cha­­rak­­te­­re: Die Per­so­nen, die ihr spielt. Durch sie han­­delt ihr in dei­­ner Welt."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Da­­für braucht ihr ei­­ne Vor­­stel­­lung der Cha­­rak­­te­­re."/>
@@ -372,7 +372,7 @@
             <ITEXT CH="Um die­­se Vor­­stel­­lung zu ent­­wickeln, be­­gin­­nen wir mit eu­­ren Be­­ru­­fen."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Was ha­­ben eu­­re Cha­­rak­­te­­re ge­­lernt, oder wie werden sie von an­­de­­ren be­­zeich­­net? Ich weiß, Inspi­­ra­­ti­­on ist nicht ein­­fach. Da­­her soll­­te ich Beispie­­le geben."/>
+            <ITEXT CH="Was ha­­ben eu­­re Cha­­rak­­te­­re ge­­lernt, oder wie werden sie von an­­de­­ren be­­zeich­­net? "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Wie wä­­re es mit ei­­nem Dieb, ei­­ner Sän­­ge­­rin, oder Po­­li­­zis­­tin? Oder, wenn ihr die Zu­­kunft mögt, wie wä­­re es mit ei­­nem Tech­­ni­­ker, ei­­ner Pi­­lo­­tin oder dem Koch?"/>
@@ -384,7 +384,7 @@
             <ITEXT CH="Schau ein­­fach, was dich jetzt an­­spricht. Falls dir spä­­ter et­­was an­­de­­res bes­­ser ge­­fal­­len soll­­te, kannst du es im­­mern­­och än­­dern."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Schreib’ den Be­­ruf auf dei­­nen ers­­ten Zet­­tel, so dass oben noch zwei Zei­­len Platz sind."/>
+            <ITEXT CH="Schreib’ den Be­­ruf auf dei­­nen Zet­­tel, so dass oben noch zwei Zei­­len Platz sind."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT CH="Mein Zet­­tel sieht jetzt so aus:"/>
@@ -400,10 +400,10 @@
             <ITEXT CH="Da­­mit weiß ich, dass ich ei­­ne Die­­bin spie­­len will. Aber ich weiß noch nicht, was sie be­­son­­ders macht."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Das glei­­che gilt na­­tür­­lich für euch."/>
+            <ITEXT CH="Das glei­­che gilt na­­tür­­lich für euch. Ihr habt al­le je einen Zet­tel mit dem je­wei­li­gen Be­ruf vor euch."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Al­­so über­­leg dir als nächs­­tes, was dein Cha­­rak­­ter bes­­ser kann, als an­­de­­re in sei­­nem Be­­ruf."/>
+            <ITEXT CH="Über­­legt eucn als nächs­­tes, was eu­re Cha­­rak­­tere bes­­ser kön­nen als an­­de­­re in ih­ren Be­­rufen."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT CH="Da ich dir schlecht für je­­den Be­­ruf Bei­­spiele ge­­ben kann, sa­­ge ich dir ein­­fach Bei­­spie­­le für mei­­ne Die­­bin."/>
@@ -418,7 +418,7 @@
             <ITEXT CH="An­­de­­re Mög­­lich­­kei­­ten wä­­ren Hüt­­chen­­spiel, Schlös­­ser knacken, Fassa­­den­­klet­­tern, Schlei­­chen, Raub­­über­­fall und Be­­quat­­schen."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Das kommt auf dei­­nen Zet­­tel, un­­ter den Be­­ruf und mit ei­­nem Pfeil da­­vor, da­­mit klar ist, dass es da­­zu ge­­hört."/>
+            <ITEXT CH="Das kommt auf dei­­nen Zet­­tel, un­­ter den Be­­ruf und mit ei­­nem Pfeil da­­vor, da­­mit klar ist, dass es zum Be­ruf ge­­hört."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Wenn dir, wie mir, stän­­dig an­­de­­re Sa­­chen ein­­fal­­len, die nicht zum Be­­ruf pas­­sen, schreib sie wei­­ter un­­ten hin, nur mit ei­­nem Strich da­­vor."/>
@@ -454,7 +454,7 @@
             <ITEXT CH="Und da­­mit kom­­men wir zum ers­­ten Mal zu Regeln. Cha­­rak­­te­­re, die spä­­ter viel be­­we­­gen sollen, ha­­ben sie­­ben star­­ke Merk­­ma­­le."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Der Be­­ruf ist eins, und al­­les was sie sonst können ist ein wei­­te­­res."/>
+            <ITEXT CH="Der Be­­ruf ist eins, und al­­les was sie sonst können ist je ein wei­­te­­res."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT CH="Und wenn ihr wollt, dass ein Cha­­rak­­ter in ei­­ner Sa­­che be­­son­­ders gut ist, zählt das wie drei star­­ke Merk­­ma­­le."/>
@@ -463,7 +463,7 @@
             <ITEXT CH="Mir ist zum Bei­­spiel wich­­tig, dass mei­­ne Cha­­rak­­te­­rin all­­ge­­mein als Die­­bin be­­son­­ders gut ist."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Zu­­sam­­men mit Ta­­schen­­dieb­­stahl und Flöten­­spiel hat sie al­­so ef­­fek­­tiv schon 5 star­­ke Merk­­ma­­le: 3 für Die­­bin, 1 für Taschen­­dieb­­stahl und 1 für Flö­­ten­­spiel."/>
+            <ITEXT CH="Zu­­sam­­men mit Ta­­schen­­dieb­­stahl und Flöten­­spiel hat sie da­mit schon 5 star­­ke Merk­­ma­­le: 3 für Die­­bin, 1 für Taschen­­dieb­­stahl und 1 für Flö­­ten­­spiel."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT CH="Ein star­­kes Merk­­mal be­­zeich­­nen wir mit ei­­nem"/>
@@ -494,13 +494,13 @@
             <ITEXT CH="Mei­­ne Die­­bin hat z.B. das Pro­­blem, dass die Stadt­­wa­­che sie in­­zwi­­schen kennt und jagt."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Für je­­des Pro­­blem kannst du ein zu­­sätz­­li­­ches star­­kes Merk­­mal neh­­men. Wählt höchs­­tens 2 Pro­­ble­me."/>
+            <ITEXT CH="Für je­­des Pro­­blem kannst du ein zu­­sätz­­li­­ches star­­kes Merk­­mal neh­­men. Wählt pro Cha­rak­ter höchs­­tens 2 Pro­­ble­me."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Durch ihr Pro­­blem mit der Stadt­­wa­­che kann ich mei­­ner Die­­bin al­­so nicht nur 7, son­­dern 8 star­­ke Merk­­male ge­­ben."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Auf dem Zet­­tel no­­tie­­ren wir Pro­­ble­­me mit ei­­nem Ausrufe­­zei­­chen da­­vor. "/>
+            <ITEXT CH="Schreibt Pro­­ble­­me un­ten auf den Zet­tel, mit ei­­nem Ausrufe­­zei­­chen da­vor."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Mein Zet­­tel sieht da­­mit so aus:"/>
@@ -531,11 +531,11 @@
             <ITEXT CH="Au­­ßer­­dem hat­­te ich noch Ide­­en für zwei wei­­te­­re Stär­­ken: Le­­sen/Schrei­­ben und ih­re Traum­flö­te. Das Ers­­te kommt von ih­­rer früh ge­­stor­­be­­nen Mut­­ter. Ih­re Flö­te schenkt Zu­höh­ren­den Träu­me mit ver­ges­sen ge­glaub­ten Erin­ne­run­gen. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Be­son­de­re Ge­gen­stän­de wer­den durch einen Stern mar­kiert (*), ge­nau­so wie ma­gi­sche Kräf­te, und al­les wei­te­re, das dir be­son­de­re Mög­lich­kei­ten gibt."/>
+            <ITEXT CH="Die Flö­te ist ein be­son­de­rer Ge­gen­stan­d. Sie wird durch einen Stern mar­kiert (*), ge­nau­so wie ma­gi­sche Kräf­te, und al­les wei­te­re, das dir be­son­de­re Mög­lich­kei­ten gibt."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Da ich für mein Pro­­blem mit der Wa­­che noch einen wei­­te­­ren star­­ken Wert ver­­ge­­ben kann, nehme ich au­ßer­dem Be­quat­schen."/>
+            <ITEXT CH="Da ich für mein Pro­­blem mit der Wa­­che noch einen wei­­te­­ren star­­ken Wert ver­­ge­­ben kann, nehme ich au­ßer­dem Schlei­chen."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Und da­­mit sieht mein Zet­­tel so aus­:"/>
@@ -551,7 +551,7 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="- &gt; Ta­­schen­­dieb­­stahl +"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="- &gt; Be­­quat­­schen +"/>
+            <ITEXT CH="- &gt; Schlei­chen +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="- Le­­sen/Schrei­­ben +"/>
@@ -569,19 +569,19 @@
             <ITEXT CH="Nun fehlt nur noch der letz­­te Schritt: Zah­­len für die Wer­­te."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Der Be­­ruf ist da­­bei auf 6 plus 3 je Plus."/>
+            <ITEXT CH="Der Be­­ruf er­hält 6 plus 3 je Plus."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Auf dem Be­­ruf auf­­bau­­en­­de Wer­­te sind je Plus 3 Punk­­te über dem Be­­ruf."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Und al­­lein­­ste­­hen­­de Wer­­te sind bei 9 plus 3 je Plus."/>
+            <ITEXT CH="Al­­lein­­ste­­hen­­de Wer­­te er­hal­ten 9 plus 3 je Plus."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Be­son­de­res und Pro­­ble­­me ha­­ben kei­­ne Zah­­len."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Und da­­mit ist der Cha­­rak­­ter be­­reits spiel­­bar."/>
+            <ITEXT CH="Und da­­mit ist dein Cha­­rak­­ter be­­reits spiel­­bar."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Mein Zet­­tel sieht nun so aus:"/>
@@ -596,7 +596,7 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="- &gt; Ta­­schen­­dieb­­stahl + 15"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="- &gt; Be­­quat­­schen + 15"/>
+            <ITEXT CH="- &gt; Schlei­chen + 15"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="- Le­­sen/Schrei­­ben + 12"/>
@@ -610,13 +610,13 @@
             <ITEXT CH="! Von der Wa­­che ge­­jagt "/>
             <para PARENT="Charzettel Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Aber auch wenn dein Cha­­rak­­ter nun spiel­­bar ist, weißt du doch noch nicht, was er ma­­chen will."/>
+            <ITEXT CH="Aber auch wenn dein Cha­­rak­­ter nun spiel­­bar ist, weißt du doch noch nicht, was er oder sie ma­­chen will."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Da du mit dei­­nen Freun­­den zu­­sam­­men spielen willst, ist au­­ßer­­dem wich­­tig zu wis­­sen, warum eu­­re Cha­­rak­­te­­re zu­­sam­­men blei­­ben."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Für bei­­des neh­­men wir die Rück­­sei­­te des Zettels."/>
+            <ITEXT CH="Für bei­­des neh­­mt ihr die Rück­­sei­­ten eu­rer Zettel."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT CH="Hier kann ich euch nicht so viel hel­­fen wie bei den Wer­­ten. Das ein­­zi­­ge, was ich euch ge­­ben kann, sind drei Fra­­gen:"/>
@@ -643,7 +643,7 @@
             <ITEXT CH="Es müs­­sen nicht die­­sel­­ben sein, aber sie soll­­ten in einen gemein­­sa­­men Weg mün­­den."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Da­­mit das et­­was kla­­rer wird, ha­­be ich wie­­der Bei­­spie­­le. Eins von mir, und dann das der anderen in mei­­ner Run­­de."/>
+            <ITEXT CH="Da­­mit das et­­was kla­­rer wird, ha­­be ich wie­­der Bei­­spie­­le. Mei­ne Ant­wor­ten, und dann die Grün­de der anderen in mei­­ner Run­­de."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT CH="Erst­­mal mein Zet­­tel:"/>
@@ -685,7 +685,7 @@
             <ITEXT CH="Und da­­mit kom­­men wir zum letz­­ten Teil mei­­nes Tex­­tes: Her­­aus­­fin­­den, ob und wie et­­was klappt."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Hier­­für brau­­chen wir den Wür­­fel."/>
+            <ITEXT CH="Hier­­für brau­­chst du den Wür­­fel."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <ITEXT CH="Wann im­­mer nicht klar ist, ob dir ei­­ne Auf­­ga­­be ge­­lingt, schau auf dei­­nen Zet­­tel ob du et­­was hast, das da­­zu passt. Das kann dein Be­­ruf sein oder ei­­ner der an­­de­­ren Wer­­te. Hast du nichts pas­­sen­­des, dann nimm den Wert 3."/>
@@ -700,13 +700,13 @@
             <ITEXT CH="Bei­spiel: Ich will Schlei­­chen. Mein Wert ist 15. Ich wür­­fle 3. Das Er­geb­nis ist 12 (15 mi­nus 3)."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Hast du Un­­ter­­stüt­­zung oder Werk­­zeug, er­­hältst du pro Unter­­stüt­­zer und Werk­­zeug 1 Punkt Bo­­nus. Hast du einen zwei­­ten pas­­sen­­den Wert, dann gibt er dir pro Plus einen Punkt Bo­­nus."/>
+            <ITEXT CH="Hast du Un­­ter­­stüt­­zung oder Werk­­zeug, wird dein Er­geb­nis pro Unter­­stüt­­zender Per­son und pro Werk­­zeug um 1 Punkt er­höht. Hast du einen zwei­­ten pas­­sen­­den Wert, dann gibt dir je­des sei­ner Plus­se 1 Punkt da­zu."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="War die Auf­­ga­­be ein­­fach, dann brauchst du mindestens ein Er­­geb­­nis von 9, um sie zu schaf­­fen."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="War sie for­­dernd, dann brauchst du eins von 12. War sie schwer, dann brauchst du eins von 15."/>
+            <ITEXT CH="War sie for­­dernd, dann brauchst du eins von 12. War sie schwer, dann brauchst du 15."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ich schlei­­che an Wa­­chen vor­­bei. Das ist for­­dernd, al­­so brau­­che ich Er­­geb­­nis 12. Ich wür­­fle ei­­ne 5 und ha­­be da­­mit nur 10. Mit 2 Unter­­stüt­­zern hät­te es ge­klappt."/>
@@ -724,7 +724,7 @@
             <ITEXT CH="War es gleich hoch, dann ge­­win­nt wer an­­ge­­fangen hat."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
-            <ITEXT CH="Kämp­­ft ihr da­­bei, dann kön­­nt ihr euch ver­­let­­zen. Schaut euch eu­­re Waf­­fen und Schutz­­kleid­­ung an. Ist die Waf­­fe stärker als die Klei­­dung, er­­hält der Ver­­lie­­rer ei­­ne Wunde. Sind bei­­de gleich stark, erhält er eine Wun­­de, wenn das Er­­geb­­nis des Gewin­­ners 3 Punk­­te hö­­her war als seins. Ist die Waf­­fe schwä­­cher, erst ab 6 Punk­­ten."/>
+            <ITEXT CH="Kämp­­ft ihr da­­bei, dann kön­­nt ihr euch ver­­let­­zen. Schaut euch eu­­re Waf­­fen und Schutz­­kleid­­ung an. Ist die Waf­­fe stärker als die Klei­­dung, er­­hält der Ver­­lie­­rer ei­­ne Wunde. Sind bei­­de gleich stark, erhält er nur dann eine Wun­­de, wenn das Er­­geb­­nis des Gewin­­ners 3 Punk­­te hö­­her war als seins. Ist die Waf­­fe schwä­­cher, erst ab 6 Punk­­ten."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ei­­ne Faust ist so stark wie ei­­ne Jeans, ein Mes­­ser wie eine Le­­der­­ja­­cke, ein Schwert wie ein Ket­­ten­­hemd, ei­­ne Pis­­to­­le wie Po­­li­­zei­­pan­­ze­­rung."/>
@@ -738,7 +738,7 @@
             <ITEXT CH="Die­­ser Ab­­zug ver­­schwin­­det, wenn die je­­wei­­li­­ge Wun­­de heilt. Ei­­ne Faust­­re­­gel da­für sind 4 Wo­­chen oder ein Heil­­trank."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Mit zwei Wun­­den sind dei­­ne Wer­­te 6 Punk­­te nie­­dri­­ger. Nach 4 Wo­­chen heilt ei­­ne Wun­de und dei­­ne Wer­­te sind nur noch 3 Punk­­te niedri­­ger. Wei­­te­­re 4 Wo­­chen spä­­ter heilt die Zwei­­te und der Ab­­zug ver­­schwin­­det."/>
+            <ITEXT CH="Mit zwei Wun­­den sind dei­­ne Wer­­te 6 Punk­­te nie­­dri­­ger. Nach 4 Wo­­chen heilt ei­­ne Wun­de und dei­­ne Wer­­te sind nur noch 3 Punk­­te niedri­­ger. Wei­­te­­re 4 Wo­­chen spä­­ter heilt die zwei­­te Wun­de und der Ab­­zug ver­­schwin­­det."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
@@ -755,7 +755,7 @@
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="140.931489571898" YPOS="1993.07034624685" WIDTH="200.693200122" HEIGHT="239.420629918504" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-1.06134635200731" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.693 0 200.693 0 200.693 0 200.693 0 200.693 239.421 200.693 239.421 200.693 239.421 200.693 239.421 0 239.421 0 239.421 0 239.421 0 239.421 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.694 0 200.694 0 200.694 0 200.694 0 200.694 239.421 200.694 239.421 200.694 239.421 200.694 239.421 0 239.421 0 239.421 0 239.421 0 239.421 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="38" BACKITEM="36">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="150.236220472441" YPOS="2438.34803149606" WIDTH="193.695124501595" HEIGHT="225.697874" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-358" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 193.695 0 193.695 0 193.695 0 193.695 0 193.695 225.698 193.695 225.698 193.695 225.698 193.695 225.698 0 225.698 0 225.698 0 225.698 0 225.698 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 193.696 0 193.696 0 193.696 0 193.696 0 193.696 225.698 193.696 225.698 193.696 225.698 193.696 225.698 0 225.698 0 225.698 0 225.698 0 225.698 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="39" BACKITEM="37">
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="150.236220472441" YPOS="2437.34803149606" WIDTH="193.695124501595" HEIGHT="225.697874" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-358" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 193.695 0 193.695 0 193.695 0 193.695 0 193.695 225.698 193.695 225.698 193.695 225.698 193.695 225.698 0 225.698 0 225.698 0 225.698 0 225.698 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 193.696 0 193.696 0 193.696 0 193.696 0 193.696 225.698 193.696 225.698 193.696 225.698 193.696 225.698 0 225.698 0 225.698 0 225.698 0 225.698 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="39" BACKITEM="37">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="147.724546171184" YPOS="2891.73224211719" WIDTH="185.604330712157" HEIGHT="16.9436339341969" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-20.8" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 185.604 0 185.604 0 185.604 0 185.604 0 185.604 16.9436 185.604 16.9436 185.604 16.9436 185.604 16.9436 0 16.9436 0 16.9436 0 16.9436 0 16.9436 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 185.605 0 185.605 0 185.605 0 185.605 0 185.605 16.9436 185.605 16.9436 185.605 16.9436 185.605 16.9436 0 16.9436 0 16.9436 0 16.9436 0 16.9436 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="58" BACKITEM="38">
@@ -776,7 +776,7 @@
         <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="160.682622280241" YPOS="6090.43293573001" WIDTH="172.665354330709" HEIGHT="58.4069291338592" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-1.26533894367832" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 172.665 0 172.665 0 172.665 0 172.665 0 172.665 58.4069 172.665 58.4069 172.665 58.4069 172.665 58.4069 0 58.4069 0 58.4069 0 58.4069 0 58.4069 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 172.666 0 172.666 0 172.666 0 172.666 0 172.666 58.4071 172.666 58.4071 172.666 58.4071 172.666 58.4071 0 58.4071 0 58.4071 0 58.4071 0 58.4071 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="62" BACKITEM="43">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="183.227129056345" YPOS="7006.38574525975" WIDTH="165.368740161102" HEIGHT="59.6641169835166" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="1.93908388586763" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 165.369 0 165.369 0 165.369 0 165.369 0 165.369 59.6641 165.369 59.6641 165.369 59.6641 165.369 59.6641 0 59.6641 0 59.6641 0 59.6641 0 59.6641 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 165.369 0 165.369 0 165.369 0 165.369 0 165.369 59.6642 165.369 59.6642 165.369 59.6642 165.369 59.6642 0 59.6642 0 59.6642 0 59.6642 0 59.6642 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="64" BACKITEM="63">
+        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="183.227129056345" YPOS="7007.38574525975" WIDTH="158.84341895428" HEIGHT="59.6641169835166" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="1.93908388586763" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 158.843 0 158.843 0 158.843 0 158.843 0 158.843 59.6641 158.843 59.6641 158.843 59.6641 158.843 59.6641 0 59.6641 0 59.6641 0 59.6641 0 59.6641 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 158.844 0 158.844 0 158.844 0 158.844 0 158.844 59.6642 158.844 59.6642 158.844 59.6642 158.844 59.6642 0 59.6642 0 59.6642 0 59.6642 0 59.6642 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="64" BACKITEM="63">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="17" PTYPE="4" XPOS="170.725039370079" YPOS="7923.31914699702" WIDTH="172.388223972025" HEIGHT="106.227756362886" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-0.571448735575473" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 172.388 0 172.388 0 172.388 0 172.388 0 172.388 106.228 172.388 106.228 172.388 106.228 172.388 106.228 0 106.228 0 106.228 0 106.228 0 106.228 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 172.389 0 172.389 0 172.389 0 172.389 0 172.389 106.228 172.389 106.228 172.389 106.228 172.389 106.228 0 106.228 0 106.228 0 106.228 0 106.228 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="66" BACKITEM="65">
