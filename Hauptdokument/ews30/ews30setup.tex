@@ -26,17 +26,32 @@
 \usepackage[ngerman, germanb]{babel}
 \usepackage{wallpaper}
 
+% do not put numbers in section headers
+\setcounter{secnumdepth}{0}
 
 % Set page layout. TODO: Use this to make a layout.
-\setstocksize{477pt}{315pt}
-\settrimmedsize{477pt}{315pt}{*}
-\settrims{0pt}{0pt}
-\settypeblocksize{420pt}{252pt}{*}
-\setlrmargins{39pt}{*}{*}
-\setulmargins{30pt}{*}{*}
-\setheadfoot{10pt}{10pt}
-\setheaderspaces{20pt}{*}{*}
+% \setstocksize{477pt}{315pt}
+% \settrimmedsize{477pt}{315pt}{*}
+% \settrims{0pt}{0pt}
+% \settypeblocksize{420pt}{252pt}{*}
+%                    {spine}{edge}{ratio}
+\setlrmarginsandblock{10mm}{50mm}{*}
+% \setulmargins{30pt}{*}{*}
+% \setheadfoot{10pt}{10pt}
+% \setheaderspaces{20pt}{*}{*}
+% move footnotes into the margin
+\footnotesinmargin
+% ensure that sidefootnotes and footnotes use the same counter
+\letcountercounter{sidefootnote}{footnote}
+% make every footnote a sidefootnote
+\renewcommand{\footnote}{\sidefootnote}
+% finalize the layout
 \checkandfixthelayout
+% fix the sidefootnotes
+\setlength{\sidefootwidth}{\marginparwidth}
+% fix the sidebar
+\setsidebars{\marginparsep}{\marginparwidth}{\onelineskip}%
+            {0pt}{\normalsize\normalfont}{\textheight}
 
 
 \setlength{\droptitle}{-1.82cm}
