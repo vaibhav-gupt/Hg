@@ -1,7 +1,10 @@
-#+title: Ein-Würfel-System
+#+title: 
 
+#+latex: \includepdf{ewstitle}
+#+toc: headlines 2
+
+#+options: toc:nil
 #+LANGUAGE: en
-
 #+latex_class: memoir
 #+latex_class_options: [twoside,a5paper]
 #+LATEX_HEADER: \include{ews30setup}
@@ -18,6 +21,9 @@ Das EWS liefert euch dafür einen Rahmen der die Handlung unterstutzt und typisc
 
 Es gibt dem Geschichtenerzählen die Spannung und Unwägbarkeit eines kooperativen Brettspiels mit der Intensität eines mitreißenden Filmes, der Tiefe eines fesselnden Buches und dem Gemeinschaftsgefühl eines Online-Spiels.
 
+** Beispiel
+
+Nina hält im Gericht ihr Schlussplädoyer. …
 
 
 * Footnotes

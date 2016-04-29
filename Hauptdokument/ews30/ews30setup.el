@@ -5,6 +5,7 @@
              [NO-DEFAULT-PACKAGES]
              [PACKAGES]
              [EXTRA]"
+             ("\\chapter{%s}" . "\\chapter*{%s}")
              ("\\section{%s}" . "\\section*{%s}")
              ("\\subsection{%s}" . "\\subsection*{%s}")
              ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
