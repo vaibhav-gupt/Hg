@@ -1,7 +1,17 @@
 #+title: Ein-Würfel-System
 
+#+LANGUAGE: de
 #+latex_class: memoir
 #+latex_class_options: [twoside,a5paper]
 #+LATEX_HEADER: \include{ews30setup}
 
-* foo
+* Willkommen im Ein-Würfel-System!
+
+# TODO: Title in der Inhaltsangabe: Willkommen!
+
+Was würdest du machen, wenn ein Held oder eine Heldin in Filmen und Büchern deinen Entscheidungen folgte? Wie würdest du handeln, wenn in einem Spiel alles Plausible auch möglich wäre? Was würdest du spielen, wenn die Geschichte eurer Teatergruppe sich über dutzende von Aufführungen immer weiter entwickeln würde und nur euch gefallen müsste? Wie würdest du entscheiden, wenn dein Spielstein Gefühle hätte?
+
+
+
+
+
