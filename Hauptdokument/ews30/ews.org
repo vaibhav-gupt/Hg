@@ -1,0 +1,7 @@
+#+title: Ein-Würfel-System
+
+#+latex_class: memoir
+#+latex_class_options: [twoside,a5paper]
+#+LATEX_HEADER: \include{ews30setup}
+
+* foo
