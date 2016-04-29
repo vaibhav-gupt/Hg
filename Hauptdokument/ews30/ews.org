@@ -10,21 +10,24 @@
 
 # TODO: Title in der Inhaltsangabe: Willkommen!
 
-Was würdest du machen, wenn ein Held oder eine Heldin in Filmen und Büchern deinen Entscheidungen folgte? Wie würdest du handeln, wenn in einem Spiel alles Plausible auch möglich wäre? Was würdest du spielen, wenn die Geschichte eurer Teatergruppe sich über dutzende von Aufführungen immer weiter entwickeln würde und nur euch gefallen müsste? Wie würdest du entscheiden, wenn dein Spielstein Gefühle hätte?[fn:1][fn:2]
+Was würdest du machen, wenn der Held oder die Heldin eines Films deinen Entscheidungen folgte? Wer wärst du, wenn du an einem Buch beim Lesen mitschreiben könntest? Wie würdest du handeln, wenn in einem Spiel alles Plausible auch möglich wäre? Was würdest du spielen, wenn die Geschichte eurer Teatergruppe sich über dutzende von Aufführungen immer weiter entwickeln würde und nur euch gefallen müsste? Wie würdest du entscheiden, wenn dein Spielstein Gefühle hätte?[fn:2]
 
-Mit dem EWS kannst du das mit Freunden und Bekannten erkunden und dabei spannender Abenteuer erleben, Erzählungen wie ihr sie aus anderen Medien kennt, Geschichten, die noch niemand zuvor erlebt hat oder eine Mischung aus beidem: Eure Geschichten.
+Mit dem EWS kannst du das mit Freunden und Bekannten erkunden und dabei spannender Abenteuer erleben, Erzählungen wie ihr sie aus anderen Medien kennt, Geschichten, die noch niemand zuvor erlebt hat oder eine Mischung aus beidem: Eure Geschichten.[fn:1]
 
-Das EWS liefert euch dafür einen Rahmen der die Handlung unterstutzt und typische Stolpersteine beseitigt. Es erleichtert es euch zu definieren, was die Protagonisten einzigartig macht, zu entscheiden, wer in einem Faustkampf oder einer Debatte gewinnt (dafür ist der Wüfel da). Das EWS hilft euch, Gesichten so zu entwickeln, dass sie auch nach Jahren spannend bleiben und eine Gemeinsame vorstellung eurer Geschichten zu entwickeln.
+Das EWS liefert euch dafür einen Rahmen der die Handlung unterstutzt und typische Stolpersteine beseitigt. Es erleichtert es euch zu definieren, was die Protagonisten einzigartig macht, zu entscheiden, wer in einem Faustkampf oder einer Debatte gewinnt (dafür ist der Wüfel da), hilft euch, Gesichten zu finden, die auch nach Jahren spannend bleiben und eine gemeinsame Vorstellung eurer Geschichten zu entwickeln.
 
-Es gibt dem Geschichtenerzählen die Spannung und unwägbarkeiten eines kooperativen Brettspiels mit der Intensität eines spannenden Filmes, der Tiefe eines fesselnden Buches und dem Gemeinschaftsgefühl eines Online-Spiels.
+Es gibt dem Geschichtenerzählen die Spannung und Unwägbarkeit eines kooperativen Brettspiels mit der Intensität eines mitreißenden Filmes, der Tiefe eines fesselnden Buches und dem Gemeinschaftsgefühl eines Online-Spiels.
 
 
 
 * Footnotes
 
-[fn:1] \lipsum[1]
+[fn:1] Sie entstehen aus Eurer Gemeinschaft und leben durch Euch. Ihr werdet sie nie vergessen.
 
-[fn:2] \lipsum[2]
+[fn:2] Das ist Rollenspiel. Es ist Einzigartig. Probier es aus. Es geht gar nicht schnell und tut unendlich gut.
+
+
+
 
 
 
