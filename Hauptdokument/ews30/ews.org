@@ -1,6 +1,8 @@
 #+title: Ein-Würfel-System
 
 #+LANGUAGE: de
+#+options: num:nil
+
 #+latex_class: memoir
 #+latex_class_options: [twoside,a5paper]
 #+LATEX_HEADER: \include{ews30setup}
