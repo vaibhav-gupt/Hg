@@ -1,7 +1,6 @@
 #+title: Ein-Würfel-System
 
-#+LANGUAGE: de
-#+options: num:nil
+#+LANGUAGE: en
 
 #+latex_class: memoir
 #+latex_class_options: [twoside,a5paper]
@@ -11,9 +10,13 @@
 
 # TODO: Title in der Inhaltsangabe: Willkommen!
 
-Was würdest du machen, wenn ein Held oder eine Heldin in Filmen und Büchern deinen Entscheidungen folgte? Wie würdest du handeln, wenn in einem Spiel alles Plausible auch möglich wäre? Was würdest du spielen, wenn die Geschichte eurer Teatergruppe sich über dutzende von Aufführungen immer weiter entwickeln würde und nur euch gefallen müsste? Wie würdest du entscheiden, wenn dein Spielstein Gefühle hätte?
+Was würdest du machen, wenn ein Held oder eine Heldin in Filmen und Büchern deinen Entscheidungen folgte? Wie würdest du handeln, wenn in einem Spiel alles Plausible auch möglich wäre? Was würdest du spielen, wenn die Geschichte eurer Teatergruppe sich über dutzende von Aufführungen immer weiter entwickeln würde und nur euch gefallen müsste? Wie würdest du entscheiden, wenn dein Spielstein Gefühle hätte?[fn:1][fn:2]\sidefootnote{\lipsum[3]}
 
+* Footnotes
 
+[fn:1] \lipsum[1]
+
+[fn:2] \lipsum[2]
 
 
 

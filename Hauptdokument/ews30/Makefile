@@ -3,6 +3,7 @@ ews.html : ews.org ews30setup.tex ews30setup.el
 
 ews.pdf : ews.tex ews30setup.tex
 	pdflatex -shell-escape $<
+	while grep "LaTeX Warning: Label(s) may have changed" ews.log; do pdflatex -shell-escape $<; done
 
 ews.tex : ews.org ews30setup.tex ews30setup.el
 	echo yes | HOME=$(realpath .) emacs -l $(realpath ews30setup.el) $(realpath $<) -e org-latex-export-to-latex -e kill-emacs
