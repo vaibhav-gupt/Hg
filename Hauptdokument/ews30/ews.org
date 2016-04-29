@@ -10,13 +10,23 @@
 
 # TODO: Title in der Inhaltsangabe: Willkommen!
 
-Was würdest du machen, wenn ein Held oder eine Heldin in Filmen und Büchern deinen Entscheidungen folgte? Wie würdest du handeln, wenn in einem Spiel alles Plausible auch möglich wäre? Was würdest du spielen, wenn die Geschichte eurer Teatergruppe sich über dutzende von Aufführungen immer weiter entwickeln würde und nur euch gefallen müsste? Wie würdest du entscheiden, wenn dein Spielstein Gefühle hätte?[fn:1][fn:2]\sidefootnote{\lipsum[3]}
+Was würdest du machen, wenn ein Held oder eine Heldin in Filmen und Büchern deinen Entscheidungen folgte? Wie würdest du handeln, wenn in einem Spiel alles Plausible auch möglich wäre? Was würdest du spielen, wenn die Geschichte eurer Teatergruppe sich über dutzende von Aufführungen immer weiter entwickeln würde und nur euch gefallen müsste? Wie würdest du entscheiden, wenn dein Spielstein Gefühle hätte?[fn:1][fn:2]
+
+Mit dem EWS kannst du das mit Freunden und Bekannten erkunden und dabei spannender Abenteuer erleben, Erzählungen wie ihr sie aus anderen Medien kennt, Geschichten, die noch niemand zuvor erlebt hat oder eine Mischung aus beidem: Eure Geschichten.
+
+Das EWS liefert euch dafür einen Rahmen der die Handlung unterstutzt und typische Stolpersteine beseitigt. Es erleichtert es euch zu definieren, was die Protagonisten einzigartig macht, zu entscheiden, wer in einem Faustkampf oder einer Debatte gewinnt (dafür ist der Wüfel da). Das EWS hilft euch, Gesichten so zu entwickeln, dass sie auch nach Jahren spannend bleiben und eine Gemeinsame vorstellung eurer Geschichten zu entwickeln.
+
+Es gibt dem Geschichtenerzählen die Spannung und unwägbarkeiten eines kooperativen Brettspiels mit der Intensität eines spannenden Filmes, der Tiefe eines fesselnden Buches und dem Gemeinschaftsgefühl eines Online-Spiels.
+
+
 
 * Footnotes
 
 [fn:1] \lipsum[1]
 
 [fn:2] \lipsum[2]
+
+
 
 
 
