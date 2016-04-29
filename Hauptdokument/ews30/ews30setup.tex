@@ -43,16 +43,16 @@
 \footnotesinmargin
 % ensure that sidefootnotes and footnotes use the same counter
 \letcountercounter{sidefootnote}{footnote}
-% make every footnote a sidefootnote
-\renewcommand{\footnote}{\sidefootnote}
 % finalize the layout
 \checkandfixthelayout
 % fix the sidefootnotes
 \setlength{\sidefootwidth}{\marginparwidth}
+\setlength{\sidefoothsep}{\marginparsep}
 % fix the sidebar
 \setsidebars{\marginparsep}{\marginparwidth}{\onelineskip}%
             {0pt}{\normalsize\normalfont}{\textheight}
-
+% make every footnote a sidefootnote
+\renewcommand{\footnote}[1]{\sidefootnote{\hspace*{-2.8mm}\raisebox{-2.2mm}{\includegraphics[width=\sidefootwidth]{1w6-seitenleistenoberkante.png}}\par\vspace*{-1.7mm}\parindent3.8mm\hangindent3.8mm#1}}
 
 \setlength{\droptitle}{-1.82cm}
 \renewcommand{\maketitlehooka}{\ThisLLCornerWallPaper{1}{logo-cover}}
