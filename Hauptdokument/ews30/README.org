@@ -1,0 +1,23 @@
+#+title: Grundregeln für  EWS 3.0
+
+Hier entsteht das neue Grundregelwerk für EWS 3.0.
+
+- Texte: ews.org
+- Cover: ewstitle.tex
+- LaTeX-Setup: ews30setup.tex
+- Emacs-Setup für den Export: ews30setup.el
+
+* Bearbeiten
+
+./edit.sh
+
+* Bauen
+
+make
+
+* Benötigt
+
+- Emacs: http://gnu.org/s/emacs (Windows: http://www.gnu.org/software/emacs/download.html )
+- Make: http://gnu.org/s/make (Windows: http://www.mingw.org/wiki/MSYS oder http://gnuwin32.sourceforge.net/packages/make.htm )
+- eine LaTeX-Umgebung mit pdflatex. Z.B. texlive (GNU/Linux) oder MiKTeX (Windows: http://miktex.org/ )
+
