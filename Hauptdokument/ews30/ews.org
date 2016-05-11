@@ -111,7 +111,7 @@ Nina hält im Gericht ihr Schlussplädoyer. …
 #+latex: \kant[19]
 ** Ein Abenteuer erschaffen
 #+latex: \kant[20]
-*** NCS-Blatt
+*** NSC-Blatt
 #+latex: \kant[21]
 *** Personen Würfeln
 #+latex: \kant[22]
