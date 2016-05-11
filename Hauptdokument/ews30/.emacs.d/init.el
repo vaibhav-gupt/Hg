@@ -14,3 +14,5 @@
 
 (require 'ox-html)
 (require 'ox-latex)
+;; provide the <k template for a kasten (box)
+(add-to-list 'org-structure-template-alist '("k" "#+begin_kasten\n?\n#+end_kasten" "<div class=\"kasten\">?</div>"))
