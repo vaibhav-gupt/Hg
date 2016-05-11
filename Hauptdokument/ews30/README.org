@@ -15,6 +15,8 @@ Hier entsteht das neue Grundregelwerk für EWS 3.0.
 
 make
 
+erzeugt ews.pdf und ews.html
+
 * Benötigt
 
 - Emacs: http://gnu.org/s/emacs (Windows: http://www.gnu.org/software/emacs/download.html )
