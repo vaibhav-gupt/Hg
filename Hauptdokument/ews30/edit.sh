@@ -1,2 +1,2 @@
 #!/bin/sh
-HOME=$(realpath .) emacs ews.org
+HOME=$(dirname $(realpath $0)) emacs ews.org
