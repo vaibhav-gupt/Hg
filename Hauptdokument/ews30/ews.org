@@ -21,14 +21,84 @@ Das EWS liefert euch dafür einen Rahmen der die Handlung unterstutzt und typisc
 
 Es gibt dem Geschichtenerzählen die Spannung und Unwägbarkeit eines kooperativen Brettspiels mit der Intensität eines mitreißenden Filmes, der Tiefe eines fesselnden Buches und dem Gemeinschaftsgefühl eines Online-Spiels.
 
+#+begin_kasten
+*An wen richtet sich dieses Buch?*
+
+…
+#+end_kasten
+
 ** Beispiel
 
 Nina hält im Gericht ihr Schlussplädoyer. …
 
+* In welcher Welt?
+
+* Charaktere erschaffen
+
+** Was einen Charakter ausmacht
+
+(hier direkt erschaffen, Punkte verteilen)
+
+(Allgemeine Beispiele)[fn:3]
+
+*** Zahlen, Kosten und Werte
+
+*** Sprechende Namen
+
+** Das Charakterheft
+
+** Ausrüstung
+
+* Ablauf des Spiels
+
+** Beginn, Ende, Aufgabenverteilung
+
+** Proben
+***  Schaffe ich das?
+***  Wie gut schaffe ich es?
+***  Wie schaffe ich es?
+
+** Wettstreite
+***  Wer gewinnt?
+***  Was erreichen wer?
+***  Wie kommen wir dorthin?
+
+** Zusammenarbeit
+*** Passive Unterstützung
+*** Aktive Unterstützung
+*** Hand in Hand
+
+** Steigern und Schieben
+
+* Hintergründe
+
+(Beispiel-Welten)
+** Raumzeit-Technophob: Science Fiction
+** Die 7 Königreiche: Fantasy
+** Die Welt hinter der Welt: Phantastik
+
+* Spielleitung (Für die SL)
+** Das Spiel mit großen und kleinen Gruppen
+** Ein Abenteuer erschaffen
+*** NCS-Blatt
+*** Personen Würfeln
+*** Plot würfeln
+*** Vergangene Ereignisse würfeln
+*** Was wollen deine Spielerinnen und Spieler?
+
+** Eure Grenzen kennen — und austesten
+** Achtsamkeit
+** Direktheit
+** Welten erschaffen
+* Module
 
 * Footnotes
 
 [fn:1] Sie entstehen aus Eurer Gemeinschaft und leben durch Euch. Ihr werdet sie nie vergessen.
 
 [fn:2] Das ist Rollenspiel. Es ist Einzigartig. Probier es aus. Es geht gar nicht schnell und tut unendlich gut. Viel Spaß beim Spielen!
+
+[fn:3] Erweitert durch die Vorlagen bei den Welten.
+
+
 
