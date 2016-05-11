@@ -33,6 +33,8 @@ Nina hält im Gericht ihr Schlussplädoyer. …
 
 * In welcher Welt?
 
+#+latex: \kant[1]
+
 * Charaktere erschaffen
 
 ** Was einen Charakter ausmacht
@@ -43,54 +45,93 @@ Nina hält im Gericht ihr Schlussplädoyer. …
 
 *** Zahlen, Kosten und Werte
 
+#+latex: \kant[2]
+
+
 *** Sprechende Namen
+
+#+latex: \kant[3]
+
 
 ** Das Charakterheft
 
+#+latex: \kant[4]
+
+
 ** Ausrüstung
+
+#+latex: \kant[5]
+
 
 * Ablauf des Spiels
 
 ** Beginn, Ende, Aufgabenverteilung
 
+#+latex: \kant[6]
+
+
 ** Proben
 ***  Schaffe ich das?
+#+latex: \kant[7]
 ***  Wie gut schaffe ich es?
+#+latex: \kant[8]
 ***  Wie schaffe ich es?
 
 ** Wettstreite
 ***  Wer gewinnt?
+#+latex: \kant[9]
 ***  Was erreichen wer?
+#+latex: \kant[10]
 ***  Wie kommen wir dorthin?
+#+latex: \kant[11]
 
 ** Zusammenarbeit
 *** Passive Unterstützung
+#+latex: \kant[12]
 *** Aktive Unterstützung
+#+latex: \kant[13]
 *** Hand in Hand
+#+latex: \kant[14]
 
 ** Steigern und Schieben
+#+latex: \kant[15]
 
 * Hintergründe
 
 (Beispiel-Welten)
 ** Raumzeit-Technophob: Science Fiction
+#+latex: \kant[16]
 ** Die 7 Königreiche: Fantasy
+#+latex: \kant[17]
 ** Die Welt hinter der Welt: Phantastik
+#+latex: \kant[18]
 
 * Spielleitung (Für die SL)
 ** Das Spiel mit großen und kleinen Gruppen
+#+latex: \kant[19]
 ** Ein Abenteuer erschaffen
+#+latex: \kant[20]
 *** NCS-Blatt
+#+latex: \kant[21]
 *** Personen Würfeln
+#+latex: \kant[22]
 *** Plot würfeln
+#+latex: \kant[23]
 *** Vergangene Ereignisse würfeln
+#+latex: \kant[24]
 *** Was wollen deine Spielerinnen und Spieler?
+#+latex: \kant[25]
 
 ** Eure Grenzen kennen — und austesten
+#+latex: \kant[26]
 ** Achtsamkeit
+#+latex: \kant[27]
 ** Direktheit
+#+latex: \kant[28]
 ** Welten erschaffen
+#+latex: \kant[29]
 * Module
+#+latex: \kant[30]
 
 * Footnotes
 
