@@ -1,5 +1,7 @@
 IMAGES=logo-cover.png 1w6-seitenleistenoberkante.png
 
+all: ews.html ews.pdf
+
 ews.html : ews.org ews30setup.tex ews30setup.el ${IMAGES}
 	echo yes | HOME=$(realpath .) emacs -l $(realpath ews30setup.el) $(realpath $<) -e org-html-export-to-html -e kill-emacs
 

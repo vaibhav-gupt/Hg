@@ -4,6 +4,7 @@
 \usepackage{fixltx2e}
 \usepackage{graphicx}
 \usepackage{longtable}
+\usepackage{tcolorbox}
 \usepackage{float}
 \usepackage{wrapfig}
 \usepackage{rotating}
@@ -63,4 +64,4 @@
   pdfcreator={Emacs 24.4.1 (Org mode 8.2.6)}}
 
 % provide kasten environment
-\newenvironment{kasten}{\begin{framebox}}{\end{framebox}}
+\newenvironment{kasten}{\tcolorbox}{\endtcolorbox}
