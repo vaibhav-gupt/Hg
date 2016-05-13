@@ -63,6 +63,8 @@ Nina hält im Gericht ihr Schlussplädoyer. …
 #+latex: \kant[5]
 
 
+** Charakter aus Beschreibung erschaffen
+
 * Ablauf des Spiels
 
 ** Beginn, Ende, Aufgabenverteilung
