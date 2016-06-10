@@ -131,9 +131,11 @@ mia rolulino ne nur estas bona,
 sed bonega ŝtelistino. 
 
 Kune kun malplenigi poŝoj
-kaj fluti ŝi tial efektive 
+kaj fluti, ŝi tial efektive 
 havas kvin bonajn 
-distingilojn. 
+distingilojn: 3 por ŝtelistino, 
+1 por malplenigi poŝojn 
+kaj unu por fluti.
 
 Bonan distingilon ni markas per
 +, bonegan per ++. 
@@ -154,19 +156,25 @@ havas la problemon, ke la
 urbgardistoj ŝin konas 
 kaj ĉasas. 
 
-En la slipo ni markas la 
-problemojn per krisignoj
-antaŭe. 
+Per problemo vi povas elekti 
+aldonan potentecon. Elektu 
+maksimume 2 problemojn.
+
+Pro la problemon kon la 
+urbgardistoj mi povas doni 
+al mi ŝtelistino ne nur 7, 
+sed 8 potentecojn.
 
-Problemoj havas minuson, ĉar 
-vi povas preni un ekstran 
-bonan distingilon je problemon. 
+En la slipo marku problemojn 
+per krisignoj antaŭe.
+
 Mia slipo nun aspektas tiel: 
 
     Ŝtelistino ++
     -> Malplenigi poŝojn +
     
     - Fluti +
+    
     ! Ĉasata de la urbgardistoj −
 
 Intertempe mi ankau trovis 
