@@ -182,19 +182,24 @@ nomon: "Niuve".
 
 Cetere mi havis ideon por 
 du ceteraj potencoj: 
-Legi/Skribi kaj
-Persvadi. 
-
+Legi/Skribi kaj ŝia
+sonĝfluto. 
 La unuan ŝi havas de sia 
-patrino. La dua estas parto 
-de ŝia profesio, en kiu ŝi 
-estas pli bona ol aliaj 
-ŝtelistinoj. 
+patrino. La fluto donadas 
+al aǔskultantoj sonĝoj kun 
+rememorojn supozatajn forgesajn.
+
+La fluto estas aĵo speciala. 
+Ĝi estas markata kun stelo (*) antaŭe, 
+sama kiel magiaj talentoj kaj ĉio alia
+kio aldonas al vi apartajn eblecojn.
 
-Ĉar mi nun povas preni ceteran
-bonan distingilon, mi plue 
-prenas kaŝiri. Kaj nune, mia 
-slipo aspektas tiel: 
+Ĉar mi povas preni ceteran
+bonan distingilon pro mi 
+problemon kon la urbgardistoj, 
+mi plue prenas kaŝiri. 
+
+Kaj nune, mia slipo aspektas tiel:
 
     Niuve
     -----
@@ -202,10 +207,11 @@ slipo aspektas tiel:
     Ŝtelistino ++
     -> Malplenigi poŝojn +
     -> Kaŝiri  +
-    -> Persvadi +
     
     - Legi/Skribi +
     - Fluti +
+
+    * sonĝfluto
     
     ! Ĉasata de la urbgardistoj −
 
