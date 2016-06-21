@@ -113,13 +113,13 @@ preskaŭ preta. Ŝi estas
 Ŝtelistino kaj ŝatas 
 ludi fluton. 
 
-Kaj nun ni bezonas 
-regularojn. Roluloj  
+Kaj nun ni unue bezonas 
+regularojn. Roluloj 
 kiu poste devas ŝangi multon
-havas sep bonajn distingilojn. 
+havas sep bonajn distingilojn.
 
 La profesio estas uno, 
-ĉio ili kapablas estas pluaĵo. 
+ĉio alia ili kapablas estas pluaĵo. 
 
 Kaj se vi volas ke rolulo 
 povas fari ion bonege, tio 
@@ -128,7 +128,7 @@ distingiloj.
 
 Por ekzemplo gravas al mi, ke 
 mia rolulino ne nur estas bona, 
-sed bonega ŝtelistino. 
+sed bonega ŝtelistino.
 
 Kune kun malplenigi poŝoj
 kaj fluti, ŝi tial efektive 
@@ -158,15 +158,15 @@ kaj ĉasas.
 
 Per problemo vi povas elekti 
 aldonan potentecon. Elektu 
-maksimume 2 problemojn.
+maksimume 2 problemojn po ulo.
 
 Pro la problemon kon la 
 urbgardistoj mi povas doni 
 al mi ŝtelistino ne nur 7, 
 sed 8 potentecojn.
 
-En la slipo marku problemojn 
-per krisignoj antaŭe.
+En la slipo marku ĉiun
+problemon per krisigno antaŭe.
 
 Mia slipo nun aspektas tiel: 
 
@@ -184,10 +184,10 @@ Cetere mi havis ideon por
 du ceteraj potencoj: 
 Legi/Skribi kaj ŝia
 sonĝfluto. 
-La unuan ŝi havas de sia 
+Legi/Skribi ŝi lernis de sia 
 patrino. La fluto donadas 
-al aǔskultantoj sonĝoj kun 
-rememorojn supozatajn forgesajn.
+al aǔskultantoj sonĝojn kun 
+rememoroj supozataj forgesaj.
 
 La fluto estas aĵo speciala. 
 Ĝi estas markata kun stelo (*) antaŭe, 
@@ -211,7 +211,7 @@ Kaj nune, mia slipo aspektas tiel:
     - Legi/Skribi +
     - Fluti +
 
-    * sonĝfluto
+    * Sonĝfluto
     
     ! Ĉasata de la urbgardistoj −
 
@@ -224,12 +224,13 @@ la valoron 6 plus 3 je pluso.
 
 Distingiloj kiuj taugas 
 al la profesio estas 3 pli 
-granda ke la profesio. 
+granda ke la profesio.
 
-Kaj aliaj bonaj distingiloj 
+Aliaj bonaj distingiloj 
 estas 9 plus 3 je pluso. 
 
-Problemoj ne bezonas valorojn. 
+Apartaĵoj kaj Problemoj ne 
+bezonas valorojn. 
 
 Kaj tiel via rolulo estas lud-
 ebla. Mia slipo aspektas tiel:
@@ -239,11 +240,12 @@ ebla. Mia slipo aspektas tiel:
     
     Ŝtelistino ++ 12
     -> Malplenigi poŝojn + 15
-    -> Kaŝiri + 15
-    -> Persvadi + 15
+    -> Kaŝiri  + 15
     
     - Legi/Skribi + 12
     - Fluti + 12
+
+    * Sonĝfluto
     
     ! Ĉasata de la urbgardistoj −
 
@@ -268,10 +270,10 @@ demandoj:
 - "Kial vi estas tie?"
 
 - "Kial vi ne havas 
-    alternativon?"
+   alternativon?"
 
-- "Kio vin igas esenca
-    por la grupo?"
+- "Kio vin igas simpatia
+   por la grupo?"
 
 Se vi kune respondas la 
 demandojn, priatentu ke 
@@ -296,9 +298,8 @@ Dume mia slipo:
       Mi lernis nenion;
       „neniam submetiĝu!“.
     
-    * Kial esenca?
-      Povas veni tien, kien
-      neniu alia povas .
+    * Kial simpatia?
+      Mi neniam resignas.
 
 La aliaj en mia grupo 
 estas batalanto, kiu 
