@@ -1,5 +1,5 @@
 
-Kara filo, kara filin’,
+Kara filin’, kara filiĉ’,
 
 Ankoraŭ vi estas tro juna por
 kompreni mian skribaĵon, sed mi
@@ -299,10 +299,10 @@ Dume mia slipo:
       „neniam submetiĝu!“.
     
     * Kial simpatia?
-      Mi neniam resignas.
+      Mi neniam rezignas.
 
 La aliaj en mia grupo 
-estas batalanto, kiu 
+estas batalantino, kiu 
 volas sin liberigi de 
 malhonoro, mago kiu 
 serĉas misteriojn kaj 
@@ -328,8 +328,9 @@ volas nin forteni de li.
 Kaj kun tio ni venas al la
 lasta parto de mia teksto: 
 Testi se iu sukcesas. 
+
+Por tio vi bezonas la kubon. 
 
-Por tio ni bezonas la kubon. 
 
 Ĉiam kiam vi ne scias, se vi
 sukcese faros ion, serĉu en via 
@@ -339,7 +340,7 @@ esti via profesio au unu da
 la aliaj distingiloj. Se vi 
 ne havas iun konvenaton, 
 uzi valoro 3. 
-
+
 Nune ĵetu la kubon. Se la nombro 
 estas para, aldonu ĝin al la 
 valoro de la distingilo. 
@@ -348,35 +349,44 @@ Se ĝi estas nepara, subtrahu
 
 La rezultato montras kiel bone 
 vi faris. 
+
+Ekzemplo: Volas kaŝiri. 
+Mi valoro estas 15. Jetas 3. 
+La rezultato estas 12 (15 minus 3).
 
 Se vi havas subtenulo au ilo, 
 vi ricevas avantaĝo de uno 
-punkto je subtenulo kaj ilo. 
+punkto je subtenulo kaj je ilo. 
 Se vi havas duan konvenatan
 distingilon, ĝi vin aldonas 
-uno punkto avantaĝo je pluso. 
+uno punkton avantaĝon je pluso. 
 
 Se la faro estas simpla, vi 
 bezonas minimume rezultaton 
 kun valoro 9 por sukcesi. 
 
-Se ĝi estas postulema, vi 
+Se ĝi estas forta, vi 
 bezonas minimume valoron 12. 
 Se ĝi estas peza, vi bezonas 15.
+
+Mi kaŝiras flanke de la gardistoj. 
+Estas forta, do mi bezonas rezultadon 12. 
+Jetas 5, tiukaǔze nur havas 10. 
+Kun 2 subtenuloj estus sukcesata.
 
 Se iun ajn volas malhelpi vi, 
-ri ankau ĵetas la kubon. 
+ĝi ankau ĵetas la kubon. 
 
-Se ria rezultato kun valoro 
+Se ĝia rezultato
 estas pli alta ol la via, 
-ri gajnas. 
+ĝi gajnas. 
 
 Se ĝi estis pli malalta, vi gajnas. 
 
 Se ĝi estas samgranda, tiu gajnas 
 kiu ekis. 
 
-Se ri provi malhelpi vin kun 
+Se ĝi provi malhelpi vin kun 
 armo, vi nun legas la armaĵon. 
 
 Ponardo havas valoron 1, 
