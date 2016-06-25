@@ -113,6 +113,8 @@ En la slipo marku ĉiun problemon per krisigno antaŭe. Mia slipo nun aspektas t
     
     - Fluti +
     
+    
+    
     ! Ĉasata de la urbgardistoj −
 
 Intertempe mi ankaŭ trovis nomon: "Niuve". 
@@ -135,7 +137,7 @@ Kaj nune, mia slipo aspektas tiel:
     - Legi/Skribi +
     - Fluti +
 
-    * Sonĝfluto
+    * Sonĝfluto +
     
     ! Ĉasata de la urbgardistoj −
 
@@ -161,7 +163,7 @@ Kaj tiel via rolulo estas lud- ebla. Mia slipo aspektas tiel:
     - Legi/Skribi + 12
     - Fluti + 12
 
-    * Sonĝfluto
+    * Sonĝfluto +
     
     ! Ĉasata de la urbgardistoj −
 

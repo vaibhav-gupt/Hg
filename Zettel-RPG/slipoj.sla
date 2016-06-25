@@ -520,6 +520,8 @@
             <ITEXT CH="- Flu­ti +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
+            <para PARENT="Charzettel Paragraph Style"/>
+            <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <breakframe/>
@@ -558,6 +560,7 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT FONTSIZE="10.5" KERN="0" CH="* Sonĝflu­to"/>
+            <ITEXT CH=" +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
@@ -601,6 +604,7 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT FONTSIZE="10.5" KERN="0" CH="* Sonĝflu­to"/>
+            <ITEXT CH=" +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
