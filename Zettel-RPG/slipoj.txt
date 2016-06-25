@@ -37,7 +37,7 @@ Mia slipo nun aspektas tiel:
 
 Nune mi scias, ke mi volas ludi Ŝtelistino. Sed mi ne scias, kio faras ŝin speciala. 
 
-Laŭnature samas por vi. Ĉiuj de vi havas slipon kun sia profesio antau si. 
+Laŭnature samas por vi. Ĉiuj de vi havas slipon kun sia profesio antaŭ si. 
 
 Tial pripensu nun, en kio via rolulo estas pli bona ol aliaj en sia profesio. 
 
@@ -115,9 +115,9 @@ En la slipo marku ĉiun problemon per krisigno antaŭe. Mia slipo nun aspektas t
     
     ! Ĉasata de la urbgardistoj −
 
-Intertempe mi ankau trovis nomon: "Niuve". 
+Intertempe mi ankaŭ trovis nomon: "Niuve". 
 
-Cetere mi havis ideon por du ceteraj potencoj: Legi/Skribi kaj ŝia sonĝfluto. Legi/Skribi ŝi lernis de sia patrino. La fluto donadas al auskultantoj sonĝojn kun rememoroj supozataj forgesaj. 
+Cetere mi havis ideon por du ceteraj potencoj: Legi/Skribi kaj ŝia sonĝfluto. Legi/Skribi ŝi lernis de sia patrino. La fluto donadas al aŭskultantoj sonĝojn kun rememoroj supozataj forgesaj. 
 
 La fluto estas aĵo speciala. Ĝi estas markata kun stelo (*) antaŭe, sama kiel magiaj talentoj kaj ĉio alia kio aldonas al vi apartajn eblecojn.
 
@@ -227,9 +227,9 @@ Se la faro estas simpla, vi bezonas minimume rezultaton kun valoro 9 por sukcesi
 
 Se ĝi estas forta, vi bezonas minimume valoron 12. Se ĝi estas peza, vi bezonas 15. 
 
-Mi kaŝiras flanke de la gardistoj. Estas forta, do mi bezonas rezultadon 12. Jetas 5, tiukauze nur havas 10. Kun 2 subtenuloj estus sukcesata.
+Mi kaŝiras flanke de la gardistoj. Estas forta, do mi bezonas rezultadon 12. Jetas 5, tiukaŭze nur havas 10. Kun 2 subtenuloj estus sukcesata.
 
-Se iun ajn volas malhelpi vi, ĝi ankau ĵetas la kubon. 
+Se iun ajn volas malhelpi vi, ĝi ankaŭ ĵetas la kubon. 
 
 Se ĝia rezultato estas pli alta ol la via, ĝi gajnas. 
 
@@ -237,7 +237,7 @@ Se ĝi estis pli malalta, vi gajnas.
 
 Se ĝi estas samgranda, tiu gajnas kiu ekis. 
 
-Se vi batalas ĉe tio, vi povas vundi vin. pririgardi viajn armaĵojn por damaĝi kaj protekti. Si damaĝaĵo estas pli forta ke protektaĵo, la perdinto ricevas vundon. Se ambau estas samforta, la perdinto nur ricevas vundon, se la rezultato de la gajninto estas 3 poentoj pli alta ke la ĝia. Se la damaĝaĵo estas malpli forta, gajninto bezonas 6 poentoj pli. 
+Se vi batalas ĉe tio, vi povas vundi vin. pririgardi viajn armaĵojn por damaĝi kaj protekti. Si damaĝaĵo estas pli forta ke protektaĵo, la perdinto ricevas vundon. Se ambaŭ estas samforta, la perdinto nur ricevas vundon, se la rezultato de la gajninto estas 3 poentoj pli alta ke la ĝia. Se la damaĝaĵo estas malpli forta, gajninto bezonas 6 poentoj pli. 
 
 Pugno samfortas kiel ĵinzo, Ponardo kiel ledjako, glavo kiel ĉenarmado, pistolo kiel polickiraso. 
 
@@ -245,7 +245,7 @@ Se vi ricevas vundon, skribu strekon apud via nomo.
 
 Por ĉiun de viajn vundojn viaj valoroj estas 3 punktojn malaltaj. 
 
-La vundo malaperas, se ĝi kuraciĝas. Normala estas 4 semajnoj je vundo au unu eliksiro. 
+La vundo malaperas, se ĝi kuraciĝas. Normala estas 4 semajnoj je vundo aŭ unu eliksiro. 
 
 Kun du vundoj via valoroj estas 6 puentojn malalta. 4 semajnoj poste unu vundo kuraciĝas kaj via valoroj nur estas 6 puentojn malalta. 4 semajnoj plue, la dua vundoj kuraciĝas kaj vi povas denove uzi viajn tutajn valorojn.
 
