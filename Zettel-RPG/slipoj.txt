@@ -61,7 +61,7 @@ kio faras ŝin speciala.
 
 Laŭnature samas por vi. 
 Ĉiuj de vi havas slipon kun 
-sia profesio antaǔ si.
+sia profesio antau si.
 
 Tial pripensu nun, 
 en kio via rolulo 
@@ -186,7 +186,7 @@ Legi/Skribi kaj ŝia
 sonĝfluto. 
 Legi/Skribi ŝi lernis de sia 
 patrino. La fluto donadas 
-al aǔskultantoj sonĝojn kun 
+al auskultantoj sonĝojn kun 
 rememoroj supozataj forgesaj.
 
 La fluto estas aĵo speciala. 
@@ -371,7 +371,7 @@ Se ĝi estas peza, vi bezonas 15.
 
 Mi kaŝiras flanke de la gardistoj. 
 Estas forta, do mi bezonas rezultadon 12. 
-Jetas 5, tiukaǔze nur havas 10. 
+Jetas 5, tiukauze nur havas 10. 
 Kun 2 subtenuloj estus sukcesata.
 
 Se iun ajn volas malhelpi vi, 
@@ -387,7 +387,7 @@ Se ĝi estas samgranda, tiu gajnas
 kiu ekis. 
 
 Se vi batalas ĉe tio, vi povas vundi vin. pririgardi viajn armaĵojn por damaĝi kaj protekti.
-Si damaĝaĵo estas pli forta ke protektaĵo, la perdinto ricevas vundon. Se ambaǔ estas samforta, la perdinto nur ricevas vundon, se la rezultato de la gajninto estas 3 poentoj pli alta ke la ĝia. Se la damaĝaĵo estas malpli forta, gajninto bezonas 6 poentoj pli.
+Si damaĝaĵo estas pli forta ke protektaĵo, la perdinto ricevas vundon. Se ambau estas samforta, la perdinto nur ricevas vundon, se la rezultato de la gajninto estas 3 poentoj pli alta ke la ĝia. Se la damaĝaĵo estas malpli forta, gajninto bezonas 6 poentoj pli.
 
 Pugno samfortas kiel ĵinzo, Ponardo kiel ledjako, 
 glavo kiel ĉenarmado, pistolo kiel polickiraso.
@@ -399,7 +399,7 @@ valoroj estas 3 punktojn malaltaj.
 
 La vundo malaperas, se ĝi 
 kuraciĝas. Normala estas 
-4 semajnoj je vundo aǔ 
+4 semajnoj je vundo au 
 unu eliksiro. 
 
 Kun du vundoj via valoroj estas 6 puentojn malalta. 4 semajnoj poste unu vundo kuraciĝas kaj via valoroj nur estas 6 puentojn malalta. 4 semajnoj plue, la dua vundoj kuraciĝas kaj vi povas denove uzi viajn tutajn valorojn.
