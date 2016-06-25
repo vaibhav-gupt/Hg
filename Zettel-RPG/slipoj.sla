@@ -22,11 +22,11 @@
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" CPARENT="Default Character Style"/>
         <STYLE NAME="Title Paragraph" ALIGN="1" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="10" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" CPARENT="Title Character Style"/>
-        <STYLE NAME="Subtitle Paragraph" ALIGN="1" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" CPARENT="Subtitle Character Style"/>
+        <STYLE NAME="Subtitle Paragraph" ALIGN="1" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="5" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" CPARENT="Subtitle Character Style"/>
         <STYLE NAME="Charzettel Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="8" CPARENT="Charzettel Character Style"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Fanwood Regular" FONTSIZE="10.5" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="German"/>
-        <CHARSTYLE CNAME="Title Character Style" FONT="Fanwood Regular" FONTSIZE="30" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="German"/>
-        <CHARSTYLE CNAME="Subtitle Character Style" FONT="Fanwood Regular" FONTSIZE="16" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="German"/>
+        <CHARSTYLE CNAME="Title Character Style" FONT="Fanwood Regular" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="German"/>
+        <CHARSTYLE CNAME="Subtitle Character Style" FONT="Fanwood Regular" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="German"/>
         <CHARSTYLE CNAME="Charzettel Character Style" FONT="Purisa Bold" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-5" LANGUAGE="German"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="4.94065645841247e-324" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
@@ -344,7 +344,7 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="138.23031496063" YPOS="1069.26440944882" WIDTH="190.435039370079" HEIGHT="253.225118110236" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Text1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 190.435 0 190.435 0 190.435 0 190.435 0 190.435 253.225 190.435 253.225 190.435 253.225 190.435 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 190.435 0 190.435 0 190.435 0 190.435 0 190.435 253.225 190.435 253.225 190.435 253.225 190.435 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="759.1" gHeight="515" LAYER="0" BOOKMARK="0" NEXTITEM="36" BACKITEM="-1">
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ka­ra fi­lo, ka­ra fi­lin’,"/>
+            <ITEXT CH="Ka­ra fi­lin’, ka­ra fi­liĉ’,"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="An­ko­raŭ vi estas tro ju­na por"/>
@@ -362,7 +362,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Mi es­pe­ras ke ĝi hel­pos al vi kiel "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="ĝi hel­pis al mi. "/>
+            <ITEXT CH="ĝi hel­pis al mi."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ne­niam ka­pi­tu­la­cu al vi­vo!"/>
@@ -373,7 +373,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="ek­s­per­ti via­jn fan­ta­zia­jn mondo­jn kun "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="viaj ami­koj. "/>
+            <ITEXT CH="viaj ami­koj."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Vi nur be­zo­nas unu sli­pon, unu "/>
@@ -381,7 +381,7 @@
             <ITEXT CH="ku­bon kaj unu skri­bi­lon por ĉiu per­so­no. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="La sli­po estas por viaj ro­lu­loj. "/>
+            <ITEXT CH="La sli­po estas por viaj ro­lu­loj."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Per ti­uj vi agas en via mondo. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -394,7 +394,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Por fa­ci­li­gi ti­on, ni ekas"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="kun viaj pro­fe­sioj. "/>
+            <ITEXT CH="kun viaj pro­fe­sioj."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ki­on ler­nis viaj ro­lu­loj, "/>
@@ -441,18 +441,22 @@
             <ITEXT CH="Mia sli­po nun aspek­tas tiel: "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ŝte­lis­ti­no"/>
+            <ITEXT KERN="0" CH="Ŝte­lis­ti­no"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Nu­ne mi sci­as, ke mi vo­las lu­di"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ŝte­lis­ti­no. Sed ni ne sci­as, "/>
+            <ITEXT CH="Ŝte­lis­ti­no. Sed mi ne sci­as, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="kio fa­ras ŝin spe­ci­a­la. "/>
+            <ITEXT CH="kio fa­ras ŝin spe­ci­a­la."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Laŭna­ture sa­mas por vi."/>
+            <ITEXT CH="Laŭna­ture sa­mas por vi. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Ĉi­uj de vi ha­vas sli­pon kun "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="sia pro­fe­sio an­tau si."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ti­al pri­pen­su nun, "/>
@@ -483,13 +487,13 @@
             <ITEXT CH="por viaj pro­fe­sioj. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Mia Ŝte­lis­ti­no kun ple­zu­ro"/>
+            <ITEXT CH="Mia ŝte­lis­ti­no kun ple­zu­ro"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="mal­ple­ni­gas la poŝo­jn de"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="aliaj. Ti­al ŝi estas "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="pli bo­na je mal­ple­ni­go de poŝoj. "/>
+            <ITEXT CH="ekstra bo­na je mal­ple­ni­go de poŝoj."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
@@ -504,7 +508,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="sub la pro­fe­sio kaj kun sa­go"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="an­taŭ ĝi, por kla­ri­gi ke ĝi "/>
+            <ITEXT CH="an­taŭ ĝi, por kla­ri­gi ke ĝi"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="apar­ten­as al la pro­fe­sio. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -523,13 +527,13 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ne kon­for­ma al la pro­fe­sio"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="por mi estas flu­ti, ŝia ho­bio. "/>
+            <ITEXT CH="por mi estas flu­ti, ŝia ho­bio."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Mia sli­po nu­ne aspek­tas tio: "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ŝte­lis­ti­no"/>
+            <ITEXT KERN="0" CH="Ŝte­lis­ti­no"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="-&gt; Mal­ple­ni­gi poŝo­jn"/>
             <para PARENT="Charzettel Paragraph Style"/>
@@ -547,18 +551,18 @@
             <ITEXT CH="lu­di flu­ton. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Kaj nun ni be­zo­nas "/>
+            <ITEXT CH="Kaj nun ni un­ue be­zo­nas "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="re­gu­laro­jn. Ro­lu­loj  "/>
+            <ITEXT CH="re­gu­laro­jn. Ro­lu­loj "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="kiu pos­te de­vas ŝan­gi mul­ton"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="ha­vas sep bo­na­jn dis­tin­gi­lo­jn. "/>
+            <ITEXT CH="ha­vas sep bo­na­jn dis­tin­gi­lo­jn."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="La pro­fe­sio estas uno, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="ĉio ili ka­pa­b­las estas pluaĵo. "/>
+            <ITEXT CH="ĉio alia ili ka­pa­b­las estas pluaĵo. "/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
@@ -575,16 +579,20 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="mia ro­lu­li­no ne nur estas bo­na, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="sed bo­ne­ga ŝte­lis­ti­no. "/>
+            <ITEXT CH="sed bo­ne­ga ŝte­lis­ti­no."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ku­ne kun mal­ple­ni­gi poŝoj"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="kaj flu­ti ŝi ti­al efek­ti­ve "/>
+            <ITEXT CH="kaj flu­ti, ŝi ti­al efek­ti­ve "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="ha­vas kvin bo­na­jn "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="dis­tin­gi­lo­jn. "/>
+            <ITEXT CH="dis­tin­gi­lo­jn: 3 por ŝte­lis­ti­no, "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="1 por mal­ple­ni­gi poŝo­jn "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="kaj unu por flu­ti."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
@@ -596,7 +604,7 @@
             <ITEXT CH="Do mia sli­po nun aspek­tas tiel: "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ŝte­lis­ti­no ++"/>
+            <ITEXT KERN="0" CH="Ŝte­lis­ti­no ++"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="-&gt; Mal­ple­ni­gi poŝo­jn +"/>
             <para PARENT="Charzettel Paragraph Style"/>
@@ -621,29 +629,38 @@
             <ITEXT CH="kaj ĉa­sas. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="En la sli­po ni mar­kas la "/>
+            <ITEXT CH="Per pro­blemo vi po­vas elek­ti "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="pro­blem­ojn per kri­si­gnoj"/>
+            <ITEXT CH="al­do­nan po­ten­te­con. Elek­tu "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="an­taŭe. "/>
+            <ITEXT CH="mak­si­mu­me 2 pro­blem­ojn po ulo."/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Pro la pro­blem­on kon la "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="urb­gar­dis­toj mi po­vas do­ni "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="al mi ŝte­lis­ti­no ne nur 7, "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="sed 8 po­ten­te­co­jn."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Pro­blem­oj ha­vas mi­nu­son, ĉar "/>
+            <ITEXT CH="En la sli­po mar­ku ĉi­un"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="vi po­vas pre­ni un ekstran "/>
+            <ITEXT CH="pro­blem­on per kri­si­gno an­taŭe."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="bo­nan dis­tin­gi­lon je pro­blem­on. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Mia sli­po nun aspek­tas tiel: "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ŝte­lis­ti­no ++"/>
+            <ITEXT KERN="0" CH="Ŝte­lis­ti­no ++"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="-&gt; Mal­ple­ni­gi poŝo­jn +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="- Flu­ti +"/>
+            <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
             <para PARENT="Charzettel Paragraph Style"/>
@@ -658,33 +675,42 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="du ce­teraj po­ten­coj: "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Le­gi/Skri­bi kaj"/>
+            <ITEXT CH="Le­gi/Skri­bi kaj ŝia"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Pers­va­di. "/>
+            <ITEXT CH="sonĝflu­to. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Le­gi/Skri­bi ŝi ler­nis de sia "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="pa­tri­no. La flu­to do­na­das "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="al aus­kul­tan­toj sonĝo­jn kun "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="re­me­mo­roj su­po­za­taj for­ge­saj."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="La un­u­an ŝi ha­vas de sia "/>
+            <ITEXT CH="La flu­to estas aĵo spe­ci­a­la. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="pa­tri­no. La dua estas par­to "/>
+            <ITEXT CH="Ĝi estas mar­ka­ta kun ste­lo (*) an­taŭe, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="de ŝia pro­fe­sio, en kiu ŝi "/>
+            <ITEXT CH="sa­ma kiel ma­giaj ta­len­toj kaj ĉio alia"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="estas pli bo­na ol aliaj "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="ŝte­lis­ti­noj. "/>
+            <ITEXT CH="kio al­do­nas al vi apar­ta­jn eble­co­jn."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ĉar mi nun po­vas pre­ni ce­teran"/>
+            <ITEXT CH="Ĉar mi po­vas pre­ni ce­teran"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="bo­nan dis­tin­gi­lon, mi plue "/>
+            <ITEXT CH="bo­nan dis­tin­gi­lon pro mi "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="pren­as kaŝi­ri. Kaj nu­ne, mia "/>
+            <ITEXT CH="pro­blem­on kon la urb­gar­dis­toj, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="sli­po aspek­tas tiel: "/>
+            <ITEXT CH="mi plue pren­as kaŝi­ri. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ni­u­ve"/>
+            <ITEXT CH="Kaj nu­ne, mia sli­po aspek­tas tiel:"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="Ni­u­ve"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="-----"/>
             <para PARENT="Charzettel Paragraph Style"/>
@@ -695,12 +721,13 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="-&gt; Kaŝi­ri  +"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="-&gt; Pers­va­di +"/>
-            <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="- Le­gi/Skri­bi +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="- Flu­ti +"/>
+            <para PARENT="Charzettel Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="* Sonĝflu­to"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
@@ -723,15 +750,17 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="al la pro­fe­sio estas 3 pli "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="gran­da ke la pro­fe­sio. "/>
+            <ITEXT CH="gran­da ke la pro­fe­sio."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Kaj aliaj bo­naj dis­tin­gi­loj "/>
+            <ITEXT CH="Aliaj bo­naj dis­tin­gi­loj "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="estas 9 plus 3 je plu­so. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Pro­blem­oj ne be­zo­nas va­lo­ro­jn. "/>
+            <ITEXT CH="Apar­taĵoj kaj Pro­blem­oj ne "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="be­zo­nas va­lo­ro­jn. "/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
@@ -740,7 +769,7 @@
             <ITEXT CH="ebla. Mia sli­po aspek­tas tiel:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ni­u­ve"/>
+            <ITEXT KERN="0" CH="Ni­u­ve"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="-----"/>
             <para PARENT="Charzettel Paragraph Style"/>
@@ -749,14 +778,15 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="-&gt; Mal­ple­ni­gi poŝo­jn + 15"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="-&gt; Kaŝi­ri + 15"/>
-            <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="-&gt; Pers­va­di + 15"/>
+            <ITEXT CH="-&gt; Kaŝi­ri  + 15"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="- Le­gi/Skri­bi + 12"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="- Flu­ti + 12"/>
+            <para PARENT="Charzettel Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT KERN="0" CH="* Sonĝflu­to"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
@@ -801,13 +831,13 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="- &quot;Ki­al vi ne ha­vas "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="al­ter­na­ti­von?&quot;"/>
-            <para PARENT="Charzettel Paragraph Style"/>
+            <ITEXT CH="   al­ter­na­ti­von?&quot;"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="- &quot;Kio vin igas esen­ca"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="por la gru­po?&quot;"/>
-            <para PARENT="Charzettel Paragraph Style"/>
+            <ITEXT CH="- &quot;Kio vin igas sim­pa­tia"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="   por la gru­po?&quot;"/>
+            <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Se vi ku­ne re­spon­das la "/>
@@ -839,7 +869,7 @@
             <ITEXT CH="Du­me mia sli­po: "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="* Ki­al tie? "/>
+            <ITEXT KERN="0" CH="* Ki­al tie? "/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CH="  Ne­niam reen al ur­baĉo!"/>
             <para PARENT="Charzettel Paragraph Style"/>
@@ -851,17 +881,15 @@
             <ITEXT CH="  „ne­niam sub­me­tiĝu!“."/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="* Ki­al esen­ca?"/>
+            <ITEXT CH="* Ki­al sim­pa­tia?"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="  Po­vas ve­ni ti­en, kien"/>
-            <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="  ne­niu alia po­vas ."/>
+            <ITEXT CH="  Mi ne­niam re­zi­g­nas."/>
             <para PARENT="Charzettel Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="La aliaj en mia gru­po "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="estas ba­ta­lan­to, kiu "/>
+            <ITEXT CH="estas ba­ta­lan­ti­no, kiu "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="vo­las sin li­be­ri­gi de "/>
             <para PARENT="Default Paragraph Style"/>
@@ -909,9 +937,10 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Tes­ti se iu suk­ce­sas. "/>
             <para PARENT="Default Paragraph Style"/>
-            <breakframe/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Por tio ni be­zo­nas la ku­bon. "/>
+            <ITEXT CH="Por tio vi be­zo­nas la ku­bon. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ĉiam kiam vi ne sci­as, se vi"/>
@@ -930,7 +959,6 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="uzi va­lo­ro 3. "/>
             <para PARENT="Default Paragraph Style"/>
-            <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Nu­ne ĵe­tu la ku­bon. Se la nom­bro "/>
             <para PARENT="Default Paragraph Style"/>
@@ -947,19 +975,26 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="vi fa­ris. "/>
             <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Ekzem­plo: Vo­las kaŝi­ri. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Mi va­lo­ro estas 15. Je­tas 3. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="La re­zul­ta­to estas 12 (15 mi­nus 3)."/>
+            <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Se vi ha­vas sub­te­nu­lo au ilo, "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="vi ri­ce­vas avan­taĝo de uno "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="punk­to je sub­te­nu­lo kaj ilo. "/>
+            <ITEXT CH="punk­to je sub­te­nu­lo kaj je ilo. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Se vi ha­vas du­an kon­ve­na­tan"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="dis­tin­gi­lon, ĝi vin al­do­nas "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="uno punk­to avan­taĝo je plu­so. "/>
+            <ITEXT CH="uno punk­ton avan­taĝon je plu­so. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Se la faro estas sim­p­la, vi "/>
@@ -969,24 +1004,33 @@
             <ITEXT CH="kun va­lo­ro 9 por suk­ce­si. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Se ĝi estas pos­tu­le­ma, vi "/>
+            <ITEXT CH="Se ĝi estas for­ta, vi "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="be­zo­nas mi­ni­mu­me va­lo­ron 12. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Se ĝi estas pe­za, vi be­zo­nas 15."/>
             <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Mi kaŝi­ras flan­ke de la gar­dis­toj. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Estas for­ta, do mi be­zo­nas re­zul­ta­don 12. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Je­tas 5, tiu­kau­ze nur ha­vas 10. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Kun 2 sub­te­nu­loj es­tus suk­ce­sa­ta."/>
+            <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Se iun ajn vo­las mal­hel­pi vi, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="ri an­kau ĵe­tas la ku­bon. "/>
+            <ITEXT CH="ĝi an­kau ĵe­tas la ku­bon. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Se ria re­zul­ta­to kun va­lo­ro "/>
+            <ITEXT CH="Se ĝia re­zul­ta­to"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="estas pli al­ta ol la via, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="ri ga­jnas. "/>
+            <ITEXT CH="ĝi ga­jnas. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Se ĝi es­tis pli ma­lal­ta, vi ga­jnas. "/>
@@ -998,38 +1042,23 @@
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Se ri pro­vi mal­hel­pi vin kun "/>
+            <ITEXT CH="Se vi ba­ta­las ĉe tio, vi po­vas vun­di vin. pri­ri­gar­di via­jn ar­maĵo­jn por da­maĝi kaj pro­tek­ti."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="ar­mo, vi nun legas la ar­maĵon. "/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Po­nar­do ha­vas va­lo­ron 1, "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="gla­vo ha­vas 4. "/>
+            <ITEXT CH="Si da­maĝaĵo estas pli for­ta ke pro­tek­taĵo, la per­din­to ri­ce­vas vun­don. Se am­bau estas sam­for­ta, la per­din­to nur ri­ce­vas vun­don, se la re­zul­ta­to de la ga­jn­in­to estas 3 poen­toj pli al­ta ke la ĝia. Se la da­maĝaĵo estas mal­p­li for­ta, ga­jn­in­to be­zo­nas 6 poen­toj pli."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Se la re­zul­to de la ga­jnan­to "/>
+            <ITEXT CH="Pugno sam­for­tas kiel ĵin­zo, Po­nar­do kiel le­d­ja­ko, "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="plus sia ar­mo es­tis 4 au pli "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="punk­toj pli gran­da ke la "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="re­zul­to de la mal­ga­jnan­to, "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="la mal­ga­jnan­to ri­ce­vas un"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="vun­don. "/>
+            <ITEXT CH="gla­vo kiel ĉen­ar­ma­do, pis­to­lo kiel policki­ra­so."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Se tiu estas vi, skri­bu stre­kon"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="apud vi­an no­mon. "/>
+            <ITEXT CH="Se vi ri­ce­vas vun­don, skri­bu stre­kon apud via no­mo."/>
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Por ĉi­un de via­jn vun­do­jn viaj"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="va­lo­roj estas 3 punk­toj ma­lal­taj. "/>
+            <ITEXT CH="va­lo­roj estas 3 punk­to­jn ma­lal­taj. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="La vun­do ma­la­pe­ras, se ĝi "/>
@@ -1040,6 +1069,10 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="unu elik­si­ro. "/>
             <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Kun du vun­doj via va­lo­roj estas 6 puen­to­jn ma­lal­ta. 4 se­ma­jnoj pos­te unu vun­do ku­ra­ciĝas kaj via va­lo­roj nur estas 6 puen­to­jn ma­lal­ta. 4 se­ma­jnoj plue, la dua vun­doj ku­ra­ciĝas kaj vi po­vas de­no­ve uzi via­jn tuta­jn va­lo­ro­jn."/>
+            <para PARENT="Default Paragraph Style"/>
+            <breakframe/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Mul­ta ĝo­jo dum lu­di! "/>
             <para PARENT="Default Paragraph Style"/>
@@ -1111,12 +1144,15 @@
         <PAGEOBJECT OwnPage="30" PTYPE="4" XPOS="172.907609091995" YPOS="13890.4639370079" WIDTH="183.712740187282" HEIGHT="257.212283461815" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-355.5" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 183.713 0 183.713 0 183.713 0 183.713 0 183.713 257.212 183.713 257.212 183.713 257.212 183.713 257.212 0 257.212 0 257.212 0 257.212 0 257.212 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 183.713 0 183.713 0 183.713 0 183.713 0 183.713 257.212 183.713 257.212 183.713 257.212 183.713 257.212 0 257.212 0 257.212 0 257.212 0 257.212 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="74" BACKITEM="55">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="168.032125984252" YPOS="134.804409448819" WIDTH="158.740157480315" HEIGHT="253.2251181" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Text1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 158.74 0 158.74 0 158.74 0 158.74 0 158.74 253.225 158.74 253.225 158.74 253.225 158.74 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 158.741 0 158.741 0 158.741 0 158.741 0 158.741 253.225 158.741 253.225 158.741 253.225 158.741 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CPARENT="Title Character Style" CH="Zet­tel-RPG"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="168.032125984252" YPOS="133.804409448819" WIDTH="158.740157480315" HEIGHT="253.2251181" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Text1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 158.74 0 158.74 0 158.74 0 158.74 0 158.74 253.225 158.74 253.225 158.74 253.225 158.74 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 158.741 0 158.741 0 158.741 0 158.741 0 158.741 253.225 158.741 253.225 158.741 253.225 158.741 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Title Character Style" CH="Sli­poj-R"/>
+            <ITEXT CH="ol­lu­do"/>
             <para PARENT="Title Paragraph" LINESPMode="1"/>
             <para PARENT="Default Paragraph Style" LINESPMode="1"/>
-            <ITEXT CPARENT="Subtitle Character Style" CH="„Was wür­de ich mei­nen Kin­dern hin­ter­las­sen, wenn ich mor­gen ge­hen müss­te?“"/>
-            <trail PARENT="Subtitle Paragraph" LINESPMode="1"/>
+            <ITEXT CH="Ku­ni­gi re­va­do­jn"/>
+            <breakline/>
+            <ITEXT CH="ku­ne kun fi­loj"/>
+            <para PARENT="Subtitle Paragraph" LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="181.611588403117" YPOS="2932.59560744343" WIDTH="124.996062992126" HEIGHT="214.395354330708" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-21" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 124.996 0 124.996 0 124.996 0 124.996 0 124.996 214.395 124.996 214.395 124.996 214.395 124.996 214.395 0 214.395 0 214.395 0 214.395 0 214.395 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 124.996 0 124.996 0 124.996 0 124.996 0 124.996 214.395 124.996 214.395 124.996 214.395 124.996 214.395 0 214.395 0 214.395 0 214.395 0 214.395 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="59" BACKITEM="39">
@@ -1155,7 +1191,7 @@
             <ImageEffect Code="4" Param="27"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="19" PTYPE="4" XPOS="144.38716536126" YPOS="8938.30653533779" WIDTH="130.5" HEIGHT="199.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 130.5 0 130.5 0 130.5 0 130.5 0 130.5 199.5 130.5 199.5 130.5 199.5 130.5 199.5 0 199.5 0 199.5 0 199.5 0 199.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 130.5 0 130.5 0 130.5 0 130.5 0 130.5 199.5 130.5 199.5 130.5 199.5 130.5 199.5 0 199.5 0 199.5 0 199.5 0 199.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="70" BACKITEM="47">
+        <PAGEOBJECT OwnPage="19" PTYPE="4" XPOS="144.38716536126" YPOS="8938.30653533779" WIDTH="130.5" HEIGHT="246.413149701579" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 130.5 0 130.5 0 130.5 0 130.5 0 130.5 246.413 130.5 246.413 130.5 246.413 130.5 246.413 0 246.413 0 246.413 0 246.413 0 246.413 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 130.5 0 130.5 0 130.5 0 130.5 0 130.5 246.413 130.5 246.413 130.5 246.413 130.5 246.413 0 246.413 0 246.413 0 246.413 0 246.413 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="70" BACKITEM="47">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="20" PTYPE="4" XPOS="155.13534667941" YPOS="9315.45279994598" WIDTH="182.25" HEIGHT="224.984617974073" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-1.88558786337381" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 182.25 0 182.25 0 182.25 0 182.25 0 182.25 224.985 182.25 224.985 182.25 224.985 182.25 224.985 0 224.985 0 224.985 0 224.985 0 224.985 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 182.251 0 182.251 0 182.251 0 182.251 0 182.251 224.985 182.251 224.985 182.251 224.985 182.251 224.985 0 224.985 0 224.985 0 224.985 0 224.985 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="48" BACKITEM="69">
@@ -1183,21 +1219,23 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="172.010046539289" YPOS="570.221928546399" WIDTH="168.448988728399" HEIGHT="253.2251181" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-2.07251754762861" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="26" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Text1 (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 168.449 0 168.449 0 168.449 0 168.449 0 168.449 253.225 168.449 253.225 168.449 253.225 168.449 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 168.45 0 168.45 0 168.45 0 168.45 0 168.45 253.225 168.45 253.225 168.45 253.225 168.45 253.225 0 253.225 0 253.225 0 253.225 0 253.225 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CPARENT="Charzettel Character Style" CH="Ein 1w6-Rollenspiel von"/>
+            <ITEXT CPARENT="Charzettel Character Style" CH="E1w6-rol­lu­don "/>
+            <ITEXT CH="de"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CPARENT="Charzettel Character Style" CH="- Arne Babenhauserheide "/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CPARENT="Charzettel Character Style" CH="  (Text, Layout)"/>
+            <ITEXT CPARENT="Charzettel Character Style" CH="  (tek­sto, aranĝo)"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CPARENT="Charzettel Character Style" CH="- Jens Stengel (Fotos) und"/>
+            <ITEXT CPARENT="Charzettel Character Style" CH="- Jens Ŝtengel (fo­toj) und"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CPARENT="Charzettel Character Style" CH="- VHR (Organisation)."/>
-            <para PARENT="Charzettel Paragraph Style"/>
-            <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CPARENT="Charzettel Character Style" CH="Erstveröffentlichung: 2014 zum Gratisrollenspieltag unter GPL."/>
+            <ITEXT CPARENT="Charzettel Character Style" CH="- VHR (or­ga­ni­sa­do)."/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CPARENT="Charzettel Character Style" CH="Infos und Quellen: zettel.1w6.org"/>
+            <ITEXT CPARENT="Charzettel Character Style" CH="Pub­li­ca­ta un­ue: 2016."/>
+            <ITEXT CH=" Li­cen­co: GPL au CC by-sa."/>
+            <para PARENT="Charzettel Paragraph Style"/>
+            <para PARENT="Charzettel Paragraph Style"/>
+            <ITEXT CPARENT="Charzettel Character Style" CH="In­for­moj kaj fon­toj: zettel.1w6.org"/>
             <trail PARENT="Charzettel Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
