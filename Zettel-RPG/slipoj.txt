@@ -28,8 +28,12 @@ Simple pripensu, kion al vi plaĉus travivi. Se poste iu ajn pli plaĉos al vi, 
 Skribu la profesion en vian slipon, kun unu aŭ du blankaj linioj super ĝi. 
 
 Mia slipo nun aspektas tiel: 
+
+
+
 
     Ŝtelistino
+
 
 Nune mi scias, ke mi volas ludi Ŝtelistino. Sed mi ne scias, kio faras ŝin speciala. 
 
@@ -49,12 +53,16 @@ Tio devas esti en via slipo, sub la profesio kaj kun sago antaŭ ĝi, por klarig
 
 Se vi, kiel mi, senĉese trovas novajn ideojn, kiuj ne konformas kun via profesio, simple skribu tiojn pli suben, sed kun nur streko antaŭ ĝi. 
 
-Ne konforma al la profesio por mi estas fluti, ŝia hobio.
+Ne konforma al la profesio por mi estas fluti, ŝia hobio. Mia slipo nune aspektas tiel: 
+
 
-Mia slipo nune aspektas tio: 
+
 
     Ŝtelistino
     -> Malplenigi poŝojn
+
+
+
     
     - Fluti
 
@@ -70,12 +78,16 @@ Por ekzemplo gravas al mi, ke mia rolulino ne nur estas bona, sed bonega ŝtelis
 
 Kune kun malplenigi poŝoj kaj fluti, ŝi tial efektive havas kvin bonajn distingilojn: 3 por ŝtelistino, 1 por malplenigi poŝojn kaj unu por fluti. 
 
-Bonan distingilon ni markas per +, bonegan per ++. 
+Bonan distingilon ni markas per +, bonegan per ++. Do mia slipo nun aspektas tiel: 
+
 
-Do mia slipo nun aspektas tiel: 
+
 
     Ŝtelistino ++
     -> Malplenigi poŝojn +
+
+
+
     
     - Fluti +
 
@@ -87,12 +99,17 @@ Per problemo vi povas elekti aldonan potentecon. Elektu maksimume 2 problemojn p
 
 Pro la problemon kon la urbgardistoj mi povas doni al mi ŝtelistino ne nur 7, sed 8 potentecojn.
 
-En la slipo marku ĉiun problemon per krisigno antaŭe.
+En la slipo marku ĉiun problemon per krisigno antaŭe. Mia slipo nun aspektas tiel: 
 
-Mia slipo nun aspektas tiel: 
+
+
+
 
     Ŝtelistino ++
     -> Malplenigi poŝojn +
+
+
+
     
     - Fluti +
     
@@ -103,9 +120,9 @@ Intertempe mi ankau trovis nomon: "Niuve".
 Cetere mi havis ideon por du ceteraj potencoj: Legi/Skribi kaj ŝia sonĝfluto. Legi/Skribi ŝi lernis de sia patrino. La fluto donadas al auskultantoj sonĝojn kun rememoroj supozataj forgesaj. 
 
 La fluto estas aĵo speciala. Ĝi estas markata kun stelo (*) antaŭe, sama kiel magiaj talentoj kaj ĉio alia kio aldonas al vi apartajn eblecojn.
-
-Ĉar mi povas preni ceteran bonan distingilon pro mi problemon kon la urbgardistoj, mi plue prenas kaŝiri. 
 
+Ĉar mi povas preni ceteran bonan distingilon pro mi problemon kon la urbgardistoj, mi plue prenas kaŝiri. 
+
 Kaj nune, mia slipo aspektas tiel:
 
     Niuve
@@ -130,7 +147,7 @@ Distingiloj kiuj taugas al la profesio estas 3 pli granda ke la profesio.
 
 Aliaj bonaj distingiloj estas 9 plus 3 je pluso. 
 
-Apartaĵoj kaj Problemoj ne bezonas valorojn. 
+Apartaĵoj kaj problemoj ne bezonas valorojn. 
 
 Kaj tiel via rolulo estas lud- ebla. Mia slipo aspektas tiel: 
 
@@ -190,7 +207,7 @@ Ni serĉas kaŝitan riĉaĵon de antikva reĝo, unu el la apogiloj de lia potenc
 
 Esperas ke li ne nin elrevigos. 
 
-Sed nature ekzistas uloj, kiu volas nin forteni de li. 
+Sed nature ekzistas uloj, kiuj volas nin forteni de li. 
 
 Kaj kun tio ni venas al la lasta parto de mia teksto: Testi se iu sukcesas. 
 
