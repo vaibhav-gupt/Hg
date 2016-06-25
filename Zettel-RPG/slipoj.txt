@@ -386,30 +386,24 @@ Se ĝi estis pli malalta, vi gajnas.
 Se ĝi estas samgranda, tiu gajnas 
 kiu ekis. 
 
-Se ĝi provi malhelpi vin kun 
-armo, vi nun legas la armaĵon. 
+Se vi batalas ĉe tio, vi povas vundi vin. pririgardi viajn armaĵojn por damaĝi kaj protekti.
+Si damaĝaĵo estas pli forta ke protektaĵo, la perdinto ricevas vundon. Se ambaǔ estas samforta, la perdinto nur ricevas vundon, se la rezultato de la gajninto estas 3 poentoj pli alta ke la ĝia. Se la damaĝaĵo estas malpli forta, gajninto bezonas 6 poentoj pli.
 
-Ponardo havas valoron 1, 
-glavo havas 4. 
+Pugno samfortas kiel ĵinzo, Ponardo kiel ledjako, 
+glavo kiel ĉenarmado, pistolo kiel polickiraso.
 
-Se la rezulto de la gajnanto 
-plus sia armo estis 4 au pli 
-punktoj pli granda ke la 
-rezulto de la malgajnanto, 
-la malgajnanto ricevas un
-vundon. 
-
-Se tiu estas vi, skribu strekon
-apud vian nomon. 
+Se vi ricevas vundon, skribu strekon apud via nomo.
 
 Por ĉiun de viajn vundojn viaj
-valoroj estas 3 punktoj malaltaj. 
+valoroj estas 3 punktojn malaltaj. 
 
 La vundo malaperas, se ĝi 
 kuraciĝas. Normala estas 
-4 semajnoj je vundo au 
+4 semajnoj je vundo aǔ 
 unu eliksiro. 
 
+Kun du vundoj via valoroj estas 6 puentojn malalta. 4 semajnoj poste unu vundo kuraciĝas kaj via valoroj nur estas 6 puentojn malalta. 4 semajnoj plue, la dua vundoj kuraciĝas kaj vi povas denove uzi viajn tutajn valorojn.
+
 Multa ĝojo dum ludi! 
 
 Vi estas la heroino de via vivo!
