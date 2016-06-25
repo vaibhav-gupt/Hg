@@ -522,7 +522,9 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
+            <ITEXT CH="! Ĉa­sa­ta de la urb­gar-"/>
+            <breakline/>
+            <ITEXT CH="  dis­toj −"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
@@ -563,7 +565,9 @@
             <ITEXT CH=" +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
+            <ITEXT CH="! Ĉa­sa­ta de la urb­gar-"/>
+            <breakline/>
+            <ITEXT CH="  dis­toj −"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
@@ -607,7 +611,9 @@
             <ITEXT CH=" +"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CH="! Ĉa­sa­ta de la urb­gar­dis­toj −"/>
+            <ITEXT CH="! Ĉa­sa­ta de la urb­gar-"/>
+            <breakline/>
+            <ITEXT CH="  dis­toj −"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <breakframe/>
             <para PARENT="Default Paragraph Style"/>
