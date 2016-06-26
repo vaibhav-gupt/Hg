@@ -916,7 +916,8 @@
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CPARENT="Charzettel Character Style" CH="  (tek­sto, aranĝo)"/>
             <para PARENT="Charzettel Paragraph Style"/>
-            <ITEXT CPARENT="Charzettel Character Style" CH="- Jens Ŝtengel (fo­toj) und"/>
+            <ITEXT CPARENT="Charzettel Character Style" CH="- Jens Ŝtengel (fo­toj) "/>
+            <ITEXT CH="kaj"/>
             <para PARENT="Charzettel Paragraph Style"/>
             <ITEXT CPARENT="Charzettel Character Style" CH="- VHR (or­ga­ni­sa­do)."/>
             <para PARENT="Charzettel Paragraph Style"/>
